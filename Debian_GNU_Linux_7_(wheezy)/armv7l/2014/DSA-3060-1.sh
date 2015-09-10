@@ -1,0 +1,34 @@
+#!/bin/sh
+# CYBERWATCH SAS - 2015
+#
+# Security fix for DSA-3060-1
+#
+# Security announcement date: 2014-10-31 00:00:00 UTC
+# Script generation date:     2015-09-10 10:02:19 UTC
+#
+# Operating System: Debian GNU/Linux 7 (wheezy)
+# Architecture: armv7l
+#
+# Vulnerable packages fix on version:
+#   - linux:3.2.63-2+deb7u1
+#
+# Last versions recommanded by security team:
+#   - linux:3.2.63-2+deb7u1
+#
+# CVE List:
+#   - CVE-2014-3610
+#   - CVE-2014-3611
+#   - CVE-2014-3645
+#   - CVE-2014-3646
+#   - CVE-2014-3647
+#   - CVE-2014-3673
+#   - CVE-2014-3687
+#   - CVE-2014-3688
+#   - CVE-2014-3690
+#   - CVE-2014-7207
+#
+# More details:
+#   - https://www.cyberwatch.fr/notices/DSA-3060-1
+#
+# Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade linux=3.2.63-2+deb7u1 -y

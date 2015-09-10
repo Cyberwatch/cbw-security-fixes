@@ -1,0 +1,32 @@
+#!/bin/sh
+# CYBERWATCH SAS - 2015
+#
+# Security fix for DSA-2797-1
+#
+# Security announcement date: 2013-11-13 00:00:00 UTC
+# Script generation date:     2015-09-10 10:01:46 UTC
+#
+# Operating System: Debian GNU/Linux 7 (wheezy)
+# Architecture: armv7l
+#
+# Vulnerable packages fix on version:
+#   - icedove:17.0.10-1~deb7u1
+#
+# Last versions recommanded by security team:
+#   - icedove:31.8.0-1~deb7u1
+#
+# CVE List:
+#   - CVE-2013-5590
+#   - CVE-2013-5595
+#   - CVE-2013-5597
+#   - CVE-2013-5599
+#   - CVE-2013-5600
+#   - CVE-2013-5601
+#   - CVE-2013-5602
+#   - CVE-2013-5604
+#
+# More details:
+#   - https://www.cyberwatch.fr/notices/DSA-2797-1
+#
+# Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade icedove=31.8.0-1~deb7u1 -y

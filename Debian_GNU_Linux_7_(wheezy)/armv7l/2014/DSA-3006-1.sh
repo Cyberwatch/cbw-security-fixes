@@ -1,0 +1,43 @@
+#!/bin/sh
+# CYBERWATCH SAS - 2015
+#
+# Security fix for DSA-3006-1
+#
+# Security announcement date: 2014-08-18 00:00:00 UTC
+# Script generation date:     2015-09-10 10:02:13 UTC
+#
+# Operating System: Debian GNU/Linux 7 (wheezy)
+# Architecture: armv7l
+#
+# Vulnerable packages fix on version:
+#   - xen:4.1.4-3+deb7u2
+#
+# Last versions recommanded by security team:
+#   - xen:4.1.4-3+deb7u2
+#
+# CVE List:
+#   - CVE-2013-1432
+#   - CVE-2013-1442
+#   - CVE-2013-2076
+#   - CVE-2013-2077
+#   - CVE-2013-2078
+#   - CVE-2013-2194
+#   - CVE-2013-2195
+#   - CVE-2013-2196
+#   - CVE-2013-2211
+#   - CVE-2013-4329
+#   - CVE-2013-4355
+#   - CVE-2013-4361
+#   - CVE-2013-4368
+#   - CVE-2013-4494
+#   - CVE-2013-4553
+#   - CVE-2014-1950
+#   - CVE-2014-2599
+#   - CVE-2014-3124
+#   - CVE-2014-4021
+#
+# More details:
+#   - https://www.cyberwatch.fr/notices/DSA-3006-1
+#
+# Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade xen=4.1.4-3+deb7u2 -y
