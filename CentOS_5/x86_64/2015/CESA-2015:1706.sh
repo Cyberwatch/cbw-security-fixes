@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1706
 #
 # Security announcement date: 2015-09-03 10:22:24 UTC
-# Script generation date:     2015-09-10 09:41:21 UTC
+# Script generation date:     2015-09-10 10:09:06 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -29,6 +29,7 @@
 #   - caching-nameserver:9.3.6-25.P1.el5_11.4
 #
 # CVE List:
+#   - CVE-2015-5722
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/CESA-2015:1706

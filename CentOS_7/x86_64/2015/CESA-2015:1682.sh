@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1682
 #
 # Security announcement date: 2015-08-25 22:25:27 UTC
-# Script generation date:     2015-09-10 09:41:20 UTC
+# Script generation date:     2015-09-10 10:09:05 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -15,6 +15,11 @@
 #   - thunderbird:38.2.0-1.el7.centos
 #
 # CVE List:
+#   - CVE-2015-4473
+#   - CVE-2015-4487
+#   - CVE-2015-4488
+#   - CVE-2015-4489
+#   - CVE-2015-4491
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/CESA-2015:1682

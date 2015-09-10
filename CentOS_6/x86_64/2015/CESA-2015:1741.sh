@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1741
 #
 # Security announcement date: 2015-09-08 19:57:39 UTC
-# Script generation date:     2015-09-10 09:41:21 UTC
+# Script generation date:     2015-09-10 10:09:06 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,6 +15,7 @@
 #   - haproxy:1.5.4-2.el6_7.1
 #
 # CVE List:
+#   - CVE-2015-3281
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/CESA-2015:1741

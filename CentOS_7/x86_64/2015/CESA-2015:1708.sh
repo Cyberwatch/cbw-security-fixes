@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1708
 #
 # Security announcement date: 2015-09-03 10:59:18 UTC
-# Script generation date:     2015-09-10 09:41:21 UTC
+# Script generation date:     2015-09-10 10:09:06 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -17,6 +17,9 @@
 #   - libXfont-devel:1.4.7-3.el7_1
 #
 # CVE List:
+#   - CVE-2015-1803
+#   - CVE-2015-1802
+#   - CVE-2015-1804
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/CESA-2015:1708

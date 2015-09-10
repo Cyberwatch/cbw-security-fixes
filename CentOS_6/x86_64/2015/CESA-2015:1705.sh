@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1705
 #
 # Security announcement date: 2015-09-03 10:17:26 UTC
-# Script generation date:     2015-09-10 09:41:21 UTC
+# Script generation date:     2015-09-10 10:09:06 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -25,6 +25,7 @@
 #   - bind-utils:9.8.2-0.37.rc1.el6_7.4
 #
 # CVE List:
+#   - CVE-2015-5722
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/CESA-2015:1705

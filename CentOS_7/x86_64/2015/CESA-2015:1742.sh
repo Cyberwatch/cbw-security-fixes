@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1742
 #
 # Security announcement date: 2015-09-08 21:07:49 UTC
-# Script generation date:     2015-09-10 09:41:21 UTC
+# Script generation date:     2015-09-10 10:09:06 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -35,6 +35,10 @@
 #   - subversion-tools:1.7.14-7.el7_1.1
 #
 # CVE List:
+#   - CVE-2015-0251
+#   - CVE-2015-0248
+#   - CVE-2015-3184
+#   - CVE-2015-3187
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/CESA-2015:1742

@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1694
 #
 # Security announcement date: 2015-08-31 16:41:33 UTC
-# Script generation date:     2015-09-10 09:41:20 UTC
+# Script generation date:     2015-09-10 10:09:05 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -17,6 +17,7 @@
 #   - gdk-pixbuf2-devel:2.24.1-6.el6_7
 #
 # CVE List:
+#   - CVE-2015-4491
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/CESA-2015:1694

@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1695
 #
 # Security announcement date: 2015-09-01 15:35:28 UTC
-# Script generation date:     2015-09-10 09:41:20 UTC
+# Script generation date:     2015-09-10 10:09:05 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -17,6 +17,7 @@
 #   - jakarta-taglibs-standard-javadoc:1.1.1-11.7.el6_7
 #
 # CVE List:
+#   - CVE-2015-0254
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/CESA-2015:1695
