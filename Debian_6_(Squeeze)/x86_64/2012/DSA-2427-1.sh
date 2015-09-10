@@ -4,7 +4,7 @@
 # Security fix for DSA-2427-1
 #
 # Security announcement date: 2012-03-06 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:45 UTC
+# Script generation date:     2015-09-10 12:17:25 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - imagemagick:8:6.6.0.4-3+squeeze1
 #
 # Last versions recommanded by security team:
-#   - imagemagick:8:6.6.0.4-3+squeeze4
+#   - imagemagick:8:6.6.0.4-3+squeeze6
 #
 # CVE List:
 #   - CVE-2012-0247
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2427-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade imagemagick=8:6.6.0.4-3+squeeze4 -y
+sudo apt-get install --only-upgrade imagemagick=8:6.6.0.4-3+squeeze6 -y

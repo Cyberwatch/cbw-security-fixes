@@ -4,7 +4,7 @@
 # Security fix for DSA-2779-1
 #
 # Security announcement date: 2013-10-13 00:00:00 UTC
-# Script generation date:     2015-09-10 10:19:09 UTC
+# Script generation date:     2015-09-10 12:17:48 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libxml2:2.7.8.dfsg-2+squeeze8
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.7.8.dfsg-2+squeeze8
+#   - libxml2:2.7.8.dfsg-2+squeeze12
 #
 # CVE List:
 #   - CVE-2013-2877
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2779-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-2+squeeze8 -y
+sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-2+squeeze12 -y
