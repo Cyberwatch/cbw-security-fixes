@@ -4,7 +4,7 @@
 # Security fix for DLA-281-1
 #
 # Security announcement date: 2015-07-25 00:00:00 UTC
-# Script generation date:     2015-09-10 10:21:47 UTC
+# Script generation date:     2015-09-10 12:20:17 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - expat:2.0.1-7+squeeze2
 #
 # Last versions recommanded by security team:
-#   - expat:2.0.1-7+squeeze1
+#   - expat:2.0.1-7+squeeze2
 #
 # CVE List:
 #   - CVE-2015-1283
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-281-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade expat=2.0.1-7+squeeze1 -y
+sudo apt-get install --only-upgrade expat=2.0.1-7+squeeze2 -y

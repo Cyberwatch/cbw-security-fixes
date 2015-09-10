@@ -4,7 +4,7 @@
 # Security fix for DLA-263-1
 #
 # Security announcement date: 2015-06-30 00:00:00 UTC
-# Script generation date:     2015-09-10 10:21:46 UTC
+# Script generation date:     2015-09-10 12:20:17 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - ruby1.9.1:1.9.2.0-2+deb6u5
 #
 # Last versions recommanded by security team:
-#   - ruby1.9.1:1.9.2.0-2+deb6u2
+#   - ruby1.9.1:1.9.2.0-2+deb6u7
 #
 # CVE List:
 #   - CVE-2012-5371
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-263-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ruby1.9.1=1.9.2.0-2+deb6u2 -y
+sudo apt-get install --only-upgrade ruby1.9.1=1.9.2.0-2+deb6u7 -y

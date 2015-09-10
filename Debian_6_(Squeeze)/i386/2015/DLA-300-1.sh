@@ -4,7 +4,7 @@
 # Security fix for DLA-300-1
 #
 # Security announcement date: 2015-08-26 00:00:00 UTC
-# Script generation date:     2015-09-10 10:21:49 UTC
+# Script generation date:     2015-09-10 12:20:18 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - ruby1.9.1:1.9.2.0-2+deb6u7
 #
 # Last versions recommanded by security team:
-#   - ruby1.9.1:1.9.2.0-2+deb6u2
+#   - ruby1.9.1:1.9.2.0-2+deb6u7
 #
 # CVE List:
 #   - CVE-2009-5147
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-300-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ruby1.9.1=1.9.2.0-2+deb6u2 -y
+sudo apt-get install --only-upgrade ruby1.9.1=1.9.2.0-2+deb6u7 -y
