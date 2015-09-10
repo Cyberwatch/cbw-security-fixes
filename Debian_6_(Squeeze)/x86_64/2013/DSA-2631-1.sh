@@ -4,7 +4,7 @@
 # Security fix for DSA-2631-1
 #
 # Security announcement date: 2013-02-23 00:00:00 UTC
-# Script generation date:     2015-09-10 10:00:58 UTC
+# Script generation date:     2015-09-10 10:18:55 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - squid3:3.1.6-1.2+squeeze3
 #
 # Last versions recommanded by security team:
-#   - squid3:3.1.6-1.2+squeeze5
+#   - squid3:3.1.6-1.2+squeeze3
 #
 # CVE List:
 #   - CVE-2012-5643
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2631-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade squid3=3.1.6-1.2+squeeze5 -y
+sudo apt-get install --only-upgrade squid3=3.1.6-1.2+squeeze3 -y

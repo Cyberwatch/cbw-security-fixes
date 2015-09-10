@@ -4,7 +4,7 @@
 # Security fix for DSA-2286-1
 #
 # Security announcement date: 2011-07-26 00:00:00 UTC
-# Script generation date:     2015-09-10 09:59:47 UTC
+# Script generation date:     2015-09-10 10:18:38 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - phpmyadmin:4:3.3.7-6
 #
 # Last versions recommanded by security team:
-#   - phpmyadmin:4:3.3.7-8
+#   - phpmyadmin:4:3.3.7-7
 #
 # CVE List:
 #   - CVE-2011-2505
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2286-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade phpmyadmin=4:3.3.7-8 -y
+sudo apt-get install --only-upgrade phpmyadmin=4:3.3.7-7 -y

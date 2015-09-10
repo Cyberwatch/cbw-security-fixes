@@ -4,7 +4,7 @@
 # Security fix for DSA-2505-1
 #
 # Security announcement date: 2012-06-29 00:00:00 UTC
-# Script generation date:     2015-09-10 09:59:59 UTC
+# Script generation date:     2015-09-10 10:18:49 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - zendframework:1.10.6-1squeeze1
 #
 # Last versions recommanded by security team:
-#   - zendframework:1.10.6-1squeeze5
+#   - zendframework:1.10.6-1squeeze2
 #
 # CVE List:
 #   - CVE-2012-3363
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2505-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade zendframework=1.10.6-1squeeze5 -y
+sudo apt-get install --only-upgrade zendframework=1.10.6-1squeeze2 -y
