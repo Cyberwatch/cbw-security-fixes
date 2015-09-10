@@ -4,7 +4,7 @@
 # Security fix for DLA-165-1
 #
 # Security announcement date: 2015-03-06 00:00:00 UTC
-# Script generation date:     2015-09-10 10:03:12 UTC
+# Script generation date:     2015-09-10 10:21:41 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - eglibc:2.11.3-4+deb6u5
 #
 # Last versions recommanded by security team:
-#   - eglibc:2.11.3-4+deb6u4
+#   - eglibc:2.11.3-4+deb6u6
 #
 # CVE List:
 #   - CVE-2011-5320
@@ -39,4 +39,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-165-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade eglibc=2.11.3-4+deb6u4 -y
+sudo apt-get install --only-upgrade eglibc=2.11.3-4+deb6u6 -y

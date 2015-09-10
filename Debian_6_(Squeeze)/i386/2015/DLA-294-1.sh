@@ -4,7 +4,7 @@
 # Security fix for DLA-294-1
 #
 # Security announcement date: 2015-08-18 00:00:00 UTC
-# Script generation date:     2015-09-10 10:03:26 UTC
+# Script generation date:     2015-09-10 10:21:48 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - wordpress:3.6.1+dfsg-1~deb6u7
 #
 # Last versions recommanded by security team:
-#   - wordpress:3.6.1+dfsg-1~deb6u7
+#   - wordpress:3.6.1+dfsg-1~deb6u4
 #
 # CVE List:
 #   - CVE-2015-2213
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-294-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb6u7 -y
+sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb6u4 -y

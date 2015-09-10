@@ -4,7 +4,7 @@
 # Security fix for DLA-221-1
 #
 # Security announcement date: 2015-05-16 00:00:00 UTC
-# Script generation date:     2015-09-10 10:03:18 UTC
+# Script generation date:     2015-09-10 10:21:44 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - tiff:3.9.4-5+squeeze12
 #
 # Last versions recommanded by security team:
-#   - tiff:3.9.4-5+squeeze11
+#   - tiff:3.9.4-5+squeeze12
 #
 # CVE List:
 #   - CVE-2014-8128
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-221-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tiff=3.9.4-5+squeeze11 -y
+sudo apt-get install --only-upgrade tiff=3.9.4-5+squeeze12 -y

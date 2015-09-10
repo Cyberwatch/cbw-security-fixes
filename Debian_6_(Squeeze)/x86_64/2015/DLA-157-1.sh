@@ -4,7 +4,7 @@
 # Security fix for DLA-157-1
 #
 # Security announcement date: 2015-02-24 00:00:00 UTC
-# Script generation date:     2015-09-10 10:03:11 UTC
+# Script generation date:     2015-09-10 10:21:41 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - openjdk-6:6b34-1.13.6-1~deb6u1
 #
 # Last versions recommanded by security team:
-#   - openjdk-6:6b33-1.13.5-2~deb6u1
+#   - openjdk-6:6b36-1.13.8-1~deb6u1
 #
 # CVE List:
 #   - CVE-2014-3566
@@ -33,4 +33,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-157-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openjdk-6=6b33-1.13.5-2~deb6u1 -y
+sudo apt-get install --only-upgrade openjdk-6=6b36-1.13.8-1~deb6u1 -y

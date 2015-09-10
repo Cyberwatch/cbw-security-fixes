@@ -4,7 +4,7 @@
 # Security fix for DLA-224-1
 #
 # Security announcement date: 2015-05-18 00:00:00 UTC
-# Script generation date:     2015-09-10 10:03:18 UTC
+# Script generation date:     2015-09-10 10:21:45 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - ruby1.8:1.8.7.302-2squeeze4
 #
 # Last versions recommanded by security team:
-#   - ruby1.8:1.8.7.302-2squeeze3
+#   - ruby1.8:1.8.7.302-2squeeze2
 #
 # CVE List:
 #   - CVE-2015-1855
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-224-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ruby1.8=1.8.7.302-2squeeze3 -y
+sudo apt-get install --only-upgrade ruby1.8=1.8.7.302-2squeeze2 -y

@@ -4,7 +4,7 @@
 # Security fix for DLA-80-1
 #
 # Security announcement date: 2014-10-29 00:00:00 UTC
-# Script generation date:     2015-09-10 10:03:03 UTC
+# Script generation date:     2015-09-10 10:21:36 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libxml2:2.7.8.dfsg-2+squeeze10
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.7.8.dfsg-2+squeeze12
+#   - libxml2:2.7.8.dfsg-2+squeeze8
 #
 # CVE List:
 #   - CVE-2014-3660
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-80-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-2+squeeze12 -y
+sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-2+squeeze8 -y

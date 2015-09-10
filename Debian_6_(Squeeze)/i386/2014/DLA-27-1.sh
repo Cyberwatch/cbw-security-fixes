@@ -4,7 +4,7 @@
 # Security fix for DLA-27-1
 #
 # Security announcement date: 2014-07-31 00:00:00 UTC
-# Script generation date:     2015-09-10 10:03:00 UTC
+# Script generation date:     2015-09-10 10:21:33 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - file:5.04-5+squeeze6
 #
 # Last versions recommanded by security team:
-#   - file:5.04-5+squeeze10
+#   - file:5.04-5+squeeze5
 #
 # CVE List:
 #   - CVE-2014-0207
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-27-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade file=5.04-5+squeeze10 -y
+sudo apt-get install --only-upgrade file=5.04-5+squeeze5 -y
