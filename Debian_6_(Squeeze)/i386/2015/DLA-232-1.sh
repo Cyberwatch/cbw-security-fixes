@@ -4,7 +4,7 @@
 # Security fix for DLA-232-1
 #
 # Security announcement date: 2015-05-28 00:00:00 UTC
-# Script generation date:     2015-09-10 12:20:15 UTC
+# Script generation date:     2015-09-11 18:06:38 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - tomcat6:6.0.41-2+squeeze7
 #
 # Last versions recommanded by security team:
-#   - tomcat6:6.0.41-2+squeeze7
+#   - tomcat6:6.0.35-1+squeeze4
 #
 # CVE List:
 #   - CVE-2014-0227
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-232-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tomcat6=6.0.41-2+squeeze7 -y
+sudo apt-get install --only-upgrade tomcat6=6.0.35-1+squeeze4 -y
