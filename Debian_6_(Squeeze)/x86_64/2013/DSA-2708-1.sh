@@ -4,7 +4,7 @@
 # Security fix for DSA-2708-1
 #
 # Security announcement date: 2013-06-16 00:00:00 UTC
-# Script generation date:     2015-09-10 12:17:42 UTC
+# Script generation date:     2015-09-11 18:03:01 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - fail2ban:0.8.4-3+squeeze2
 #
 # Last versions recommanded by security team:
-#   - fail2ban:0.8.4-3+squeeze3
+#   - fail2ban:0.8.4-3+squeeze2
 #
 # CVE List:
 #   - CVE-2013-2178
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2708-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade fail2ban=0.8.4-3+squeeze3 -y
+sudo apt-get install --only-upgrade fail2ban=0.8.4-3+squeeze2 -y
