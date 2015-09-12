@@ -4,7 +4,7 @@
 # Security fix for DSA-2601-1
 #
 # Security announcement date: 2013-01-06 00:00:00 UTC
-# Script generation date:     2015-09-11 18:02:54 UTC
+# Script generation date:     2015-09-12 06:02:49 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -14,7 +14,7 @@
 #   - gnupg2:2.0.14-2+squeeze1
 #
 # Last versions recommanded by security team:
-#   - gnupg:1.4.10-4+squeeze4
+#   - gnupg:1.4.10-4+squeeze7
 #   - gnupg2:2.0.14-2+squeeze2
 #
 # CVE List:
@@ -24,5 +24,5 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2601-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade gnupg=1.4.10-4+squeeze4 -y
+sudo apt-get install --only-upgrade gnupg=1.4.10-4+squeeze7 -y
 sudo apt-get install --only-upgrade gnupg2=2.0.14-2+squeeze2 -y

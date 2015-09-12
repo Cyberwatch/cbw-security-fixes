@@ -4,7 +4,7 @@
 # Security fix for DSA-2660-1
 #
 # Security announcement date: 2013-04-20 00:00:00 UTC
-# Script generation date:     2015-09-11 18:02:56 UTC
+# Script generation date:     2015-09-12 06:02:51 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - curl:7.21.0-2.1+squeeze3
 #
 # Last versions recommanded by security team:
-#   - curl:7.21.0-2.1+squeeze8
+#   - curl:7.21.0-2.1+squeeze12
 #
 # CVE List:
 #   - CVE-2013-1944
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2660-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade curl=7.21.0-2.1+squeeze8 -y
+sudo apt-get install --only-upgrade curl=7.21.0-2.1+squeeze12 -y

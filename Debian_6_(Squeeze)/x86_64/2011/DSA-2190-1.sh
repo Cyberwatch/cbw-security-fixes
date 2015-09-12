@@ -4,7 +4,7 @@
 # Security fix for DSA-2190-1
 #
 # Security announcement date: 2011-03-11 00:00:00 UTC
-# Script generation date:     2015-09-11 18:02:34 UTC
+# Script generation date:     2015-09-12 06:02:28 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - wordpress:3.0.5+dfsg-0+squeeze1
 #
 # Last versions recommanded by security team:
-#   - wordpress:3.6.1+dfsg-1~deb6u4
+#   - wordpress:3.6.1+dfsg-1~deb6u7
 #
 # CVE List:
 #   - CVE-2011-0700
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2190-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb6u4 -y
+sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb6u7 -y

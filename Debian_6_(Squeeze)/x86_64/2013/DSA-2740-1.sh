@@ -4,7 +4,7 @@
 # Security fix for DSA-2740-1
 #
 # Security announcement date: 2013-08-23 00:00:00 UTC
-# Script generation date:     2015-09-11 18:03:03 UTC
+# Script generation date:     2015-09-12 06:02:57 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - python-django:1.2.3-3+squeeze6
 #
 # Last versions recommanded by security team:
-#   - python-django:1.2.3-3+squeeze10
+#   - python-django:1.2.3-3+squeeze14
 #
 # CVE List:
 #   - CVE-2013-6044
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2740-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.2.3-3+squeeze10 -y
+sudo apt-get install --only-upgrade python-django=1.2.3-3+squeeze14 -y

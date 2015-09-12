@@ -4,7 +4,7 @@
 # Security fix for DSA-2314-1
 #
 # Security announcement date: 2011-09-29 00:00:00 UTC
-# Script generation date:     2015-09-11 18:02:39 UTC
+# Script generation date:     2015-09-12 06:02:35 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - puppet:2.6.2-5+squeeze1
 #
 # Last versions recommanded by security team:
-#   - puppet:2.6.2-5+squeeze9
+#   - puppet:2.6.2-5+squeeze10
 #
 # CVE List:
 #   - CVE-2011-3848
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2314-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade puppet=2.6.2-5+squeeze9 -y
+sudo apt-get install --only-upgrade puppet=2.6.2-5+squeeze10 -y

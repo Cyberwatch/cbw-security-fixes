@@ -4,7 +4,7 @@
 # Security fix for DSA-2718-1
 #
 # Security announcement date: 2013-07-01 00:00:00 UTC
-# Script generation date:     2015-09-11 18:03:01 UTC
+# Script generation date:     2015-09-12 06:02:55 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - wordpress:3.5.2+dfsg-1~deb6u1
 #
 # Last versions recommanded by security team:
-#   - wordpress:3.6.1+dfsg-1~deb6u4
+#   - wordpress:3.6.1+dfsg-1~deb6u7
 #
 # CVE List:
 #   - CVE-2013-2173
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2718-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb6u4 -y
+sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb6u7 -y
