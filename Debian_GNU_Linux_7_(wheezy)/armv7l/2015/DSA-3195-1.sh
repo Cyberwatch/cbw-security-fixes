@@ -4,7 +4,7 @@
 # Security fix for DSA-3195-1
 #
 # Security announcement date: 2015-03-18 00:00:00 UTC
-# Script generation date:     2015-09-10 10:02:32 UTC
+# Script generation date:     2015-09-13 18:03:41 UTC
 #
 # Operating System: Debian GNU/Linux 7 (wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - php5:5.4.38-0+deb7u1
 #
 # Last versions recommanded by security team:
-#   - php5:5.4.44-0+deb7u1
+#   - php5:5.4.45-0+deb7u1
 #
 # CVE List:
 #   - CVE-2014-9705
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3195-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.4.44-0+deb7u1 -y
+sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u1 -y
