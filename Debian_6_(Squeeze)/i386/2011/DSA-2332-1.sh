@@ -4,7 +4,7 @@
 # Security fix for DSA-2332-1
 #
 # Security announcement date: 2011-10-29 00:00:00 UTC
-# Script generation date:     2015-09-12 06:02:36 UTC
+# Script generation date:     2015-09-14 18:02:33 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - python-django:1.2.3-3+squeeze2
 #
 # Last versions recommanded by security team:
-#   - python-django:1.2.3-3+squeeze14
+#   - python-django:1.2.3-3+squeeze10
 #
 # CVE List:
 #   - CVE-2011-4136
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2332-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.2.3-3+squeeze14 -y
+sudo apt-get install --only-upgrade python-django=1.2.3-3+squeeze10 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-2922-1
 #
 # Security announcement date: 2014-05-05 00:00:00 UTC
-# Script generation date:     2015-09-12 06:03:14 UTC
+# Script generation date:     2015-09-14 18:03:13 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - strongswan:4.4.1-5.6
 #
 # Last versions recommanded by security team:
-#   - strongswan:4.4.1-5.7
+#   - strongswan:4.4.1-5.6
 #
 # CVE List:
 #   - CVE-2014-2891
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2922-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade strongswan=4.4.1-5.7 -y
+sudo apt-get install --only-upgrade strongswan=4.4.1-5.6 -y

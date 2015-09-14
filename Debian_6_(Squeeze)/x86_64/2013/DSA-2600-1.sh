@@ -4,7 +4,7 @@
 # Security fix for DSA-2600-1
 #
 # Security announcement date: 2013-01-06 00:00:00 UTC
-# Script generation date:     2015-09-12 06:02:49 UTC
+# Script generation date:     2015-09-14 18:02:43 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - cups:1.4.4-7+squeeze2
 #
 # Last versions recommanded by security team:
-#   - cups:1.4.4-7+squeeze8
+#   - cups:1.4.4-7+squeeze4
 #
 # CVE List:
 #   - CVE-2012-5519
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2600-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade cups=1.4.4-7+squeeze8 -y
+sudo apt-get install --only-upgrade cups=1.4.4-7+squeeze4 -y
