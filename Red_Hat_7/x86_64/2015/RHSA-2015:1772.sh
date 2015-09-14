@@ -1,22 +1,22 @@
 # CYBERWATCH SAS - 2015
 #
-# Security fix for RHSA-2015:1508
+# Security fix for RHSA-2015:1772
 #
-# Security announcement date: 2015-07-27 13:38:44 UTC
-# Script generation date:     2015-09-14 18:16:10 UTC
+# Security announcement date: 2015-09-14 04:27:59 UTC
+# Script generation date:     2015-09-14 18:16:25 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libcacard-devel-rhev:2.1.2-23.el7_1.6
-#   - libcacard-rhev:2.1.2-23.el7_1.6
-#   - libcacard-tools-rhev:2.1.2-23.el7_1.6
-#   - qemu-img-rhev:2.1.2-23.el7_1.6
-#   - qemu-kvm-common-rhev:2.1.2-23.el7_1.6
-#   - qemu-kvm-rhev:2.1.2-23.el7_1.6
-#   - qemu-kvm-rhev-debuginfo:2.1.2-23.el7_1.6
-#   - qemu-kvm-tools-rhev:2.1.2-23.el7_1.6
+#   - libcacard-devel-rhev:2.1.2-23.el7_1.9
+#   - libcacard-rhev:2.1.2-23.el7_1.9
+#   - libcacard-tools-rhev:2.1.2-23.el7_1.9
+#   - qemu-img-rhev:2.1.2-23.el7_1.9
+#   - qemu-kvm-common-rhev:2.1.2-23.el7_1.9
+#   - qemu-kvm-rhev:2.1.2-23.el7_1.9
+#   - qemu-kvm-rhev-debuginfo:2.1.2-23.el7_1.9
+#   - qemu-kvm-tools-rhev:2.1.2-23.el7_1.9
 #
 # Last versions recommanded by security team:
 #   - libcacard-devel-rhev:2.1.2-23.el7_1.9
@@ -29,11 +29,10 @@
 #   - qemu-kvm-tools-rhev:2.1.2-23.el7_1.9
 #
 # CVE List:
-#   - CVE-2015-3214
-#   - CVE-2015-5154
+#   - CVE-2015-5225
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1508
+#   - https://www.cyberwatch.fr/notices/RHSA-2015:1772
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libcacard-devel-rhev-2.1.2 -y 
