@@ -4,7 +4,7 @@
 # Security fix for DLA-203-1
 #
 # Security announcement date: 2015-04-18 00:00:00 UTC
-# Script generation date:     2015-09-10 10:03:16 UTC
+# Script generation date:     2015-09-14 18:06:35 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - openldap:2.4.23-7.3+deb6u1
 #
 # Last versions recommanded by security team:
-#   - openldap:2.4.23-7.3+deb6u1
+#   - openldap:2.4.23-7.3+deb6u2
 #
 # CVE List:
 #   - CVE-2012-1164
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-203-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openldap=2.4.23-7.3+deb6u1 -y
+sudo apt-get install --only-upgrade openldap=2.4.23-7.3+deb6u2 -y

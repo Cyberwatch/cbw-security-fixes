@@ -4,7 +4,7 @@
 # Security fix for DLA-251-1
 #
 # Security announcement date: 2015-06-20 00:00:00 UTC
-# Script generation date:     2015-09-12 06:06:25 UTC
+# Script generation date:     2015-09-14 18:06:38 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - zendframework:1.10.6-1squeeze3
 #
 # Last versions recommanded by security team:
-#   - zendframework:1.10.6-1squeeze5
+#   - zendframework:1.10.6-1squeeze2
 #
 # CVE List:
 #   - CVE-2012-6531
@@ -32,4 +32,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-251-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade zendframework=1.10.6-1squeeze5 -y
+sudo apt-get install --only-upgrade zendframework=1.10.6-1squeeze2 -y

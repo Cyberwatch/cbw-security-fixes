@@ -4,7 +4,7 @@
 # Security fix for DLA-186-1
 #
 # Security announcement date: 2015-04-06 00:00:00 UTC
-# Script generation date:     2015-09-12 06:06:23 UTC
+# Script generation date:     2015-09-14 18:06:34 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - mailman:1:2.1.13-6
 #
 # Last versions recommanded by security team:
-#   - mailman:1:2.1.13-6
+#   - mailman:1:2.1.13-5
 #
 # CVE List:
 #   - CVE-2015-2775
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-186-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mailman=1:2.1.13-6 -y
+sudo apt-get install --only-upgrade mailman=1:2.1.13-5 -y

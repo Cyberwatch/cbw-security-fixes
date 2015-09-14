@@ -4,7 +4,7 @@
 # Security fix for DLA-0022-1
 #
 # Security announcement date: 2014-07-31 00:00:00 UTC
-# Script generation date:     2015-09-12 06:06:14 UTC
+# Script generation date:     2015-09-14 18:06:25 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - cups:1.4.4-7+squeeze6
 #
 # Last versions recommanded by security team:
-#   - cups:1.4.4-7+squeeze8
+#   - cups:1.4.4-7+squeeze4
 #
 # CVE List:
 #   - CVE-2014-3537
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-0022-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade cups=1.4.4-7+squeeze8 -y
+sudo apt-get install --only-upgrade cups=1.4.4-7+squeeze4 -y

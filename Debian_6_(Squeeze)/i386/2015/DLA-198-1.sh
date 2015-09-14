@@ -4,7 +4,7 @@
 # Security fix for DLA-198-1
 #
 # Security announcement date: 2015-04-14 00:00:00 UTC
-# Script generation date:     2015-09-12 06:06:23 UTC
+# Script generation date:     2015-09-14 18:06:35 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - wireshark:1.8.2-5wheezy15~deb6u1
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.8.2-5wheezy16~deb6u1
+#   - wireshark:1.2.11-6+squeeze14
 #
 # CVE List:
 #   - CVE-2015-0563
@@ -38,4 +38,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-198-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wireshark=1.8.2-5wheezy16~deb6u1 -y
+sudo apt-get install --only-upgrade wireshark=1.2.11-6+squeeze14 -y
