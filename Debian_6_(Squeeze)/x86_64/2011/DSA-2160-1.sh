@@ -4,7 +4,7 @@
 # Security fix for DSA-2160-1
 #
 # Security announcement date: 2011-02-13 00:00:00 UTC
-# Script generation date:     2015-09-14 18:02:24 UTC
+# Script generation date:     2015-09-15 06:02:28 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - tomcat6:6.0.28-9+squeeze1
 #
 # Last versions recommanded by security team:
-#   - tomcat6:6.0.35-1+squeeze4
+#   - tomcat6:6.0.41-2+squeeze7
 #
 # CVE List:
 #   - CVE-2010-3718
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2160-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tomcat6=6.0.35-1+squeeze4 -y
+sudo apt-get install --only-upgrade tomcat6=6.0.41-2+squeeze7 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-2870-1
 #
 # Security announcement date: 2014-03-08 00:00:00 UTC
-# Script generation date:     2015-09-14 18:03:07 UTC
+# Script generation date:     2015-09-15 06:03:13 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libyaml-libyaml-perl:0.33-1+squeeze2
 #
 # Last versions recommanded by security team:
-#   - libyaml-libyaml-perl:0.33-1+squeeze3
+#   - libyaml-libyaml-perl:0.33-1+squeeze4
 #
 # CVE List:
 #   - CVE-2013-6393
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2870-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libyaml-libyaml-perl=0.33-1+squeeze3 -y
+sudo apt-get install --only-upgrade libyaml-libyaml-perl=0.33-1+squeeze4 -y
