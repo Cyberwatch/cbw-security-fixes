@@ -4,7 +4,7 @@
 # Security fix for DLA-280-1
 #
 # Security announcement date: 2015-07-25 00:00:00 UTC
-# Script generation date:     2015-09-15 06:06:41 UTC
+# Script generation date:     2015-09-16 18:06:33 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - ghostscript:8.71~dfsg2-9+squeeze2
 #
 # Last versions recommanded by security team:
-#   - ghostscript:8.71~dfsg2-9+squeeze2
+#   - ghostscript:8.71~dfsg2-9+squeeze1
 #
 # CVE List:
 #   - CVE-2015-3228
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-280-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ghostscript=8.71~dfsg2-9+squeeze2 -y
+sudo apt-get install --only-upgrade ghostscript=8.71~dfsg2-9+squeeze1 -y
