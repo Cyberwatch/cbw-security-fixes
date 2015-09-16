@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:1264
 #
 # Security announcement date: 2013-09-16 17:05:26 UTC
-# Script generation date:     2015-09-10 09:45:13 UTC
+# Script generation date:     2015-09-16 06:11:01 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -27,22 +27,22 @@
 #   - kernel-rt-vanilla-devel:3.6.11.5-rt37.55.el6rt
 #
 # Last versions recommanded by security team:
-#   - kernel-rt-doc:3.10.0-229.rt56.158.el6rt
-#   - kernel-rt-firmware:3.10.0-229.rt56.158.el6rt
+#   - kernel-rt-doc:3.10.0-229.rt56.161.el6rt
+#   - kernel-rt-firmware:3.10.0-229.rt56.161.el6rt
 #   - mrg-rt-release:3.8.13-rt14.25.el6rt
-#   - kernel-rt:3.10.0-229.rt56.158.el6rt
-#   - kernel-rt-debug:3.10.0-229.rt56.158.el6rt
-#   - kernel-rt-debug-debuginfo:3.10.0-229.rt56.158.el6rt
-#   - kernel-rt-debug-devel:3.10.0-229.rt56.158.el6rt
-#   - kernel-rt-debuginfo:3.10.0-229.rt56.158.el6rt
-#   - kernel-rt-debuginfo-common-x86_64:3.10.0-229.rt56.158.el6rt
-#   - kernel-rt-devel:3.10.0-229.rt56.158.el6rt
-#   - kernel-rt-trace:3.10.0-229.rt56.158.el6rt
-#   - kernel-rt-trace-debuginfo:3.10.0-229.rt56.158.el6rt
-#   - kernel-rt-trace-devel:3.10.0-229.rt56.158.el6rt
-#   - kernel-rt-vanilla:3.10.0-229.rt56.158.el6rt
-#   - kernel-rt-vanilla-debuginfo:3.10.0-229.rt56.158.el6rt
-#   - kernel-rt-vanilla-devel:3.10.0-229.rt56.158.el6rt
+#   - kernel-rt:3.10.0-229.rt56.161.el6rt
+#   - kernel-rt-debug:3.10.0-229.rt56.161.el6rt
+#   - kernel-rt-debug-debuginfo:3.10.0-229.rt56.161.el6rt
+#   - kernel-rt-debug-devel:3.10.0-229.rt56.161.el6rt
+#   - kernel-rt-debuginfo:3.10.0-229.rt56.161.el6rt
+#   - kernel-rt-debuginfo-common-x86_64:3.10.0-229.rt56.161.el6rt
+#   - kernel-rt-devel:3.10.0-229.rt56.161.el6rt
+#   - kernel-rt-trace:3.10.0-229.rt56.161.el6rt
+#   - kernel-rt-trace-debuginfo:3.10.0-229.rt56.161.el6rt
+#   - kernel-rt-trace-devel:3.10.0-229.rt56.161.el6rt
+#   - kernel-rt-vanilla:3.10.0-229.rt56.161.el6rt
+#   - kernel-rt-vanilla-debuginfo:3.10.0-229.rt56.161.el6rt
+#   - kernel-rt-vanilla-devel:3.10.0-229.rt56.161.el6rt
 #
 # CVE List:
 #   - CVE-2013-2058

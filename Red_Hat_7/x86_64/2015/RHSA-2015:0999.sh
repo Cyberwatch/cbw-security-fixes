@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:0999
 #
 # Security announcement date: 2015-05-13 14:10:01 UTC
-# Script generation date:     2015-09-10 09:47:25 UTC
+# Script generation date:     2015-09-16 06:13:13 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -19,14 +19,14 @@
 #   - libcacard-tools:1.5.3-86.el7_1.2
 #
 # Last versions recommanded by security team:
-#   - libcacard:1.5.3-86.el7_1.5
-#   - qemu-img:1.5.3-86.el7_1.5
-#   - qemu-kvm:1.5.3-86.el7_1.5
-#   - qemu-kvm-common:1.5.3-86.el7_1.5
-#   - qemu-kvm-debuginfo:1.5.3-86.el7_1.5
-#   - qemu-kvm-tools:1.5.3-86.el7_1.5
-#   - libcacard-devel:1.5.3-86.el7_1.5
-#   - libcacard-tools:1.5.3-86.el7_1.5
+#   - libcacard:1.5.3-86.el7_1.6
+#   - qemu-img:1.5.3-86.el7_1.6
+#   - qemu-kvm:1.5.3-86.el7_1.6
+#   - qemu-kvm-common:1.5.3-86.el7_1.6
+#   - qemu-kvm-debuginfo:1.5.3-86.el7_1.6
+#   - qemu-kvm-tools:1.5.3-86.el7_1.6
+#   - libcacard-devel:1.5.3-86.el7_1.6
+#   - libcacard-tools:1.5.3-86.el7_1.6
 #
 # CVE List:
 #   - CVE-2015-3456

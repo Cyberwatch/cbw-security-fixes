@@ -1,27 +1,25 @@
 # CYBERWATCH SAS - 2015
 #
-# Security fix for RHSA-2014:1669
+# Security fix for RHSA-2015:1793
 #
-# Security announcement date: 2014-10-20 18:50:48 UTC
-# Script generation date:     2015-09-16 06:12:18 UTC
+# Security announcement date: 2015-09-15 18:30:18 UTC
+# Script generation date:     2015-09-16 06:13:47 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libcacard:1.5.3-60.el7_0.10
-#   - qemu-guest-agent:1.5.3-60.el7_0.10
-#   - qemu-img:1.5.3-60.el7_0.10
-#   - qemu-kvm:1.5.3-60.el7_0.10
-#   - qemu-kvm-common:1.5.3-60.el7_0.10
-#   - qemu-kvm-debuginfo:1.5.3-60.el7_0.10
-#   - qemu-kvm-tools:1.5.3-60.el7_0.10
-#   - libcacard-devel:1.5.3-60.el7_0.10
-#   - libcacard-tools:1.5.3-60.el7_0.10
+#   - libcacard:1.5.3-86.el7_1.6
+#   - qemu-img:1.5.3-86.el7_1.6
+#   - qemu-kvm:1.5.3-86.el7_1.6
+#   - qemu-kvm-common:1.5.3-86.el7_1.6
+#   - qemu-kvm-debuginfo:1.5.3-86.el7_1.6
+#   - qemu-kvm-tools:1.5.3-86.el7_1.6
+#   - libcacard-devel:1.5.3-86.el7_1.6
+#   - libcacard-tools:1.5.3-86.el7_1.6
 #
 # Last versions recommanded by security team:
 #   - libcacard:1.5.3-86.el7_1.6
-#   - qemu-guest-agent:1.5.3-60.el7_0.10
 #   - qemu-img:1.5.3-86.el7_1.6
 #   - qemu-kvm:1.5.3-86.el7_1.6
 #   - qemu-kvm-common:1.5.3-86.el7_1.6
@@ -31,14 +29,13 @@
 #   - libcacard-tools:1.5.3-86.el7_1.6
 #
 # CVE List:
-#   - CVE-2014-3615
+#   - CVE-2015-5165
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1669
+#   - https://www.cyberwatch.fr/notices/RHSA-2015:1793
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libcacard-1.5.3 -y 
-sudo yum install qemu-guest-agent-1.5.3 -y 
 sudo yum install qemu-img-1.5.3 -y 
 sudo yum install qemu-kvm-1.5.3 -y 
 sudo yum install qemu-kvm-common-1.5.3 -y 
