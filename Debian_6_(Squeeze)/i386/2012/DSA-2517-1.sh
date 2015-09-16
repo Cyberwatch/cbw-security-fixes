@@ -4,7 +4,7 @@
 # Security fix for DSA-2517-1
 #
 # Security announcement date: 2012-07-30 00:00:00 UTC
-# Script generation date:     2015-09-15 06:02:46 UTC
+# Script generation date:     2015-09-16 18:02:45 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - bind9:1:9.7.3.dfsg-1~squeeze6
 #
 # Last versions recommanded by security team:
-#   - bind9:1:9.7.3.dfsg-1~squeeze17
+#   - bind9:1:9.7.3.dfsg-1~squeeze11
 #
 # CVE List:
 #   - CVE-2012-3817
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2517-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade bind9=1:9.7.3.dfsg-1~squeeze17 -y
+sudo apt-get install --only-upgrade bind9=1:9.7.3.dfsg-1~squeeze11 -y

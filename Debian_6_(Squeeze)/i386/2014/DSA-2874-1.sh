@@ -4,7 +4,7 @@
 # Security fix for DSA-2874-1
 #
 # Security announcement date: 2014-03-12 00:00:00 UTC
-# Script generation date:     2015-09-15 06:03:13 UTC
+# Script generation date:     2015-09-16 18:03:11 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - mutt:1.5.20-9+squeeze3
 #
 # Last versions recommanded by security team:
-#   - mutt:1.5.20-9+squeeze4
+#   - mutt:1.5.20-9+squeeze3
 #
 # CVE List:
 #   - CVE-2014-0467
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2874-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mutt=1.5.20-9+squeeze4 -y
+sudo apt-get install --only-upgrade mutt=1.5.20-9+squeeze3 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-2378-1
 #
 # Security announcement date: 2012-01-03 00:00:00 UTC
-# Script generation date:     2015-09-15 06:02:39 UTC
+# Script generation date:     2015-09-16 18:02:36 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - ffmpeg:4:0.5.6-3
 #
 # Last versions recommanded by security team:
-#   - ffmpeg:4:0.5.10-1+deb6u1
+#   - ffmpeg:4:0.5.10-1
 #
 # CVE List:
 #   - CVE-2011-4351
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2378-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ffmpeg=4:0.5.10-1+deb6u1 -y
+sudo apt-get install --only-upgrade ffmpeg=4:0.5.10-1 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-2915-1
 #
 # Security announcement date: 2014-04-28 00:00:00 UTC
-# Script generation date:     2015-09-15 06:03:17 UTC
+# Script generation date:     2015-09-16 18:03:15 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - dpkg:1.15.9
 #
 # Last versions recommanded by security team:
-#   - dpkg:1.15.12
+#   - dpkg:1.15.11
 #
 # CVE List:
 #   - CVE-2014-0471
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2915-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade dpkg=1.15.12 -y
+sudo apt-get install --only-upgrade dpkg=1.15.11 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-2309-1
 #
 # Security announcement date: 2011-09-13 00:00:00 UTC
-# Script generation date:     2015-09-15 06:02:36 UTC
+# Script generation date:     2015-09-16 18:02:33 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - openssl:0.9.8o-4squeeze2
 #
 # Last versions recommanded by security team:
-#   - openssl:0.9.8o-4squeeze21
+#   - openssl:0.9.8o-4squeeze14
 #
 # CVE List:
 #   - CVE-2011-1945
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2309-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze21 -y
+sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze14 -y
