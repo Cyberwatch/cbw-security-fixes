@@ -4,7 +4,7 @@
 # Security fix for DSA-2170-1
 #
 # Security announcement date: 2011-02-18 00:00:00 UTC
-# Script generation date:     2015-09-16 18:02:28 UTC
+# Script generation date:     2015-09-17 06:03:56 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - mailman:1:2.1.13-5
 #
 # Last versions recommanded by security team:
-#   - mailman:1:2.1.13-5
+#   - mailman:1:2.1.13-6
 #
 # CVE List:
 #   - CVE-2010-3089
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2170-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mailman=1:2.1.13-5 -y
+sudo apt-get install --only-upgrade mailman=1:2.1.13-6 -y

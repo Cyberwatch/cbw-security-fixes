@@ -4,7 +4,7 @@
 # Security fix for DSA-2195-1
 #
 # Security announcement date: 2011-03-19 00:00:00 UTC
-# Script generation date:     2015-09-16 18:02:29 UTC
+# Script generation date:     2015-09-17 06:03:57 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - php5:5.3.3-7+squeeze1
 #
 # Last versions recommanded by security team:
-#   - php5:5.3.3-7+squeeze19
+#   - php5:5.3.3.1-7+squeeze27
 #
 # CVE List:
 #   - CVE-2011-0441
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2195-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.3.3-7+squeeze19 -y
+sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze27 -y
