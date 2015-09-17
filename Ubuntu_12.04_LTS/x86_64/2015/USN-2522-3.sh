@@ -4,7 +4,7 @@
 # Security fix for USN-2522-3
 #
 # Security announcement date: 2015-03-10 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:02 UTC
+# Script generation date:     2015-09-17 06:01:59 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libicu48:4.8.1.1-3ubuntu0.5
 #
 # Last versions recommanded by security team:
-#   - libicu48:4.8.1.1-3ubuntu0.5
+#   - libicu48:4.8.1.1-3ubuntu0.6
 #
 # CVE List:
 #   - CVE-2013-1569
@@ -31,4 +31,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2522-3
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libicu48=4.8.1.1-3ubuntu0.5 -y
+sudo apt-get install --only-upgrade libicu48=4.8.1.1-3ubuntu0.6 -y

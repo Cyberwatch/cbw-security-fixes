@@ -4,7 +4,7 @@
 # Security fix for USN-2622-1
 #
 # Security announcement date: 2015-05-26 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:13 UTC
+# Script generation date:     2015-09-17 06:02:10 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - slapd:2.4.28-1.1ubuntu4.5
 #
 # Last versions recommanded by security team:
-#   - slapd:2.4.28-1.1ubuntu4.5
+#   - slapd:2.4.28-1.1ubuntu4.6
 #
 # CVE List:
 #   - CVE-2012-1164
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2622-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade slapd=2.4.28-1.1ubuntu4.5 -y
+sudo apt-get install --only-upgrade slapd=2.4.28-1.1ubuntu4.6 -y

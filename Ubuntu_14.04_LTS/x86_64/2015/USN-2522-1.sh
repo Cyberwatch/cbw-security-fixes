@@ -4,7 +4,7 @@
 # Security fix for USN-2522-1
 #
 # Security announcement date: 2015-03-05 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:02 UTC
+# Script generation date:     2015-09-17 06:01:58 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libicu52:52.1-3ubuntu0.2
 #
 # Last versions recommanded by security team:
-#   - libicu52:52.1-3ubuntu0.3
+#   - libicu52:52.1-3ubuntu0.4
 #
 # CVE List:
 #   - CVE-2013-1569
@@ -31,4 +31,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2522-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libicu52=52.1-3ubuntu0.3 -y
+sudo apt-get install --only-upgrade libicu52=52.1-3ubuntu0.4 -y
