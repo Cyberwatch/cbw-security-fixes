@@ -4,7 +4,7 @@
 # Security fix for DLA-17-1
 #
 # Security announcement date: 2014-07-31 00:00:00 UTC
-# Script generation date:     2015-09-16 18:06:21 UTC
+# Script generation date:     2015-09-17 06:07:42 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - tor:0.2.4.23-1~deb6u1
 #
 # Last versions recommanded by security team:
-#   - tor:0.2.2.39-1
+#   - tor:0.2.4.27-1~deb6u1
 #
 # CVE List:
 #   - CVE-2012-2249
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-17-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tor=0.2.2.39-1 -y
+sudo apt-get install --only-upgrade tor=0.2.4.27-1~deb6u1 -y
