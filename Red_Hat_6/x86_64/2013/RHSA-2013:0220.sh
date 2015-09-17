@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0220
 #
 # Security announcement date: 2013-01-31 22:00:01 UTC
-# Script generation date:     2015-09-10 09:44:37 UTC
+# Script generation date:     2015-09-17 06:14:18 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -54,7 +54,7 @@
 #   - rubygem-activerecord:3.0.13-3.el6op
 #   - rubygem-openshift-origin-auth-remote-user:1.21.1.0-1.el6op
 #   - rubygem-openshift-origin-common:1.28.3.0-1.el6op
-#   - rubygem-openshift-origin-console:1.31.3.1-1.el6op
+#   - rubygem-openshift-origin-console:1.34.1.3-1.el6op
 #   - rubygem-openshift-origin-console-doc:1.0.6-1.el6op
 #   - rubygem-openshift-origin-controller:1.23.10.15-1.el6op
 #   - rubygem-openshift-origin-dns-bind:1.0.2-1.el6op
@@ -102,7 +102,7 @@ sudo yum install ruby193-rubygem-activerecord-doc-3.2.8 -y
 sudo yum install rubygem-activerecord-3.0.13 -y 
 sudo yum install rubygem-openshift-origin-auth-remote-user-1.21.1.0 -y 
 sudo yum install rubygem-openshift-origin-common-1.28.3.0 -y 
-sudo yum install rubygem-openshift-origin-console-1.31.3.1 -y 
+sudo yum install rubygem-openshift-origin-console-1.34.1.3 -y 
 sudo yum install rubygem-openshift-origin-console-doc-1.0.6 -y 
 sudo yum install rubygem-openshift-origin-controller-1.23.10.15 -y 
 sudo yum install rubygem-openshift-origin-dns-bind-1.0.2 -y 

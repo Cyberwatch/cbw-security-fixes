@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1796
 #
 # Security announcement date: 2014-11-03 20:15:35 UTC
-# Script generation date:     2015-09-10 09:46:38 UTC
+# Script generation date:     2015-09-17 06:16:18 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -560,7 +560,7 @@
 #   - rubygem-openshift-origin-admin-console:1.26.2.0-1.el6op
 #   - rubygem-openshift-origin-auth-remote-user:1.21.1.0-1.el6op
 #   - rubygem-openshift-origin-common:1.28.3.0-1.el6op
-#   - rubygem-openshift-origin-console:1.31.3.1-1.el6op
+#   - rubygem-openshift-origin-console:1.34.1.3-1.el6op
 #   - rubygem-openshift-origin-controller:1.23.10.15-1.el6op
 #   - rubygem-openshift-origin-dns-dynect:1.13.1.0-1.el6op
 #   - rubygem-openshift-origin-dns-fog:1.0.1.0-1.el6op
@@ -1031,7 +1031,7 @@ sudo yum install rubygem-file-tail-1.0.5 -y
 sudo yum install rubygem-openshift-origin-admin-console-1.26.2.0 -y 
 sudo yum install rubygem-openshift-origin-auth-remote-user-1.21.1.0 -y 
 sudo yum install rubygem-openshift-origin-common-1.28.3.0 -y 
-sudo yum install rubygem-openshift-origin-console-1.31.3.1 -y 
+sudo yum install rubygem-openshift-origin-console-1.34.1.3 -y 
 sudo yum install rubygem-openshift-origin-controller-1.23.10.15 -y 
 sudo yum install rubygem-openshift-origin-dns-dynect-1.13.1.0 -y 
 sudo yum install rubygem-openshift-origin-dns-fog-1.0.1.0 -y 
