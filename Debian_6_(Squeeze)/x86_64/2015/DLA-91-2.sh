@@ -4,7 +4,7 @@
 # Security fix for DLA-91-2
 #
 # Security announcement date: 2015-01-19 00:00:00 UTC
-# Script generation date:     2015-09-17 06:07:47 UTC
+# Script generation date:     2015-09-19 18:06:24 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - tomcat6:6.0.41-2+squeeze6
 #
 # Last versions recommanded by security team:
-#   - tomcat6:6.0.41-2+squeeze7
+#   - tomcat6:6.0.35-1+squeeze4
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-91-2
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tomcat6=6.0.41-2+squeeze7 -y
+sudo apt-get install --only-upgrade tomcat6=6.0.35-1+squeeze4 -y

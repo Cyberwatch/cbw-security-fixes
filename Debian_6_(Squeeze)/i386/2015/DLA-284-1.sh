@@ -4,7 +4,7 @@
 # Security fix for DLA-284-1
 #
 # Security announcement date: 2015-07-28 00:00:00 UTC
-# Script generation date:     2015-09-17 06:07:53 UTC
+# Script generation date:     2015-09-19 18:06:31 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - apache2:2.2.16-6+squeeze15
 #
 # Last versions recommanded by security team:
-#   - apache2:2.2.16-6+squeeze15
+#   - apache2:2.2.16-6+squeeze11
 #
 # CVE List:
 #   - CVE-2015-3183
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-284-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade apache2=2.2.16-6+squeeze15 -y
+sudo apt-get install --only-upgrade apache2=2.2.16-6+squeeze11 -y
