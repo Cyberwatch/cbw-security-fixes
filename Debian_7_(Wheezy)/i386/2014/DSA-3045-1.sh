@@ -4,7 +4,7 @@
 # Security fix for DSA-3045-1
 #
 # Security announcement date: 2014-10-04 00:00:00 UTC
-# Script generation date:     2015-09-10 10:02:17 UTC
+# Script generation date:     2015-09-19 06:03:24 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - qemu:1.1.2+dfsg-6a+deb7u4
 #
 # Last versions recommanded by security team:
-#   - qemu:1.1.2+dfsg-6a+deb7u9
+#   - qemu:1.1.2+dfsg-6a+deb7u11
 #
 # CVE List:
 #   - CVE-2014-0142
@@ -31,4 +31,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3045-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu=1.1.2+dfsg-6a+deb7u9 -y
+sudo apt-get install --only-upgrade qemu=1.1.2+dfsg-6a+deb7u11 -y

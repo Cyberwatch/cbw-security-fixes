@@ -4,7 +4,7 @@
 # Security fix for DSA-3348-1
 #
 # Security announcement date: 2015-09-02 00:00:00 UTC
-# Script generation date:     2015-09-10 10:02:50 UTC
+# Script generation date:     2015-09-19 06:03:42 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - qemu:1:2.1+dfsg-12+deb8u2
 #
 # Last versions recommanded by security team:
-#   - qemu:1:2.1+dfsg-12+deb8u2
+#   - qemu:1:2.1+dfsg-12+deb8u4
 #
 # CVE List:
 #   - CVE-2015-3214
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3348-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu=1:2.1+dfsg-12+deb8u2 -y
+sudo apt-get install --only-upgrade qemu=1:2.1+dfsg-12+deb8u4 -y
