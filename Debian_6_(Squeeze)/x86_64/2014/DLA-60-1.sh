@@ -4,7 +4,7 @@
 # Security fix for DLA-60-1
 #
 # Security announcement date: 2014-09-24 00:00:00 UTC
-# Script generation date:     2015-09-19 18:06:19 UTC
+# Script generation date:     2015-09-20 06:06:17 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - icinga:1.0.2-2+squeeze2
 #
 # Last versions recommanded by security team:
-#   - icinga:1.0.2-2+squeeze1
+#   - icinga:1.0.2-2+squeeze2
 #
 # CVE List:
 #   - CVE-2013-7108
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-60-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icinga=1.0.2-2+squeeze1 -y
+sudo apt-get install --only-upgrade icinga=1.0.2-2+squeeze2 -y

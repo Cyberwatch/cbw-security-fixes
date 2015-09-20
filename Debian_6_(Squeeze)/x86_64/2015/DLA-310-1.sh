@@ -1,31 +1,31 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2015
 #
-# Security fix for DLA-118-1
+# Security fix for DLA-310-1
 #
-# Security announcement date: 2014-12-21 00:00:00 UTC
-# Script generation date:     2015-09-20 06:06:21 UTC
+# Security announcement date: 2015-09-19 00:00:00 UTC
+# Script generation date:     2015-09-20 06:06:32 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - linux-2.6:2.6.32-48squeeze10
+#   - linux-2.6:2.6.32-48squeeze14
 #
 # Last versions recommanded by security team:
 #   - linux-2.6:2.6.32-48squeeze14
 #
 # CVE List:
-#   - CVE-2014-3185
-#   - CVE-2014-3687
-#   - CVE-2014-3688
-#   - CVE-2014-6410
-#   - CVE-2014-7841
-#   - CVE-2014-8709
-#   - CVE-2014-8884
+#   - CVE-2015-0272
+#   - CVE-2015-5156
+#   - CVE-2015-5364
+#   - CVE-2015-5366
+#   - CVE-2015-5697
+#   - CVE-2015-5707
+#   - CVE-2015-6937
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-118-1
+#   - https://www.cyberwatch.fr/notices/DLA-310-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze14 -y
