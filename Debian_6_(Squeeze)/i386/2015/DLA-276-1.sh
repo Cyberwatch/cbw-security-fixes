@@ -4,7 +4,7 @@
 # Security fix for DLA-276-1
 #
 # Security announcement date: 2015-07-18 00:00:00 UTC
-# Script generation date:     2015-09-20 06:06:30 UTC
+# Script generation date:     2015-09-20 18:06:30 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - inspircd:1.1.22+dfsg-4+squeeze2
 #
 # Last versions recommanded by security team:
-#   - inspircd:1.1.22+dfsg-4+squeeze2
+#   - inspircd:1.1.22+dfsg-4+squeeze1
 #
 # CVE List:
 #   - CVE-2012-6696
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-276-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade inspircd=1.1.22+dfsg-4+squeeze2 -y
+sudo apt-get install --only-upgrade inspircd=1.1.22+dfsg-4+squeeze1 -y

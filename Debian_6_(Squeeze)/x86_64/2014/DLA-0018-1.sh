@@ -4,7 +4,7 @@
 # Security fix for DLA-0018-1
 #
 # Security announcement date: 2014-07-23 00:00:00 UTC
-# Script generation date:     2015-09-20 06:06:15 UTC
+# Script generation date:     2015-09-20 18:06:19 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - php5:5.3.3-7+squeeze21
 #
 # Last versions recommanded by security team:
-#   - php5:5.3.3.1-7+squeeze27
+#   - php5:5.3.3-7+squeeze19
 #
 # CVE List:
 #   - CVE-2014-3515
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-0018-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze27 -y
+sudo apt-get install --only-upgrade php5=5.3.3-7+squeeze19 -y
