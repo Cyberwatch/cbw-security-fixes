@@ -4,7 +4,7 @@
 # Security fix for DSA-2163-1
 #
 # Security announcement date: 2011-02-14 00:00:00 UTC
-# Script generation date:     2015-09-19 18:02:26 UTC
+# Script generation date:     2015-09-20 06:02:33 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - python-django:1.2.3-3+squeeze1
 #
 # Last versions recommanded by security team:
-#   - python-django:1.2.3-3+squeeze10
+#   - python-django:1.2.3-3+squeeze14
 #
 # CVE List:
 #   - CVE-2011-0696
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2163-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.2.3-3+squeeze10 -y
+sudo apt-get install --only-upgrade python-django=1.2.3-3+squeeze14 -y

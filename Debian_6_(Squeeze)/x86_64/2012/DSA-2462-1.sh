@@ -4,7 +4,7 @@
 # Security fix for DSA-2462-1
 #
 # Security announcement date: 2012-04-29 00:00:00 UTC
-# Script generation date:     2015-09-19 18:02:39 UTC
+# Script generation date:     2015-09-20 06:02:46 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - imagemagick:8:6.6.0.4-3+squeeze3
 #
 # Last versions recommanded by security team:
-#   - imagemagick:8:6.6.0.4-3+squeeze4
+#   - imagemagick:8:6.6.0.4-3+squeeze6
 #
 # CVE List:
 #   - CVE-2012-0259
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2462-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade imagemagick=8:6.6.0.4-3+squeeze4 -y
+sudo apt-get install --only-upgrade imagemagick=8:6.6.0.4-3+squeeze6 -y

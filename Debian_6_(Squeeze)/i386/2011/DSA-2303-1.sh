@@ -4,7 +4,7 @@
 # Security fix for DSA-2303-1
 #
 # Security announcement date: 2011-09-08 00:00:00 UTC
-# Script generation date:     2015-09-10 09:59:48 UTC
+# Script generation date:     2015-09-20 06:02:39 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - linux-2.6:2.6.32-35squeeze1
 #
 # Last versions recommanded by security team:
-#   - linux-2.6:2.6.32-48squeeze13
+#   - linux-2.6:2.6.32-48squeeze14
 #
 # CVE List:
 #   - CVE-2011-1020
@@ -39,4 +39,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2303-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze13 -y
+sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze14 -y
