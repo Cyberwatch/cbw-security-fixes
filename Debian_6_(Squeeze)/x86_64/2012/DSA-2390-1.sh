@@ -4,7 +4,7 @@
 # Security fix for DSA-2390-1
 #
 # Security announcement date: 2012-01-15 00:00:00 UTC
-# Script generation date:     2015-09-20 06:02:42 UTC
+# Script generation date:     2015-09-20 18:02:43 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - openssl:0.9.8o-4squeeze5
 #
 # Last versions recommanded by security team:
-#   - openssl:0.9.8o-4squeeze21
+#   - openssl:0.9.8o-4squeeze14
 #
 # CVE List:
 #   - CVE-2011-4108
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2390-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze21 -y
+sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze14 -y

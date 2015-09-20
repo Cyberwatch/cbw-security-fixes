@@ -4,7 +4,7 @@
 # Security fix for DSA-2354-1
 #
 # Security announcement date: 2011-11-28 00:00:00 UTC
-# Script generation date:     2015-09-20 06:02:41 UTC
+# Script generation date:     2015-09-20 18:02:42 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - cups:1.4.4-7+squeeze1
 #
 # Last versions recommanded by security team:
-#   - cups:1.4.4-7+squeeze8
+#   - cups:1.4.4-7+squeeze4
 #
 # CVE List:
 #   - CVE-2011-2896
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2354-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade cups=1.4.4-7+squeeze8 -y
+sudo apt-get install --only-upgrade cups=1.4.4-7+squeeze4 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-2738-1
 #
 # Security announcement date: 2013-08-18 00:00:00 UTC
-# Script generation date:     2015-09-20 06:03:02 UTC
+# Script generation date:     2015-09-20 18:03:04 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - ruby1.9.1:1.9.2.0-2+deb6u1
 #
 # Last versions recommanded by security team:
-#   - ruby1.9.1:1.9.2.0-2+deb6u7
+#   - ruby1.9.1:1.9.2.0-2+deb6u2
 #
 # CVE List:
 #   - CVE-2013-1821
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2738-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ruby1.9.1=1.9.2.0-2+deb6u7 -y
+sudo apt-get install --only-upgrade ruby1.9.1=1.9.2.0-2+deb6u2 -y
