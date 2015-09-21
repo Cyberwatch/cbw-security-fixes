@@ -1,25 +1,25 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2015
 #
-# Security fix for DLA-308-1
+# Security fix for DLA-312-1
 #
-# Security announcement date: 2015-09-09 00:00:00 UTC
+# Security announcement date: 2015-09-20 00:00:00 UTC
 # Script generation date:     2015-09-21 06:06:39 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - bind9:1:9.7.3.dfsg-1~squeeze17
+#   - libtorrent-rasterbar:0.14.10-2+deb6u1
 #
 # Last versions recommanded by security team:
-#   - bind9:1:9.7.3.dfsg-1~squeeze17
+#   - libtorrent-rasterbar:0.14.10-2+deb6u1
 #
 # CVE List:
-#   - CVE-2015-5722
+#   - CVE-2015-5685
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-308-1
+#   - https://www.cyberwatch.fr/notices/DLA-312-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade bind9=1:9.7.3.dfsg-1~squeeze17 -y
+sudo apt-get install --only-upgrade libtorrent-rasterbar=0.14.10-2+deb6u1 -y

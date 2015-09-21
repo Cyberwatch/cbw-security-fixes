@@ -4,7 +4,7 @@
 # Security fix for DLA-100-1
 #
 # Security announcement date: 2014-12-05 00:00:00 UTC
-# Script generation date:     2015-09-20 18:06:23 UTC
+# Script generation date:     2015-09-21 06:06:27 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - mutt:1.5.20-9+squeeze4
 #
 # Last versions recommanded by security team:
-#   - mutt:1.5.20-9+squeeze3
+#   - mutt:1.5.20-9+squeeze4
 #
 # CVE List:
 #   - CVE-2014-9116
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-100-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mutt=1.5.20-9+squeeze3 -y
+sudo apt-get install --only-upgrade mutt=1.5.20-9+squeeze4 -y

@@ -4,7 +4,7 @@
 # Security fix for DLA-268-1
 #
 # Security announcement date: 2015-07-05 00:00:00 UTC
-# Script generation date:     2015-09-20 18:06:30 UTC
+# Script generation date:     2015-09-21 06:06:37 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - virtualbox-ose:3.2.10-dfsg-1+squeeze4
 #
 # Last versions recommanded by security team:
-#   - virtualbox-ose:3.2.10-dfsg-1+squeeze3
+#   - virtualbox-ose:3.2.10-dfsg-1+squeeze4
 #
 # CVE List:
 #   - CVE-2015-0377
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-268-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade virtualbox-ose=3.2.10-dfsg-1+squeeze3 -y
+sudo apt-get install --only-upgrade virtualbox-ose=3.2.10-dfsg-1+squeeze4 -y
