@@ -4,7 +4,7 @@
 # Security fix for DLA-212-1
 #
 # Security announcement date: 2015-04-29 00:00:00 UTC
-# Script generation date:     2015-09-22 06:06:49 UTC
+# Script generation date:     2015-09-22 18:06:45 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - php5:5.3.3.1-7+squeeze26
 #
 # Last versions recommanded by security team:
-#   - php5:5.3.3-7+squeeze19
+#   - php5:5.3.3.1-7+squeeze27
 #
 # CVE List:
 #   - CVE-2014-9705
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-212-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.3.3-7+squeeze19 -y
+sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze27 -y

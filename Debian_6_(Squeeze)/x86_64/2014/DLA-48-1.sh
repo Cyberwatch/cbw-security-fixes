@@ -4,7 +4,7 @@
 # Security fix for DLA-48-1
 #
 # Security announcement date: 2014-09-05 00:00:00 UTC
-# Script generation date:     2015-09-22 06:06:41 UTC
+# Script generation date:     2015-09-22 18:06:37 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - bind9:1:9.7.3.dfsg-1~squeeze12
 #
 # Last versions recommanded by security team:
-#   - bind9:1:9.7.3.dfsg-1~squeeze11
+#   - bind9:1:9.7.3.dfsg-1~squeeze17
 #
 # CVE List:
 #   - CVE-2014-0591
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-48-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade bind9=1:9.7.3.dfsg-1~squeeze11 -y
+sudo apt-get install --only-upgrade bind9=1:9.7.3.dfsg-1~squeeze17 -y
