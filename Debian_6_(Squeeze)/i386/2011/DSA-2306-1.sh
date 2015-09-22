@@ -4,7 +4,7 @@
 # Security fix for DSA-2306-1
 #
 # Security announcement date: 2011-09-11 00:00:00 UTC
-# Script generation date:     2015-09-21 06:02:32 UTC
+# Script generation date:     2015-09-22 06:02:40 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - ffmpeg:4:0.5.4-1
 #
 # Last versions recommanded by security team:
-#   - ffmpeg:4:0.5.10-1+deb6u1
+#   - ffmpeg:4:0.5.10-1
 #
 # CVE List:
 #   - CVE-2010-3908
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2306-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ffmpeg=4:0.5.10-1+deb6u1 -y
+sudo apt-get install --only-upgrade ffmpeg=4:0.5.10-1 -y
