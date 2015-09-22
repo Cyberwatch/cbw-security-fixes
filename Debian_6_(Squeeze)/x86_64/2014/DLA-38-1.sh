@@ -4,7 +4,7 @@
 # Security fix for DLA-38-1
 #
 # Security announcement date: 2014-08-20 00:00:00 UTC
-# Script generation date:     2015-09-21 06:06:24 UTC
+# Script generation date:     2015-09-22 06:06:41 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - wireshark:1.2.11-6+squeeze15
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.8.2-5wheezy16~deb6u1
+#   - wireshark:1.2.11-6+squeeze14
 #
 # CVE List:
 #   - CVE-2014-5161
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-38-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wireshark=1.8.2-5wheezy16~deb6u1 -y
+sudo apt-get install --only-upgrade wireshark=1.2.11-6+squeeze14 -y
