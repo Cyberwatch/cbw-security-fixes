@@ -4,7 +4,7 @@
 # Security fix for DSA-2470-1
 #
 # Security announcement date: 2012-05-11 00:00:00 UTC
-# Script generation date:     2015-09-22 06:02:48 UTC
+# Script generation date:     2015-09-22 18:02:49 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - wordpress:3.3.2+dfsg-1~squeeze1
 #
 # Last versions recommanded by security team:
-#   - wordpress:3.6.1+dfsg-1~deb6u4
+#   - wordpress:3.6.1+dfsg-1~deb6u7
 #
 # CVE List:
 #   - CVE-2011-3122
@@ -36,4 +36,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2470-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb6u4 -y
+sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb6u7 -y

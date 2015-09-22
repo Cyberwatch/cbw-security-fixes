@@ -4,7 +4,7 @@
 # Security fix for DSA-2451-1
 #
 # Security announcement date: 2012-04-13 00:00:00 UTC
-# Script generation date:     2015-09-22 06:02:47 UTC
+# Script generation date:     2015-09-22 18:02:48 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - puppet:2.6.2-5+squeeze5
 #
 # Last versions recommanded by security team:
-#   - puppet:2.6.2-5+squeeze9
+#   - puppet:2.6.2-5+squeeze10
 #
 # CVE List:
 #   - CVE-2012-1906
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2451-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade puppet=2.6.2-5+squeeze9 -y
+sudo apt-get install --only-upgrade puppet=2.6.2-5+squeeze10 -y
