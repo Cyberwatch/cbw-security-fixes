@@ -4,7 +4,7 @@
 # Security fix for USN-2702-2
 #
 # Security announcement date: 2015-08-11 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:22 UTC
+# Script generation date:     2015-09-23 06:02:19 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - xul-ext-ubufox:3.1-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - xul-ext-ubufox:3.1-0ubuntu0.14.04.1
+#   - xul-ext-ubufox:3.2-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2015-4473
@@ -38,4 +38,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2702-2
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade xul-ext-ubufox=3.1-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade xul-ext-ubufox=3.2-0ubuntu0.14.04.1 -y

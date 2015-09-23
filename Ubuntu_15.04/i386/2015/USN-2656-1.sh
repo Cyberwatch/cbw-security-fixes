@@ -4,7 +4,7 @@
 # Security fix for USN-2656-1
 #
 # Security announcement date: 2015-07-09 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:19 UTC
+# Script generation date:     2015-09-23 06:02:16 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox:39.0+build5-0ubuntu0.15.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:40.0.3+build1-0ubuntu0.15.04.1
+#   - firefox:41.0+build3-0ubuntu0.15.04.1
 #
 # CVE List:
 #   - CVE-2015-2721
@@ -42,4 +42,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2656-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=40.0.3+build1-0ubuntu0.15.04.1 -y
+sudo apt-get install --only-upgrade firefox=41.0+build3-0ubuntu0.15.04.1 -y

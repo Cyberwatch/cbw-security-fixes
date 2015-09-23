@@ -4,7 +4,7 @@
 # Security fix for USN-2538-1
 #
 # Security announcement date: 2015-03-22 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:04 UTC
+# Script generation date:     2015-09-23 06:02:02 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox:36.0.4+build1-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:40.0.3+build1-0ubuntu0.14.04.1
+#   - firefox:41.0+build3-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2015-0817
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2538-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=40.0.3+build1-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade firefox=41.0+build3-0ubuntu0.14.04.1 -y
