@@ -4,7 +4,7 @@
 # Security fix for DLA-236-1
 #
 # Security announcement date: 2015-06-01 00:00:00 UTC
-# Script generation date:     2015-09-22 18:06:46 UTC
+# Script generation date:     2015-09-23 18:07:43 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - wordpress:3.6.1+dfsg-1~deb6u6
 #
 # Last versions recommanded by security team:
-#   - wordpress:3.6.1+dfsg-1~deb6u7
+#   - wordpress:3.6.1+dfsg-1~deb6u4
 #
 # CVE List:
 #   - CVE-2014-9031
@@ -32,4 +32,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-236-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb6u7 -y
+sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb6u4 -y

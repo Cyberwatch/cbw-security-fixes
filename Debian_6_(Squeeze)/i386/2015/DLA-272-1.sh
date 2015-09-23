@@ -4,7 +4,7 @@
 # Security fix for DLA-272-1
 #
 # Security announcement date: 2015-07-16 00:00:00 UTC
-# Script generation date:     2015-09-22 18:06:49 UTC
+# Script generation date:     2015-09-23 18:07:44 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - python-django:1.2.3-3+squeeze13
 #
 # Last versions recommanded by security team:
-#   - python-django:1.2.3-3+squeeze14
+#   - python-django:1.2.3-3+squeeze10
 #
 # CVE List:
 #   - CVE-2015-2317
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-272-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.2.3-3+squeeze14 -y
+sudo apt-get install --only-upgrade python-django=1.2.3-3+squeeze10 -y

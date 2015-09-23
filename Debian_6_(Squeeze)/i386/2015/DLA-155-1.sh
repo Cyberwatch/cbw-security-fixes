@@ -4,7 +4,7 @@
 # Security fix for DLA-155-1
 #
 # Security announcement date: 2015-02-18 00:00:00 UTC
-# Script generation date:     2015-09-20 06:06:23 UTC
+# Script generation date:     2015-09-23 18:07:39 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - linux-2.6:2.6.32-48squeeze11
 #
 # Last versions recommanded by security team:
-#   - linux-2.6:2.6.32-48squeeze14
+#   - linux-2.6:2.6.32-48squeeze6
 #
 # CVE List:
 #   - CVE-2013-6885
@@ -31,4 +31,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-155-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze14 -y
+sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze6 -y
