@@ -4,7 +4,7 @@
 # Security fix for DSA-2602-1
 #
 # Security announcement date: 2013-01-08 00:00:00 UTC
-# Script generation date:     2015-09-22 18:02:54 UTC
+# Script generation date:     2015-09-23 18:03:09 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - zendframework:1.10.6-1squeeze2
 #
 # Last versions recommanded by security team:
-#   - zendframework:1.10.6-1squeeze5
+#   - zendframework:1.10.6-1squeeze2
 #
 # CVE List:
 #   - CVE-2012-5657
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2602-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade zendframework=1.10.6-1squeeze5 -y
+sudo apt-get install --only-upgrade zendframework=1.10.6-1squeeze2 -y

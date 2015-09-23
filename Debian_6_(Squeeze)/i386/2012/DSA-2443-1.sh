@@ -4,7 +4,7 @@
 # Security fix for DSA-2443-1
 #
 # Security announcement date: 2012-03-26 00:00:00 UTC
-# Script generation date:     2015-09-20 06:02:45 UTC
+# Script generation date:     2015-09-23 18:03:00 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - linux-2.6:2.6.32-41squeeze2
 #
 # Last versions recommanded by security team:
-#   - linux-2.6:2.6.32-48squeeze14
+#   - linux-2.6:2.6.32-48squeeze6
 #
 # CVE List:
 #   - CVE-2009-4307
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2443-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze14 -y
+sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze6 -y
