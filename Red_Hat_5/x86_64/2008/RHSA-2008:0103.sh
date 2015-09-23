@@ -3,7 +3,7 @@
 # Security fix for RHSA-2008:0103
 #
 # Security announcement date: 2008-02-08 02:52:57 UTC
-# Script generation date:     2015-09-10 09:41:31 UTC
+# Script generation date:     2015-09-23 06:08:33 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - firefox-devel:1.5.0.12-9.el5
 #
 # Last versions recommanded by security team:
-#   - firefox:38.2.1-1.el5_11
-#   - firefox-debuginfo:38.2.1-1.el5_11
+#   - firefox:38.3.0-2.el5_11
+#   - firefox-debuginfo:38.3.0-2.el5_11
 #   - firefox-devel:1.5.0.12-15.el5_1
 #
 # CVE List:
@@ -33,6 +33,6 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2008:0103
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.2.1 -y 
-sudo yum install firefox-debuginfo-38.2.1 -y 
+sudo yum install firefox-38.3.0 -y 
+sudo yum install firefox-debuginfo-38.3.0 -y 
 sudo yum install firefox-devel-1.5.0.12 -y 

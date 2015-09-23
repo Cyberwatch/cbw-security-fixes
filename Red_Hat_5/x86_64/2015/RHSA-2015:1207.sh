@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1207
 #
 # Security announcement date: 2015-07-03 05:54:14 UTC
-# Script generation date:     2015-09-10 09:47:34 UTC
+# Script generation date:     2015-09-23 06:14:32 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - firefox-debuginfo:38.1.0-1.el5_11
 #
 # Last versions recommanded by security team:
-#   - firefox:38.2.1-1.el5_11
-#   - firefox-debuginfo:38.2.1-1.el5_11
+#   - firefox:38.3.0-2.el5_11
+#   - firefox-debuginfo:38.3.0-2.el5_11
 #
 # CVE List:
 #   - CVE-2015-2722
@@ -39,5 +39,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1207
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.2.1 -y 
-sudo yum install firefox-debuginfo-38.2.1 -y 
+sudo yum install firefox-38.3.0 -y 
+sudo yum install firefox-debuginfo-38.3.0 -y 

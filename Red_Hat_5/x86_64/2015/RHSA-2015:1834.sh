@@ -1,32 +1,28 @@
 # CYBERWATCH SAS - 2015
 #
-# Security fix for RHSA-2014:0448
+# Security fix for RHSA-2015:1834
 #
-# Security announcement date: 2014-04-29 22:47:48 UTC
-# Script generation date:     2015-09-23 06:12:45 UTC
+# Security announcement date: 2015-09-22 18:18:46 UTC
+# Script generation date:     2015-09-23 06:14:58 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:24.5.0-1.el5_10
-#   - firefox-debuginfo:24.5.0-1.el5_10
+#   - firefox:38.3.0-2.el5_11
+#   - firefox-debuginfo:38.3.0-2.el5_11
 #
 # Last versions recommanded by security team:
 #   - firefox:38.3.0-2.el5_11
 #   - firefox-debuginfo:38.3.0-2.el5_11
 #
 # CVE List:
-#   - CVE-2014-1518
-#   - CVE-2014-1523
-#   - CVE-2014-1524
-#   - CVE-2014-1529
-#   - CVE-2014-1530
-#   - CVE-2014-1531
-#   - CVE-2014-1532
+#   - CVE-2015-4500
+#   - CVE-2015-4509
+#   - CVE-2015-4510
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:0448
+#   - https://www.cyberwatch.fr/notices/RHSA-2015:1834
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install firefox-38.3.0 -y 

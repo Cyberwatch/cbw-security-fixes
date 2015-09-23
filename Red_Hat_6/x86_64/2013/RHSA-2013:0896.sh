@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0896
 #
 # Security announcement date: 2013-06-03 17:47:36 UTC
-# Script generation date:     2015-09-10 09:44:55 UTC
+# Script generation date:     2015-09-23 06:11:57 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - qemu-guest-agent-win32:0.12.1.2-2.355.el6_4.5
 #
 # Last versions recommanded by security team:
-#   - qemu-guest-agent:0.12.1.2-2.448.el6_6.4
-#   - qemu-img:0.12.1.2-2.448.el6_6.4
-#   - qemu-kvm:0.12.1.2-2.448.el6_6.4
-#   - qemu-kvm-debuginfo:0.12.1.2-2.448.el6_6.4
-#   - qemu-kvm-tools:0.12.1.2-2.448.el6_6.4
+#   - qemu-guest-agent:0.12.1.2-2.479.el6_7.1
+#   - qemu-img:0.12.1.2-2.479.el6_7.1
+#   - qemu-kvm:0.12.1.2-2.479.el6_7.1
+#   - qemu-kvm-debuginfo:0.12.1.2-2.479.el6_7.1
+#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.1
 #   - qemu-guest-agent-win32:0.12.1.2-2.355.el6_4.6
 #
 # CVE List:

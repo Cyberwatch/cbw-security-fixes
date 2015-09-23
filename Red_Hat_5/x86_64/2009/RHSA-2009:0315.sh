@@ -3,7 +3,7 @@
 # Security fix for RHSA-2009:0315
 #
 # Security announcement date: 2009-03-05 00:19:56 UTC
-# Script generation date:     2015-09-10 09:41:56 UTC
+# Script generation date:     2015-09-23 06:08:59 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -17,8 +17,8 @@
 #   - xulrunner-devel-unstable:1.9.0.7-1.el5
 #
 # Last versions recommanded by security team:
-#   - firefox:38.2.1-1.el5_11
-#   - firefox-debuginfo:38.2.1-1.el5_11
+#   - firefox:38.3.0-2.el5_11
+#   - firefox-debuginfo:38.3.0-2.el5_11
 #   - xulrunner:17.0.10-1.el5_10
 #   - xulrunner-debuginfo:17.0.10-1.el5_10
 #   - xulrunner-devel:17.0.10-1.el5_10
@@ -38,8 +38,8 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2009:0315
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.2.1 -y 
-sudo yum install firefox-debuginfo-38.2.1 -y 
+sudo yum install firefox-38.3.0 -y 
+sudo yum install firefox-debuginfo-38.3.0 -y 
 sudo yum install xulrunner-17.0.10 -y 
 sudo yum install xulrunner-debuginfo-17.0.10 -y 
 sudo yum install xulrunner-devel-17.0.10 -y 

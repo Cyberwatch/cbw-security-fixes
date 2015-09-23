@@ -3,7 +3,7 @@
 # Security fix for RHSA-2008:1036
 #
 # Security announcement date: 2008-12-17 02:00:18 UTC
-# Script generation date:     2015-09-10 09:41:53 UTC
+# Script generation date:     2015-09-23 06:08:55 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -25,8 +25,8 @@
 #   - xulrunner-devel-unstable:1.9.0.5-1.el5_2
 #
 # Last versions recommanded by security team:
-#   - firefox:38.2.1-1.el5_11
-#   - firefox-debuginfo:38.2.1-1.el5_11
+#   - firefox:38.3.0-2.el5_11
+#   - firefox-debuginfo:38.3.0-2.el5_11
 #   - nspr:4.10.6-1.el5_10
 #   - nspr-debuginfo:4.10.6-1.el5_10
 #   - nss:3.19.1-1.el5_11
@@ -57,8 +57,8 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2008:1036
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.2.1 -y 
-sudo yum install firefox-debuginfo-38.2.1 -y 
+sudo yum install firefox-38.3.0 -y 
+sudo yum install firefox-debuginfo-38.3.0 -y 
 sudo yum install nspr-4.10.6 -y 
 sudo yum install nspr-debuginfo-4.10.6 -y 
 sudo yum install nss-3.19.1 -y 

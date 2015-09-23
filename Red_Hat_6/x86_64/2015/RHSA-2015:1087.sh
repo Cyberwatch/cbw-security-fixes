@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1087
 #
 # Security announcement date: 2015-06-10 17:32:06 UTC
-# Script generation date:     2015-09-10 09:47:30 UTC
+# Script generation date:     2015-09-23 06:14:26 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - qemu-kvm-tools:0.12.1.2-2.448.el6_6.4
 #
 # Last versions recommanded by security team:
-#   - qemu-guest-agent:0.12.1.2-2.448.el6_6.4
-#   - qemu-img:0.12.1.2-2.448.el6_6.4
-#   - qemu-kvm:0.12.1.2-2.448.el6_6.4
-#   - qemu-kvm-debuginfo:0.12.1.2-2.448.el6_6.4
-#   - qemu-kvm-tools:0.12.1.2-2.448.el6_6.4
+#   - qemu-guest-agent:0.12.1.2-2.479.el6_7.1
+#   - qemu-img:0.12.1.2-2.479.el6_7.1
+#   - qemu-kvm:0.12.1.2-2.479.el6_7.1
+#   - qemu-kvm-debuginfo:0.12.1.2-2.479.el6_7.1
+#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.1
 #
 # CVE List:
 #   - CVE-2015-3209
