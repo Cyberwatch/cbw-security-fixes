@@ -2,8 +2,8 @@
 #
 # Security fix for RHSA-2015:1834
 #
-# Security announcement date: 2015-09-22 18:18:46 UTC
-# Script generation date:     2015-09-23 06:14:58 UTC
+# Security announcement date: 2015-09-24 20:39:22 UTC
+# Script generation date:     2015-09-24 23:38:36 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -18,8 +18,19 @@
 #
 # CVE List:
 #   - CVE-2015-4500
+#   - CVE-2015-4506
 #   - CVE-2015-4509
-#   - CVE-2015-4510
+#   - CVE-2015-4511
+#   - CVE-2015-4517
+#   - CVE-2015-4519
+#   - CVE-2015-4520
+#   - CVE-2015-4521
+#   - CVE-2015-4522
+#   - CVE-2015-7174
+#   - CVE-2015-7175
+#   - CVE-2015-7176
+#   - CVE-2015-7177
+#   - CVE-2015-7180
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1834
