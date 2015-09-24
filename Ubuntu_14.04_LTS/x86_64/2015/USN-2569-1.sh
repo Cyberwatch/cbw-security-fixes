@@ -4,7 +4,7 @@
 # Security fix for USN-2569-1
 #
 # Security announcement date: 2015-04-14 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:07 UTC
+# Script generation date:     2015-09-24 23:20:39 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - apport:2.14.1-0ubuntu3.9
 #
 # Last versions recommanded by security team:
-#   - apport:2.14.1-0ubuntu3.11
+#   - apport:2.14.1-0ubuntu3.15
 #
 # CVE List:
 #   - CVE-2015-1318
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2569-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade apport=2.14.1-0ubuntu3.11 -y
+sudo apt-get install --only-upgrade apport=2.14.1-0ubuntu3.15 -y

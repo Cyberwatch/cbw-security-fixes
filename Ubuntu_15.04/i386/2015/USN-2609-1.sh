@@ -4,7 +4,7 @@
 # Security fix for USN-2609-1
 #
 # Security announcement date: 2015-05-21 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:12 UTC
+# Script generation date:     2015-09-24 23:20:46 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - apport:2.17.2-0ubuntu1.1
 #
 # Last versions recommanded by security team:
-#   - apport:2.17.2-0ubuntu1.1
+#   - apport:2.17.2-0ubuntu1.5
 #
 # CVE List:
 #   - CVE-2015-1324
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2609-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade apport=2.17.2-0ubuntu1.1 -y
+sudo apt-get install --only-upgrade apport=2.17.2-0ubuntu1.5 -y
