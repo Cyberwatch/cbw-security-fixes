@@ -4,7 +4,7 @@
 # Security fix for DSA-2858-1
 #
 # Security announcement date: 2014-02-10 00:00:00 UTC
-# Script generation date:     2015-09-10 10:01:53 UTC
+# Script generation date:     2015-09-24 06:03:27 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - iceweasel:24.3.0esr-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - iceweasel:38.2.1esr-1~deb7u1
+#   - iceweasel:38.3.0esr-1~deb7u1
 #
 # CVE List:
 #   - CVE-2014-1477
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2858-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade iceweasel=38.2.1esr-1~deb7u1 -y
+sudo apt-get install --only-upgrade iceweasel=38.3.0esr-1~deb7u1 -y

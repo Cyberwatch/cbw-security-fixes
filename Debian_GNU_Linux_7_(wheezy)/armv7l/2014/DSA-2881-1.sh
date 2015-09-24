@@ -4,7 +4,7 @@
 # Security fix for DSA-2881-1
 #
 # Security announcement date: 2014-03-19 00:00:00 UTC
-# Script generation date:     2015-09-10 10:01:56 UTC
+# Script generation date:     2015-09-24 06:03:29 UTC
 #
 # Operating System: Debian GNU/Linux 7 (wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - iceweasel:24.4.0esr-1~deb7u2
 #
 # Last versions recommanded by security team:
-#   - iceweasel:38.2.1esr-1~deb7u1
+#   - iceweasel:38.3.0esr-1~deb7u1
 #
 # CVE List:
 #   - CVE-2014-1493
@@ -31,4 +31,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2881-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade iceweasel=38.2.1esr-1~deb7u1 -y
+sudo apt-get install --only-upgrade iceweasel=38.3.0esr-1~deb7u1 -y
