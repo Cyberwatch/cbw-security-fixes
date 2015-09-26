@@ -4,7 +4,7 @@
 # Security fix for USN-2746-1
 #
 # Security announcement date: 2015-09-24 00:00:00 UTC
-# Script generation date:     2015-09-25 06:02:42 UTC
+# Script generation date:     2015-09-26 11:14:38 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -16,7 +16,7 @@
 #   - python3-simplestreams:0.1.0~bzr341-0ubuntu2.2
 #
 # Last versions recommanded by security team:
-#   - python-simplestreams:0.1.0~bzr341-0ubuntu2.2
+#   - python-simplestreams:0.1.0~bzr341-0ubuntu2.3
 #   - simplestreams:0.1.0~bzr341-0ubuntu2.2
 #   - python-simplestreams-openstack:0.1.0~bzr341-0ubuntu2.2
 #   - python3-simplestreams:0.1.0~bzr341-0ubuntu2.2
@@ -28,7 +28,7 @@
 #   - https://www.cyberwatch.fr/notices/USN-2746-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-simplestreams=0.1.0~bzr341-0ubuntu2.2 -y
+sudo apt-get install --only-upgrade python-simplestreams=0.1.0~bzr341-0ubuntu2.3 -y
 sudo apt-get install --only-upgrade simplestreams=0.1.0~bzr341-0ubuntu2.2 -y
 sudo apt-get install --only-upgrade python-simplestreams-openstack=0.1.0~bzr341-0ubuntu2.2 -y
 sudo apt-get install --only-upgrade python3-simplestreams=0.1.0~bzr341-0ubuntu2.2 -y
