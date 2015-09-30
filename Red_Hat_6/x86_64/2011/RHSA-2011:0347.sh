@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:0347
 #
 # Security announcement date: 2011-03-10 20:59:01 UTC
-# Script generation date:     2015-09-10 09:42:59 UTC
+# Script generation date:     2015-09-29 22:50:58 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -19,12 +19,12 @@
 #
 # Last versions recommanded by security team:
 #   - compat-openldap:2.4.19_2.3.43-15.el6_0.2
-#   - openldap:2.4.23-34.el6_5.1
-#   - openldap-clients:2.4.23-34.el6_5.1
-#   - openldap-debuginfo:2.4.23-34.el6_5.1
-#   - openldap-devel:2.4.23-34.el6_5.1
-#   - openldap-servers:2.4.23-34.el6_5.1
-#   - openldap-servers-sql:2.4.23-34.el6_5.1
+#   - openldap:2.4.40-6.el6_7
+#   - openldap-clients:2.4.40-6.el6_7
+#   - openldap-debuginfo:2.4.40-6.el6_7
+#   - openldap-devel:2.4.40-6.el6_7
+#   - openldap-servers:2.4.40-6.el6_7
+#   - openldap-servers-sql:2.4.40-6.el6_7
 #
 # CVE List:
 #   - CVE-2011-1024
@@ -36,9 +36,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install compat-openldap-2.4.19_2.3.43 -y 
-sudo yum install openldap-2.4.23 -y 
-sudo yum install openldap-clients-2.4.23 -y 
-sudo yum install openldap-debuginfo-2.4.23 -y 
-sudo yum install openldap-devel-2.4.23 -y 
-sudo yum install openldap-servers-2.4.23 -y 
-sudo yum install openldap-servers-sql-2.4.23 -y 
+sudo yum install openldap-2.4.40 -y 
+sudo yum install openldap-clients-2.4.40 -y 
+sudo yum install openldap-debuginfo-2.4.40 -y 
+sudo yum install openldap-devel-2.4.40 -y 
+sudo yum install openldap-servers-2.4.40 -y 
+sudo yum install openldap-servers-sql-2.4.40 -y 

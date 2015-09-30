@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1712
 #
 # Security announcement date: 2015-09-03 16:07:51 UTC
-# Script generation date:     2015-09-10 09:47:56 UTC
+# Script generation date:     2015-09-29 22:56:30 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - chromium-browser-debuginfo:45.0.2454.85-2.el6
 #
 # Last versions recommanded by security team:
-#   - chromium-browser:45.0.2454.85-2.el6
-#   - chromium-browser-debuginfo:45.0.2454.85-2.el6
+#   - chromium-browser:45.0.2454.101-1.el6
+#   - chromium-browser-debuginfo:45.0.2454.101-1.el6
 #
 # CVE List:
 #   - CVE-2015-1291
@@ -33,5 +33,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1712
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install chromium-browser-45.0.2454.85 -y 
-sudo yum install chromium-browser-debuginfo-45.0.2454.85 -y 
+sudo yum install chromium-browser-45.0.2454.101 -y 
+sudo yum install chromium-browser-debuginfo-45.0.2454.101 -y 

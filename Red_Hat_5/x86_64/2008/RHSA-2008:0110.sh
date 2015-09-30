@@ -3,7 +3,7 @@
 # Security fix for RHSA-2008:0110
 #
 # Security announcement date: 2008-02-21 21:17:54 UTC
-# Script generation date:     2015-09-10 09:41:32 UTC
+# Script generation date:     2015-09-29 22:49:29 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -18,13 +18,13 @@
 #   - openldap-servers-sql:2.3.27-8.el5_1.3
 #
 # Last versions recommanded by security team:
-#   - compat-openldap:2.3.43_2.2.29-27.el5_10
-#   - openldap:2.3.43-27.el5_10
-#   - openldap-clients:2.3.43-27.el5_10
-#   - openldap-debuginfo:2.3.43-27.el5_10
-#   - openldap-devel:2.3.43-27.el5_10
-#   - openldap-servers:2.3.43-27.el5_10
-#   - openldap-servers-sql:2.3.43-27.el5_10
+#   - compat-openldap:2.3.43_2.2.29-29.el5_11
+#   - openldap:2.3.43-29.el5_11
+#   - openldap-clients:2.3.43-29.el5_11
+#   - openldap-debuginfo:2.3.43-29.el5_11
+#   - openldap-devel:2.3.43-29.el5_11
+#   - openldap-servers:2.3.43-29.el5_11
+#   - openldap-servers-sql:2.3.43-29.el5_11
 #
 # CVE List:
 #   - CVE-2007-6698
