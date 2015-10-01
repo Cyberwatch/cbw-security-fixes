@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1796
 #
 # Security announcement date: 2014-11-03 20:15:35 UTC
-# Script generation date:     2015-09-17 06:16:18 UTC
+# Script generation date:     2015-10-01 11:28:18 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -473,7 +473,7 @@
 #   - xerces-c-devel:3.0.1-20.el6
 #
 # Last versions recommanded by security team:
-#   - rhc:1.31.3.1-1.el6op
+#   - rhc:1.37.1.2-1.el6op
 #   - rubygem-archive-tar-minitar:0.5.2-3.1.el6op
 #   - rubygem-commander:4.0.3-4.el6op
 #   - rubygem-highline:1.6.16-1.el6op
@@ -491,8 +491,8 @@
 #   - openshift-enterprise-release:2.1.9-1.el6op
 #   - openshift-enterprise-upgrade-broker:2.1.9-1.el6op
 #   - openshift-enterprise-yum-validator:2.1.9-1.el6op
-#   - openshift-origin-broker:1.16.1.14-1.el6op
-#   - openshift-origin-broker-util:1.23.8.14-1.el6op
+#   - openshift-origin-broker:1.16.2.10-1.el6op
+#   - openshift-origin-broker-util:1.36.2.2-1.el6op
 #   - openshift-origin-console:1.16.3.0-2.el6op
 #   - openshift-origin-msg-common:1.21.1.0-1.el6op
 #   - openshift-origin-util-scl:1.19.1.0-1.el6op
@@ -560,15 +560,15 @@
 #   - rubygem-openshift-origin-admin-console:1.26.2.0-1.el6op
 #   - rubygem-openshift-origin-auth-remote-user:1.21.1.0-1.el6op
 #   - rubygem-openshift-origin-common:1.28.3.0-1.el6op
-#   - rubygem-openshift-origin-console:1.34.1.3-1.el6op
-#   - rubygem-openshift-origin-controller:1.23.10.15-1.el6op
+#   - rubygem-openshift-origin-console:1.35.2.1-1.el6op
+#   - rubygem-openshift-origin-controller:1.37.3.1-1.el6op
 #   - rubygem-openshift-origin-dns-dynect:1.13.1.0-1.el6op
 #   - rubygem-openshift-origin-dns-fog:1.0.1.0-1.el6op
 #   - rubygem-openshift-origin-dns-nsupdate:1.16.3.0-1.el6op
-#   - rubygem-openshift-origin-gear-placement:0.0.2.0-1.el6op
-#   - rubygem-openshift-origin-msg-broker-mcollective:1.23.3.6-1.el6op
+#   - rubygem-openshift-origin-gear-placement:0.0.2.1-1.el6op
+#   - rubygem-openshift-origin-msg-broker-mcollective:1.35.3.1-1.el6op
 #   - rubygem-openshift-origin-routing-activemq:0.6.1.0-1.el6op
-#   - rubygem-openshift-origin-routing-daemon:0.17.1.4-1.el6op
+#   - rubygem-openshift-origin-routing-daemon:0.25.1.2-1.el6op
 #   - rubygem-rack:1.3.0-4.el6cf
 #   - rubygem-rake:0.8.7-2.1.el6
 #   - rubygem-regin:0.3.7-4.el6op
@@ -599,7 +599,7 @@
 #   - mongodb:2.4.6-2.el6op
 #   - mongodb-debuginfo:2.4.6-2.el6op
 #   - mongodb-server:2.4.6-2.el6op
-#   - openshift-origin-logshifter:1.8.1.0-1.el6op
+#   - openshift-origin-logshifter:1.10.1.2-1.el6op
 #   - rsyslog7-debuginfo:7.4.10-3.el6op
 #   - rsyslog7-mmopenshift:7.4.10-3.el6op
 #   - ruby-RMagick:2.13.1-6.el6op.1
@@ -645,13 +645,13 @@
 #   - v8-devel:3.14.5.10-2.el6op
 #   - openshift-origin-cartridge-dependencies-optional-jbosseap:1.27.1.0-1.el6op
 #   - openshift-origin-cartridge-dependencies-recommended-jbosseap:1.27.1.0-1.el6op
-#   - openshift-origin-cartridge-jbosseap:2.16.3.7-1.el6op
+#   - openshift-origin-cartridge-jbosseap:2.26.3.1-1.el6op
 #   - cfitsio-docs:3.240-3.el6op
 #   - gdal-doc:1.9.2-8.el6op
 #   - gdal-javadoc:1.9.2-8.el6op
 #   - jboss-eap6-modules:6.0.0.GA-8.el6op
 #   - jboss-openshift-metrics-module:1.0.2.redhat_1-1.2.el6_5
-#   - jenkins:1.565.3-1.el6op
+#   - jenkins:1.609.1-1.el6op
 #   - libgta-doc:1.0.2-2.el6op
 #   - nodejs010-nodejs-bignumber.js:1.1.1-2.el6op
 #   - nodejs010-nodejs-buffer-crc32:0.2.1-2.el6op
@@ -694,24 +694,24 @@
 #   - openshift-origin-cartridge-dependencies-recommended-php:1.27.1.0-1.el6op
 #   - openshift-origin-cartridge-dependencies-recommended-python:1.27.1.0-1.el6op
 #   - openshift-origin-cartridge-dependencies-recommended-ruby:1.27.1.0-1.el6op
-#   - openshift-origin-cartridge-diy:1.24.1.0-1.el6op
-#   - openshift-origin-cartridge-haproxy:1.27.2.0-1.el6op
-#   - openshift-origin-cartridge-jbossews:1.22.3.7-1.el6op
-#   - openshift-origin-cartridge-jenkins:1.25.1.0-1.el6op
+#   - openshift-origin-cartridge-diy:1.26.1.1-1.el6op
+#   - openshift-origin-cartridge-haproxy:1.30.1.1-1.el6op
+#   - openshift-origin-cartridge-jbossews:1.34.3.1-1.el6op
+#   - openshift-origin-cartridge-jenkins:1.28.2.1-1.el6op
 #   - openshift-origin-cartridge-jenkins-client:1.25.1.0-1.el6op
-#   - openshift-origin-cartridge-mock:1.21.1.0-1.el6op
+#   - openshift-origin-cartridge-mock:1.22.1.1-1.el6op
 #   - openshift-origin-cartridge-mock-plugin:1.20.1.0-1.el6op
 #   - openshift-origin-cartridge-mongodb:1.23.2.0-1.el6op
 #   - openshift-origin-cartridge-mysql:1.28.1.0-1.el6op
-#   - openshift-origin-cartridge-nodejs:1.30.1.0-1.el6op
-#   - openshift-origin-cartridge-perl:1.26.1.0-1.el6op
-#   - openshift-origin-cartridge-php:1.29.1.0-1.el6op
+#   - openshift-origin-cartridge-nodejs:1.33.1.1-1.el6op
+#   - openshift-origin-cartridge-perl:1.30.1.1-1.el6op
+#   - openshift-origin-cartridge-php:1.34.1.1-1.el6op
 #   - openshift-origin-cartridge-postgresql:1.29.2.0-1.el6op
-#   - openshift-origin-cartridge-python:1.29.1.0-1.el6op
-#   - openshift-origin-cartridge-ruby:1.28.1.0-1.el6op
+#   - openshift-origin-cartridge-python:1.33.3.1-1.el6op
+#   - openshift-origin-cartridge-ruby:1.32.1.1-1.el6op
 #   - openshift-origin-msg-node-mcollective:1.22.2.3-1.el6op
 #   - openshift-origin-node-proxy:1.16.4.2-1.el6op
-#   - openshift-origin-node-util:1.22.20.5-1.el6op
+#   - openshift-origin-node-util:1.37.2.1-1.el6op
 #   - openshift-origin-port-proxy:1.9.1.0-1.el6op
 #   - perl-App-cpanminus:1.4008-1.el6op
 #   - perl-Class-Accessor:0.31-6.1.el6
@@ -741,11 +741,11 @@
 #   - ruby200-rubygem-passenger-doc:4.0.18-17.el6op
 #   - rubygem-openshift-origin-container-selinux:0.10.1.0-1.el6op
 #   - rubygem-openshift-origin-frontend-apache-mod-rewrite:0.5.2.2-1.el6op
-#   - rubygem-openshift-origin-frontend-apache-vhost:0.5.2.6-1.el6op
+#   - rubygem-openshift-origin-frontend-apache-vhost:0.12.4.2-1.el6op
 #   - rubygem-openshift-origin-frontend-apachedb:0.4.1.2-1.el6op
 #   - rubygem-openshift-origin-frontend-haproxy-sni-proxy:0.3.2.2-1.el6op
 #   - rubygem-openshift-origin-frontend-nodejs-websocket:0.4.1.0-1.el6op
-#   - rubygem-openshift-origin-node:1.23.9.26-1.el6op
+#   - rubygem-openshift-origin-node:1.37.1.1-1.el6op
 #   - xerces-c-doc:3.0.1-20.el6
 #   - CharLS:1.0-1.el6op
 #   - CharLS-debuginfo:1.0-1.el6op
@@ -944,7 +944,7 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:1796
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install rhc-1.31.3.1 -y 
+sudo yum install rhc-1.37.1.2 -y 
 sudo yum install rubygem-archive-tar-minitar-0.5.2 -y 
 sudo yum install rubygem-commander-4.0.3 -y 
 sudo yum install rubygem-highline-1.6.16 -y 
@@ -962,8 +962,8 @@ sudo yum install json-c-doc-0.10 -y
 sudo yum install openshift-enterprise-release-2.1.9 -y 
 sudo yum install openshift-enterprise-upgrade-broker-2.1.9 -y 
 sudo yum install openshift-enterprise-yum-validator-2.1.9 -y 
-sudo yum install openshift-origin-broker-1.16.1.14 -y 
-sudo yum install openshift-origin-broker-util-1.23.8.14 -y 
+sudo yum install openshift-origin-broker-1.16.2.10 -y 
+sudo yum install openshift-origin-broker-util-1.36.2.2 -y 
 sudo yum install openshift-origin-console-1.16.3.0 -y 
 sudo yum install openshift-origin-msg-common-1.21.1.0 -y 
 sudo yum install openshift-origin-util-scl-1.19.1.0 -y 
@@ -1031,15 +1031,15 @@ sudo yum install rubygem-file-tail-1.0.5 -y
 sudo yum install rubygem-openshift-origin-admin-console-1.26.2.0 -y 
 sudo yum install rubygem-openshift-origin-auth-remote-user-1.21.1.0 -y 
 sudo yum install rubygem-openshift-origin-common-1.28.3.0 -y 
-sudo yum install rubygem-openshift-origin-console-1.34.1.3 -y 
-sudo yum install rubygem-openshift-origin-controller-1.23.10.15 -y 
+sudo yum install rubygem-openshift-origin-console-1.35.2.1 -y 
+sudo yum install rubygem-openshift-origin-controller-1.37.3.1 -y 
 sudo yum install rubygem-openshift-origin-dns-dynect-1.13.1.0 -y 
 sudo yum install rubygem-openshift-origin-dns-fog-1.0.1.0 -y 
 sudo yum install rubygem-openshift-origin-dns-nsupdate-1.16.3.0 -y 
-sudo yum install rubygem-openshift-origin-gear-placement-0.0.2.0 -y 
-sudo yum install rubygem-openshift-origin-msg-broker-mcollective-1.23.3.6 -y 
+sudo yum install rubygem-openshift-origin-gear-placement-0.0.2.1 -y 
+sudo yum install rubygem-openshift-origin-msg-broker-mcollective-1.35.3.1 -y 
 sudo yum install rubygem-openshift-origin-routing-activemq-0.6.1.0 -y 
-sudo yum install rubygem-openshift-origin-routing-daemon-0.17.1.4 -y 
+sudo yum install rubygem-openshift-origin-routing-daemon-0.25.1.2 -y 
 sudo yum install rubygem-rack-1.3.0 -y 
 sudo yum install rubygem-rake-0.8.7 -y 
 sudo yum install rubygem-regin-0.3.7 -y 
@@ -1070,7 +1070,7 @@ sudo yum install mod_passenger-3.0.21 -y
 sudo yum install mongodb-2.4.6 -y 
 sudo yum install mongodb-debuginfo-2.4.6 -y 
 sudo yum install mongodb-server-2.4.6 -y 
-sudo yum install openshift-origin-logshifter-1.8.1.0 -y 
+sudo yum install openshift-origin-logshifter-1.10.1.2 -y 
 sudo yum install rsyslog7-debuginfo-7.4.10 -y 
 sudo yum install rsyslog7-mmopenshift-7.4.10 -y 
 sudo yum install ruby-RMagick-2.13.1 -y 
@@ -1116,13 +1116,13 @@ sudo yum install v8-debuginfo-3.14.5.10 -y
 sudo yum install v8-devel-3.14.5.10 -y 
 sudo yum install openshift-origin-cartridge-dependencies-optional-jbosseap-1.27.1.0 -y 
 sudo yum install openshift-origin-cartridge-dependencies-recommended-jbosseap-1.27.1.0 -y 
-sudo yum install openshift-origin-cartridge-jbosseap-2.16.3.7 -y 
+sudo yum install openshift-origin-cartridge-jbosseap-2.26.3.1 -y 
 sudo yum install cfitsio-docs-3.240 -y 
 sudo yum install gdal-doc-1.9.2 -y 
 sudo yum install gdal-javadoc-1.9.2 -y 
 sudo yum install jboss-eap6-modules-6.0.0.GA -y 
 sudo yum install jboss-openshift-metrics-module-1.0.2.redhat_1 -y 
-sudo yum install jenkins-1.565.3 -y 
+sudo yum install jenkins-1.609.1 -y 
 sudo yum install libgta-doc-1.0.2 -y 
 sudo yum install nodejs010-nodejs-bignumber.js-1.1.1 -y 
 sudo yum install nodejs010-nodejs-buffer-crc32-0.2.1 -y 
@@ -1165,24 +1165,24 @@ sudo yum install openshift-origin-cartridge-dependencies-recommended-perl-1.27.1
 sudo yum install openshift-origin-cartridge-dependencies-recommended-php-1.27.1.0 -y 
 sudo yum install openshift-origin-cartridge-dependencies-recommended-python-1.27.1.0 -y 
 sudo yum install openshift-origin-cartridge-dependencies-recommended-ruby-1.27.1.0 -y 
-sudo yum install openshift-origin-cartridge-diy-1.24.1.0 -y 
-sudo yum install openshift-origin-cartridge-haproxy-1.27.2.0 -y 
-sudo yum install openshift-origin-cartridge-jbossews-1.22.3.7 -y 
-sudo yum install openshift-origin-cartridge-jenkins-1.25.1.0 -y 
+sudo yum install openshift-origin-cartridge-diy-1.26.1.1 -y 
+sudo yum install openshift-origin-cartridge-haproxy-1.30.1.1 -y 
+sudo yum install openshift-origin-cartridge-jbossews-1.34.3.1 -y 
+sudo yum install openshift-origin-cartridge-jenkins-1.28.2.1 -y 
 sudo yum install openshift-origin-cartridge-jenkins-client-1.25.1.0 -y 
-sudo yum install openshift-origin-cartridge-mock-1.21.1.0 -y 
+sudo yum install openshift-origin-cartridge-mock-1.22.1.1 -y 
 sudo yum install openshift-origin-cartridge-mock-plugin-1.20.1.0 -y 
 sudo yum install openshift-origin-cartridge-mongodb-1.23.2.0 -y 
 sudo yum install openshift-origin-cartridge-mysql-1.28.1.0 -y 
-sudo yum install openshift-origin-cartridge-nodejs-1.30.1.0 -y 
-sudo yum install openshift-origin-cartridge-perl-1.26.1.0 -y 
-sudo yum install openshift-origin-cartridge-php-1.29.1.0 -y 
+sudo yum install openshift-origin-cartridge-nodejs-1.33.1.1 -y 
+sudo yum install openshift-origin-cartridge-perl-1.30.1.1 -y 
+sudo yum install openshift-origin-cartridge-php-1.34.1.1 -y 
 sudo yum install openshift-origin-cartridge-postgresql-1.29.2.0 -y 
-sudo yum install openshift-origin-cartridge-python-1.29.1.0 -y 
-sudo yum install openshift-origin-cartridge-ruby-1.28.1.0 -y 
+sudo yum install openshift-origin-cartridge-python-1.33.3.1 -y 
+sudo yum install openshift-origin-cartridge-ruby-1.32.1.1 -y 
 sudo yum install openshift-origin-msg-node-mcollective-1.22.2.3 -y 
 sudo yum install openshift-origin-node-proxy-1.16.4.2 -y 
-sudo yum install openshift-origin-node-util-1.22.20.5 -y 
+sudo yum install openshift-origin-node-util-1.37.2.1 -y 
 sudo yum install openshift-origin-port-proxy-1.9.1.0 -y 
 sudo yum install perl-App-cpanminus-1.4008 -y 
 sudo yum install perl-Class-Accessor-0.31 -y 
@@ -1212,11 +1212,11 @@ sudo yum install ruby193-rubygem-parallel-0.8.0 -y
 sudo yum install ruby200-rubygem-passenger-doc-4.0.18 -y 
 sudo yum install rubygem-openshift-origin-container-selinux-0.10.1.0 -y 
 sudo yum install rubygem-openshift-origin-frontend-apache-mod-rewrite-0.5.2.2 -y 
-sudo yum install rubygem-openshift-origin-frontend-apache-vhost-0.5.2.6 -y 
+sudo yum install rubygem-openshift-origin-frontend-apache-vhost-0.12.4.2 -y 
 sudo yum install rubygem-openshift-origin-frontend-apachedb-0.4.1.2 -y 
 sudo yum install rubygem-openshift-origin-frontend-haproxy-sni-proxy-0.3.2.2 -y 
 sudo yum install rubygem-openshift-origin-frontend-nodejs-websocket-0.4.1.0 -y 
-sudo yum install rubygem-openshift-origin-node-1.23.9.26 -y 
+sudo yum install rubygem-openshift-origin-node-1.37.1.1 -y 
 sudo yum install xerces-c-doc-3.0.1 -y 
 sudo yum install CharLS-1.0 -y 
 sudo yum install CharLS-debuginfo-1.0 -y 

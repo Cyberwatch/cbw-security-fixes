@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1906
 #
 # Security announcement date: 2014-11-25 18:35:23 UTC
-# Script generation date:     2015-09-10 09:46:44 UTC
+# Script generation date:     2015-10-01 11:28:25 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -31,20 +31,20 @@
 #   - openshift-enterprise-release:2.1.9-1.el6op
 #   - openshift-enterprise-upgrade-broker:2.1.9-1.el6op
 #   - openshift-enterprise-yum-validator:2.1.9-1.el6op
-#   - openshift-origin-broker:1.16.1.14-1.el6op
-#   - openshift-origin-broker-util:1.23.8.14-1.el6op
-#   - rubygem-openshift-origin-controller:1.23.10.15-1.el6op
-#   - rubygem-openshift-origin-msg-broker-mcollective:1.23.3.6-1.el6op
-#   - openshift-origin-cartridge-jbosseap:2.16.3.7-1.el6op
+#   - openshift-origin-broker:1.16.2.10-1.el6op
+#   - openshift-origin-broker-util:1.36.2.2-1.el6op
+#   - rubygem-openshift-origin-controller:1.37.3.1-1.el6op
+#   - rubygem-openshift-origin-msg-broker-mcollective:1.35.3.1-1.el6op
+#   - openshift-origin-cartridge-jbosseap:2.26.3.1-1.el6op
 #   - openshift-enterprise-upgrade-node:2.1.9-1.el6op
-#   - openshift-origin-cartridge-jbossews:1.22.3.7-1.el6op
+#   - openshift-origin-cartridge-jbossews:1.34.3.1-1.el6op
 #   - openshift-origin-msg-node-mcollective:1.22.2.3-1.el6op
-#   - openshift-origin-node-util:1.22.20.5-1.el6op
+#   - openshift-origin-node-util:1.37.2.1-1.el6op
 #   - rubygem-openshift-origin-frontend-apache-mod-rewrite:0.5.2.2-1.el6op
-#   - rubygem-openshift-origin-frontend-apache-vhost:0.5.2.6-1.el6op
+#   - rubygem-openshift-origin-frontend-apache-vhost:0.12.4.2-1.el6op
 #   - rubygem-openshift-origin-frontend-apachedb:0.4.1.2-1.el6op
 #   - rubygem-openshift-origin-frontend-haproxy-sni-proxy:0.3.2.2-1.el6op
-#   - rubygem-openshift-origin-node:1.23.9.26-1.el6op
+#   - rubygem-openshift-origin-node:1.37.1.1-1.el6op
 #
 # CVE List:
 #   - CVE-2014-3602
@@ -57,17 +57,17 @@
 sudo yum install openshift-enterprise-release-2.1.9 -y 
 sudo yum install openshift-enterprise-upgrade-broker-2.1.9 -y 
 sudo yum install openshift-enterprise-yum-validator-2.1.9 -y 
-sudo yum install openshift-origin-broker-1.16.1.14 -y 
-sudo yum install openshift-origin-broker-util-1.23.8.14 -y 
-sudo yum install rubygem-openshift-origin-controller-1.23.10.15 -y 
-sudo yum install rubygem-openshift-origin-msg-broker-mcollective-1.23.3.6 -y 
-sudo yum install openshift-origin-cartridge-jbosseap-2.16.3.7 -y 
+sudo yum install openshift-origin-broker-1.16.2.10 -y 
+sudo yum install openshift-origin-broker-util-1.36.2.2 -y 
+sudo yum install rubygem-openshift-origin-controller-1.37.3.1 -y 
+sudo yum install rubygem-openshift-origin-msg-broker-mcollective-1.35.3.1 -y 
+sudo yum install openshift-origin-cartridge-jbosseap-2.26.3.1 -y 
 sudo yum install openshift-enterprise-upgrade-node-2.1.9 -y 
-sudo yum install openshift-origin-cartridge-jbossews-1.22.3.7 -y 
+sudo yum install openshift-origin-cartridge-jbossews-1.34.3.1 -y 
 sudo yum install openshift-origin-msg-node-mcollective-1.22.2.3 -y 
-sudo yum install openshift-origin-node-util-1.22.20.5 -y 
+sudo yum install openshift-origin-node-util-1.37.2.1 -y 
 sudo yum install rubygem-openshift-origin-frontend-apache-mod-rewrite-0.5.2.2 -y 
-sudo yum install rubygem-openshift-origin-frontend-apache-vhost-0.5.2.6 -y 
+sudo yum install rubygem-openshift-origin-frontend-apache-vhost-0.12.4.2 -y 
 sudo yum install rubygem-openshift-origin-frontend-apachedb-0.4.1.2 -y 
 sudo yum install rubygem-openshift-origin-frontend-haproxy-sni-proxy-0.3.2.2 -y 
-sudo yum install rubygem-openshift-origin-node-1.23.9.26 -y 
+sudo yum install rubygem-openshift-origin-node-1.37.1.1 -y 

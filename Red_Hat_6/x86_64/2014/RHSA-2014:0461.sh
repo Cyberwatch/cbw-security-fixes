@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:0461
 #
 # Security announcement date: 2014-05-01 20:34:28 UTC
-# Script generation date:     2015-09-10 09:45:47 UTC
+# Script generation date:     2015-10-01 11:27:24 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - openshift-origin-broker-util:1.9.16-1.el6op
 #
 # Last versions recommanded by security team:
-#   - openshift-origin-broker-util:1.23.8.14-1.el6op
+#   - openshift-origin-broker-util:1.36.2.2-1.el6op
 #
 # CVE List:
 #   - CVE-2014-0164
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:0461
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install openshift-origin-broker-util-1.23.8.14 -y 
+sudo yum install openshift-origin-broker-util-1.36.2.2 -y 
