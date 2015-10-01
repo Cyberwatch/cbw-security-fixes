@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:0316
 #
 # Security announcement date: 2014-03-19 17:46:51 UTC
-# Script generation date:     2015-09-10 09:45:40 UTC
+# Script generation date:     2015-10-01 18:14:23 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - thunderbird-debuginfo:24.4.0-1.el5_10
 #
 # Last versions recommanded by security team:
-#   - thunderbird:38.2.0-4.el5_11
-#   - thunderbird-debuginfo:38.2.0-4.el5_11
+#   - thunderbird:38.3.0-1.el5_11
+#   - thunderbird-debuginfo:38.3.0-1.el5_11
 #
 # CVE List:
 #   - CVE-2014-1493
@@ -32,5 +32,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:0316
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird-38.2.0 -y 
-sudo yum install thunderbird-debuginfo-38.2.0 -y 
+sudo yum install thunderbird-38.3.0 -y 
+sudo yum install thunderbird-debuginfo-38.3.0 -y 
