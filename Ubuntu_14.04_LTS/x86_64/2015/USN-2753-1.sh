@@ -4,7 +4,7 @@
 # Security fix for USN-2753-1
 #
 # Security announcement date: 2015-09-29 00:00:00 UTC
-# Script generation date:     2015-09-29 22:41:19 UTC
+# Script generation date:     2015-10-01 11:15:50 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - lxc:1.0.7-0ubuntu0.5
 #
 # Last versions recommanded by security team:
-#   - lxc:1.0.7-0ubuntu0.5
+#   - lxc:1.0.7-0ubuntu0.6
 #
 # CVE List:
 #   - CVE-2015-1335
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2753-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade lxc=1.0.7-0ubuntu0.5 -y
+sudo apt-get install --only-upgrade lxc=1.0.7-0ubuntu0.6 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2658-1
 #
 # Security announcement date: 2015-07-06 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:17 UTC
+# Script generation date:     2015-10-01 11:15:39 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - libapache2-mod-php5:5.6.4+dfsg-4ubuntu6.2
 #
 # Last versions recommanded by security team:
-#   - php5-cli:5.6.4+dfsg-4ubuntu6.2
-#   - php5-cgi:5.6.4+dfsg-4ubuntu6.2
-#   - libapache2-mod-php5:5.6.4+dfsg-4ubuntu6.2
+#   - php5-cli:5.6.4+dfsg-4ubuntu6.3
+#   - php5-cgi:5.6.4+dfsg-4ubuntu6.3
+#   - libapache2-mod-php5:5.6.4+dfsg-4ubuntu6.3
 #
 # CVE List:
 #   - CVE-2015-3411
@@ -44,6 +44,6 @@
 #   - https://www.cyberwatch.fr/notices/USN-2658-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5-cli=5.6.4+dfsg-4ubuntu6.2 -y
-sudo apt-get install --only-upgrade php5-cgi=5.6.4+dfsg-4ubuntu6.2 -y
-sudo apt-get install --only-upgrade libapache2-mod-php5=5.6.4+dfsg-4ubuntu6.2 -y
+sudo apt-get install --only-upgrade php5-cli=5.6.4+dfsg-4ubuntu6.3 -y
+sudo apt-get install --only-upgrade php5-cgi=5.6.4+dfsg-4ubuntu6.3 -y
+sudo apt-get install --only-upgrade libapache2-mod-php5=5.6.4+dfsg-4ubuntu6.3 -y
