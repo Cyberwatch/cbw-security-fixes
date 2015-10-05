@@ -4,7 +4,7 @@
 # Security fix for USN-2677-1
 #
 # Security announcement date: 2015-08-04 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:22 UTC
+# Script generation date:     2015-10-05 18:02:44 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - liboxideqtcore0:1.8.4-0ubuntu0.14.04.2
 #
 # Last versions recommanded by security team:
-#   - liboxideqtcore0:1.9.1-0ubuntu0.14.04.2
+#   - liboxideqtcore0:1.9.5-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2015-1270
@@ -34,4 +34,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2677-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade liboxideqtcore0=1.9.1-0ubuntu0.14.04.2 -y
+sudo apt-get install --only-upgrade liboxideqtcore0=1.9.5-0ubuntu0.14.04.1 -y

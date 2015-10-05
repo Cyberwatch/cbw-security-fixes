@@ -4,7 +4,7 @@
 # Security fix for USN-2458-3
 #
 # Security announcement date: 2015-01-27 00:00:00 UTC
-# Script generation date:     2015-09-23 06:01:53 UTC
+# Script generation date:     2015-10-05 18:02:12 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - firefox:35.0.1+build1-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:41.0+build3-0ubuntu0.14.04.1
+#   - firefox:41.0.1+build2-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2014-8634
@@ -30,4 +30,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2458-3
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=41.0+build3-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade firefox=41.0.1+build2-0ubuntu0.14.04.1 -y

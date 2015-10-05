@@ -4,7 +4,7 @@
 # Security fix for USN-2476-1
 #
 # Security announcement date: 2015-01-26 00:00:00 UTC
-# Script generation date:     2015-09-10 10:17:57 UTC
+# Script generation date:     2015-10-05 18:02:12 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i386
@@ -15,9 +15,9 @@
 #   - oxideqt-codecs-extra:1.4.2-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - liboxideqtcore0:1.9.1-0ubuntu0.14.04.2
-#   - oxideqt-codecs:1.9.1-0ubuntu0.14.04.2
-#   - oxideqt-codecs-extra:1.9.1-0ubuntu0.14.04.2
+#   - liboxideqtcore0:1.9.5-0ubuntu0.14.04.1
+#   - oxideqt-codecs:1.9.5-0ubuntu0.14.04.1
+#   - oxideqt-codecs-extra:1.9.5-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2014-7923
@@ -46,6 +46,6 @@
 #   - https://www.cyberwatch.fr/notices/USN-2476-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade liboxideqtcore0=1.9.1-0ubuntu0.14.04.2 -y
-sudo apt-get install --only-upgrade oxideqt-codecs=1.9.1-0ubuntu0.14.04.2 -y
-sudo apt-get install --only-upgrade oxideqt-codecs-extra=1.9.1-0ubuntu0.14.04.2 -y
+sudo apt-get install --only-upgrade liboxideqtcore0=1.9.5-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade oxideqt-codecs=1.9.5-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade oxideqt-codecs-extra=1.9.5-0ubuntu0.14.04.1 -y
