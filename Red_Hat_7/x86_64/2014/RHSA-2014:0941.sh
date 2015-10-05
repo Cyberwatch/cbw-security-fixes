@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:0941
 #
 # Security announcement date: 2014-07-24 17:47:35 UTC
-# Script generation date:     2015-09-10 09:46:03 UTC
+# Script generation date:     2015-10-05 18:16:07 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -19,12 +19,12 @@
 #   - python-swiftclient-doc:2.1.0-2.el7ost
 #
 # Last versions recommanded by security team:
-#   - openstack-swift:1.13.1-5.el7ost
-#   - openstack-swift-account:1.13.1-5.el7ost
-#   - openstack-swift-container:1.13.1-5.el7ost
-#   - openstack-swift-doc:1.13.1-5.el7ost
-#   - openstack-swift-object:1.13.1-5.el7ost
-#   - openstack-swift-proxy:1.13.1-5.el7ost
+#   - openstack-swift:1.13.1-6.el7ost
+#   - openstack-swift-account:1.13.1-6.el7ost
+#   - openstack-swift-container:1.13.1-6.el7ost
+#   - openstack-swift-doc:1.13.1-6.el7ost
+#   - openstack-swift-object:1.13.1-6.el7ost
+#   - openstack-swift-proxy:1.13.1-6.el7ost
 #   - python-swiftclient:2.1.0-2.el7ost
 #   - python-swiftclient-doc:2.1.0-2.el7ost
 #

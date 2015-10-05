@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:1155
 #
 # Security announcement date: 2013-08-13 16:34:56 UTC
-# Script generation date:     2015-09-10 09:45:09 UTC
+# Script generation date:     2015-10-05 18:15:00 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -14,7 +14,7 @@
 #
 # Last versions recommanded by security team:
 #   - vdsm-bootstrap:4.10.2-24.0.el6ev
-#   - vdsm-debuginfo:4.16.20-1.2.el6rhs
+#   - vdsm-debuginfo:4.16.20-1.3.el6rhs
 #
 # CVE List:
 #   - CVE-2013-4236

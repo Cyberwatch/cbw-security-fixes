@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0886
 #
 # Security announcement date: 2013-06-10 21:01:12 UTC
-# Script generation date:     2015-09-10 09:44:56 UTC
+# Script generation date:     2015-10-05 18:14:51 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - vdsm-bootstrap:4.10.2-22.0.el6ev
 #
 # Last versions recommanded by security team:
-#   - vdsm-cli:4.16.20-1.2.el6rhs
+#   - vdsm-cli:4.16.20-1.3.el6rhs
 #   - vdsm-hook-vhostmd:4.10.2-22.0.el6ev
-#   - vdsm-reg:4.16.20-1.2.el6rhs
-#   - vdsm-xmlrpc:4.16.20-1.2.el6rhs
-#   - vdsm:4.16.20-1.2.el6rhs
-#   - vdsm-debuginfo:4.16.20-1.2.el6rhs
-#   - vdsm-python:4.16.20-1.2.el6rhs
+#   - vdsm-reg:4.16.20-1.3.el6rhs
+#   - vdsm-xmlrpc:4.16.20-1.3.el6rhs
+#   - vdsm:4.16.20-1.3.el6rhs
+#   - vdsm-debuginfo:4.16.20-1.3.el6rhs
+#   - vdsm-python:4.16.20-1.3.el6rhs
 #   - vdsm-bootstrap:4.10.2-24.0.el6ev
 #
 # CVE List:

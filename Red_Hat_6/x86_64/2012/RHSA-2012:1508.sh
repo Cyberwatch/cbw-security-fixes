@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:1508
 #
 # Security announcement date: 2012-12-04 20:32:45 UTC
-# Script generation date:     2015-09-10 09:44:20 UTC
+# Script generation date:     2015-10-05 18:14:08 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - vdsm-python:4.9.6-44.0.el6_3
 #
 # Last versions recommanded by security team:
-#   - vdsm-cli:4.16.20-1.2.el6rhs
+#   - vdsm-cli:4.16.20-1.3.el6rhs
 #   - vdsm-hook-vhostmd:4.10.2-22.0.el6ev
-#   - vdsm-reg:4.16.20-1.2.el6rhs
-#   - vdsm:4.16.20-1.2.el6rhs
-#   - vdsm-debuginfo:4.16.20-1.2.el6rhs
-#   - vdsm-python:4.16.20-1.2.el6rhs
+#   - vdsm-reg:4.16.20-1.3.el6rhs
+#   - vdsm:4.16.20-1.3.el6rhs
+#   - vdsm-debuginfo:4.16.20-1.3.el6rhs
+#   - vdsm-python:4.16.20-1.3.el6rhs
 #
 # CVE List:
 #   - CVE-2012-0860
