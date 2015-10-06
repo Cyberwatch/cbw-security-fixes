@@ -4,7 +4,7 @@
 # Security fix for USN-2750-1
 #
 # Security announcement date: 2015-09-29 00:00:00 UTC
-# Script generation date:     2015-09-29 22:41:19 UTC
+# Script generation date:     2015-10-06 13:29:31 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i386
@@ -20,8 +20,8 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.16.0-50-powerpc64-emb:3.16.0-50.66~14.04.1
-#   - linux-image-3.16.0-50-generic:3.16.0-50.66~14.04.1
-#   - linux-image-3.16.0-50-lowlatency:3.16.0-50.66~14.04.1
+#   - linux-image-3.16.0-50-generic:3.16.0-50.67~14.04.1
+#   - linux-image-3.16.0-50-lowlatency:3.16.0-50.67~14.04.1
 #   - linux-image-3.16.0-50-powerpc64-smp:3.16.0-50.66~14.04.1
 #   - linux-image-3.16.0-50-powerpc-smp:3.16.0-50.66~14.04.1
 #   - linux-image-3.16.0-50-powerpc-e500mc:3.16.0-50.66~14.04.1
@@ -35,8 +35,8 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.16.0-50-powerpc64-emb=3.16.0-50.66~14.04.1 -y
-sudo apt-get install --only-upgrade linux-image-3.16.0-50-generic=3.16.0-50.66~14.04.1 -y
-sudo apt-get install --only-upgrade linux-image-3.16.0-50-lowlatency=3.16.0-50.66~14.04.1 -y
+sudo apt-get install --only-upgrade linux-image-3.16.0-50-generic=3.16.0-50.67~14.04.1 -y
+sudo apt-get install --only-upgrade linux-image-3.16.0-50-lowlatency=3.16.0-50.67~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.16.0-50-powerpc64-smp=3.16.0-50.66~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.16.0-50-powerpc-smp=3.16.0-50.66~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.16.0-50-powerpc-e500mc=3.16.0-50.66~14.04.1 -y

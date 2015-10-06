@@ -4,7 +4,7 @@
 # Security fix for USN-2675-1
 #
 # Security announcement date: 2015-07-22 00:00:00 UTC
-# Script generation date:     2015-10-01 11:15:41 UTC
+# Script generation date:     2015-10-06 13:29:21 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - liblxc1:1.0.7-0ubuntu0.2
 #
 # Last versions recommanded by security team:
-#   - lxc:1.0.7-0ubuntu0.6
-#   - liblxc1:1.0.7-0ubuntu0.6
+#   - lxc:1.0.7-0ubuntu0.7
+#   - liblxc1:1.0.7-0ubuntu0.7
 #
 # CVE List:
 #   - CVE-2015-1331
@@ -25,5 +25,5 @@
 #   - https://www.cyberwatch.fr/notices/USN-2675-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade lxc=1.0.7-0ubuntu0.6 -y
-sudo apt-get install --only-upgrade liblxc1=1.0.7-0ubuntu0.6 -y
+sudo apt-get install --only-upgrade lxc=1.0.7-0ubuntu0.7 -y
+sudo apt-get install --only-upgrade liblxc1=1.0.7-0ubuntu0.7 -y
