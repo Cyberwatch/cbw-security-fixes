@@ -4,7 +4,7 @@
 # Security fix for DSA-3154-2
 #
 # Security announcement date: 2015-02-07 00:00:00 UTC
-# Script generation date:     2015-09-10 10:02:28 UTC
+# Script generation date:     2015-10-06 18:03:56 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -17,6 +17,7 @@
 #
 # CVE List:
 #   - CVE-2014-9297
+#   - CVE-2014-9750
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/DSA-3154-2
