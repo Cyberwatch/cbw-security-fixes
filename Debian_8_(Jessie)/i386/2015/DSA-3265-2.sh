@@ -4,7 +4,7 @@
 # Security fix for DSA-3265-2
 #
 # Security announcement date: 2015-05-24 00:00:00 UTC
-# Script generation date:     2015-09-10 10:02:40 UTC
+# Script generation date:     2015-10-07 17:42:38 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - zendframework:1.12.9+dfsg-2+deb8u2
 #
 # Last versions recommanded by security team:
-#   - zendframework:1.12.9+dfsg-2+deb8u3
+#   - zendframework:1.12.9+dfsg-2+deb8u4
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3265-2
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade zendframework=1.12.9+dfsg-2+deb8u3 -y
+sudo apt-get install --only-upgrade zendframework=1.12.9+dfsg-2+deb8u4 -y
