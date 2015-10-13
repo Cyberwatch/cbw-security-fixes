@@ -4,7 +4,7 @@
 # Security fix for DSA-2477-1
 #
 # Security announcement date: 2012-05-20 00:00:00 UTC
-# Script generation date:     2015-09-23 18:03:02 UTC
+# Script generation date:     2015-10-13 05:36:54 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - sympa:6.0.1+dfsg-4+squeeze1
 #
 # Last versions recommanded by security team:
-#   - sympa:6.0.1+dfsg-4+squeeze1
+#   - sympa:6.0.1+dfsg-4+squeeze3
 #
 # CVE List:
 #   - CVE-2012-2352
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2477-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade sympa=6.0.1+dfsg-4+squeeze1 -y
+sudo apt-get install --only-upgrade sympa=6.0.1+dfsg-4+squeeze3 -y

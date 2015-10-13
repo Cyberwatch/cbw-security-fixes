@@ -4,7 +4,7 @@
 # Security fix for DSA-2304-1
 #
 # Security announcement date: 2011-09-11 00:00:00 UTC
-# Script generation date:     2015-09-23 18:02:53 UTC
+# Script generation date:     2015-10-13 05:36:47 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - squid3:3.1.6-1.2+squeeze1
 #
 # Last versions recommanded by security team:
-#   - squid3:3.1.6-1.2+squeeze3
+#   - squid3:3.1.6-1.2+squeeze5
 #
 # CVE List:
 #   - CVE-2011-3205
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2304-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade squid3=3.1.6-1.2+squeeze3 -y
+sudo apt-get install --only-upgrade squid3=3.1.6-1.2+squeeze5 -y

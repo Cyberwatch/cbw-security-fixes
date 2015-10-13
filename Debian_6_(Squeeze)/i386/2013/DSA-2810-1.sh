@@ -4,7 +4,7 @@
 # Security fix for DSA-2810-1
 #
 # Security announcement date: 2013-12-04 00:00:00 UTC
-# Script generation date:     2015-09-23 18:03:28 UTC
+# Script generation date:     2015-10-13 05:37:19 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - ruby1.9.1:1.9.2.0-2+deb6u2
 #
 # Last versions recommanded by security team:
-#   - ruby1.9.1:1.9.2.0-2+deb6u2
+#   - ruby1.9.1:1.9.2.0-2+deb6u7
 #
 # CVE List:
 #   - CVE-2013-4164
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2810-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ruby1.9.1=1.9.2.0-2+deb6u2 -y
+sudo apt-get install --only-upgrade ruby1.9.1=1.9.2.0-2+deb6u7 -y

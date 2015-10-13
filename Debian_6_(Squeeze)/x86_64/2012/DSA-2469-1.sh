@@ -4,7 +4,7 @@
 # Security fix for DSA-2469-1
 #
 # Security announcement date: 2012-05-09 00:00:00 UTC
-# Script generation date:     2015-09-23 18:03:01 UTC
+# Script generation date:     2015-10-13 05:36:54 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - linux-2.6:2.6.32-44
 #
 # Last versions recommanded by security team:
-#   - linux-2.6:2.6.32-48squeeze6
+#   - linux-2.6:2.6.32-48squeeze16
 #
 # CVE List:
 #   - CVE-2011-4086
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2469-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze6 -y
+sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze16 -y

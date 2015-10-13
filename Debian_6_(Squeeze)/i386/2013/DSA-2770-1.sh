@@ -4,7 +4,7 @@
 # Security fix for DSA-2770-1
 #
 # Security announcement date: 2013-10-09 00:00:00 UTC
-# Script generation date:     2015-09-23 18:03:24 UTC
+# Script generation date:     2015-10-13 05:37:15 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - torque:2.4.8+dfsg-9squeeze2
 #
 # Last versions recommanded by security team:
-#   - torque:2.4.8+dfsg-9squeeze4
+#   - torque:2.4.8+dfsg-9squeeze5
 #
 # CVE List:
 #   - CVE-2013-4319
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2770-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade torque=2.4.8+dfsg-9squeeze4 -y
+sudo apt-get install --only-upgrade torque=2.4.8+dfsg-9squeeze5 -y
