@@ -4,7 +4,7 @@
 # Security fix for DLA-139-1
 #
 # Security announcement date: 2015-01-28 00:00:00 UTC
-# Script generation date:     2015-09-10 10:21:40 UTC
+# Script generation date:     2015-10-13 05:41:29 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - eglibc:2.11.3-4+deb6u4
 #
 # Last versions recommanded by security team:
-#   - eglibc:2.11.3-4+deb6u6
+#   - eglibc:2.11.3-4+deb6u7
 #
 # CVE List:
 #   - CVE-2015-0235
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-139-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade eglibc=2.11.3-4+deb6u6 -y
+sudo apt-get install --only-upgrade eglibc=2.11.3-4+deb6u7 -y

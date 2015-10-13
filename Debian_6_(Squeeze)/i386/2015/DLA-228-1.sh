@@ -4,7 +4,7 @@
 # Security fix for DLA-228-1
 #
 # Security announcement date: 2015-05-27 00:00:00 UTC
-# Script generation date:     2015-09-23 18:07:42 UTC
+# Script generation date:     2015-10-13 05:41:33 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - exactimage:0.8.1-3+deb6u4
 #
 # Last versions recommanded by security team:
-#   - exactimage:0.8.1-3+deb6u3
+#   - exactimage:0.8.1-3+deb6u4
 #
 # CVE List:
 #   - CVE-2015-3885
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-228-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade exactimage=0.8.1-3+deb6u3 -y
+sudo apt-get install --only-upgrade exactimage=0.8.1-3+deb6u4 -y

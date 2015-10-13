@@ -4,7 +4,7 @@
 # Security fix for DLA-89-1
 #
 # Security announcement date: 2014-11-22 00:00:00 UTC
-# Script generation date:     2015-09-10 10:21:37 UTC
+# Script generation date:     2015-10-13 05:41:26 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - nss:3.12.8-1+squeeze10
 #
 # Last versions recommanded by security team:
-#   - nss:3.12.8-1+squeeze11
+#   - nss:3.12.8-1+squeeze12
 #
 # CVE List:
 #   - CVE-2014-1544
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-89-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade nss=3.12.8-1+squeeze11 -y
+sudo apt-get install --only-upgrade nss=3.12.8-1+squeeze12 -y

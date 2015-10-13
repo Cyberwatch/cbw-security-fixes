@@ -4,7 +4,7 @@
 # Security fix for DLA-183-1
 #
 # Security announcement date: 2015-03-28 00:00:00 UTC
-# Script generation date:     2015-09-23 18:07:40 UTC
+# Script generation date:     2015-10-13 05:41:31 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libxfont:1:1.4.1-5+deb6u1
 #
 # Last versions recommanded by security team:
-#   - libxfont:1:1.4.1-5
+#   - libxfont:1:1.4.1-5+deb6u1
 #
 # CVE List:
 #   - CVE-2015-1802
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-183-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxfont=1:1.4.1-5 -y
+sudo apt-get install --only-upgrade libxfont=1:1.4.1-5+deb6u1 -y

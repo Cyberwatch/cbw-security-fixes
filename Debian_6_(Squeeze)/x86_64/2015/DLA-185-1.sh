@@ -4,7 +4,7 @@
 # Security fix for DLA-185-1
 #
 # Security announcement date: 2015-03-31 00:00:00 UTC
-# Script generation date:     2015-09-10 10:03:14 UTC
+# Script generation date:     2015-10-13 05:41:31 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - freetype:2.4.2-2.1+squeeze5
 #
 # Last versions recommanded by security team:
-#   - freetype:2.4.2-2.1+squeeze5
+#   - freetype:2.4.2-2.1+squeeze6
 #
 # CVE List:
 #   - CVE-2014-9656
@@ -38,4 +38,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-185-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade freetype=2.4.2-2.1+squeeze5 -y
+sudo apt-get install --only-upgrade freetype=2.4.2-2.1+squeeze6 -y

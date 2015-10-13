@@ -4,7 +4,7 @@
 # Security fix for DLA-78-1
 #
 # Security announcement date: 2014-10-27 00:00:00 UTC
-# Script generation date:     2015-09-23 18:07:34 UTC
+# Script generation date:     2015-10-13 05:41:25 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - torque:2.4.8+dfsg-9squeeze5
 #
 # Last versions recommanded by security team:
-#   - torque:2.4.8+dfsg-9squeeze4
+#   - torque:2.4.8+dfsg-9squeeze5
 #
 # CVE List:
 #   - CVE-2014-3684
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-78-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade torque=2.4.8+dfsg-9squeeze4 -y
+sudo apt-get install --only-upgrade torque=2.4.8+dfsg-9squeeze5 -y
