@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:1764
 #
 # Security announcement date: 2013-12-05 13:31:54 UTC
-# Script generation date:     2015-09-10 09:41:09 UTC
+# Script generation date:     2015-10-13 05:44:46 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -1516,8 +1516,8 @@
 #   - spice-gtk-python:0.20-11.el6
 #   - spice-gtk-tools:0.20-11.el6
 #   - spice-protocol:0.12.6-1.el6
-#   - spice-server:0.12.4-12.el6_7.1
-#   - spice-server-devel:0.12.4-12.el6_7.1
+#   - spice-server:0.12.4-12.el6_7.3
+#   - spice-server-devel:0.12.4-12.el6_7.3
 #   - spice-vdagent:0.14.0-2.el6
 #   - spice-xpi:2.7-24.el6
 #   - libipa_hbac:1.9.2-129.el6

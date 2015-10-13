@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1715
 #
 # Security announcement date: 2015-09-03 19:06:17 UTC
-# Script generation date:     2015-09-10 10:09:06 UTC
+# Script generation date:     2015-10-13 05:45:03 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - spice-server-devel:0.12.4-12.el6_7.1
 #
 # Last versions recommanded by security team:
-#   - spice-server:0.12.4-12.el6_7.1
-#   - spice-server-devel:0.12.4-12.el6_7.1
+#   - spice-server:0.12.4-12.el6_7.3
+#   - spice-server-devel:0.12.4-12.el6_7.3
 #
 # CVE List:
 #   - CVE-2015-3247
