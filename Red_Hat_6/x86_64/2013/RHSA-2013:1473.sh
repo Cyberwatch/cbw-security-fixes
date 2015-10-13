@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:1473
 #
 # Security announcement date: 2013-10-29 21:18:27 UTC
-# Script generation date:     2015-09-10 09:45:16 UTC
+# Script generation date:     2015-10-13 05:50:22 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - spice-server-devel:0.12.0-12.el6_4.5
 #
 # Last versions recommanded by security team:
-#   - spice-server:0.12.4-12.el6_7.1
-#   - spice-server-debuginfo:0.12.4-12.el6_7.1
-#   - spice-server-devel:0.12.4-12.el6_7.1
+#   - spice-server:0.12.4-12.el6_7.3
+#   - spice-server-debuginfo:0.12.4-12.el6_7.3
+#   - spice-server-devel:0.12.4-12.el6_7.3
 #
 # CVE List:
 #   - CVE-2013-4282
