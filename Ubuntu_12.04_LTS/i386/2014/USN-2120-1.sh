@@ -4,7 +4,7 @@
 # Security fix for USN-2120-1
 #
 # Security announcement date: 2014-02-24 00:00:00 UTC
-# Script generation date:     2015-09-10 10:17:31 UTC
+# Script generation date:     2015-10-16 06:01:36 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - postgresql-9.1:9.1.12-0ubuntu0.12.04
 #
 # Last versions recommanded by security team:
-#   - postgresql-9.1:9.1.16-0ubuntu0.12.04
+#   - postgresql-9.1:9.1.19-0ubuntu0.12.04
 #
 # CVE List:
 #   - CVE-2014-0060
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2120-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade postgresql-9.1=9.1.16-0ubuntu0.12.04 -y
+sudo apt-get install --only-upgrade postgresql-9.1=9.1.19-0ubuntu0.12.04 -y
