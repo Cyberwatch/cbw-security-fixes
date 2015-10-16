@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1681
 #
 # Security announcement date: 2015-08-24 22:40:12 UTC
-# Script generation date:     2015-10-05 18:18:15 UTC
+# Script generation date:     2015-10-16 06:16:01 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - openstack-swift-proxy:2.2.0-4.el7ost
 #
 # Last versions recommanded by security team:
-#   - openstack-swift:1.13.1-6.el7ost
-#   - openstack-swift-account:1.13.1-6.el7ost
-#   - openstack-swift-container:1.13.1-6.el7ost
-#   - openstack-swift-doc:1.13.1-6.el7ost
-#   - openstack-swift-object:1.13.1-6.el7ost
-#   - openstack-swift-proxy:1.13.1-6.el7ost
+#   - openstack-swift:2.3.0-2.el7ost
+#   - openstack-swift-account:2.3.0-2.el7ost
+#   - openstack-swift-container:2.3.0-2.el7ost
+#   - openstack-swift-doc:2.3.0-2.el7ost
+#   - openstack-swift-object:2.3.0-2.el7ost
+#   - openstack-swift-proxy:2.3.0-2.el7ost
 #
 # CVE List:
 #   - CVE-2015-1856
@@ -31,9 +31,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1681
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install openstack-swift-1.13.1 -y 
-sudo yum install openstack-swift-account-1.13.1 -y 
-sudo yum install openstack-swift-container-1.13.1 -y 
-sudo yum install openstack-swift-doc-1.13.1 -y 
-sudo yum install openstack-swift-object-1.13.1 -y 
-sudo yum install openstack-swift-proxy-1.13.1 -y 
+sudo yum install openstack-swift-2.3.0 -y 
+sudo yum install openstack-swift-account-2.3.0 -y 
+sudo yum install openstack-swift-container-2.3.0 -y 
+sudo yum install openstack-swift-doc-2.3.0 -y 
+sudo yum install openstack-swift-object-2.3.0 -y 
+sudo yum install openstack-swift-proxy-2.3.0 -y 

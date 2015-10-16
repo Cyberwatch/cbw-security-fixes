@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:1802
 #
 # Security announcement date: 2011-12-08 21:28:45 UTC
-# Script generation date:     2015-09-10 09:43:36 UTC
+# Script generation date:     2015-10-16 06:11:34 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -102,7 +102,7 @@
 #   - mod_cluster-native-debuginfo:1.0.10-3.1.1.GA_CP02.ep5.el6
 #
 # Last versions recommanded by security team:
-#   - apache-cxf:2.7.14-1.redhat_1.1.ep6.el6
+#   - apache-cxf:2.7.17-1.redhat_1.1.ep6.el6
 #   - cglib:2.2-5.6.ep5.el6
 #   - facelets:1.1.15-3.B1_patch_01.2.ep5.el6
 #   - glassfish-jaxb:2.2.5-14.redhat_5.ep6.el6
@@ -133,7 +133,7 @@
 #   - jbosssx2:2.0.5-9.1.SP3_1_patch_01.ep5.el6
 #   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el6
 #   - jbossts-javadoc:4.6.1-12.CP13.7.ep5.el6
-#   - jbossweb:7.5.10-1.Final_redhat_1.1.ep6.el6
+#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el6
 #   - jbossweb-el-1.0-api:2.1.13-4_patch_02.ep5.el6
 #   - jbossweb-jsp-2.1-api:2.1.13-4_patch_02.ep5.el6
 #   - jbossweb-lib:7.0.17-4.Final_redhat_3.ep6.el6
@@ -201,7 +201,7 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:1802
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install apache-cxf-2.7.14 -y 
+sudo yum install apache-cxf-2.7.17 -y 
 sudo yum install cglib-2.2 -y 
 sudo yum install facelets-1.1.15 -y 
 sudo yum install glassfish-jaxb-2.2.5 -y 
@@ -232,7 +232,7 @@ sudo yum install jbossas-ws-cxf-ewp-5.2.0 -y
 sudo yum install jbosssx2-2.0.5 -y 
 sudo yum install jbossts-4.17.30 -y 
 sudo yum install jbossts-javadoc-4.6.1 -y 
-sudo yum install jbossweb-7.5.10 -y 
+sudo yum install jbossweb-7.5.11 -y 
 sudo yum install jbossweb-el-1.0-api-2.1.13 -y 
 sudo yum install jbossweb-jsp-2.1-api-2.1.13 -y 
 sudo yum install jbossweb-lib-7.0.17 -y 

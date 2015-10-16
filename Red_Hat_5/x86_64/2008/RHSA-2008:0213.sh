@@ -3,7 +3,7 @@
 # Security fix for RHSA-2008:0213
 #
 # Security announcement date: 2008-04-02 21:05:59 UTC
-# Script generation date:     2015-09-10 09:41:35 UTC
+# Script generation date:     2015-10-16 06:09:23 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -62,7 +62,7 @@
 #   - jboss-seam:1.2.1-3.JBPAPP_4_3_0_GA.ep1.22.el5.1
 #   - jboss-seam-docs:1.2.1-3.JBPAPP_4_3_0_GA.ep1.22.el5.1
 #   - jbossas:5.2.0-14.ep5.el5
-#   - jbossweb:7.5.10-1.Final_redhat_1.1.ep6.el5
+#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el5
 #   - jbossws-jboss42:1.2.1-1.1.ep1.el5
 #   - jbossws-wsconsume-impl:2.0.0-0jpp.ep1.3.el5
 #   - jbossxb:1.0.0-2.SP3.0jpp.ep1.3.el5.1
@@ -103,7 +103,7 @@ sudo yum install jboss-remoting-2.5.4 -y
 sudo yum install jboss-seam-1.2.1 -y 
 sudo yum install jboss-seam-docs-1.2.1 -y 
 sudo yum install jbossas-5.2.0 -y 
-sudo yum install jbossweb-7.5.10 -y 
+sudo yum install jbossweb-7.5.11 -y 
 sudo yum install jbossws-jboss42-1.2.1 -y 
 sudo yum install jbossws-wsconsume-impl-2.0.0 -y 
 sudo yum install jbossxb-1.0.0 -y 

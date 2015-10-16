@@ -3,7 +3,7 @@
 # Security fix for RHSA-2009:0349
 #
 # Security announcement date: 2009-03-06 19:13:11 UTC
-# Script generation date:     2015-09-10 09:41:57 UTC
+# Script generation date:     2015-10-16 06:09:47 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -58,7 +58,7 @@
 #   - jbossas-4.3.0.GA_CP04-bin:4.3.0-3.GA_CP04.2.1.ep1.el5
 #   - jbossas-client:5.2.0-14.ep5.el5
 #   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el5
-#   - jbossweb:7.5.10-1.Final_redhat_1.1.ep6.el5
+#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el5
 #   - jbossws:3.1.2-14.SP15_patch_02.ep5.el5
 #   - jbossws-common:2.3.1-1.Final_redhat_1.1.ep6.el5
 #   - jbossws-framework:3.1.2-9.SP13.ep5.el5
@@ -95,7 +95,7 @@ sudo yum install jbossas-5.2.0 -y
 sudo yum install jbossas-4.3.0.GA_CP04-bin-4.3.0 -y 
 sudo yum install jbossas-client-5.2.0 -y 
 sudo yum install jbossts-4.17.30 -y 
-sudo yum install jbossweb-7.5.10 -y 
+sudo yum install jbossweb-7.5.11 -y 
 sudo yum install jbossws-3.1.2 -y 
 sudo yum install jbossws-common-2.3.1 -y 
 sudo yum install jbossws-framework-3.1.2 -y 

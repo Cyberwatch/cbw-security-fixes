@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1495
 #
 # Security announcement date: 2015-07-29 05:44:17 UTC
-# Script generation date:     2015-10-05 18:18:00 UTC
+# Script generation date:     2015-10-16 06:15:50 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -189,12 +189,12 @@
 #   - clufter-lib-ccs:0.11.2-1.el6
 #   - clufter-lib-general:0.11.2-1.el6
 #   - clufter-lib-pcs:0.11.2-1.el6
-#   - openstack-swift:1.13.1-6.el6ost
-#   - openstack-swift-account:1.13.1-6.el6ost
-#   - openstack-swift-container:1.13.1-6.el6ost
-#   - openstack-swift-doc:1.13.1-6.el6ost
-#   - openstack-swift-object:1.13.1-6.el6ost
-#   - openstack-swift-proxy:1.13.1-6.el6ost
+#   - openstack-swift:1.13.1-7.el6ost
+#   - openstack-swift-account:1.13.1-7.el6ost
+#   - openstack-swift-container:1.13.1-7.el6ost
+#   - openstack-swift-doc:1.13.1-7.el6ost
+#   - openstack-swift-object:1.13.1-7.el6ost
+#   - openstack-swift-proxy:1.13.1-7.el6ost
 #   - python-blivet:1.0.0.2-1.el6rhs
 #   - python-eventlet:0.14.0-1.el6
 #   - python-eventlet-doc:0.14.0-1.el6

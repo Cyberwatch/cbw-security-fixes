@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:2019
 #
 # Security announcement date: 2014-12-18 18:48:36 UTC
-# Script generation date:     2015-09-10 09:46:51 UTC
+# Script generation date:     2015-10-16 06:14:57 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - wss4j:1.6.16-2.redhat_3.1.ep6.el5
 #
 # Last versions recommanded by security team:
-#   - apache-cxf:2.7.14-1.redhat_1.1.ep6.el5
+#   - apache-cxf:2.7.17-1.redhat_1.1.ep6.el5
 #   - wss4j:1.6.17-2.SP1_redhat_1.1.ep6.el5
 #
 # CVE List:
@@ -26,5 +26,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:2019
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install apache-cxf-2.7.14 -y 
+sudo yum install apache-cxf-2.7.17 -y 
 sudo yum install wss4j-1.6.17 -y 

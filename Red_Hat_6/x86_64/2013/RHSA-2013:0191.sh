@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0191
 #
 # Security announcement date: 2013-01-24 19:19:01 UTC
-# Script generation date:     2015-09-10 09:44:31 UTC
+# Script generation date:     2015-10-16 06:12:30 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -164,7 +164,7 @@
 #
 # Last versions recommanded by security team:
 #   - aopalliance:1.0-5.3.ep5.el6
-#   - apache-cxf:2.7.14-1.redhat_1.1.ep6.el6
+#   - apache-cxf:2.7.17-1.redhat_1.1.ep6.el6
 #   - bsh2:2.0-0.b4.15.patch01.ep5.el6
 #   - bsh2-bsf:2.0-0.b4.15.patch01.ep5.el6
 #   - glassfish-jaxb:2.2.5-14.redhat_5.ep6.el6
@@ -220,10 +220,10 @@
 #   - jboss-seam2-docs:2.2.6.EAP5-22_patch_01.el6
 #   - jboss-seam2-examples:2.2.6.EAP5-22_patch_01.el6
 #   - jboss-seam2-runtime:2.2.6.EAP5-22_patch_01.el6
-#   - jboss-security-negotiation:2.3.6-1.Final_redhat_1.1.ep6.el6
+#   - jboss-security-negotiation:2.3.8-1.Final_redhat_1.1.ep6.el6
 #   - jboss-security-spi:2.0.5-4.SP3_1.ep5.el6
 #   - jboss-transaction-1.0.1-api:5.0.2-2.ep5.el6
-#   - jboss-vfs2:3.2.9-1.Final_redhat_1.1.ep6.el6
+#   - jboss-vfs2:3.2.10-1.Final_redhat_1.1.ep6.el6
 #   - jbossas:5.2.0-16.ep5.el6
 #   - jbossas-client:5.2.0-16.ep5.el6
 #   - jbossas-hornetq:5.2.0-7.ep5.el6
@@ -234,7 +234,7 @@
 #   - jbosssx2:2.0.5-9.1.SP3_1_patch_01.ep5.el6
 #   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el6
 #   - jbossts-javadoc:4.6.1-12.CP13.7.ep5.el6
-#   - jbossweb:7.5.10-1.Final_redhat_1.1.ep6.el6
+#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el6
 #   - jbossweb-el-1.0-api:2.1.13-4_patch_02.ep5.el6
 #   - jbossweb-jsp-2.1-api:2.1.13-4_patch_02.ep5.el6
 #   - jbossweb-lib:7.0.17-4.Final_redhat_3.ep6.el6
@@ -337,7 +337,7 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install aopalliance-1.0 -y 
-sudo yum install apache-cxf-2.7.14 -y 
+sudo yum install apache-cxf-2.7.17 -y 
 sudo yum install bsh2-2.0 -y 
 sudo yum install bsh2-bsf-2.0 -y 
 sudo yum install glassfish-jaxb-2.2.5 -y 
@@ -393,10 +393,10 @@ sudo yum install jboss-seam2-2.2.6.EAP5 -y
 sudo yum install jboss-seam2-docs-2.2.6.EAP5 -y 
 sudo yum install jboss-seam2-examples-2.2.6.EAP5 -y 
 sudo yum install jboss-seam2-runtime-2.2.6.EAP5 -y 
-sudo yum install jboss-security-negotiation-2.3.6 -y 
+sudo yum install jboss-security-negotiation-2.3.8 -y 
 sudo yum install jboss-security-spi-2.0.5 -y 
 sudo yum install jboss-transaction-1.0.1-api-5.0.2 -y 
-sudo yum install jboss-vfs2-3.2.9 -y 
+sudo yum install jboss-vfs2-3.2.10 -y 
 sudo yum install jbossas-5.2.0 -y 
 sudo yum install jbossas-client-5.2.0 -y 
 sudo yum install jbossas-hornetq-5.2.0 -y 
@@ -407,7 +407,7 @@ sudo yum install jbossas-ws-native-5.2.0 -y
 sudo yum install jbosssx2-2.0.5 -y 
 sudo yum install jbossts-4.17.30 -y 
 sudo yum install jbossts-javadoc-4.6.1 -y 
-sudo yum install jbossweb-7.5.10 -y 
+sudo yum install jbossweb-7.5.11 -y 
 sudo yum install jbossweb-el-1.0-api-2.1.13 -y 
 sudo yum install jbossweb-jsp-2.1-api-2.1.13 -y 
 sudo yum install jbossweb-lib-7.0.17 -y 

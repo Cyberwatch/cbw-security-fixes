@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1845
 #
 # Security announcement date: 2015-10-05 11:06:56 UTC
-# Script generation date:     2015-10-05 18:18:20 UTC
+# Script generation date:     2015-10-16 06:16:07 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -76,12 +76,12 @@
 #   - gluster-nagios-common:0.2.2-1.el6rhs
 #   - nagios-server-addons:0.2.2-1.el6rhs
 #   - gdeploy:1.0-12.el6rhs
-#   - openstack-swift:1.13.1-6.el6ost
-#   - openstack-swift-account:1.13.1-6.el6ost
-#   - openstack-swift-container:1.13.1-6.el6ost
-#   - openstack-swift-doc:1.13.1-6.el6ost
-#   - openstack-swift-object:1.13.1-6.el6ost
-#   - openstack-swift-proxy:1.13.1-6.el6ost
+#   - openstack-swift:1.13.1-7.el6ost
+#   - openstack-swift-account:1.13.1-7.el6ost
+#   - openstack-swift-container:1.13.1-7.el6ost
+#   - openstack-swift-doc:1.13.1-7.el6ost
+#   - openstack-swift-object:1.13.1-7.el6ost
+#   - openstack-swift-proxy:1.13.1-7.el6ost
 #   - redhat-storage-server:3.1.1.0-2.el6rhs
 #   - swiftonfile:1.13.1-5.el6rhs
 #   - vdsm-cli:4.16.20-1.3.el6rhs

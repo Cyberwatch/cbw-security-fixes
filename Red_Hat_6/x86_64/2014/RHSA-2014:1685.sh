@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1685
 #
 # Security announcement date: 2014-10-22 18:07:07 UTC
-# Script generation date:     2015-09-10 09:46:31 UTC
+# Script generation date:     2015-10-16 06:14:35 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - python-glance:2013.2.4-1.el6ost
 #
 # Last versions recommanded by security team:
-#   - openstack-glance:2014.1.4-1.el6ost
-#   - openstack-glance-doc:2014.1.4-1.el6ost
-#   - python-glance:2014.1.4-1.el6ost
+#   - openstack-glance:2014.1.5-3.el6ost
+#   - openstack-glance-doc:2014.1.5-3.el6ost
+#   - python-glance:2014.1.5-3.el6ost
 #
 # CVE List:
 #   - CVE-2014-5356
@@ -25,6 +25,6 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:1685
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install openstack-glance-2014.1.4 -y 
-sudo yum install openstack-glance-doc-2014.1.4 -y 
-sudo yum install python-glance-2014.1.4 -y 
+sudo yum install openstack-glance-2014.1.5 -y 
+sudo yum install openstack-glance-doc-2014.1.5 -y 
+sudo yum install python-glance-2014.1.5 -y 

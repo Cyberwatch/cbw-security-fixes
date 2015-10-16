@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:0210
 #
 # Security announcement date: 2011-02-10 19:49:07 UTC
-# Script generation date:     2015-09-10 09:42:55 UTC
+# Script generation date:     2015-10-16 06:10:48 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -16,8 +16,8 @@
 #   - jbossweb-servlet-2.5-api:2.1.10-5.patch01.1.1.ep5.el5
 #
 # Last versions recommanded by security team:
-#   - jbossweb:7.5.10-1.Final_redhat_1.1.ep6.el5
-#   - jbossweb:7.5.10-1.Final_redhat_1.1.ep6.el5
+#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el5
+#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el5
 #   - jbossweb-jsp-2.1-api:2.1.13-3_patch_02.ep5.el5
 #   - jbossweb-lib:7.0.17-4.Final_redhat_3.ep6.el5
 #   - jbossweb-servlet-2.5-api:2.1.13-3_patch_02.ep5.el5
@@ -29,8 +29,8 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:0210
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install jbossweb-7.5.10 -y 
-sudo yum install jbossweb-7.5.10 -y 
+sudo yum install jbossweb-7.5.11 -y 
+sudo yum install jbossweb-7.5.11 -y 
 sudo yum install jbossweb-jsp-2.1-api-2.1.13 -y 
 sudo yum install jbossweb-lib-7.0.17 -y 
 sudo yum install jbossweb-servlet-2.5-api-2.1.13 -y 

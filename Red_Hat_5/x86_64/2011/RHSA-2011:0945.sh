@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:0945
 #
 # Security announcement date: 2011-07-18 22:04:52 UTC
-# Script generation date:     2015-09-10 09:43:15 UTC
+# Script generation date:     2015-10-16 06:11:09 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -153,7 +153,7 @@
 #
 # Last versions recommanded by security team:
 #   - antlr:2.7.7-7.ep5.el5
-#   - apache-cxf:2.7.14-1.redhat_1.1.ep6.el5
+#   - apache-cxf:2.7.17-1.redhat_1.1.ep6.el5
 #   - bcel:5.2-8.1.ep5.el5
 #   - bsh2:2.0-0.b4.15.1.patch01.ep5.el5
 #   - bsh2-bsf:2.0-0.b4.15.1.patch01.ep5.el5
@@ -220,7 +220,7 @@
 #   - jboss-serialization:1.0.5-2.ep5.el5
 #   - jboss-specs-parent:1.0.0-5.Beta2_redhat_2.ep6.el5
 #   - jboss-transaction-1.0.1-api:5.0.2-2.ep5.el5
-#   - jboss-vfs2:3.2.9-1.Final_redhat_1.1.ep6.el5
+#   - jboss-vfs2:3.2.10-1.Final_redhat_1.1.ep6.el5
 #   - jbossas-web:5.2.0-8.ep5.el5
 #   - jbossas-web-client:5.2.0-8.ep5.el5
 #   - jbossas-web-tp-licenses:5.2.0-7.ep5.el5
@@ -229,7 +229,7 @@
 #   - jbosssx2:2.0.5-9.SP3_1_patch_01.ep5.el5
 #   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el5
 #   - jbossts-javadoc:4.6.1-12.CP13.8.ep5.el5
-#   - jbossweb:7.5.10-1.Final_redhat_1.1.ep6.el5
+#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el5
 #   - jbossweb-el-1.0-api:2.1.13-3_patch_02.ep5.el5
 #   - jbossweb-jsp-2.1-api:2.1.13-3_patch_02.ep5.el5
 #   - jbossweb-lib:7.0.17-4.Final_redhat_3.ep6.el5
@@ -303,7 +303,7 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install antlr-2.7.7 -y 
-sudo yum install apache-cxf-2.7.14 -y 
+sudo yum install apache-cxf-2.7.17 -y 
 sudo yum install bcel-5.2 -y 
 sudo yum install bsh2-2.0 -y 
 sudo yum install bsh2-bsf-2.0 -y 
@@ -370,7 +370,7 @@ sudo yum install jboss-security-xacml-2.0.8 -y
 sudo yum install jboss-serialization-1.0.5 -y 
 sudo yum install jboss-specs-parent-1.0.0 -y 
 sudo yum install jboss-transaction-1.0.1-api-5.0.2 -y 
-sudo yum install jboss-vfs2-3.2.9 -y 
+sudo yum install jboss-vfs2-3.2.10 -y 
 sudo yum install jbossas-web-5.2.0 -y 
 sudo yum install jbossas-web-client-5.2.0 -y 
 sudo yum install jbossas-web-tp-licenses-5.2.0 -y 
@@ -379,7 +379,7 @@ sudo yum install jbossas-ws-cxf-ewp-5.2.0 -y
 sudo yum install jbosssx2-2.0.5 -y 
 sudo yum install jbossts-4.17.30 -y 
 sudo yum install jbossts-javadoc-4.6.1 -y 
-sudo yum install jbossweb-7.5.10 -y 
+sudo yum install jbossweb-7.5.11 -y 
 sudo yum install jbossweb-el-1.0-api-2.1.13 -y 
 sudo yum install jbossweb-jsp-2.1-api-2.1.13 -y 
 sudo yum install jbossweb-lib-7.0.17 -y 

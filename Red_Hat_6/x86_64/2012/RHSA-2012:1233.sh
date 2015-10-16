@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:1233
 #
 # Security announcement date: 2012-09-05 17:05:55 UTC
-# Script generation date:     2015-09-10 09:44:12 UTC
+# Script generation date:     2015-10-16 06:12:09 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - qemu-kvm-rhev-tools:0.12.1.2-2.295.el6_3.2
 #
 # Last versions recommanded by security team:
-#   - qemu-img-rhev:0.12.1.2-2.479.el6_7.1
-#   - qemu-kvm-rhev:0.12.1.2-2.479.el6_7.1
-#   - qemu-kvm-rhev-debuginfo:0.12.1.2-2.479.el6_7.1
-#   - qemu-kvm-rhev-tools:0.12.1.2-2.479.el6_7.1
+#   - qemu-img-rhev:0.12.1.2-2.479.el6_7.2
+#   - qemu-kvm-rhev:0.12.1.2-2.479.el6_7.2
+#   - qemu-kvm-rhev-debuginfo:0.12.1.2-2.479.el6_7.2
+#   - qemu-kvm-rhev-tools:0.12.1.2-2.479.el6_7.2
 #
 # CVE List:
 #   - CVE-2012-3515

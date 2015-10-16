@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0874
 #
 # Security announcement date: 2013-05-28 17:53:50 UTC
-# Script generation date:     2015-09-10 09:44:55 UTC
+# Script generation date:     2015-10-16 06:12:55 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -14,7 +14,7 @@
 #   - wss4j:1.5.12-6_patch_03.ep5.el5
 #
 # Last versions recommanded by security team:
-#   - apache-cxf:2.7.14-1.redhat_1.1.ep6.el5
+#   - apache-cxf:2.7.17-1.redhat_1.1.ep6.el5
 #   - jbossws:3.1.2-14.SP15_patch_02.ep5.el5
 #   - wss4j:1.6.17-2.SP1_redhat_1.1.ep6.el5
 #
@@ -27,6 +27,6 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:0874
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install apache-cxf-2.7.14 -y 
+sudo yum install apache-cxf-2.7.17 -y 
 sudo yum install jbossws-3.1.2 -y 
 sudo yum install wss4j-1.6.17 -y 

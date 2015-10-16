@@ -3,7 +3,7 @@
 # Security fix for RHSA-2008:0834
 #
 # Security announcement date: 2008-09-22 14:18:49 UTC
-# Script generation date:     2015-09-10 09:41:48 UTC
+# Script generation date:     2015-10-16 06:09:39 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -53,7 +53,7 @@
 #   - jboss-seam-docs:1.2.1-3.JBPAPP_4_3_0_GA.ep1.22.el5.1
 #   - jbossas:5.2.0-14.ep5.el5
 #   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el5
-#   - jbossweb:7.5.10-1.Final_redhat_1.1.ep6.el5
+#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el5
 #   - jbossxb:1.0.0-2.SP3.0jpp.ep1.3.el5.1
 #   - rh-eap-docs:5.2.0-6.ep5.el5
 #   - rh-eap-docs-examples:5.2.0-6.ep5.el5
@@ -85,7 +85,7 @@ sudo yum install jboss-seam-1.2.1 -y
 sudo yum install jboss-seam-docs-1.2.1 -y 
 sudo yum install jbossas-5.2.0 -y 
 sudo yum install jbossts-4.17.30 -y 
-sudo yum install jbossweb-7.5.10 -y 
+sudo yum install jbossweb-7.5.11 -y 
 sudo yum install jbossxb-1.0.0 -y 
 sudo yum install rh-eap-docs-5.2.0 -y 
 sudo yum install rh-eap-docs-examples-5.2.0 -y 

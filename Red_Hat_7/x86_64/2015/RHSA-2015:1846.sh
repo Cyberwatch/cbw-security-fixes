@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1846
 #
 # Security announcement date: 2015-10-05 13:59:07 UTC
-# Script generation date:     2015-10-05 18:18:21 UTC
+# Script generation date:     2015-10-16 06:16:07 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -78,12 +78,12 @@
 #   - nagios-server-addons:0.2.2-1.el7rhgs
 #   - nagios-server-addons-debuginfo:0.2.2-1.el7rhgs
 #   - gdeploy:1.0-12.el7rhgs
-#   - openstack-swift:1.13.1-6.el7ost
-#   - openstack-swift-account:1.13.1-6.el7ost
-#   - openstack-swift-container:1.13.1-6.el7ost
-#   - openstack-swift-doc:1.13.1-6.el7ost
-#   - openstack-swift-object:1.13.1-6.el7ost
-#   - openstack-swift-proxy:1.13.1-6.el7ost
+#   - openstack-swift:2.3.0-2.el7ost
+#   - openstack-swift-account:2.3.0-2.el7ost
+#   - openstack-swift-container:2.3.0-2.el7ost
+#   - openstack-swift-doc:2.3.0-2.el7ost
+#   - openstack-swift-object:2.3.0-2.el7ost
+#   - openstack-swift-proxy:2.3.0-2.el7ost
 #   - redhat-storage-server:3.1.1.0-2.el7rhgs
 #   - swiftonfile:1.13.1-5.el7rhgs
 #   - vdsm-cli:4.16.20-1.3.el7rhgs
@@ -146,12 +146,12 @@ sudo yum install gluster-nagios-common-0.2.2 -y
 sudo yum install nagios-server-addons-0.2.2 -y 
 sudo yum install nagios-server-addons-debuginfo-0.2.2 -y 
 sudo yum install gdeploy-1.0 -y 
-sudo yum install openstack-swift-1.13.1 -y 
-sudo yum install openstack-swift-account-1.13.1 -y 
-sudo yum install openstack-swift-container-1.13.1 -y 
-sudo yum install openstack-swift-doc-1.13.1 -y 
-sudo yum install openstack-swift-object-1.13.1 -y 
-sudo yum install openstack-swift-proxy-1.13.1 -y 
+sudo yum install openstack-swift-2.3.0 -y 
+sudo yum install openstack-swift-account-2.3.0 -y 
+sudo yum install openstack-swift-container-2.3.0 -y 
+sudo yum install openstack-swift-doc-2.3.0 -y 
+sudo yum install openstack-swift-object-2.3.0 -y 
+sudo yum install openstack-swift-proxy-2.3.0 -y 
 sudo yum install redhat-storage-server-3.1.1.0 -y 
 sudo yum install swiftonfile-1.13.1 -y 
 sudo yum install vdsm-cli-4.16.20 -y 

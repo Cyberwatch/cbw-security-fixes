@@ -3,7 +3,7 @@
 # Security fix for RHSA-2010:0379
 #
 # Security announcement date: 2010-04-27 04:22:27 UTC
-# Script generation date:     2015-09-10 09:42:27 UTC
+# Script generation date:     2015-10-16 06:10:21 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -49,7 +49,7 @@
 #   - jbossas-4.3.0.GA_CP08-bin:4.3.0-7.GA_CP08.5.ep1.el5
 #   - jbossas-client:5.2.0-14.ep5.el5
 #   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el5
-#   - jbossweb:7.5.10-1.Final_redhat_1.1.ep6.el5
+#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el5
 #   - jbossws:3.1.2-14.SP15_patch_02.ep5.el5
 #   - rh-eap-docs:5.2.0-6.ep5.el5
 #   - rh-eap-docs-examples:5.2.0-6.ep5.el5
@@ -81,7 +81,7 @@ sudo yum install jbossas-5.2.0 -y
 sudo yum install jbossas-4.3.0.GA_CP08-bin-4.3.0 -y 
 sudo yum install jbossas-client-5.2.0 -y 
 sudo yum install jbossts-4.17.30 -y 
-sudo yum install jbossweb-7.5.10 -y 
+sudo yum install jbossweb-7.5.11 -y 
 sudo yum install jbossws-3.1.2 -y 
 sudo yum install rh-eap-docs-5.2.0 -y 
 sudo yum install rh-eap-docs-examples-5.2.0 -y 

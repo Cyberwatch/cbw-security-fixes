@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0993
 #
 # Security announcement date: 2013-06-27 18:22:19 UTC
-# Script generation date:     2015-09-10 09:44:58 UTC
+# Script generation date:     2015-10-16 06:12:57 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - openstack-swift-proxy:1.8.0-6.el6ost
 #
 # Last versions recommanded by security team:
-#   - openstack-swift:1.13.1-6.el6ost
-#   - openstack-swift-account:1.13.1-6.el6ost
-#   - openstack-swift-container:1.13.1-6.el6ost
-#   - openstack-swift-doc:1.13.1-6.el6ost
-#   - openstack-swift-object:1.13.1-6.el6ost
-#   - openstack-swift-proxy:1.13.1-6.el6ost
+#   - openstack-swift:1.13.1-7.el6ost
+#   - openstack-swift-account:1.13.1-7.el6ost
+#   - openstack-swift-container:1.13.1-7.el6ost
+#   - openstack-swift-doc:1.13.1-7.el6ost
+#   - openstack-swift-object:1.13.1-7.el6ost
+#   - openstack-swift-proxy:1.13.1-7.el6ost
 #
 # CVE List:
 #   - CVE-2013-2161
