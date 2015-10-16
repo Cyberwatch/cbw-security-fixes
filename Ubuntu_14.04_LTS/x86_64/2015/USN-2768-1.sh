@@ -1,26 +1,25 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2015
 #
-# Security fix for USN-2538-1
+# Security fix for USN-2768-1
 #
-# Security announcement date: 2015-03-22 00:00:00 UTC
-# Script generation date:     2015-10-16 18:02:16 UTC
+# Security announcement date: 2015-10-16 00:00:00 UTC
+# Script generation date:     2015-10-16 18:02:50 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:36.0.4+build1-0ubuntu0.14.04.1
+#   - firefox:41.0.2+build2-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
 #   - firefox:41.0.2+build2-0ubuntu0.14.04.1
 #
 # CVE List:
-#   - CVE-2015-0817
-#   - CVE-2015-0818
+#   - CVE-2015-7184
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2538-1
+#   - https://www.cyberwatch.fr/notices/USN-2768-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade firefox=41.0.2+build2-0ubuntu0.14.04.1 -y
