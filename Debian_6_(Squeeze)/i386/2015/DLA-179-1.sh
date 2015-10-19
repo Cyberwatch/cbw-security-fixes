@@ -4,7 +4,7 @@
 # Security fix for DLA-179-1
 #
 # Security announcement date: 2015-03-22 00:00:00 UTC
-# Script generation date:     2015-09-10 10:21:42 UTC
+# Script generation date:     2015-10-19 06:04:45 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - tzdata:2015b-0squeeze1
 #
 # Last versions recommanded by security team:
-#   - tzdata:2015d-0+deb6u1
+#   - tzdata:2015g-0+deb6u1
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-179-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tzdata=2015d-0+deb6u1 -y
+sudo apt-get install --only-upgrade tzdata=2015g-0+deb6u1 -y
