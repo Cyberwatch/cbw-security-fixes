@@ -4,7 +4,7 @@
 # Security fix for USN-2610-1
 #
 # Security announcement date: 2015-05-21 00:00:00 UTC
-# Script generation date:     2015-10-05 18:02:32 UTC
+# Script generation date:     2015-10-20 18:02:28 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - oxideqt-codecs-extra:1.7.8-0ubuntu0.15.04.1
 #
 # Last versions recommanded by security team:
-#   - liboxideqtcore0:1.9.5-0ubuntu0.15.04.1
-#   - oxideqt-codecs:1.9.5-0ubuntu0.15.04.1
-#   - oxideqt-codecs-extra:1.9.5-0ubuntu0.15.04.1
+#   - liboxideqtcore0:1.10.3-0ubuntu0.15.04.1
+#   - oxideqt-codecs:1.10.3-0ubuntu0.15.04.1
+#   - oxideqt-codecs-extra:1.10.3-0ubuntu0.15.04.1
 #
 # CVE List:
 #   - CVE-2015-1253
@@ -35,6 +35,6 @@
 #   - https://www.cyberwatch.fr/notices/USN-2610-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade liboxideqtcore0=1.9.5-0ubuntu0.15.04.1 -y
-sudo apt-get install --only-upgrade oxideqt-codecs=1.9.5-0ubuntu0.15.04.1 -y
-sudo apt-get install --only-upgrade oxideqt-codecs-extra=1.9.5-0ubuntu0.15.04.1 -y
+sudo apt-get install --only-upgrade liboxideqtcore0=1.10.3-0ubuntu0.15.04.1 -y
+sudo apt-get install --only-upgrade oxideqt-codecs=1.10.3-0ubuntu0.15.04.1 -y
+sudo apt-get install --only-upgrade oxideqt-codecs-extra=1.10.3-0ubuntu0.15.04.1 -y
