@@ -4,7 +4,7 @@
 # Security fix for USN-2516-2
 #
 # Security announcement date: 2015-02-28 00:00:00 UTC
-# Script generation date:     2015-10-13 05:33:45 UTC
+# Script generation date:     2015-10-20 06:02:13 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -32,7 +32,7 @@
 #   - linux-tools-3.13.0-46:3.13.0-46.79
 #   - linux-tools-common:3.13.0-65.106
 #   - linux-doc:3.13.0-65.106
-#   - linux-libc-dev:3.13.0-65.106
+#   - linux-libc-dev:3.13.0-66.108
 #   - linux-tools-3.13.0-46-generic:3.13.0-46.79
 #   - linux-source-3.13.0:3.13.0-65.106
 #   - linux-headers-3.13.0-46-generic:3.13.0-46.79
@@ -68,7 +68,7 @@
 sudo apt-get install --only-upgrade linux-tools-3.13.0-46=3.13.0-46.79 -y
 sudo apt-get install --only-upgrade linux-tools-common=3.13.0-65.106 -y
 sudo apt-get install --only-upgrade linux-doc=3.13.0-65.106 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-65.106 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-66.108 -y
 sudo apt-get install --only-upgrade linux-tools-3.13.0-46-generic=3.13.0-46.79 -y
 sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-65.106 -y
 sudo apt-get install --only-upgrade linux-headers-3.13.0-46-generic=3.13.0-46.79 -y
