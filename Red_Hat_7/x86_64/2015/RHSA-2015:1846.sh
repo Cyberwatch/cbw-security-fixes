@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1846
 #
 # Security announcement date: 2015-10-05 13:59:07 UTC
-# Script generation date:     2015-10-16 06:16:07 UTC
+# Script generation date:     2015-10-21 06:18:06 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -85,7 +85,7 @@
 #   - openstack-swift-object:2.3.0-2.el7ost
 #   - openstack-swift-proxy:2.3.0-2.el7ost
 #   - redhat-storage-server:3.1.1.0-2.el7rhgs
-#   - swiftonfile:1.13.1-5.el7rhgs
+#   - swiftonfile:1.13.1-6.el7rhgs
 #   - vdsm-cli:4.16.20-1.3.el7rhgs
 #   - vdsm-debug-plugin:4.16.20-1.3.el7rhgs
 #   - vdsm-gluster:4.16.20-1.3.el7rhgs
