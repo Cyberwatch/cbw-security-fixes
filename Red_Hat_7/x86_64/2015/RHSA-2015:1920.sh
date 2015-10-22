@@ -1,22 +1,23 @@
 # CYBERWATCH SAS - 2015
 #
-# Security fix for RHSA-2014:1620
+# Security fix for RHSA-2015:1920
 #
-# Security announcement date: 2014-10-15 03:12:54 UTC
-# Script generation date:     2015-10-22 06:13:13 UTC
+# Security announcement date: 2015-10-21 21:18:04 UTC
+# Script generation date:     2015-10-22 06:14:37 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.7.0-openjdk:1.7.0.71-2.5.3.1.el7_0
-#   - java-1.7.0-openjdk-debuginfo:1.7.0.71-2.5.3.1.el7_0
-#   - java-1.7.0-openjdk-headless:1.7.0.71-2.5.3.1.el7_0
-#   - java-1.7.0-openjdk-javadoc:1.7.0.71-2.5.3.1.el7_0
-#   - java-1.7.0-openjdk-accessibility:1.7.0.71-2.5.3.1.el7_0
-#   - java-1.7.0-openjdk-demo:1.7.0.71-2.5.3.1.el7_0
-#   - java-1.7.0-openjdk-devel:1.7.0.71-2.5.3.1.el7_0
-#   - java-1.7.0-openjdk-src:1.7.0.71-2.5.3.1.el7_0
+#   - java-1.7.0-openjdk:1.7.0.91-2.6.2.1.el7_1
+#   - java-1.7.0-openjdk-debuginfo:1.7.0.91-2.6.2.1.el7_1
+#   - java-1.7.0-openjdk-headless:1.7.0.91-2.6.2.1.el7_1
+#   - java-1.7.0-openjdk-javadoc:1.7.0.91-2.6.2.1.el7_1
+#   - java-1.7.0-openjdk-accessibility:1.7.0.91-2.6.2.1.el7_1
+#   - java-1.7.0-openjdk-demo:1.7.0.91-2.6.2.1.el7_1
+#   - java-1.7.0-openjdk-devel:1.7.0.91-2.6.2.1.el7_1
+#   - java-1.7.0-openjdk-src:1.7.0.91-2.6.2.1.el7_1
+#   - java-1.7.0-openjdk-javadoc:1.7.0.91-2.6.2.1.ael7b_1
 #
 # Last versions recommanded by security team:
 #   - java-1.7.0-openjdk:1.7.0.91-2.6.2.1.el7_1
@@ -27,21 +28,29 @@
 #   - java-1.7.0-openjdk-demo:1.7.0.91-2.6.2.1.el7_1
 #   - java-1.7.0-openjdk-devel:1.7.0.91-2.6.2.1.el7_1
 #   - java-1.7.0-openjdk-src:1.7.0.91-2.6.2.1.el7_1
+#   - java-1.7.0-openjdk-javadoc:1.7.0.91-2.6.2.1.ael7b_1
 #
 # CVE List:
-#   - CVE-2014-6457
-#   - CVE-2014-6502
-#   - CVE-2014-6504
-#   - CVE-2014-6506
-#   - CVE-2014-6511
-#   - CVE-2014-6512
-#   - CVE-2014-6517
-#   - CVE-2014-6519
-#   - CVE-2014-6531
-#   - CVE-2014-6558
+#   - CVE-2015-4734
+#   - CVE-2015-4803
+#   - CVE-2015-4805
+#   - CVE-2015-4806
+#   - CVE-2015-4835
+#   - CVE-2015-4840
+#   - CVE-2015-4842
+#   - CVE-2015-4843
+#   - CVE-2015-4844
+#   - CVE-2015-4860
+#   - CVE-2015-4872
+#   - CVE-2015-4881
+#   - CVE-2015-4882
+#   - CVE-2015-4883
+#   - CVE-2015-4893
+#   - CVE-2015-4903
+#   - CVE-2015-4911
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1620
+#   - https://www.cyberwatch.fr/notices/RHSA-2015:1920
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install java-1.7.0-openjdk-1.7.0.91 -y 
@@ -52,3 +61,4 @@ sudo yum install java-1.7.0-openjdk-accessibility-1.7.0.91 -y
 sudo yum install java-1.7.0-openjdk-demo-1.7.0.91 -y 
 sudo yum install java-1.7.0-openjdk-devel-1.7.0.91 -y 
 sudo yum install java-1.7.0-openjdk-src-1.7.0.91 -y 
+sudo yum install java-1.7.0-openjdk-javadoc-1.7.0.91 -y 

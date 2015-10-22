@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0752
 #
 # Security announcement date: 2013-04-17 19:05:02 UTC
-# Script generation date:     2015-09-10 09:44:47 UTC
+# Script generation date:     2015-10-22 06:11:29 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - java-1.7.0-openjdk-src:1.7.0.19-2.3.9.1.el5_9
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-openjdk:1.7.0.85-2.6.1.3.el5_11
-#   - java-1.7.0-openjdk-debuginfo:1.7.0.85-2.6.1.3.el5_11
-#   - java-1.7.0-openjdk-demo:1.7.0.85-2.6.1.3.el5_11
-#   - java-1.7.0-openjdk-devel:1.7.0.85-2.6.1.3.el5_11
-#   - java-1.7.0-openjdk-javadoc:1.7.0.85-2.6.1.3.el5_11
-#   - java-1.7.0-openjdk-src:1.7.0.85-2.6.1.3.el5_11
+#   - java-1.7.0-openjdk:1.7.0.91-2.6.2.1.el5_11
+#   - java-1.7.0-openjdk-debuginfo:1.7.0.91-2.6.2.1.el5_11
+#   - java-1.7.0-openjdk-demo:1.7.0.91-2.6.2.1.el5_11
+#   - java-1.7.0-openjdk-devel:1.7.0.91-2.6.2.1.el5_11
+#   - java-1.7.0-openjdk-javadoc:1.7.0.91-2.6.2.1.el5_11
+#   - java-1.7.0-openjdk-src:1.7.0.91-2.6.2.1.el5_11
 #
 # CVE List:
 #   - CVE-2013-0401
@@ -52,9 +52,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:0752
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.0-openjdk-1.7.0.85 -y 
-sudo yum install java-1.7.0-openjdk-debuginfo-1.7.0.85 -y 
-sudo yum install java-1.7.0-openjdk-demo-1.7.0.85 -y 
-sudo yum install java-1.7.0-openjdk-devel-1.7.0.85 -y 
-sudo yum install java-1.7.0-openjdk-javadoc-1.7.0.85 -y 
-sudo yum install java-1.7.0-openjdk-src-1.7.0.85 -y 
+sudo yum install java-1.7.0-openjdk-1.7.0.91 -y 
+sudo yum install java-1.7.0-openjdk-debuginfo-1.7.0.91 -y 
+sudo yum install java-1.7.0-openjdk-demo-1.7.0.91 -y 
+sudo yum install java-1.7.0-openjdk-devel-1.7.0.91 -y 
+sudo yum install java-1.7.0-openjdk-javadoc-1.7.0.91 -y 
+sudo yum install java-1.7.0-openjdk-src-1.7.0.91 -y 

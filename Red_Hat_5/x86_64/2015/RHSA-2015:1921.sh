@@ -1,20 +1,20 @@
 # CYBERWATCH SAS - 2015
 #
-# Security fix for RHSA-2014:0890
+# Security fix for RHSA-2015:1921
 #
-# Security announcement date: 2014-07-16 05:29:56 UTC
-# Script generation date:     2015-10-22 06:12:41 UTC
+# Security announcement date: 2015-10-21 21:19:26 UTC
+# Script generation date:     2015-10-22 06:14:37 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.7.0-openjdk:1.7.0.65-2.5.1.2.el5_10
-#   - java-1.7.0-openjdk-debuginfo:1.7.0.65-2.5.1.2.el5_10
-#   - java-1.7.0-openjdk-demo:1.7.0.65-2.5.1.2.el5_10
-#   - java-1.7.0-openjdk-devel:1.7.0.65-2.5.1.2.el5_10
-#   - java-1.7.0-openjdk-javadoc:1.7.0.65-2.5.1.2.el5_10
-#   - java-1.7.0-openjdk-src:1.7.0.65-2.5.1.2.el5_10
+#   - java-1.7.0-openjdk:1.7.0.91-2.6.2.1.el5_11
+#   - java-1.7.0-openjdk-debuginfo:1.7.0.91-2.6.2.1.el5_11
+#   - java-1.7.0-openjdk-demo:1.7.0.91-2.6.2.1.el5_11
+#   - java-1.7.0-openjdk-devel:1.7.0.91-2.6.2.1.el5_11
+#   - java-1.7.0-openjdk-javadoc:1.7.0.91-2.6.2.1.el5_11
+#   - java-1.7.0-openjdk-src:1.7.0.91-2.6.2.1.el5_11
 #
 # Last versions recommanded by security team:
 #   - java-1.7.0-openjdk:1.7.0.91-2.6.2.1.el5_11
@@ -25,22 +25,26 @@
 #   - java-1.7.0-openjdk-src:1.7.0.91-2.6.2.1.el5_11
 #
 # CVE List:
-#   - CVE-2014-2483
-#   - CVE-2014-2490
-#   - CVE-2014-4209
-#   - CVE-2014-4216
-#   - CVE-2014-4218
-#   - CVE-2014-4219
-#   - CVE-2014-4221
-#   - CVE-2014-4223
-#   - CVE-2014-4244
-#   - CVE-2014-4252
-#   - CVE-2014-4262
-#   - CVE-2014-4263
-#   - CVE-2014-4266
+#   - CVE-2015-4734
+#   - CVE-2015-4803
+#   - CVE-2015-4805
+#   - CVE-2015-4806
+#   - CVE-2015-4835
+#   - CVE-2015-4840
+#   - CVE-2015-4842
+#   - CVE-2015-4843
+#   - CVE-2015-4844
+#   - CVE-2015-4860
+#   - CVE-2015-4872
+#   - CVE-2015-4881
+#   - CVE-2015-4882
+#   - CVE-2015-4883
+#   - CVE-2015-4893
+#   - CVE-2015-4903
+#   - CVE-2015-4911
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:0890
+#   - https://www.cyberwatch.fr/notices/RHSA-2015:1921
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install java-1.7.0-openjdk-1.7.0.91 -y 
