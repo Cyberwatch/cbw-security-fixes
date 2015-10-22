@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:1764
 #
 # Security announcement date: 2013-12-05 13:31:54 UTC
-# Script generation date:     2015-10-13 05:44:46 UTC
+# Script generation date:     2015-10-22 06:06:42 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -1073,11 +1073,11 @@
 #   - java-1.6.0-openjdk-devel:1.6.0.36-1.13.8.1.el6_7
 #   - java-1.6.0-openjdk-javadoc:1.6.0.36-1.13.8.1.el6_7
 #   - java-1.6.0-openjdk-src:1.6.0.36-1.13.8.1.el6_7
-#   - java-1.7.0-openjdk-javadoc:1.7.0.85-2.6.1.3.el6_6
-#   - java-1.7.0-openjdk:1.7.0.85-2.6.1.3.el6_6
-#   - java-1.7.0-openjdk-demo:1.7.0.85-2.6.1.3.el6_6
-#   - java-1.7.0-openjdk-devel:1.7.0.85-2.6.1.3.el6_6
-#   - java-1.7.0-openjdk-src:1.7.0.85-2.6.1.3.el6_6
+#   - java-1.7.0-openjdk-javadoc:1.7.0.91-2.6.2.2.el6_7
+#   - java-1.7.0-openjdk:1.7.0.91-2.6.2.2.el6_7
+#   - java-1.7.0-openjdk-demo:1.7.0.91-2.6.2.2.el6_7
+#   - java-1.7.0-openjdk-devel:1.7.0.91-2.6.2.2.el6_7
+#   - java-1.7.0-openjdk-src:1.7.0.91-2.6.2.2.el6_7
 #   - kernel-abi-whitelists:2.6.32-573.3.1.el6
 #   - kernel-doc:2.6.32-573.3.1.el6
 #   - kernel-firmware:2.6.32-573.3.1.el6
@@ -1894,11 +1894,11 @@ sudo yum install java-1.6.0-openjdk-demo-1.6.0.36 -y
 sudo yum install java-1.6.0-openjdk-devel-1.6.0.36 -y 
 sudo yum install java-1.6.0-openjdk-javadoc-1.6.0.36 -y 
 sudo yum install java-1.6.0-openjdk-src-1.6.0.36 -y 
-sudo yum install java-1.7.0-openjdk-javadoc-1.7.0.85 -y 
-sudo yum install java-1.7.0-openjdk-1.7.0.85 -y 
-sudo yum install java-1.7.0-openjdk-demo-1.7.0.85 -y 
-sudo yum install java-1.7.0-openjdk-devel-1.7.0.85 -y 
-sudo yum install java-1.7.0-openjdk-src-1.7.0.85 -y 
+sudo yum install java-1.7.0-openjdk-javadoc-1.7.0.91 -y 
+sudo yum install java-1.7.0-openjdk-1.7.0.91 -y 
+sudo yum install java-1.7.0-openjdk-demo-1.7.0.91 -y 
+sudo yum install java-1.7.0-openjdk-devel-1.7.0.91 -y 
+sudo yum install java-1.7.0-openjdk-src-1.7.0.91 -y 
 sudo yum install kernel-abi-whitelists-2.6.32 -y 
 sudo yum install kernel-doc-2.6.32 -y 
 sudo yum install kernel-firmware-2.6.32 -y 

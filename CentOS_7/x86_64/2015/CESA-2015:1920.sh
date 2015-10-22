@@ -1,21 +1,21 @@
 # CYBERWATCH SAS - 2015
 #
-# Security fix for CESA-2015:0067
+# Security fix for CESA-2015:1920
 #
-# Security announcement date: 2015-01-21 07:12:16 UTC
-# Script generation date:     2015-10-22 06:06:17 UTC
+# Security announcement date: 2015-10-22 00:07:57 UTC
+# Script generation date:     2015-10-22 06:06:53 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.7.0-openjdk:1.7.0.75-2.5.4.2.el7_0
-#   - java-1.7.0-openjdk-accessibility:1.7.0.75-2.5.4.2.el7_0
-#   - java-1.7.0-openjdk-demo:1.7.0.75-2.5.4.2.el7_0
-#   - java-1.7.0-openjdk-devel:1.7.0.75-2.5.4.2.el7_0
-#   - java-1.7.0-openjdk-headless:1.7.0.75-2.5.4.2.el7_0
-#   - java-1.7.0-openjdk-javadoc:1.7.0.75-2.5.4.2.el7_0
-#   - java-1.7.0-openjdk-src:1.7.0.75-2.5.4.2.el7_0
+#   - java-1.7.0-openjdk:1.7.0.91-2.6.2.1.el7_1
+#   - java-1.7.0-openjdk-accessibility:1.7.0.91-2.6.2.1.el7_1
+#   - java-1.7.0-openjdk-demo:1.7.0.91-2.6.2.1.el7_1
+#   - java-1.7.0-openjdk-devel:1.7.0.91-2.6.2.1.el7_1
+#   - java-1.7.0-openjdk-headless:1.7.0.91-2.6.2.1.el7_1
+#   - java-1.7.0-openjdk-javadoc:1.7.0.91-2.6.2.1.el7_1
+#   - java-1.7.0-openjdk-src:1.7.0.91-2.6.2.1.el7_1
 #
 # Last versions recommanded by security team:
 #   - java-1.7.0-openjdk:1.7.0.91-2.6.2.1.el7_1
@@ -27,21 +27,26 @@
 #   - java-1.7.0-openjdk-src:1.7.0.91-2.6.2.1.el7_1
 #
 # CVE List:
-#   - CVE-2014-3566
-#   - CVE-2014-6585
-#   - CVE-2014-6593
-#   - CVE-2015-0383
-#   - CVE-2015-0410
-#   - CVE-2014-6591
-#   - CVE-2015-0395
-#   - CVE-2015-0407
-#   - CVE-2015-0408
-#   - CVE-2014-6601
-#   - CVE-2014-6587
-#   - CVE-2015-0412
+#   - CVE-2015-4734
+#   - CVE-2015-4803
+#   - CVE-2015-4805
+#   - CVE-2015-4806
+#   - CVE-2015-4835
+#   - CVE-2015-4840
+#   - CVE-2015-4842
+#   - CVE-2015-4843
+#   - CVE-2015-4844
+#   - CVE-2015-4860
+#   - CVE-2015-4872
+#   - CVE-2015-4881
+#   - CVE-2015-4882
+#   - CVE-2015-4883
+#   - CVE-2015-4893
+#   - CVE-2015-4903
+#   - CVE-2015-4911
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:0067
+#   - https://www.cyberwatch.fr/notices/CESA-2015:1920
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install java-1.7.0-openjdk-1.7.0.91 -y 
