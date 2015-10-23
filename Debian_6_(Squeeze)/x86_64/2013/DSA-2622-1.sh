@@ -4,7 +4,7 @@
 # Security fix for DSA-2622-1
 #
 # Security announcement date: 2013-02-13 00:00:00 UTC
-# Script generation date:     2015-09-10 10:00:51 UTC
+# Script generation date:     2015-10-23 06:02:58 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - polarssl:0.12.1-1squeeze1
 #
 # Last versions recommanded by security team:
-#   - polarssl:1.2.9-1~deb6u4
+#   - polarssl:1.2.9-1~deb6u5
 #
 # CVE List:
 #   - CVE-2013-0169
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2622-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade polarssl=1.2.9-1~deb6u4 -y
+sudo apt-get install --only-upgrade polarssl=1.2.9-1~deb6u5 -y
