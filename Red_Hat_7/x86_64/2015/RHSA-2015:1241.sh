@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1241
 #
 # Security announcement date: 2015-07-17 08:12:12 UTC
-# Script generation date:     2015-09-10 09:47:37 UTC
+# Script generation date:     2015-10-23 06:17:52 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - java-1.8.0-oracle-src:1.8.0.51-1jpp.2.el7_1
 #
 # Last versions recommanded by security team:
-#   - java-1.8.0-oracle:1.8.0.51-1jpp.2.el7_1
-#   - java-1.8.0-oracle-devel:1.8.0.51-1jpp.2.el7_1
-#   - java-1.8.0-oracle-javafx:1.8.0.51-1jpp.2.el7_1
-#   - java-1.8.0-oracle-jdbc:1.8.0.51-1jpp.2.el7_1
-#   - java-1.8.0-oracle-plugin:1.8.0.51-1jpp.2.el7_1
-#   - java-1.8.0-oracle-src:1.8.0.51-1jpp.2.el7_1
+#   - java-1.8.0-oracle:1.8.0.65-1jpp.3.el7_1
+#   - java-1.8.0-oracle-devel:1.8.0.65-1jpp.3.el7_1
+#   - java-1.8.0-oracle-javafx:1.8.0.65-1jpp.3.el7_1
+#   - java-1.8.0-oracle-jdbc:1.8.0.65-1jpp.3.el7_1
+#   - java-1.8.0-oracle-plugin:1.8.0.65-1jpp.3.el7_1
+#   - java-1.8.0-oracle-src:1.8.0.65-1jpp.3.el7_1
 #
 # CVE List:
 #   - CVE-2015-2590
@@ -53,9 +53,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1241
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.8.0-oracle-1.8.0.51 -y 
-sudo yum install java-1.8.0-oracle-devel-1.8.0.51 -y 
-sudo yum install java-1.8.0-oracle-javafx-1.8.0.51 -y 
-sudo yum install java-1.8.0-oracle-jdbc-1.8.0.51 -y 
-sudo yum install java-1.8.0-oracle-plugin-1.8.0.51 -y 
-sudo yum install java-1.8.0-oracle-src-1.8.0.51 -y 
+sudo yum install java-1.8.0-oracle-1.8.0.65 -y 
+sudo yum install java-1.8.0-oracle-devel-1.8.0.65 -y 
+sudo yum install java-1.8.0-oracle-javafx-1.8.0.65 -y 
+sudo yum install java-1.8.0-oracle-jdbc-1.8.0.65 -y 
+sudo yum install java-1.8.0-oracle-plugin-1.8.0.65 -y 
+sudo yum install java-1.8.0-oracle-src-1.8.0.65 -y 

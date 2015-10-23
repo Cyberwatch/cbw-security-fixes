@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:1801
 #
 # Security announcement date: 2011-12-08 21:28:09 UTC
-# Script generation date:     2015-09-23 06:10:33 UTC
+# Script generation date:     2015-10-23 06:14:17 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - qemu-kvm-tools:0.12.1.2-2.160.el6_1.9
 #
 # Last versions recommanded by security team:
-#   - qemu-img:0.12.1.2-2.479.el6_7.1
-#   - qemu-kvm:0.12.1.2-2.479.el6_7.1
-#   - qemu-kvm-debuginfo:0.12.1.2-2.479.el6_7.1
-#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.1
+#   - qemu-img:0.12.1.2-2.479.el6_7.2
+#   - qemu-kvm:0.12.1.2-2.479.el6_7.2
+#   - qemu-kvm-debuginfo:0.12.1.2-2.479.el6_7.2
+#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.2
 #
 # CVE List:
 #   - CVE-2011-4111

@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:1384
 #
 # Security announcement date: 2011-10-19 18:00:32 UTC
-# Script generation date:     2015-09-10 09:43:30 UTC
+# Script generation date:     2015-10-23 06:14:10 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - java-1.6.0-sun-src:1.6.0.29-1jpp.1.el6
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-sun:1.6.0.101-1jpp.1.el6_6
-#   - java-1.6.0-sun-demo:1.6.0.101-1jpp.1.el6_6
-#   - java-1.6.0-sun-devel:1.6.0.101-1jpp.1.el6_6
-#   - java-1.6.0-sun-jdbc:1.6.0.101-1jpp.1.el6_6
-#   - java-1.6.0-sun-plugin:1.6.0.101-1jpp.1.el6_6
-#   - java-1.6.0-sun-src:1.6.0.101-1jpp.1.el6_6
+#   - java-1.6.0-sun:1.6.0.105-1jpp.2.el6_7
+#   - java-1.6.0-sun-demo:1.6.0.105-1jpp.2.el6_7
+#   - java-1.6.0-sun-devel:1.6.0.105-1jpp.2.el6_7
+#   - java-1.6.0-sun-jdbc:1.6.0.105-1jpp.2.el6_7
+#   - java-1.6.0-sun-plugin:1.6.0.105-1jpp.2.el6_7
+#   - java-1.6.0-sun-src:1.6.0.105-1jpp.2.el6_7
 #
 # CVE List:
 #   - CVE-2011-3389
@@ -50,9 +50,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:1384
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-sun-1.6.0.101 -y 
-sudo yum install java-1.6.0-sun-demo-1.6.0.101 -y 
-sudo yum install java-1.6.0-sun-devel-1.6.0.101 -y 
-sudo yum install java-1.6.0-sun-jdbc-1.6.0.101 -y 
-sudo yum install java-1.6.0-sun-plugin-1.6.0.101 -y 
-sudo yum install java-1.6.0-sun-src-1.6.0.101 -y 
+sudo yum install java-1.6.0-sun-1.6.0.105 -y 
+sudo yum install java-1.6.0-sun-demo-1.6.0.105 -y 
+sudo yum install java-1.6.0-sun-devel-1.6.0.105 -y 
+sudo yum install java-1.6.0-sun-jdbc-1.6.0.105 -y 
+sudo yum install java-1.6.0-sun-plugin-1.6.0.105 -y 
+sudo yum install java-1.6.0-sun-src-1.6.0.105 -y 

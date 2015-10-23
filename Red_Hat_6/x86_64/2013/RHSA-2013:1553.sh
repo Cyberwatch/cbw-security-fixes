@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:1553
 #
 # Security announcement date: 2013-11-21 04:25:36 UTC
-# Script generation date:     2015-09-23 06:12:20 UTC
+# Script generation date:     2015-10-23 06:15:50 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - qemu-kvm-tools:0.12.1.2-2.415.el6
 #
 # Last versions recommanded by security team:
-#   - qemu-guest-agent:0.12.1.2-2.479.el6_7.1
-#   - qemu-img:0.12.1.2-2.479.el6_7.1
-#   - qemu-kvm:0.12.1.2-2.479.el6_7.1
-#   - qemu-kvm-debuginfo:0.12.1.2-2.479.el6_7.1
-#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.1
+#   - qemu-guest-agent:0.12.1.2-2.479.el6_7.2
+#   - qemu-img:0.12.1.2-2.479.el6_7.2
+#   - qemu-kvm:0.12.1.2-2.479.el6_7.2
+#   - qemu-kvm-debuginfo:0.12.1.2-2.479.el6_7.2
+#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.2
 #
 # CVE List:
 #   - CVE-2013-4344

@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1862
 #
 # Security announcement date: 2015-10-08 19:58:51 UTC
-# Script generation date:     2015-10-08 23:21:42 UTC
+# Script generation date:     2015-10-23 06:18:12 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -30,8 +30,8 @@
 # Last versions recommanded by security team:
 #   - ahc-tools:0.1.1-6.el7ost
 #   - instack-undercloud:2.1.2-29.el7ost
-#   - openstack-ironic-discoverd:1.1.0-6.el7ost
-#   - openstack-ironic-discoverd-ramdisk:1.1.0-6.el7ost
+#   - openstack-ironic-discoverd:1.1.0-8.el7ost
+#   - openstack-ironic-discoverd-ramdisk:1.1.0-8.el7ost
 #   - openstack-tripleo-common:0.0.1.dev6-3.git49b57eb.el7ost
 #   - openstack-tripleo-heat-templates:0.8.6-71.el7ost
 #   - openstack-tripleo-image-elements:0.9.6-10.el7ost
@@ -42,7 +42,7 @@
 #   - os-net-config:0.1.4-4.el7ost
 #   - python-hardware:0.14-7.el7ost
 #   - python-hardware-doc:0.14-7.el7ost
-#   - python-ironic-discoverd:1.1.0-6.el7ost
+#   - python-ironic-discoverd:1.1.0-8.el7ost
 #   - python-proliantutils:2.1.0-4.el7ost
 #   - python-rdomanager-oscplugin:0.0.10-8.el7ost
 #
