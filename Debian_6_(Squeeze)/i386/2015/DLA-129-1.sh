@@ -4,7 +4,7 @@
 # Security fix for DLA-129-1
 #
 # Security announcement date: 2015-01-03 00:00:00 UTC
-# Script generation date:     2015-09-10 10:21:39 UTC
+# Script generation date:     2015-10-23 06:07:22 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - polarssl:1.2.9-1~deb6u3
 #
 # Last versions recommanded by security team:
-#   - polarssl:1.2.9-1~deb6u4
+#   - polarssl:1.2.9-1~deb6u5
 #
 # CVE List:
 #   - CVE-2014-8628
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-129-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade polarssl=1.2.9-1~deb6u4 -y
+sudo apt-get install --only-upgrade polarssl=1.2.9-1~deb6u5 -y
