@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0727
 #
 # Security announcement date: 2013-04-10 03:55:37 UTC
-# Script generation date:     2015-09-10 09:40:05 UTC
+# Script generation date:     2015-10-23 06:09:41 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - kvm-tools:83-262.el5.centos.3
 #
 # Last versions recommanded by security team:
-#   - kmod-kvm:83-273.el5.centos
-#   - kmod-kvm-debug:83-273.el5.centos
-#   - kvm:83-273.el5.centos
-#   - kvm-qemu-img:83-273.el5.centos
-#   - kvm-tools:83-273.el5.centos
+#   - kmod-kvm:83-274.el5.centos
+#   - kmod-kvm-debug:83-274.el5.centos
+#   - kvm:83-274.el5.centos
+#   - kvm-qemu-img:83-274.el5.centos
+#   - kvm-tools:83-274.el5.centos
 #
 # CVE List:
 #   - CVE-2013-1796

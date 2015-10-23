@@ -1,19 +1,19 @@
 # CYBERWATCH SAS - 2015
 #
-# Security fix for CESA-2014:0163
+# Security fix for CESA-2015:1925
 #
-# Security announcement date: 2014-02-12 19:33:17 UTC
-# Script generation date:     2015-10-23 06:09:49 UTC
+# Security announcement date: 2015-10-22 19:35:05 UTC
+# Script generation date:     2015-10-23 06:10:48 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - kmod-kvm:83-266.el5.centos.1
-#   - kmod-kvm-debug:83-266.el5.centos.1
-#   - kvm:83-266.el5.centos.1
-#   - kvm-qemu-img:83-266.el5.centos.1
-#   - kvm-tools:83-266.el5.centos.1
+#   - kmod-kvm:83-274.el5.centos
+#   - kmod-kvm-debug:83-274.el5.centos
+#   - kvm:83-274.el5.centos
+#   - kvm-qemu-img:83-274.el5.centos
+#   - kvm-tools:83-274.el5.centos
 #
 # Last versions recommanded by security team:
 #   - kmod-kvm:83-274.el5.centos
@@ -23,11 +23,10 @@
 #   - kvm-tools:83-274.el5.centos
 #
 # CVE List:
-#   - CVE-2013-6367
-#   - CVE-2013-6368
+#   - CVE-2015-5279
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:0163
+#   - https://www.cyberwatch.fr/notices/CESA-2015:1925
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install kmod-kvm-83 -y 

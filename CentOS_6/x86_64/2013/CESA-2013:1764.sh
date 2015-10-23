@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:1764
 #
 # Security announcement date: 2013-12-05 13:31:54 UTC
-# Script generation date:     2015-10-22 06:06:42 UTC
+# Script generation date:     2015-10-23 06:10:33 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -1427,10 +1427,10 @@
 #   - python-urwid:1.1.1-1.el6
 #   - python-virtinst:0.600.0-18.el6
 #   - python-weberror:0.10.2-2.el6
-#   - qemu-guest-agent:0.12.1.2-2.448.el6_6.4
-#   - qemu-img:0.12.1.2-2.448.el6_6.4
-#   - qemu-kvm:0.12.1.2-2.448.el6_6.4
-#   - qemu-kvm-tools:0.12.1.2-2.448.el6_6.4
+#   - qemu-guest-agent:0.12.1.2-2.479.el6_7.2
+#   - qemu-img:0.12.1.2-2.479.el6_7.2
+#   - qemu-kvm:0.12.1.2-2.479.el6_7.2
+#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.2
 #   - ql2400-firmware:7.00.01-1.el6
 #   - ql2500-firmware:7.00.01-1.el6
 #   - qperf:0.4.9-1.el6

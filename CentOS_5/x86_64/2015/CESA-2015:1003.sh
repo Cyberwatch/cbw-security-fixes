@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1003
 #
 # Security announcement date: 2015-05-13 18:37:00 UTC
-# Script generation date:     2015-09-10 09:40:47 UTC
+# Script generation date:     2015-10-23 06:10:16 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - kvm-tools:83-272.el5.centos
 #
 # Last versions recommanded by security team:
-#   - kmod-kvm:83-273.el5.centos
-#   - kmod-kvm-debug:83-273.el5.centos
-#   - kvm:83-273.el5.centos
-#   - kvm-qemu-img:83-273.el5.centos
-#   - kvm-tools:83-273.el5.centos
+#   - kmod-kvm:83-274.el5.centos
+#   - kmod-kvm-debug:83-274.el5.centos
+#   - kvm:83-274.el5.centos
+#   - kvm-qemu-img:83-274.el5.centos
+#   - kvm-tools:83-274.el5.centos
 #
 # CVE List:
 #   - CVE-2015-3456
