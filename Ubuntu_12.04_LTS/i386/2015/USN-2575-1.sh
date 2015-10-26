@@ -4,7 +4,7 @@
 # Security fix for USN-2575-1
 #
 # Security announcement date: 2015-04-21 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:07 UTC
+# Script generation date:     2015-10-26 19:02:18 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - mysql-server-5.5:5.5.43-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - mysql-server-5.5:5.5.44-0ubuntu0.12.04.1
+#   - mysql-server-5.5:5.5.46-0ubuntu0.12.04.2
 #
 # CVE List:
 #   - CVE-2015-0433
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2575-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mysql-server-5.5=5.5.44-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade mysql-server-5.5=5.5.46-0ubuntu0.12.04.2 -y
