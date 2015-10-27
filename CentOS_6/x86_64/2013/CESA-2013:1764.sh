@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:1764
 #
 # Security announcement date: 2013-12-05 13:31:54 UTC
-# Script generation date:     2015-10-23 06:10:33 UTC
+# Script generation date:     2015-10-27 07:11:25 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -1245,10 +1245,10 @@
 #   - nss-softokn-freebl-devel:3.14.3-23.el6_7
 #   - nss-util:3.19.1-1.el6_6
 #   - nss-util-devel:3.19.1-1.el6_6
-#   - ntp-doc:4.2.6p5-5.el6.centos
-#   - ntp:4.2.6p5-5.el6.centos
-#   - ntpdate:4.2.6p5-5.el6.centos
-#   - ntp-perl:4.2.6p5-5.el6.centos
+#   - ntp-doc:4.2.6p5-5.el6.centos.2
+#   - ntp:4.2.6p5-5.el6.centos.2
+#   - ntpdate:4.2.6p5-5.el6.centos.2
+#   - ntp-perl:4.2.6p5-5.el6.centos.2
 #   - numactl:2.0.7-8.el6
 #   - numactl-devel:2.0.7-8.el6
 #   - numad:0.5-9.20130814git.el6

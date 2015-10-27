@@ -1,18 +1,18 @@
 # CYBERWATCH SAS - 2015
 #
-# Security fix for CESA-2014:2024
+# Security fix for CESA-2015:1930
 #
-# Security announcement date: 2014-12-20 03:01:33 UTC
-# Script generation date:     2015-10-27 07:11:33 UTC
+# Security announcement date: 2015-10-26 15:51:06 UTC
+# Script generation date:     2015-10-27 07:11:43 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ntp-doc:4.2.6p5-2.el6.centos
-#   - ntp:4.2.6p5-2.el6.centos
-#   - ntpdate:4.2.6p5-2.el6.centos
-#   - ntp-perl:4.2.6p5-2.el6.centos
+#   - ntp-doc:4.2.6p5-5.el6.centos.2
+#   - ntp:4.2.6p5-5.el6.centos.2
+#   - ntpdate:4.2.6p5-5.el6.centos.2
+#   - ntp-perl:4.2.6p5-5.el6.centos.2
 #
 # Last versions recommanded by security team:
 #   - ntp-doc:4.2.6p5-5.el6.centos.2
@@ -21,13 +21,11 @@
 #   - ntp-perl:4.2.6p5-5.el6.centos.2
 #
 # CVE List:
-#   - CVE-2014-9293
-#   - CVE-2014-9294
-#   - CVE-2014-9295
-#   - CVE-2014-9296
+#   - CVE-2015-7704
+#   - CVE-2015-5300
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:2024
+#   - https://www.cyberwatch.fr/notices/CESA-2015:1930
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ntp-doc-4.2.6p5 -y 

@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1459
 #
 # Security announcement date: 2015-07-26 14:13:05 UTC
-# Script generation date:     2015-09-10 09:41:18 UTC
+# Script generation date:     2015-10-27 07:11:38 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - ntp-perl:4.2.6p5-5.el6.centos
 #
 # Last versions recommanded by security team:
-#   - ntp-doc:4.2.6p5-5.el6.centos
-#   - ntp:4.2.6p5-5.el6.centos
-#   - ntpdate:4.2.6p5-5.el6.centos
-#   - ntp-perl:4.2.6p5-5.el6.centos
+#   - ntp-doc:4.2.6p5-5.el6.centos.2
+#   - ntp:4.2.6p5-5.el6.centos.2
+#   - ntpdate:4.2.6p5-5.el6.centos.2
+#   - ntp-perl:4.2.6p5-5.el6.centos.2
 #
 # CVE List:
 #   - CVE-2015-1798
