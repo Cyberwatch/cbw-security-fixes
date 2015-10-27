@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:0104
 #
 # Security announcement date: 2015-01-28 19:18:04 UTC
-# Script generation date:     2015-09-10 09:46:57 UTC
+# Script generation date:     2015-10-27 07:19:23 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - ntp-perl:4.2.6p5-2.el6_5
 #
 # Last versions recommanded by security team:
-#   - ntp:4.2.6p5-5.el6
-#   - ntp-debuginfo:4.2.6p5-5.el6
-#   - ntpdate:4.2.6p5-5.el6
-#   - ntp-doc:4.2.6p5-5.el6
-#   - ntp-perl:4.2.6p5-5.el6
+#   - ntp:4.2.6p5-5.el6_7.2
+#   - ntp-debuginfo:4.2.6p5-5.el6_7.2
+#   - ntpdate:4.2.6p5-5.el6_7.2
+#   - ntp-doc:4.2.6p5-5.el6_7.2
+#   - ntp-perl:4.2.6p5-5.el6_7.2
 #
 # CVE List:
 #   - CVE-2014-9293
