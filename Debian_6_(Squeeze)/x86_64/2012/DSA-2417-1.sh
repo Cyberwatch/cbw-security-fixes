@@ -4,7 +4,7 @@
 # Security fix for DSA-2417-1
 #
 # Security announcement date: 2012-02-22 00:00:00 UTC
-# Script generation date:     2015-10-25 19:03:03 UTC
+# Script generation date:     2015-10-27 07:02:59 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libxml2:2.7.8.dfsg-2+squeeze3
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.7.8.dfsg-2+squeeze13
+#   - libxml2:2.7.8.dfsg-2+squeeze14
 #
 # CVE List:
 #   - CVE-2012-0841
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2417-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-2+squeeze13 -y
+sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-2+squeeze14 -y
