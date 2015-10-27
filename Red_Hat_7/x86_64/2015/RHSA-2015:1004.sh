@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1004
 #
 # Security announcement date: 2015-05-13 14:09:06 UTC
-# Script generation date:     2015-09-14 18:15:57 UTC
+# Script generation date:     2015-10-27 19:16:56 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -19,14 +19,14 @@
 #   - qemu-kvm-tools-rhev:2.1.2-23.el7_1.3
 #
 # Last versions recommanded by security team:
-#   - libcacard-devel-rhev:2.1.2-23.el7_1.9
-#   - libcacard-rhev:2.1.2-23.el7_1.9
-#   - libcacard-tools-rhev:2.1.2-23.el7_1.9
-#   - qemu-img-rhev:2.1.2-23.el7_1.9
-#   - qemu-kvm-common-rhev:2.1.2-23.el7_1.9
-#   - qemu-kvm-rhev:2.1.2-23.el7_1.9
-#   - qemu-kvm-rhev-debuginfo:2.1.2-23.el7_1.9
-#   - qemu-kvm-tools-rhev:2.1.2-23.el7_1.9
+#   - libcacard-devel-rhev:2.1.2-23.el7_1.10
+#   - libcacard-rhev:2.1.2-23.el7_1.10
+#   - libcacard-tools-rhev:2.1.2-23.el7_1.10
+#   - qemu-img-rhev:2.1.2-23.el7_1.10
+#   - qemu-kvm-common-rhev:2.1.2-23.el7_1.10
+#   - qemu-kvm-rhev:2.1.2-23.el7_1.10
+#   - qemu-kvm-rhev-debuginfo:2.1.2-23.el7_1.10
+#   - qemu-kvm-tools-rhev:2.1.2-23.el7_1.10
 #
 # CVE List:
 #   - CVE-2015-3456
