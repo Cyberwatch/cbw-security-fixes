@@ -4,7 +4,7 @@
 # Security fix for DLA-321-1
 #
 # Security announcement date: 2015-09-30 00:00:00 UTC
-# Script generation date:     2015-10-13 05:41:40 UTC
+# Script generation date:     2015-10-28 19:09:05 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -18,6 +18,7 @@
 # CVE List:
 #   - CVE-2015-5714
 #   - CVE-2015-5715
+#   - CVE-2015-7989
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/DLA-321-1
