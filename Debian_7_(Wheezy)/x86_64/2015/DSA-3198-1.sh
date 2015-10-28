@@ -4,7 +4,7 @@
 # Security fix for DSA-3198-1
 #
 # Security announcement date: 2015-03-20 00:00:00 UTC
-# Script generation date:     2015-09-13 18:03:41 UTC
+# Script generation date:     2015-10-28 07:05:57 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - php5:5.4.39-0+deb7u1
 #
 # Last versions recommanded by security team:
-#   - php5:5.4.45-0+deb7u1
+#   - php5:5.4.45-0+deb7u2
 #
 # CVE List:
 #   - CVE-2015-2301
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3198-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u1 -y
+sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u2 -y
