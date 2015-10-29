@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1943
 #
 # Security announcement date: 2015-10-28 09:28:27 UTC
-# Script generation date:     2015-10-29 07:10:32 UTC
+# Script generation date:     2015-10-29 19:06:37 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -27,6 +27,7 @@
 #   - qemu-kvm-tools:1.5.3-86.el7_1.8
 #
 # CVE List:
+#   - CVE-2015-1779
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/CESA-2015:1943
