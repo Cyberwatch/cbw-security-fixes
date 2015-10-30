@@ -4,7 +4,7 @@
 # Security fix for DSA-2878-1
 #
 # Security announcement date: 2014-03-13 00:00:00 UTC
-# Script generation date:     2015-09-14 06:03:17 UTC
+# Script generation date:     2015-10-30 07:05:14 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - virtualbox:4.1.18-dfsg-2+deb7u2
 #
 # Last versions recommanded by security team:
-#   - virtualbox:4.1.40-dfsg-1+deb7u1
+#   - virtualbox:4.1.42-dfsg-1+deb7u1
 #
 # CVE List:
 #   - CVE-2013-5892
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2878-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade virtualbox=4.1.40-dfsg-1+deb7u1 -y
+sudo apt-get install --only-upgrade virtualbox=4.1.42-dfsg-1+deb7u1 -y
