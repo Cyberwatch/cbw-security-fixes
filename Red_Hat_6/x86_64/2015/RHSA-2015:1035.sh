@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1035
 #
 # Security announcement date: 2015-05-28 11:47:57 UTC
-# Script generation date:     2015-09-10 09:47:26 UTC
+# Script generation date:     2015-10-30 07:16:50 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -14,7 +14,7 @@
 #
 # Last versions recommanded by security team:
 #   - redhat-release-computenode:6ComputeNode-6.5.0.3.el6_5
-#   - redhat-release-server:6Server-6.5.0.3.el6_5
+#   - redhat-release-server:6Server-6.5.0.3.el6_5.1
 #
 # CVE List:
 #
