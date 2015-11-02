@@ -4,7 +4,7 @@
 # Security fix for DSA-3108-1
 #
 # Security announcement date: 2014-12-20 00:00:00 UTC
-# Script generation date:     2015-09-10 10:02:24 UTC
+# Script generation date:     2015-11-02 07:03:19 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - ntp:1:4.2.6.p5+dfsg-2+deb7u1
 #
 # Last versions recommanded by security team:
-#   - ntp:1:4.2.6.p5+dfsg-2+deb7u4
+#   - ntp:1:4.2.6.p5+dfsg-2+deb7u6
 #
 # CVE List:
 #   - CVE-2014-9293
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3108-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ntp=1:4.2.6.p5+dfsg-2+deb7u4 -y
+sudo apt-get install --only-upgrade ntp=1:4.2.6.p5+dfsg-2+deb7u6 -y

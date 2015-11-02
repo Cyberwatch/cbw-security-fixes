@@ -4,16 +4,18 @@
 # Security fix for DSA-3381-1
 #
 # Security announcement date: 2015-10-27 00:00:00 UTC
-# Script generation date:     2015-10-28 07:06:15 UTC
+# Script generation date:     2015-11-02 07:03:40 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - openjdk-7:7u85-2.6.1-5~deb8u1
+#   - openjdk-7:7u85-2.6.1-6~deb8u1
 #
 # Last versions recommanded by security team:
 #   - openjdk-7:7u85-2.6.1-5~deb8u1
+#   - openjdk-7:7u85-2.6.1-6~deb8u1
 #
 # CVE List:
 #   - CVE-2015-4734
@@ -40,3 +42,4 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade openjdk-7=7u85-2.6.1-5~deb8u1 -y
+sudo apt-get install --only-upgrade openjdk-7=7u85-2.6.1-6~deb8u1 -y

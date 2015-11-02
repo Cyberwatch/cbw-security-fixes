@@ -4,7 +4,7 @@
 # Security fix for DSA-3223-1
 #
 # Security announcement date: 2015-04-12 00:00:00 UTC
-# Script generation date:     2015-09-10 10:02:35 UTC
+# Script generation date:     2015-11-02 07:03:27 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - ntp:1:4.2.6.p5+dfsg-2+deb7u4
 #
 # Last versions recommanded by security team:
-#   - ntp:1:4.2.6.p5+dfsg-2+deb7u4
+#   - ntp:1:4.2.6.p5+dfsg-2+deb7u6
 #
 # CVE List:
 #   - CVE-2015-1798
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3223-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ntp=1:4.2.6.p5+dfsg-2+deb7u4 -y
+sudo apt-get install --only-upgrade ntp=1:4.2.6.p5+dfsg-2+deb7u6 -y
