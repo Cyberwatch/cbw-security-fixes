@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1586
 #
 # Security announcement date: 2015-08-11 19:52:29 UTC
-# Script generation date:     2015-09-23 06:14:42 UTC
+# Script generation date:     2015-11-04 19:16:17 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - firefox-debuginfo:38.2.0-4.el7_1
 #
 # Last versions recommanded by security team:
-#   - firefox:38.3.0-2.el7_1
-#   - firefox-debuginfo:38.3.0-2.el7_1
+#   - firefox:38.4.0-1.el7_1
+#   - firefox-debuginfo:38.4.0-1.el7_1
 #
 # CVE List:
 #   - CVE-2015-4473
@@ -36,5 +36,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1586
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.3.0 -y 
-sudo yum install firefox-debuginfo-38.3.0 -y 
+sudo yum install firefox-38.4.0 -y 
+sudo yum install firefox-debuginfo-38.4.0 -y 

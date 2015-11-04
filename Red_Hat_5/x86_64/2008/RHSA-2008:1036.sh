@@ -3,7 +3,7 @@
 # Security fix for RHSA-2008:1036
 #
 # Security announcement date: 2008-12-17 02:00:18 UTC
-# Script generation date:     2015-09-23 06:08:55 UTC
+# Script generation date:     2015-11-04 19:11:02 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -25,18 +25,18 @@
 #   - xulrunner-devel-unstable:1.9.0.5-1.el5_2
 #
 # Last versions recommanded by security team:
-#   - firefox:38.3.0-2.el5_11
-#   - firefox-debuginfo:38.3.0-2.el5_11
-#   - nspr:4.10.6-1.el5_10
-#   - nspr-debuginfo:4.10.6-1.el5_10
-#   - nss:3.19.1-1.el5_11
-#   - nss-debuginfo:3.19.1-1.el5_11
-#   - nss-tools:3.19.1-1.el5_11
+#   - firefox:38.4.0-1.el5_11
+#   - firefox-debuginfo:38.4.0-1.el5_11
+#   - nspr:4.10.8-2.el5_11
+#   - nspr-debuginfo:4.10.8-2.el5_11
+#   - nss:3.19.1-2.el5_11
+#   - nss-debuginfo:3.19.1-2.el5_11
+#   - nss-tools:3.19.1-2.el5_11
 #   - xulrunner:17.0.10-1.el5_10
 #   - xulrunner-debuginfo:17.0.10-1.el5_10
-#   - nspr-devel:4.10.6-1.el5_10
-#   - nss-devel:3.19.1-1.el5_11
-#   - nss-pkcs11-devel:3.19.1-1.el5_11
+#   - nspr-devel:4.10.8-2.el5_11
+#   - nss-devel:3.19.1-2.el5_11
+#   - nss-pkcs11-devel:3.19.1-2.el5_11
 #   - xulrunner-devel:17.0.10-1.el5_10
 #   - xulrunner-devel-unstable:1.9.0.19-1.el5_5
 #
@@ -57,16 +57,16 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2008:1036
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.3.0 -y 
-sudo yum install firefox-debuginfo-38.3.0 -y 
-sudo yum install nspr-4.10.6 -y 
-sudo yum install nspr-debuginfo-4.10.6 -y 
+sudo yum install firefox-38.4.0 -y 
+sudo yum install firefox-debuginfo-38.4.0 -y 
+sudo yum install nspr-4.10.8 -y 
+sudo yum install nspr-debuginfo-4.10.8 -y 
 sudo yum install nss-3.19.1 -y 
 sudo yum install nss-debuginfo-3.19.1 -y 
 sudo yum install nss-tools-3.19.1 -y 
 sudo yum install xulrunner-17.0.10 -y 
 sudo yum install xulrunner-debuginfo-17.0.10 -y 
-sudo yum install nspr-devel-4.10.6 -y 
+sudo yum install nspr-devel-4.10.8 -y 
 sudo yum install nss-devel-3.19.1 -y 
 sudo yum install nss-pkcs11-devel-3.19.1 -y 
 sudo yum install xulrunner-devel-17.0.10 -y 

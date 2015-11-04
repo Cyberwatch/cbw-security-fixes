@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1948
 #
 # Security announcement date: 2014-12-02 23:51:17 UTC
-# Script generation date:     2015-09-10 09:46:47 UTC
+# Script generation date:     2015-11-04 19:15:24 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -20,15 +20,15 @@
 #   - nss-util-devel:3.16.2.3-2.el6_6
 #
 # Last versions recommanded by security team:
-#   - nss:3.19.1-3.el6_6
-#   - nss-debuginfo:3.19.1-3.el6_6
-#   - nss-sysinit:3.19.1-3.el6_6
-#   - nss-tools:3.19.1-3.el6_6
-#   - nss-util:3.19.1-1.el6_6
-#   - nss-util-debuginfo:3.19.1-1.el6_6
-#   - nss-devel:3.19.1-3.el6_6
-#   - nss-pkcs11-devel:3.19.1-3.el6_6
-#   - nss-util-devel:3.19.1-1.el6_6
+#   - nss:3.19.1-5.el6_7
+#   - nss-debuginfo:3.19.1-5.el6_7
+#   - nss-sysinit:3.19.1-5.el6_7
+#   - nss-tools:3.19.1-5.el6_7
+#   - nss-util:3.19.1-2.el6_7
+#   - nss-util-debuginfo:3.19.1-2.el6_7
+#   - nss-devel:3.19.1-5.el6_7
+#   - nss-pkcs11-devel:3.19.1-5.el6_7
+#   - nss-util-devel:3.19.1-2.el6_7
 #
 # CVE List:
 #   - CVE-2014-3566

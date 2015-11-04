@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:0915
 #
 # Security announcement date: 2014-07-22 19:24:53 UTC
-# Script generation date:     2015-09-10 09:46:01 UTC
+# Script generation date:     2015-11-04 19:14:39 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -23,18 +23,18 @@
 #   - nss-pkcs11-devel:3.13.1-10.el6_2
 #
 # Last versions recommanded by security team:
-#   - nss:3.19.1-3.el6_6
-#   - nss-debuginfo:3.19.1-3.el6_6
-#   - nss-sysinit:3.19.1-3.el6_6
-#   - nss-tools:3.19.1-3.el6_6
-#   - nss-devel:3.19.1-3.el6_6
-#   - nss-pkcs11-devel:3.19.1-3.el6_6
-#   - nss:3.19.1-3.el6_6
-#   - nss-debuginfo:3.19.1-3.el6_6
-#   - nss-devel:3.19.1-3.el6_6
-#   - nss-sysinit:3.19.1-3.el6_6
-#   - nss-tools:3.19.1-3.el6_6
-#   - nss-pkcs11-devel:3.19.1-3.el6_6
+#   - nss:3.19.1-5.el6_7
+#   - nss-debuginfo:3.19.1-5.el6_7
+#   - nss-sysinit:3.19.1-5.el6_7
+#   - nss-tools:3.19.1-5.el6_7
+#   - nss-devel:3.19.1-5.el6_7
+#   - nss-pkcs11-devel:3.19.1-5.el6_7
+#   - nss:3.19.1-5.el6_7
+#   - nss-debuginfo:3.19.1-5.el6_7
+#   - nss-devel:3.19.1-5.el6_7
+#   - nss-sysinit:3.19.1-5.el6_7
+#   - nss-tools:3.19.1-5.el6_7
+#   - nss-pkcs11-devel:3.19.1-5.el6_7
 #
 # CVE List:
 #   - CVE-2014-1544

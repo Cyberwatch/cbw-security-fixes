@@ -3,7 +3,7 @@
 # Security fix for RHSA-2010:0501
 #
 # Security announcement date: 2010-06-22 22:34:55 UTC
-# Script generation date:     2015-09-23 06:09:28 UTC
+# Script generation date:     2015-11-04 19:11:34 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -37,8 +37,8 @@
 #   - devhelp-debuginfo:0.12-21.el5
 #   - esc:1.1.0-12.el5
 #   - esc-debuginfo:1.1.0-12.el5
-#   - firefox:38.3.0-2.el5_11
-#   - firefox-debuginfo:38.3.0-2.el5_11
+#   - firefox:38.4.0-1.el5_11
+#   - firefox-debuginfo:38.4.0-1.el5_11
 #   - gnome-python2-extras:2.14.2-7.el5
 #   - gnome-python2-extras-debuginfo:2.14.2-7.el5
 #   - gnome-python2-gtkhtml2:2.14.2-7.el5
@@ -77,8 +77,8 @@ sudo yum install devhelp-0.12 -y
 sudo yum install devhelp-debuginfo-0.12 -y 
 sudo yum install esc-1.1.0 -y 
 sudo yum install esc-debuginfo-1.1.0 -y 
-sudo yum install firefox-38.3.0 -y 
-sudo yum install firefox-debuginfo-38.3.0 -y 
+sudo yum install firefox-38.4.0 -y 
+sudo yum install firefox-debuginfo-38.4.0 -y 
 sudo yum install gnome-python2-extras-2.14.2 -y 
 sudo yum install gnome-python2-extras-debuginfo-2.14.2 -y 
 sudo yum install gnome-python2-gtkhtml2-2.14.2 -y 

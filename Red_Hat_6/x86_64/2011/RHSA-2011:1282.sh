@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:1282
 #
 # Security announcement date: 2011-09-12 19:52:51 UTC
-# Script generation date:     2015-09-10 09:43:27 UTC
+# Script generation date:     2015-11-04 19:12:24 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - nss-pkcs11-devel:3.12.9-12.el6_1
 #
 # Last versions recommanded by security team:
-#   - nss:3.19.1-3.el6_6
-#   - nss-debuginfo:3.19.1-3.el6_6
-#   - nss-sysinit:3.19.1-3.el6_6
-#   - nss-tools:3.19.1-3.el6_6
-#   - nss-devel:3.19.1-3.el6_6
-#   - nss-pkcs11-devel:3.19.1-3.el6_6
+#   - nss:3.19.1-5.el6_7
+#   - nss-debuginfo:3.19.1-5.el6_7
+#   - nss-sysinit:3.19.1-5.el6_7
+#   - nss-tools:3.19.1-5.el6_7
+#   - nss-devel:3.19.1-5.el6_7
+#   - nss-pkcs11-devel:3.19.1-5.el6_7
 #
 # CVE List:
 #

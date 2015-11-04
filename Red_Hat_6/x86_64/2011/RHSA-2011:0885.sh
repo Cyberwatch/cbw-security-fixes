@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:0885
 #
 # Security announcement date: 2011-06-21 23:25:09 UTC
-# Script generation date:     2015-09-23 06:10:03 UTC
+# Script generation date:     2015-11-04 19:12:08 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -16,8 +16,8 @@
 #   - xulrunner-devel:1.9.2.18-2.el6_1
 #
 # Last versions recommanded by security team:
-#   - firefox:38.3.0-2.el6_7
-#   - firefox-debuginfo:38.3.0-2.el6_7
+#   - firefox:38.4.0-1.el6_7
+#   - firefox-debuginfo:38.4.0-1.el6_7
 #   - xulrunner:17.0.10-1.el6_4
 #   - xulrunner-debuginfo:17.0.10-1.el6_4
 #   - xulrunner-devel:17.0.10-1.el6_4
@@ -40,8 +40,8 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:0885
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.3.0 -y 
-sudo yum install firefox-debuginfo-38.3.0 -y 
+sudo yum install firefox-38.4.0 -y 
+sudo yum install firefox-debuginfo-38.4.0 -y 
 sudo yum install xulrunner-17.0.10 -y 
 sudo yum install xulrunner-debuginfo-17.0.10 -y 
 sudo yum install xulrunner-devel-17.0.10 -y 
