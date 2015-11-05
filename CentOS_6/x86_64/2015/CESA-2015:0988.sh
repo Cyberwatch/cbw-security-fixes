@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:0988
 #
 # Security announcement date: 2015-05-13 00:01:13 UTC
-# Script generation date:     2015-09-10 09:40:46 UTC
+# Script generation date:     2015-11-05 07:13:18 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - firefox:38.0-4.el6.centos
 #
 # Last versions recommanded by security team:
-#   - firefox:38.2.1-1.el6.centos
+#   - firefox:38.4.0-1.el6.centos
 #
 # CVE List:
 #   - CVE-2015-0797
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2015:0988
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.2.1 -y 
+sudo yum install firefox-38.4.0 -y 

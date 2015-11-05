@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1207
 #
 # Security announcement date: 2015-07-06 16:47:20 UTC
-# Script generation date:     2015-09-10 09:40:50 UTC
+# Script generation date:     2015-11-05 07:13:20 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - firefox:38.1.0-1.el6.centos
 #
 # Last versions recommanded by security team:
-#   - firefox:38.2.1-1.el6.centos
+#   - firefox:38.4.0-1.el6.centos
 #
 # CVE List:
 #   - CVE-2015-2743
@@ -37,4 +37,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2015:1207
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.2.1 -y 
+sudo yum install firefox-38.4.0 -y 

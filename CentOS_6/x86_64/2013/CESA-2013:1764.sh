@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:1764
 #
 # Security announcement date: 2013-12-05 13:31:54 UTC
-# Script generation date:     2015-10-27 07:11:25 UTC
+# Script generation date:     2015-11-05 07:13:36 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -1232,19 +1232,19 @@
 #   - NetworkManager-glib-devel:0.8.1-66.el6
 #   - NetworkManager-gnome:0.8.1-66.el6
 #   - nfs-utils:1.2.3-39.el6
-#   - nspr:4.10.6-1.el6_5
-#   - nspr-devel:4.10.6-1.el6_5
-#   - nss:3.19.1-3.el6_6
-#   - nss-devel:3.19.1-3.el6_6
-#   - nss-pkcs11-devel:3.19.1-3.el6_6
-#   - nss-sysinit:3.19.1-3.el6_6
-#   - nss-tools:3.19.1-3.el6_6
+#   - nspr:4.10.8-2.el6_7
+#   - nspr-devel:4.10.8-2.el6_7
+#   - nss:3.19.1-5.el6_7
+#   - nss-devel:3.19.1-5.el6_7
+#   - nss-pkcs11-devel:3.19.1-5.el6_7
+#   - nss-sysinit:3.19.1-5.el6_7
+#   - nss-tools:3.19.1-5.el6_7
 #   - nss-softokn:3.14.3-23.el6_7
 #   - nss-softokn-devel:3.14.3-23.el6_7
 #   - nss-softokn-freebl:3.14.3-23.el6_7
 #   - nss-softokn-freebl-devel:3.14.3-23.el6_7
-#   - nss-util:3.19.1-1.el6_6
-#   - nss-util-devel:3.19.1-1.el6_6
+#   - nss-util:3.19.1-2.el6_7
+#   - nss-util-devel:3.19.1-2.el6_7
 #   - ntp-doc:4.2.6p5-5.el6.centos.2
 #   - ntp:4.2.6p5-5.el6.centos.2
 #   - ntpdate:4.2.6p5-5.el6.centos.2
@@ -2053,8 +2053,8 @@ sudo yum install NetworkManager-glib-0.8.1 -y
 sudo yum install NetworkManager-glib-devel-0.8.1 -y 
 sudo yum install NetworkManager-gnome-0.8.1 -y 
 sudo yum install nfs-utils-1.2.3 -y 
-sudo yum install nspr-4.10.6 -y 
-sudo yum install nspr-devel-4.10.6 -y 
+sudo yum install nspr-4.10.8 -y 
+sudo yum install nspr-devel-4.10.8 -y 
 sudo yum install nss-3.19.1 -y 
 sudo yum install nss-devel-3.19.1 -y 
 sudo yum install nss-pkcs11-devel-3.19.1 -y 

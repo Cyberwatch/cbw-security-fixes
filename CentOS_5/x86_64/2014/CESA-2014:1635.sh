@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:1635
 #
 # Security announcement date: 2014-10-15 12:07:15 UTC
-# Script generation date:     2015-09-10 09:40:34 UTC
+# Script generation date:     2015-11-05 07:13:06 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - firefox:31.2.0-3.el5.centos
 #
 # Last versions recommanded by security team:
-#   - firefox:38.2.1-1.el5.centos
+#   - firefox:38.4.0-1.el5.centos
 #
 # CVE List:
 #   - CVE-2014-1574
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2014:1635
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.2.1 -y 
+sudo yum install firefox-38.4.0 -y 

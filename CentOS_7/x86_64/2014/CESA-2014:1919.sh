@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:1919
 #
 # Security announcement date: 2014-12-04 01:18:41 UTC
-# Script generation date:     2015-09-10 09:40:37 UTC
+# Script generation date:     2015-11-05 07:13:09 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - firefox:31.3.0-3.el7.centos
 #
 # Last versions recommanded by security team:
-#   - firefox:38.2.1-1.el7.centos
+#   - firefox:38.4.0-1.el7.centos
 #
 # CVE List:
 #   - CVE-2014-1587
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2014:1919
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.2.1 -y 
+sudo yum install firefox-38.4.0 -y 

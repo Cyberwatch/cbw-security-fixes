@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0696
 #
 # Security announcement date: 2013-04-03 10:58:52 UTC
-# Script generation date:     2015-09-10 09:40:05 UTC
+# Script generation date:     2015-11-05 07:12:42 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - firefox:17.0.5-1.el6.centos
 #
 # Last versions recommanded by security team:
-#   - firefox:38.2.1-1.el6.centos
+#   - firefox:38.4.0-1.el6.centos
 #
 # CVE List:
 #   - CVE-2013-0800
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2013:0696
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.2.1 -y 
+sudo yum install firefox-38.4.0 -y 

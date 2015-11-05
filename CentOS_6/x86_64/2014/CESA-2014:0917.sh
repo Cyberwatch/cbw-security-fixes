@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0917
 #
 # Security announcement date: 2014-07-23 02:58:54 UTC
-# Script generation date:     2015-09-10 09:40:26 UTC
+# Script generation date:     2015-11-05 07:12:58 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - nss-tools:3.16.1-4.el6_5
 #
 # Last versions recommanded by security team:
-#   - nss:3.19.1-3.el6_6
-#   - nss-devel:3.19.1-3.el6_6
-#   - nss-pkcs11-devel:3.19.1-3.el6_6
-#   - nss-sysinit:3.19.1-3.el6_6
-#   - nss-tools:3.19.1-3.el6_6
+#   - nss:3.19.1-5.el6_7
+#   - nss-devel:3.19.1-5.el6_7
+#   - nss-pkcs11-devel:3.19.1-5.el6_7
+#   - nss-sysinit:3.19.1-5.el6_7
+#   - nss-tools:3.19.1-5.el6_7
 #
 # CVE List:
 #   - CVE-2014-1490
