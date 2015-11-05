@@ -4,7 +4,7 @@
 # Security fix for DSA-3127-1
 #
 # Security announcement date: 2015-01-14 00:00:00 UTC
-# Script generation date:     2015-09-24 06:03:45 UTC
+# Script generation date:     2015-11-05 07:06:18 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - iceweasel:31.4.0esr-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - iceweasel:38.3.0esr-1~deb7u1
+#   - iceweasel:38.4.0esr-1~deb7u1
 #
 # CVE List:
 #   - CVE-2014-8634
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3127-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade iceweasel=38.3.0esr-1~deb7u1 -y
+sudo apt-get install --only-upgrade iceweasel=38.4.0esr-1~deb7u1 -y
