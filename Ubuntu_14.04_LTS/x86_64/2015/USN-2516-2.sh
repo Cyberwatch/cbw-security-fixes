@@ -4,7 +4,7 @@
 # Security fix for USN-2516-2
 #
 # Security announcement date: 2015-02-28 00:00:00 UTC
-# Script generation date:     2015-10-20 06:02:13 UTC
+# Script generation date:     2015-11-05 07:02:13 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -30,17 +30,17 @@
 #
 # Last versions recommanded by security team:
 #   - linux-tools-3.13.0-46:3.13.0-46.79
-#   - linux-tools-common:3.13.0-65.106
-#   - linux-doc:3.13.0-65.106
-#   - linux-libc-dev:3.13.0-66.108
+#   - linux-tools-common:3.13.0-66.108
+#   - linux-doc:3.13.0-66.108
+#   - linux-libc-dev:3.13.0-67.110
 #   - linux-tools-3.13.0-46-generic:3.13.0-46.79
-#   - linux-source-3.13.0:3.13.0-65.106
+#   - linux-source-3.13.0:3.13.0-66.108
 #   - linux-headers-3.13.0-46-generic:3.13.0-46.79
 #   - linux-headers-3.13.0-46-lowlatency:3.13.0-46.79
 #   - linux-headers-3.13.0-46:3.13.0-46.79
 #   - linux-cloud-tools-3.13.0-46-generic:3.13.0-46.79
 #   - linux-image-3.13.0-46-lowlatency:3.13.0-46.79
-#   - linux-cloud-tools-common:3.13.0-65.106
+#   - linux-cloud-tools-common:3.13.0-66.108
 #   - linux-image-3.13.0-46-generic:3.13.0-46.79
 #   - linux-cloud-tools-3.13.0-46-lowlatency:3.13.0-46.79
 #   - linux-image-extra-3.13.0-46-generic:3.13.0-46.79
@@ -66,17 +66,17 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-tools-3.13.0-46=3.13.0-46.79 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.13.0-65.106 -y
-sudo apt-get install --only-upgrade linux-doc=3.13.0-65.106 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-66.108 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.13.0-66.108 -y
+sudo apt-get install --only-upgrade linux-doc=3.13.0-66.108 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-67.110 -y
 sudo apt-get install --only-upgrade linux-tools-3.13.0-46-generic=3.13.0-46.79 -y
-sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-65.106 -y
+sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-66.108 -y
 sudo apt-get install --only-upgrade linux-headers-3.13.0-46-generic=3.13.0-46.79 -y
 sudo apt-get install --only-upgrade linux-headers-3.13.0-46-lowlatency=3.13.0-46.79 -y
 sudo apt-get install --only-upgrade linux-headers-3.13.0-46=3.13.0-46.79 -y
 sudo apt-get install --only-upgrade linux-cloud-tools-3.13.0-46-generic=3.13.0-46.79 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-46-lowlatency=3.13.0-46.79 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-65.106 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-66.108 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-46-generic=3.13.0-46.79 -y
 sudo apt-get install --only-upgrade linux-cloud-tools-3.13.0-46-lowlatency=3.13.0-46.79 -y
 sudo apt-get install --only-upgrade linux-image-extra-3.13.0-46-generic=3.13.0-46.79 -y
