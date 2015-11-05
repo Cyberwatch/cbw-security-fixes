@@ -1,0 +1,28 @@
+#!/bin/sh
+# CYBERWATCH SAS - 2015
+#
+# Security fix for USN-2716-1
+#
+# Security announcement date: 2015-08-17 00:00:00 UTC
+# Script generation date:     2015-11-05 19:02:40 UTC
+#
+# Operating System: Ubuntu 14.04 LTS
+# Architecture: i686
+#
+# Vulnerable packages fix on version:
+#   - linux-image-3.13.0-62-lowlatency:3.13.0-62.102
+#   - linux-image-3.13.0-62-generic:3.13.0-62.102
+#
+# Last versions recommanded by security team:
+#   - linux-image-3.13.0-62-lowlatency:3.13.0-62.102
+#   - linux-image-3.13.0-62-generic:3.13.0-62.102
+#
+# CVE List:
+#   - CVE-2015-3212
+#
+# More details:
+#   - https://www.cyberwatch.fr/notices/USN-2716-1
+#
+# Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade linux-image-3.13.0-62-lowlatency=3.13.0-62.102 -y
+sudo apt-get install --only-upgrade linux-image-3.13.0-62-generic=3.13.0-62.102 -y

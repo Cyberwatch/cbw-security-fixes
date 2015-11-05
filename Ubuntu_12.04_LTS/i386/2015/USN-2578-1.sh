@@ -4,7 +4,7 @@
 # Security fix for USN-2578-1
 #
 # Security announcement date: 2015-04-27 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:08 UTC
+# Script generation date:     2015-11-05 19:02:25 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libreoffice-core:1:3.5.7-0ubuntu8
 #
 # Last versions recommanded by security team:
-#   - libreoffice-core:1:3.5.7-0ubuntu8
+#   - libreoffice-core:1:3.5.7-0ubuntu9
 #
 # CVE List:
 #   - CVE-2014-9093
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2578-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libreoffice-core=1:3.5.7-0ubuntu8 -y
+sudo apt-get install --only-upgrade libreoffice-core=1:3.5.7-0ubuntu9 -y
