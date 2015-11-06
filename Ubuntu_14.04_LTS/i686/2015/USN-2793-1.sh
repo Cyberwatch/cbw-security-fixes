@@ -4,7 +4,7 @@
 # Security fix for USN-2793-1
 #
 # Security announcement date: 2015-11-05 00:00:00 UTC
-# Script generation date:     2015-11-05 19:02:51 UTC
+# Script generation date:     2015-11-06 07:02:51 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - libreoffice-core:1:4.2.8-0ubuntu3
 #
 # Last versions recommanded by security team:
-#   - libreoffice-core:1:4.2.8-0ubuntu2
+#   - libreoffice-core:1:4.2.8-0ubuntu3
 #
 # CVE List:
 #   - CVE-2015-4551
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2793-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libreoffice-core=1:4.2.8-0ubuntu2 -y
+sudo apt-get install --only-upgrade libreoffice-core=1:4.2.8-0ubuntu3 -y
