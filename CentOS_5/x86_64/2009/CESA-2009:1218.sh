@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:1218
 #
 # Security announcement date: 2009-08-18 19:24:05 UTC
-# Script generation date:     2015-09-10 09:39:02 UTC
+# Script generation date:     2015-11-09 19:06:59 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -20,15 +20,15 @@
 #   - pidgin-perl:2.5.9-1.el5
 #
 # Last versions recommanded by security team:
-#   - finch:2.6.6-17.el5_9.1
-#   - finch-devel:2.6.6-17.el5_9.1
-#   - libpurple:2.6.6-17.el5_9.1
-#   - libpurple-devel:2.6.6-17.el5_9.1
-#   - libpurple-perl:2.6.6-17.el5_9.1
-#   - libpurple-tcl:2.6.6-17.el5_9.1
-#   - pidgin:2.6.6-17.el5_9.1
-#   - pidgin-devel:2.6.6-17.el5_9.1
-#   - pidgin-perl:2.6.6-17.el5_9.1
+#   - finch:2.6.6-32.el5
+#   - finch-devel:2.6.6-32.el5
+#   - libpurple:2.6.6-32.el5
+#   - libpurple-devel:2.6.6-32.el5
+#   - libpurple-perl:2.6.6-32.el5
+#   - libpurple-tcl:2.6.6-32.el5
+#   - pidgin:2.6.6-32.el5
+#   - pidgin-devel:2.6.6-32.el5
+#   - pidgin-perl:2.6.6-32.el5
 #
 # CVE List:
 #   - CVE-2009-2694

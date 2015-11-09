@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0433
 #
 # Security announcement date: 2014-04-25 10:56:20 UTC
-# Script generation date:     2015-09-10 09:40:23 UTC
+# Script generation date:     2015-11-09 19:08:17 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -19,14 +19,14 @@
 #   - kernel-xen-devel:2.6.18-371.8.1.el5
 #
 # Last versions recommanded by security team:
-#   - kernel-doc:2.6.18-194.11.3.el5
-#   - kernel:2.6.18-194.11.3.el5
-#   - kernel-debug:2.6.18-194.11.3.el5
-#   - kernel-debug-devel:2.6.18-194.11.3.el5
-#   - kernel-devel:2.6.18-194.11.3.el5
-#   - kernel-headers:2.6.18-194.11.3.el5
-#   - kernel-xen:2.6.18-194.11.3.el5
-#   - kernel-xen-devel:2.6.18-194.11.3.el5
+#   - kernel-doc:2.6.18-406.el5
+#   - kernel:2.6.18-406.el5
+#   - kernel-debug:2.6.18-406.el5
+#   - kernel-debug-devel:2.6.18-406.el5
+#   - kernel-devel:2.6.18-406.el5
+#   - kernel-headers:2.6.18-406.el5
+#   - kernel-xen:2.6.18-406.el5
+#   - kernel-xen-devel:2.6.18-406.el5
 #
 # CVE List:
 #   - CVE-2012-6638

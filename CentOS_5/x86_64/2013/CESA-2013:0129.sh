@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0129
 #
 # Security announcement date: 2013-01-11 13:18:59 UTC
-# Script generation date:     2015-09-10 09:40:57 UTC
+# Script generation date:     2015-11-09 19:07:47 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -20,15 +20,15 @@
 #   - ruby-tcltk:1.8.5-27.el5
 #
 # Last versions recommanded by security team:
-#   - ruby:1.8.5-22.el5_7.1
-#   - ruby-devel:1.8.5-22.el5_7.1
-#   - ruby-docs:1.8.5-22.el5_7.1
-#   - ruby-irb:1.8.5-22.el5_7.1
-#   - ruby-libs:1.8.5-22.el5_7.1
-#   - ruby-mode:1.8.5-22.el5_7.1
-#   - ruby-rdoc:1.8.5-22.el5_7.1
-#   - ruby-ri:1.8.5-22.el5_7.1
-#   - ruby-tcltk:1.8.5-22.el5_7.1
+#   - ruby:1.8.5-31.el5_9
+#   - ruby-devel:1.8.5-31.el5_9
+#   - ruby-docs:1.8.5-31.el5_9
+#   - ruby-irb:1.8.5-31.el5_9
+#   - ruby-libs:1.8.5-31.el5_9
+#   - ruby-mode:1.8.5-31.el5_9
+#   - ruby-rdoc:1.8.5-31.el5_9
+#   - ruby-ri:1.8.5-31.el5_9
+#   - ruby-tcltk:1.8.5-31.el5_9
 #
 # CVE List:
 #   - CVE-2011-1005

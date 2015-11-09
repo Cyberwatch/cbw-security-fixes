@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:0256
 #
 # Security announcement date: 2009-02-05 01:08:30 UTC
-# Script generation date:     2015-11-05 07:11:40 UTC
+# Script generation date:     2015-11-09 19:06:55 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -24,9 +24,9 @@
 #   - nss-devel:3.19.1-2.el5_11
 #   - nss-pkcs11-devel:3.19.1-2.el5_11
 #   - nss-tools:3.19.1-2.el5_11
-#   - xulrunner:1.9.2.11-4.el5
-#   - xulrunner-devel:1.9.2.11-4.el5
-#   - xulrunner-devel-unstable:1.9.0.6-1.el5
+#   - xulrunner:17.0.10-1.el5_10
+#   - xulrunner-devel:17.0.10-1.el5_10
+#   - xulrunner-devel-unstable:1.9.0.18-1.el5_4
 #
 # CVE List:
 #   - CVE-2009-0355
@@ -46,6 +46,6 @@ sudo yum install nss-3.19.1 -y
 sudo yum install nss-devel-3.19.1 -y 
 sudo yum install nss-pkcs11-devel-3.19.1 -y 
 sudo yum install nss-tools-3.19.1 -y 
-sudo yum install xulrunner-1.9.2.11 -y 
-sudo yum install xulrunner-devel-1.9.2.11 -y 
-sudo yum install xulrunner-devel-unstable-1.9.0.6 -y 
+sudo yum install xulrunner-17.0.10 -y 
+sudo yum install xulrunner-devel-17.0.10 -y 
+sudo yum install xulrunner-devel-unstable-1.9.0.18 -y 

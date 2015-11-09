@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0266
 #
 # Security announcement date: 2014-03-10 16:34:59 UTC
-# Script generation date:     2015-09-10 09:40:21 UTC
+# Script generation date:     2015-11-09 19:08:15 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - sudo:1.7.2p1-29.el5_10
 #
 # Last versions recommanded by security team:
-#   - sudo:1.7.2p1-14.el5_8.2
+#   - sudo:1.7.2p1-29.el5_10
 #
 # CVE List:
 #   - CVE-2014-0106

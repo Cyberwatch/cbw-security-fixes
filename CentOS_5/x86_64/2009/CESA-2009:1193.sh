@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:1193
 #
 # Security announcement date: 2009-08-05 16:23:15 UTC
-# Script generation date:     2015-09-10 09:39:01 UTC
+# Script generation date:     2015-11-09 19:06:59 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -19,14 +19,14 @@
 #   - kernel-xen-devel:2.6.18-128.4.1.el5
 #
 # Last versions recommanded by security team:
-#   - kernel:2.6.18-194.11.3.el5
-#   - kernel-debug:2.6.18-194.11.3.el5
-#   - kernel-debug-devel:2.6.18-194.11.3.el5
-#   - kernel-devel:2.6.18-194.11.3.el5
-#   - kernel-doc:2.6.18-194.11.3.el5
-#   - kernel-headers:2.6.18-194.11.3.el5
-#   - kernel-xen:2.6.18-194.11.3.el5
-#   - kernel-xen-devel:2.6.18-194.11.3.el5
+#   - kernel:2.6.18-406.el5
+#   - kernel-debug:2.6.18-406.el5
+#   - kernel-debug-devel:2.6.18-406.el5
+#   - kernel-devel:2.6.18-406.el5
+#   - kernel-doc:2.6.18-406.el5
+#   - kernel-headers:2.6.18-406.el5
+#   - kernel-xen:2.6.18-406.el5
+#   - kernel-xen-devel:2.6.18-406.el5
 #
 # CVE List:
 #   - CVE-2009-1385

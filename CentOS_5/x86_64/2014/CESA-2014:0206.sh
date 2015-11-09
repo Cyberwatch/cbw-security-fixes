@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0206
 #
 # Security announcement date: 2014-02-24 19:35:05 UTC
-# Script generation date:     2015-09-10 09:40:20 UTC
+# Script generation date:     2015-11-09 19:08:15 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -18,13 +18,13 @@
 #   - openldap-servers-sql:2.3.43-27.el5_10
 #
 # Last versions recommanded by security team:
-#   - compat-openldap:2.3.43_2.2.29-12.el5_6.7
-#   - openldap:2.3.43-12.el5_6.7
-#   - openldap-clients:2.3.43-12.el5_6.7
-#   - openldap-devel:2.3.43-12.el5_6.7
-#   - openldap-servers:2.3.43-12.el5_6.7
-#   - openldap-servers-overlays:2.3.43-12.el5_6.7
-#   - openldap-servers-sql:2.3.43-12.el5_6.7
+#   - compat-openldap:2.3.43_2.2.29-29.el5_11
+#   - openldap:2.3.43-29.el5_11
+#   - openldap-clients:2.3.43-29.el5_11
+#   - openldap-devel:2.3.43-29.el5_11
+#   - openldap-servers:2.3.43-29.el5_11
+#   - openldap-servers-overlays:2.3.43-29.el5_11
+#   - openldap-servers-sql:2.3.43-29.el5_11
 #
 # CVE List:
 #   - CVE-2013-4449

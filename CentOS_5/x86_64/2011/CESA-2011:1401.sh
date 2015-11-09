@@ -3,7 +3,7 @@
 # Security fix for CESA-2011:1401
 #
 # Security announcement date: 2011-10-24 17:56:22 UTC
-# Script generation date:     2015-09-10 09:39:28 UTC
+# Script generation date:     2015-11-09 19:07:24 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - xen-libs:3.0.3-132.el5_7.2
 #
 # Last versions recommanded by security team:
-#   - xen:3.0.3-142.el5_9.2
-#   - xen-devel:3.0.3-142.el5_9.2
-#   - xen-libs:3.0.3-142.el5_9.2
+#   - xen:3.0.3-146.el5_11
+#   - xen-devel:3.0.3-146.el5_11
+#   - xen-libs:3.0.3-146.el5_11
 #
 # CVE List:
 #   - CVE-2011-3346

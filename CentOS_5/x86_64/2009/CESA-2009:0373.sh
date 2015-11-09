@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:0373
 #
 # Security announcement date: 2009-04-09 09:19:36 UTC
-# Script generation date:     2015-09-10 09:38:57 UTC
+# Script generation date:     2015-11-09 19:06:56 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - systemtap-testsuite:0.7.2-3.el5_3
 #
 # Last versions recommanded by security team:
-#   - systemtap:1.3-4.el5_6.1
-#   - systemtap-client:1.3-4.el5_6.1
-#   - systemtap-runtime:1.3-4.el5_6.1
-#   - systemtap-server:1.3-4.el5_6.1
-#   - systemtap-testsuite:1.3-4.el5_6.1
+#   - systemtap:1.6-7.el5_8
+#   - systemtap-client:1.3-9.el5
+#   - systemtap-runtime:1.6-7.el5_8
+#   - systemtap-server:1.6-7.el5_8
+#   - systemtap-testsuite:1.6-7.el5_8
 #
 # CVE List:
 #   - CVE-2009-0784
@@ -29,8 +29,8 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2009:0373
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install systemtap-1.3 -y 
+sudo yum install systemtap-1.6 -y 
 sudo yum install systemtap-client-1.3 -y 
-sudo yum install systemtap-runtime-1.3 -y 
-sudo yum install systemtap-server-1.3 -y 
-sudo yum install systemtap-testsuite-1.3 -y 
+sudo yum install systemtap-runtime-1.6 -y 
+sudo yum install systemtap-server-1.6 -y 
+sudo yum install systemtap-testsuite-1.6 -y 

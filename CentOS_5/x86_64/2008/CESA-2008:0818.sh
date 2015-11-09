@@ -3,7 +3,7 @@
 # Security fix for CESA-2008:0818
 #
 # Security announcement date: 2008-08-15 16:50:34 UTC
-# Script generation date:     2015-09-10 09:38:50 UTC
+# Script generation date:     2015-11-09 19:06:50 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - postfix-pflogsumm:2.3.3-2.1.el5_2
 #
 # Last versions recommanded by security team:
-#   - postfix:2.3.3-2.1.el5_2
-#   - postfix-pflogsumm:2.3.3-2.1.el5_2
+#   - postfix:2.3.3-2.3.el5_6
+#   - postfix-pflogsumm:2.3.3-2.3.el5_6
 #
 # CVE List:
 #   - CVE-2008-2940

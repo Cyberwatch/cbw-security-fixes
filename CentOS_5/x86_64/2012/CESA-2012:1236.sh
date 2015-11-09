@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:1236
 #
 # Security announcement date: 2012-09-05 17:58:14 UTC
-# Script generation date:     2015-09-10 09:39:51 UTC
+# Script generation date:     2015-11-09 19:07:42 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - xen-libs:3.0.3-135.el5_8.5
 #
 # Last versions recommanded by security team:
-#   - xen:3.0.3-142.el5_9.2
-#   - xen-devel:3.0.3-142.el5_9.2
-#   - xen-libs:3.0.3-142.el5_9.2
+#   - xen:3.0.3-146.el5_11
+#   - xen-devel:3.0.3-146.el5_11
+#   - xen-libs:3.0.3-146.el5_11
 #
 # CVE List:
 #   - CVE-2012-3515

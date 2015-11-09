@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:1264
 #
 # Security announcement date: 2012-09-13 17:55:48 UTC
-# Script generation date:     2015-09-10 09:39:52 UTC
+# Script generation date:     2015-11-09 19:07:43 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -21,16 +21,16 @@
 #   - postgresql-test:8.1.23-6.el5_8
 #
 # Last versions recommanded by security team:
-#   - postgresql:8.1.23-1.el5_7.2
-#   - postgresql-contrib:8.1.23-1.el5_7.2
-#   - postgresql-devel:8.1.23-1.el5_7.2
-#   - postgresql-docs:8.1.23-1.el5_7.2
-#   - postgresql-libs:8.1.23-1.el5_7.2
-#   - postgresql-pl:8.1.23-1.el5_7.2
-#   - postgresql-python:8.1.23-1.el5_7.2
-#   - postgresql-server:8.1.23-1.el5_7.2
-#   - postgresql-tcl:8.1.23-1.el5_7.2
-#   - postgresql-test:8.1.23-1.el5_7.2
+#   - postgresql:8.1.23-10.el5_10
+#   - postgresql-contrib:8.1.23-10.el5_10
+#   - postgresql-devel:8.1.23-10.el5_10
+#   - postgresql-docs:8.1.23-10.el5_10
+#   - postgresql-libs:8.1.23-10.el5_10
+#   - postgresql-pl:8.1.23-10.el5_10
+#   - postgresql-python:8.1.23-10.el5_10
+#   - postgresql-server:8.1.23-10.el5_10
+#   - postgresql-tcl:8.1.23-10.el5_10
+#   - postgresql-test:8.1.23-10.el5_10
 #
 # CVE List:
 #   - CVE-2012-3488

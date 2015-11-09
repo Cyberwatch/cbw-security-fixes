@@ -3,7 +3,7 @@
 # Security fix for CESA-2008:0064
 #
 # Security announcement date: 2008-01-18 23:25:11 UTC
-# Script generation date:     2015-09-10 09:38:43 UTC
+# Script generation date:     2015-11-09 19:06:44 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - libXfont-devel:1.2.2-1.0.3.el5_1
 #
 # Last versions recommanded by security team:
-#   - libXfont:1.2.2-1.0.3.el5_1
-#   - libXfont-devel:1.2.2-1.0.3.el5_1
+#   - libXfont:1.2.2-1.0.6.el5_11
+#   - libXfont-devel:1.2.2-1.0.6.el5_11
 #
 # CVE List:
 #   - CVE-2008-0006

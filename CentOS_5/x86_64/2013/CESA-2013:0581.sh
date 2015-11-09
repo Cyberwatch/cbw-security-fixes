@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0581
 #
 # Security announcement date: 2013-03-01 00:45:13 UTC
-# Script generation date:     2015-09-10 09:39:58 UTC
+# Script generation date:     2015-11-09 19:07:51 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - libxml2-python:2.6.26-2.1.21.el5_9.1
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.6.26-2.1.21.el5_9.1
-#   - libxml2-devel:2.6.26-2.1.21.el5_9.1
-#   - libxml2-python:2.6.26-2.1.21.el5_9.1
+#   - libxml2:2.6.26-2.1.25.el5_11
+#   - libxml2-devel:2.6.26-2.1.25.el5_11
+#   - libxml2-python:2.6.26-2.1.25.el5_11
 #
 # CVE List:
 #

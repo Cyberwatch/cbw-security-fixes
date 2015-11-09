@@ -3,7 +3,7 @@
 # Security fix for CESA-2010:0442
 #
 # Security announcement date: 2010-05-28 10:47:08 UTC
-# Script generation date:     2015-09-10 09:39:13 UTC
+# Script generation date:     2015-11-09 19:07:07 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - mysql-test:5.0.77-4.el5_5.3
 #
 # Last versions recommanded by security team:
-#   - mysql:5.0.95-1.el5_7.1
-#   - mysql-bench:5.0.95-1.el5_7.1
-#   - mysql-devel:5.0.95-1.el5_7.1
-#   - mysql-server:5.0.95-1.el5_7.1
-#   - mysql-test:5.0.95-1.el5_7.1
+#   - mysql:5.0.95-5.el5_9
+#   - mysql-bench:5.0.95-5.el5_9
+#   - mysql-devel:5.0.95-5.el5_9
+#   - mysql-server:5.0.95-5.el5_9
+#   - mysql-test:5.0.95-5.el5_9
 #
 # CVE List:
 #   - CVE-2010-1848

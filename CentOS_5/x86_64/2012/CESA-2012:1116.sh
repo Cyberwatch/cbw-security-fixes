@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:1116
 #
 # Security announcement date: 2012-07-25 18:33:00 UTC
-# Script generation date:     2015-09-10 09:39:48 UTC
+# Script generation date:     2015-11-09 19:07:40 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - perl-DBD-Pg:1.49-4.el5_8
 #
 # Last versions recommanded by security team:
-#   - perl-DBD-Pg:1.49-2.el5_3.1
+#   - perl-DBD-Pg:1.49-4.el5_8
 #
 # CVE List:
 #   - CVE-2012-1151

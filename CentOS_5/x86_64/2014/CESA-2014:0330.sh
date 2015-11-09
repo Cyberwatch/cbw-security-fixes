@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0330
 #
 # Security announcement date: 2014-03-25 15:09:56 UTC
-# Script generation date:     2015-09-10 09:40:21 UTC
+# Script generation date:     2015-11-09 19:08:16 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -19,14 +19,14 @@
 #   - samba3x-winbind-devel:3.6.6-0.139.el5_10
 #
 # Last versions recommanded by security team:
-#   - samba3x:3.5.4-0.83.el5_7.2
-#   - samba3x-client:3.5.4-0.83.el5_7.2
-#   - samba3x-common:3.5.4-0.83.el5_7.2
-#   - samba3x-doc:3.5.4-0.83.el5_7.2
-#   - samba3x-domainjoin-gui:3.5.4-0.83.el5_7.2
-#   - samba3x-swat:3.5.4-0.83.el5_7.2
-#   - samba3x-winbind:3.5.4-0.83.el5_7.2
-#   - samba3x-winbind-devel:3.5.4-0.83.el5_7.2
+#   - samba3x:3.6.23-9.el5_11
+#   - samba3x-client:3.6.23-9.el5_11
+#   - samba3x-common:3.6.23-9.el5_11
+#   - samba3x-doc:3.6.23-9.el5_11
+#   - samba3x-domainjoin-gui:3.6.23-9.el5_11
+#   - samba3x-swat:3.6.23-9.el5_11
+#   - samba3x-winbind:3.6.23-9.el5_11
+#   - samba3x-winbind-devel:3.6.23-9.el5_11
 #
 # CVE List:
 #   - CVE-2012-6150
@@ -36,11 +36,11 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2014:0330
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install samba3x-3.5.4 -y 
-sudo yum install samba3x-client-3.5.4 -y 
-sudo yum install samba3x-common-3.5.4 -y 
-sudo yum install samba3x-doc-3.5.4 -y 
-sudo yum install samba3x-domainjoin-gui-3.5.4 -y 
-sudo yum install samba3x-swat-3.5.4 -y 
-sudo yum install samba3x-winbind-3.5.4 -y 
-sudo yum install samba3x-winbind-devel-3.5.4 -y 
+sudo yum install samba3x-3.6.23 -y 
+sudo yum install samba3x-client-3.6.23 -y 
+sudo yum install samba3x-common-3.6.23 -y 
+sudo yum install samba3x-doc-3.6.23 -y 
+sudo yum install samba3x-domainjoin-gui-3.6.23 -y 
+sudo yum install samba3x-swat-3.6.23 -y 
+sudo yum install samba3x-winbind-3.6.23 -y 
+sudo yum install samba3x-winbind-devel-3.6.23 -y 

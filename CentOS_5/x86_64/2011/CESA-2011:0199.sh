@@ -3,7 +3,7 @@
 # Security fix for CESA-2011:0199
 #
 # Security announcement date: 2011-04-14 23:48:10 UTC
-# Script generation date:     2015-09-10 09:39:21 UTC
+# Script generation date:     2015-11-09 19:07:17 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - krb5-workstation:1.6.1-55.el5_6.1
 #
 # Last versions recommanded by security team:
-#   - krb5-devel:1.6.1-70.el5_9.2
-#   - krb5-libs:1.6.1-70.el5_9.2
-#   - krb5-server:1.6.1-70.el5_9.2
-#   - krb5-server-ldap:1.6.1-70.el5_9.2
-#   - krb5-workstation:1.6.1-70.el5_9.2
+#   - krb5-devel:1.6.1-80.el5_11
+#   - krb5-libs:1.6.1-80.el5_11
+#   - krb5-server:1.6.1-80.el5_11
+#   - krb5-server-ldap:1.6.1-80.el5_11
+#   - krb5-workstation:1.6.1-80.el5_11
 #
 # CVE List:
 #   - CVE-2011-0281

@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:1768
 #
 # Security announcement date: 2014-10-31 14:37:09 UTC
-# Script generation date:     2015-09-10 09:40:35 UTC
+# Script generation date:     2015-11-09 19:08:27 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -32,27 +32,27 @@
 #   - php53-xmlrpc:5.3.3-26.el5_11
 #
 # Last versions recommanded by security team:
-#   - php53:5.3.3-13.el5_9.1
-#   - php53-bcmath:5.3.3-13.el5_9.1
-#   - php53-cli:5.3.3-13.el5_9.1
-#   - php53-common:5.3.3-13.el5_9.1
-#   - php53-dba:5.3.3-13.el5_9.1
-#   - php53-devel:5.3.3-13.el5_9.1
-#   - php53-gd:5.3.3-13.el5_9.1
-#   - php53-imap:5.3.3-13.el5_9.1
-#   - php53-intl:5.3.3-13.el5_9.1
-#   - php53-ldap:5.3.3-13.el5_9.1
-#   - php53-mbstring:5.3.3-13.el5_9.1
-#   - php53-mysql:5.3.3-13.el5_9.1
-#   - php53-odbc:5.3.3-13.el5_9.1
-#   - php53-pdo:5.3.3-13.el5_9.1
-#   - php53-pgsql:5.3.3-13.el5_9.1
-#   - php53-process:5.3.3-13.el5_9.1
-#   - php53-pspell:5.3.3-13.el5_9.1
-#   - php53-snmp:5.3.3-13.el5_9.1
-#   - php53-soap:5.3.3-13.el5_9.1
-#   - php53-xml:5.3.3-13.el5_9.1
-#   - php53-xmlrpc:5.3.3-13.el5_9.1
+#   - php53:5.3.3-26.el5_11
+#   - php53-bcmath:5.3.3-26.el5_11
+#   - php53-cli:5.3.3-26.el5_11
+#   - php53-common:5.3.3-26.el5_11
+#   - php53-dba:5.3.3-26.el5_11
+#   - php53-devel:5.3.3-26.el5_11
+#   - php53-gd:5.3.3-26.el5_11
+#   - php53-imap:5.3.3-26.el5_11
+#   - php53-intl:5.3.3-26.el5_11
+#   - php53-ldap:5.3.3-26.el5_11
+#   - php53-mbstring:5.3.3-26.el5_11
+#   - php53-mysql:5.3.3-26.el5_11
+#   - php53-odbc:5.3.3-26.el5_11
+#   - php53-pdo:5.3.3-26.el5_11
+#   - php53-pgsql:5.3.3-26.el5_11
+#   - php53-process:5.3.3-26.el5_11
+#   - php53-pspell:5.3.3-26.el5_11
+#   - php53-snmp:5.3.3-26.el5_11
+#   - php53-soap:5.3.3-26.el5_11
+#   - php53-xml:5.3.3-26.el5_11
+#   - php53-xmlrpc:5.3.3-26.el5_11
 #
 # CVE List:
 #   - CVE-2014-3668

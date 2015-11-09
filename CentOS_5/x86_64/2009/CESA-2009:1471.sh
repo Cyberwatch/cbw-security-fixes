@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:1471
 #
 # Security announcement date: 2009-10-30 14:43:48 UTC
-# Script generation date:     2015-09-10 09:39:05 UTC
+# Script generation date:     2015-11-09 19:07:01 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - elinks:0.11.1-6.el5_4.1
 #
 # Last versions recommanded by security team:
-#   - elinks:0.11.1-6.el5_4.1
+#   - elinks:0.11.1-8.el5_9
 #
 # CVE List:
 #   - CVE-2007-2027

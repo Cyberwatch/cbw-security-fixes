@@ -3,7 +3,7 @@
 # Security fix for CESA-2010:0679
 #
 # Security announcement date: 2010-09-12 16:21:59 UTC
-# Script generation date:     2015-09-10 09:39:16 UTC
+# Script generation date:     2015-11-09 19:07:11 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -18,13 +18,13 @@
 #   - rpm-python:4.4.2.3-20.el5_5.1
 #
 # Last versions recommanded by security team:
-#   - popt:1.10.2.3-34.el5
-#   - rpm:4.4.2.3-34.el5
-#   - rpm-apidocs:4.4.2.3-34.el5
-#   - rpm-build:4.4.2.3-34.el5
-#   - rpm-devel:4.4.2.3-34.el5
-#   - rpm-libs:4.4.2.3-34.el5
-#   - rpm-python:4.4.2.3-34.el5
+#   - popt:1.10.2.3-36.el5_11
+#   - rpm:4.4.2.3-36.el5_11
+#   - rpm-apidocs:4.4.2.3-36.el5_11
+#   - rpm-build:4.4.2.3-36.el5_11
+#   - rpm-devel:4.4.2.3-36.el5_11
+#   - rpm-libs:4.4.2.3-36.el5_11
+#   - rpm-python:4.4.2.3-36.el5_11
 #
 # CVE List:
 #   - CVE-2010-2059

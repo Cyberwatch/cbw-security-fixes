@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0250
 #
 # Security announcement date: 2013-02-11 18:29:01 UTC
-# Script generation date:     2015-09-10 09:39:57 UTC
+# Script generation date:     2015-11-09 19:07:48 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - elinks:0.11.1-8.el5_9
 #
 # Last versions recommanded by security team:
-#   - elinks:0.11.1-6.el5_4.1
+#   - elinks:0.11.1-8.el5_9
 #
 # CVE List:
 #

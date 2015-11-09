@@ -3,7 +3,7 @@
 # Security fix for CESA-2007:0992
 #
 # Security announcement date: 2007-10-26 23:44:16 UTC
-# Script generation date:     2015-09-10 09:38:41 UTC
+# Script generation date:     2015-11-09 19:06:43 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - libpng-devel:1.2.10-7.1.el5_0.1
 #
 # Last versions recommanded by security team:
-#   - libpng:1.2.10-7.1.el5_7.5
-#   - libpng-devel:1.2.10-7.1.el5_7.5
+#   - libpng:1.2.10-17.el5_8
+#   - libpng-devel:1.2.10-17.el5_8
 #
 # CVE List:
 #

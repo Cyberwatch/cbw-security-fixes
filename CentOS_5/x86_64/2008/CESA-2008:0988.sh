@@ -3,7 +3,7 @@
 # Security fix for CESA-2008:0988
 #
 # Security announcement date: 2008-11-23 13:33:11 UTC
-# Script generation date:     2015-09-10 09:38:53 UTC
+# Script generation date:     2015-11-09 19:06:53 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - libxml2-python:2.6.26-2.1.2.7
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.6.26-2.1.21.el5_9.1
-#   - libxml2-devel:2.6.26-2.1.21.el5_9.1
-#   - libxml2-python:2.6.26-2.1.21.el5_9.1
+#   - libxml2:2.6.26-2.1.25.el5_11
+#   - libxml2-devel:2.6.26-2.1.25.el5_11
+#   - libxml2-python:2.6.26-2.1.25.el5_11
 #
 # CVE List:
 #   - CVE-2008-4225

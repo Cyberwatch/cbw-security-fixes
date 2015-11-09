@@ -3,7 +3,7 @@
 # Security fix for CESA-2010:0652
 #
 # Security announcement date: 2010-08-25 17:25:33 UTC
-# Script generation date:     2015-09-10 09:39:16 UTC
+# Script generation date:     2015-11-09 19:07:10 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - ImageMagick-perl:6.2.8.0-4.el5_5.2
 #
 # Last versions recommanded by security team:
-#   - ImageMagick:6.2.8.0-4.el5_5.2
+#   - ImageMagick:6.2.8.0-15.el5_8
 #   - :6.2.8.0-15.el5_8
 #   - -devel:6.2.8.0-15.el5_8
-#   - ImageMagick-devel:6.2.8.0-4.el5_5.2
-#   - ImageMagick-perl:6.2.8.0-4.el5_5.2
+#   - ImageMagick-devel:6.2.8.0-15.el5_8
+#   - ImageMagick-perl:6.2.8.0-15.el5_8
 #
 # CVE List:
 #   - CVE-2009-1882

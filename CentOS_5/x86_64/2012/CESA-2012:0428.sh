@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0428
 #
 # Security announcement date: 2012-03-28 00:49:15 UTC
-# Script generation date:     2015-09-10 09:39:38 UTC
+# Script generation date:     2015-11-09 19:07:32 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - gnutls-utils:1.4.1-7.el5_8.2
 #
 # Last versions recommanded by security team:
-#   - gnutls:1.4.1-10.el5_9.2
-#   - gnutls-devel:1.4.1-10.el5_9.2
-#   - gnutls-utils:1.4.1-10.el5_9.2
+#   - gnutls:1.4.1-16.el5_10
+#   - gnutls-devel:1.4.1-16.el5_10
+#   - gnutls-utils:1.4.1-16.el5_10
 #
 # CVE List:
 #   - CVE-2012-1569

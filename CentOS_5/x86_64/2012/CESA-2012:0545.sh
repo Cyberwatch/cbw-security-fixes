@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0545
 #
 # Security announcement date: 2012-05-07 21:07:07 UTC
-# Script generation date:     2015-09-10 09:39:40 UTC
+# Script generation date:     2015-11-09 19:07:33 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - ImageMagick-perl:6.2.8.0-15.el5_8
 #
 # Last versions recommanded by security team:
-#   - ImageMagick:6.2.8.0-4.el5_5.2
+#   - ImageMagick:6.2.8.0-15.el5_8
 #   - :6.2.8.0-15.el5_8
 #   - -devel:6.2.8.0-15.el5_8
-#   - ImageMagick-devel:6.2.8.0-4.el5_5.2
-#   - ImageMagick-perl:6.2.8.0-4.el5_5.2
+#   - ImageMagick-devel:6.2.8.0-15.el5_8
+#   - ImageMagick-perl:6.2.8.0-15.el5_8
 #
 # CVE List:
 #   - CVE-2012-0247

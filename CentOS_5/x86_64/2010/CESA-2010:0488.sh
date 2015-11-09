@@ -3,7 +3,7 @@
 # Security fix for CESA-2010:0488
 #
 # Security announcement date: 2010-06-19 23:35:13 UTC
-# Script generation date:     2015-09-10 09:39:14 UTC
+# Script generation date:     2015-11-09 19:07:08 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -28,14 +28,14 @@
 #   - libtalloc-devel:1.2.0-52.el5_5.2
 #   - libtdb:1.1.2-52.el5_5.2
 #   - libtdb-devel:1.1.2-52.el5_5.2
-#   - samba3x:3.5.4-0.83.el5_7.2
-#   - samba3x-client:3.5.4-0.83.el5_7.2
-#   - samba3x-common:3.5.4-0.83.el5_7.2
-#   - samba3x-doc:3.5.4-0.83.el5_7.2
-#   - samba3x-domainjoin-gui:3.5.4-0.83.el5_7.2
-#   - samba3x-swat:3.5.4-0.83.el5_7.2
-#   - samba3x-winbind:3.5.4-0.83.el5_7.2
-#   - samba3x-winbind-devel:3.5.4-0.83.el5_7.2
+#   - samba3x:3.6.23-9.el5_11
+#   - samba3x-client:3.6.23-9.el5_11
+#   - samba3x-common:3.6.23-9.el5_11
+#   - samba3x-doc:3.6.23-9.el5_11
+#   - samba3x-domainjoin-gui:3.6.23-9.el5_11
+#   - samba3x-swat:3.6.23-9.el5_11
+#   - samba3x-winbind:3.6.23-9.el5_11
+#   - samba3x-winbind-devel:3.6.23-9.el5_11
 #   - tdb-tools:1.1.2-52.el5_5.2
 #
 # CVE List:
@@ -49,12 +49,12 @@ sudo yum install libtalloc-1.2.0 -y
 sudo yum install libtalloc-devel-1.2.0 -y 
 sudo yum install libtdb-1.1.2 -y 
 sudo yum install libtdb-devel-1.1.2 -y 
-sudo yum install samba3x-3.5.4 -y 
-sudo yum install samba3x-client-3.5.4 -y 
-sudo yum install samba3x-common-3.5.4 -y 
-sudo yum install samba3x-doc-3.5.4 -y 
-sudo yum install samba3x-domainjoin-gui-3.5.4 -y 
-sudo yum install samba3x-swat-3.5.4 -y 
-sudo yum install samba3x-winbind-3.5.4 -y 
-sudo yum install samba3x-winbind-devel-3.5.4 -y 
+sudo yum install samba3x-3.6.23 -y 
+sudo yum install samba3x-client-3.6.23 -y 
+sudo yum install samba3x-common-3.6.23 -y 
+sudo yum install samba3x-doc-3.6.23 -y 
+sudo yum install samba3x-domainjoin-gui-3.6.23 -y 
+sudo yum install samba3x-swat-3.6.23 -y 
+sudo yum install samba3x-winbind-3.6.23 -y 
+sudo yum install samba3x-winbind-devel-3.6.23 -y 
 sudo yum install tdb-tools-1.1.2 -y 

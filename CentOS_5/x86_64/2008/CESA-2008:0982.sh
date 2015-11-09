@@ -3,7 +3,7 @@
 # Security fix for CESA-2008:0982
 #
 # Security announcement date: 2008-11-11 21:07:16 UTC
-# Script generation date:     2015-09-10 09:38:52 UTC
+# Script generation date:     2015-11-09 19:06:52 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - gnutls-utils:1.4.1-3.el5_2.1
 #
 # Last versions recommanded by security team:
-#   - gnutls:1.4.1-10.el5_9.2
-#   - gnutls-devel:1.4.1-10.el5_9.2
-#   - gnutls-utils:1.4.1-10.el5_9.2
+#   - gnutls:1.4.1-16.el5_10
+#   - gnutls-devel:1.4.1-16.el5_10
+#   - gnutls-utils:1.4.1-16.el5_10
 #
 # CVE List:
 #   - CVE-2008-4989

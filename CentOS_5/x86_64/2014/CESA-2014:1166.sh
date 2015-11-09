@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:1166
 #
 # Security announcement date: 2014-09-08 16:54:16 UTC
-# Script generation date:     2015-09-10 09:40:31 UTC
+# Script generation date:     2015-11-09 19:08:24 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - jakarta-commons-httpclient-manual:3.0-7jpp.4.el5_10
 #
 # Last versions recommanded by security team:
-#   - jakarta-commons-httpclient:3.0-7jpp.2
-#   - jakarta-commons-httpclient-demo:3.0-7jpp.2
-#   - jakarta-commons-httpclient-javadoc:3.0-7jpp.2
-#   - jakarta-commons-httpclient-manual:3.0-7jpp.2
+#   - jakarta-commons-httpclient:3.0-7jpp.4.el5_10
+#   - jakarta-commons-httpclient-demo:3.0-7jpp.4.el5_10
+#   - jakarta-commons-httpclient-javadoc:3.0-7jpp.4.el5_10
+#   - jakarta-commons-httpclient-manual:3.0-7jpp.4.el5_10
 #
 # CVE List:
 #   - CVE-2012-6153

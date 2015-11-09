@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:1472
 #
 # Security announcement date: 2009-10-30 14:44:02 UTC
-# Script generation date:     2015-09-10 09:39:06 UTC
+# Script generation date:     2015-11-09 19:07:01 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - xen-libs:3.0.3-94.el5_4.1
 #
 # Last versions recommanded by security team:
-#   - xen:3.0.3-142.el5_9.2
-#   - xen-devel:3.0.3-142.el5_9.2
-#   - xen-libs:3.0.3-142.el5_9.2
+#   - xen:3.0.3-146.el5_11
+#   - xen-devel:3.0.3-146.el5_11
+#   - xen-libs:3.0.3-146.el5_11
 #
 # CVE List:
 #   - CVE-2009-3525

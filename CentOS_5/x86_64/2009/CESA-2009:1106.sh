@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:1106
 #
 # Security announcement date: 2009-06-19 09:44:16 UTC
-# Script generation date:     2015-09-10 09:38:59 UTC
+# Script generation date:     2015-11-09 19:06:58 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -19,14 +19,14 @@
 #   - kernel-xen-devel:2.6.18-128.1.14.el5
 #
 # Last versions recommanded by security team:
-#   - kernel:2.6.18-194.11.3.el5
-#   - kernel-debug:2.6.18-194.11.3.el5
-#   - kernel-debug-devel:2.6.18-194.11.3.el5
-#   - kernel-devel:2.6.18-194.11.3.el5
-#   - kernel-doc:2.6.18-194.11.3.el5
-#   - kernel-headers:2.6.18-194.11.3.el5
-#   - kernel-xen:2.6.18-194.11.3.el5
-#   - kernel-xen-devel:2.6.18-194.11.3.el5
+#   - kernel:2.6.18-406.el5
+#   - kernel-debug:2.6.18-406.el5
+#   - kernel-debug-devel:2.6.18-406.el5
+#   - kernel-devel:2.6.18-406.el5
+#   - kernel-doc:2.6.18-406.el5
+#   - kernel-headers:2.6.18-406.el5
+#   - kernel-xen:2.6.18-406.el5
+#   - kernel-xen-devel:2.6.18-406.el5
 #
 # CVE List:
 #   - CVE-2009-1072

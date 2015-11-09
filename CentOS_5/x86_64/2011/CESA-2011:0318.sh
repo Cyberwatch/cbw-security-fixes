@@ -3,7 +3,7 @@
 # Security fix for CESA-2011:0318
 #
 # Security announcement date: 2011-04-14 23:48:12 UTC
-# Script generation date:     2015-09-10 09:39:21 UTC
+# Script generation date:     2015-11-09 19:07:17 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - libtiff-devel:3.8.2-7.el5_6.6
 #
 # Last versions recommanded by security team:
-#   - libtiff:3.8.2-7.el5_6.7
-#   - libtiff-devel:3.8.2-7.el5_6.7
+#   - libtiff:3.8.2-19.el5_10
+#   - libtiff-devel:3.8.2-19.el5_10
 #
 # CVE List:
 #   - CVE-2011-0192

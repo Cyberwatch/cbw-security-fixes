@@ -3,7 +3,7 @@
 # Security fix for CESA-2011:0422
 #
 # Security announcement date: 2011-04-14 13:40:08 UTC
-# Script generation date:     2015-09-10 09:39:20 UTC
+# Script generation date:     2015-11-09 19:07:16 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - postfix-pflogsumm:2.3.3-2.2.el5_6
 #
 # Last versions recommanded by security team:
-#   - postfix:2.3.3-2.2.el5_6
-#   - postfix-pflogsumm:2.3.3-2.2.el5_6
+#   - postfix:2.3.3-2.3.el5_6
+#   - postfix-pflogsumm:2.3.3-2.3.el5_6
 #
 # CVE List:
 #   - CVE-2011-0411

@@ -3,7 +3,7 @@
 # Security fix for CESA-2007:0400
 #
 # Security announcement date: 2007-06-02 10:37:27 UTC
-# Script generation date:     2015-09-10 09:38:36 UTC
+# Script generation date:     2015-11-09 19:06:38 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - yelp:2.16.0-15.el5
 #
 # Last versions recommanded by security team:
-#   - yelp:2.16.0-15.el5
+#   - yelp:2.16.0-30.el5_9
 #
 # CVE List:
 #

@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:1974
 #
 # Security announcement date: 2014-12-09 20:16:13 UTC
-# Script generation date:     2015-09-10 09:40:38 UTC
+# Script generation date:     2015-11-09 19:08:31 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -18,13 +18,13 @@
 #   - rpm-python:4.4.2.3-36.el5_11
 #
 # Last versions recommanded by security team:
-#   - popt:1.10.2.3-34.el5
-#   - rpm:4.4.2.3-34.el5
-#   - rpm-apidocs:4.4.2.3-34.el5
-#   - rpm-build:4.4.2.3-34.el5
-#   - rpm-devel:4.4.2.3-34.el5
-#   - rpm-libs:4.4.2.3-34.el5
-#   - rpm-python:4.4.2.3-34.el5
+#   - popt:1.10.2.3-36.el5_11
+#   - rpm:4.4.2.3-36.el5_11
+#   - rpm-apidocs:4.4.2.3-36.el5_11
+#   - rpm-build:4.4.2.3-36.el5_11
+#   - rpm-devel:4.4.2.3-36.el5_11
+#   - rpm-libs:4.4.2.3-36.el5_11
+#   - rpm-python:4.4.2.3-36.el5_11
 #
 # CVE List:
 #   - CVE-2013-6435

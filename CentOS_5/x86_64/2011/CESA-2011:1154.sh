@@ -3,7 +3,7 @@
 # Security fix for CESA-2011:1154
 #
 # Security announcement date: 2011-09-02 16:41:15 UTC
-# Script generation date:     2015-09-10 09:40:56 UTC
+# Script generation date:     2015-11-09 19:07:23 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - libXfont-devel:1.2.2-1.0.4.el5_7
 #
 # Last versions recommanded by security team:
-#   - libXfont:1.2.2-1.0.4.el5_7
-#   - libXfont-devel:1.2.2-1.0.4.el5_7
+#   - libXfont:1.2.2-1.0.6.el5_11
+#   - libXfont-devel:1.2.2-1.0.6.el5_11
 #
 # CVE List:
 #   - CVE-2011-2895

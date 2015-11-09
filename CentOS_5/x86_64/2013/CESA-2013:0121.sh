@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0121
 #
 # Security announcement date: 2013-01-11 13:18:41 UTC
-# Script generation date:     2015-09-10 09:40:57 UTC
+# Script generation date:     2015-11-09 19:07:47 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - mysql-test:5.0.95-3.el5
 #
 # Last versions recommanded by security team:
-#   - mysql:5.0.95-1.el5_7.1
-#   - mysql-bench:5.0.95-1.el5_7.1
-#   - mysql-devel:5.0.95-1.el5_7.1
-#   - mysql-server:5.0.95-1.el5_7.1
-#   - mysql-test:5.0.95-1.el5_7.1
+#   - mysql:5.0.95-5.el5_9
+#   - mysql-bench:5.0.95-5.el5_9
+#   - mysql-devel:5.0.95-5.el5_9
+#   - mysql-server:5.0.95-5.el5_9
+#   - mysql-test:5.0.95-5.el5_9
 #
 # CVE List:
 #   - CVE-2009-4030

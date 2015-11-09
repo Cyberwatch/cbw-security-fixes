@@ -3,7 +3,7 @@
 # Security fix for CESA-2010:0501
 #
 # Security announcement date: 2010-06-24 16:14:17 UTC
-# Script generation date:     2015-11-05 07:11:56 UTC
+# Script generation date:     2015-11-09 19:07:08 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -38,9 +38,9 @@
 #   - totem:2.16.7-7.el5
 #   - totem-devel:2.16.7-7.el5
 #   - totem-mozplugin:2.16.7-7.el5
-#   - xulrunner:1.9.2.11-4.el5
-#   - xulrunner-devel:1.9.2.11-4.el5
-#   - yelp:2.16.0-26.el5
+#   - xulrunner:17.0.10-1.el5_10
+#   - xulrunner-devel:17.0.10-1.el5_10
+#   - yelp:2.16.0-30.el5_9
 #
 # CVE List:
 #   - CVE-2010-0182
@@ -71,6 +71,6 @@ sudo yum install gnome-python2-libegg-2.14.2 -y
 sudo yum install totem-2.16.7 -y 
 sudo yum install totem-devel-2.16.7 -y 
 sudo yum install totem-mozplugin-2.16.7 -y 
-sudo yum install xulrunner-1.9.2.11 -y 
-sudo yum install xulrunner-devel-1.9.2.11 -y 
+sudo yum install xulrunner-17.0.10 -y 
+sudo yum install xulrunner-devel-17.0.10 -y 
 sudo yum install yelp-2.16.0 -y 

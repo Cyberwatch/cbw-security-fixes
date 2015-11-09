@@ -3,7 +3,7 @@
 # Security fix for CESA-2008:0110
 #
 # Security announcement date: 2008-02-23 11:58:28 UTC
-# Script generation date:     2015-09-10 09:38:44 UTC
+# Script generation date:     2015-11-09 19:06:45 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - openldap-servers-sql:2.3.27-8.el5_1.3
 #
 # Last versions recommanded by security team:
-#   - compat-openldap:2.3.43_2.2.29-12.el5_6.7
-#   - openldap:2.3.43-12.el5_6.7
-#   - openldap-clients:2.3.43-12.el5_6.7
-#   - openldap-devel:2.3.43-12.el5_6.7
-#   - openldap-servers:2.3.43-12.el5_6.7
-#   - openldap-servers-sql:2.3.43-12.el5_6.7
+#   - compat-openldap:2.3.43_2.2.29-29.el5_11
+#   - openldap:2.3.43-29.el5_11
+#   - openldap-clients:2.3.43-29.el5_11
+#   - openldap-devel:2.3.43-29.el5_11
+#   - openldap-servers:2.3.43-29.el5_11
+#   - openldap-servers-sql:2.3.43-29.el5_11
 #
 # CVE List:
 #   - CVE-2007-6698

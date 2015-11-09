@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:1327
 #
 # Security announcement date: 2012-10-03 01:47:30 UTC
-# Script generation date:     2015-09-10 09:39:53 UTC
+# Script generation date:     2015-11-09 19:07:44 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -20,15 +20,15 @@
 #   - freeradius2-utils:2.1.12-4.el5_8
 #
 # Last versions recommanded by security team:
-#   - freeradius2:2.1.12-4.el5_8
-#   - freeradius2-krb5:2.1.12-4.el5_8
-#   - freeradius2-ldap:2.1.12-4.el5_8
-#   - freeradius2-mysql:2.1.12-4.el5_8
-#   - freeradius2-perl:2.1.12-4.el5_8
-#   - freeradius2-postgresql:2.1.12-4.el5_8
-#   - freeradius2-python:2.1.12-4.el5_8
-#   - freeradius2-unixODBC:2.1.12-4.el5_8
-#   - freeradius2-utils:2.1.12-4.el5_8
+#   - freeradius2:2.1.12-5.el5
+#   - freeradius2-krb5:2.1.12-5.el5
+#   - freeradius2-ldap:2.1.12-5.el5
+#   - freeradius2-mysql:2.1.12-5.el5
+#   - freeradius2-perl:2.1.12-5.el5
+#   - freeradius2-postgresql:2.1.12-5.el5
+#   - freeradius2-python:2.1.12-5.el5
+#   - freeradius2-unixODBC:2.1.12-5.el5
+#   - freeradius2-utils:2.1.12-5.el5
 #
 # CVE List:
 #   - CVE-2012-3547

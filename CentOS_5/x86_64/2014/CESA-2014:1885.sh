@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:1885
 #
 # Security announcement date: 2014-11-20 21:10:50 UTC
-# Script generation date:     2015-09-10 09:40:37 UTC
+# Script generation date:     2015-11-09 19:08:30 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - libxml2-python:2.6.26-2.1.25.el5_11
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.6.26-2.1.21.el5_9.1
-#   - libxml2-devel:2.6.26-2.1.21.el5_9.1
-#   - libxml2-python:2.6.26-2.1.21.el5_9.1
+#   - libxml2:2.6.26-2.1.25.el5_11
+#   - libxml2-devel:2.6.26-2.1.25.el5_11
+#   - libxml2-python:2.6.26-2.1.25.el5_11
 #
 # CVE List:
 #   - CVE-2014-3660

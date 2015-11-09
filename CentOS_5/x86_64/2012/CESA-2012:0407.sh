@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0407
 #
 # Security announcement date: 2012-03-20 23:39:58 UTC
-# Script generation date:     2015-09-10 09:39:37 UTC
+# Script generation date:     2015-11-09 19:07:31 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - libpng-devel:1.2.10-16.el5_8
 #
 # Last versions recommanded by security team:
-#   - libpng:1.2.10-7.1.el5_7.5
-#   - libpng-devel:1.2.10-7.1.el5_7.5
+#   - libpng:1.2.10-17.el5_8
+#   - libpng-devel:1.2.10-17.el5_8
 #
 # CVE List:
 #   - CVE-2011-3045

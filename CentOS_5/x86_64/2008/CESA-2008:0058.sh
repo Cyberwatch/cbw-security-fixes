@@ -3,7 +3,7 @@
 # Security fix for CESA-2008:0058
 #
 # Security announcement date: 2008-01-21 17:15:51 UTC
-# Script generation date:     2015-09-10 09:38:43 UTC
+# Script generation date:     2015-11-09 19:06:45 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,8 +17,8 @@
 # Last versions recommanded by security team:
 #   - libsmi:0.4.5-2.el5
 #   - libsmi-devel:0.4.5-2.el5
-#   - wireshark:1.0.15-1.el5_6.4
-#   - wireshark-gnome:1.0.15-1.el5_6.4
+#   - wireshark:1.0.15-7.el5_11
+#   - wireshark-gnome:1.0.15-7.el5_11
 #
 # CVE List:
 #   - CVE-2007-6111

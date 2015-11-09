@@ -3,7 +3,7 @@
 # Security fix for CESA-2007:0513
 #
 # Security announcement date: 2007-09-28 07:42:46 UTC
-# Script generation date:     2015-09-10 09:38:40 UTC
+# Script generation date:     2015-11-09 19:06:41 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - gimp-libs:2.2.13-2.0.7.el5
 #
 # Last versions recommanded by security team:
-#   - gimp:2.2.13-2.0.7.el5_8.5
-#   - gimp-devel:2.2.13-2.0.7.el5_8.5
-#   - gimp-libs:2.2.13-2.0.7.el5_8.5
+#   - gimp:2.2.13-3.el5_10
+#   - gimp-devel:2.2.13-3.el5_10
+#   - gimp-libs:2.2.13-3.el5_10
 #
 # CVE List:
 #

@@ -3,7 +3,7 @@
 # Security fix for CESA-2010:0625
 #
 # Security announcement date: 2010-08-27 15:14:02 UTC
-# Script generation date:     2015-09-10 09:39:16 UTC
+# Script generation date:     2015-11-09 19:07:11 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - wireshark-gnome:1.0.15-1.el5_5.1
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.0.15-1.el5_6.4
-#   - wireshark-gnome:1.0.15-1.el5_6.4
+#   - wireshark:1.0.15-7.el5_11
+#   - wireshark-gnome:1.0.15-7.el5_11
 #
 # CVE List:
 #   - CVE-2010-1455

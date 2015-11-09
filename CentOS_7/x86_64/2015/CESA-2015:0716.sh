@@ -2,8 +2,8 @@
 #
 # Security fix for CESA-2015:0716
 #
-# Security announcement date: 2015-03-23 21:19:50 UTC
-# Script generation date:     2015-09-10 09:41:17 UTC
+# Security announcement date: 2015-04-01 03:29:07 UTC
+# Script generation date:     2015-11-09 19:08:38 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64

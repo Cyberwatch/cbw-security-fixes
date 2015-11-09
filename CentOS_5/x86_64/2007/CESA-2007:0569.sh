@@ -3,7 +3,7 @@
 # Security fix for CESA-2007:0569
 #
 # Security announcement date: 2007-09-28 07:44:44 UTC
-# Script generation date:     2015-09-10 09:38:40 UTC
+# Script generation date:     2015-11-09 19:06:42 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -22,17 +22,17 @@
 #   - tomcat5-webapps:5.5.23-0jpp.3.0.2.el5
 #
 # Last versions recommanded by security team:
-#   - tomcat5:5.5.23-0jpp.7.el5_3.2
-#   - tomcat5-admin-webapps:5.5.23-0jpp.7.el5_3.2
-#   - tomcat5-common-lib:5.5.23-0jpp.7.el5_3.2
-#   - tomcat5-jasper:5.5.23-0jpp.7.el5_3.2
-#   - tomcat5-jasper-javadoc:5.5.23-0jpp.7.el5_3.2
-#   - tomcat5-jsp-2.0-api:5.5.23-0jpp.7.el5_3.2
-#   - tomcat5-jsp-2.0-api-javadoc:5.5.23-0jpp.7.el5_3.2
-#   - tomcat5-server-lib:5.5.23-0jpp.7.el5_3.2
-#   - tomcat5-servlet-2.4-api:5.5.23-0jpp.7.el5_3.2
-#   - tomcat5-servlet-2.4-api-javadoc:5.5.23-0jpp.7.el5_3.2
-#   - tomcat5-webapps:5.5.23-0jpp.7.el5_3.2
+#   - tomcat5:5.5.23-0jpp.40.el5_9
+#   - tomcat5-admin-webapps:5.5.23-0jpp.40.el5_9
+#   - tomcat5-common-lib:5.5.23-0jpp.40.el5_9
+#   - tomcat5-jasper:5.5.23-0jpp.40.el5_9
+#   - tomcat5-jasper-javadoc:5.5.23-0jpp.40.el5_9
+#   - tomcat5-jsp-2.0-api:5.5.23-0jpp.40.el5_9
+#   - tomcat5-jsp-2.0-api-javadoc:5.5.23-0jpp.40.el5_9
+#   - tomcat5-server-lib:5.5.23-0jpp.40.el5_9
+#   - tomcat5-servlet-2.4-api:5.5.23-0jpp.40.el5_9
+#   - tomcat5-servlet-2.4-api-javadoc:5.5.23-0jpp.40.el5_9
+#   - tomcat5-webapps:5.5.23-0jpp.40.el5_9
 #
 # CVE List:
 #

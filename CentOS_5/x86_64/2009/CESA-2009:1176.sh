@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:1176
 #
 # Security announcement date: 2009-07-29 17:31:50 UTC
-# Script generation date:     2015-09-10 09:39:01 UTC
+# Script generation date:     2015-11-09 19:06:59 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - tkinter:2.4.3-24.el5_3.6
 #
 # Last versions recommanded by security team:
-#   - python:2.4.3-24.el5_3.6
-#   - python-devel:2.4.3-24.el5_3.6
-#   - python-tools:2.4.3-24.el5_3.6
-#   - tkinter:2.4.3-24.el5_3.6
+#   - python:2.4.3-46.el5_8.2
+#   - python-devel:2.4.3-46.el5_8.2
+#   - python-tools:2.4.3-46.el5_8.2
+#   - tkinter:2.4.3-46.el5_8.2
 #
 # CVE List:
 #   - CVE-2008-5031

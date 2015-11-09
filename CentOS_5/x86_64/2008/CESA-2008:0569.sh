@@ -3,7 +3,7 @@
 # Security fix for CESA-2008:0569
 #
 # Security announcement date: 2008-07-06 14:53:47 UTC
-# Script generation date:     2015-11-05 07:11:32 UTC
+# Script generation date:     2015-11-09 19:06:49 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -21,10 +21,10 @@
 #   - devhelp:0.12-23.el5_9
 #   - devhelp-devel:0.12-23.el5_9
 #   - firefox:38.4.0-1.el5.centos
-#   - xulrunner:1.9.2.11-4.el5
-#   - xulrunner-devel:1.9.2.11-4.el5
-#   - xulrunner-devel-unstable:1.9.0.6-1.el5
-#   - yelp:2.16.0-19.el5
+#   - xulrunner:17.0.10-1.el5_10
+#   - xulrunner-devel:17.0.10-1.el5_10
+#   - xulrunner-devel-unstable:1.9.0.18-1.el5_4
+#   - yelp:2.16.0-30.el5_9
 #
 # CVE List:
 #   - CVE-2008-2798
@@ -47,7 +47,7 @@
 sudo yum install devhelp-0.12 -y 
 sudo yum install devhelp-devel-0.12 -y 
 sudo yum install firefox-38.4.0 -y 
-sudo yum install xulrunner-1.9.2.11 -y 
-sudo yum install xulrunner-devel-1.9.2.11 -y 
-sudo yum install xulrunner-devel-unstable-1.9.0.6 -y 
+sudo yum install xulrunner-17.0.10 -y 
+sudo yum install xulrunner-devel-17.0.10 -y 
+sudo yum install xulrunner-devel-unstable-1.9.0.18 -y 
 sudo yum install yelp-2.16.0 -y 

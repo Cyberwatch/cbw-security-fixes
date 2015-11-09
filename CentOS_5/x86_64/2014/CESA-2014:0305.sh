@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0305
 #
 # Security announcement date: 2014-03-17 19:05:31 UTC
-# Script generation date:     2015-09-10 09:40:21 UTC
+# Script generation date:     2015-11-09 19:08:15 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - samba-swat:3.0.33-3.40.el5_10
 #
 # Last versions recommanded by security team:
-#   - libsmbclient:3.0.33-3.29.el5_7.4
-#   - libsmbclient-devel:3.0.33-3.29.el5_7.4
-#   - samba:3.0.33-3.29.el5_7.4
-#   - samba-client:3.0.33-3.29.el5_7.4
-#   - samba-common:3.0.33-3.29.el5_7.4
-#   - samba-swat:3.0.33-3.29.el5_7.4
+#   - libsmbclient:3.0.33-3.40.el5_10
+#   - libsmbclient-devel:3.0.33-3.40.el5_10
+#   - samba:3.0.33-3.40.el5_10
+#   - samba-client:3.0.33-3.40.el5_10
+#   - samba-common:3.0.33-3.40.el5_10
+#   - samba-swat:3.0.33-3.40.el5_10
 #
 # CVE List:
 #   - CVE-2013-4124

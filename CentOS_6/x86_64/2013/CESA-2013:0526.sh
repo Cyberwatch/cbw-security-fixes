@@ -2,8 +2,8 @@
 #
 # Security fix for CESA-2013:0526
 #
-# Security announcement date: 2013-02-27 19:33:58 UTC
-# Script generation date:     2015-09-10 09:40:58 UTC
+# Security announcement date: 2013-03-09 00:39:41 UTC
+# Script generation date:     2015-11-09 19:07:52 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64

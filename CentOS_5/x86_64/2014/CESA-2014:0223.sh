@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0223
 #
 # Security announcement date: 2014-02-28 00:37:27 UTC
-# Script generation date:     2015-09-10 09:40:20 UTC
+# Script generation date:     2015-11-09 19:08:15 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - libtiff-devel:3.8.2-19.el5_10
 #
 # Last versions recommanded by security team:
-#   - libtiff:3.8.2-7.el5_6.7
-#   - libtiff-devel:3.8.2-7.el5_6.7
+#   - libtiff:3.8.2-19.el5_10
+#   - libtiff-devel:3.8.2-19.el5_10
 #
 # CVE List:
 #   - CVE-2013-4232

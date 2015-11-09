@@ -3,7 +3,7 @@
 # Security fix for CESA-2007:0883
 #
 # Security announcement date: 2007-09-14 00:40:18 UTC
-# Script generation date:     2015-09-10 09:38:39 UTC
+# Script generation date:     2015-11-09 19:06:40 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - kernel-doc:2.6.18-8.1.10.el5
 #
 # Last versions recommanded by security team:
-#   - kernel-doc:2.6.18-194.11.3.el5
+#   - kernel-doc:2.6.18-406.el5
 #
 # CVE List:
 #

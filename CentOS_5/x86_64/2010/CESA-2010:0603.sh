@@ -3,7 +3,7 @@
 # Security fix for CESA-2010:0603
 #
 # Security announcement date: 2010-08-06 11:35:05 UTC
-# Script generation date:     2015-09-10 09:39:15 UTC
+# Script generation date:     2015-11-09 19:07:09 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - gnupg2:2.0.10-3.el5_5.1
 #
 # Last versions recommanded by security team:
-#   - gnupg2:2.0.10-3.el5_5.1
+#   - gnupg2:2.0.10-6.el5_10
 #
 # CVE List:
 #   - CVE-2010-2547

@@ -3,7 +3,7 @@
 # Security fix for CESA-2010:0675
 #
 # Security announcement date: 2010-09-12 16:45:07 UTC
-# Script generation date:     2015-09-10 09:39:17 UTC
+# Script generation date:     2015-11-09 19:07:11 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - sudo:1.7.2p1-8.el5_5
 #
 # Last versions recommanded by security team:
-#   - sudo:1.7.2p1-14.el5_8.2
+#   - sudo:1.7.2p1-29.el5_10
 #
 # CVE List:
 #   - CVE-2010-2956

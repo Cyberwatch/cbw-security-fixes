@@ -3,7 +3,7 @@
 # Security fix for CESA-2010:0166
 #
 # Security announcement date: 2010-03-26 21:48:08 UTC
-# Script generation date:     2015-09-10 09:39:11 UTC
+# Script generation date:     2015-11-09 19:07:06 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - gnutls-utils:1.4.1-3.el5_4.8
 #
 # Last versions recommanded by security team:
-#   - gnutls:1.4.1-10.el5_9.2
-#   - gnutls-devel:1.4.1-10.el5_9.2
-#   - gnutls-utils:1.4.1-10.el5_9.2
+#   - gnutls:1.4.1-16.el5_10
+#   - gnutls-devel:1.4.1-16.el5_10
+#   - gnutls-utils:1.4.1-16.el5_10
 #
 # CVE List:
 #   - CVE-2009-3555

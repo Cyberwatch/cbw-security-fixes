@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:1140
 #
 # Security announcement date: 2009-07-02 23:49:01 UTC
-# Script generation date:     2015-09-10 09:39:00 UTC
+# Script generation date:     2015-11-09 19:06:58 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -20,15 +20,15 @@
 #   - ruby-tcltk:1.8.5-5.el5_3.7
 #
 # Last versions recommanded by security team:
-#   - ruby:1.8.5-22.el5_7.1
-#   - ruby-devel:1.8.5-22.el5_7.1
-#   - ruby-docs:1.8.5-22.el5_7.1
-#   - ruby-irb:1.8.5-22.el5_7.1
-#   - ruby-libs:1.8.5-22.el5_7.1
-#   - ruby-mode:1.8.5-22.el5_7.1
-#   - ruby-rdoc:1.8.5-22.el5_7.1
-#   - ruby-ri:1.8.5-22.el5_7.1
-#   - ruby-tcltk:1.8.5-22.el5_7.1
+#   - ruby:1.8.5-31.el5_9
+#   - ruby-devel:1.8.5-31.el5_9
+#   - ruby-docs:1.8.5-31.el5_9
+#   - ruby-irb:1.8.5-31.el5_9
+#   - ruby-libs:1.8.5-31.el5_9
+#   - ruby-mode:1.8.5-31.el5_9
+#   - ruby-rdoc:1.8.5-31.el5_9
+#   - ruby-ri:1.8.5-31.el5_9
+#   - ruby-tcltk:1.8.5-31.el5_9
 #
 # CVE List:
 #   - CVE-2009-0642

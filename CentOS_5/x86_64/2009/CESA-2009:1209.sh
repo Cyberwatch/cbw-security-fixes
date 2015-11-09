@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:1209
 #
 # Security announcement date: 2009-08-18 19:17:54 UTC
-# Script generation date:     2015-09-10 09:39:02 UTC
+# Script generation date:     2015-11-09 19:06:59 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - curl-devel:7.15.5-2.1.el5_3.5
 #
 # Last versions recommanded by security team:
-#   - curl:7.15.5-9.el5_6.3
-#   - curl-devel:7.15.5-9.el5_6.3
+#   - curl:7.15.5-17.el5_9
+#   - curl-devel:7.15.5-17.el5_9
 #
 # CVE List:
 #   - CVE-2009-2417

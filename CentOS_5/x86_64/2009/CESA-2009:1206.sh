@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:1206
 #
 # Security announcement date: 2009-08-11 21:21:58 UTC
-# Script generation date:     2015-09-10 09:39:02 UTC
+# Script generation date:     2015-11-09 19:06:59 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - libxml2-python:2.6.26-2.1.2.8
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.6.26-2.1.21.el5_9.1
-#   - libxml2-devel:2.6.26-2.1.21.el5_9.1
-#   - libxml2-python:2.6.26-2.1.21.el5_9.1
+#   - libxml2:2.6.26-2.1.25.el5_11
+#   - libxml2-devel:2.6.26-2.1.25.el5_11
+#   - libxml2-python:2.6.26-2.1.25.el5_11
 #
 # CVE List:
 #   - CVE-2009-2414

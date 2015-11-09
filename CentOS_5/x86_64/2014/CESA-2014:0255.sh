@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0255
 #
 # Security announcement date: 2014-03-06 11:19:14 UTC
-# Script generation date:     2015-09-10 09:40:21 UTC
+# Script generation date:     2015-11-09 19:08:15 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - subversion-ruby:1.6.11-12.el5_10
 #
 # Last versions recommanded by security team:
-#   - mod_dav_svn:1.6.11-7.el5_6.4
-#   - subversion:1.6.11-7.el5_6.4
-#   - subversion-devel:1.6.11-7.el5_6.4
-#   - subversion-javahl:1.6.11-7.el5_6.4
-#   - subversion-perl:1.6.11-7.el5_6.4
-#   - subversion-ruby:1.6.11-7.el5_6.4
+#   - mod_dav_svn:1.6.11-12.el5_10
+#   - subversion:1.6.11-12.el5_10
+#   - subversion-devel:1.6.11-12.el5_10
+#   - subversion-javahl:1.6.11-12.el5_10
+#   - subversion-perl:1.6.11-12.el5_10
+#   - subversion-ruby:1.6.11-12.el5_10
 #
 # CVE List:
 #   - CVE-2013-1968

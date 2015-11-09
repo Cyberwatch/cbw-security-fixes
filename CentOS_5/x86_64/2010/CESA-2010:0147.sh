@@ -3,7 +3,7 @@
 # Security fix for CESA-2010:0147
 #
 # Security announcement date: 2010-03-18 10:55:12 UTC
-# Script generation date:     2015-09-10 09:39:11 UTC
+# Script generation date:     2015-11-09 19:07:06 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - kernel-doc:2.6.18-164.15.1.el5
 #
 # Last versions recommanded by security team:
-#   - kernel-doc:2.6.18-194.11.3.el5
+#   - kernel-doc:2.6.18-406.el5
 #
 # CVE List:
 #   - CVE-2010-0003

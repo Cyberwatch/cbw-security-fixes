@@ -3,7 +3,7 @@
 # Security fix for CESA-2007:1114
 #
 # Security announcement date: 2007-12-11 01:33:35 UTC
-# Script generation date:     2015-09-10 09:38:42 UTC
+# Script generation date:     2015-11-09 19:06:43 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - samba-swat:3.0.25b-1.el5_1.4
 #
 # Last versions recommanded by security team:
-#   - samba:3.0.33-3.29.el5_7.4
-#   - samba-client:3.0.33-3.29.el5_7.4
-#   - samba-common:3.0.33-3.29.el5_7.4
-#   - samba-swat:3.0.33-3.29.el5_7.4
+#   - samba:3.0.33-3.40.el5_10
+#   - samba-client:3.0.33-3.40.el5_10
+#   - samba-common:3.0.33-3.40.el5_10
+#   - samba-swat:3.0.33-3.40.el5_10
 #
 # CVE List:
 #

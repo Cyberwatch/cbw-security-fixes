@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0125
 #
 # Security announcement date: 2013-01-11 13:19:17 UTC
-# Script generation date:     2015-09-10 09:40:58 UTC
+# Script generation date:     2015-11-09 19:07:47 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - wireshark-gnome:1.0.15-5.el5
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.0.15-1.el5_6.4
-#   - wireshark-gnome:1.0.15-1.el5_6.4
+#   - wireshark:1.0.15-7.el5_11
+#   - wireshark-gnome:1.0.15-7.el5_11
 #
 # CVE List:
 #   - CVE-2011-1958

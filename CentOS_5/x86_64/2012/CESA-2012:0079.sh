@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0079
 #
 # Security announcement date: 2012-02-01 03:47:51 UTC
-# Script generation date:     2015-11-05 07:13:25 UTC
+# Script generation date:     2015-11-09 19:07:28 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -15,8 +15,8 @@
 #
 # Last versions recommanded by security team:
 #   - firefox:38.4.0-1.el5.centos
-#   - xulrunner:1.9.2.11-4.el5
-#   - xulrunner-devel:1.9.2.11-4.el5
+#   - xulrunner:17.0.10-1.el5_10
+#   - xulrunner-devel:17.0.10-1.el5_10
 #
 # CVE List:
 #   - CVE-2011-3659
@@ -30,5 +30,5 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install firefox-38.4.0 -y 
-sudo yum install xulrunner-1.9.2.11 -y 
-sudo yum install xulrunner-devel-1.9.2.11 -y 
+sudo yum install xulrunner-17.0.10 -y 
+sudo yum install xulrunner-devel-17.0.10 -y 
