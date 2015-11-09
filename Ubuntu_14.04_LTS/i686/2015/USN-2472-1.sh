@@ -4,7 +4,7 @@
 # Security fix for USN-2472-1
 #
 # Security announcement date: 2015-01-14 00:00:00 UTC
-# Script generation date:     2015-11-05 19:02:09 UTC
+# Script generation date:     2015-11-09 19:01:59 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - unzip:6.0-9ubuntu1.1
 #
 # Last versions recommanded by security team:
-#   - unzip:6.0-9ubuntu1.4
+#   - unzip:6.0-9ubuntu1.5
 #
 # CVE List:
 #   - CVE-2014-8139
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2472-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade unzip=6.0-9ubuntu1.4 -y
+sudo apt-get install --only-upgrade unzip=6.0-9ubuntu1.5 -y

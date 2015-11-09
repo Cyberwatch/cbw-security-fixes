@@ -4,7 +4,7 @@
 # Security fix for USN-2788-1
 #
 # Security announcement date: 2015-10-29 00:00:00 UTC
-# Script generation date:     2015-10-30 07:02:31 UTC
+# Script generation date:     2015-11-09 19:02:33 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - unzip:6.0-4ubuntu2.4
 #
 # Last versions recommanded by security team:
-#   - unzip:6.0-4ubuntu2.4
+#   - unzip:6.0-4ubuntu2.5
 #
 # CVE List:
 #   - CVE-2015-7696
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2788-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade unzip=6.0-4ubuntu2.4 -y
+sudo apt-get install --only-upgrade unzip=6.0-4ubuntu2.5 -y
