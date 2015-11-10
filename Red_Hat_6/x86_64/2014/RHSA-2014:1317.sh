@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1317
 #
 # Security announcement date: 2014-10-02 19:27:13 UTC
-# Script generation date:     2015-09-10 09:46:26 UTC
+# Script generation date:     2015-11-10 19:10:49 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -314,7 +314,7 @@
 #   - sssd-tools:1.11.6-3.el6
 #
 # Last versions recommanded by security team:
-#   - python-sssdconfig:1.11.6-3.el6
+#   - python-sssdconfig:1.12.4-47.el6_7.4
 #   - ruby193-rubygem-Platform:0.4.0-4.el6cf
 #   - ruby193-rubygem-actionmailer:3.2.17-1.el6sam
 #   - ruby193-rubygem-actionpack:3.2.17-6.el6sam
@@ -543,14 +543,14 @@
 #   - libdnet-debuginfo:1.12-11.el6cf
 #   - libdnet-devel:1.12-11.el6cf
 #   - libdnet-progs:1.12-11.el6cf
-#   - libipa_hbac:1.11.6-3.el6
-#   - libipa_hbac-devel:1.11.6-3.el6
-#   - libipa_hbac-python:1.11.6-3.el6
-#   - libsss_idmap:1.11.6-3.el6
-#   - libsss_idmap-devel:1.11.6-3.el6
-#   - libsss_nss_idmap:1.11.6-3.el6
-#   - libsss_nss_idmap-devel:1.11.6-3.el6
-#   - libsss_nss_idmap-python:1.11.6-3.el6
+#   - libipa_hbac:1.12.4-47.el6_7.4
+#   - libipa_hbac-devel:1.12.4-47.el6_7.4
+#   - libipa_hbac-python:1.12.4-47.el6_7.4
+#   - libsss_idmap:1.12.4-47.el6_7.4
+#   - libsss_idmap-devel:1.12.4-47.el6_7.4
+#   - libsss_nss_idmap:1.12.4-47.el6_7.4
+#   - libsss_nss_idmap-devel:1.12.4-47.el6_7.4
+#   - libsss_nss_idmap-python:1.12.4-47.el6_7.4
 #   - lshw:B.02.16-4.el6cf
 #   - lshw-debuginfo:B.02.16-4.el6cf
 #   - lshw-gui:B.02.16-4.el6cf
@@ -604,19 +604,19 @@
 #   - ruby193-rubygem-selenium-webdriver-debuginfo:2.32.1-2.el6cf
 #   - ruby193-rubygem-thin:1.3.1-5.el6cf
 #   - ruby193-rubygem-thin-debuginfo:1.3.1-5.el6cf
-#   - sssd:1.11.6-3.el6
-#   - sssd-ad:1.11.6-3.el6
-#   - sssd-client:1.11.6-3.el6
-#   - sssd-common:1.11.6-3.el6
-#   - sssd-common-pac:1.11.6-3.el6
-#   - sssd-dbus:1.11.6-3.el6
-#   - sssd-debuginfo:1.11.6-3.el6
-#   - sssd-ipa:1.11.6-3.el6
-#   - sssd-krb5:1.11.6-3.el6
-#   - sssd-krb5-common:1.11.6-3.el6
-#   - sssd-ldap:1.11.6-3.el6
-#   - sssd-proxy:1.11.6-3.el6
-#   - sssd-tools:1.11.6-3.el6
+#   - sssd:1.12.4-47.el6_7.4
+#   - sssd-ad:1.12.4-47.el6_7.4
+#   - sssd-client:1.12.4-47.el6_7.4
+#   - sssd-common:1.12.4-47.el6_7.4
+#   - sssd-common-pac:1.12.4-47.el6_7.4
+#   - sssd-dbus:1.12.4-47.el6_7.4
+#   - sssd-debuginfo:1.12.4-47.el6_7.4
+#   - sssd-ipa:1.12.4-47.el6_7.4
+#   - sssd-krb5:1.12.4-47.el6_7.4
+#   - sssd-krb5-common:1.12.4-47.el6_7.4
+#   - sssd-ldap:1.12.4-47.el6_7.4
+#   - sssd-proxy:1.12.4-47.el6_7.4
+#   - sssd-tools:1.12.4-47.el6_7.4
 #
 # CVE List:
 #   - CVE-2014-0140
@@ -626,7 +626,7 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:1317
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install python-sssdconfig-1.11.6 -y 
+sudo yum install python-sssdconfig-1.12.4 -y 
 sudo yum install ruby193-rubygem-Platform-0.4.0 -y 
 sudo yum install ruby193-rubygem-actionmailer-3.2.17 -y 
 sudo yum install ruby193-rubygem-actionpack-3.2.17 -y 
@@ -855,14 +855,14 @@ sudo yum install libdnet-1.12 -y
 sudo yum install libdnet-debuginfo-1.12 -y 
 sudo yum install libdnet-devel-1.12 -y 
 sudo yum install libdnet-progs-1.12 -y 
-sudo yum install libipa_hbac-1.11.6 -y 
-sudo yum install libipa_hbac-devel-1.11.6 -y 
-sudo yum install libipa_hbac-python-1.11.6 -y 
-sudo yum install libsss_idmap-1.11.6 -y 
-sudo yum install libsss_idmap-devel-1.11.6 -y 
-sudo yum install libsss_nss_idmap-1.11.6 -y 
-sudo yum install libsss_nss_idmap-devel-1.11.6 -y 
-sudo yum install libsss_nss_idmap-python-1.11.6 -y 
+sudo yum install libipa_hbac-1.12.4 -y 
+sudo yum install libipa_hbac-devel-1.12.4 -y 
+sudo yum install libipa_hbac-python-1.12.4 -y 
+sudo yum install libsss_idmap-1.12.4 -y 
+sudo yum install libsss_idmap-devel-1.12.4 -y 
+sudo yum install libsss_nss_idmap-1.12.4 -y 
+sudo yum install libsss_nss_idmap-devel-1.12.4 -y 
+sudo yum install libsss_nss_idmap-python-1.12.4 -y 
 sudo yum install lshw-B.02.16 -y 
 sudo yum install lshw-debuginfo-B.02.16 -y 
 sudo yum install lshw-gui-B.02.16 -y 
@@ -916,16 +916,16 @@ sudo yum install ruby193-rubygem-selenium-webdriver-2.32.1 -y
 sudo yum install ruby193-rubygem-selenium-webdriver-debuginfo-2.32.1 -y 
 sudo yum install ruby193-rubygem-thin-1.3.1 -y 
 sudo yum install ruby193-rubygem-thin-debuginfo-1.3.1 -y 
-sudo yum install sssd-1.11.6 -y 
-sudo yum install sssd-ad-1.11.6 -y 
-sudo yum install sssd-client-1.11.6 -y 
-sudo yum install sssd-common-1.11.6 -y 
-sudo yum install sssd-common-pac-1.11.6 -y 
-sudo yum install sssd-dbus-1.11.6 -y 
-sudo yum install sssd-debuginfo-1.11.6 -y 
-sudo yum install sssd-ipa-1.11.6 -y 
-sudo yum install sssd-krb5-1.11.6 -y 
-sudo yum install sssd-krb5-common-1.11.6 -y 
-sudo yum install sssd-ldap-1.11.6 -y 
-sudo yum install sssd-proxy-1.11.6 -y 
-sudo yum install sssd-tools-1.11.6 -y 
+sudo yum install sssd-1.12.4 -y 
+sudo yum install sssd-ad-1.12.4 -y 
+sudo yum install sssd-client-1.12.4 -y 
+sudo yum install sssd-common-1.12.4 -y 
+sudo yum install sssd-common-pac-1.12.4 -y 
+sudo yum install sssd-dbus-1.12.4 -y 
+sudo yum install sssd-debuginfo-1.12.4 -y 
+sudo yum install sssd-ipa-1.12.4 -y 
+sudo yum install sssd-krb5-1.12.4 -y 
+sudo yum install sssd-krb5-common-1.12.4 -y 
+sudo yum install sssd-ldap-1.12.4 -y 
+sudo yum install sssd-proxy-1.12.4 -y 
+sudo yum install sssd-tools-1.12.4 -y 
