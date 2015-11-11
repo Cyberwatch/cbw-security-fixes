@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:1764
 #
 # Security announcement date: 2013-12-05 13:31:54 UTC
-# Script generation date:     2015-11-05 07:13:36 UTC
+# Script generation date:     2015-11-11 07:08:46 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -1520,17 +1520,17 @@
 #   - spice-server-devel:0.12.4-12.el6_7.3
 #   - spice-vdagent:0.14.0-2.el6
 #   - spice-xpi:2.7-24.el6
-#   - libipa_hbac:1.9.2-129.el6
-#   - libipa_hbac-devel:1.9.2-129.el6
-#   - libipa_hbac-python:1.9.2-129.el6
+#   - libipa_hbac:1.12.4-47.el6_7.4
+#   - libipa_hbac-devel:1.12.4-47.el6_7.4
+#   - libipa_hbac-python:1.12.4-47.el6_7.4
 #   - libsss_autofs:1.9.2-129.el6
-#   - libsss_idmap:1.9.2-129.el6
-#   - libsss_idmap-devel:1.9.2-129.el6
+#   - libsss_idmap:1.12.4-47.el6_7.4
+#   - libsss_idmap-devel:1.12.4-47.el6_7.4
 #   - libsss_sudo:1.9.2-129.el6
 #   - libsss_sudo-devel:1.9.2-129.el6
-#   - sssd:1.9.2-129.el6
-#   - sssd-client:1.9.2-129.el6
-#   - sssd-tools:1.9.2-129.el6
+#   - sssd:1.12.4-47.el6_7.4
+#   - sssd-client:1.12.4-47.el6_7.4
+#   - sssd-tools:1.12.4-47.el6_7.4
 #   - sudo:1.8.6p3-19.el6
 #   - sudo-devel:1.8.6p3-19.el6
 #   - sysstat:9.0.4-22.el6
@@ -2341,17 +2341,17 @@ sudo yum install spice-server-0.12.4 -y
 sudo yum install spice-server-devel-0.12.4 -y 
 sudo yum install spice-vdagent-0.14.0 -y 
 sudo yum install spice-xpi-2.7 -y 
-sudo yum install libipa_hbac-1.9.2 -y 
-sudo yum install libipa_hbac-devel-1.9.2 -y 
-sudo yum install libipa_hbac-python-1.9.2 -y 
+sudo yum install libipa_hbac-1.12.4 -y 
+sudo yum install libipa_hbac-devel-1.12.4 -y 
+sudo yum install libipa_hbac-python-1.12.4 -y 
 sudo yum install libsss_autofs-1.9.2 -y 
-sudo yum install libsss_idmap-1.9.2 -y 
-sudo yum install libsss_idmap-devel-1.9.2 -y 
+sudo yum install libsss_idmap-1.12.4 -y 
+sudo yum install libsss_idmap-devel-1.12.4 -y 
 sudo yum install libsss_sudo-1.9.2 -y 
 sudo yum install libsss_sudo-devel-1.9.2 -y 
-sudo yum install sssd-1.9.2 -y 
-sudo yum install sssd-client-1.9.2 -y 
-sudo yum install sssd-tools-1.9.2 -y 
+sudo yum install sssd-1.12.4 -y 
+sudo yum install sssd-client-1.12.4 -y 
+sudo yum install sssd-tools-1.12.4 -y 
 sudo yum install sudo-1.8.6p3 -y 
 sudo yum install sudo-devel-1.8.6p3 -y 
 sudo yum install sysstat-9.0.4 -y 
