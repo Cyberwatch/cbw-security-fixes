@@ -4,7 +4,7 @@
 # Security fix for USN-2577-1
 #
 # Security announcement date: 2015-04-23 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:08 UTC
+# Script generation date:     2015-11-11 07:02:17 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - wpasupplicant:2.1-0ubuntu1.2
 #
 # Last versions recommanded by security team:
-#   - wpasupplicant:2.1-0ubuntu1.3
+#   - wpasupplicant:2.1-0ubuntu1.4
 #
 # CVE List:
 #   - CVE-2015-1863
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2577-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wpasupplicant=2.1-0ubuntu1.3 -y
+sudo apt-get install --only-upgrade wpasupplicant=2.1-0ubuntu1.4 -y
