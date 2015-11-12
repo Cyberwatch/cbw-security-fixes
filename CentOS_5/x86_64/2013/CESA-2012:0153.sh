@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0153
 #
 # Security announcement date: 2013-01-11 13:19:04 UTC
-# Script generation date:     2015-09-10 09:40:57 UTC
+# Script generation date:     2015-11-12 19:19:00 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - sos:1.7-9.62.el5
 #
 # Last versions recommanded by security team:
-#   - sos:1.7-9.66.el5.centos
+#   - sos:1.7-9.62.el5_9.1
 #
 # CVE List:
 #   - CVE-2011-4083

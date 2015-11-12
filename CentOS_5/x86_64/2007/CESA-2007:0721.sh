@@ -3,7 +3,7 @@
 # Security fix for CESA-2007:0721
 #
 # Security announcement date: 2007-08-01 09:31:47 UTC
-# Script generation date:     2015-09-10 09:38:38 UTC
+# Script generation date:     2015-11-12 19:17:43 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -19,14 +19,14 @@
 #   - qt-PostgreSQL:3.3.6-21.el5
 #
 # Last versions recommanded by security team:
-#   - qt:3.3.6-21.el5
+#   - qt:3.3.6-23.el5
 #   - qt-config:3.3.6-23.el5
 #   - qt-designer:3.3.6-23.el5
-#   - qt-devel:3.3.6-21.el5
+#   - qt-devel:3.3.6-23.el5
 #   - qt-devel-docs:3.3.6-23.el5
-#   - qt-MySQL:3.3.6-21.el5
-#   - qt-ODBC:3.3.6-21.el5
-#   - qt-PostgreSQL:3.3.6-21.el5
+#   - qt-MySQL:3.3.6-23.el5
+#   - qt-ODBC:3.3.6-23.el5
+#   - qt-PostgreSQL:3.3.6-23.el5
 #
 # CVE List:
 #

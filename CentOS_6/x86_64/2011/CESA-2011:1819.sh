@@ -3,7 +3,7 @@
 # Security fix for CESA-2011:1819
 #
 # Security announcement date: 2011-12-22 15:44:59 UTC
-# Script generation date:     2015-09-10 09:39:29 UTC
+# Script generation date:     2015-11-12 19:18:36 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - dhcp-devel:4.1.1-25.P1.el6_2.1
 #
 # Last versions recommanded by security team:
-#   - dhclient:4.1.1-38.P1.el6.centos
-#   - dhcp:4.1.1-38.P1.el6.centos
-#   - dhcp-common:4.1.1-38.P1.el6.centos
-#   - dhcp-devel:4.1.1-38.P1.el6.centos
+#   - dhclient:4.1.1-34.P1.el6.centos
+#   - dhcp:4.1.1-34.P1.el6.centos
+#   - dhcp-common:4.1.1-34.P1.el6.centos
+#   - dhcp-devel:4.1.1-34.P1.el6.centos
 #
 # CVE List:
 #   - CVE-2011-4539

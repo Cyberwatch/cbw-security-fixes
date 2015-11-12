@@ -2,17 +2,17 @@
 #
 # Security fix for CESA-2008:0967
 #
-# Security announcement date: 2008-11-11 20:43:01 UTC
-# Script generation date:     2015-09-10 09:38:52 UTC
+# Security announcement date: 2008-11-12 23:07:57 UTC
+# Script generation date:     2015-11-12 19:17:59 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - httpd:2.2.3-11.el5.centos.4
-#   - httpd-devel:2.2.3-11.el5.centos.4
-#   - httpd-manual:2.2.3-11.el5.centos.4
-#   - mod_ssl:2.2.3-11.el5.centos.4
+#   - httpd:2.2.3-11.el5_2.centos.4
+#   - httpd-devel:2.2.3-11.el5_2.centos.4
+#   - httpd-manual:2.2.3-11.el5_2.centos.4
+#   - mod_ssl:2.2.3-11.el5_2.centos.4
 #
 # Last versions recommanded by security team:
 #   - httpd:2.2.3-87.el5.centos

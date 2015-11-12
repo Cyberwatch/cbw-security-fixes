@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0504
 #
 # Security announcement date: 2013-03-09 00:40:01 UTC
-# Script generation date:     2015-11-09 19:07:52 UTC
+# Script generation date:     2015-11-12 19:19:04 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - dhcp-devel:4.1.1-34.P1.el6.centos
 #
 # Last versions recommanded by security team:
-#   - dhclient:4.1.1-38.P1.el6.centos
-#   - dhcp:4.1.1-38.P1.el6.centos
-#   - dhcp-common:4.1.1-38.P1.el6.centos
-#   - dhcp-devel:4.1.1-38.P1.el6.centos
+#   - dhclient:4.1.1-34.P1.el6.centos
+#   - dhcp:4.1.1-34.P1.el6.centos
+#   - dhcp-common:4.1.1-34.P1.el6.centos
+#   - dhcp-devel:4.1.1-34.P1.el6.centos
 #
 # CVE List:
 #

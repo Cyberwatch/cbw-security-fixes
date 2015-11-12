@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0321
 #
 # Security announcement date: 2012-02-22 14:28:34 UTC
-# Script generation date:     2015-09-10 09:39:36 UTC
+# Script generation date:     2015-11-12 19:18:41 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - cvs:1.11.23-11.el6_2.1
 #
 # Last versions recommanded by security team:
-#   - cvs:1.11.23-16.el6
+#   - cvs:1.11.23-11.el6_2.1
 #
 # CVE List:
 #   - CVE-2012-0804

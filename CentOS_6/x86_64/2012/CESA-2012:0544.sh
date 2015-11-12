@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0544
 #
 # Security announcement date: 2012-05-07 22:49:25 UTC
-# Script generation date:     2015-09-10 09:39:41 UTC
+# Script generation date:     2015-11-12 19:18:44 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -18,8 +18,8 @@
 #
 # Last versions recommanded by security team:
 #   - ImageMagick:6.5.4.7-6.el6_2
-#   - :4.4.7-4.el6
-#   - -devel:4.4.7-4.el6
+#   - :6.5.4.7-6.el6_2
+#   - -devel:6.5.4.7-6.el6_2
 #   - ImageMagick-devel:6.5.4.7-6.el6_2
 #   - ImageMagick-doc:6.5.4.7-6.el6_2
 #   - ImageMagick-perl:6.5.4.7-6.el6_2
@@ -37,8 +37,8 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ImageMagick-6.5.4.7 -y 
-sudo yum install -4.4.7 -y 
-sudo yum install -devel-4.4.7 -y 
+sudo yum install -6.5.4.7 -y 
+sudo yum install -devel-6.5.4.7 -y 
 sudo yum install ImageMagick-devel-6.5.4.7 -y 
 sudo yum install ImageMagick-doc-6.5.4.7 -y 
 sudo yum install ImageMagick-perl-6.5.4.7 -y 

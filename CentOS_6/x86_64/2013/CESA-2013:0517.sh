@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0517
 #
 # Security announcement date: 2013-03-09 00:43:24 UTC
-# Script generation date:     2015-11-09 19:07:53 UTC
+# Script generation date:     2015-11-12 19:19:06 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - uuidd:2.17.2-12.9.el6
 #
 # Last versions recommanded by security team:
-#   - libblkid:2.17.2-12.14.el6
-#   - libblkid-devel:2.17.2-12.14.el6
-#   - libuuid:2.17.2-12.14.el6
-#   - libuuid-devel:2.17.2-12.14.el6
-#   - util-linux-ng:2.17.2-12.14.el6
-#   - uuidd:2.17.2-12.14.el6
+#   - libblkid:2.17.2-12.9.el6
+#   - libblkid-devel:2.17.2-12.9.el6
+#   - libuuid:2.17.2-12.9.el6
+#   - libuuid-devel:2.17.2-12.9.el6
+#   - util-linux-ng:2.17.2-12.9.el6
+#   - uuidd:2.17.2-12.9.el6
 #
 # CVE List:
 #

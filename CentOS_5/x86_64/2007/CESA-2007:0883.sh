@@ -2,17 +2,31 @@
 #
 # Security fix for CESA-2007:0883
 #
-# Security announcement date: 2007-09-14 00:40:18 UTC
-# Script generation date:     2015-11-09 19:06:40 UTC
+# Security announcement date: 2007-09-13 18:31:55 UTC
+# Script generation date:     2015-11-12 19:17:43 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - kernel-doc:2.6.18-8.1.10.el5
+#   - qt:3.3.6-23.el5
+#   - qt-config:3.3.6-23.el5
+#   - qt-designer:3.3.6-23.el5
+#   - qt-devel:3.3.6-23.el5
+#   - qt-devel-docs:3.3.6-23.el5
+#   - qt-MySQL:3.3.6-23.el5
+#   - qt-ODBC:3.3.6-23.el5
+#   - qt-PostgreSQL:3.3.6-23.el5
 #
 # Last versions recommanded by security team:
-#   - kernel-doc:2.6.18-406.el5
+#   - qt:3.3.6-23.el5
+#   - qt-config:3.3.6-23.el5
+#   - qt-designer:3.3.6-23.el5
+#   - qt-devel:3.3.6-23.el5
+#   - qt-devel-docs:3.3.6-23.el5
+#   - qt-MySQL:3.3.6-23.el5
+#   - qt-ODBC:3.3.6-23.el5
+#   - qt-PostgreSQL:3.3.6-23.el5
 #
 # CVE List:
 #
@@ -20,4 +34,11 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2007:0883
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install kernel-doc-2.6.18 -y 
+sudo yum install qt-3.3.6 -y 
+sudo yum install qt-config-3.3.6 -y 
+sudo yum install qt-designer-3.3.6 -y 
+sudo yum install qt-devel-3.3.6 -y 
+sudo yum install qt-devel-docs-3.3.6 -y 
+sudo yum install qt-MySQL-3.3.6 -y 
+sudo yum install qt-ODBC-3.3.6 -y 
+sudo yum install qt-PostgreSQL-3.3.6 -y 

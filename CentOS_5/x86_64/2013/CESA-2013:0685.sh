@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0685
 #
 # Security announcement date: 2013-03-26 21:05:02 UTC
-# Script generation date:     2015-09-10 09:40:04 UTC
+# Script generation date:     2015-11-12 19:19:08 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - perl-suidperl:5.8.8-40.el5_9
 #
 # Last versions recommanded by security team:
-#   - perl:5.8.8-41.el5
-#   - perl-suidperl:5.8.8-41.el5
+#   - perl:5.8.8-40.el5_9
+#   - perl-suidperl:5.8.8-40.el5_9
 #
 # CVE List:
 #   - CVE-2012-6329

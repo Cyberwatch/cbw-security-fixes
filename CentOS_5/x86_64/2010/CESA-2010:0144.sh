@@ -3,7 +3,7 @@
 # Security fix for CESA-2010:0144
 #
 # Security announcement date: 2010-03-16 12:58:04 UTC
-# Script generation date:     2015-09-10 09:39:11 UTC
+# Script generation date:     2015-11-12 19:18:12 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - cpio:2.6-23.el5_4.1
 #
 # Last versions recommanded by security team:
-#   - cpio:2.6-26.el5
+#   - cpio:2.6-23.el5_4.1
 #
 # CVE List:
 #   - CVE-2010-0624

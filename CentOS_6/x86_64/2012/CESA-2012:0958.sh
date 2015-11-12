@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0958
 #
 # Security announcement date: 2012-07-10 17:27:19 UTC
-# Script generation date:     2015-09-10 09:39:47 UTC
+# Script generation date:     2015-11-12 19:18:49 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - sos:2.2-29.el6
 #
 # Last versions recommanded by security team:
-#   - sos:2.2-47.el6.centos
+#   - sos:2.2-29.el6
 #
 # CVE List:
 #   - CVE-2012-2664

@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:1341
 #
 # Security announcement date: 2009-09-15 18:50:02 UTC
-# Script generation date:     2015-09-10 09:39:03 UTC
+# Script generation date:     2015-11-12 19:18:07 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - cman-devel:2.0.115-1.el5
 #
 # Last versions recommanded by security team:
-#   - cman:2.0.115-118.el5
-#   - cman-devel:2.0.115-118.el5
+#   - cman:2.0.115-1.el5
+#   - cman-devel:2.0.115-1.el5
 #
 # CVE List:
 #   - CVE-2008-6552

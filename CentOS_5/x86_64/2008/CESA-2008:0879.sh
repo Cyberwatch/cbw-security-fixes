@@ -2,17 +2,37 @@
 #
 # Security fix for CESA-2008:0879
 #
-# Security announcement date: 2008-09-25 17:47:03 UTC
-# Script generation date:     2015-11-09 19:06:51 UTC
+# Security announcement date: 2008-09-25 13:09:06 UTC
+# Script generation date:     2015-11-12 19:17:57 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - kernel-doc:2.6.18-92.1.13.el5
+#   - devhelp:0.12-19.el5
+#   - devhelp-devel:0.12-19.el5
+#   - firefox:3.0.2-3.el5.centos
+#   - nss:3.12.1.1-1.el5.centos.1
+#   - nss-devel:3.12.1.1-1.el5.centos.1
+#   - nss-pkcs11-devel:3.12.1.1-1.el5.centos.1
+#   - nss-tools:3.12.1.1-1.el5.centos.1
+#   - xulrunner:1.9.0.2-5.el5
+#   - xulrunner-devel:1.9.0.2-5.el5
+#   - xulrunner-devel-unstable:1.9.0.2-5.el5
+#   - yelp:2.16.0-21.el5
 #
 # Last versions recommanded by security team:
-#   - kernel-doc:2.6.18-406.el5
+#   - devhelp:0.12-23.el5_9
+#   - devhelp-devel:0.12-23.el5_9
+#   - firefox:38.4.0-1.el5.centos
+#   - nss:3.19.1-2.el5_11
+#   - nss-devel:3.19.1-2.el5_11
+#   - nss-pkcs11-devel:3.19.1-2.el5_11
+#   - nss-tools:3.19.1-2.el5_11
+#   - xulrunner:17.0.10-1.el5_10
+#   - xulrunner-devel:17.0.10-1.el5_10
+#   - xulrunner-devel-unstable:1.9.0.18-1.el5_4
+#   - yelp:2.16.0-30.el5_9
 #
 # CVE List:
 #   - CVE-2008-4063
@@ -30,4 +50,14 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2008:0879
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install kernel-doc-2.6.18 -y 
+sudo yum install devhelp-0.12 -y 
+sudo yum install devhelp-devel-0.12 -y 
+sudo yum install firefox-38.4.0 -y 
+sudo yum install nss-3.19.1 -y 
+sudo yum install nss-devel-3.19.1 -y 
+sudo yum install nss-pkcs11-devel-3.19.1 -y 
+sudo yum install nss-tools-3.19.1 -y 
+sudo yum install xulrunner-17.0.10 -y 
+sudo yum install xulrunner-devel-17.0.10 -y 
+sudo yum install xulrunner-devel-unstable-1.9.0.18 -y 
+sudo yum install yelp-2.16.0 -y 

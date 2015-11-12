@@ -3,7 +3,7 @@
 # Security fix for CESA-2011:0376
 #
 # Security announcement date: 2011-04-14 23:47:56 UTC
-# Script generation date:     2015-09-10 09:39:20 UTC
+# Script generation date:     2015-11-12 19:18:25 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - dbus-x11:1.1.2-15.el5_6
 #
 # Last versions recommanded by security team:
-#   - dbus:1.1.2-21.el5
-#   - dbus-devel:1.1.2-21.el5
-#   - dbus-libs:1.1.2-21.el5
-#   - dbus-x11:1.1.2-21.el5
+#   - dbus:1.1.2-16.el5_7
+#   - dbus-devel:1.1.2-16.el5_7
+#   - dbus-libs:1.1.2-16.el5_7
+#   - dbus-x11:1.1.2-16.el5_7
 #
 # CVE List:
 #   - CVE-2010-4352

@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0132
 #
 # Security announcement date: 2013-01-11 13:17:36 UTC
-# Script generation date:     2015-09-10 09:40:57 UTC
+# Script generation date:     2015-11-12 19:18:59 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - autofs:5.0.1-0.rc2.177.el5
 #
 # Last versions recommanded by security team:
-#   - autofs:5.0.1-0.rc2.183.el5
+#   - autofs:5.0.1-0.rc2.177.el5
 #
 # CVE List:
 #   - CVE-2012-2697

@@ -3,7 +3,7 @@
 # Security fix for CESA-2008:0575
 #
 # Security announcement date: 2008-07-24 19:42:15 UTC
-# Script generation date:     2015-09-10 09:38:50 UTC
+# Script generation date:     2015-11-12 19:17:55 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - rdesktop:1.4.1-6
 #
 # Last versions recommanded by security team:
-#   - rdesktop:1.6.0-8
+#   - rdesktop:1.6.0-3.el5_6.2
 #
 # CVE List:
 #   - CVE-2008-1801
