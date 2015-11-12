@@ -4,7 +4,7 @@
 # Security fix for USN-2574-1
 #
 # Security announcement date: 2015-04-21 00:00:00 UTC
-# Script generation date:     2015-10-28 19:02:06 UTC
+# Script generation date:     2015-11-12 19:13:04 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -19,12 +19,12 @@
 #   - openjdk-7-demo:7u79-2.5.5-0ubuntu0.14.04.2
 #
 # Last versions recommanded by security team:
-#   - openjdk-7-source:7u85-2.6.1-5ubuntu0.14.04.1
+#   - openjdk-7-source:7u79-2.5.6-0ubuntu1.14.04.1
 #   - icedtea-7-jre-jamvm:7u85-2.6.1-5ubuntu0.14.04.1
 #   - openjdk-7-jdk:7u85-2.6.1-5ubuntu0.14.04.1
 #   - openjdk-7-jre-headless:7u85-2.6.1-5ubuntu0.14.04.1
 #   - openjdk-7-jre:7u85-2.6.1-5ubuntu0.14.04.1
-#   - openjdk-7-doc:7u85-2.6.1-5ubuntu0.14.04.1
+#   - openjdk-7-doc:7u79-2.5.6-0ubuntu1.14.04.1
 #   - openjdk-7-demo:7u85-2.6.1-5ubuntu0.14.04.1
 #
 # CVE List:
@@ -39,10 +39,10 @@
 #   - https://www.cyberwatch.fr/notices/USN-2574-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openjdk-7-source=7u85-2.6.1-5ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-source=7u79-2.5.6-0ubuntu1.14.04.1 -y
 sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u85-2.6.1-5ubuntu0.14.04.1 -y
 sudo apt-get install --only-upgrade openjdk-7-jdk=7u85-2.6.1-5ubuntu0.14.04.1 -y
 sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u85-2.6.1-5ubuntu0.14.04.1 -y
 sudo apt-get install --only-upgrade openjdk-7-jre=7u85-2.6.1-5ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-doc=7u85-2.6.1-5ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-doc=7u79-2.5.6-0ubuntu1.14.04.1 -y
 sudo apt-get install --only-upgrade openjdk-7-demo=7u85-2.6.1-5ubuntu0.14.04.1 -y
