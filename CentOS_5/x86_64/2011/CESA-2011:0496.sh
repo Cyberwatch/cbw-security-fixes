@@ -3,7 +3,7 @@
 # Security fix for CESA-2011:0496
 #
 # Security announcement date: 2011-05-11 10:24:15 UTC
-# Script generation date:     2015-11-09 19:07:19 UTC
+# Script generation date:     2015-11-17 07:06:10 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - xen-libs:3.0.3-120.el5_6.2
 #
 # Last versions recommanded by security team:
-#   - xen:3.0.3-146.el5_11
-#   - xen-devel:3.0.3-146.el5_11
-#   - xen-libs:3.0.3-146.el5_11
+#   - xen:3.0.3-147.el5_11
+#   - xen-devel:3.0.3-147.el5_11
+#   - xen-libs:3.0.3-147.el5_11
 #
 # CVE List:
 #   - CVE-2011-1583
