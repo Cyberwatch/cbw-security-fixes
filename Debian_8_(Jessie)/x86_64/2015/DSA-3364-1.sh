@@ -4,7 +4,7 @@
 # Security fix for DSA-3364-1
 #
 # Security announcement date: 2015-09-21 00:00:00 UTC
-# Script generation date:     2015-09-24 23:24:34 UTC
+# Script generation date:     2015-11-18 19:03:02 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -21,6 +21,7 @@
 #   - CVE-2015-6252
 #   - CVE-2015-6937
 #   - CVE-2015-7312
+#   - CVE-2015-8215
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/DSA-3364-1
