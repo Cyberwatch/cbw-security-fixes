@@ -4,7 +4,7 @@
 # Security fix for DLA-310-1
 #
 # Security announcement date: 2015-09-19 00:00:00 UTC
-# Script generation date:     2015-10-13 05:41:37 UTC
+# Script generation date:     2015-11-18 19:06:26 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -23,6 +23,7 @@
 #   - CVE-2015-5697
 #   - CVE-2015-5707
 #   - CVE-2015-6937
+#   - CVE-2015-8215
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/DLA-310-1
