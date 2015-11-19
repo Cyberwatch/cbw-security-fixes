@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0770
 #
 # Security announcement date: 2013-04-24 20:56:24 UTC
-# Script generation date:     2015-09-10 09:40:06 UTC
+# Script generation date:     2015-11-19 07:05:26 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - java-1.6.0-openjdk-src:1.6.0.0-1.40.1.11.11.el5_9
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-openjdk:1.6.0.36-1.13.8.1.el5_11
-#   - java-1.6.0-openjdk-demo:1.6.0.36-1.13.8.1.el5_11
-#   - java-1.6.0-openjdk-devel:1.6.0.36-1.13.8.1.el5_11
-#   - java-1.6.0-openjdk-javadoc:1.6.0.36-1.13.8.1.el5_11
-#   - java-1.6.0-openjdk-src:1.6.0.36-1.13.8.1.el5_11
+#   - java-1.6.0-openjdk:1.6.0.37-1.13.9.4.el5_11
+#   - java-1.6.0-openjdk-demo:1.6.0.37-1.13.9.4.el5_11
+#   - java-1.6.0-openjdk-devel:1.6.0.37-1.13.9.4.el5_11
+#   - java-1.6.0-openjdk-javadoc:1.6.0.37-1.13.9.4.el5_11
+#   - java-1.6.0-openjdk-src:1.6.0.37-1.13.9.4.el5_11
 #
 # CVE List:
 #   - CVE-2013-2430
@@ -48,8 +48,8 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2013:0770
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-openjdk-1.6.0.36 -y 
-sudo yum install java-1.6.0-openjdk-demo-1.6.0.36 -y 
-sudo yum install java-1.6.0-openjdk-devel-1.6.0.36 -y 
-sudo yum install java-1.6.0-openjdk-javadoc-1.6.0.36 -y 
-sudo yum install java-1.6.0-openjdk-src-1.6.0.36 -y 
+sudo yum install java-1.6.0-openjdk-1.6.0.37 -y 
+sudo yum install java-1.6.0-openjdk-demo-1.6.0.37 -y 
+sudo yum install java-1.6.0-openjdk-devel-1.6.0.37 -y 
+sudo yum install java-1.6.0-openjdk-javadoc-1.6.0.37 -y 
+sudo yum install java-1.6.0-openjdk-src-1.6.0.37 -y 

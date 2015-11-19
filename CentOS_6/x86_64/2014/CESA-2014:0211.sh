@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0211
 #
 # Security announcement date: 2014-02-25 18:43:35 UTC
-# Script generation date:     2015-09-10 09:40:20 UTC
+# Script generation date:     2015-11-19 07:05:39 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -21,16 +21,16 @@
 #   - postgresql-test:8.4.20-1.el6_5
 #
 # Last versions recommanded by security team:
-#   - postgresql:8.4.20-3.el6_6
-#   - postgresql-contrib:8.4.20-3.el6_6
-#   - postgresql-devel:8.4.20-3.el6_6
-#   - postgresql-docs:8.4.20-3.el6_6
-#   - postgresql-libs:8.4.20-3.el6_6
-#   - postgresql-plperl:8.4.20-3.el6_6
-#   - postgresql-plpython:8.4.20-3.el6_6
-#   - postgresql-pltcl:8.4.20-3.el6_6
-#   - postgresql-server:8.4.20-3.el6_6
-#   - postgresql-test:8.4.20-3.el6_6
+#   - postgresql:8.4.20-4.el6_7
+#   - postgresql-contrib:8.4.20-4.el6_7
+#   - postgresql-devel:8.4.20-4.el6_7
+#   - postgresql-docs:8.4.20-4.el6_7
+#   - postgresql-libs:8.4.20-4.el6_7
+#   - postgresql-plperl:8.4.20-4.el6_7
+#   - postgresql-plpython:8.4.20-4.el6_7
+#   - postgresql-pltcl:8.4.20-4.el6_7
+#   - postgresql-server:8.4.20-4.el6_7
+#   - postgresql-test:8.4.20-4.el6_7
 #
 # CVE List:
 #   - CVE-2014-0060
