@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1978
 #
 # Security announcement date: 2015-11-03 20:40:22 UTC
-# Script generation date:     2015-11-04 07:15:10 UTC
+# Script generation date:     2015-11-20 07:12:05 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -31,26 +31,26 @@
 #   - kernel-doc:3.10.0-229.20.1.ael7b
 #
 # Last versions recommanded by security team:
-#   - kernel-abi-whitelists:3.10.0-229.20.1.ael7b
-#   - kernel-doc:3.10.0-229.20.1.ael7b
-#   - kernel:3.10.0-229.20.1.el7
-#   - kernel-debug:3.10.0-229.20.1.el7
-#   - kernel-debug-debuginfo:3.10.0-229.20.1.el7
-#   - kernel-debug-devel:3.10.0-229.20.1.el7
-#   - kernel-debuginfo:3.10.0-229.20.1.el7
-#   - kernel-debuginfo-common-x86_64:3.10.0-229.20.1.el7
-#   - kernel-devel:3.10.0-229.20.1.el7
-#   - kernel-headers:3.10.0-229.20.1.el7
-#   - kernel-tools:3.10.0-229.20.1.el7
-#   - kernel-tools-debuginfo:3.10.0-229.20.1.el7
-#   - kernel-tools-libs:3.10.0-229.20.1.el7
-#   - perf:3.10.0-229.20.1.el7
-#   - perf-debuginfo:3.10.0-229.20.1.el7
-#   - python-perf-debuginfo:3.10.0-229.20.1.el7
-#   - kernel-tools-libs-devel:3.10.0-229.20.1.el7
-#   - python-perf:3.10.0-229.20.1.el7
-#   - kernel-abi-whitelists:3.10.0-229.20.1.ael7b
-#   - kernel-doc:3.10.0-229.20.1.ael7b
+#   - kernel-abi-whitelists:3.10.0-327.el7
+#   - kernel-doc:3.10.0-327.el7
+#   - kernel:3.10.0-327.el7
+#   - kernel-debug:3.10.0-327.el7
+#   - kernel-debug-debuginfo:3.10.0-327.el7
+#   - kernel-debug-devel:3.10.0-327.el7
+#   - kernel-debuginfo:3.10.0-327.el7
+#   - kernel-debuginfo-common-x86_64:3.10.0-327.el7
+#   - kernel-devel:3.10.0-327.el7
+#   - kernel-headers:3.10.0-327.el7
+#   - kernel-tools:3.10.0-327.el7
+#   - kernel-tools-debuginfo:3.10.0-327.el7
+#   - kernel-tools-libs:3.10.0-327.el7
+#   - perf:3.10.0-327.el7
+#   - perf-debuginfo:3.10.0-327.el7
+#   - python-perf-debuginfo:3.10.0-327.el7
+#   - kernel-tools-libs-devel:3.10.0-327.el7
+#   - python-perf:3.10.0-327.el7
+#   - kernel-abi-whitelists:3.10.0-327.el7
+#   - kernel-doc:3.10.0-327.el7
 #
 # CVE List:
 #   - CVE-2014-8559
