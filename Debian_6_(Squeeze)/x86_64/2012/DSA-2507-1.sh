@@ -4,7 +4,7 @@
 # Security fix for DSA-2507-1
 #
 # Security announcement date: 2012-07-04 00:00:00 UTC
-# Script generation date:     2015-09-10 09:59:59 UTC
+# Script generation date:     2015-11-23 19:04:32 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - openjdk-6:6b18-1.8.13-0+squeeze2
 #
 # Last versions recommanded by security team:
-#   - openjdk-6:6b36-1.13.8-1~deb6u1
+#   - openjdk-6:6b37-1.13.9-1~deb6u1
 #
 # CVE List:
 #   - CVE-2012-1711
@@ -30,4 +30,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2507-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openjdk-6=6b36-1.13.8-1~deb6u1 -y
+sudo apt-get install --only-upgrade openjdk-6=6b37-1.13.9-1~deb6u1 -y
