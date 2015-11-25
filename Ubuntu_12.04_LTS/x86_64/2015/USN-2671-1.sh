@@ -4,7 +4,7 @@
 # Security fix for USN-2671-1
 #
 # Security announcement date: 2015-07-09 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:18 UTC
+# Script generation date:     2015-11-25 07:01:29 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - python-django:1.3.1-4ubuntu1.17
 #
 # Last versions recommanded by security team:
-#   - python-django:1.3.1-4ubuntu1.18
+#   - python-django:1.3.1-4ubuntu1.19
 #
 # CVE List:
 #   - CVE-2015-5143
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2671-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.3.1-4ubuntu1.18 -y
+sudo apt-get install --only-upgrade python-django=1.3.1-4ubuntu1.19 -y

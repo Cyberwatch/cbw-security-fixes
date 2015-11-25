@@ -4,7 +4,7 @@
 # Security fix for USN-2469-1
 #
 # Security announcement date: 2015-01-13 00:00:00 UTC
-# Script generation date:     2015-11-05 19:02:09 UTC
+# Script generation date:     2015-11-25 07:01:03 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - python-django:1.6.1-2ubuntu0.6
 #
 # Last versions recommanded by security team:
-#   - python-django:1.6.1-2ubuntu0.10
+#   - python-django:1.6.1-2ubuntu0.11
 #
 # CVE List:
 #   - CVE-2015-0219
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2469-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.6.1-2ubuntu0.10 -y
+sudo apt-get install --only-upgrade python-django=1.6.1-2ubuntu0.11 -y
