@@ -4,7 +4,7 @@
 # Security fix for USN-2388-1
 #
 # Security announcement date: 2014-10-22 00:00:00 UTC
-# Script generation date:     2015-10-28 19:01:48 UTC
+# Script generation date:     2015-11-25 19:00:56 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - openjdk-7-jre:7u71-2.5.3-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - icedtea-7-jre-jamvm:7u85-2.6.1-5ubuntu0.14.04.1
-#   - openjdk-7-jre-headless:7u85-2.6.1-5ubuntu0.14.04.1
-#   - openjdk-7-jre:7u85-2.6.1-5ubuntu0.14.04.1
+#   - icedtea-7-jre-jamvm:7u91-2.6.3-0ubuntu0.14.04.1
+#   - openjdk-7-jre-headless:7u91-2.6.3-0ubuntu0.14.04.1
+#   - openjdk-7-jre:7u91-2.6.3-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2014-6457
@@ -37,6 +37,6 @@
 #   - https://www.cyberwatch.fr/notices/USN-2388-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u85-2.6.1-5ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u85-2.6.1-5ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre=7u85-2.6.1-5ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u91-2.6.3-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u91-2.6.3-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-jre=7u91-2.6.3-0ubuntu0.14.04.1 -y

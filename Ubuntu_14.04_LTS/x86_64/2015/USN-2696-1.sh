@@ -4,7 +4,7 @@
 # Security fix for USN-2696-1
 #
 # Security announcement date: 2015-07-30 00:00:00 UTC
-# Script generation date:     2015-10-28 19:02:23 UTC
+# Script generation date:     2015-11-25 19:01:35 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -16,10 +16,10 @@
 #   - openjdk-7-jre:7u79-2.5.6-0ubuntu1.14.04.1
 #
 # Last versions recommanded by security team:
-#   - icedtea-7-jre-jamvm:7u85-2.6.1-5ubuntu0.14.04.1
-#   - openjdk-7-jdk:7u85-2.6.1-5ubuntu0.14.04.1
-#   - openjdk-7-jre-headless:7u85-2.6.1-5ubuntu0.14.04.1
-#   - openjdk-7-jre:7u85-2.6.1-5ubuntu0.14.04.1
+#   - icedtea-7-jre-jamvm:7u91-2.6.3-0ubuntu0.14.04.1
+#   - openjdk-7-jdk:7u91-2.6.3-0ubuntu0.14.04.1
+#   - openjdk-7-jre-headless:7u91-2.6.3-0ubuntu0.14.04.1
+#   - openjdk-7-jre:7u91-2.6.3-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2015-2590
@@ -42,7 +42,7 @@
 #   - https://www.cyberwatch.fr/notices/USN-2696-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u85-2.6.1-5ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jdk=7u85-2.6.1-5ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u85-2.6.1-5ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre=7u85-2.6.1-5ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u91-2.6.3-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-jdk=7u91-2.6.3-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u91-2.6.3-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-jre=7u91-2.6.3-0ubuntu0.14.04.1 -y
