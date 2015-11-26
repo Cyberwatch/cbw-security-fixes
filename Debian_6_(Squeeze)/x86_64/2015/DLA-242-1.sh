@@ -4,7 +4,7 @@
 # Security fix for DLA-242-1
 #
 # Security announcement date: 2015-06-10 00:00:00 UTC
-# Script generation date:     2015-10-13 05:41:34 UTC
+# Script generation date:     2015-11-26 07:08:56 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - imagemagick:8:6.6.0.4-3+squeeze6
 #
 # Last versions recommanded by security team:
-#   - imagemagick:8:6.6.0.4-3+squeeze6
+#   - imagemagick:8:6.6.0.4-3+squeeze4
 #
 # CVE List:
 #   - CVE-2012-3437
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-242-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade imagemagick=8:6.6.0.4-3+squeeze6 -y
+sudo apt-get install --only-upgrade imagemagick=8:6.6.0.4-3+squeeze4 -y
