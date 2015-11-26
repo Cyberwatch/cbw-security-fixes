@@ -4,7 +4,7 @@
 # Security fix for DSA-2506-1
 #
 # Security announcement date: 2012-07-02 00:00:00 UTC
-# Script generation date:     2015-10-13 05:36:56 UTC
+# Script generation date:     2015-11-26 07:04:24 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libapache-mod-security:2.5.12-1+squeeze1
 #
 # Last versions recommanded by security team:
-#   - libapache-mod-security:2.5.12-1+squeeze4
+#   - libapache-mod-security:2.5.12-1+squeeze2
 #
 # CVE List:
 #   - CVE-2012-2751
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2506-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libapache-mod-security=2.5.12-1+squeeze4 -y
+sudo apt-get install --only-upgrade libapache-mod-security=2.5.12-1+squeeze2 -y

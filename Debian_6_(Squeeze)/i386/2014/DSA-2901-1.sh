@@ -4,7 +4,7 @@
 # Security fix for DSA-2901-1
 #
 # Security announcement date: 2014-04-12 00:00:00 UTC
-# Script generation date:     2015-10-13 05:37:27 UTC
+# Script generation date:     2015-11-26 07:04:51 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - wordpress:3.6.1+dfsg-1~deb6u2
 #
 # Last versions recommanded by security team:
-#   - wordpress:3.6.1+dfsg-1~deb6u8
+#   - wordpress:3.6.1+dfsg-1~deb6u4
 #
 # CVE List:
 #   - CVE-2014-0165
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2901-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb6u8 -y
+sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb6u4 -y
