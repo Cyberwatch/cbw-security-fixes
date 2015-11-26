@@ -4,7 +4,7 @@
 # Security fix for DLA-230-1
 #
 # Security announcement date: 2015-05-27 00:00:00 UTC
-# Script generation date:     2015-10-13 05:41:33 UTC
+# Script generation date:     2015-11-26 19:06:37 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - eglibc:2.11.3-4+deb6u6
 #
 # Last versions recommanded by security team:
-#   - eglibc:2.11.3-4+deb6u7
+#   - eglibc:2.11.3-4+deb6u8
 #
 # CVE List:
 #   - CVE-2015-1781
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-230-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade eglibc=2.11.3-4+deb6u7 -y
+sudo apt-get install --only-upgrade eglibc=2.11.3-4+deb6u8 -y

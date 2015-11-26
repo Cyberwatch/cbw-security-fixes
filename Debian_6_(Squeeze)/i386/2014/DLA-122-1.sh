@@ -4,7 +4,7 @@
 # Security fix for DLA-122-1
 #
 # Security announcement date: 2014-12-22 00:00:00 UTC
-# Script generation date:     2015-10-13 05:41:28 UTC
+# Script generation date:     2015-11-26 19:06:31 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - eglibc:2.11.3-4+deb6u3
 #
 # Last versions recommanded by security team:
-#   - eglibc:2.11.3-4+deb6u7
+#   - eglibc:2.11.3-4+deb6u8
 #
 # CVE List:
 #   - CVE-2014-9402
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-122-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade eglibc=2.11.3-4+deb6u7 -y
+sudo apt-get install --only-upgrade eglibc=2.11.3-4+deb6u8 -y
