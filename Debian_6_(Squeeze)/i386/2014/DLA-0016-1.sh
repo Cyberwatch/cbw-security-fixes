@@ -4,7 +4,7 @@
 # Security fix for DLA-0016-1
 #
 # Security announcement date: 2014-07-19 00:00:00 UTC
-# Script generation date:     2015-11-26 07:08:44 UTC
+# Script generation date:     2015-11-27 07:08:35 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libxml2:2.7.8.dfsg-2+squeeze
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.7.8.dfsg-2+squeeze8
+#   - libxml2:2.7.8.dfsg-2+squeeze14
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-0016-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-2+squeeze8 -y
+sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-2+squeeze14 -y

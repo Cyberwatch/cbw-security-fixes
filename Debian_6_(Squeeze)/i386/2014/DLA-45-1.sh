@@ -4,7 +4,7 @@
 # Security fix for DLA-45-1
 #
 # Security announcement date: 2014-09-04 00:00:00 UTC
-# Script generation date:     2015-11-26 07:08:46 UTC
+# Script generation date:     2015-11-27 07:08:37 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - squid3:3.1.6-1.2+squeeze4
 #
 # Last versions recommanded by security team:
-#   - squid3:3.1.6-1.2+squeeze3
+#   - squid3:3.1.6-1.2+squeeze5
 #
 # CVE List:
 #   - CVE-2014-3609
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-45-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade squid3=3.1.6-1.2+squeeze3 -y
+sudo apt-get install --only-upgrade squid3=3.1.6-1.2+squeeze5 -y

@@ -4,7 +4,7 @@
 # Security fix for DLA-148-1
 #
 # Security announcement date: 2015-02-07 00:00:00 UTC
-# Script generation date:     2015-11-26 07:08:51 UTC
+# Script generation date:     2015-11-27 07:08:42 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - sympa:6.0.1+dfsg-4+squeeze3
 #
 # Last versions recommanded by security team:
-#   - sympa:6.0.1+dfsg-4+squeeze1
+#   - sympa:6.0.1+dfsg-4+squeeze3
 #
 # CVE List:
 #   - CVE-2015-1306
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-148-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade sympa=6.0.1+dfsg-4+squeeze1 -y
+sudo apt-get install --only-upgrade sympa=6.0.1+dfsg-4+squeeze3 -y

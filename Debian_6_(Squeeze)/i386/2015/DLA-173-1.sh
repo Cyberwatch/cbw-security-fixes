@@ -4,7 +4,7 @@
 # Security fix for DLA-173-1
 #
 # Security announcement date: 2015-03-15 00:00:00 UTC
-# Script generation date:     2015-11-26 07:08:52 UTC
+# Script generation date:     2015-11-27 07:08:43 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - putty:0.60+2010-02-20-1+squeeze3
 #
 # Last versions recommanded by security team:
-#   - putty:0.60+2010-02-20-1+squeeze2
+#   - putty:0.60+2010-02-20-1+squeeze4
 #
 # CVE List:
 #   - CVE-2015-2157
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-173-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade putty=0.60+2010-02-20-1+squeeze2 -y
+sudo apt-get install --only-upgrade putty=0.60+2010-02-20-1+squeeze4 -y

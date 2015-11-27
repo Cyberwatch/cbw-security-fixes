@@ -4,7 +4,7 @@
 # Security fix for DLA-88-1
 #
 # Security announcement date: 2014-11-21 00:00:00 UTC
-# Script generation date:     2015-11-26 07:08:48 UTC
+# Script generation date:     2015-11-27 07:08:39 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - ruby1.8:1.8.7.302-2squeeze3
 #
 # Last versions recommanded by security team:
-#   - ruby1.8:1.8.7.302-2squeeze2
+#   - ruby1.8:1.8.7.302-2squeeze5
 #
 # CVE List:
 #   - CVE-2011-0188
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-88-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ruby1.8=1.8.7.302-2squeeze2 -y
+sudo apt-get install --only-upgrade ruby1.8=1.8.7.302-2squeeze5 -y
