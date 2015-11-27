@@ -4,7 +4,7 @@
 # Security fix for USN-2242-1
 #
 # Security announcement date: 2014-06-10 00:00:00 UTC
-# Script generation date:     2015-11-05 19:01:54 UTC
+# Script generation date:     2015-11-27 07:00:49 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - libdpkg-perl:1.17.5ubuntu5.3
 #
 # Last versions recommanded by security team:
-#   - libdpkg-perl:1.17.5ubuntu5.4
+#   - libdpkg-perl:1.17.5ubuntu5.5
 #
 # CVE List:
 #   - CVE-2014-3864
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2242-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libdpkg-perl=1.17.5ubuntu5.4 -y
+sudo apt-get install --only-upgrade libdpkg-perl=1.17.5ubuntu5.5 -y
