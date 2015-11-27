@@ -4,7 +4,7 @@
 # Security fix for DSA-2394-1
 #
 # Security announcement date: 2012-01-25 00:00:00 UTC
-# Script generation date:     2015-11-26 07:04:17 UTC
+# Script generation date:     2015-11-27 07:04:20 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libxml2:2.7.8.dfsg-2+squeeze2
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.7.8.dfsg-2+squeeze8
+#   - libxml2:2.7.8.dfsg-2+squeeze14
 #
 # CVE List:
 #   - CVE-2011-0216
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2394-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-2+squeeze8 -y
+sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-2+squeeze14 -y

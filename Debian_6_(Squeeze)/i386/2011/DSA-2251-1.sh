@@ -4,7 +4,7 @@
 # Security fix for DSA-2251-1
 #
 # Security announcement date: 2011-06-02 00:00:00 UTC
-# Script generation date:     2015-11-26 07:04:10 UTC
+# Script generation date:     2015-11-27 07:04:14 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - subversion:1.6.12dfsg-6
 #
 # Last versions recommanded by security team:
-#   - subversion:1.6.12dfsg-7
+#   - subversion:1.6.12dfsg-7+deb6u3
 #
 # CVE List:
 #   - CVE-2011-1752
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2251-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade subversion=1.6.12dfsg-7 -y
+sudo apt-get install --only-upgrade subversion=1.6.12dfsg-7+deb6u3 -y
