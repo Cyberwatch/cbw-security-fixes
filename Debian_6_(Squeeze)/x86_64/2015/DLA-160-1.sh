@@ -4,7 +4,7 @@
 # Security fix for DLA-160-1
 #
 # Security announcement date: 2015-02-27 00:00:00 UTC
-# Script generation date:     2015-11-27 07:08:42 UTC
+# Script generation date:     2015-11-27 19:06:40 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - sudo:1.7.4p4-2.squeeze.5
 #
 # Last versions recommanded by security team:
-#   - sudo:1.7.4p4-2.squeeze.5
+#   - sudo:1.7.4p4-2.squeeze.4
 #
 # CVE List:
 #   - CVE-2014-0106
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-160-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade sudo=1.7.4p4-2.squeeze.5 -y
+sudo apt-get install --only-upgrade sudo=1.7.4p4-2.squeeze.4 -y

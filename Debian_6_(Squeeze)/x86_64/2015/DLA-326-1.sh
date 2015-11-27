@@ -4,7 +4,7 @@
 # Security fix for DLA-326-1
 #
 # Security announcement date: 2015-10-15 00:00:00 UTC
-# Script generation date:     2015-11-27 07:08:54 UTC
+# Script generation date:     2015-11-27 19:06:52 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - zendframework:1.10.6-1squeeze6
 #
 # Last versions recommanded by security team:
-#   - zendframework:1.10.6-1squeeze6
+#   - zendframework:1.10.6-1squeeze2
 #
 # CVE List:
 #   - CVE-2015-7695
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-326-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade zendframework=1.10.6-1squeeze6 -y
+sudo apt-get install --only-upgrade zendframework=1.10.6-1squeeze2 -y
