@@ -4,7 +4,7 @@
 # Security fix for DSA-2370-1
 #
 # Security announcement date: 2011-12-22 00:00:00 UTC
-# Script generation date:     2015-11-27 07:04:19 UTC
+# Script generation date:     2015-11-27 19:02:11 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - unbound:1.4.6-1+squeeze2
 #
 # Last versions recommanded by security team:
-#   - unbound:1.4.6-1+squeeze4
+#   - unbound:1.4.6-1+squeeze2
 #
 # CVE List:
 #   - CVE-2011-4528
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2370-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade unbound=1.4.6-1+squeeze4 -y
+sudo apt-get install --only-upgrade unbound=1.4.6-1+squeeze2 -y

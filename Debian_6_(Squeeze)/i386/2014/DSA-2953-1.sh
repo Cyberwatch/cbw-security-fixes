@@ -4,7 +4,7 @@
 # Security fix for DSA-2953-1
 #
 # Security announcement date: 2014-06-08 00:00:00 UTC
-# Script generation date:     2015-11-27 07:04:56 UTC
+# Script generation date:     2015-11-27 19:02:48 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - dpkg:1.15.11
 #
 # Last versions recommanded by security team:
-#   - dpkg:1.15.12
+#   - dpkg:1.15.11
 #
 # CVE List:
 #   - CVE-2014-3864
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2953-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade dpkg=1.15.12 -y
+sudo apt-get install --only-upgrade dpkg=1.15.11 -y
