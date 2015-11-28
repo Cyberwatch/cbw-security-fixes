@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:1126
 #
 # Security announcement date: 2009-06-26 14:08:25 UTC
-# Script generation date:     2015-10-13 05:42:41 UTC
+# Script generation date:     2015-11-28 07:04:30 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - thunderbird:2.0.0.22-2.el5.centos
 #
 # Last versions recommanded by security team:
-#   - thunderbird:38.3.0-1.el5.centos
+#   - thunderbird:38.4.0-1.el5.centos
 #
 # CVE List:
 #   - CVE-2009-1303
@@ -30,4 +30,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2009:1126
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird-38.3.0 -y 
+sudo yum install thunderbird-38.4.0 -y 

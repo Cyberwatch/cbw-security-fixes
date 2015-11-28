@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0316
 #
 # Security announcement date: 2014-03-20 01:01:20 UTC
-# Script generation date:     2015-10-13 05:44:00 UTC
+# Script generation date:     2015-11-28 07:05:58 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - thunderbird:24.4.0-1.el5.centos
 #
 # Last versions recommanded by security team:
-#   - thunderbird:38.3.0-1.el5.centos
+#   - thunderbird:38.4.0-1.el5.centos
 #
 # CVE List:
 #   - CVE-2014-1493
@@ -30,4 +30,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2014:0316
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird-38.3.0 -y 
+sudo yum install thunderbird-38.4.0 -y 

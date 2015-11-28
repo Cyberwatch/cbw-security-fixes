@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:1269
 #
 # Security announcement date: 2013-09-18 00:48:08 UTC
-# Script generation date:     2015-10-13 05:43:53 UTC
+# Script generation date:     2015-11-28 07:05:47 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - thunderbird:17.0.9-1.el6.centos
 #
 # Last versions recommanded by security team:
-#   - thunderbird:38.3.0-1.el6.centos
+#   - thunderbird:38.4.0-1.el6.centos
 #
 # CVE List:
 #   - CVE-2013-1718
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2013:1269
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird-38.3.0 -y 
+sudo yum install thunderbird-38.4.0 -y 
