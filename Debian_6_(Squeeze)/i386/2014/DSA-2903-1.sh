@@ -4,7 +4,7 @@
 # Security fix for DSA-2903-1
 #
 # Security announcement date: 2014-04-14 00:00:00 UTC
-# Script generation date:     2015-11-27 19:02:45 UTC
+# Script generation date:     2015-11-29 19:05:07 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - strongswan:4.4.1-5.5
 #
 # Last versions recommanded by security team:
-#   - strongswan:4.4.1-5.6
+#   - strongswan:4.4.1-5.8
 #
 # CVE List:
 #   - CVE-2014-2338
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2903-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade strongswan=4.4.1-5.6 -y
+sudo apt-get install --only-upgrade strongswan=4.4.1-5.8 -y

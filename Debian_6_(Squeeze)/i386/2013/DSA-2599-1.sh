@@ -4,7 +4,7 @@
 # Security fix for DSA-2599-1
 #
 # Security announcement date: 2013-01-06 00:00:00 UTC
-# Script generation date:     2015-10-13 05:37:01 UTC
+# Script generation date:     2015-11-29 19:04:35 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - nss:3.12.8-1+squeeze6
 #
 # Last versions recommanded by security team:
-#   - nss:3.12.8-1+squeeze12
+#   - nss:3.12.8-1+squeeze13
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2599-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade nss=3.12.8-1+squeeze12 -y
+sudo apt-get install --only-upgrade nss=3.12.8-1+squeeze13 -y
