@@ -4,7 +4,7 @@
 # Security fix for DLA-0008-1
 #
 # Security announcement date: 2014-06-20 00:00:00 UTC
-# Script generation date:     2015-11-27 19:06:32 UTC
+# Script generation date:     2015-11-29 19:08:59 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - openssl:0.9.8o-4squeeze16
 #
 # Last versions recommanded by security team:
-#   - openssl:0.9.8o-4squeeze14
+#   - openssl:0.9.8o-4squeeze21
 #
 # CVE List:
 #   - CVE-2012-4929
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-0008-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze14 -y
+sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze21 -y

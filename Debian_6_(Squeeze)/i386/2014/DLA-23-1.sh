@@ -4,7 +4,7 @@
 # Security fix for DLA-23-1
 #
 # Security announcement date: 2014-07-31 00:00:00 UTC
-# Script generation date:     2015-10-13 05:41:22 UTC
+# Script generation date:     2015-11-29 19:09:00 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - nss:3.12.8-1+squeeze8
 #
 # Last versions recommanded by security team:
-#   - nss:3.12.8-1+squeeze12
+#   - nss:3.12.8-1+squeeze13
 #
 # CVE List:
 #   - CVE-2013-1741
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-23-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade nss=3.12.8-1+squeeze12 -y
+sudo apt-get install --only-upgrade nss=3.12.8-1+squeeze13 -y
