@@ -4,7 +4,7 @@
 # Security fix for DSA-2288-1
 #
 # Security announcement date: 2011-07-28 00:00:00 UTC
-# Script generation date:     2015-09-10 09:59:47 UTC
+# Script generation date:     2015-11-30 19:02:08 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libsndfile:1.0.21-3+squeeze1
 #
 # Last versions recommanded by security team:
-#   - libsndfile:1.0.21-3+squeeze1
+#   - libsndfile:1.0.21-3+squeeze2
 #
 # CVE List:
 #   - CVE-2011-2696
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2288-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libsndfile=1.0.21-3+squeeze1 -y
+sudo apt-get install --only-upgrade libsndfile=1.0.21-3+squeeze2 -y
