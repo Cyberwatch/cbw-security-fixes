@@ -4,7 +4,7 @@
 # Security fix for DSA-2352-1
 #
 # Security announcement date: 2011-11-22 00:00:00 UTC
-# Script generation date:     2015-11-29 19:04:24 UTC
+# Script generation date:     2015-11-30 07:02:06 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - puppet:2.6.2-5+squeeze3
 #
 # Last versions recommanded by security team:
-#   - puppet:2.6.2-5+squeeze10
+#   - puppet:2.6.2-5+squeeze9
 #
 # CVE List:
 #   - CVE-2011-3872
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2352-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade puppet=2.6.2-5+squeeze10 -y
+sudo apt-get install --only-upgrade puppet=2.6.2-5+squeeze9 -y
