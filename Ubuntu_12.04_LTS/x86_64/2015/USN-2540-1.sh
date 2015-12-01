@@ -4,7 +4,7 @@
 # Security fix for USN-2540-1
 #
 # Security announcement date: 2015-03-23 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:04 UTC
+# Script generation date:     2015-12-01 07:01:16 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libgnutls26:2.12.14-5ubuntu3.9
 #
 # Last versions recommanded by security team:
-#   - libgnutls26:2.12.14-5ubuntu3.9
+#   - libgnutls26:2.12.14-5ubuntu3.10
 #
 # CVE List:
 #   - CVE-2014-8155
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2540-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgnutls26=2.12.14-5ubuntu3.9 -y
+sudo apt-get install --only-upgrade libgnutls26=2.12.14-5ubuntu3.10 -y
