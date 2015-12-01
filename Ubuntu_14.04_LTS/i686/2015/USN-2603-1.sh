@@ -4,7 +4,7 @@
 # Security fix for USN-2603-1
 #
 # Security announcement date: 2015-05-18 00:00:00 UTC
-# Script generation date:     2015-11-05 19:02:29 UTC
+# Script generation date:     2015-12-01 19:01:33 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - thunderbird:1:31.7.0+build1-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - thunderbird:1:38.3.0+build1-0ubuntu0.14.04.1
+#   - thunderbird:1:38.4.0+build3-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2015-2708
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2603-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade thunderbird=1:38.3.0+build1-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade thunderbird=1:38.4.0+build3-0ubuntu0.14.04.1 -y

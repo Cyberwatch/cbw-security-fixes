@@ -4,7 +4,7 @@
 # Security fix for USN-2673-1
 #
 # Security announcement date: 2015-07-20 00:00:00 UTC
-# Script generation date:     2015-11-05 19:02:37 UTC
+# Script generation date:     2015-12-01 19:01:40 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - thunderbird:1:31.8.0+build1-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - thunderbird:1:38.3.0+build1-0ubuntu0.14.04.1
+#   - thunderbird:1:38.4.0+build3-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2015-2721
@@ -31,4 +31,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2673-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade thunderbird=1:38.3.0+build1-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade thunderbird=1:38.4.0+build3-0ubuntu0.14.04.1 -y

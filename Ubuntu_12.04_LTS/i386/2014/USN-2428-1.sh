@@ -4,7 +4,7 @@
 # Security fix for USN-2428-1
 #
 # Security announcement date: 2014-12-03 00:00:00 UTC
-# Script generation date:     2015-10-05 18:02:04 UTC
+# Script generation date:     2015-12-01 19:01:05 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - thunderbird:1:31.3.0+build1-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - thunderbird:1:38.3.0+build1-0ubuntu0.12.04.1
+#   - thunderbird:1:38.4.0+build3-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2014-1587
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2428-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade thunderbird=1:38.3.0+build1-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade thunderbird=1:38.4.0+build3-0ubuntu0.12.04.1 -y
