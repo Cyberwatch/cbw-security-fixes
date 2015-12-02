@@ -4,7 +4,7 @@
 # Security fix for DSA-2642-1
 #
 # Security announcement date: 2013-03-09 00:00:00 UTC
-# Script generation date:     2015-11-30 07:02:20 UTC
+# Script generation date:     2015-12-02 07:04:28 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - sudo:1.7.4p4-2.squeeze.4
 #
 # Last versions recommanded by security team:
-#   - sudo:1.7.4p4-2.squeeze.4
+#   - sudo:1.7.4p4-2.squeeze.5
 #
 # CVE List:
 #   - CVE-2013-1775
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2642-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade sudo=1.7.4p4-2.squeeze.4 -y
+sudo apt-get install --only-upgrade sudo=1.7.4p4-2.squeeze.5 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-2408-1
 #
 # Security announcement date: 2012-02-13 00:00:00 UTC
-# Script generation date:     2015-11-30 07:02:09 UTC
+# Script generation date:     2015-12-02 07:04:17 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - php5:5.3.3-7+squeeze8
 #
 # Last versions recommanded by security team:
-#   - php5:5.3.3-7+squeeze19
+#   - php5:5.3.3.1-7+squeeze28
 #
 # CVE List:
 #   - CVE-2011-1072
@@ -37,4 +37,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2408-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.3.3-7+squeeze19 -y
+sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze28 -y

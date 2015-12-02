@@ -4,7 +4,7 @@
 # Security fix for DSA-2659-1
 #
 # Security announcement date: 2013-04-09 00:00:00 UTC
-# Script generation date:     2015-11-30 07:02:21 UTC
+# Script generation date:     2015-12-02 07:04:28 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libapache-mod-security:2.5.12-1+squeeze2
 #
 # Last versions recommanded by security team:
-#   - libapache-mod-security:2.5.12-1+squeeze2
+#   - libapache-mod-security:2.5.12-1+squeeze4
 #
 # CVE List:
 #   - CVE-2013-1915
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2659-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libapache-mod-security=2.5.12-1+squeeze2 -y
+sudo apt-get install --only-upgrade libapache-mod-security=2.5.12-1+squeeze4 -y

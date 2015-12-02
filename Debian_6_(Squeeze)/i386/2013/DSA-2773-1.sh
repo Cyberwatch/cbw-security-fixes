@@ -4,7 +4,7 @@
 # Security fix for DSA-2773-1
 #
 # Security announcement date: 2013-10-10 00:00:00 UTC
-# Script generation date:     2015-11-30 07:02:30 UTC
+# Script generation date:     2015-12-02 07:04:38 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - gnupg:1.4.10-4+squeeze3
 #
 # Last versions recommanded by security team:
-#   - gnupg:1.4.10-4+squeeze4
+#   - gnupg:1.4.10-4+squeeze7
 #
 # CVE List:
 #   - CVE-2013-4351
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2773-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade gnupg=1.4.10-4+squeeze4 -y
+sudo apt-get install --only-upgrade gnupg=1.4.10-4+squeeze7 -y

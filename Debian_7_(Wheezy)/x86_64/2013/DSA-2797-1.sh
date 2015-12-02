@@ -4,7 +4,7 @@
 # Security fix for DSA-2797-1
 #
 # Security announcement date: 2013-11-13 00:00:00 UTC
-# Script generation date:     2015-09-10 10:01:46 UTC
+# Script generation date:     2015-12-02 07:04:40 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - icedove:17.0.10-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - icedove:31.8.0-1~deb7u1
+#   - icedove:38.4.0-1~deb7u1
 #
 # CVE List:
 #   - CVE-2013-5590
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2797-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedove=31.8.0-1~deb7u1 -y
+sudo apt-get install --only-upgrade icedove=38.4.0-1~deb7u1 -y
