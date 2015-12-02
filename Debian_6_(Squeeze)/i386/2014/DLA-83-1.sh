@@ -4,7 +4,7 @@
 # Security fix for DLA-83-1
 #
 # Security announcement date: 2014-11-06 00:00:00 UTC
-# Script generation date:     2015-11-30 07:06:42 UTC
+# Script generation date:     2015-12-02 07:08:27 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - ffmpeg:4:0.5.10-1+deb6u1
 #
 # Last versions recommanded by security team:
-#   - ffmpeg:4:0.5.10-1
+#   - ffmpeg:4:0.5.10-1+deb6u1
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-83-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ffmpeg=4:0.5.10-1 -y
+sudo apt-get install --only-upgrade ffmpeg=4:0.5.10-1+deb6u1 -y
