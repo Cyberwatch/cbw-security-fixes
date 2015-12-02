@@ -4,7 +4,7 @@
 # Security fix for DSA-2401-1
 #
 # Security announcement date: 2012-02-02 00:00:00 UTC
-# Script generation date:     2015-12-02 07:04:16 UTC
+# Script generation date:     2015-12-02 19:02:14 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - tomcat6:6.0.35-1+squeeze2
 #
 # Last versions recommanded by security team:
-#   - tomcat6:6.0.41-2+squeeze7
+#   - tomcat6:6.0.35-1+squeeze4
 #
 # CVE List:
 #   - CVE-2011-1184
@@ -31,4 +31,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2401-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tomcat6=6.0.41-2+squeeze7 -y
+sudo apt-get install --only-upgrade tomcat6=6.0.35-1+squeeze4 -y
