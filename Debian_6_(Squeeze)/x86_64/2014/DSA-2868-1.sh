@@ -4,7 +4,7 @@
 # Security fix for DSA-2868-1
 #
 # Security announcement date: 2014-03-02 00:00:00 UTC
-# Script generation date:     2015-12-02 19:02:46 UTC
+# Script generation date:     2015-12-03 07:02:47 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - php5:5.3.3-7+squeeze19
 #
 # Last versions recommanded by security team:
-#   - php5:5.3.3-7+squeeze19
+#   - php5:5.3.3.1-7+squeeze28
 #
 # CVE List:
 #   - CVE-2014-1943
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2868-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.3.3-7+squeeze19 -y
+sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze28 -y

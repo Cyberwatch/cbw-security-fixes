@@ -4,7 +4,7 @@
 # Security fix for DSA-2548-1
 #
 # Security announcement date: 2012-09-13 00:00:00 UTC
-# Script generation date:     2015-12-02 19:02:21 UTC
+# Script generation date:     2015-12-03 07:02:23 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - tor:0.2.2.39-1
 #
 # Last versions recommanded by security team:
-#   - tor:0.2.2.39-1
+#   - tor:0.2.4.27-1~deb6u1
 #
 # CVE List:
 #   - CVE-2012-3518
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2548-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tor=0.2.2.39-1 -y
+sudo apt-get install --only-upgrade tor=0.2.4.27-1~deb6u1 -y
