@@ -4,7 +4,7 @@
 # Security fix for USN-2439-1
 #
 # Security announcement date: 2014-12-11 00:00:00 UTC
-# Script generation date:     2015-11-05 19:02:06 UTC
+# Script generation date:     2015-12-03 19:01:02 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -19,13 +19,13 @@
 #   - qemu-system-mips:2.0.0+dfsg-2ubuntu1.9
 #
 # Last versions recommanded by security team:
-#   - qemu-system-misc:2.0.0+dfsg-2ubuntu1.19
-#   - qemu-system:2.0.0+dfsg-2ubuntu1.19
-#   - qemu-system-x86:2.0.0+dfsg-2ubuntu1.19
-#   - qemu-system-sparc:2.0.0+dfsg-2ubuntu1.19
-#   - qemu-system-arm:2.0.0+dfsg-2ubuntu1.19
-#   - qemu-system-ppc:2.0.0+dfsg-2ubuntu1.19
-#   - qemu-system-mips:2.0.0+dfsg-2ubuntu1.19
+#   - qemu-system-misc:2.0.0+dfsg-2ubuntu1.21
+#   - qemu-system:2.0.0+dfsg-2ubuntu1.21
+#   - qemu-system-x86:2.0.0+dfsg-2ubuntu1.21
+#   - qemu-system-sparc:2.0.0+dfsg-2ubuntu1.21
+#   - qemu-system-arm:2.0.0+dfsg-2ubuntu1.21
+#   - qemu-system-ppc:2.0.0+dfsg-2ubuntu1.21
+#   - qemu-system-mips:2.0.0+dfsg-2ubuntu1.21
 #
 # CVE List:
 #   - CVE-2014-7840
@@ -35,10 +35,10 @@
 #   - https://www.cyberwatch.fr/notices/USN-2439-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu-system-misc=2.0.0+dfsg-2ubuntu1.19 -y
-sudo apt-get install --only-upgrade qemu-system=2.0.0+dfsg-2ubuntu1.19 -y
-sudo apt-get install --only-upgrade qemu-system-x86=2.0.0+dfsg-2ubuntu1.19 -y
-sudo apt-get install --only-upgrade qemu-system-sparc=2.0.0+dfsg-2ubuntu1.19 -y
-sudo apt-get install --only-upgrade qemu-system-arm=2.0.0+dfsg-2ubuntu1.19 -y
-sudo apt-get install --only-upgrade qemu-system-ppc=2.0.0+dfsg-2ubuntu1.19 -y
-sudo apt-get install --only-upgrade qemu-system-mips=2.0.0+dfsg-2ubuntu1.19 -y
+sudo apt-get install --only-upgrade qemu-system-misc=2.0.0+dfsg-2ubuntu1.21 -y
+sudo apt-get install --only-upgrade qemu-system=2.0.0+dfsg-2ubuntu1.21 -y
+sudo apt-get install --only-upgrade qemu-system-x86=2.0.0+dfsg-2ubuntu1.21 -y
+sudo apt-get install --only-upgrade qemu-system-sparc=2.0.0+dfsg-2ubuntu1.21 -y
+sudo apt-get install --only-upgrade qemu-system-arm=2.0.0+dfsg-2ubuntu1.21 -y
+sudo apt-get install --only-upgrade qemu-system-ppc=2.0.0+dfsg-2ubuntu1.21 -y
+sudo apt-get install --only-upgrade qemu-system-mips=2.0.0+dfsg-2ubuntu1.21 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2608-1
 #
 # Security announcement date: 2015-05-13 00:00:00 UTC
-# Script generation date:     2015-09-24 23:20:44 UTC
+# Script generation date:     2015-12-03 19:01:22 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - qemu-kvm:1.0+noroms-0ubuntu14.22
 #
 # Last versions recommanded by security team:
-#   - qemu-kvm:1.0+noroms-0ubuntu14.25
+#   - qemu-kvm:1.0+noroms-0ubuntu14.26
 #
 # CVE List:
 #   - CVE-2015-3456
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2608-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu-kvm=1.0+noroms-0ubuntu14.25 -y
+sudo apt-get install --only-upgrade qemu-kvm=1.0+noroms-0ubuntu14.26 -y
