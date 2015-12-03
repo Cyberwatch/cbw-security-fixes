@@ -4,7 +4,7 @@
 # Security fix for DLA-248-1
 #
 # Security announcement date: 2015-06-19 00:00:00 UTC
-# Script generation date:     2015-12-02 19:06:52 UTC
+# Script generation date:     2015-12-03 07:06:59 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - qemu:0.12.5+dfsg-3squeeze5
 #
 # Last versions recommanded by security team:
-#   - qemu:0.12.5+dfsg-3squeeze4
+#   - qemu:0.12.5+dfsg-3squeeze5
 #
 # CVE List:
 #   - CVE-2015-3456
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-248-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu=0.12.5+dfsg-3squeeze4 -y
+sudo apt-get install --only-upgrade qemu=0.12.5+dfsg-3squeeze5 -y
