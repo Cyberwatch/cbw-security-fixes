@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0841
 #
 # Security announcement date: 2012-07-10 17:16:48 UTC
-# Script generation date:     2015-11-12 19:18:48 UTC
+# Script generation date:     2015-12-03 07:08:57 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -52,19 +52,19 @@
 #   - btparser:0.16-3.el6
 #   - btparser-devel:0.16-3.el6
 #   - btparser-python:0.16-3.el6
-#   - libreport:2.0.9-5.el6.centos.2
-#   - libreport-cli:2.0.9-5.el6.centos.2
-#   - libreport-devel:2.0.9-5.el6.centos.2
-#   - libreport-gtk:2.0.9-5.el6.centos.2
-#   - libreport-gtk-devel:2.0.9-5.el6.centos.2
-#   - libreport-newt:2.0.9-5.el6.centos.2
-#   - libreport-plugin-bugzilla:2.0.9-5.el6.centos.2
-#   - libreport-plugin-kerneloops:2.0.9-5.el6.centos.2
-#   - libreport-plugin-logger:2.0.9-5.el6.centos.2
-#   - libreport-plugin-mailx:2.0.9-5.el6.centos.2
-#   - libreport-plugin-reportuploader:2.0.9-5.el6.centos.2
-#   - libreport-plugin-rhtsupport:2.0.9-5.el6.centos.2
-#   - libreport-python:2.0.9-5.el6.centos.2
+#   - libreport:2.0.9-25.el6.centos
+#   - libreport-cli:2.0.9-25.el6.centos
+#   - libreport-devel:2.0.9-25.el6.centos
+#   - libreport-gtk:2.0.9-25.el6.centos
+#   - libreport-gtk-devel:2.0.9-25.el6.centos
+#   - libreport-newt:2.0.9-25.el6.centos
+#   - libreport-plugin-bugzilla:2.0.9-25.el6.centos
+#   - libreport-plugin-kerneloops:2.0.9-25.el6.centos
+#   - libreport-plugin-logger:2.0.9-25.el6.centos
+#   - libreport-plugin-mailx:2.0.9-25.el6.centos
+#   - libreport-plugin-reportuploader:2.0.9-25.el6.centos
+#   - libreport-plugin-rhtsupport:2.0.9-25.el6.centos
+#   - libreport-python:2.0.9-25.el6.centos
 #
 # CVE List:
 #   - CVE-2012-1106
