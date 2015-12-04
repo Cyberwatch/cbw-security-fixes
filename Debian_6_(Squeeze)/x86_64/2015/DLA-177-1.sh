@@ -4,7 +4,7 @@
 # Security fix for DLA-177-1
 #
 # Security announcement date: 2015-03-20 00:00:00 UTC
-# Script generation date:     2015-12-03 07:06:56 UTC
+# Script generation date:     2015-12-04 07:06:27 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - openssl:0.9.8o-4squeeze20
 #
 # Last versions recommanded by security team:
-#   - openssl:0.9.8o-4squeeze21
+#   - openssl:0.9.8o-4squeeze22
 #
 # CVE List:
 #   - CVE-2015-0209
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-177-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze21 -y
+sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze22 -y
