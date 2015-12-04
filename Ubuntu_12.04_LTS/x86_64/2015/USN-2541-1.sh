@@ -4,18 +4,28 @@
 # Security fix for USN-2541-1
 #
 # Security announcement date: 2015-03-24 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:04 UTC
+# Script generation date:     2015-12-04 08:49:03 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - linux-image-3.2.0-79-omap:3.2.0-79.115
 #   - linux-image-3.2.0-79-generic:3.2.0-79.115
+#   - linux-image-3.2.0-79-powerpc-smp:3.2.0-79.115
+#   - linux-image-3.2.0-79-powerpc64-smp:3.2.0-79.115
 #   - linux-image-3.2.0-79-virtual:3.2.0-79.115
+#   - linux-image-3.2.0-79-generic-pae:3.2.0-79.115
+#   - linux-image-3.2.0-79-highbank:3.2.0-79.115
 #
 # Last versions recommanded by security team:
+#   - linux-image-3.2.0-79-omap:3.2.0-79.115
 #   - linux-image-3.2.0-79-generic:3.2.0-79.115
+#   - linux-image-3.2.0-79-powerpc-smp:3.2.0-79.115
+#   - linux-image-3.2.0-79-powerpc64-smp:3.2.0-79.115
 #   - linux-image-3.2.0-79-virtual:3.2.0-79.115
+#   - linux-image-3.2.0-79-generic-pae:3.2.0-79.115
+#   - linux-image-3.2.0-79-highbank:3.2.0-79.115
 #
 # CVE List:
 #   - CVE-2014-7822
@@ -31,5 +41,10 @@
 #   - https://www.cyberwatch.fr/notices/USN-2541-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade linux-image-3.2.0-79-omap=3.2.0-79.115 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-79-generic=3.2.0-79.115 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-79-powerpc-smp=3.2.0-79.115 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-79-powerpc64-smp=3.2.0-79.115 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-79-virtual=3.2.0-79.115 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-79-generic-pae=3.2.0-79.115 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-79-highbank=3.2.0-79.115 -y

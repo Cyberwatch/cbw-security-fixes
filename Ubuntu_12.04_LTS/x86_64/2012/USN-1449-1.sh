@@ -4,15 +4,17 @@
 # Security fix for USN-1449-1
 #
 # Security announcement date: 2012-05-22 00:00:00 UTC
-# Script generation date:     2015-09-10 10:17:16 UTC
+# Script generation date:     2015-12-04 08:47:41 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - python3-feedparser:5.1-0ubuntu3.1
 #   - python-feedparser:5.1-0ubuntu3.1
 #
 # Last versions recommanded by security team:
+#   - python3-feedparser:5.1-0ubuntu3.1
 #   - python-feedparser:5.1-0ubuntu3.1
 #
 # CVE List:
@@ -22,4 +24,5 @@
 #   - https://www.cyberwatch.fr/notices/USN-1449-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade python3-feedparser=5.1-0ubuntu3.1 -y
 sudo apt-get install --only-upgrade python-feedparser=5.1-0ubuntu3.1 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2501-1
 #
 # Security announcement date: 2015-02-17 00:00:00 UTC
-# Script generation date:     2015-11-05 19:02:14 UTC
+# Script generation date:     2015-12-04 08:48:53 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,12 +13,14 @@
 #   - php5-cli:5.5.9+dfsg-1ubuntu4.6
 #   - php5-cgi:5.5.9+dfsg-1ubuntu4.6
 #   - libapache2-mod-php5:5.5.9+dfsg-1ubuntu4.6
+#   - php5-fpm:5.5.9+dfsg-1ubuntu4.6
 #   - php5-pgsql:5.5.9+dfsg-1ubuntu4.6
 #
 # Last versions recommanded by security team:
 #   - php5-cli:5.5.9+dfsg-1ubuntu4.14
 #   - php5-cgi:5.5.9+dfsg-1ubuntu4.14
 #   - libapache2-mod-php5:5.5.9+dfsg-1ubuntu4.14
+#   - php5-fpm:5.5.9+dfsg-1ubuntu4.6
 #   - php5-pgsql:5.5.9+dfsg-1ubuntu4.14
 #
 # CVE List:
@@ -37,4 +39,5 @@
 sudo apt-get install --only-upgrade php5-cli=5.5.9+dfsg-1ubuntu4.14 -y
 sudo apt-get install --only-upgrade php5-cgi=5.5.9+dfsg-1ubuntu4.14 -y
 sudo apt-get install --only-upgrade libapache2-mod-php5=5.5.9+dfsg-1ubuntu4.14 -y
+sudo apt-get install --only-upgrade php5-fpm=5.5.9+dfsg-1ubuntu4.6 -y
 sudo apt-get install --only-upgrade php5-pgsql=5.5.9+dfsg-1ubuntu4.14 -y

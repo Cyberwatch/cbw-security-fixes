@@ -4,20 +4,28 @@
 # Security fix for USN-2417-1
 #
 # Security announcement date: 2014-11-24 00:00:00 UTC
-# Script generation date:     2015-09-10 10:17:46 UTC
+# Script generation date:     2015-12-04 08:48:41 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
+#   - linux-image-3.2.0-72-omap:3.2.0-72.107
+#   - linux-image-3.2.0-72-powerpc-smp:3.2.0-72.107
 #   - linux-image-3.2.0-72-generic-pae:3.2.0-72.107
 #   - linux-image-3.2.0-72-virtual:3.2.0-72.107
+#   - linux-image-3.2.0-72-highbank:3.2.0-72.107
 #   - linux-image-3.2.0-72-generic:3.2.0-72.107
+#   - linux-image-3.2.0-72-powerpc64-smp:3.2.0-72.107
 #
 # Last versions recommanded by security team:
+#   - linux-image-3.2.0-72-omap:3.2.0-72.107
+#   - linux-image-3.2.0-72-powerpc-smp:3.2.0-72.107
 #   - linux-image-3.2.0-72-generic-pae:3.2.0-72.107
 #   - linux-image-3.2.0-72-virtual:3.2.0-72.107
+#   - linux-image-3.2.0-72-highbank:3.2.0-72.107
 #   - linux-image-3.2.0-72-generic:3.2.0-72.107
+#   - linux-image-3.2.0-72-powerpc64-smp:3.2.0-72.107
 #
 # CVE List:
 #   - CVE-2014-3647
@@ -37,6 +45,10 @@
 #   - https://www.cyberwatch.fr/notices/USN-2417-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade linux-image-3.2.0-72-omap=3.2.0-72.107 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-72-powerpc-smp=3.2.0-72.107 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-72-generic-pae=3.2.0-72.107 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-72-virtual=3.2.0-72.107 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-72-highbank=3.2.0-72.107 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-72-generic=3.2.0-72.107 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-72-powerpc64-smp=3.2.0-72.107 -y

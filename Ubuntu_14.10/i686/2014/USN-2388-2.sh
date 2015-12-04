@@ -4,17 +4,21 @@
 # Security fix for USN-2388-2
 #
 # Security announcement date: 2014-10-23 00:00:00 UTC
-# Script generation date:     2015-11-05 19:02:00 UTC
+# Script generation date:     2015-12-04 08:48:37 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: i686
 #
 # Vulnerable packages fix on version:
+#   - openjdk-7-jre-lib:7u71-2.5.3-0ubuntu1
+#   - openjdk-7-jre-zero:7u71-2.5.3-0ubuntu1
 #   - icedtea-7-jre-jamvm:7u71-2.5.3-0ubuntu1
 #   - openjdk-7-jre-headless:7u71-2.5.3-0ubuntu1
 #   - openjdk-7-jre:7u71-2.5.3-0ubuntu1
 #
 # Last versions recommanded by security team:
+#   - openjdk-7-jre-lib:7u71-2.5.3-0ubuntu1
+#   - openjdk-7-jre-zero:7u71-2.5.3-0ubuntu1
 #   - icedtea-7-jre-jamvm:7u79-2.5.5-0ubuntu0.14.10.2
 #   - openjdk-7-jre-headless:7u79-2.5.5-0ubuntu0.14.10.2
 #   - openjdk-7-jre:7u79-2.5.5-0ubuntu0.14.10.2
@@ -37,6 +41,8 @@
 #   - https://www.cyberwatch.fr/notices/USN-2388-2
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade openjdk-7-jre-lib=7u71-2.5.3-0ubuntu1 -y
+sudo apt-get install --only-upgrade openjdk-7-jre-zero=7u71-2.5.3-0ubuntu1 -y
 sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u79-2.5.5-0ubuntu0.14.10.2 -y
 sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u79-2.5.5-0ubuntu0.14.10.2 -y
 sudo apt-get install --only-upgrade openjdk-7-jre=7u79-2.5.5-0ubuntu0.14.10.2 -y

@@ -4,17 +4,27 @@
 # Security fix for USN-1473-1
 #
 # Security announcement date: 2012-06-13 00:00:00 UTC
-# Script generation date:     2015-09-10 10:17:17 UTC
+# Script generation date:     2015-12-04 08:47:42 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - linux-image-3.2.0-25-powerpc64-smp:3.2.0-25.40
+#   - linux-image-3.2.0-25-powerpc-smp:3.2.0-25.40
+#   - linux-image-3.2.0-25-generic-pae:3.2.0-25.40
 #   - linux-image-3.2.0-25-virtual:3.2.0-25.40
+#   - linux-image-3.2.0-25-highbank:3.2.0-25.40
+#   - linux-image-3.2.0-25-omap:3.2.0-25.40
 #   - linux-image-3.2.0-25-generic:3.2.0-25.40
 #
 # Last versions recommanded by security team:
+#   - linux-image-3.2.0-25-powerpc64-smp:3.2.0-25.40
+#   - linux-image-3.2.0-25-powerpc-smp:3.2.0-25.40
+#   - linux-image-3.2.0-25-generic-pae:3.2.0-25.40
 #   - linux-image-3.2.0-25-virtual:3.2.0-25.40
+#   - linux-image-3.2.0-25-highbank:3.2.0-25.40
+#   - linux-image-3.2.0-25-omap:3.2.0-25.40
 #   - linux-image-3.2.0-25-generic:3.2.0-25.40
 #
 # CVE List:
@@ -29,5 +39,10 @@
 #   - https://www.cyberwatch.fr/notices/USN-1473-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade linux-image-3.2.0-25-powerpc64-smp=3.2.0-25.40 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-25-powerpc-smp=3.2.0-25.40 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-25-generic-pae=3.2.0-25.40 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-25-virtual=3.2.0-25.40 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-25-highbank=3.2.0-25.40 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-25-omap=3.2.0-25.40 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-25-generic=3.2.0-25.40 -y

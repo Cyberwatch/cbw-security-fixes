@@ -4,15 +4,17 @@
 # Security fix for USN-2547-1
 #
 # Security announcement date: 2015-03-24 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:04 UTC
+# Script generation date:     2015-12-04 08:49:03 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - libmono-2.0-1:3.2.8+dfsg-4ubuntu2.1
 #   - mono-runtime:3.2.8+dfsg-4ubuntu2.1
 #
 # Last versions recommanded by security team:
+#   - libmono-2.0-1:3.2.8+dfsg-4ubuntu2.1
 #   - mono-runtime:3.2.8+dfsg-4ubuntu2.1
 #
 # CVE List:
@@ -26,4 +28,5 @@
 #   - https://www.cyberwatch.fr/notices/USN-2547-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade libmono-2.0-1=3.2.8+dfsg-4ubuntu2.1 -y
 sudo apt-get install --only-upgrade mono-runtime=3.2.8+dfsg-4ubuntu2.1 -y

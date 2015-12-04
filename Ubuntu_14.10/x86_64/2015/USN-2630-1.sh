@@ -4,7 +4,7 @@
 # Security fix for USN-2630-1
 #
 # Security announcement date: 2015-06-10 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:14 UTC
+# Script generation date:     2015-12-04 08:49:16 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -12,6 +12,7 @@
 # Vulnerable packages fix on version:
 #   - qemu-system-misc:2.1+dfsg-4ubuntu6.7
 #   - qemu-system:2.1+dfsg-4ubuntu6.7
+#   - qemu-system-aarch64:2.1+dfsg-4ubuntu6.7
 #   - qemu-system-x86:2.1+dfsg-4ubuntu6.7
 #   - qemu-system-sparc:2.1+dfsg-4ubuntu6.7
 #   - qemu-system-arm:2.1+dfsg-4ubuntu6.7
@@ -21,6 +22,7 @@
 # Last versions recommanded by security team:
 #   - qemu-system-misc:2.1+dfsg-4ubuntu6.7
 #   - qemu-system:2.1+dfsg-4ubuntu6.7
+#   - qemu-system-aarch64:2.1+dfsg-4ubuntu6.7
 #   - qemu-system-x86:2.1+dfsg-4ubuntu6.7
 #   - qemu-system-sparc:2.1+dfsg-4ubuntu6.7
 #   - qemu-system-arm:2.1+dfsg-4ubuntu6.7
@@ -41,6 +43,7 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade qemu-system-misc=2.1+dfsg-4ubuntu6.7 -y
 sudo apt-get install --only-upgrade qemu-system=2.1+dfsg-4ubuntu6.7 -y
+sudo apt-get install --only-upgrade qemu-system-aarch64=2.1+dfsg-4ubuntu6.7 -y
 sudo apt-get install --only-upgrade qemu-system-x86=2.1+dfsg-4ubuntu6.7 -y
 sudo apt-get install --only-upgrade qemu-system-sparc=2.1+dfsg-4ubuntu6.7 -y
 sudo apt-get install --only-upgrade qemu-system-arm=2.1+dfsg-4ubuntu6.7 -y

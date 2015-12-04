@@ -4,18 +4,28 @@
 # Security fix for USN-1644-1
 #
 # Security announcement date: 2012-11-30 00:00:00 UTC
-# Script generation date:     2015-09-10 10:17:21 UTC
+# Script generation date:     2015-12-04 08:47:51 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - linux-image-3.2.0-34-virtual:3.2.0-34.53
+#   - linux-image-3.2.0-34-generic-pae:3.2.0-34.53
+#   - linux-image-3.2.0-34-powerpc-smp:3.2.0-34.53
+#   - linux-image-3.2.0-34-powerpc64-smp:3.2.0-34.53
+#   - linux-image-3.2.0-34-omap:3.2.0-34.53
 #   - linux-image-3.2.0-34-generic:3.2.0-34.53
+#   - linux-image-3.2.0-34-highbank:3.2.0-34.53
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-34-virtual:3.2.0-34.53
+#   - linux-image-3.2.0-34-generic-pae:3.2.0-34.53
+#   - linux-image-3.2.0-34-powerpc-smp:3.2.0-34.53
+#   - linux-image-3.2.0-34-powerpc64-smp:3.2.0-34.53
+#   - linux-image-3.2.0-34-omap:3.2.0-34.53
 #   - linux-image-3.2.0-34-generic:3.2.0-34.53
+#   - linux-image-3.2.0-34-highbank:3.2.0-34.53
 #
 # CVE List:
 #   - CVE-2012-0957
@@ -34,4 +44,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-34-virtual=3.2.0-34.53 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-34-generic-pae=3.2.0-34.53 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-34-powerpc-smp=3.2.0-34.53 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-34-powerpc64-smp=3.2.0-34.53 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-34-omap=3.2.0-34.53 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-34-generic=3.2.0-34.53 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-34-highbank=3.2.0-34.53 -y

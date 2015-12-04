@@ -4,7 +4,7 @@
 # Security fix for USN-2109-1
 #
 # Security announcement date: 2014-02-18 00:00:00 UTC
-# Script generation date:     2015-09-10 10:17:31 UTC
+# Script generation date:     2015-12-04 08:48:13 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,11 +13,19 @@
 #   - linux-image-3.2.0-59-generic:3.2.0-59.90
 #   - linux-image-3.2.0-59-virtual:3.2.0-59.90
 #   - linux-image-3.2.0-59-generic-pae:3.2.0-59.90
+#   - linux-image-3.2.0-59-powerpc64-smp:3.2.0-59.90
+#   - linux-image-3.2.0-59-highbank:3.2.0-59.90
+#   - linux-image-3.2.0-59-omap:3.2.0-59.90
+#   - linux-image-3.2.0-59-powerpc-smp:3.2.0-59.90
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-59-generic:3.2.0-59.90
 #   - linux-image-3.2.0-59-virtual:3.2.0-59.90
 #   - linux-image-3.2.0-59-generic-pae:3.2.0-59.90
+#   - linux-image-3.2.0-59-powerpc64-smp:3.2.0-59.90
+#   - linux-image-3.2.0-59-highbank:3.2.0-59.90
+#   - linux-image-3.2.0-59-omap:3.2.0-59.90
+#   - linux-image-3.2.0-59-powerpc-smp:3.2.0-59.90
 #
 # CVE List:
 #   - CVE-2013-2929
@@ -45,3 +53,7 @@
 sudo apt-get install --only-upgrade linux-image-3.2.0-59-generic=3.2.0-59.90 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-59-virtual=3.2.0-59.90 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-59-generic-pae=3.2.0-59.90 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-59-powerpc64-smp=3.2.0-59.90 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-59-highbank=3.2.0-59.90 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-59-omap=3.2.0-59.90 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-59-powerpc-smp=3.2.0-59.90 -y

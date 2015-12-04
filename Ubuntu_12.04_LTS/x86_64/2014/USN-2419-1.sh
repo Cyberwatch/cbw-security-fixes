@@ -4,15 +4,17 @@
 # Security fix for USN-2419-1
 #
 # Security announcement date: 2014-11-24 00:00:00 UTC
-# Script generation date:     2015-09-10 10:17:46 UTC
+# Script generation date:     2015-12-04 08:48:41 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - linux-image-3.13.0-40-generic-lpae:3.13.0-40.69~precise1
 #   - linux-image-3.13.0-40-generic:3.13.0-40.69~precise1
 #
 # Last versions recommanded by security team:
+#   - linux-image-3.13.0-40-generic-lpae:3.13.0-40.69~precise1
 #   - linux-image-3.13.0-40-generic:3.13.0-40.69~precise1
 #
 # CVE List:
@@ -25,4 +27,5 @@
 #   - https://www.cyberwatch.fr/notices/USN-2419-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade linux-image-3.13.0-40-generic-lpae=3.13.0-40.69~precise1 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-40-generic=3.13.0-40.69~precise1 -y

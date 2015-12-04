@@ -4,7 +4,7 @@
 # Security fix for USN-2692-1
 #
 # Security announcement date: 2015-07-28 00:00:00 UTC
-# Script generation date:     2015-12-03 19:01:32 UTC
+# Script generation date:     2015-12-04 08:49:26 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: x86_64
@@ -12,6 +12,7 @@
 # Vulnerable packages fix on version:
 #   - qemu-system-misc:1:2.2+dfsg-5expubuntu9.3
 #   - qemu-system:1:2.2+dfsg-5expubuntu9.3
+#   - qemu-system-aarch64:1:2.2+dfsg-5expubuntu9.3
 #   - qemu-system-x86:1:2.2+dfsg-5expubuntu9.3
 #   - qemu-system-sparc:1:2.2+dfsg-5expubuntu9.3
 #   - qemu-system-arm:1:2.2+dfsg-5expubuntu9.3
@@ -21,6 +22,7 @@
 # Last versions recommanded by security team:
 #   - qemu-system-misc:1:2.2+dfsg-5expubuntu9.7
 #   - qemu-system:1:2.2+dfsg-5expubuntu9.7
+#   - qemu-system-aarch64:1:2.2+dfsg-5expubuntu9.3
 #   - qemu-system-x86:1:2.2+dfsg-5expubuntu9.7
 #   - qemu-system-sparc:1:2.2+dfsg-5expubuntu9.7
 #   - qemu-system-arm:1:2.2+dfsg-5expubuntu9.7
@@ -38,6 +40,7 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade qemu-system-misc=1:2.2+dfsg-5expubuntu9.7 -y
 sudo apt-get install --only-upgrade qemu-system=1:2.2+dfsg-5expubuntu9.7 -y
+sudo apt-get install --only-upgrade qemu-system-aarch64=1:2.2+dfsg-5expubuntu9.3 -y
 sudo apt-get install --only-upgrade qemu-system-x86=1:2.2+dfsg-5expubuntu9.7 -y
 sudo apt-get install --only-upgrade qemu-system-sparc=1:2.2+dfsg-5expubuntu9.7 -y
 sudo apt-get install --only-upgrade qemu-system-arm=1:2.2+dfsg-5expubuntu9.7 -y

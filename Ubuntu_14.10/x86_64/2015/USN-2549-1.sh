@@ -4,15 +4,17 @@
 # Security fix for USN-2549-1
 #
 # Security announcement date: 2015-03-25 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:05 UTC
+# Script generation date:     2015-12-04 08:49:04 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - bsdcpio:3.1.2-9ubuntu0.1
 #   - libarchive13:3.1.2-9ubuntu0.1
 #
 # Last versions recommanded by security team:
+#   - bsdcpio:3.1.2-9ubuntu0.1
 #   - libarchive13:3.1.2-9ubuntu0.1
 #
 # CVE List:
@@ -23,4 +25,5 @@
 #   - https://www.cyberwatch.fr/notices/USN-2549-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade bsdcpio=3.1.2-9ubuntu0.1 -y
 sudo apt-get install --only-upgrade libarchive13=3.1.2-9ubuntu0.1 -y

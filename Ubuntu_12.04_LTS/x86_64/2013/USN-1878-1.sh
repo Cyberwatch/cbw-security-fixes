@@ -4,17 +4,27 @@
 # Security fix for USN-1878-1
 #
 # Security announcement date: 2013-06-14 00:00:00 UTC
-# Script generation date:     2015-09-10 10:17:25 UTC
+# Script generation date:     2015-12-04 08:48:01 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - linux-image-3.2.0-48-highbank:3.2.0-48.74
+#   - linux-image-3.2.0-48-powerpc-smp:3.2.0-48.74
+#   - linux-image-3.2.0-48-powerpc64-smp:3.2.0-48.74
 #   - linux-image-3.2.0-48-virtual:3.2.0-48.74
+#   - linux-image-3.2.0-48-generic-pae:3.2.0-48.74
+#   - linux-image-3.2.0-48-omap:3.2.0-48.74
 #   - linux-image-3.2.0-48-generic:3.2.0-48.74
 #
 # Last versions recommanded by security team:
+#   - linux-image-3.2.0-48-highbank:3.2.0-48.74
+#   - linux-image-3.2.0-48-powerpc-smp:3.2.0-48.74
+#   - linux-image-3.2.0-48-powerpc64-smp:3.2.0-48.74
 #   - linux-image-3.2.0-48-virtual:3.2.0-48.74
+#   - linux-image-3.2.0-48-generic-pae:3.2.0-48.74
+#   - linux-image-3.2.0-48-omap:3.2.0-48.74
 #   - linux-image-3.2.0-48-generic:3.2.0-48.74
 #
 # CVE List:
@@ -37,5 +47,10 @@
 #   - https://www.cyberwatch.fr/notices/USN-1878-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade linux-image-3.2.0-48-highbank=3.2.0-48.74 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-48-powerpc-smp=3.2.0-48.74 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-48-powerpc64-smp=3.2.0-48.74 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-48-virtual=3.2.0-48.74 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-48-generic-pae=3.2.0-48.74 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-48-omap=3.2.0-48.74 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-48-generic=3.2.0-48.74 -y

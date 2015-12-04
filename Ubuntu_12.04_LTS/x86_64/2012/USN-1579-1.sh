@@ -4,18 +4,28 @@
 # Security fix for USN-1579-1
 #
 # Security announcement date: 2012-09-21 00:00:00 UTC
-# Script generation date:     2015-09-10 10:17:19 UTC
+# Script generation date:     2015-12-04 08:47:47 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - linux-image-3.2.0-31-highbank:3.2.0-31.50
+#   - linux-image-3.2.0-31-omap:3.2.0-31.50
+#   - linux-image-3.2.0-31-generic-pae:3.2.0-31.50
+#   - linux-image-3.2.0-31-powerpc64-smp:3.2.0-31.50
 #   - linux-image-3.2.0-31-virtual:3.2.0-31.50
 #   - linux-image-3.2.0-31-generic:3.2.0-31.50
+#   - linux-image-3.2.0-31-powerpc-smp:3.2.0-31.50
 #
 # Last versions recommanded by security team:
+#   - linux-image-3.2.0-31-highbank:3.2.0-31.50
+#   - linux-image-3.2.0-31-omap:3.2.0-31.50
+#   - linux-image-3.2.0-31-generic-pae:3.2.0-31.50
+#   - linux-image-3.2.0-31-powerpc64-smp:3.2.0-31.50
 #   - linux-image-3.2.0-31-virtual:3.2.0-31.50
 #   - linux-image-3.2.0-31-generic:3.2.0-31.50
+#   - linux-image-3.2.0-31-powerpc-smp:3.2.0-31.50
 #
 # CVE List:
 #   - CVE-2012-3412
@@ -28,5 +38,10 @@
 #   - https://www.cyberwatch.fr/notices/USN-1579-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade linux-image-3.2.0-31-highbank=3.2.0-31.50 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-31-omap=3.2.0-31.50 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-31-generic-pae=3.2.0-31.50 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-31-powerpc64-smp=3.2.0-31.50 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-31-virtual=3.2.0-31.50 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-31-generic=3.2.0-31.50 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-31-powerpc-smp=3.2.0-31.50 -y

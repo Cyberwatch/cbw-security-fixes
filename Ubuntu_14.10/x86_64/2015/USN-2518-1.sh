@@ -4,18 +4,28 @@
 # Security fix for USN-2518-1
 #
 # Security announcement date: 2015-02-26 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:00 UTC
+# Script generation date:     2015-12-04 08:48:55 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - linux-image-3.16.0-31-powerpc64-smp:3.16.0-31.41
 #   - linux-image-3.16.0-31-generic:3.16.0-31.41
+#   - linux-image-3.16.0-31-powerpc64-emb:3.16.0-31.41
+#   - linux-image-3.16.0-31-powerpc-smp:3.16.0-31.41
+#   - linux-image-3.16.0-31-generic-lpae:3.16.0-31.41
 #   - linux-image-3.16.0-31-lowlatency:3.16.0-31.41
+#   - linux-image-3.16.0-31-powerpc-e500mc:3.16.0-31.41
 #
 # Last versions recommanded by security team:
+#   - linux-image-3.16.0-31-powerpc64-smp:3.16.0-31.41
 #   - linux-image-3.16.0-31-generic:3.16.0-31.43
+#   - linux-image-3.16.0-31-powerpc64-emb:3.16.0-31.41
+#   - linux-image-3.16.0-31-powerpc-smp:3.16.0-31.41
+#   - linux-image-3.16.0-31-generic-lpae:3.16.0-31.41
 #   - linux-image-3.16.0-31-lowlatency:3.16.0-31.43
+#   - linux-image-3.16.0-31-powerpc-e500mc:3.16.0-31.41
 #
 # CVE List:
 #   - CVE-2015-0239
@@ -39,5 +49,10 @@
 #   - https://www.cyberwatch.fr/notices/USN-2518-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade linux-image-3.16.0-31-powerpc64-smp=3.16.0-31.41 -y
 sudo apt-get install --only-upgrade linux-image-3.16.0-31-generic=3.16.0-31.43 -y
+sudo apt-get install --only-upgrade linux-image-3.16.0-31-powerpc64-emb=3.16.0-31.41 -y
+sudo apt-get install --only-upgrade linux-image-3.16.0-31-powerpc-smp=3.16.0-31.41 -y
+sudo apt-get install --only-upgrade linux-image-3.16.0-31-generic-lpae=3.16.0-31.41 -y
 sudo apt-get install --only-upgrade linux-image-3.16.0-31-lowlatency=3.16.0-31.43 -y
+sudo apt-get install --only-upgrade linux-image-3.16.0-31-powerpc-e500mc=3.16.0-31.41 -y

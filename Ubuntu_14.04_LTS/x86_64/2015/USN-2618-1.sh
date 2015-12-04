@@ -4,15 +4,17 @@
 # Security fix for USN-2618-1
 #
 # Security announcement date: 2015-05-21 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:12 UTC
+# Script generation date:     2015-12-04 08:49:14 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - python-dbusmock:0.10.1-1ubuntu1
 #   - python3-dbusmock:0.10.1-1ubuntu1
 #
 # Last versions recommanded by security team:
+#   - python-dbusmock:0.10.1-1ubuntu1
 #   - python3-dbusmock:0.10.1-1ubuntu1
 #
 # CVE List:
@@ -22,4 +24,5 @@
 #   - https://www.cyberwatch.fr/notices/USN-2618-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade python-dbusmock=0.10.1-1ubuntu1 -y
 sudo apt-get install --only-upgrade python3-dbusmock=0.10.1-1ubuntu1 -y

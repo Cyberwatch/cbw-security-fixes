@@ -4,20 +4,28 @@
 # Security fix for USN-2133-1
 #
 # Security announcement date: 2014-03-07 00:00:00 UTC
-# Script generation date:     2015-09-10 10:17:32 UTC
+# Script generation date:     2015-12-04 08:48:15 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - linux-image-3.2.0-60-generic-pae:3.2.0-60.91
+#   - linux-image-3.2.0-60-powerpc64-smp:3.2.0-60.91
+#   - linux-image-3.2.0-60-highbank:3.2.0-60.91
 #   - linux-image-3.2.0-60-virtual:3.2.0-60.91
 #   - linux-image-3.2.0-60-generic:3.2.0-60.91
+#   - linux-image-3.2.0-60-powerpc-smp:3.2.0-60.91
+#   - linux-image-3.2.0-60-omap:3.2.0-60.91
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-60-generic-pae:3.2.0-60.91
+#   - linux-image-3.2.0-60-powerpc64-smp:3.2.0-60.91
+#   - linux-image-3.2.0-60-highbank:3.2.0-60.91
 #   - linux-image-3.2.0-60-virtual:3.2.0-60.91
 #   - linux-image-3.2.0-60-generic:3.2.0-60.91
+#   - linux-image-3.2.0-60-powerpc-smp:3.2.0-60.91
+#   - linux-image-3.2.0-60-omap:3.2.0-60.91
 #
 # CVE List:
 #   - CVE-2013-4579
@@ -32,5 +40,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-60-generic-pae=3.2.0-60.91 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-60-powerpc64-smp=3.2.0-60.91 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-60-highbank=3.2.0-60.91 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-60-virtual=3.2.0-60.91 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-60-generic=3.2.0-60.91 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-60-powerpc-smp=3.2.0-60.91 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-60-omap=3.2.0-60.91 -y

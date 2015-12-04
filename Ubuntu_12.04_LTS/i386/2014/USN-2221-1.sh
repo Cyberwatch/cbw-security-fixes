@@ -4,19 +4,27 @@
 # Security fix for USN-2221-1
 #
 # Security announcement date: 2014-05-26 00:00:00 UTC
-# Script generation date:     2015-09-10 10:17:34 UTC
+# Script generation date:     2015-12-04 08:48:21 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - linux-image-3.2.0-63-generic-pae:3.2.0-63.95
+#   - linux-image-3.2.0-63-omap:3.2.0-63.95
+#   - linux-image-3.2.0-63-powerpc-smp:3.2.0-63.95
+#   - linux-image-3.2.0-63-powerpc64-smp:3.2.0-63.95
 #   - linux-image-3.2.0-63-generic:3.2.0-63.95
+#   - linux-image-3.2.0-63-highbank:3.2.0-63.95
 #   - linux-image-3.2.0-63-virtual:3.2.0-63.95
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-63-generic-pae:3.2.0-63.95
+#   - linux-image-3.2.0-63-omap:3.2.0-63.95
+#   - linux-image-3.2.0-63-powerpc-smp:3.2.0-63.95
+#   - linux-image-3.2.0-63-powerpc64-smp:3.2.0-63.95
 #   - linux-image-3.2.0-63-generic:3.2.0-63.95
+#   - linux-image-3.2.0-63-highbank:3.2.0-63.95
 #   - linux-image-3.2.0-63-virtual:3.2.0-63.95
 #
 # CVE List:
@@ -39,5 +47,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-63-generic-pae=3.2.0-63.95 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-63-omap=3.2.0-63.95 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-63-powerpc-smp=3.2.0-63.95 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-63-powerpc64-smp=3.2.0-63.95 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-63-generic=3.2.0-63.95 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-63-highbank=3.2.0-63.95 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-63-virtual=3.2.0-63.95 -y

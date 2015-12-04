@@ -4,7 +4,7 @@
 # Security fix for USN-2386-1
 #
 # Security announcement date: 2014-10-16 00:00:00 UTC
-# Script generation date:     2015-12-03 19:00:55 UTC
+# Script generation date:     2015-12-04 08:48:37 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -14,6 +14,7 @@
 #   - icedtea-6-jre-jamvm:6b33-1.13.5-1ubuntu0.12.04
 #   - openjdk-6-jre:6b33-1.13.5-1ubuntu0.12.04
 #   - openjdk-6-jre-headless:6b33-1.13.5-1ubuntu0.12.04
+#   - openjdk-6-jre-zero:6b33-1.13.5-1ubuntu0.12.04
 #   - openjdk-6-jre-lib:6b33-1.13.5-1ubuntu0.12.04
 #
 # Last versions recommanded by security team:
@@ -21,6 +22,7 @@
 #   - icedtea-6-jre-jamvm:6b37-1.13.9-1ubuntu0.12.04.1
 #   - openjdk-6-jre:6b37-1.13.9-1ubuntu0.12.04.1
 #   - openjdk-6-jre-headless:6b37-1.13.9-1ubuntu0.12.04.1
+#   - openjdk-6-jre-zero:6b33-1.13.5-1ubuntu0.12.04
 #   - openjdk-6-jre-lib:6b37-1.13.9-1ubuntu0.12.04.1
 #
 # CVE List:
@@ -44,4 +46,5 @@ sudo apt-get install --only-upgrade icedtea-6-jre-cacao=6b37-1.13.9-1ubuntu0.12.
 sudo apt-get install --only-upgrade icedtea-6-jre-jamvm=6b37-1.13.9-1ubuntu0.12.04.1 -y
 sudo apt-get install --only-upgrade openjdk-6-jre=6b37-1.13.9-1ubuntu0.12.04.1 -y
 sudo apt-get install --only-upgrade openjdk-6-jre-headless=6b37-1.13.9-1ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jre-zero=6b33-1.13.5-1ubuntu0.12.04 -y
 sudo apt-get install --only-upgrade openjdk-6-jre-lib=6b37-1.13.9-1ubuntu0.12.04.1 -y

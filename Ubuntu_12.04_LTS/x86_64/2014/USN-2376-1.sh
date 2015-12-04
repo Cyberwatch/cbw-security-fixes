@@ -4,17 +4,27 @@
 # Security fix for USN-2376-1
 #
 # Security announcement date: 2014-10-09 00:00:00 UTC
-# Script generation date:     2015-09-10 10:17:42 UTC
+# Script generation date:     2015-12-04 08:48:36 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - linux-image-3.2.0-70-generic-pae:3.2.0-70.105
+#   - linux-image-3.2.0-70-omap:3.2.0-70.105
+#   - linux-image-3.2.0-70-powerpc-smp:3.2.0-70.105
+#   - linux-image-3.2.0-70-powerpc64-smp:3.2.0-70.105
 #   - linux-image-3.2.0-70-generic:3.2.0-70.105
+#   - linux-image-3.2.0-70-highbank:3.2.0-70.105
 #   - linux-image-3.2.0-70-virtual:3.2.0-70.105
 #
 # Last versions recommanded by security team:
+#   - linux-image-3.2.0-70-generic-pae:3.2.0-70.105
+#   - linux-image-3.2.0-70-omap:3.2.0-70.105
+#   - linux-image-3.2.0-70-powerpc-smp:3.2.0-70.105
+#   - linux-image-3.2.0-70-powerpc64-smp:3.2.0-70.105
 #   - linux-image-3.2.0-70-generic:3.2.0-70.105
+#   - linux-image-3.2.0-70-highbank:3.2.0-70.105
 #   - linux-image-3.2.0-70-virtual:3.2.0-70.105
 #
 # CVE List:
@@ -32,5 +42,10 @@
 #   - https://www.cyberwatch.fr/notices/USN-2376-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade linux-image-3.2.0-70-generic-pae=3.2.0-70.105 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-70-omap=3.2.0-70.105 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-70-powerpc-smp=3.2.0-70.105 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-70-powerpc64-smp=3.2.0-70.105 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-70-generic=3.2.0-70.105 -y
+sudo apt-get install --only-upgrade linux-image-3.2.0-70-highbank=3.2.0-70.105 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-70-virtual=3.2.0-70.105 -y

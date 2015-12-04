@@ -3,17 +3,21 @@
 # Security fix for USN-2784-1
 #
 # Security announcement date: 2015-10-28 00:00:00 UTC
-# Script generation date:     2015-11-25 19:01:46 UTC
+# Script generation date:     2015-12-04 08:49:40 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - openjdk-7-jre-lib:7u85-2.6.1-5ubuntu0.15.10.1
+#   - openjdk-7-jre-zero:7u85-2.6.1-5ubuntu0.15.10.1
 #   - icedtea-7-jre-jamvm:7u85-2.6.1-5ubuntu0.15.10.1
 #   - openjdk-7-jre-headless:7u85-2.6.1-5ubuntu0.15.10.1
 #   - openjdk-7-jre:7u85-2.6.1-5ubuntu0.15.10.1
 #
 # Last versions recommanded by security team:
+#   - openjdk-7-jre-lib:7u85-2.6.1-5ubuntu0.15.10.1
+#   - openjdk-7-jre-zero:7u85-2.6.1-5ubuntu0.15.10.1
 #   - icedtea-7-jre-jamvm:7u91-2.6.3-0ubuntu0.15.10.1
 #   - openjdk-7-jre-headless:7u91-2.6.3-0ubuntu0.15.10.1
 #   - openjdk-7-jre:7u91-2.6.3-0ubuntu0.15.10.1
