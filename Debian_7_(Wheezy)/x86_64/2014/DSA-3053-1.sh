@@ -4,7 +4,7 @@
 # Security fix for DSA-3053-1
 #
 # Security announcement date: 2014-10-16 00:00:00 UTC
-# Script generation date:     2015-09-10 10:02:18 UTC
+# Script generation date:     2015-12-04 08:52:27 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - openssl:1.0.1e-2+deb7u13
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-2+deb7u17
+#   - openssl:1.0.1e-2+deb7u18
 #
 # CVE List:
 #   - CVE-2014-3513
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3053-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=1.0.1e-2+deb7u17 -y
+sudo apt-get install --only-upgrade openssl=1.0.1e-2+deb7u18 -y
