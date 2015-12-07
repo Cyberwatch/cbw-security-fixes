@@ -4,7 +4,7 @@
 # Security fix for DSA-2475-1
 #
 # Security announcement date: 2012-05-17 00:00:00 UTC
-# Script generation date:     2015-12-04 07:02:12 UTC
+# Script generation date:     2015-12-07 19:04:44 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - openssl:0.9.8o-4squeeze13
 #
 # Last versions recommanded by security team:
-#   - openssl:0.9.8o-4squeeze22
+#   - openssl:0.9.8o-4squeeze14
 #
 # CVE List:
 #   - CVE-2012-2333
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2475-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze22 -y
+sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze14 -y

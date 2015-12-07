@@ -4,7 +4,7 @@
 # Security fix for DSA-2755-1
 #
 # Security announcement date: 2013-09-11 00:00:00 UTC
-# Script generation date:     2015-12-03 07:02:37 UTC
+# Script generation date:     2015-12-07 19:05:00 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - python-django:1.2.3-3+squeeze7
 #
 # Last versions recommanded by security team:
-#   - python-django:1.2.3-3+squeeze15
+#   - python-django:1.2.3-3+squeeze10
 #
 # CVE List:
 #   - CVE-2013-4315
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2755-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.2.3-3+squeeze15 -y
+sudo apt-get install --only-upgrade python-django=1.2.3-3+squeeze10 -y
