@@ -4,7 +4,7 @@
 # Security fix for DLA-193-1
 #
 # Security announcement date: 2015-04-12 00:00:00 UTC
-# Script generation date:     2015-12-03 07:06:57 UTC
+# Script generation date:     2015-12-07 19:08:03 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - chrony:1.24-3+squeeze2
 #
 # Last versions recommanded by security team:
-#   - chrony:1.24-3+squeeze2
+#   - chrony:1.24-3+squeeze1
 #
 # CVE List:
 #   - CVE-2015-1821
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-193-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade chrony=1.24-3+squeeze2 -y
+sudo apt-get install --only-upgrade chrony=1.24-3+squeeze1 -y

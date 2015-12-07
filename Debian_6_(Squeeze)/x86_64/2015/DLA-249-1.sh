@@ -4,7 +4,7 @@
 # Security fix for DLA-249-1
 #
 # Security announcement date: 2015-06-19 00:00:00 UTC
-# Script generation date:     2015-12-03 07:06:59 UTC
+# Script generation date:     2015-12-07 19:08:07 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - qemu-kvm:0.12.5+dfsg-5+squeeze12
 #
 # Last versions recommanded by security team:
-#   - qemu-kvm:0.12.5+dfsg-5+squeeze12
+#   - qemu-kvm:0.12.5+dfsg-5+squeeze11
 #
 # CVE List:
 #   - CVE-2015-3456
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-249-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu-kvm=0.12.5+dfsg-5+squeeze12 -y
+sudo apt-get install --only-upgrade qemu-kvm=0.12.5+dfsg-5+squeeze11 -y
