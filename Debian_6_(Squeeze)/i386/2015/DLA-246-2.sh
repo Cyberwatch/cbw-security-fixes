@@ -4,7 +4,7 @@
 # Security fix for DLA-246-2
 #
 # Security announcement date: 2015-06-17 00:00:00 UTC
-# Script generation date:     2015-10-13 05:41:34 UTC
+# Script generation date:     2015-12-07 07:07:54 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - linux-2.6:2.6.32-48squeeze13
 #
 # Last versions recommanded by security team:
-#   - linux-2.6:2.6.32-48squeeze16
+#   - linux-2.6:2.6.32-48squeeze17
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-246-2
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze16 -y
+sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze17 -y
