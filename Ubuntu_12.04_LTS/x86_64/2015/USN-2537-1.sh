@@ -4,7 +4,7 @@
 # Security fix for USN-2537-1
 #
 # Security announcement date: 2015-03-19 00:00:00 UTC
-# Script generation date:     2015-09-10 10:18:04 UTC
+# Script generation date:     2015-12-07 19:01:42 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libssl1.0.0:1.0.1-4ubuntu5.25
 #
 # Last versions recommanded by security team:
-#   - libssl1.0.0:1.0.1-4ubuntu5.31
+#   - libssl1.0.0:1.0.1-4ubuntu5.32
 #
 # CVE List:
 #   - CVE-2015-0209
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2537-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.31 -y
+sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.32 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2367-1
 #
 # Security announcement date: 2014-10-02 00:00:00 UTC
-# Script generation date:     2015-12-04 08:48:35 UTC
+# Script generation date:     2015-12-07 19:01:17 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libssl1.0.0:1.0.1-4ubuntu5.18
 #
 # Last versions recommanded by security team:
-#   - libssl1.0.0:1.0.1-4ubuntu5.31
+#   - libssl1.0.0:1.0.1-4ubuntu5.32
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2367-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.31 -y
+sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.32 -y

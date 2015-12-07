@@ -4,7 +4,7 @@
 # Security fix for USN-2532-1
 #
 # Security announcement date: 2015-03-16 00:00:00 UTC
-# Script generation date:     2015-11-05 19:02:20 UTC
+# Script generation date:     2015-12-07 19:01:42 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - cups-browsed:1.0.52-0ubuntu1.4
 #
 # Last versions recommanded by security team:
-#   - cups-browsed:1.0.52-0ubuntu1.5
+#   - cups-browsed:1.0.52-0ubuntu1.6
 #
 # CVE List:
 #   - CVE-2015-2265
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2532-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade cups-browsed=1.0.52-0ubuntu1.5 -y
+sudo apt-get install --only-upgrade cups-browsed=1.0.52-0ubuntu1.6 -y

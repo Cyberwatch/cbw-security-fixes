@@ -4,7 +4,7 @@
 # Security fix for USN-2725-1
 #
 # Security announcement date: 2015-08-27 00:00:00 UTC
-# Script generation date:     2015-11-05 19:02:42 UTC
+# Script generation date:     2015-12-07 19:02:08 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - cups-filters-ippusbxd:1.0.67-0ubuntu2.4
 #
 # Last versions recommanded by security team:
-#   - cups-filters-ippusbxd:1.0.67-0ubuntu2.4
+#   - cups-filters-ippusbxd:1.0.67-0ubuntu2.5
 #
 # CVE List:
 #   - CVE-2015-6520
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2725-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade cups-filters-ippusbxd=1.0.67-0ubuntu2.4 -y
+sudo apt-get install --only-upgrade cups-filters-ippusbxd=1.0.67-0ubuntu2.5 -y

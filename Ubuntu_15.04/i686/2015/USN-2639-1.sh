@@ -4,7 +4,7 @@
 # Security fix for USN-2639-1
 #
 # Security announcement date: 2015-06-11 00:00:00 UTC
-# Script generation date:     2015-11-05 19:02:32 UTC
+# Script generation date:     2015-12-07 19:01:56 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - libssl1.0.0:1.0.1f-1ubuntu11.4
 #
 # Last versions recommanded by security team:
-#   - libssl1.0.0:1.0.1f-1ubuntu11.4
+#   - libssl1.0.0:1.0.1f-1ubuntu11.5
 #
 # CVE List:
 #   - CVE-2014-8176
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2639-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libssl1.0.0=1.0.1f-1ubuntu11.4 -y
+sudo apt-get install --only-upgrade libssl1.0.0=1.0.1f-1ubuntu11.5 -y
