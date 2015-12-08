@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:2152
 #
 # Security announcement date: 2015-11-19 21:34:30 UTC
-# Script generation date:     2015-11-22 07:11:11 UTC
+# Script generation date:     2015-12-08 19:15:33 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -29,24 +29,24 @@
 #   - kernel-tools-libs-devel:3.10.0-327.el7
 #
 # Last versions recommanded by security team:
-#   - kernel-abi-whitelists:3.10.0-327.el7
-#   - kernel-doc:3.10.0-327.el7
-#   - kernel:3.10.0-327.el7
-#   - kernel-debug:3.10.0-327.el7
-#   - kernel-debug-debuginfo:3.10.0-327.el7
-#   - kernel-debug-devel:3.10.0-327.el7
-#   - kernel-debuginfo:3.10.0-327.el7
-#   - kernel-debuginfo-common-x86_64:3.10.0-327.el7
-#   - kernel-devel:3.10.0-327.el7
-#   - kernel-headers:3.10.0-327.el7
-#   - kernel-tools:3.10.0-327.el7
-#   - kernel-tools-debuginfo:3.10.0-327.el7
-#   - kernel-tools-libs:3.10.0-327.el7
-#   - perf:3.10.0-327.el7
-#   - perf-debuginfo:3.10.0-327.el7
-#   - python-perf:3.10.0-327.el7
-#   - python-perf-debuginfo:3.10.0-327.el7
-#   - kernel-tools-libs-devel:3.10.0-327.el7
+#   - kernel-abi-whitelists:3.10.0-327.3.1.el7
+#   - kernel-doc:3.10.0-327.3.1.el7
+#   - kernel:3.10.0-327.3.1.el7
+#   - kernel-debug:3.10.0-327.3.1.el7
+#   - kernel-debug-debuginfo:3.10.0-327.3.1.el7
+#   - kernel-debug-devel:3.10.0-327.3.1.el7
+#   - kernel-debuginfo:3.10.0-327.3.1.el7
+#   - kernel-debuginfo-common-x86_64:3.10.0-327.3.1.el7
+#   - kernel-devel:3.10.0-327.3.1.el7
+#   - kernel-headers:3.10.0-327.3.1.el7
+#   - kernel-tools:3.10.0-327.3.1.el7
+#   - kernel-tools-debuginfo:3.10.0-327.3.1.el7
+#   - kernel-tools-libs:3.10.0-327.3.1.el7
+#   - perf:3.10.0-327.3.1.el7
+#   - perf-debuginfo:3.10.0-327.3.1.el7
+#   - python-perf:3.10.0-327.3.1.el7
+#   - python-perf-debuginfo:3.10.0-327.3.1.el7
+#   - kernel-tools-libs-devel:3.10.0-327.3.1.el7
 #
 # CVE List:
 #   - CVE-2010-5313
