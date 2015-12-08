@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0324
 #
 # Security announcement date: 2012-02-22 14:26:48 UTC
-# Script generation date:     2015-09-10 09:39:36 UTC
+# Script generation date:     2015-12-08 07:08:58 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - libxml2-static:2.7.6-4.el6_2.4
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.7.6-20.el6
-#   - libxml2-devel:2.7.6-20.el6
-#   - libxml2-python:2.7.6-20.el6
-#   - libxml2-static:2.7.6-20.el6
+#   - libxml2:2.7.6-20.el6_7.1
+#   - libxml2-devel:2.7.6-20.el6_7.1
+#   - libxml2-python:2.7.6-20.el6_7.1
+#   - libxml2-static:2.7.6-20.el6_7.1
 #
 # CVE List:
 #   - CVE-2012-0841

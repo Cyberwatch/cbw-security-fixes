@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0513
 #
 # Security announcement date: 2014-05-19 13:08:11 UTC
-# Script generation date:     2015-09-10 09:40:23 UTC
+# Script generation date:     2015-12-08 07:09:50 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - libxml2-static:2.7.6-14.el6_5.1
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.7.6-20.el6
-#   - libxml2-devel:2.7.6-20.el6
-#   - libxml2-python:2.7.6-20.el6
-#   - libxml2-static:2.7.6-20.el6
+#   - libxml2:2.7.6-20.el6_7.1
+#   - libxml2-devel:2.7.6-20.el6_7.1
+#   - libxml2-python:2.7.6-20.el6_7.1
+#   - libxml2-static:2.7.6-20.el6_7.1
 #
 # CVE List:
 #   - CVE-2013-2877

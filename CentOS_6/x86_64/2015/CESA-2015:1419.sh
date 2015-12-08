@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1419
 #
 # Security announcement date: 2015-07-26 14:12:37 UTC
-# Script generation date:     2015-09-10 09:41:18 UTC
+# Script generation date:     2015-12-08 07:10:34 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - libxml2-static:2.7.6-20.el6
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.7.6-20.el6
-#   - libxml2-devel:2.7.6-20.el6
-#   - libxml2-python:2.7.6-20.el6
-#   - libxml2-static:2.7.6-20.el6
+#   - libxml2:2.7.6-20.el6_7.1
+#   - libxml2-devel:2.7.6-20.el6_7.1
+#   - libxml2-python:2.7.6-20.el6_7.1
+#   - libxml2-static:2.7.6-20.el6_7.1
 #
 # CVE List:
 #   - CVE-2015-1819
