@@ -4,7 +4,7 @@
 # Security fix for DSA-2343-1
 #
 # Security announcement date: 2011-11-09 00:00:00 UTC
-# Script generation date:     2015-12-07 19:04:37 UTC
+# Script generation date:     2015-12-08 07:02:41 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - openssl:0.9.8o-4squeeze4
 #
 # Last versions recommanded by security team:
-#   - openssl:0.9.8o-4squeeze14
+#   - openssl:0.9.8o-4squeeze22
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2343-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze14 -y
+sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze22 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-2405-1
 #
 # Security announcement date: 2012-02-06 00:00:00 UTC
-# Script generation date:     2015-12-07 19:04:40 UTC
+# Script generation date:     2015-12-08 07:02:44 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - apache2:2.2.16-6+squeeze6
 #
 # Last versions recommanded by security team:
-#   - apache2:2.2.16-6+squeeze11
+#   - apache2:2.2.16-6+squeeze15
 #
 # CVE List:
 #   - CVE-2011-3368
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2405-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade apache2=2.2.16-6+squeeze11 -y
+sudo apt-get install --only-upgrade apache2=2.2.16-6+squeeze15 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-2491-1
 #
 # Security announcement date: 2012-06-09 00:00:00 UTC
-# Script generation date:     2015-12-07 19:04:45 UTC
+# Script generation date:     2015-12-08 07:02:48 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - postgresql-8.4:8.4.12-0squeeze1
 #
 # Last versions recommanded by security team:
-#   - postgresql-8.4:8.4.20-0squeeze1
+#   - postgresql-8.4:8.4.22lts5-0+deb6u1
 #
 # CVE List:
 #   - CVE-2012-2143
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2491-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade postgresql-8.4=8.4.20-0squeeze1 -y
+sudo apt-get install --only-upgrade postgresql-8.4=8.4.22lts5-0+deb6u1 -y
