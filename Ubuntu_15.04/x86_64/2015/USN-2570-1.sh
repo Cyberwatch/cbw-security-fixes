@@ -4,7 +4,7 @@
 # Security fix for USN-2570-1
 #
 # Security announcement date: 2015-04-27 00:00:00 UTC
-# Script generation date:     2015-12-04 08:49:08 UTC
+# Script generation date:     2015-12-10 19:01:46 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - oxideqt-codecs-extra:1.6.5-0ubuntu0.15.04.1
 #
 # Last versions recommanded by security team:
-#   - liboxideqtcore0:1.10.3-0ubuntu0.15.04.1
-#   - oxideqt-codecs:1.10.3-0ubuntu0.15.04.1
-#   - oxideqt-codecs-extra:1.10.3-0ubuntu0.15.04.1
+#   - liboxideqtcore0:1.11.3-0ubuntu0.15.04.1
+#   - oxideqt-codecs:1.11.3-0ubuntu0.15.04.1
+#   - oxideqt-codecs-extra:1.11.3-0ubuntu0.15.04.1
 #
 # CVE List:
 #   - CVE-2015-1235
@@ -37,6 +37,6 @@
 #   - https://www.cyberwatch.fr/notices/USN-2570-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade liboxideqtcore0=1.10.3-0ubuntu0.15.04.1 -y
-sudo apt-get install --only-upgrade oxideqt-codecs=1.10.3-0ubuntu0.15.04.1 -y
-sudo apt-get install --only-upgrade oxideqt-codecs-extra=1.10.3-0ubuntu0.15.04.1 -y
+sudo apt-get install --only-upgrade liboxideqtcore0=1.11.3-0ubuntu0.15.04.1 -y
+sudo apt-get install --only-upgrade oxideqt-codecs=1.11.3-0ubuntu0.15.04.1 -y
+sudo apt-get install --only-upgrade oxideqt-codecs-extra=1.11.3-0ubuntu0.15.04.1 -y

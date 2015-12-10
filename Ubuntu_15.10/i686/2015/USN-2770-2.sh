@@ -3,7 +3,7 @@
 # Security fix for USN-2770-2
 #
 # Security announcement date: 2015-10-22 00:00:00 UTC
-# Script generation date:     2015-12-04 08:49:39 UTC
+# Script generation date:     2015-12-10 19:02:11 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -12,7 +12,7 @@
 #   - liboxideqtcore0:1.10.3-0ubuntu0.15.10.1
 #
 # Last versions recommanded by security team:
-#   - liboxideqtcore0:1.10.3-0ubuntu0.15.10.1
+#   - liboxideqtcore0:1.11.3-0ubuntu0.15.10.1
 #
 # CVE List:
 #   - CVE-2015-6755

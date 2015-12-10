@@ -4,7 +4,7 @@
 # Security fix for USN-2735-1
 #
 # Security announcement date: 2015-09-08 00:00:00 UTC
-# Script generation date:     2015-10-20 18:02:43 UTC
+# Script generation date:     2015-12-10 19:02:06 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - liboxideqtcore0:1.9.1-0ubuntu0.14.04.2
 #
 # Last versions recommanded by security team:
-#   - liboxideqtcore0:1.10.3-0ubuntu0.14.04.1
+#   - liboxideqtcore0:1.11.3-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2015-1291
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2735-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade liboxideqtcore0=1.10.3-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade liboxideqtcore0=1.11.3-0ubuntu0.14.04.1 -y
