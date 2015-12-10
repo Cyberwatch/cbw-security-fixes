@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0523
 #
 # Security announcement date: 2012-04-25 14:48:41 UTC
-# Script generation date:     2015-09-10 09:39:40 UTC
+# Script generation date:     2015-12-10 07:08:14 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - libpng-static:1.2.49-1.el6_2
 #
 # Last versions recommanded by security team:
-#   - libpng:1.2.49-1.el6_2
-#   - libpng-devel:1.2.49-1.el6_2
-#   - libpng-static:1.2.49-1.el6_2
+#   - libpng:1.2.49-2.el6_7
+#   - libpng-devel:1.2.49-2.el6_7
+#   - libpng-static:1.2.49-2.el6_7
 #
 # CVE List:
 #   - CVE-2011-3048
