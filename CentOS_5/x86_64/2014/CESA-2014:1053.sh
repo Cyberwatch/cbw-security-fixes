@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:1053
 #
 # Security announcement date: 2014-08-13 19:52:24 UTC
-# Script generation date:     2015-09-10 09:40:30 UTC
+# Script generation date:     2015-12-15 07:06:41 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - openssl-perl:0.9.8e-27.el5_10.4
 #
 # Last versions recommanded by security team:
-#   - openssl:0.9.8e-36.el5_11
-#   - openssl-devel:0.9.8e-36.el5_11
-#   - openssl-perl:0.9.8e-36.el5_11
+#   - openssl:0.9.8e-37.el5_11
+#   - openssl-devel:0.9.8e-37.el5_11
+#   - openssl-perl:0.9.8e-37.el5_11
 #
 # CVE List:
 #   - CVE-2014-0221

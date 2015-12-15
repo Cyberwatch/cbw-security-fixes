@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0699
 #
 # Security announcement date: 2012-05-29 22:40:25 UTC
-# Script generation date:     2015-09-10 09:39:42 UTC
+# Script generation date:     2015-12-15 07:05:48 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - openssl-static:1.0.0-20.el6_2.5
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-30.el6.11
-#   - openssl-devel:1.0.1e-30.el6.11
-#   - openssl-perl:1.0.1e-30.el6.11
-#   - openssl-static:1.0.1e-30.el6.11
+#   - openssl:1.0.1e-42.el6_7.1
+#   - openssl-devel:1.0.1e-42.el6_7.1
+#   - openssl-perl:1.0.1e-42.el6_7.1
+#   - openssl-static:1.0.1e-42.el6_7.1
 #
 # CVE List:
 #   - CVE-2012-0884

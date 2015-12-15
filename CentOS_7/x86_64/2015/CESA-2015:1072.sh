@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1072
 #
 # Security announcement date: 2015-06-04 20:17:09 UTC
-# Script generation date:     2015-09-10 09:40:47 UTC
+# Script generation date:     2015-12-15 07:07:01 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - openssl-static:1.0.1e-42.el7.6
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-42.el7.8
-#   - openssl-devel:1.0.1e-42.el7.8
-#   - openssl-libs:1.0.1e-42.el7.8
-#   - openssl-perl:1.0.1e-42.el7.8
-#   - openssl-static:1.0.1e-42.el7.8
+#   - openssl:1.0.1e-51.el7_2.1
+#   - openssl-devel:1.0.1e-51.el7_2.1
+#   - openssl-libs:1.0.1e-51.el7_2.1
+#   - openssl-perl:1.0.1e-51.el7_2.1
+#   - openssl-static:1.0.1e-51.el7_2.1
 #
 # CVE List:
 #   - CVE-2015-4000

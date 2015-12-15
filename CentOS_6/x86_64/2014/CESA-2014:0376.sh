@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0376
 #
 # Security announcement date: 2014-04-08 02:54:58 UTC
-# Script generation date:     2015-09-10 09:40:22 UTC
+# Script generation date:     2015-12-15 07:06:33 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - openssl-static:1.0.1e-16.el6_5.7
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-30.el6.11
-#   - openssl-devel:1.0.1e-30.el6.11
-#   - openssl-perl:1.0.1e-30.el6.11
-#   - openssl-static:1.0.1e-30.el6.11
+#   - openssl:1.0.1e-42.el6_7.1
+#   - openssl-devel:1.0.1e-42.el6_7.1
+#   - openssl-perl:1.0.1e-42.el6_7.1
+#   - openssl-static:1.0.1e-42.el6_7.1
 #
 # CVE List:
 #   - CVE-2014-0160

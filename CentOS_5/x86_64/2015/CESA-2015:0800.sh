@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:0800
 #
 # Security announcement date: 2015-04-14 11:25:52 UTC
-# Script generation date:     2015-09-10 09:40:45 UTC
+# Script generation date:     2015-12-15 07:06:59 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - openssl-perl:0.9.8e-33.el5_11
 #
 # Last versions recommanded by security team:
-#   - openssl:0.9.8e-36.el5_11
-#   - openssl-devel:0.9.8e-36.el5_11
-#   - openssl-perl:0.9.8e-36.el5_11
+#   - openssl:0.9.8e-37.el5_11
+#   - openssl-devel:0.9.8e-37.el5_11
+#   - openssl-perl:0.9.8e-37.el5_11
 #
 # CVE List:
 #   - CVE-2015-0287

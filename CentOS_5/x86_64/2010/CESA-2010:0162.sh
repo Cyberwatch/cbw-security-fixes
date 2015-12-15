@@ -3,7 +3,7 @@
 # Security fix for CESA-2010:0162
 #
 # Security announcement date: 2010-03-27 17:30:13 UTC
-# Script generation date:     2015-09-10 09:39:12 UTC
+# Script generation date:     2015-12-15 07:05:18 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - openssl-perl:0.9.8e-12.el5_4.6
 #
 # Last versions recommanded by security team:
-#   - openssl:0.9.8e-36.el5_11
-#   - openssl-devel:0.9.8e-36.el5_11
-#   - openssl-perl:0.9.8e-36.el5_11
+#   - openssl:0.9.8e-37.el5_11
+#   - openssl-devel:0.9.8e-37.el5_11
+#   - openssl-perl:0.9.8e-37.el5_11
 #
 # CVE List:
 #   - CVE-2009-3555

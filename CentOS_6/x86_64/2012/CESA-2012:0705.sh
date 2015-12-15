@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0705
 #
 # Security announcement date: 2012-06-05 13:05:33 UTC
-# Script generation date:     2015-09-10 09:39:43 UTC
+# Script generation date:     2015-12-15 07:05:50 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -146,35 +146,35 @@
 #   - openoffice.org-xsltfilter:3.2.1-19.6.el6_2.7
 #
 # Last versions recommanded by security team:
-#   - autocorr-af:4.2.8.2-11.el6
-#   - autocorr-bg:4.2.8.2-11.el6
-#   - autocorr-cs:4.2.8.2-11.el6
-#   - autocorr-da:4.2.8.2-11.el6
-#   - autocorr-de:4.2.8.2-11.el6
-#   - autocorr-en:4.2.8.2-11.el6
-#   - autocorr-es:4.2.8.2-11.el6
+#   - autocorr-af:4.2.8.2-11.el6_7.1
+#   - autocorr-bg:4.2.8.2-11.el6_7.1
+#   - autocorr-cs:4.2.8.2-11.el6_7.1
+#   - autocorr-da:4.2.8.2-11.el6_7.1
+#   - autocorr-de:4.2.8.2-11.el6_7.1
+#   - autocorr-en:4.2.8.2-11.el6_7.1
+#   - autocorr-es:4.2.8.2-11.el6_7.1
 #   - autocorr-eu:3.4.5.2-16.1.el6_3
-#   - autocorr-fa:4.2.8.2-11.el6
-#   - autocorr-fi:4.2.8.2-11.el6
-#   - autocorr-fr:4.2.8.2-11.el6
-#   - autocorr-ga:4.2.8.2-11.el6
-#   - autocorr-hu:4.2.8.2-11.el6
-#   - autocorr-it:4.2.8.2-11.el6
-#   - autocorr-ja:4.2.8.2-11.el6
-#   - autocorr-ko:4.2.8.2-11.el6
-#   - autocorr-lb:4.2.8.2-11.el6
-#   - autocorr-lt:4.2.8.2-11.el6
-#   - autocorr-mn:4.2.8.2-11.el6
-#   - autocorr-nl:4.2.8.2-11.el6
-#   - autocorr-pl:4.2.8.2-11.el6
-#   - autocorr-pt:4.2.8.2-11.el6
-#   - autocorr-ru:4.2.8.2-11.el6
-#   - autocorr-sk:4.2.8.2-11.el6
-#   - autocorr-sl:4.2.8.2-11.el6
-#   - autocorr-sv:4.2.8.2-11.el6
-#   - autocorr-tr:4.2.8.2-11.el6
-#   - autocorr-vi:4.2.8.2-11.el6
-#   - autocorr-zh:4.2.8.2-11.el6
+#   - autocorr-fa:4.2.8.2-11.el6_7.1
+#   - autocorr-fi:4.2.8.2-11.el6_7.1
+#   - autocorr-fr:4.2.8.2-11.el6_7.1
+#   - autocorr-ga:4.2.8.2-11.el6_7.1
+#   - autocorr-hu:4.2.8.2-11.el6_7.1
+#   - autocorr-it:4.2.8.2-11.el6_7.1
+#   - autocorr-ja:4.2.8.2-11.el6_7.1
+#   - autocorr-ko:4.2.8.2-11.el6_7.1
+#   - autocorr-lb:4.2.8.2-11.el6_7.1
+#   - autocorr-lt:4.2.8.2-11.el6_7.1
+#   - autocorr-mn:4.2.8.2-11.el6_7.1
+#   - autocorr-nl:4.2.8.2-11.el6_7.1
+#   - autocorr-pl:4.2.8.2-11.el6_7.1
+#   - autocorr-pt:4.2.8.2-11.el6_7.1
+#   - autocorr-ru:4.2.8.2-11.el6_7.1
+#   - autocorr-sk:4.2.8.2-11.el6_7.1
+#   - autocorr-sl:4.2.8.2-11.el6_7.1
+#   - autocorr-sv:4.2.8.2-11.el6_7.1
+#   - autocorr-tr:4.2.8.2-11.el6_7.1
+#   - autocorr-vi:4.2.8.2-11.el6_7.1
+#   - autocorr-zh:4.2.8.2-11.el6_7.1
 #   - openoffice.org-opensymbol-fonts:3.2.1-19.6.el6_2.7
 #   - broffice.org-base:3.2.1-19.6.el6_2.7
 #   - broffice.org-brand:3.2.1-19.6.el6_2.7
