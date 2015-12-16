@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0567
 #
 # Security announcement date: 2013-03-09 00:45:17 UTC
-# Script generation date:     2015-11-09 19:07:54 UTC
+# Script generation date:     2015-12-16 07:14:16 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -20,15 +20,15 @@
 #   - python-perf:2.6.32-358.0.1.el6
 #
 # Last versions recommanded by security team:
-#   - kernel-doc:2.6.32-573.3.1.el6
-#   - kernel-firmware:2.6.32-573.3.1.el6
-#   - kernel:2.6.32-573.3.1.el6
-#   - kernel-debug:2.6.32-573.3.1.el6
-#   - kernel-debug-devel:2.6.32-573.3.1.el6
-#   - kernel-devel:2.6.32-573.3.1.el6
-#   - kernel-headers:2.6.32-573.3.1.el6
-#   - perf:2.6.32-573.3.1.el6
-#   - python-perf:2.6.32-573.3.1.el6
+#   - kernel-doc:2.6.32-573.12.1.el6
+#   - kernel-firmware:2.6.32-573.12.1.el6
+#   - kernel:2.6.32-573.12.1.el6
+#   - kernel-debug:2.6.32-573.12.1.el6
+#   - kernel-debug-devel:2.6.32-573.12.1.el6
+#   - kernel-devel:2.6.32-573.12.1.el6
+#   - kernel-headers:2.6.32-573.12.1.el6
+#   - perf:2.6.32-573.12.1.el6
+#   - python-perf:2.6.32-573.12.1.el6
 #
 # CVE List:
 #
