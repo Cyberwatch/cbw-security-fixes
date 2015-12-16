@@ -4,7 +4,7 @@
 # Security fix for USN-2210-1
 #
 # Security announcement date: 2014-05-08 00:00:00 UTC
-# Script generation date:     2015-12-07 19:01:05 UTC
+# Script generation date:     2015-12-16 19:01:05 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - cups-browsed:1.0.52-0ubuntu1.1
 #
 # Last versions recommanded by security team:
-#   - cups-browsed:1.0.52-0ubuntu1.6
+#   - cups-browsed:1.0.52-0ubuntu1.7
 #
 # CVE List:
 #   - CVE-2014-2707
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2210-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade cups-browsed=1.0.52-0ubuntu1.6 -y
+sudo apt-get install --only-upgrade cups-browsed=1.0.52-0ubuntu1.7 -y

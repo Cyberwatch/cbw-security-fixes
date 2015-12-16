@@ -4,7 +4,7 @@
 # Security fix for USN-2831-2
 #
 # Security announcement date: 2015-12-07 00:00:00 UTC
-# Script generation date:     2015-12-09 07:02:29 UTC
+# Script generation date:     2015-12-16 19:02:22 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - foomatic-filters:4.0.16-0ubuntu0.3
 #
 # Last versions recommanded by security team:
-#   - foomatic-filters:4.0.16-0ubuntu0.3
+#   - foomatic-filters:4.0.16-0ubuntu0.4
 #
 # CVE List:
 #   - CVE-2015-8327
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2831-2
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade foomatic-filters=4.0.16-0ubuntu0.3 -y
+sudo apt-get install --only-upgrade foomatic-filters=4.0.16-0ubuntu0.4 -y
