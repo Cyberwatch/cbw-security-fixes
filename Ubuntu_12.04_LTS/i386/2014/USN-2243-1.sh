@@ -4,7 +4,7 @@
 # Security fix for USN-2243-1
 #
 # Security announcement date: 2014-06-11 00:00:00 UTC
-# Script generation date:     2015-12-04 08:48:23 UTC
+# Script generation date:     2015-12-16 07:01:09 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox:30.0+build1-0ubuntu0.12.04.3
 #
 # Last versions recommanded by security team:
-#   - firefox:42.0+build2-0ubuntu0.12.04.1
+#   - firefox:43.0+build1-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2014-1533
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2243-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=42.0+build2-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade firefox=43.0+build1-0ubuntu0.12.04.1 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2743-1
 #
 # Security announcement date: 2015-09-22 00:00:00 UTC
-# Script generation date:     2015-11-05 07:02:38 UTC
+# Script generation date:     2015-12-16 07:02:13 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - firefox:41.0+build3-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:42.0+build2-0ubuntu0.14.04.1
+#   - firefox:43.0+build1-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2015-4500
@@ -42,4 +42,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2743-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=42.0+build2-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade firefox=43.0+build1-0ubuntu0.14.04.1 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2052-1
 #
 # Security announcement date: 2013-12-11 00:00:00 UTC
-# Script generation date:     2015-12-04 08:48:10 UTC
+# Script generation date:     2015-12-16 07:00:57 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox:26.0+build2-0ubuntu0.12.04.2
 #
 # Last versions recommanded by security team:
-#   - firefox:42.0+build2-0ubuntu0.12.04.1
+#   - firefox:43.0+build1-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2013-5609
@@ -36,4 +36,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2052-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=42.0+build2-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade firefox=43.0+build1-0ubuntu0.12.04.1 -y
