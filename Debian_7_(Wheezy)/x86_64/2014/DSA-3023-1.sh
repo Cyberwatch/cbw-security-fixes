@@ -4,7 +4,7 @@
 # Security fix for DSA-3023-1
 #
 # Security announcement date: 2014-09-11 00:00:00 UTC
-# Script generation date:     2015-09-10 10:02:15 UTC
+# Script generation date:     2015-12-16 07:07:18 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - bind9:1:9.8.4.dfsg.P1-6+nmu2+deb7u2
 #
 # Last versions recommanded by security team:
-#   - bind9:1:9.8.4.dfsg.P1-6+nmu2+deb7u7
+#   - bind9:1:9.8.4.dfsg.P1-6+nmu2+deb7u8
 #
 # CVE List:
 #   - CVE-2014-0591
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3023-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade bind9=1:9.8.4.dfsg.P1-6+nmu2+deb7u7 -y
+sudo apt-get install --only-upgrade bind9=1:9.8.4.dfsg.P1-6+nmu2+deb7u8 -y
