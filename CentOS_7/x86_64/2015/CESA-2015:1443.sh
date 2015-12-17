@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1443
 #
 # Security announcement date: 2015-07-20 18:55:08 UTC
-# Script generation date:     2015-09-10 09:40:50 UTC
+# Script generation date:     2015-12-17 07:22:56 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -21,16 +21,16 @@
 #   - bind-utils:9.9.4-18.el7_1.2
 #
 # Last versions recommanded by security team:
-#   - bind:9.9.4-18.el7_1.5
-#   - bind-chroot:9.9.4-18.el7_1.5
-#   - bind-devel:9.9.4-18.el7_1.5
-#   - bind-libs:9.9.4-18.el7_1.5
-#   - bind-libs-lite:9.9.4-18.el7_1.5
-#   - bind-license:9.9.4-18.el7_1.5
-#   - bind-lite-devel:9.9.4-18.el7_1.5
-#   - bind-sdb:9.9.4-18.el7_1.5
-#   - bind-sdb-chroot:9.9.4-18.el7_1.5
-#   - bind-utils:9.9.4-18.el7_1.5
+#   - bind:9.9.4-29.el7_2.1
+#   - bind-chroot:9.9.4-29.el7_2.1
+#   - bind-devel:9.9.4-29.el7_2.1
+#   - bind-libs:9.9.4-29.el7_2.1
+#   - bind-libs-lite:9.9.4-29.el7_2.1
+#   - bind-license:9.9.4-29.el7_2.1
+#   - bind-lite-devel:9.9.4-29.el7_2.1
+#   - bind-sdb:9.9.4-29.el7_2.1
+#   - bind-sdb-chroot:9.9.4-29.el7_2.1
+#   - bind-utils:9.9.4-29.el7_2.1
 #
 # CVE List:
 #   - CVE-2015-4620

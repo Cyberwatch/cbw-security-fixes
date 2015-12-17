@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1707
 #
 # Security announcement date: 2015-09-03 10:20:47 UTC
-# Script generation date:     2015-09-10 10:09:06 UTC
+# Script generation date:     2015-12-17 07:23:01 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - bind97-utils:9.7.0-21.P2.el5_11.3
 #
 # Last versions recommanded by security team:
-#   - bind97:9.7.0-21.P2.el5_11.3
-#   - bind97-chroot:9.7.0-21.P2.el5_11.3
-#   - bind97-devel:9.7.0-21.P2.el5_11.3
-#   - bind97-libs:9.7.0-21.P2.el5_11.3
-#   - bind97-utils:9.7.0-21.P2.el5_11.3
+#   - bind97:9.7.0-21.P2.el5_11.4
+#   - bind97-chroot:9.7.0-21.P2.el5_11.4
+#   - bind97-devel:9.7.0-21.P2.el5_11.4
+#   - bind97-libs:9.7.0-21.P2.el5_11.4
+#   - bind97-utils:9.7.0-21.P2.el5_11.4
 #
 # CVE List:
 #   - CVE-2015-5722

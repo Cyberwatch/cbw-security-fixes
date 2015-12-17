@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:1179
 #
 # Security announcement date: 2009-07-30 01:08:44 UTC
-# Script generation date:     2015-09-10 09:39:01 UTC
+# Script generation date:     2015-12-17 07:21:02 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -19,14 +19,14 @@
 #   - caching-nameserver:9.3.4-10.P1.el5_3.3
 #
 # Last versions recommanded by security team:
-#   - bind:9.3.6-25.P1.el5_11.4
-#   - bind-chroot:9.3.6-25.P1.el5_11.4
-#   - bind-devel:9.3.6-25.P1.el5_11.4
-#   - bind-libbind-devel:9.3.6-25.P1.el5_11.4
-#   - bind-libs:9.3.6-25.P1.el5_11.4
-#   - bind-sdb:9.3.6-25.P1.el5_11.4
-#   - bind-utils:9.3.6-25.P1.el5_11.4
-#   - caching-nameserver:9.3.6-25.P1.el5_11.4
+#   - bind:9.3.6-25.P1.el5_11.5
+#   - bind-chroot:9.3.6-25.P1.el5_11.5
+#   - bind-devel:9.3.6-25.P1.el5_11.5
+#   - bind-libbind-devel:9.3.6-25.P1.el5_11.5
+#   - bind-libs:9.3.6-25.P1.el5_11.5
+#   - bind-sdb:9.3.6-25.P1.el5_11.5
+#   - bind-utils:9.3.6-25.P1.el5_11.5
+#   - caching-nameserver:9.3.6-25.P1.el5_11.5
 #
 # CVE List:
 #   - CVE-2009-0696

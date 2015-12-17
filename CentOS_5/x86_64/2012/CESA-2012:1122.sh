@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:1122
 #
 # Security announcement date: 2012-07-31 09:13:31 UTC
-# Script generation date:     2015-09-10 09:39:48 UTC
+# Script generation date:     2015-12-17 07:21:48 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - bind97-utils:9.7.0-10.P2.el5_8.2
 #
 # Last versions recommanded by security team:
-#   - bind97:9.7.0-21.P2.el5_11.3
-#   - bind97-chroot:9.7.0-21.P2.el5_11.3
-#   - bind97-devel:9.7.0-21.P2.el5_11.3
-#   - bind97-libs:9.7.0-21.P2.el5_11.3
-#   - bind97-utils:9.7.0-21.P2.el5_11.3
+#   - bind97:9.7.0-21.P2.el5_11.4
+#   - bind97-chroot:9.7.0-21.P2.el5_11.4
+#   - bind97-devel:9.7.0-21.P2.el5_11.4
+#   - bind97-libs:9.7.0-21.P2.el5_11.4
+#   - bind97-utils:9.7.0-21.P2.el5_11.4
 #
 # CVE List:
 #   - CVE-2012-3817

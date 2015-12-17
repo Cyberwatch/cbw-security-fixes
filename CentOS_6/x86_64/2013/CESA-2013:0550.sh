@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0550
 #
 # Security announcement date: 2013-03-09 00:44:51 UTC
-# Script generation date:     2015-11-09 19:07:53 UTC
+# Script generation date:     2015-12-17 07:22:04 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - bind-utils:9.8.2-0.17.rc1.el6.3
 #
 # Last versions recommanded by security team:
-#   - bind:9.8.2-0.37.rc1.el6_7.4
-#   - bind-chroot:9.8.2-0.37.rc1.el6_7.4
-#   - bind-devel:9.8.2-0.37.rc1.el6_7.4
-#   - bind-libs:9.8.2-0.37.rc1.el6_7.4
-#   - bind-sdb:9.8.2-0.37.rc1.el6_7.4
-#   - bind-utils:9.8.2-0.37.rc1.el6_7.4
+#   - bind:9.8.2-0.37.rc1.el6_7.5
+#   - bind-chroot:9.8.2-0.37.rc1.el6_7.5
+#   - bind-devel:9.8.2-0.37.rc1.el6_7.5
+#   - bind-libs:9.8.2-0.37.rc1.el6_7.5
+#   - bind-sdb:9.8.2-0.37.rc1.el6_7.5
+#   - bind-utils:9.8.2-0.37.rc1.el6_7.5
 #
 # CVE List:
 #

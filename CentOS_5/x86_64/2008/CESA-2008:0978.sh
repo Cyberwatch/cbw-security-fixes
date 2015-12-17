@@ -3,7 +3,7 @@
 # Security fix for CESA-2008:0978
 #
 # Security announcement date: 2008-11-14 23:55:41 UTC
-# Script generation date:     2015-11-12 19:17:59 UTC
+# Script generation date:     2015-12-17 07:20:54 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -24,7 +24,7 @@
 # Last versions recommanded by security team:
 #   - devhelp:0.12-23.el5_9
 #   - devhelp-devel:0.12-23.el5_9
-#   - firefox:38.4.0-1.el5.centos
+#   - firefox:38.5.0-2.el5.centos
 #   - nss:3.19.1-2.el5_11
 #   - nss-devel:3.19.1-2.el5_11
 #   - nss-pkcs11-devel:3.19.1-2.el5_11
@@ -53,7 +53,7 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install devhelp-0.12 -y 
 sudo yum install devhelp-devel-0.12 -y 
-sudo yum install firefox-38.4.0 -y 
+sudo yum install firefox-38.5.0 -y 
 sudo yum install nss-3.19.1 -y 
 sudo yum install nss-devel-3.19.1 -y 
 sudo yum install nss-pkcs11-devel-3.19.1 -y 

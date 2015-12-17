@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:1482
 #
 # Security announcement date: 2012-11-22 05:55:54 UTC
-# Script generation date:     2015-11-05 07:12:32 UTC
+# Script generation date:     2015-12-17 07:21:54 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -14,7 +14,7 @@
 #   - xulrunner-devel:10.0.11-1.el6.centos
 #
 # Last versions recommanded by security team:
-#   - firefox:38.4.0-1.el6.centos
+#   - firefox:38.5.0-2.el6.centos
 #   - xulrunner:17.0.10-1.el6.centos
 #   - xulrunner-devel:17.0.10-1.el6.centos
 #
@@ -40,6 +40,6 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2012:1482
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.4.0 -y 
+sudo yum install firefox-38.5.0 -y 
 sudo yum install xulrunner-17.0.10 -y 
 sudo yum install xulrunner-devel-17.0.10 -y 

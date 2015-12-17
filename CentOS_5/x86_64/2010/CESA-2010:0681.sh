@@ -3,7 +3,7 @@
 # Security fix for CESA-2010:0681
 #
 # Security announcement date: 2010-09-12 16:19:24 UTC
-# Script generation date:     2015-11-09 19:07:11 UTC
+# Script generation date:     2015-12-17 07:21:16 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -20,7 +20,7 @@
 #   - xulrunner-devel:1.9.2.9-1.el5
 #
 # Last versions recommanded by security team:
-#   - firefox:38.4.0-1.el5.centos
+#   - firefox:38.5.0-2.el5.centos
 #   - nspr:4.10.8-2.el5_11
 #   - nspr-devel:4.10.8-2.el5_11
 #   - nss:3.19.1-2.el5_11
@@ -48,7 +48,7 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2010:0681
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.4.0 -y 
+sudo yum install firefox-38.5.0 -y 
 sudo yum install nspr-4.10.8 -y 
 sudo yum install nspr-devel-4.10.8 -y 
 sudo yum install nss-3.19.1 -y 
