@@ -4,7 +4,7 @@
 # Security fix for DSA-2716-1
 #
 # Security announcement date: 2013-06-26 00:00:00 UTC
-# Script generation date:     2015-11-05 07:05:48 UTC
+# Script generation date:     2015-12-17 07:15:08 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - iceweasel:17.0.7esr-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - iceweasel:38.4.0esr-1~deb7u1
+#   - iceweasel:38.5.0esr-1~deb7u2
 #
 # CVE List:
 #   - CVE-2013-1682
@@ -31,4 +31,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2716-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade iceweasel=38.4.0esr-1~deb7u1 -y
+sudo apt-get install --only-upgrade iceweasel=38.5.0esr-1~deb7u2 -y

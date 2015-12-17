@@ -4,7 +4,7 @@
 # Security fix for DSA-3260-1
 #
 # Security announcement date: 2015-05-13 00:00:00 UTC
-# Script generation date:     2015-11-05 07:06:26 UTC
+# Script generation date:     2015-12-17 07:15:50 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - iceweasel:31.7.0esr-1~deb8u1
 #
 # Last versions recommanded by security team:
-#   - iceweasel:38.4.0esr-1~deb8u1
+#   - iceweasel:38.5.0esr-1~deb8u2
 #
 # CVE List:
 #   - CVE-2011-3079
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3260-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade iceweasel=38.4.0esr-1~deb8u1 -y
+sudo apt-get install --only-upgrade iceweasel=38.5.0esr-1~deb8u2 -y

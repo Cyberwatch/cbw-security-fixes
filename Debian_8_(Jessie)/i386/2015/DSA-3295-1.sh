@@ -4,7 +4,7 @@
 # Security fix for DSA-3295-1
 #
 # Security announcement date: 2015-06-24 00:00:00 UTC
-# Script generation date:     2015-09-10 10:02:43 UTC
+# Script generation date:     2015-12-17 07:15:53 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - cacti:0.8.8b+dfsg-8+deb8u1
 #
 # Last versions recommanded by security team:
-#   - cacti:0.8.8b+dfsg-8+deb8u2
+#   - cacti:0.8.8b+dfsg-8+deb8u3
 #
 # CVE List:
 #   - CVE-2015-2665
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3295-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade cacti=0.8.8b+dfsg-8+deb8u2 -y
+sudo apt-get install --only-upgrade cacti=0.8.8b+dfsg-8+deb8u3 -y
