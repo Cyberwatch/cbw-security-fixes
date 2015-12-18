@@ -1,25 +1,25 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2015
 #
-# Security fix for DLA-365-1
+# Security fix for DLA-370-1
 #
-# Security announcement date: 2015-12-09 00:00:00 UTC
+# Security announcement date: 2015-12-16 00:00:00 UTC
 # Script generation date:     2015-12-18 07:07:44 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - foomatic-filters:4.0.5-6+squeeze2+deb6u11
+#   - bind9:1:9.7.3.dfsg-1~squeeze18
 #
 # Last versions recommanded by security team:
-#   - foomatic-filters:4.0.5-6+squeeze2+deb6u12
+#   - bind9:1:9.7.3.dfsg-1~squeeze18
 #
 # CVE List:
-#   - CVE-2015-8327
+#   - CVE-2015-8000
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-365-1
+#   - https://www.cyberwatch.fr/notices/DLA-370-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade foomatic-filters=4.0.5-6+squeeze2+deb6u12 -y
+sudo apt-get install --only-upgrade bind9=1:9.7.3.dfsg-1~squeeze18 -y
