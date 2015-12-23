@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1833
 #
 # Security announcement date: 2015-09-22 18:40:09 UTC
-# Script generation date:     2015-11-09 19:08:49 UTC
+# Script generation date:     2015-12-23 07:06:26 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.1
 #
 # Last versions recommanded by security team:
-#   - qemu-guest-agent:0.12.1.2-2.479.el6_7.2
-#   - qemu-img:0.12.1.2-2.479.el6_7.2
-#   - qemu-kvm:0.12.1.2-2.479.el6_7.2
-#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.2
+#   - qemu-guest-agent:0.12.1.2-2.479.el6_7.3
+#   - qemu-img:0.12.1.2-2.479.el6_7.3
+#   - qemu-kvm:0.12.1.2-2.479.el6_7.3
+#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.3
 #
 # CVE List:
 #   - CVE-2015-5165

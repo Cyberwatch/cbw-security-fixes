@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0420
 #
 # Security announcement date: 2014-04-22 19:33:34 UTC
-# Script generation date:     2015-10-23 06:09:52 UTC
+# Script generation date:     2015-12-23 07:05:54 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - qemu-kvm-tools:0.12.1.2-2.415.el6_5.8
 #
 # Last versions recommanded by security team:
-#   - qemu-guest-agent:0.12.1.2-2.479.el6_7.2
-#   - qemu-img:0.12.1.2-2.479.el6_7.2
-#   - qemu-kvm:0.12.1.2-2.479.el6_7.2
-#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.2
+#   - qemu-guest-agent:0.12.1.2-2.479.el6_7.3
+#   - qemu-img:0.12.1.2-2.479.el6_7.3
+#   - qemu-kvm:0.12.1.2-2.479.el6_7.3
+#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.3
 #
 # CVE List:
 #   - CVE-2014-0150

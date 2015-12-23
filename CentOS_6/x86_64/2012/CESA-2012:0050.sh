@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0050
 #
 # Security announcement date: 2012-01-24 03:15:05 UTC
-# Script generation date:     2015-10-23 06:09:10 UTC
+# Script generation date:     2015-12-23 07:05:03 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - qemu-kvm-tools:0.12.1.2-2.209.el6_2.4
 #
 # Last versions recommanded by security team:
-#   - qemu-img:0.12.1.2-2.479.el6_7.2
-#   - qemu-kvm:0.12.1.2-2.479.el6_7.2
-#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.2
+#   - qemu-img:0.12.1.2-2.479.el6_7.3
+#   - qemu-kvm:0.12.1.2-2.479.el6_7.3
+#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.3
 #
 # CVE List:
 #   - CVE-2011-4127
