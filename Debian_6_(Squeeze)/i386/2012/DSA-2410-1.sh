@@ -4,7 +4,7 @@
 # Security fix for DSA-2410-1
 #
 # Security announcement date: 2012-02-15 00:00:00 UTC
-# Script generation date:     2015-11-18 07:03:53 UTC
+# Script generation date:     2015-12-28 07:06:09 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libpng:1.2.44-1+squeeze2
 #
 # Last versions recommanded by security team:
-#   - libpng:1.2.44-1+squeeze5
+#   - libpng:1.2.44-1+squeeze6
 #
 # CVE List:
 #   - CVE-2011-3026
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2410-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libpng=1.2.44-1+squeeze5 -y
+sudo apt-get install --only-upgrade libpng=1.2.44-1+squeeze6 -y

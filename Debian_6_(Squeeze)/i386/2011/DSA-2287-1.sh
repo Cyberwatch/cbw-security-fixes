@@ -4,7 +4,7 @@
 # Security fix for DSA-2287-1
 #
 # Security announcement date: 2011-07-28 00:00:00 UTC
-# Script generation date:     2015-11-18 07:03:47 UTC
+# Script generation date:     2015-12-28 07:06:04 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libpng:1.2.44-1+squeeze1
 #
 # Last versions recommanded by security team:
-#   - libpng:1.2.44-1+squeeze5
+#   - libpng:1.2.44-1+squeeze6
 #
 # CVE List:
 #   - CVE-2011-2501
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2287-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libpng=1.2.44-1+squeeze5 -y
+sudo apt-get install --only-upgrade libpng=1.2.44-1+squeeze6 -y
