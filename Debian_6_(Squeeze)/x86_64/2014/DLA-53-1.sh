@@ -1,10 +1,10 @@
 #!/bin/sh
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-53-1
 #
 # Security announcement date: 2014-09-16 00:00:00 UTC
-# Script generation date:     2015-09-10 10:03:01 UTC
+# Script generation date:     2016-01-01 07:04:19 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
