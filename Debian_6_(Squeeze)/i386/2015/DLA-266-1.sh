@@ -4,7 +4,7 @@
 # Security fix for DLA-266-1
 #
 # Security announcement date: 2015-07-03 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:29 UTC
+# Script generation date:     2016-01-01 19:12:56 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -18,6 +18,7 @@
 # CVE List:
 #   - CVE-2015-1819
 #   - CVE-2015-7941
+#   - CVE-2015-8710
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/DLA-266-1
