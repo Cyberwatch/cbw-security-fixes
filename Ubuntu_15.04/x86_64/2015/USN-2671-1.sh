@@ -1,10 +1,10 @@
 #!/bin/sh
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for USN-2671-1
 #
 # Security announcement date: 2015-07-09 00:00:00 UTC
-# Script generation date:     2015-11-25 07:01:29 UTC
+# Script generation date:     2016-01-01 07:02:05 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: x86_64

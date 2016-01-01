@@ -1,9 +1,9 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for USN-2781-1
 #
 # Security announcement date: 2015-10-26 00:00:00 UTC
-# Script generation date:     2015-11-04 19:02:50 UTC
+# Script generation date:     2016-01-01 07:02:20 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
