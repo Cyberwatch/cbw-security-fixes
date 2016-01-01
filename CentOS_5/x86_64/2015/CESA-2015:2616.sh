@@ -1,9 +1,9 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:2616
 #
 # Security announcement date: 2015-12-14 23:02:16 UTC
-# Script generation date:     2015-12-17 07:23:06 UTC
+# Script generation date:     2016-01-01 07:07:21 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
