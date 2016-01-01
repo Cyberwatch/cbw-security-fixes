@@ -4,7 +4,7 @@
 # Security fix for DSA-3430-1
 #
 # Security announcement date: 2015-12-23 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:08 UTC
+# Script generation date:     2016-01-01 19:08:23 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -27,6 +27,7 @@
 #   - CVE-2015-8035
 #   - CVE-2015-8241
 #   - CVE-2015-8317
+#   - CVE-2015-8710
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/DSA-3430-1
