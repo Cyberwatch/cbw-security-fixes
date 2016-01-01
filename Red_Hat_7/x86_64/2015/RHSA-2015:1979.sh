@@ -1,9 +1,9 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1979
 #
 # Security announcement date: 2015-11-04 10:00:17 UTC
-# Script generation date:     2015-11-04 19:16:38 UTC
+# Script generation date:     2016-01-01 07:09:58 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
