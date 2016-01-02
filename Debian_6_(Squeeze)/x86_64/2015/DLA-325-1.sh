@@ -4,7 +4,7 @@
 # Security fix for DLA-325-1
 #
 # Security announcement date: 2015-10-12 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:34 UTC
+# Script generation date:     2016-01-02 19:12:49 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - linux-2.6:2.6.32-48squeeze16
 #
 # Last versions recommanded by security team:
-#   - linux-2.6:2.6.32-48squeeze17
+#   - linux-2.6:2.6.32-48squeeze18
 #
 # CVE List:
 #   - CVE-2015-2925
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-325-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze17 -y
+sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze18 -y
