@@ -4,7 +4,7 @@
 # Security fix for USN-2054-1
 #
 # Security announcement date: 2013-12-11 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:00 UTC
+# Script generation date:     2016-01-06 07:00:55 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - libpam-winbind:2:3.6.3-2ubuntu2.9
 #
 # Last versions recommanded by security team:
-#   - samba:2:3.6.3-2ubuntu2.12
-#   - libpam-winbind:2:3.6.3-2ubuntu2.12
+#   - samba:2:3.6.3-2ubuntu2.13
+#   - libpam-winbind:2:3.6.3-2ubuntu2.13
 #
 # CVE List:
 #   - CVE-2012-6150
@@ -26,5 +26,5 @@
 #   - https://www.cyberwatch.fr/notices/USN-2054-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade samba=2:3.6.3-2ubuntu2.12 -y
-sudo apt-get install --only-upgrade libpam-winbind=2:3.6.3-2ubuntu2.12 -y
+sudo apt-get install --only-upgrade samba=2:3.6.3-2ubuntu2.13 -y
+sudo apt-get install --only-upgrade libpam-winbind=2:3.6.3-2ubuntu2.13 -y
