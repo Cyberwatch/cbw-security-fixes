@@ -4,7 +4,7 @@
 # Security fix for USN-2815-1
 #
 # Security announcement date: 2015-11-19 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:26 UTC
+# Script generation date:     2016-01-06 19:02:14 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libpng12-0:1.2.46-3ubuntu4.1
 #
 # Last versions recommanded by security team:
-#   - libpng12-0:1.2.46-3ubuntu4.1
+#   - libpng12-0:1.2.46-3ubuntu4.2
 #
 # CVE List:
 #   - CVE-2012-3425
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2815-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libpng12-0=1.2.46-3ubuntu4.1 -y
+sudo apt-get install --only-upgrade libpng12-0=1.2.46-3ubuntu4.2 -y
