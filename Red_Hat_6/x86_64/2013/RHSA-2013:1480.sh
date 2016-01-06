@@ -1,20 +1,20 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1480
 #
 # Security announcement date: 2013-10-30 16:35:46 UTC
-# Script generation date:     2015-10-01 18:14:01 UTC
+# Script generation date:     2016-01-06 19:12:03 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - thunderbird:17.0.10-1.el6_4
-#   - thunderbird-debuginfo:17.0.10-1.el6_4
+#   - thunderbird:17.0.10-1.el6_4.x86_64
+#   - thunderbird-debuginfo:17.0.10-1.el6_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - thunderbird:38.3.0-1.el6_7
-#   - thunderbird-debuginfo:38.3.0-1.el6_7
+#   - thunderbird:38.3.0-1.el6_7.x86_64
+#   - thunderbird-debuginfo:38.3.0-1.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2013-5590

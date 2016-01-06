@@ -1,32 +1,32 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1674
 #
 # Security announcement date: 2013-11-21 04:51:08 UTC
-# Script generation date:     2015-09-10 09:45:21 UTC
+# Script generation date:     2016-01-06 19:12:07 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - dracut:004-336.el6
-#   - dracut-fips:004-336.el6
-#   - dracut-kernel:004-336.el6
-#   - dracut-network:004-336.el6
-#   - dracut-caps:004-336.el6
-#   - dracut-fips-aesni:004-336.el6
-#   - dracut-generic:004-336.el6
-#   - dracut-tools:004-336.el6
+#   - dracut:004-336.el6.noarch
+#   - dracut-fips:004-336.el6.noarch
+#   - dracut-kernel:004-336.el6.noarch
+#   - dracut-network:004-336.el6.noarch
+#   - dracut-caps:004-336.el6.noarch
+#   - dracut-fips-aesni:004-336.el6.noarch
+#   - dracut-generic:004-336.el6.noarch
+#   - dracut-tools:004-336.el6.noarch
 #
 # Last versions recommanded by security team:
-#   - dracut:004-336.el6
-#   - dracut-fips:004-336.el6
-#   - dracut-kernel:004-336.el6
-#   - dracut-network:004-336.el6
-#   - dracut-caps:004-336.el6
-#   - dracut-fips-aesni:004-336.el6
-#   - dracut-generic:004-336.el6
-#   - dracut-tools:004-336.el6
+#   - dracut:004-336.el6.noarch
+#   - dracut-fips:004-336.el6.noarch
+#   - dracut-kernel:004-336.el6.noarch
+#   - dracut-network:004-336.el6.noarch
+#   - dracut-caps:004-336.el6.noarch
+#   - dracut-fips-aesni:004-336.el6.noarch
+#   - dracut-generic:004-336.el6.noarch
+#   - dracut-tools:004-336.el6.noarch
 #
 # CVE List:
 #   - CVE-2012-4453

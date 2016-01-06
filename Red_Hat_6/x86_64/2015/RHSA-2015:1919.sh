@@ -1,42 +1,42 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1919
 #
 # Security announcement date: 2015-10-21 21:15:21 UTC
-# Script generation date:     2015-10-22 06:14:36 UTC
+# Script generation date:     2016-01-06 19:14:25 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.8.0-openjdk:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-debuginfo:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-headless:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-javadoc:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-javadoc-debug:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-debug:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-demo:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-demo-debug:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-devel:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-devel-debug:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-headless-debug:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-src:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-src-debug:1.8.0.65-0.b17.el6_7
+#   - java-1.8.0-openjdk:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-debuginfo:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-headless:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-javadoc:1.8.0.65-0.b17.el6_7.noarch
+#   - java-1.8.0-openjdk-javadoc-debug:1.8.0.65-0.b17.el6_7.noarch
+#   - java-1.8.0-openjdk-debug:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-demo:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-demo-debug:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-devel:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-devel-debug:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-headless-debug:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-src:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-src-debug:1.8.0.65-0.b17.el6_7.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.8.0-openjdk:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-debuginfo:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-headless:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-javadoc:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-javadoc-debug:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-debug:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-demo:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-demo-debug:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-devel:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-devel-debug:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-headless-debug:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-src:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-src-debug:1.8.0.65-0.b17.el6_7
+#   - java-1.8.0-openjdk:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-debuginfo:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-headless:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-javadoc:1.8.0.65-0.b17.el6_7.noarch
+#   - java-1.8.0-openjdk-javadoc-debug:1.8.0.65-0.b17.el6_7.noarch
+#   - java-1.8.0-openjdk-debug:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-demo:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-demo-debug:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-devel:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-devel-debug:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-headless-debug:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-src:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-src-debug:1.8.0.65-0.b17.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2015-4734

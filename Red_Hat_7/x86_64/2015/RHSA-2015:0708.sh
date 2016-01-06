@@ -1,54 +1,54 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0708
 #
 # Security announcement date: 2015-03-19 17:19:03 UTC
-# Script generation date:     2015-09-10 09:47:10 UTC
+# Script generation date:     2016-01-06 19:13:38 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - python-qpid:0.22-19.el7
-#   - qpid-cpp-client-devel-docs:0.22-51.el7
-#   - libdb-cxx:5.3.21-17.el7_0.1
-#   - libdb-cxx-devel:5.3.21-17.el7_0.1
-#   - libdb-debuginfo:5.3.21-17.el7_0.1
-#   - python-qpid-qmf:0.22-41.el7
-#   - qpid-cpp-client:0.22-51.el7
-#   - qpid-cpp-client-devel:0.22-51.el7
-#   - qpid-cpp-client-rdma:0.22-51.el7
-#   - qpid-cpp-debuginfo:0.22-51.el7
-#   - qpid-cpp-server:0.22-51.el7
-#   - qpid-cpp-server-devel:0.22-51.el7
-#   - qpid-cpp-server-ha:0.22-51.el7
-#   - qpid-cpp-server-linearstore:0.22-51.el7
-#   - qpid-cpp-server-rdma:0.22-51.el7
-#   - qpid-qmf:0.22-41.el7
-#   - qpid-qmf-debuginfo:0.22-41.el7
-#   - qpid-qmf-devel:0.22-41.el7
-#   - ruby-qpid-qmf:0.22-41.el7
+#   - python-qpid:0.22-19.el7.noarch
+#   - qpid-cpp-client-devel-docs:0.22-51.el7.noarch
+#   - libdb-cxx:5.3.21-17.el7_0.1.x86_64
+#   - libdb-cxx-devel:5.3.21-17.el7_0.1.x86_64
+#   - libdb-debuginfo:5.3.21-17.el7_0.1.x86_64
+#   - python-qpid-qmf:0.22-41.el7.x86_64
+#   - qpid-cpp-client:0.22-51.el7.x86_64
+#   - qpid-cpp-client-devel:0.22-51.el7.x86_64
+#   - qpid-cpp-client-rdma:0.22-51.el7.x86_64
+#   - qpid-cpp-debuginfo:0.22-51.el7.x86_64
+#   - qpid-cpp-server:0.22-51.el7.x86_64
+#   - qpid-cpp-server-devel:0.22-51.el7.x86_64
+#   - qpid-cpp-server-ha:0.22-51.el7.x86_64
+#   - qpid-cpp-server-linearstore:0.22-51.el7.x86_64
+#   - qpid-cpp-server-rdma:0.22-51.el7.x86_64
+#   - qpid-qmf:0.22-41.el7.x86_64
+#   - qpid-qmf-debuginfo:0.22-41.el7.x86_64
+#   - qpid-qmf-devel:0.22-41.el7.x86_64
+#   - ruby-qpid-qmf:0.22-41.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - python-qpid:0.30-6.el7
-#   - qpid-cpp-client-devel-docs:0.22-51.el7
-#   - libdb-cxx:5.3.21-17.el7_0.1
-#   - libdb-cxx-devel:5.3.21-17.el7_0.1
-#   - libdb-debuginfo:5.3.21-17.el7_0.1
-#   - python-qpid-qmf:0.30-5.el7
-#   - qpid-cpp-client:0.30-9.el7
-#   - qpid-cpp-client-devel:0.30-9.el7
-#   - qpid-cpp-client-rdma:0.22-51.el7
-#   - qpid-cpp-debuginfo:0.30-9.el7
-#   - qpid-cpp-server:0.30-9.el7
-#   - qpid-cpp-server-devel:0.30-9.el7
-#   - qpid-cpp-server-ha:0.22-51.el7
-#   - qpid-cpp-server-linearstore:0.30-9.el7
-#   - qpid-cpp-server-rdma:0.22-51.el7
-#   - qpid-qmf:0.30-5.el7
-#   - qpid-qmf-debuginfo:0.30-5.el7
-#   - qpid-qmf-devel:0.22-41.el7
-#   - ruby-qpid-qmf:0.22-41.el7
+#   - python-qpid:0.30-6.el7.noarch
+#   - qpid-cpp-client-devel-docs:0.22-51.el7.noarch
+#   - libdb-cxx:5.3.21-17.el7_0.1.x86_64
+#   - libdb-cxx-devel:5.3.21-17.el7_0.1.x86_64
+#   - libdb-debuginfo:5.3.21-17.el7_0.1.x86_64
+#   - python-qpid-qmf:0.30-5.el7.x86_64
+#   - qpid-cpp-client:0.30-9.el7.x86_64
+#   - qpid-cpp-client-devel:0.30-9.el7.x86_64
+#   - qpid-cpp-client-rdma:0.22-51.el7.x86_64
+#   - qpid-cpp-debuginfo:0.30-9.el7.x86_64
+#   - qpid-cpp-server:0.30-9.el7.x86_64
+#   - qpid-cpp-server-devel:0.30-9.el7.x86_64
+#   - qpid-cpp-server-ha:0.22-51.el7.x86_64
+#   - qpid-cpp-server-linearstore:0.30-9.el7.x86_64
+#   - qpid-cpp-server-rdma:0.22-51.el7.x86_64
+#   - qpid-qmf:0.30-5.el7.x86_64
+#   - qpid-qmf-debuginfo:0.30-5.el7.x86_64
+#   - qpid-qmf-devel:0.22-41.el7.x86_64
+#   - ruby-qpid-qmf:0.22-41.el7.x86_64
 #
 # CVE List:
 #   - CVE-2015-0203

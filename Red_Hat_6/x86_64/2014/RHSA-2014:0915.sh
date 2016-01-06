@@ -1,40 +1,40 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0915
 #
 # Security announcement date: 2014-07-22 19:24:53 UTC
-# Script generation date:     2015-11-04 19:14:39 UTC
+# Script generation date:     2016-01-06 19:12:41 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - nss:3.14.3-6.el6_4
-#   - nss-debuginfo:3.14.3-6.el6_4
-#   - nss-sysinit:3.14.3-6.el6_4
-#   - nss-tools:3.14.3-6.el6_4
-#   - nss-devel:3.14.3-6.el6_4
-#   - nss-pkcs11-devel:3.14.3-6.el6_4
-#   - nss:3.13.1-10.el6_2
-#   - nss-debuginfo:3.13.1-10.el6_2
-#   - nss-devel:3.13.1-10.el6_2
-#   - nss-sysinit:3.13.1-10.el6_2
-#   - nss-tools:3.13.1-10.el6_2
-#   - nss-pkcs11-devel:3.13.1-10.el6_2
+#   - nss:3.14.3-6.el6_4.x86_64
+#   - nss-debuginfo:3.14.3-6.el6_4.x86_64
+#   - nss-sysinit:3.14.3-6.el6_4.x86_64
+#   - nss-tools:3.14.3-6.el6_4.x86_64
+#   - nss-devel:3.14.3-6.el6_4.x86_64
+#   - nss-pkcs11-devel:3.14.3-6.el6_4.x86_64
+#   - nss:3.13.1-10.el6_2.x86_64
+#   - nss-debuginfo:3.13.1-10.el6_2.x86_64
+#   - nss-devel:3.13.1-10.el6_2.x86_64
+#   - nss-sysinit:3.13.1-10.el6_2.x86_64
+#   - nss-tools:3.13.1-10.el6_2.x86_64
+#   - nss-pkcs11-devel:3.13.1-10.el6_2.x86_64
 #
 # Last versions recommanded by security team:
-#   - nss:3.19.1-5.el6_7
-#   - nss-debuginfo:3.19.1-5.el6_7
-#   - nss-sysinit:3.19.1-5.el6_7
-#   - nss-tools:3.19.1-5.el6_7
-#   - nss-devel:3.19.1-5.el6_7
-#   - nss-pkcs11-devel:3.19.1-5.el6_7
-#   - nss:3.19.1-5.el6_7
-#   - nss-debuginfo:3.19.1-5.el6_7
-#   - nss-devel:3.19.1-5.el6_7
-#   - nss-sysinit:3.19.1-5.el6_7
-#   - nss-tools:3.19.1-5.el6_7
-#   - nss-pkcs11-devel:3.19.1-5.el6_7
+#   - nss:3.19.1-3.el6_6.x86_64
+#   - nss-debuginfo:3.19.1-3.el6_6.x86_64
+#   - nss-sysinit:3.19.1-3.el6_6.x86_64
+#   - nss-tools:3.19.1-3.el6_6.x86_64
+#   - nss-devel:3.19.1-3.el6_6.x86_64
+#   - nss-pkcs11-devel:3.19.1-3.el6_6.x86_64
+#   - nss:3.19.1-3.el6_6.x86_64
+#   - nss-debuginfo:3.19.1-3.el6_6.x86_64
+#   - nss-devel:3.19.1-3.el6_6.x86_64
+#   - nss-sysinit:3.19.1-3.el6_6.x86_64
+#   - nss-tools:3.19.1-3.el6_6.x86_64
+#   - nss-pkcs11-devel:3.19.1-3.el6_6.x86_64
 #
 # CVE List:
 #   - CVE-2014-1544

@@ -1,38 +1,38 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1377
 #
 # Security announcement date: 2011-10-17 22:00:55 UTC
-# Script generation date:     2015-09-10 09:43:30 UTC
+# Script generation date:     2016-01-06 19:10:30 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - postgresql:8.1.23-1.el5_7.2
-#   - postgresql-contrib:8.1.23-1.el5_7.2
-#   - postgresql-debuginfo:8.1.23-1.el5_7.2
-#   - postgresql-docs:8.1.23-1.el5_7.2
-#   - postgresql-libs:8.1.23-1.el5_7.2
-#   - postgresql-python:8.1.23-1.el5_7.2
-#   - postgresql-tcl:8.1.23-1.el5_7.2
-#   - postgresql-devel:8.1.23-1.el5_7.2
-#   - postgresql-pl:8.1.23-1.el5_7.2
-#   - postgresql-server:8.1.23-1.el5_7.2
-#   - postgresql-test:8.1.23-1.el5_7.2
+#   - postgresql:8.1.23-1.el5_7.2.x86_64
+#   - postgresql-contrib:8.1.23-1.el5_7.2.x86_64
+#   - postgresql-debuginfo:8.1.23-1.el5_7.2.x86_64
+#   - postgresql-docs:8.1.23-1.el5_7.2.x86_64
+#   - postgresql-libs:8.1.23-1.el5_7.2.x86_64
+#   - postgresql-python:8.1.23-1.el5_7.2.x86_64
+#   - postgresql-tcl:8.1.23-1.el5_7.2.x86_64
+#   - postgresql-devel:8.1.23-1.el5_7.2.x86_64
+#   - postgresql-pl:8.1.23-1.el5_7.2.x86_64
+#   - postgresql-server:8.1.23-1.el5_7.2.x86_64
+#   - postgresql-test:8.1.23-1.el5_7.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - postgresql:8.1.23-10.el5_10
-#   - postgresql-contrib:8.1.23-10.el5_10
-#   - postgresql-debuginfo:8.1.23-10.el5_10
-#   - postgresql-docs:8.1.23-10.el5_10
-#   - postgresql-libs:8.1.23-10.el5_10
-#   - postgresql-python:8.1.23-10.el5_10
-#   - postgresql-tcl:8.1.23-10.el5_10
-#   - postgresql-devel:8.1.23-10.el5_10
-#   - postgresql-pl:8.1.23-10.el5_10
-#   - postgresql-server:8.1.23-10.el5_10
-#   - postgresql-test:8.1.23-10.el5_10
+#   - postgresql:8.1.23-10.el5_10.x86_64
+#   - postgresql-contrib:8.1.23-10.el5_10.x86_64
+#   - postgresql-debuginfo:8.1.23-10.el5_10.x86_64
+#   - postgresql-docs:8.1.23-10.el5_10.x86_64
+#   - postgresql-libs:8.1.23-10.el5_10.x86_64
+#   - postgresql-python:8.1.23-10.el5_10.x86_64
+#   - postgresql-tcl:8.1.23-10.el5_10.x86_64
+#   - postgresql-devel:8.1.23-10.el5_10.x86_64
+#   - postgresql-pl:8.1.23-10.el5_10.x86_64
+#   - postgresql-server:8.1.23-10.el5_10.x86_64
+#   - postgresql-test:8.1.23-10.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2011-2483

@@ -1,26 +1,26 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0095
 #
 # Security announcement date: 2012-02-02 22:54:35 UTC
-# Script generation date:     2015-09-10 09:43:42 UTC
+# Script generation date:     2016-01-06 19:10:42 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ghostscript:8.70-11.el6_2.6
-#   - ghostscript-debuginfo:8.70-11.el6_2.6
-#   - ghostscript-devel:8.70-11.el6_2.6
-#   - ghostscript-doc:8.70-11.el6_2.6
-#   - ghostscript-gtk:8.70-11.el6_2.6
+#   - ghostscript:8.70-11.el6_2.6.x86_64
+#   - ghostscript-debuginfo:8.70-11.el6_2.6.x86_64
+#   - ghostscript-devel:8.70-11.el6_2.6.x86_64
+#   - ghostscript-doc:8.70-11.el6_2.6.x86_64
+#   - ghostscript-gtk:8.70-11.el6_2.6.x86_64
 #
 # Last versions recommanded by security team:
-#   - ghostscript:8.70-14.el6_3.1
-#   - ghostscript-debuginfo:8.70-19.el6
-#   - ghostscript-devel:8.70-19.el6
-#   - ghostscript-doc:8.70-19.el6
-#   - ghostscript-gtk:8.70-14.el6_3.1
+#   - ghostscript:8.70-14.el6_3.1.x86_64
+#   - ghostscript-debuginfo:8.70-19.el6.x86_64
+#   - ghostscript-devel:8.70-19.el6.x86_64
+#   - ghostscript-doc:8.70-19.el6.x86_64
+#   - ghostscript-gtk:8.70-14.el6_3.1.x86_64
 #
 # CVE List:
 #   - CVE-2009-3743

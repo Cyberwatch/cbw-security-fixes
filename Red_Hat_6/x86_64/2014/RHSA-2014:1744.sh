@@ -1,22 +1,22 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1744
 #
 # Security announcement date: 2014-10-30 12:50:46 UTC
-# Script generation date:     2015-09-10 09:46:32 UTC
+# Script generation date:     2016-01-06 19:13:06 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - v8314-v8:3.14.5.10-6.el6
-#   - v8314-v8-debuginfo:3.14.5.10-6.el6
-#   - v8314-v8-devel:3.14.5.10-6.el6
+#   - v8314-v8:3.14.5.10-6.el6.x86_64
+#   - v8314-v8-debuginfo:3.14.5.10-6.el6.x86_64
+#   - v8314-v8-devel:3.14.5.10-6.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - v8314-v8:3.14.5.10-6.el6
-#   - v8314-v8-debuginfo:3.14.5.10-6.el6
-#   - v8314-v8-devel:3.14.5.10-6.el6
+#   - v8314-v8:3.14.5.10-6.el6.x86_64
+#   - v8314-v8-debuginfo:3.14.5.10-6.el6.x86_64
+#   - v8314-v8-devel:3.14.5.10-6.el6.x86_64
 #
 # CVE List:
 #   - CVE-2013-6639

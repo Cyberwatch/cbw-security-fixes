@@ -1,26 +1,26 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0153
 #
 # Security announcement date: 2013-01-10 20:45:14 UTC
-# Script generation date:     2015-09-10 09:44:29 UTC
+# Script generation date:     2016-01-06 19:11:22 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ruby193-rubygem-actionpack:3.2.8-2.el6
-#   - ruby193-rubygem-actionpack-doc:3.2.8-2.el6
-#   - ruby193-rubygem-activesupport:3.2.8-3.el6
-#   - rubygem-actionpack:3.0.13-2.1.el6op
-#   - rubygem-activesupport:3.0.13-2.el6op
+#   - ruby193-rubygem-actionpack:3.2.8-2.el6.noarch
+#   - ruby193-rubygem-actionpack-doc:3.2.8-2.el6.noarch
+#   - ruby193-rubygem-activesupport:3.2.8-3.el6.noarch
+#   - rubygem-actionpack:3.0.13-2.1.el6op.noarch
+#   - rubygem-activesupport:3.0.13-2.el6op.noarch
 #
 # Last versions recommanded by security team:
-#   - ruby193-rubygem-actionpack:3.2.17-6.el6sam
-#   - ruby193-rubygem-actionpack-doc:3.2.8-5.5.el6
-#   - ruby193-rubygem-activesupport:3.2.17-2.el6sam
-#   - rubygem-actionpack:3.0.13-8.el6op
-#   - rubygem-activesupport:3.0.10-9.el6cf
+#   - ruby193-rubygem-actionpack:3.2.17-6.el6sam.noarch
+#   - ruby193-rubygem-actionpack-doc:3.2.8-5.5.el6.noarch
+#   - ruby193-rubygem-activesupport:3.2.17-2.el6sam.noarch
+#   - rubygem-actionpack:3.0.13-8.el6op.noarch
+#   - rubygem-activesupport:3.0.10-9.el6cf.noarch
 #
 # CVE List:
 #   - CVE-2013-0156

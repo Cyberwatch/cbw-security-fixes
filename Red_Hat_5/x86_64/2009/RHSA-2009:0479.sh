@@ -1,20 +1,20 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:0479
 #
 # Security announcement date: 2009-05-13 14:36:49 UTC
-# Script generation date:     2015-09-10 09:42:01 UTC
+# Script generation date:     2016-01-06 19:09:05 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - perl-DBD-Pg:1.49-2.el5_3.1
-#   - perl-DBD-Pg-debuginfo:1.49-2.el5_3.1
+#   - perl-DBD-Pg:1.49-2.el5_3.1.x86_64
+#   - perl-DBD-Pg-debuginfo:1.49-2.el5_3.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - perl-DBD-Pg:1.49-4.el5_8
-#   - perl-DBD-Pg-debuginfo:1.49-4.el5_8
+#   - perl-DBD-Pg:1.49-4.el5_8.x86_64
+#   - perl-DBD-Pg-debuginfo:1.49-4.el5_8.x86_64
 #
 # CVE List:
 #   - CVE-2009-0663

@@ -1,24 +1,24 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0428
 #
 # Security announcement date: 2012-03-27 23:07:03 UTC
-# Script generation date:     2015-09-10 09:43:49 UTC
+# Script generation date:     2016-01-06 19:10:48 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - gnutls:1.4.1-7.el5_8.2
-#   - gnutls-debuginfo:1.4.1-7.el5_8.2
-#   - gnutls-utils:1.4.1-7.el5_8.2
-#   - gnutls-devel:1.4.1-7.el5_8.2
+#   - gnutls:1.4.1-7.el5_8.2.x86_64
+#   - gnutls-debuginfo:1.4.1-7.el5_8.2.x86_64
+#   - gnutls-utils:1.4.1-7.el5_8.2.x86_64
+#   - gnutls-devel:1.4.1-7.el5_8.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - gnutls:1.4.1-16.el5_10
-#   - gnutls-debuginfo:1.4.1-16.el5_10
-#   - gnutls-utils:1.4.1-16.el5_10
-#   - gnutls-devel:1.4.1-16.el5_10
+#   - gnutls:1.4.1-16.el5_10.x86_64
+#   - gnutls-debuginfo:1.4.1-16.el5_10.x86_64
+#   - gnutls-utils:1.4.1-16.el5_10.x86_64
+#   - gnutls-devel:1.4.1-16.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2011-4128

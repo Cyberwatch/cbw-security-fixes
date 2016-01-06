@@ -1,20 +1,20 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1090
 #
 # Security announcement date: 2015-06-11 18:30:56 UTC
-# Script generation date:     2015-09-10 09:47:30 UTC
+# Script generation date:     2016-01-06 19:13:55 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - wpa_supplicant:2.0-17.el7_1
-#   - wpa_supplicant-debuginfo:2.0-17.el7_1
+#   - wpa_supplicant:2.0-17.el7_1.x86_64
+#   - wpa_supplicant-debuginfo:2.0-17.el7_1.x86_64
 #
 # Last versions recommanded by security team:
-#   - wpa_supplicant:2.0-17.el7_1
-#   - wpa_supplicant-debuginfo:2.0-17.el7_1
+#   - wpa_supplicant:2.0-17.el7_1.x86_64
+#   - wpa_supplicant-debuginfo:2.0-17.el7_1.x86_64
 #
 # CVE List:
 #   - CVE-2015-1863

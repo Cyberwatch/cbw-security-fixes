@@ -1,36 +1,36 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0909
 #
 # Security announcement date: 2011-06-28 17:37:29 UTC
-# Script generation date:     2015-09-10 09:43:12 UTC
+# Script generation date:     2016-01-06 19:10:04 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ruby:1.8.5-19.el5_6.1
-#   - ruby-debuginfo:1.8.5-19.el5_6.1
-#   - ruby-docs:1.8.5-19.el5_6.1
-#   - ruby-irb:1.8.5-19.el5_6.1
-#   - ruby-libs:1.8.5-19.el5_6.1
-#   - ruby-rdoc:1.8.5-19.el5_6.1
-#   - ruby-ri:1.8.5-19.el5_6.1
-#   - ruby-tcltk:1.8.5-19.el5_6.1
-#   - ruby-devel:1.8.5-19.el5_6.1
-#   - ruby-mode:1.8.5-19.el5_6.1
+#   - ruby:1.8.5-19.el5_6.1.x86_64
+#   - ruby-debuginfo:1.8.5-19.el5_6.1.x86_64
+#   - ruby-docs:1.8.5-19.el5_6.1.x86_64
+#   - ruby-irb:1.8.5-19.el5_6.1.x86_64
+#   - ruby-libs:1.8.5-19.el5_6.1.x86_64
+#   - ruby-rdoc:1.8.5-19.el5_6.1.x86_64
+#   - ruby-ri:1.8.5-19.el5_6.1.x86_64
+#   - ruby-tcltk:1.8.5-19.el5_6.1.x86_64
+#   - ruby-devel:1.8.5-19.el5_6.1.x86_64
+#   - ruby-mode:1.8.5-19.el5_6.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - ruby:1.8.5-31.el5_9
-#   - ruby-debuginfo:1.8.5-31.el5_9
-#   - ruby-docs:1.8.5-31.el5_9
-#   - ruby-irb:1.8.5-31.el5_9
-#   - ruby-libs:1.8.5-31.el5_9
-#   - ruby-rdoc:1.8.5-31.el5_9
-#   - ruby-ri:1.8.5-31.el5_9
-#   - ruby-tcltk:1.8.5-31.el5_9
-#   - ruby-devel:1.8.5-31.el5_9
-#   - ruby-mode:1.8.5-31.el5_9
+#   - ruby:1.8.5-31.el5_9.x86_64
+#   - ruby-debuginfo:1.8.5-31.el5_9.x86_64
+#   - ruby-docs:1.8.5-31.el5_9.x86_64
+#   - ruby-irb:1.8.5-31.el5_9.x86_64
+#   - ruby-libs:1.8.5-31.el5_9.x86_64
+#   - ruby-rdoc:1.8.5-31.el5_9.x86_64
+#   - ruby-ri:1.8.5-31.el5_9.x86_64
+#   - ruby-tcltk:1.8.5-31.el5_9.x86_64
+#   - ruby-devel:1.8.5-31.el5_9.x86_64
+#   - ruby-mode:1.8.5-31.el5_9.x86_64
 #
 # CVE List:
 #   - CVE-2009-4492

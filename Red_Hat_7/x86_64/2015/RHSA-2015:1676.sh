@@ -1,20 +1,20 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1676
 #
 # Security announcement date: 2015-08-24 20:21:56 UTC
-# Script generation date:     2015-09-10 09:47:54 UTC
+# Script generation date:     2016-01-06 19:14:16 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - redis:2.8.21-1.el7ost
-#   - redis-debuginfo:2.8.21-1.el7ost
+#   - redis:2.8.21-1.el7ost.x86_64
+#   - redis-debuginfo:2.8.21-1.el7ost.x86_64
 #
 # Last versions recommanded by security team:
-#   - redis:2.8.21-1.el7ost
-#   - redis-debuginfo:2.8.21-1.el7ost
+#   - redis:2.8.21-1.el7ost.x86_64
+#   - redis-debuginfo:2.8.21-1.el7ost.x86_64
 #
 # CVE List:
 #   - CVE-2015-4335

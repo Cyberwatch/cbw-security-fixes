@@ -1,28 +1,28 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0180
 #
 # Security announcement date: 2013-01-22 19:58:13 UTC
-# Script generation date:     2015-09-10 09:44:30 UTC
+# Script generation date:     2016-01-06 19:11:23 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mysql:5.0.95-5.el5_9
-#   - mysql-debuginfo:5.0.95-5.el5_9
-#   - mysql-bench:5.0.95-5.el5_9
-#   - mysql-devel:5.0.95-5.el5_9
-#   - mysql-server:5.0.95-5.el5_9
-#   - mysql-test:5.0.95-5.el5_9
+#   - mysql:5.0.95-5.el5_9.x86_64
+#   - mysql-debuginfo:5.0.95-5.el5_9.x86_64
+#   - mysql-bench:5.0.95-5.el5_9.x86_64
+#   - mysql-devel:5.0.95-5.el5_9.x86_64
+#   - mysql-server:5.0.95-5.el5_9.x86_64
+#   - mysql-test:5.0.95-5.el5_9.x86_64
 #
 # Last versions recommanded by security team:
-#   - mysql:5.0.95-5.el5_9
-#   - mysql-debuginfo:5.0.95-5.el5_9
-#   - mysql-bench:5.0.95-5.el5_9
-#   - mysql-devel:5.0.95-5.el5_9
-#   - mysql-server:5.0.95-5.el5_9
-#   - mysql-test:5.0.95-5.el5_9
+#   - mysql:5.0.95-5.el5_9.x86_64
+#   - mysql-debuginfo:5.0.95-5.el5_9.x86_64
+#   - mysql-bench:5.0.95-5.el5_9.x86_64
+#   - mysql-devel:5.0.95-5.el5_9.x86_64
+#   - mysql-server:5.0.95-5.el5_9.x86_64
+#   - mysql-test:5.0.95-5.el5_9.x86_64
 #
 # CVE List:
 #   - CVE-2012-2749

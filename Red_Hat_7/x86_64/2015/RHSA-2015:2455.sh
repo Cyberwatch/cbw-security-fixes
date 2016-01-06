@@ -3,24 +3,24 @@
 # Security fix for RHSA-2015:2455
 #
 # Security announcement date: 2015-11-19 22:02:36 UTC
-# Script generation date:     2016-01-01 07:10:06 UTC
+# Script generation date:     2016-01-06 19:14:31 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - unbound:1.4.20-26.el7
-#   - unbound-debuginfo:1.4.20-26.el7
-#   - unbound-libs:1.4.20-26.el7
-#   - unbound-devel:1.4.20-26.el7
-#   - unbound-python:1.4.20-26.el7
+#   - unbound:1.4.20-26.el7.x86_64
+#   - unbound-debuginfo:1.4.20-26.el7.x86_64
+#   - unbound-libs:1.4.20-26.el7.x86_64
+#   - unbound-devel:1.4.20-26.el7.x86_64
+#   - unbound-python:1.4.20-26.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - unbound:1.4.20-26.el7
-#   - unbound-debuginfo:1.4.20-26.el7
-#   - unbound-libs:1.4.20-26.el7
-#   - unbound-devel:1.4.20-26.el7
-#   - unbound-python:1.4.20-26.el7
+#   - unbound:1.4.20-26.el7.x86_64
+#   - unbound-debuginfo:1.4.20-26.el7.x86_64
+#   - unbound-libs:1.4.20-26.el7.x86_64
+#   - unbound-devel:1.4.20-26.el7.x86_64
+#   - unbound-python:1.4.20-26.el7.x86_64
 #
 # CVE List:
 #   - CVE-2014-8602

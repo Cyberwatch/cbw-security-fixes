@@ -1,26 +1,26 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1043
 #
 # Security announcement date: 2013-07-11 01:46:42 UTC
-# Script generation date:     2015-09-10 09:45:00 UTC
+# Script generation date:     2016-01-06 19:11:50 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - richfaces:3.3.1-3.SP3_patch_01.ep5.el6
-#   - richfaces-demo:3.3.1-3.SP3_patch_01.ep5.el6
-#   - richfaces-framework:3.3.1-3.SP3_patch_01.ep5.el6
-#   - richfaces-root:3.3.1-3.SP3_patch_01.ep5.el6
-#   - richfaces-ui:3.3.1-3.SP3_patch_01.ep5.el6
+#   - richfaces:3.3.1-3.SP3_patch_01.ep5.el6.noarch
+#   - richfaces-demo:3.3.1-3.SP3_patch_01.ep5.el6.noarch
+#   - richfaces-framework:3.3.1-3.SP3_patch_01.ep5.el6.noarch
+#   - richfaces-root:3.3.1-3.SP3_patch_01.ep5.el6.noarch
+#   - richfaces-ui:3.3.1-3.SP3_patch_01.ep5.el6.noarch
 #
 # Last versions recommanded by security team:
-#   - richfaces:3.3.1-3.SP3_patch_01.ep5.el6
-#   - richfaces-demo:3.3.1-3.SP3_patch_01.ep5.el6
-#   - richfaces-framework:3.3.1-3.SP3_patch_01.ep5.el6
-#   - richfaces-root:3.3.1-3.SP3_patch_01.ep5.el6
-#   - richfaces-ui:3.3.1-3.SP3_patch_01.ep5.el6
+#   - richfaces:3.3.1-3.SP3_patch_01.ep5.el6.noarch
+#   - richfaces-demo:3.3.1-3.SP3_patch_01.ep5.el6.noarch
+#   - richfaces-framework:3.3.1-3.SP3_patch_01.ep5.el6.noarch
+#   - richfaces-root:3.3.1-3.SP3_patch_01.ep5.el6.noarch
+#   - richfaces-ui:3.3.1-3.SP3_patch_01.ep5.el6.noarch
 #
 # CVE List:
 #   - CVE-2013-2165

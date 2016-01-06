@@ -1,22 +1,22 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0827
 #
 # Security announcement date: 2013-05-15 17:51:50 UTC
-# Script generation date:     2015-09-10 09:44:49 UTC
+# Script generation date:     2016-01-06 19:11:41 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openswan:2.6.32-5.el5_9
-#   - openswan-debuginfo:2.6.32-5.el5_9
-#   - openswan-doc:2.6.32-5.el5_9
+#   - openswan:2.6.32-5.el5_9.x86_64
+#   - openswan-debuginfo:2.6.32-5.el5_9.x86_64
+#   - openswan-doc:2.6.32-5.el5_9.x86_64
 #
 # Last versions recommanded by security team:
-#   - openswan:2.6.32-7.3.el5_10
-#   - openswan-debuginfo:2.6.32-7.3.el5_10
-#   - openswan-doc:2.6.32-7.3.el5_10
+#   - openswan:2.6.32-7.3.el5_10.x86_64
+#   - openswan-debuginfo:2.6.32-7.3.el5_10.x86_64
+#   - openswan-doc:2.6.32-7.3.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2013-2053

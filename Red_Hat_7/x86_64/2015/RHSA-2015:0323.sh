@@ -1,56 +1,56 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0323
 #
 # Security announcement date: 2015-03-05 14:51:58 UTC
-# Script generation date:     2015-09-10 09:47:08 UTC
+# Script generation date:     2016-01-06 19:13:36 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libvirt:1.2.8-16.el7
-#   - libvirt-client:1.2.8-16.el7
-#   - libvirt-daemon:1.2.8-16.el7
-#   - libvirt-daemon-config-network:1.2.8-16.el7
-#   - libvirt-daemon-config-nwfilter:1.2.8-16.el7
-#   - libvirt-daemon-driver-interface:1.2.8-16.el7
-#   - libvirt-daemon-driver-lxc:1.2.8-16.el7
-#   - libvirt-daemon-driver-network:1.2.8-16.el7
-#   - libvirt-daemon-driver-nodedev:1.2.8-16.el7
-#   - libvirt-daemon-driver-nwfilter:1.2.8-16.el7
-#   - libvirt-daemon-driver-qemu:1.2.8-16.el7
-#   - libvirt-daemon-driver-secret:1.2.8-16.el7
-#   - libvirt-daemon-driver-storage:1.2.8-16.el7
-#   - libvirt-daemon-kvm:1.2.8-16.el7
-#   - libvirt-debuginfo:1.2.8-16.el7
-#   - libvirt-daemon-lxc:1.2.8-16.el7
-#   - libvirt-devel:1.2.8-16.el7
-#   - libvirt-docs:1.2.8-16.el7
-#   - libvirt-lock-sanlock:1.2.8-16.el7
-#   - libvirt-login-shell:1.2.8-16.el7
+#   - libvirt:1.2.8-16.el7.x86_64
+#   - libvirt-client:1.2.8-16.el7.x86_64
+#   - libvirt-daemon:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-config-network:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-config-nwfilter:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-interface:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-lxc:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-network:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-nodedev:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-nwfilter:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-qemu:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-secret:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-storage:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-kvm:1.2.8-16.el7.x86_64
+#   - libvirt-debuginfo:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-lxc:1.2.8-16.el7.x86_64
+#   - libvirt-devel:1.2.8-16.el7.x86_64
+#   - libvirt-docs:1.2.8-16.el7.x86_64
+#   - libvirt-lock-sanlock:1.2.8-16.el7.x86_64
+#   - libvirt-login-shell:1.2.8-16.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - libvirt:1.2.8-16.el7
-#   - libvirt-client:1.2.8-16.el7
-#   - libvirt-daemon:1.2.8-16.el7
-#   - libvirt-daemon-config-network:1.2.8-16.el7
-#   - libvirt-daemon-config-nwfilter:1.2.8-16.el7
-#   - libvirt-daemon-driver-interface:1.2.8-16.el7
-#   - libvirt-daemon-driver-lxc:1.2.8-16.el7
-#   - libvirt-daemon-driver-network:1.2.8-16.el7
-#   - libvirt-daemon-driver-nodedev:1.2.8-16.el7
-#   - libvirt-daemon-driver-nwfilter:1.2.8-16.el7
-#   - libvirt-daemon-driver-qemu:1.2.8-16.el7
-#   - libvirt-daemon-driver-secret:1.2.8-16.el7
-#   - libvirt-daemon-driver-storage:1.2.8-16.el7
-#   - libvirt-daemon-kvm:1.2.8-16.el7
-#   - libvirt-debuginfo:1.2.8-16.el7
-#   - libvirt-daemon-lxc:1.2.8-16.el7
-#   - libvirt-devel:1.2.8-16.el7
-#   - libvirt-docs:1.2.8-16.el7
-#   - libvirt-lock-sanlock:1.2.8-16.el7
-#   - libvirt-login-shell:1.2.8-16.el7
+#   - libvirt:1.2.8-16.el7.x86_64
+#   - libvirt-client:1.2.8-16.el7.x86_64
+#   - libvirt-daemon:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-config-network:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-config-nwfilter:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-interface:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-lxc:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-network:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-nodedev:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-nwfilter:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-qemu:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-secret:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-storage:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-kvm:1.2.8-16.el7.x86_64
+#   - libvirt-debuginfo:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-lxc:1.2.8-16.el7.x86_64
+#   - libvirt-devel:1.2.8-16.el7.x86_64
+#   - libvirt-docs:1.2.8-16.el7.x86_64
+#   - libvirt-lock-sanlock:1.2.8-16.el7.x86_64
+#   - libvirt-login-shell:1.2.8-16.el7.x86_64
 #
 # CVE List:
 #   - CVE-2014-8136

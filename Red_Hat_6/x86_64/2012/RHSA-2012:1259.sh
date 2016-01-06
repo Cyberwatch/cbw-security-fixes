@@ -1,24 +1,24 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1259
 #
 # Security announcement date: 2012-09-12 20:11:08 UTC
-# Script generation date:     2015-09-10 09:44:13 UTC
+# Script generation date:     2016-01-06 19:11:08 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - quagga:0.99.15-7.el6_3.2
-#   - quagga-debuginfo:0.99.15-7.el6_3.2
-#   - quagga-contrib:0.99.15-7.el6_3.2
-#   - quagga-devel:0.99.15-7.el6_3.2
+#   - quagga:0.99.15-7.el6_3.2.x86_64
+#   - quagga-debuginfo:0.99.15-7.el6_3.2.x86_64
+#   - quagga-contrib:0.99.15-7.el6_3.2.x86_64
+#   - quagga-devel:0.99.15-7.el6_3.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - quagga:0.99.15-7.el6_3.2
-#   - quagga-debuginfo:0.99.15-7.el6_3.2
-#   - quagga-contrib:0.99.15-7.el6_3.2
-#   - quagga-devel:0.99.15-7.el6_3.2
+#   - quagga:0.99.15-7.el6_3.2.x86_64
+#   - quagga-debuginfo:0.99.15-7.el6_3.2.x86_64
+#   - quagga-contrib:0.99.15-7.el6_3.2.x86_64
+#   - quagga-devel:0.99.15-7.el6_3.2.x86_64
 #
 # CVE List:
 #   - CVE-2011-3323

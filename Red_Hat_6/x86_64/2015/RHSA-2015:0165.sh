@@ -1,36 +1,36 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0165
 #
 # Security announcement date: 2015-02-10 22:35:28 UTC
-# Script generation date:     2015-09-10 09:46:59 UTC
+# Script generation date:     2016-01-06 19:13:29 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - subversion-svn2cl:1.6.11-12.el6_6
-#   - mod_dav_svn:1.6.11-12.el6_6
-#   - subversion:1.6.11-12.el6_6
-#   - subversion-debuginfo:1.6.11-12.el6_6
-#   - subversion-devel:1.6.11-12.el6_6
-#   - subversion-gnome:1.6.11-12.el6_6
-#   - subversion-javahl:1.6.11-12.el6_6
-#   - subversion-kde:1.6.11-12.el6_6
-#   - subversion-perl:1.6.11-12.el6_6
-#   - subversion-ruby:1.6.11-12.el6_6
+#   - subversion-svn2cl:1.6.11-12.el6_6.noarch
+#   - mod_dav_svn:1.6.11-12.el6_6.x86_64
+#   - subversion:1.6.11-12.el6_6.x86_64
+#   - subversion-debuginfo:1.6.11-12.el6_6.x86_64
+#   - subversion-devel:1.6.11-12.el6_6.x86_64
+#   - subversion-gnome:1.6.11-12.el6_6.x86_64
+#   - subversion-javahl:1.6.11-12.el6_6.x86_64
+#   - subversion-kde:1.6.11-12.el6_6.x86_64
+#   - subversion-perl:1.6.11-12.el6_6.x86_64
+#   - subversion-ruby:1.6.11-12.el6_6.x86_64
 #
 # Last versions recommanded by security team:
-#   - subversion-svn2cl:1.6.11-15.el6_7
-#   - mod_dav_svn:1.6.11-15.el6_7
-#   - subversion:1.6.11-15.el6_7
-#   - subversion-debuginfo:1.6.11-15.el6_7
-#   - subversion-devel:1.6.11-15.el6_7
-#   - subversion-gnome:1.6.11-15.el6_7
-#   - subversion-javahl:1.6.11-15.el6_7
-#   - subversion-kde:1.6.11-15.el6_7
-#   - subversion-perl:1.6.11-15.el6_7
-#   - subversion-ruby:1.6.11-15.el6_7
+#   - subversion-svn2cl:1.6.11-15.el6_7.noarch
+#   - mod_dav_svn:1.6.11-15.el6_7.x86_64
+#   - subversion:1.6.11-15.el6_7.x86_64
+#   - subversion-debuginfo:1.6.11-15.el6_7.x86_64
+#   - subversion-devel:1.6.11-15.el6_7.x86_64
+#   - subversion-gnome:1.6.11-15.el6_7.x86_64
+#   - subversion-javahl:1.6.11-15.el6_7.x86_64
+#   - subversion-kde:1.6.11-15.el6_7.x86_64
+#   - subversion-perl:1.6.11-15.el6_7.x86_64
+#   - subversion-ruby:1.6.11-15.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2014-3528

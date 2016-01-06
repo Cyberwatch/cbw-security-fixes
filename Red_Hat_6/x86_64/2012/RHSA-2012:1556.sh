@@ -1,24 +1,24 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1556
 #
 # Security announcement date: 2012-12-10 21:08:33 UTC
-# Script generation date:     2015-09-10 09:44:21 UTC
+# Script generation date:     2016-01-06 19:11:16 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openstack-keystone:2012.1.3-3.el6
-#   - openstack-keystone-doc:2012.1.3-3.el6
-#   - python-keystone:2012.1.3-3.el6
-#   - python-keystone-auth-token:2012.1.3-3.el6
+#   - openstack-keystone:2012.1.3-3.el6.noarch
+#   - openstack-keystone-doc:2012.1.3-3.el6.noarch
+#   - python-keystone:2012.1.3-3.el6.noarch
+#   - python-keystone-auth-token:2012.1.3-3.el6.noarch
 #
 # Last versions recommanded by security team:
-#   - openstack-keystone:2014.1.3-2.el6ost
-#   - openstack-keystone-doc:2014.1.3-2.el6ost
-#   - python-keystone:2014.1.3-2.el6ost
-#   - python-keystone-auth-token:2012.1.3-3.el6
+#   - openstack-keystone:2014.1.3-2.el6ost.noarch
+#   - openstack-keystone-doc:2014.1.3-2.el6ost.noarch
+#   - python-keystone:2014.1.3-2.el6ost.noarch
+#   - python-keystone-auth-token:2012.1.3-3.el6.noarch
 #
 # CVE List:
 #   - CVE-2012-5483

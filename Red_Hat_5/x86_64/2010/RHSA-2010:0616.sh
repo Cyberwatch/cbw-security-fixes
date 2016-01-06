@@ -1,34 +1,34 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0616
 #
 # Security announcement date: 2010-08-10 21:33:12 UTC
-# Script generation date:     2015-09-10 09:42:34 UTC
+# Script generation date:     2016-01-06 19:09:31 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - NetworkManager:0.7.0-10.el5_5.1
-#   - NetworkManager-debuginfo:0.7.0-10.el5_5.1
-#   - NetworkManager-glib:0.7.0-10.el5_5.1
-#   - NetworkManager-gnome:0.7.0-10.el5_5.1
-#   - dbus-glib:0.73-10.el5_5
-#   - dbus-glib-debuginfo:0.73-10.el5_5
-#   - NetworkManager-devel:0.7.0-10.el5_5.1
-#   - NetworkManager-glib-devel:0.7.0-10.el5_5.1
-#   - dbus-glib-devel:0.73-10.el5_5
+#   - NetworkManager:0.7.0-10.el5_5.1.x86_64
+#   - NetworkManager-debuginfo:0.7.0-10.el5_5.1.x86_64
+#   - NetworkManager-glib:0.7.0-10.el5_5.1.x86_64
+#   - NetworkManager-gnome:0.7.0-10.el5_5.1.x86_64
+#   - dbus-glib:0.73-10.el5_5.x86_64
+#   - dbus-glib-debuginfo:0.73-10.el5_5.x86_64
+#   - NetworkManager-devel:0.7.0-10.el5_5.1.x86_64
+#   - NetworkManager-glib-devel:0.7.0-10.el5_5.1.x86_64
+#   - dbus-glib-devel:0.73-10.el5_5.x86_64
 #
 # Last versions recommanded by security team:
-#   - NetworkManager:0.7.0-10.el5_5.1
-#   - NetworkManager-debuginfo:0.7.0-10.el5_5.1
-#   - NetworkManager-glib:0.7.0-10.el5_5.1
-#   - NetworkManager-gnome:0.7.0-10.el5_5.1
-#   - dbus-glib:0.73-10.el5_5
-#   - dbus-glib-debuginfo:0.73-10.el5_5
-#   - NetworkManager-devel:0.7.0-10.el5_5.1
-#   - NetworkManager-glib-devel:0.7.0-10.el5_5.1
-#   - dbus-glib-devel:0.73-10.el5_5
+#   - NetworkManager:0.7.0-10.el5_5.1.x86_64
+#   - NetworkManager-debuginfo:0.7.0-10.el5_5.1.x86_64
+#   - NetworkManager-glib:0.7.0-10.el5_5.1.x86_64
+#   - NetworkManager-gnome:0.7.0-10.el5_5.1.x86_64
+#   - dbus-glib:0.73-10.el5_5.x86_64
+#   - dbus-glib-debuginfo:0.73-10.el5_5.x86_64
+#   - NetworkManager-devel:0.7.0-10.el5_5.1.x86_64
+#   - NetworkManager-glib-devel:0.7.0-10.el5_5.1.x86_64
+#   - dbus-glib-devel:0.73-10.el5_5.x86_64
 #
 # CVE List:
 #   - CVE-2010-1172

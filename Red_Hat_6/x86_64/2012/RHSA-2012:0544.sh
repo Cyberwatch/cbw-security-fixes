@@ -1,30 +1,30 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0544
 #
 # Security announcement date: 2012-05-07 18:45:02 UTC
-# Script generation date:     2015-09-10 09:43:54 UTC
+# Script generation date:     2016-01-06 19:10:51 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ImageMagick:6.5.4.7-6.el6_2
-#   - :6.5.4.7-6.el6_2
-#   - ImageMagick-debuginfo:6.5.4.7-6.el6_2
-#   - -devel:6.5.4.7-6.el6_2
-#   - ImageMagick-devel:6.5.4.7-6.el6_2
-#   - ImageMagick-doc:6.5.4.7-6.el6_2
-#   - ImageMagick-perl:6.5.4.7-6.el6_2
+#   - ImageMagick:6.5.4.7-6.el6_2.x86_64
+#   - :6.5.4.7-6.el6_2.x86_64
+#   - ImageMagick-debuginfo:6.5.4.7-6.el6_2.x86_64
+#   - -devel:6.5.4.7-6.el6_2.x86_64
+#   - ImageMagick-devel:6.5.4.7-6.el6_2.x86_64
+#   - ImageMagick-doc:6.5.4.7-6.el6_2.x86_64
+#   - ImageMagick-perl:6.5.4.7-6.el6_2.x86_64
 #
 # Last versions recommanded by security team:
-#   - ImageMagick:6.5.4.7-6.el6_2
-#   - :6.5.4.7-6.el6_2
-#   - ImageMagick-debuginfo:6.5.4.7-7.el6_5
-#   - -devel:6.5.4.7-6.el6_2
-#   - ImageMagick-devel:6.5.4.7-7.el6_5
-#   - ImageMagick-doc:6.5.4.7-7.el6_5
-#   - ImageMagick-perl:6.5.4.7-7.el6_5
+#   - ImageMagick:6.5.4.7-6.el6_2.x86_64
+#   - :6.5.4.7-6.el6_2.x86_64
+#   - ImageMagick-debuginfo:6.5.4.7-7.el6_5.x86_64
+#   - -devel:6.5.4.7-6.el6_2.x86_64
+#   - ImageMagick-devel:6.5.4.7-7.el6_5.x86_64
+#   - ImageMagick-doc:6.5.4.7-7.el6_5.x86_64
+#   - ImageMagick-perl:6.5.4.7-7.el6_5.x86_64
 #
 # CVE List:
 #   - CVE-2010-4167

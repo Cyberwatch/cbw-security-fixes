@@ -1,24 +1,24 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1181
 #
 # Security announcement date: 2012-08-20 14:06:38 UTC
-# Script generation date:     2015-09-10 09:44:11 UTC
+# Script generation date:     2016-01-06 19:11:06 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - gimp:2.2.13-2.0.7.el5_8.5
-#   - gimp-debuginfo:2.2.13-2.0.7.el5_8.5
-#   - gimp-libs:2.2.13-2.0.7.el5_8.5
-#   - gimp-devel:2.2.13-2.0.7.el5_8.5
+#   - gimp:2.2.13-2.0.7.el5_8.5.x86_64
+#   - gimp-debuginfo:2.2.13-2.0.7.el5_8.5.x86_64
+#   - gimp-libs:2.2.13-2.0.7.el5_8.5.x86_64
+#   - gimp-devel:2.2.13-2.0.7.el5_8.5.x86_64
 #
 # Last versions recommanded by security team:
-#   - gimp:2.2.13-3.el5_10
-#   - gimp-debuginfo:2.2.13-3.el5_10
-#   - gimp-libs:2.2.13-3.el5_10
-#   - gimp-devel:2.2.13-3.el5_10
+#   - gimp:2.2.13-3.el5_10.x86_64
+#   - gimp-debuginfo:2.2.13-3.el5_10.x86_64
+#   - gimp-libs:2.2.13-3.el5_10.x86_64
+#   - gimp-devel:2.2.13-3.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2009-3909

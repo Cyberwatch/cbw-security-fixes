@@ -1,18 +1,18 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0700
 #
 # Security announcement date: 2013-04-02 20:13:58 UTC
-# Script generation date:     2015-10-01 11:26:24 UTC
+# Script generation date:     2016-01-06 19:11:38 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - jenkins:1.506-1.el6op
+#   - jenkins:1.506-1.el6op.noarch
 #
 # Last versions recommanded by security team:
-#   - jenkins:1.609.1-1.el6op
+#   - jenkins:1.609.1-1.el6op.noarch
 #
 # CVE List:
 #   - CVE-2013-0253

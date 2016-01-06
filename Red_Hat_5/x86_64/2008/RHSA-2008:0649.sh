@@ -1,24 +1,24 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2008:0649
 #
 # Security announcement date: 2008-07-31 15:59:32 UTC
-# Script generation date:     2015-09-10 09:41:45 UTC
+# Script generation date:     2016-01-06 19:08:51 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libxslt:1.1.17-2.el5_2.2
-#   - libxslt-debuginfo:1.1.17-2.el5_2.2
-#   - libxslt-python:1.1.17-2.el5_2.2
-#   - libxslt-devel:1.1.17-2.el5_2.2
+#   - libxslt:1.1.17-2.el5_2.2.x86_64
+#   - libxslt-debuginfo:1.1.17-2.el5_2.2.x86_64
+#   - libxslt-python:1.1.17-2.el5_2.2.x86_64
+#   - libxslt-devel:1.1.17-2.el5_2.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - libxslt:1.1.17-4.el5_8.3
-#   - libxslt-debuginfo:1.1.17-4.el5_8.3
-#   - libxslt-python:1.1.17-4.el5_8.3
-#   - libxslt-devel:1.1.17-4.el5_8.3
+#   - libxslt:1.1.17-4.el5_8.3.x86_64
+#   - libxslt-debuginfo:1.1.17-4.el5_8.3.x86_64
+#   - libxslt-python:1.1.17-4.el5_8.3.x86_64
+#   - libxslt-devel:1.1.17-4.el5_8.3.x86_64
 #
 # CVE List:
 #   - CVE-2008-2935

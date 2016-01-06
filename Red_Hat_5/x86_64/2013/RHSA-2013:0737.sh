@@ -1,30 +1,30 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0737
 #
 # Security announcement date: 2013-04-11 17:55:23 UTC
-# Script generation date:     2015-09-10 09:44:47 UTC
+# Script generation date:     2016-01-06 19:11:39 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mod_dav_svn:1.6.11-11.el5_9
-#   - subversion:1.6.11-11.el5_9
-#   - subversion-debuginfo:1.6.11-11.el5_9
-#   - subversion-devel:1.6.11-11.el5_9
-#   - subversion-javahl:1.6.11-11.el5_9
-#   - subversion-perl:1.6.11-11.el5_9
-#   - subversion-ruby:1.6.11-11.el5_9
+#   - mod_dav_svn:1.6.11-11.el5_9.x86_64
+#   - subversion:1.6.11-11.el5_9.x86_64
+#   - subversion-debuginfo:1.6.11-11.el5_9.x86_64
+#   - subversion-devel:1.6.11-11.el5_9.x86_64
+#   - subversion-javahl:1.6.11-11.el5_9.x86_64
+#   - subversion-perl:1.6.11-11.el5_9.x86_64
+#   - subversion-ruby:1.6.11-11.el5_9.x86_64
 #
 # Last versions recommanded by security team:
-#   - mod_dav_svn:1.6.11-12.el5_10
-#   - subversion:1.6.11-12.el5_10
-#   - subversion-debuginfo:1.6.11-12.el5_10
-#   - subversion-devel:1.6.11-12.el5_10
-#   - subversion-javahl:1.6.11-12.el5_10
-#   - subversion-perl:1.6.11-12.el5_10
-#   - subversion-ruby:1.6.11-12.el5_10
+#   - mod_dav_svn:1.6.11-12.el5_10.x86_64
+#   - subversion:1.6.11-12.el5_10.x86_64
+#   - subversion-debuginfo:1.6.11-12.el5_10.x86_64
+#   - subversion-devel:1.6.11-12.el5_10.x86_64
+#   - subversion-javahl:1.6.11-12.el5_10.x86_64
+#   - subversion-perl:1.6.11-12.el5_10.x86_64
+#   - subversion-ruby:1.6.11-12.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2013-1845

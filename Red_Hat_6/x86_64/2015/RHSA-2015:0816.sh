@@ -1,20 +1,20 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0816
 #
 # Security announcement date: 2015-04-16 08:38:18 UTC
-# Script generation date:     2015-10-16 06:15:23 UTC
+# Script generation date:     2016-01-06 19:13:41 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - chromium-browser:42.0.2311.90-1.el6_6
-#   - chromium-browser-debuginfo:42.0.2311.90-1.el6_6
+#   - chromium-browser:42.0.2311.90-1.el6_6.x86_64
+#   - chromium-browser-debuginfo:42.0.2311.90-1.el6_6.x86_64
 #
 # Last versions recommanded by security team:
-#   - chromium-browser:46.0.2490.71-1.el6
-#   - chromium-browser-debuginfo:46.0.2490.71-1.el6
+#   - chromium-browser:46.0.2490.71-1.el6.x86_64
+#   - chromium-browser-debuginfo:46.0.2490.71-1.el6.x86_64
 #
 # CVE List:
 #   - CVE-2015-1235

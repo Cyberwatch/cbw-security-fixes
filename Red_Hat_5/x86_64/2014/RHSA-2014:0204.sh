@@ -1,18 +1,18 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0204
 #
 # Security announcement date: 2014-02-24 20:35:06 UTC
-# Script generation date:     2015-10-16 06:13:34 UTC
+# Script generation date:     2016-01-06 19:12:19 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - jboss-as-web:7.3.1-4.Final_redhat_4.1.ep6.el5
+#   - jboss-as-web:7.3.1-4.Final_redhat_4.1.ep6.el5.noarch
 #
 # Last versions recommanded by security team:
-#   - jboss-as-web:7.5.4-2.Final_redhat_4.1.ep6.el5
+#   - jboss-as-web:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
 #
 # CVE List:
 #   - CVE-2014-0058

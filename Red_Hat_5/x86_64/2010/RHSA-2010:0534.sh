@@ -1,34 +1,34 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0534
 #
 # Security announcement date: 2010-07-14 17:51:22 UTC
-# Script generation date:     2015-09-10 09:42:31 UTC
+# Script generation date:     2016-01-06 19:09:29 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libpng:1.2.2-30
-#   - libpng-debuginfo:1.2.2-30
-#   - libpng-devel:1.2.2-30
-#   - libpng10:1.0.13-21
-#   - libpng10-debuginfo:1.0.13-21
-#   - libpng10-devel:1.0.13-21
-#   - libpng:1.2.10-7.1.el5_5.3
-#   - libpng-debuginfo:1.2.10-7.1.el5_5.3
-#   - libpng-devel:1.2.10-7.1.el5_5.3
+#   - libpng:1.2.2-30.x86_64
+#   - libpng-debuginfo:1.2.2-30.x86_64
+#   - libpng-devel:1.2.2-30.x86_64
+#   - libpng10:1.0.13-21.x86_64
+#   - libpng10-debuginfo:1.0.13-21.x86_64
+#   - libpng10-devel:1.0.13-21.x86_64
+#   - libpng:1.2.10-7.1.el5_5.3.x86_64
+#   - libpng-debuginfo:1.2.10-7.1.el5_5.3.x86_64
+#   - libpng-devel:1.2.10-7.1.el5_5.3.x86_64
 #
 # Last versions recommanded by security team:
-#   - libpng:1.2.10-17.el5_8
-#   - libpng-debuginfo:1.2.10-17.el5_8
-#   - libpng-devel:1.2.10-17.el5_8
-#   - libpng10:1.0.13-21
-#   - libpng10-debuginfo:1.0.13-21
-#   - libpng10-devel:1.0.13-21
-#   - libpng:1.2.10-17.el5_8
-#   - libpng-debuginfo:1.2.10-17.el5_8
-#   - libpng-devel:1.2.10-17.el5_8
+#   - libpng:1.2.10-17.el5_8.x86_64
+#   - libpng-debuginfo:1.2.10-17.el5_8.x86_64
+#   - libpng-devel:1.2.10-17.el5_8.x86_64
+#   - libpng10:1.0.13-21.x86_64
+#   - libpng10-debuginfo:1.0.13-21.x86_64
+#   - libpng10-devel:1.0.13-21.x86_64
+#   - libpng:1.2.10-17.el5_8.x86_64
+#   - libpng-debuginfo:1.2.10-17.el5_8.x86_64
+#   - libpng-devel:1.2.10-17.el5_8.x86_64
 #
 # CVE List:
 #   - CVE-2009-2042

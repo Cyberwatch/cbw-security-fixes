@@ -1,52 +1,52 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1278
 #
 # Security announcement date: 2012-09-19 18:12:30 UTC
-# Script generation date:     2015-09-10 09:44:15 UTC
+# Script generation date:     2016-01-06 19:11:09 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - condor-wallaby-base-db:1.23-1.el5
-#   - condor-wallaby-client:4.1.3-1.el5
-#   - condor-wallaby-tools:4.1.3-1.el5
-#   - cumin:0.1.5444-3.el5
-#   - python-wallaby:0.12.5-10.el5
-#   - python-wallabyclient:4.1.3-1.el5
-#   - ruby-wallaby:0.12.5-10.el5
-#   - wallaby:0.12.5-10.el5
-#   - wallaby-utils:0.12.5-10.el5
-#   - condor:7.6.5-0.22.el5
-#   - condor-aviary:7.6.5-0.22.el5
-#   - condor-classads:7.6.5-0.22.el5
-#   - condor-debuginfo:7.6.5-0.22.el5
-#   - condor-kbdd:7.6.5-0.22.el5
-#   - condor-qmf:7.6.5-0.22.el5
-#   - condor-vm-gahp:7.6.5-0.22.el5
-#   - sesame:1.0-4.el5
-#   - sesame-debuginfo:1.0-4.el5
+#   - condor-wallaby-base-db:1.23-1.el5.noarch
+#   - condor-wallaby-client:4.1.3-1.el5.noarch
+#   - condor-wallaby-tools:4.1.3-1.el5.noarch
+#   - cumin:0.1.5444-3.el5.noarch
+#   - python-wallaby:0.12.5-10.el5.noarch
+#   - python-wallabyclient:4.1.3-1.el5.noarch
+#   - ruby-wallaby:0.12.5-10.el5.noarch
+#   - wallaby:0.12.5-10.el5.noarch
+#   - wallaby-utils:0.12.5-10.el5.noarch
+#   - condor:7.6.5-0.22.el5.x86_64
+#   - condor-aviary:7.6.5-0.22.el5.x86_64
+#   - condor-classads:7.6.5-0.22.el5.x86_64
+#   - condor-debuginfo:7.6.5-0.22.el5.x86_64
+#   - condor-kbdd:7.6.5-0.22.el5.x86_64
+#   - condor-qmf:7.6.5-0.22.el5.x86_64
+#   - condor-vm-gahp:7.6.5-0.22.el5.x86_64
+#   - sesame:1.0-4.el5.x86_64
+#   - sesame-debuginfo:1.0-4.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - condor-wallaby-base-db:1.25-1.el5
-#   - condor-wallaby-client:5.0.5-2.el5
-#   - condor-wallaby-tools:5.0.5-2.el5
-#   - cumin:0.1.5796-4.el5_9
-#   - python-wallaby:0.16.3-1.el5
-#   - python-wallabyclient:5.0.5-2.el5
-#   - ruby-wallaby:0.16.3-1.el5
-#   - wallaby:0.16.3-1.el5
-#   - wallaby-utils:0.16.3-1.el5
-#   - condor:7.8.9-0.11.el5
-#   - condor-aviary:7.8.9-0.11.el5
-#   - condor-classads:7.8.9-0.11.el5
-#   - condor-debuginfo:7.8.9-0.11.el5
-#   - condor-kbdd:7.8.9-0.11.el5
-#   - condor-qmf:7.8.9-0.11.el5
-#   - condor-vm-gahp:7.8.9-0.11.el5
-#   - sesame:1.0-7.el5
-#   - sesame-debuginfo:1.0-7.el5
+#   - condor-wallaby-base-db:1.25-1.el5.noarch
+#   - condor-wallaby-client:5.0.5-2.el5.noarch
+#   - condor-wallaby-tools:5.0.5-2.el5.noarch
+#   - cumin:0.1.5796-4.el5_9.noarch
+#   - python-wallaby:0.16.3-1.el5.noarch
+#   - python-wallabyclient:5.0.5-2.el5.noarch
+#   - ruby-wallaby:0.16.3-1.el5.noarch
+#   - wallaby:0.16.3-1.el5.noarch
+#   - wallaby-utils:0.16.3-1.el5.noarch
+#   - condor:7.8.9-0.11.el5.x86_64
+#   - condor-aviary:7.8.9-0.11.el5.x86_64
+#   - condor-classads:7.8.9-0.11.el5.x86_64
+#   - condor-debuginfo:7.8.9-0.11.el5.x86_64
+#   - condor-kbdd:7.8.9-0.11.el5.x86_64
+#   - condor-qmf:7.8.9-0.11.el5.x86_64
+#   - condor-vm-gahp:7.8.9-0.11.el5.x86_64
+#   - sesame:1.0-7.el5.x86_64
+#   - sesame-debuginfo:1.0-7.el5.x86_64
 #
 # CVE List:
 #   - CVE-2012-2680

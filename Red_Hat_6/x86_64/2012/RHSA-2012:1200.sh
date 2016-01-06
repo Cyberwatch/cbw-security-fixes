@@ -1,18 +1,18 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1200
 #
 # Security announcement date: 2012-08-23 15:10:09 UTC
-# Script generation date:     2015-09-10 09:44:12 UTC
+# Script generation date:     2016-01-06 19:11:06 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rhev-hypervisor6:6.3-20120815.0.el6_3
+#   - rhev-hypervisor6:6.3-20120815.0.el6_3.noarch
 #
 # Last versions recommanded by security team:
-#   - rhev-hypervisor6:6.7-20150828.0.el6ev
+#   - rhev-hypervisor6:6.7-20150828.0.el6ev.noarch
 #
 # CVE List:
 #   - CVE-2012-3404

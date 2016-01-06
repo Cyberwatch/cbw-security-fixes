@@ -1,22 +1,22 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0125
 #
 # Security announcement date: 2013-01-08 06:49:53 UTC
-# Script generation date:     2015-09-10 09:44:28 UTC
+# Script generation date:     2016-01-06 19:11:21 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - wireshark:1.0.15-5.el5
-#   - wireshark-debuginfo:1.0.15-5.el5
-#   - wireshark-gnome:1.0.15-5.el5
+#   - wireshark:1.0.15-5.el5.x86_64
+#   - wireshark-debuginfo:1.0.15-5.el5.x86_64
+#   - wireshark-gnome:1.0.15-5.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.0.15-7.el5_11
-#   - wireshark-debuginfo:1.0.15-7.el5_11
-#   - wireshark-gnome:1.0.15-7.el5_11
+#   - wireshark:1.0.15-7.el5_11.x86_64
+#   - wireshark-debuginfo:1.0.15-7.el5_11.x86_64
+#   - wireshark-gnome:1.0.15-7.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2011-1958

@@ -1,22 +1,22 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:0431
 #
 # Security announcement date: 2009-04-16 22:55:51 UTC
-# Script generation date:     2015-09-10 09:42:00 UTC
+# Script generation date:     2016-01-06 19:09:04 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - kdegraphics:3.5.4-12.el5_3
-#   - kdegraphics-debuginfo:3.5.4-12.el5_3
-#   - kdegraphics-devel:3.5.4-12.el5_3
+#   - kdegraphics:3.5.4-12.el5_3.x86_64
+#   - kdegraphics-debuginfo:3.5.4-12.el5_3.x86_64
+#   - kdegraphics-devel:3.5.4-12.el5_3.x86_64
 #
 # Last versions recommanded by security team:
-#   - kdegraphics:3.5.4-17.el5_5.1
-#   - kdegraphics-debuginfo:3.5.4-17.el5_5.1
-#   - kdegraphics-devel:3.5.4-17.el5_5.1
+#   - kdegraphics:3.5.4-17.el5_5.1.x86_64
+#   - kdegraphics-debuginfo:3.5.4-17.el5_5.1.x86_64
+#   - kdegraphics-devel:3.5.4-17.el5_5.1.x86_64
 #
 # CVE List:
 #   - CVE-2009-0146

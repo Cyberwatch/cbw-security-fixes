@@ -1,26 +1,26 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1543
 #
 # Security announcement date: 2012-12-04 20:57:36 UTC
-# Script generation date:     2015-09-10 09:44:20 UTC
+# Script generation date:     2016-01-06 19:11:15 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - gofer:0.66.1-2.el5
-#   - gofer-package:0.66.1-2.el5
-#   - gofer-watchdog:0.66.1-2.el5
-#   - katello-agent:1.1.2-1.el5
-#   - python-gofer:0.66.1-2.el5
+#   - gofer:0.66.1-2.el5.noarch
+#   - gofer-package:0.66.1-2.el5.noarch
+#   - gofer-watchdog:0.66.1-2.el5.noarch
+#   - katello-agent:1.1.2-1.el5.noarch
+#   - python-gofer:0.66.1-2.el5.noarch
 #
 # Last versions recommanded by security team:
-#   - gofer:0.66.1-2.el5
-#   - gofer-package:0.66.1-2.el5
-#   - gofer-watchdog:0.66.1-2.el5
-#   - katello-agent:1.1.2-1.el5
-#   - python-gofer:0.66.1-2.el5
+#   - gofer:0.66.1-2.el5.noarch
+#   - gofer-package:0.66.1-2.el5.noarch
+#   - gofer-watchdog:0.66.1-2.el5.noarch
+#   - katello-agent:1.1.2-1.el5.noarch
+#   - python-gofer:0.66.1-2.el5.noarch
 #
 # CVE List:
 #   - CVE-2012-3538

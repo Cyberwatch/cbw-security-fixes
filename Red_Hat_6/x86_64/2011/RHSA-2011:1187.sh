@@ -1,32 +1,32 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1187
 #
 # Security announcement date: 2011-08-18 19:53:55 UTC
-# Script generation date:     2015-09-10 09:43:24 UTC
+# Script generation date:     2016-01-06 19:10:25 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - dovecot:0.99.11-10.EL4
-#   - dovecot-debuginfo:0.99.11-10.EL4
-#   - dovecot:2.0.9-2.el6_1.1
-#   - dovecot-debuginfo:2.0.9-2.el6_1.1
-#   - dovecot-mysql:2.0.9-2.el6_1.1
-#   - dovecot-pgsql:2.0.9-2.el6_1.1
-#   - dovecot-pigeonhole:2.0.9-2.el6_1.1
-#   - dovecot-devel:2.0.9-2.el6_1.1
+#   - dovecot:0.99.11-10.EL4.x86_64
+#   - dovecot-debuginfo:0.99.11-10.EL4.x86_64
+#   - dovecot:2.0.9-2.el6_1.1.x86_64
+#   - dovecot-debuginfo:2.0.9-2.el6_1.1.x86_64
+#   - dovecot-mysql:2.0.9-2.el6_1.1.x86_64
+#   - dovecot-pgsql:2.0.9-2.el6_1.1.x86_64
+#   - dovecot-pigeonhole:2.0.9-2.el6_1.1.x86_64
+#   - dovecot-devel:2.0.9-2.el6_1.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - dovecot:2.0.9-7.el6_5.1
-#   - dovecot-debuginfo:2.0.9-7.el6_5.1
-#   - dovecot:2.0.9-7.el6_5.1
-#   - dovecot-debuginfo:2.0.9-7.el6_5.1
-#   - dovecot-mysql:2.0.9-7.el6_5.1
-#   - dovecot-pgsql:2.0.9-7.el6_5.1
-#   - dovecot-pigeonhole:2.0.9-7.el6_5.1
-#   - dovecot-devel:2.0.9-7.el6_5.1
+#   - dovecot:2.0.9-7.el6_5.1.x86_64
+#   - dovecot-debuginfo:2.0.9-7.el6_5.1.x86_64
+#   - dovecot:2.0.9-7.el6_5.1.x86_64
+#   - dovecot-debuginfo:2.0.9-7.el6_5.1.x86_64
+#   - dovecot-mysql:2.0.9-7.el6_5.1.x86_64
+#   - dovecot-pgsql:2.0.9-7.el6_5.1.x86_64
+#   - dovecot-pigeonhole:2.0.9-7.el6_5.1.x86_64
+#   - dovecot-devel:2.0.9-7.el6_5.1.x86_64
 #
 # CVE List:
 #   - CVE-2011-1929

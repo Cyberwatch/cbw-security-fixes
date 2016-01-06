@@ -1,36 +1,36 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1976
 #
 # Security announcement date: 2014-12-09 21:05:24 UTC
-# Script generation date:     2015-09-10 09:46:48 UTC
+# Script generation date:     2016-01-06 19:13:21 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rpm:4.11.1-18.el7_0
-#   - rpm-build:4.11.1-18.el7_0
-#   - rpm-build-libs:4.11.1-18.el7_0
-#   - rpm-debuginfo:4.11.1-18.el7_0
-#   - rpm-libs:4.11.1-18.el7_0
-#   - rpm-python:4.11.1-18.el7_0
-#   - rpm-apidocs:4.11.1-18.el7_0
-#   - rpm-cron:4.11.1-18.el7_0
-#   - rpm-devel:4.11.1-18.el7_0
-#   - rpm-sign:4.11.1-18.el7_0
+#   - rpm:4.11.1-18.el7_0.x86_64
+#   - rpm-build:4.11.1-18.el7_0.x86_64
+#   - rpm-build-libs:4.11.1-18.el7_0.x86_64
+#   - rpm-debuginfo:4.11.1-18.el7_0.x86_64
+#   - rpm-libs:4.11.1-18.el7_0.x86_64
+#   - rpm-python:4.11.1-18.el7_0.x86_64
+#   - rpm-apidocs:4.11.1-18.el7_0.noarch
+#   - rpm-cron:4.11.1-18.el7_0.noarch
+#   - rpm-devel:4.11.1-18.el7_0.x86_64
+#   - rpm-sign:4.11.1-18.el7_0.x86_64
 #
 # Last versions recommanded by security team:
-#   - rpm:4.11.1-18.el7_0
-#   - rpm-build:4.11.1-18.el7_0
-#   - rpm-build-libs:4.11.1-18.el7_0
-#   - rpm-debuginfo:4.11.1-18.el7_0
-#   - rpm-libs:4.11.1-18.el7_0
-#   - rpm-python:4.11.1-18.el7_0
-#   - rpm-apidocs:4.11.1-18.el7_0
-#   - rpm-cron:4.11.1-18.el7_0
-#   - rpm-devel:4.11.1-18.el7_0
-#   - rpm-sign:4.11.1-18.el7_0
+#   - rpm:4.11.1-18.el7_0.x86_64
+#   - rpm-build:4.11.1-18.el7_0.x86_64
+#   - rpm-build-libs:4.11.1-18.el7_0.x86_64
+#   - rpm-debuginfo:4.11.1-18.el7_0.x86_64
+#   - rpm-libs:4.11.1-18.el7_0.x86_64
+#   - rpm-python:4.11.1-18.el7_0.x86_64
+#   - rpm-apidocs:4.11.1-18.el7_0.noarch
+#   - rpm-cron:4.11.1-18.el7_0.noarch
+#   - rpm-devel:4.11.1-18.el7_0.x86_64
+#   - rpm-sign:4.11.1-18.el7_0.x86_64
 #
 # CVE List:
 #   - CVE-2013-6435

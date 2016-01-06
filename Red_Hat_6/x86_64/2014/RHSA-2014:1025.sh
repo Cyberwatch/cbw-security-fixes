@@ -1,44 +1,44 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1025
 #
 # Security announcement date: 2014-08-06 17:14:53 UTC
-# Script generation date:     2015-09-10 09:46:08 UTC
+# Script generation date:     2016-01-06 19:12:47 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - kernel-doc:2.6.32-220.54.1.el6
-#   - kernel-firmware:2.6.32-220.54.1.el6
-#   - kernel:2.6.32-220.54.1.el6
-#   - kernel-debug:2.6.32-220.54.1.el6
-#   - kernel-debug-debuginfo:2.6.32-220.54.1.el6
-#   - kernel-debug-devel:2.6.32-220.54.1.el6
-#   - kernel-debuginfo:2.6.32-220.54.1.el6
-#   - kernel-debuginfo-common-x86_64:2.6.32-220.54.1.el6
-#   - kernel-devel:2.6.32-220.54.1.el6
-#   - kernel-headers:2.6.32-220.54.1.el6
-#   - perf:2.6.32-220.54.1.el6
-#   - perf-debuginfo:2.6.32-220.54.1.el6
-#   - python-perf-debuginfo:2.6.32-220.54.1.el6
-#   - python-perf:2.6.32-220.54.1.el6
+#   - kernel-doc:2.6.32-220.54.1.el6.noarch
+#   - kernel-firmware:2.6.32-220.54.1.el6.noarch
+#   - kernel:2.6.32-220.54.1.el6.x86_64
+#   - kernel-debug:2.6.32-220.54.1.el6.x86_64
+#   - kernel-debug-debuginfo:2.6.32-220.54.1.el6.x86_64
+#   - kernel-debug-devel:2.6.32-220.54.1.el6.x86_64
+#   - kernel-debuginfo:2.6.32-220.54.1.el6.x86_64
+#   - kernel-debuginfo-common-x86_64:2.6.32-220.54.1.el6.x86_64
+#   - kernel-devel:2.6.32-220.54.1.el6.x86_64
+#   - kernel-headers:2.6.32-220.54.1.el6.x86_64
+#   - perf:2.6.32-220.54.1.el6.x86_64
+#   - perf-debuginfo:2.6.32-220.54.1.el6.x86_64
+#   - python-perf-debuginfo:2.6.32-220.54.1.el6.x86_64
+#   - python-perf:2.6.32-220.54.1.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - kernel-doc:2.6.32-358.65.1.el6
-#   - kernel-firmware:2.6.32-358.65.1.el6
-#   - kernel:2.6.32-358.65.1.el6
-#   - kernel-debug:2.6.32-358.65.1.el6
-#   - kernel-debug-debuginfo:2.6.32-358.65.1.el6
-#   - kernel-debug-devel:2.6.32-358.65.1.el6
-#   - kernel-debuginfo:2.6.32-358.65.1.el6
-#   - kernel-debuginfo-common-x86_64:2.6.32-358.65.1.el6
-#   - kernel-devel:2.6.32-358.65.1.el6
-#   - kernel-headers:2.6.32-358.65.1.el6
-#   - perf:2.6.32-358.65.1.el6
-#   - perf-debuginfo:2.6.32-358.65.1.el6
-#   - python-perf-debuginfo:2.6.32-358.65.1.el6
-#   - python-perf:2.6.32-358.65.1.el6
+#   - kernel-doc:2.6.32-358.65.1.el6.noarch
+#   - kernel-firmware:2.6.32-358.65.1.el6.noarch
+#   - kernel:2.6.32-358.65.1.el6.x86_64
+#   - kernel-debug:2.6.32-358.65.1.el6.x86_64
+#   - kernel-debug-debuginfo:2.6.32-358.65.1.el6.x86_64
+#   - kernel-debug-devel:2.6.32-358.65.1.el6.x86_64
+#   - kernel-debuginfo:2.6.32-358.65.1.el6.x86_64
+#   - kernel-debuginfo-common-x86_64:2.6.32-358.65.1.el6.x86_64
+#   - kernel-devel:2.6.32-358.65.1.el6.x86_64
+#   - kernel-headers:2.6.32-358.65.1.el6.x86_64
+#   - perf:2.6.32-358.65.1.el6.x86_64
+#   - perf-debuginfo:2.6.32-358.65.1.el6.x86_64
+#   - python-perf-debuginfo:2.6.32-358.65.1.el6.x86_64
+#   - python-perf:2.6.32-358.65.1.el6.x86_64
 #
 # CVE List:
 #   - CVE-2014-4943

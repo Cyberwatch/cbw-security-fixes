@@ -3,26 +3,26 @@
 # Security fix for RHSA-2015:2155
 #
 # Security announcement date: 2015-11-19 21:35:48 UTC
-# Script generation date:     2016-01-01 07:10:03 UTC
+# Script generation date:     2016-01-06 19:14:29 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - python-magic:5.11-31.el7
-#   - file:5.11-31.el7
-#   - file-debuginfo:5.11-31.el7
-#   - file-libs:5.11-31.el7
-#   - file-devel:5.11-31.el7
-#   - file-static:5.11-31.el7
+#   - python-magic:5.11-31.el7.noarch
+#   - file:5.11-31.el7.x86_64
+#   - file-debuginfo:5.11-31.el7.x86_64
+#   - file-libs:5.11-31.el7.x86_64
+#   - file-devel:5.11-31.el7.x86_64
+#   - file-static:5.11-31.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - python-magic:5.11-31.el7
-#   - file:5.11-31.el7
-#   - file-debuginfo:5.11-31.el7
-#   - file-libs:5.11-31.el7
-#   - file-devel:5.11-31.el7
-#   - file-static:5.11-31.el7
+#   - python-magic:5.11-31.el7.noarch
+#   - file:5.11-31.el7.x86_64
+#   - file-debuginfo:5.11-31.el7.x86_64
+#   - file-libs:5.11-31.el7.x86_64
+#   - file-devel:5.11-31.el7.x86_64
+#   - file-static:5.11-31.el7.x86_64
 #
 # CVE List:
 #   - CVE-2014-0207

@@ -1,18 +1,18 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1690
 #
 # Security announcement date: 2014-10-22 18:10:25 UTC
-# Script generation date:     2015-09-10 09:46:31 UTC
+# Script generation date:     2016-01-06 19:13:06 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - python-backports-ssl_match_hostname:3.4.0.2-1.el6
+#   - python-backports-ssl_match_hostname:3.4.0.2-1.el6.noarch
 #
 # Last versions recommanded by security team:
-#   - python-backports-ssl_match_hostname:3.4.0.2-1.el6
+#   - python-backports-ssl_match_hostname:3.4.0.2-1.el6.noarch
 #
 # CVE List:
 #   - CVE-2013-2099

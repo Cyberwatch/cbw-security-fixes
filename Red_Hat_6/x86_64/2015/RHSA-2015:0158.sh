@@ -1,50 +1,50 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0158
 #
 # Security announcement date: 2015-02-11 18:21:55 UTC
-# Script generation date:     2015-09-10 09:46:59 UTC
+# Script generation date:     2016-01-06 19:13:29 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rhevm:3.5.0-0.29.el6ev
-#   - rhevm-backend:3.5.0-0.29.el6ev
-#   - rhevm-dbscripts:3.5.0-0.29.el6ev
-#   - rhevm-extensions-api-impl:3.5.0-0.29.el6ev
-#   - rhevm-extensions-api-impl-javadoc:3.5.0-0.29.el6ev
-#   - rhevm-lib:3.5.0-0.29.el6ev
-#   - rhevm-restapi:3.5.0-0.29.el6ev
-#   - rhevm-setup:3.5.0-0.29.el6ev
-#   - rhevm-setup-base:3.5.0-0.29.el6ev
-#   - rhevm-setup-plugin-allinone:3.5.0-0.29.el6ev
-#   - rhevm-setup-plugin-ovirt-engine:3.5.0-0.29.el6ev
-#   - rhevm-setup-plugin-ovirt-engine-common:3.5.0-0.29.el6ev
-#   - rhevm-setup-plugin-websocket-proxy:3.5.0-0.29.el6ev
-#   - rhevm-tools:3.5.0-0.29.el6ev
-#   - rhevm-userportal:3.5.0-0.29.el6ev
-#   - rhevm-webadmin-portal:3.5.0-0.29.el6ev
-#   - rhevm-websocket-proxy:3.5.0-0.29.el6ev
+#   - rhevm:3.5.0-0.29.el6ev.noarch
+#   - rhevm-backend:3.5.0-0.29.el6ev.noarch
+#   - rhevm-dbscripts:3.5.0-0.29.el6ev.noarch
+#   - rhevm-extensions-api-impl:3.5.0-0.29.el6ev.noarch
+#   - rhevm-extensions-api-impl-javadoc:3.5.0-0.29.el6ev.noarch
+#   - rhevm-lib:3.5.0-0.29.el6ev.noarch
+#   - rhevm-restapi:3.5.0-0.29.el6ev.noarch
+#   - rhevm-setup:3.5.0-0.29.el6ev.noarch
+#   - rhevm-setup-base:3.5.0-0.29.el6ev.noarch
+#   - rhevm-setup-plugin-allinone:3.5.0-0.29.el6ev.noarch
+#   - rhevm-setup-plugin-ovirt-engine:3.5.0-0.29.el6ev.noarch
+#   - rhevm-setup-plugin-ovirt-engine-common:3.5.0-0.29.el6ev.noarch
+#   - rhevm-setup-plugin-websocket-proxy:3.5.0-0.29.el6ev.noarch
+#   - rhevm-tools:3.5.0-0.29.el6ev.noarch
+#   - rhevm-userportal:3.5.0-0.29.el6ev.noarch
+#   - rhevm-webadmin-portal:3.5.0-0.29.el6ev.noarch
+#   - rhevm-websocket-proxy:3.5.0-0.29.el6ev.noarch
 #
 # Last versions recommanded by security team:
-#   - rhevm:3.5.1-0.4.el6ev
-#   - rhevm-backend:3.5.1-0.4.el6ev
-#   - rhevm-dbscripts:3.5.1-0.4.el6ev
-#   - rhevm-extensions-api-impl:3.5.1-0.4.el6ev
-#   - rhevm-extensions-api-impl-javadoc:3.5.1-0.4.el6ev
-#   - rhevm-lib:3.5.1-0.4.el6ev
-#   - rhevm-restapi:3.5.1-0.4.el6ev
-#   - rhevm-setup:3.5.1-0.4.el6ev
-#   - rhevm-setup-base:3.5.1-0.4.el6ev
-#   - rhevm-setup-plugin-allinone:3.5.1-0.4.el6ev
-#   - rhevm-setup-plugin-ovirt-engine:3.5.1-0.4.el6ev
-#   - rhevm-setup-plugin-ovirt-engine-common:3.5.1-0.4.el6ev
-#   - rhevm-setup-plugin-websocket-proxy:3.5.1-0.4.el6ev
-#   - rhevm-tools:3.5.1-0.4.el6ev
-#   - rhevm-userportal:3.5.1-0.4.el6ev
-#   - rhevm-webadmin-portal:3.5.1-0.4.el6ev
-#   - rhevm-websocket-proxy:3.5.1-0.4.el6ev
+#   - rhevm:3.5.1-0.4.el6ev.noarch
+#   - rhevm-backend:3.5.1-0.4.el6ev.noarch
+#   - rhevm-dbscripts:3.5.1-0.4.el6ev.noarch
+#   - rhevm-extensions-api-impl:3.5.1-0.4.el6ev.noarch
+#   - rhevm-extensions-api-impl-javadoc:3.5.1-0.4.el6ev.noarch
+#   - rhevm-lib:3.5.1-0.4.el6ev.noarch
+#   - rhevm-restapi:3.5.1-0.4.el6ev.noarch
+#   - rhevm-setup:3.5.1-0.4.el6ev.noarch
+#   - rhevm-setup-base:3.5.1-0.4.el6ev.noarch
+#   - rhevm-setup-plugin-allinone:3.5.1-0.4.el6ev.noarch
+#   - rhevm-setup-plugin-ovirt-engine:3.5.1-0.4.el6ev.noarch
+#   - rhevm-setup-plugin-ovirt-engine-common:3.5.1-0.4.el6ev.noarch
+#   - rhevm-setup-plugin-websocket-proxy:3.5.1-0.4.el6ev.noarch
+#   - rhevm-tools:3.5.1-0.4.el6ev.noarch
+#   - rhevm-userportal:3.5.1-0.4.el6ev.noarch
+#   - rhevm-webadmin-portal:3.5.1-0.4.el6ev.noarch
+#   - rhevm-websocket-proxy:3.5.1-0.4.el6ev.noarch
 #
 # CVE List:
 #   - CVE-2012-6153

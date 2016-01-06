@@ -1,32 +1,32 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:1615
 #
 # Security announcement date: 2009-11-30 15:42:01 UTC
-# Script generation date:     2015-09-10 09:42:16 UTC
+# Script generation date:     2016-01-06 19:09:17 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - xerces-j2:2.7.1-7jpp.2.el5_4.2
-#   - xerces-j2-debuginfo:2.7.1-7jpp.2.el5_4.2
-#   - xerces-j2-scripts:2.7.1-7jpp.2.el5_4.2
-#   - xerces-j2-demo:2.7.1-7jpp.2.el5_4.2
-#   - xerces-j2-javadoc-apis:2.7.1-7jpp.2.el5_4.2
-#   - xerces-j2-javadoc-impl:2.7.1-7jpp.2.el5_4.2
-#   - xerces-j2-javadoc-other:2.7.1-7jpp.2.el5_4.2
-#   - xerces-j2-javadoc-xni:2.7.1-7jpp.2.el5_4.2
+#   - xerces-j2:2.7.1-7jpp.2.el5_4.2.x86_64
+#   - xerces-j2-debuginfo:2.7.1-7jpp.2.el5_4.2.x86_64
+#   - xerces-j2-scripts:2.7.1-7jpp.2.el5_4.2.x86_64
+#   - xerces-j2-demo:2.7.1-7jpp.2.el5_4.2.x86_64
+#   - xerces-j2-javadoc-apis:2.7.1-7jpp.2.el5_4.2.x86_64
+#   - xerces-j2-javadoc-impl:2.7.1-7jpp.2.el5_4.2.x86_64
+#   - xerces-j2-javadoc-other:2.7.1-7jpp.2.el5_4.2.x86_64
+#   - xerces-j2-javadoc-xni:2.7.1-7jpp.2.el5_4.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - xerces-j2:2.9.1-10.patch02.ep5.el5
-#   - xerces-j2-debuginfo:2.7.1-7jpp.2.el5_4.2
-#   - xerces-j2-scripts:2.9.1-10.patch02.ep5.el5
-#   - xerces-j2-demo:2.7.1-7jpp.2.el5_4.2
-#   - xerces-j2-javadoc-apis:2.7.1-7jpp.2.el5_4.2
-#   - xerces-j2-javadoc-impl:2.7.1-7jpp.2.el5_4.2
-#   - xerces-j2-javadoc-other:2.7.1-7jpp.2.el5_4.2
-#   - xerces-j2-javadoc-xni:2.7.1-7jpp.2.el5_4.2
+#   - xerces-j2:2.9.1-10.patch02.ep5.el5.noarch
+#   - xerces-j2-debuginfo:2.7.1-7jpp.2.el5_4.2.x86_64
+#   - xerces-j2-scripts:2.9.1-10.patch02.ep5.el5.noarch
+#   - xerces-j2-demo:2.7.1-7jpp.2.el5_4.2.x86_64
+#   - xerces-j2-javadoc-apis:2.7.1-7jpp.2.el5_4.2.x86_64
+#   - xerces-j2-javadoc-impl:2.7.1-7jpp.2.el5_4.2.x86_64
+#   - xerces-j2-javadoc-other:2.7.1-7jpp.2.el5_4.2.x86_64
+#   - xerces-j2-javadoc-xni:2.7.1-7jpp.2.el5_4.2.x86_64
 #
 # CVE List:
 #   - CVE-2009-2625

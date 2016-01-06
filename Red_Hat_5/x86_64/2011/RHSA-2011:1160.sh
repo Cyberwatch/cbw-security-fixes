@@ -1,28 +1,28 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1160
 #
 # Security announcement date: 2011-08-15 17:54:05 UTC
-# Script generation date:     2015-09-10 09:43:24 UTC
+# Script generation date:     2016-01-06 19:10:25 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - dhclient:3.0.5-29.el5_7.1
-#   - dhcp-debuginfo:3.0.5-29.el5_7.1
-#   - libdhcp4client:3.0.5-29.el5_7.1
-#   - dhcp:3.0.5-29.el5_7.1
-#   - dhcp-devel:3.0.5-29.el5_7.1
-#   - libdhcp4client-devel:3.0.5-29.el5_7.1
+#   - dhclient:3.0.5-29.el5_7.1.x86_64
+#   - dhcp-debuginfo:3.0.5-29.el5_7.1.x86_64
+#   - libdhcp4client:3.0.5-29.el5_7.1.x86_64
+#   - dhcp:3.0.5-29.el5_7.1.x86_64
+#   - dhcp-devel:3.0.5-29.el5_7.1.x86_64
+#   - libdhcp4client-devel:3.0.5-29.el5_7.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - dhclient:3.0.5-31.el5_8.1
-#   - dhcp-debuginfo:3.0.5-31.el5_8.1
-#   - libdhcp4client:3.0.5-31.el5_8.1
-#   - dhcp:3.0.5-31.el5_8.1
-#   - dhcp-devel:3.0.5-31.el5_8.1
-#   - libdhcp4client-devel:3.0.5-31.el5_8.1
+#   - dhclient:3.0.5-31.el5_8.1.x86_64
+#   - dhcp-debuginfo:3.0.5-31.el5_8.1.x86_64
+#   - libdhcp4client:3.0.5-31.el5_8.1.x86_64
+#   - dhcp:3.0.5-31.el5_8.1.x86_64
+#   - dhcp-devel:3.0.5-31.el5_8.1.x86_64
+#   - libdhcp4client-devel:3.0.5-31.el5_8.1.x86_64
 #
 # CVE List:
 #   - CVE-2011-2748

@@ -1,28 +1,28 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0408
 #
 # Security announcement date: 2014-04-16 11:49:35 UTC
-# Script generation date:     2015-09-10 09:45:44 UTC
+# Script generation date:     2016-01-06 19:12:25 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.6.0-openjdk:1.6.0.0-5.1.13.3.el6_5
-#   - java-1.6.0-openjdk-debuginfo:1.6.0.0-5.1.13.3.el6_5
-#   - java-1.6.0-openjdk-demo:1.6.0.0-5.1.13.3.el6_5
-#   - java-1.6.0-openjdk-devel:1.6.0.0-5.1.13.3.el6_5
-#   - java-1.6.0-openjdk-javadoc:1.6.0.0-5.1.13.3.el6_5
-#   - java-1.6.0-openjdk-src:1.6.0.0-5.1.13.3.el6_5
+#   - java-1.6.0-openjdk:1.6.0.0-5.1.13.3.el6_5.x86_64
+#   - java-1.6.0-openjdk-debuginfo:1.6.0.0-5.1.13.3.el6_5.x86_64
+#   - java-1.6.0-openjdk-demo:1.6.0.0-5.1.13.3.el6_5.x86_64
+#   - java-1.6.0-openjdk-devel:1.6.0.0-5.1.13.3.el6_5.x86_64
+#   - java-1.6.0-openjdk-javadoc:1.6.0.0-5.1.13.3.el6_5.x86_64
+#   - java-1.6.0-openjdk-src:1.6.0.0-5.1.13.3.el6_5.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-openjdk:1.6.0.36-1.13.8.1.el6_7
-#   - java-1.6.0-openjdk-debuginfo:1.6.0.36-1.13.8.1.el6_7
-#   - java-1.6.0-openjdk-demo:1.6.0.36-1.13.8.1.el6_7
-#   - java-1.6.0-openjdk-devel:1.6.0.36-1.13.8.1.el6_7
-#   - java-1.6.0-openjdk-javadoc:1.6.0.36-1.13.8.1.el6_7
-#   - java-1.6.0-openjdk-src:1.6.0.36-1.13.8.1.el6_7
+#   - java-1.6.0-openjdk:1.6.0.36-1.13.8.1.el6_7.x86_64
+#   - java-1.6.0-openjdk-debuginfo:1.6.0.36-1.13.8.1.el6_7.x86_64
+#   - java-1.6.0-openjdk-demo:1.6.0.36-1.13.8.1.el6_7.x86_64
+#   - java-1.6.0-openjdk-devel:1.6.0.36-1.13.8.1.el6_7.x86_64
+#   - java-1.6.0-openjdk-javadoc:1.6.0.36-1.13.8.1.el6_7.x86_64
+#   - java-1.6.0-openjdk-src:1.6.0.36-1.13.8.1.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2014-0429

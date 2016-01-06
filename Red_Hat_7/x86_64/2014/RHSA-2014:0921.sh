@@ -1,34 +1,34 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0921
 #
 # Security announcement date: 2014-07-23 10:14:51 UTC
-# Script generation date:     2015-09-10 09:46:02 UTC
+# Script generation date:     2016-01-06 19:12:41 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - httpd-manual:2.4.6-18.el7_0
-#   - httpd:2.4.6-18.el7_0
-#   - httpd-debuginfo:2.4.6-18.el7_0
-#   - httpd-devel:2.4.6-18.el7_0
-#   - httpd-tools:2.4.6-18.el7_0
-#   - mod_ldap:2.4.6-18.el7_0
-#   - mod_proxy_html:2.4.6-18.el7_0
-#   - mod_session:2.4.6-18.el7_0
-#   - mod_ssl:2.4.6-18.el7_0
+#   - httpd-manual:2.4.6-18.el7_0.noarch
+#   - httpd:2.4.6-18.el7_0.x86_64
+#   - httpd-debuginfo:2.4.6-18.el7_0.x86_64
+#   - httpd-devel:2.4.6-18.el7_0.x86_64
+#   - httpd-tools:2.4.6-18.el7_0.x86_64
+#   - mod_ldap:2.4.6-18.el7_0.x86_64
+#   - mod_proxy_html:2.4.6-18.el7_0.x86_64
+#   - mod_session:2.4.6-18.el7_0.x86_64
+#   - mod_ssl:2.4.6-18.el7_0.x86_64
 #
 # Last versions recommanded by security team:
-#   - httpd-manual:2.4.6-31.ael7b_1.1
-#   - httpd:2.4.6-31.el7_1.1
-#   - httpd-debuginfo:2.4.6-31.el7_1.1
-#   - httpd-devel:2.4.6-31.el7_1.1
-#   - httpd-tools:2.4.6-31.el7_1.1
-#   - mod_ldap:2.4.6-31.el7_1.1
-#   - mod_proxy_html:2.4.6-31.el7_1.1
-#   - mod_session:2.4.6-31.el7_1.1
-#   - mod_ssl:2.4.6-31.el7_1.1
+#   - httpd-manual:2.4.6-31.ael7b_1.1.noarch
+#   - httpd:2.4.6-31.el7_1.1.x86_64
+#   - httpd-debuginfo:2.4.6-31.el7_1.1.x86_64
+#   - httpd-devel:2.4.6-31.el7_1.1.x86_64
+#   - httpd-tools:2.4.6-31.el7_1.1.x86_64
+#   - mod_ldap:2.4.6-31.el7_1.1.x86_64
+#   - mod_proxy_html:2.4.6-31.el7_1.1.x86_64
+#   - mod_session:2.4.6-31.el7_1.1.x86_64
+#   - mod_ssl:2.4.6-31.el7_1.1.x86_64
 #
 # CVE List:
 #   - CVE-2013-4352

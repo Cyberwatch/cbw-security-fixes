@@ -1,38 +1,38 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0646
 #
 # Security announcement date: 2013-03-14 16:56:56 UTC
-# Script generation date:     2015-09-10 09:44:43 UTC
+# Script generation date:     2016-01-06 19:11:35 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libpurple:2.7.9-10.el6_4.1
-#   - pidgin:2.7.9-10.el6_4.1
-#   - pidgin-debuginfo:2.7.9-10.el6_4.1
-#   - finch:2.7.9-10.el6_4.1
-#   - finch-devel:2.7.9-10.el6_4.1
-#   - libpurple-devel:2.7.9-10.el6_4.1
-#   - libpurple-perl:2.7.9-10.el6_4.1
-#   - libpurple-tcl:2.7.9-10.el6_4.1
-#   - pidgin-devel:2.7.9-10.el6_4.1
-#   - pidgin-docs:2.7.9-10.el6_4.1
-#   - pidgin-perl:2.7.9-10.el6_4.1
+#   - libpurple:2.7.9-10.el6_4.1.x86_64
+#   - pidgin:2.7.9-10.el6_4.1.x86_64
+#   - pidgin-debuginfo:2.7.9-10.el6_4.1.x86_64
+#   - finch:2.7.9-10.el6_4.1.x86_64
+#   - finch-devel:2.7.9-10.el6_4.1.x86_64
+#   - libpurple-devel:2.7.9-10.el6_4.1.x86_64
+#   - libpurple-perl:2.7.9-10.el6_4.1.x86_64
+#   - libpurple-tcl:2.7.9-10.el6_4.1.x86_64
+#   - pidgin-devel:2.7.9-10.el6_4.1.x86_64
+#   - pidgin-docs:2.7.9-10.el6_4.1.x86_64
+#   - pidgin-perl:2.7.9-10.el6_4.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - libpurple:2.7.9-27.el6
-#   - pidgin:2.7.9-27.el6
-#   - pidgin-debuginfo:2.7.9-27.el6
-#   - finch:2.7.9-27.el6
-#   - finch-devel:2.7.9-27.el6
-#   - libpurple-devel:2.7.9-27.el6
-#   - libpurple-perl:2.7.9-27.el6
-#   - libpurple-tcl:2.7.9-27.el6
-#   - pidgin-devel:2.7.9-27.el6
-#   - pidgin-docs:2.7.9-27.el6
-#   - pidgin-perl:2.7.9-27.el6
+#   - libpurple:2.7.9-27.el6.x86_64
+#   - pidgin:2.7.9-27.el6.x86_64
+#   - pidgin-debuginfo:2.7.9-27.el6.x86_64
+#   - finch:2.7.9-27.el6.x86_64
+#   - finch-devel:2.7.9-27.el6.x86_64
+#   - libpurple-devel:2.7.9-27.el6.x86_64
+#   - libpurple-perl:2.7.9-27.el6.x86_64
+#   - libpurple-tcl:2.7.9-27.el6.x86_64
+#   - pidgin-devel:2.7.9-27.el6.x86_64
+#   - pidgin-docs:2.7.9-27.el6.x86_64
+#   - pidgin-perl:2.7.9-27.el6.x86_64
 #
 # CVE List:
 #   - CVE-2013-0272

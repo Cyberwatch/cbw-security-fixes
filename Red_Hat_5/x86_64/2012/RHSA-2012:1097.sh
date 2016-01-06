@@ -1,30 +1,30 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1097
 #
 # Security announcement date: 2012-07-18 15:29:21 UTC
-# Script generation date:     2015-09-10 09:44:08 UTC
+# Script generation date:     2016-01-06 19:11:02 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - glibc:2.5-81.el5_8.4
-#   - glibc-common:2.5-81.el5_8.4
-#   - glibc-debuginfo:2.5-81.el5_8.4
-#   - glibc-devel:2.5-81.el5_8.4
-#   - glibc-headers:2.5-81.el5_8.4
-#   - glibc-utils:2.5-81.el5_8.4
-#   - nscd:2.5-81.el5_8.4
+#   - glibc:2.5-81.el5_8.4.x86_64
+#   - glibc-common:2.5-81.el5_8.4.x86_64
+#   - glibc-debuginfo:2.5-81.el5_8.4.x86_64
+#   - glibc-devel:2.5-81.el5_8.4.x86_64
+#   - glibc-headers:2.5-81.el5_8.4.x86_64
+#   - glibc-utils:2.5-81.el5_8.4.x86_64
+#   - nscd:2.5-81.el5_8.4.x86_64
 #
 # Last versions recommanded by security team:
-#   - glibc:2.5-123.el5_11.3
-#   - glibc-common:2.5-123.el5_11.3
-#   - glibc-debuginfo:2.5-123.el5_11.3
-#   - glibc-devel:2.5-123.el5_11.3
-#   - glibc-headers:2.5-123.el5_11.3
-#   - glibc-utils:2.5-123.el5_11.3
-#   - nscd:2.5-123.el5_11.3
+#   - glibc:2.5-123.el5_11.3.x86_64
+#   - glibc-common:2.5-123.el5_11.3.x86_64
+#   - glibc-debuginfo:2.5-123.el5_11.3.x86_64
+#   - glibc-devel:2.5-123.el5_11.3.x86_64
+#   - glibc-headers:2.5-123.el5_11.3.x86_64
+#   - glibc-utils:2.5-123.el5_11.3.x86_64
+#   - nscd:2.5-123.el5_11.3.x86_64
 #
 # CVE List:
 #   - CVE-2012-3406

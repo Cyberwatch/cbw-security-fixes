@@ -1,26 +1,26 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:0408
 #
 # Security announcement date: 2009-04-07 19:00:15 UTC
-# Script generation date:     2015-09-10 09:41:59 UTC
+# Script generation date:     2016-01-06 19:09:03 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - krb5-debuginfo:1.6.1-31.el5_3.3
-#   - krb5-libs:1.6.1-31.el5_3.3
-#   - krb5-workstation:1.6.1-31.el5_3.3
-#   - krb5-devel:1.6.1-31.el5_3.3
-#   - krb5-server:1.6.1-31.el5_3.3
+#   - krb5-debuginfo:1.6.1-31.el5_3.3.x86_64
+#   - krb5-libs:1.6.1-31.el5_3.3.x86_64
+#   - krb5-workstation:1.6.1-31.el5_3.3.x86_64
+#   - krb5-devel:1.6.1-31.el5_3.3.x86_64
+#   - krb5-server:1.6.1-31.el5_3.3.x86_64
 #
 # Last versions recommanded by security team:
-#   - krb5-debuginfo:1.6.1-80.el5_11
-#   - krb5-libs:1.6.1-80.el5_11
-#   - krb5-workstation:1.6.1-80.el5_11
-#   - krb5-devel:1.6.1-80.el5_11
-#   - krb5-server:1.6.1-80.el5_11
+#   - krb5-debuginfo:1.6.1-80.el5_11.x86_64
+#   - krb5-libs:1.6.1-80.el5_11.x86_64
+#   - krb5-workstation:1.6.1-80.el5_11.x86_64
+#   - krb5-devel:1.6.1-80.el5_11.x86_64
+#   - krb5-server:1.6.1-80.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2009-0844

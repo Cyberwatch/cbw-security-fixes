@@ -1,32 +1,32 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:0345
 #
 # Security announcement date: 2009-03-19 16:13:01 UTC
-# Script generation date:     2015-09-10 09:41:58 UTC
+# Script generation date:     2016-01-06 19:09:02 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ghostscript:7.05-32.1.17
-#   - ghostscript-debuginfo:7.05-32.1.17
-#   - ghostscript-devel:7.05-32.1.17
-#   - hpijs:1.3-32.1.17
-#   - ghostscript:8.15.2-9.4.el5_3.4
-#   - ghostscript-debuginfo:8.15.2-9.4.el5_3.4
-#   - ghostscript-gtk:8.15.2-9.4.el5_3.4
-#   - ghostscript-devel:8.15.2-9.4.el5_3.4
+#   - ghostscript:7.05-32.1.17.x86_64
+#   - ghostscript-debuginfo:7.05-32.1.17.x86_64
+#   - ghostscript-devel:7.05-32.1.17.x86_64
+#   - hpijs:1.3-32.1.17.x86_64
+#   - ghostscript:8.15.2-9.4.el5_3.4.x86_64
+#   - ghostscript-debuginfo:8.15.2-9.4.el5_3.4.x86_64
+#   - ghostscript-gtk:8.15.2-9.4.el5_3.4.x86_64
+#   - ghostscript-devel:8.15.2-9.4.el5_3.4.x86_64
 #
 # Last versions recommanded by security team:
-#   - ghostscript:8.70-14.el5_8.1
-#   - ghostscript-debuginfo:8.70-14.el5_8.1
-#   - ghostscript-devel:8.70-14.el5_8.1
-#   - hpijs:1.6.7-6.el5_6.1
-#   - ghostscript:8.70-14.el5_8.1
-#   - ghostscript-debuginfo:8.70-14.el5_8.1
-#   - ghostscript-gtk:8.70-14.el5_8.1
-#   - ghostscript-devel:8.70-14.el5_8.1
+#   - ghostscript:8.70-14.el5_8.1.x86_64
+#   - ghostscript-debuginfo:8.70-14.el5_8.1.x86_64
+#   - ghostscript-devel:8.70-14.el5_8.1.x86_64
+#   - hpijs:1.6.7-6.el5_6.1.x86_64
+#   - ghostscript:8.70-14.el5_8.1.x86_64
+#   - ghostscript-debuginfo:8.70-14.el5_8.1.x86_64
+#   - ghostscript-gtk:8.70-14.el5_8.1.x86_64
+#   - ghostscript-devel:8.70-14.el5_8.1.x86_64
 #
 # CVE List:
 #   - CVE-2009-0583

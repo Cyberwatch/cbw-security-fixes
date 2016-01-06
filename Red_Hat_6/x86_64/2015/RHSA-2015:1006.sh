@@ -1,30 +1,30 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1006
 #
 # Security announcement date: 2015-05-13 14:25:01 UTC
-# Script generation date:     2015-09-10 09:47:25 UTC
+# Script generation date:     2016-01-06 19:13:51 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.6.0-ibm:1.6.0.16.4-1jpp.1.el6_6
-#   - java-1.6.0-ibm-demo:1.6.0.16.4-1jpp.1.el6_6
-#   - java-1.6.0-ibm-devel:1.6.0.16.4-1jpp.1.el6_6
-#   - java-1.6.0-ibm-javacomm:1.6.0.16.4-1jpp.1.el6_6
-#   - java-1.6.0-ibm-jdbc:1.6.0.16.4-1jpp.1.el6_6
-#   - java-1.6.0-ibm-plugin:1.6.0.16.4-1jpp.1.el6_6
-#   - java-1.6.0-ibm-src:1.6.0.16.4-1jpp.1.el6_6
+#   - java-1.6.0-ibm:1.6.0.16.4-1jpp.1.el6_6.x86_64
+#   - java-1.6.0-ibm-demo:1.6.0.16.4-1jpp.1.el6_6.x86_64
+#   - java-1.6.0-ibm-devel:1.6.0.16.4-1jpp.1.el6_6.x86_64
+#   - java-1.6.0-ibm-javacomm:1.6.0.16.4-1jpp.1.el6_6.x86_64
+#   - java-1.6.0-ibm-jdbc:1.6.0.16.4-1jpp.1.el6_6.x86_64
+#   - java-1.6.0-ibm-plugin:1.6.0.16.4-1jpp.1.el6_6.x86_64
+#   - java-1.6.0-ibm-src:1.6.0.16.4-1jpp.1.el6_6.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-ibm:1.6.0.16.7-1jpp.1.el6_7
-#   - java-1.6.0-ibm-demo:1.6.0.16.7-1jpp.1.el6_7
-#   - java-1.6.0-ibm-devel:1.6.0.16.7-1jpp.1.el6_7
-#   - java-1.6.0-ibm-javacomm:1.6.0.16.7-1jpp.1.el6_7
-#   - java-1.6.0-ibm-jdbc:1.6.0.16.7-1jpp.1.el6_7
-#   - java-1.6.0-ibm-plugin:1.6.0.16.7-1jpp.1.el6_7
-#   - java-1.6.0-ibm-src:1.6.0.16.7-1jpp.1.el6_7
+#   - java-1.6.0-ibm:1.6.0.16.7-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm-demo:1.6.0.16.7-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm-devel:1.6.0.16.7-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm-javacomm:1.6.0.16.7-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm-jdbc:1.6.0.16.7-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm-plugin:1.6.0.16.7-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm-src:1.6.0.16.7-1jpp.1.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2005-1080

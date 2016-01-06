@@ -3,22 +3,22 @@
 # Security fix for RHSA-2015:2360
 #
 # Security announcement date: 2015-11-19 21:42:24 UTC
-# Script generation date:     2016-01-01 07:10:05 UTC
+# Script generation date:     2016-01-06 19:14:31 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - cups-filters:1.0.35-21.el7
-#   - cups-filters-debuginfo:1.0.35-21.el7
-#   - cups-filters-libs:1.0.35-21.el7
-#   - cups-filters-devel:1.0.35-21.el7
+#   - cups-filters:1.0.35-21.el7.x86_64
+#   - cups-filters-debuginfo:1.0.35-21.el7.x86_64
+#   - cups-filters-libs:1.0.35-21.el7.x86_64
+#   - cups-filters-devel:1.0.35-21.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - cups-filters:1.0.35-21.el7
-#   - cups-filters-debuginfo:1.0.35-21.el7
-#   - cups-filters-libs:1.0.35-21.el7
-#   - cups-filters-devel:1.0.35-21.el7
+#   - cups-filters:1.0.35-15.el7_0.1.x86_64
+#   - cups-filters-debuginfo:1.0.35-15.el7_0.1.x86_64
+#   - cups-filters-libs:1.0.35-15.el7_0.1.x86_64
+#   - cups-filters-devel:1.0.35-15.el7_0.1.x86_64
 #
 # CVE List:
 #   - CVE-2015-3258

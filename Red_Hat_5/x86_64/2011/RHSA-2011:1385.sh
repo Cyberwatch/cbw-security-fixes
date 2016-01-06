@@ -1,24 +1,24 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1385
 #
 # Security announcement date: 2011-10-19 18:02:34 UTC
-# Script generation date:     2015-09-10 09:43:30 UTC
+# Script generation date:     2016-01-06 19:10:31 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - kdelibs:3.5.4-26.el5_7.1
-#   - kdelibs-apidocs:3.5.4-26.el5_7.1
-#   - kdelibs-debuginfo:3.5.4-26.el5_7.1
-#   - kdelibs-devel:3.5.4-26.el5_7.1
+#   - kdelibs:3.5.4-26.el5_7.1.x86_64
+#   - kdelibs-apidocs:3.5.4-26.el5_7.1.x86_64
+#   - kdelibs-debuginfo:3.5.4-26.el5_7.1.x86_64
+#   - kdelibs-devel:3.5.4-26.el5_7.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - kdelibs:3.5.4-26.el5_7.1
-#   - kdelibs-apidocs:3.5.4-26.el5_7.1
-#   - kdelibs-debuginfo:3.5.4-26.el5_7.1
-#   - kdelibs-devel:3.5.4-26.el5_7.1
+#   - kdelibs:3.5.4-26.el5_7.1.x86_64
+#   - kdelibs-apidocs:3.5.4-26.el5_7.1.x86_64
+#   - kdelibs-debuginfo:3.5.4-26.el5_7.1.x86_64
+#   - kdelibs-devel:3.5.4-26.el5_7.1.x86_64
 #
 # CVE List:
 #   - CVE-2011-3365

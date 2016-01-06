@@ -1,18 +1,18 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0680
 #
 # Security announcement date: 2013-03-25 17:21:12 UTC
-# Script generation date:     2015-09-10 09:44:44 UTC
+# Script generation date:     2016-01-06 19:11:36 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - jakarta-commons-httpclient:3.1-2.1_patch_01.ep5.el5
+#   - jakarta-commons-httpclient:3.1-2.1_patch_01.ep5.el5.noarch
 #
 # Last versions recommanded by security team:
-#   - jakarta-commons-httpclient:3.1-4_patch_02.ep5.el5
+#   - jakarta-commons-httpclient:3.1-4_patch_02.ep5.el5.noarch
 #
 # CVE List:
 #   - CVE-2012-5783

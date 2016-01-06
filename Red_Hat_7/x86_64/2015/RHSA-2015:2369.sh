@@ -3,22 +3,22 @@
 # Security fix for RHSA-2015:2369
 #
 # Security announcement date: 2015-11-19 21:54:23 UTC
-# Script generation date:     2016-01-01 07:10:05 UTC
+# Script generation date:     2016-01-06 19:14:31 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openhpi:3.4.0-2.el7
-#   - openhpi-debuginfo:3.4.0-2.el7
-#   - openhpi-libs:3.4.0-2.el7
-#   - openhpi-devel:3.4.0-2.el7
+#   - openhpi:3.4.0-2.el7.x86_64
+#   - openhpi-debuginfo:3.4.0-2.el7.x86_64
+#   - openhpi-libs:3.4.0-2.el7.x86_64
+#   - openhpi-devel:3.4.0-2.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - openhpi:3.4.0-2.el7
-#   - openhpi-debuginfo:3.4.0-2.el7
-#   - openhpi-libs:3.4.0-2.el7
-#   - openhpi-devel:3.4.0-2.el7
+#   - openhpi:3.4.0-2.el7.x86_64
+#   - openhpi-debuginfo:3.4.0-2.el7.x86_64
+#   - openhpi-libs:3.4.0-2.el7.x86_64
+#   - openhpi-devel:3.4.0-2.el7.x86_64
 #
 # CVE List:
 #   - CVE-2015-3248

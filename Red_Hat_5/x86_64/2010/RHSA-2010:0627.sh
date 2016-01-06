@@ -1,26 +1,26 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0627
 #
 # Security announcement date: 2010-08-19 22:11:25 UTC
-# Script generation date:     2015-10-23 06:13:19 UTC
+# Script generation date:     2016-01-06 19:09:32 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - kmod-kvm:83-164.el5_5.21
-#   - kvm:83-164.el5_5.21
-#   - kvm-debuginfo:83-164.el5_5.21
-#   - kvm-qemu-img:83-164.el5_5.21
-#   - kvm-tools:83-164.el5_5.21
+#   - kmod-kvm:83-164.el5_5.21.x86_64
+#   - kvm:83-164.el5_5.21.x86_64
+#   - kvm-debuginfo:83-164.el5_5.21.x86_64
+#   - kvm-qemu-img:83-164.el5_5.21.x86_64
+#   - kvm-tools:83-164.el5_5.21.x86_64
 #
 # Last versions recommanded by security team:
-#   - kmod-kvm:83-274.el5_11
-#   - kvm:83-274.el5_11
-#   - kvm-debuginfo:83-274.el5_11
-#   - kvm-qemu-img:83-274.el5_11
-#   - kvm-tools:83-274.el5_11
+#   - kmod-kvm:83-274.el5_11.x86_64
+#   - kvm:83-274.el5_11.x86_64
+#   - kvm-debuginfo:83-274.el5_11.x86_64
+#   - kvm-qemu-img:83-274.el5_11.x86_64
+#   - kvm-tools:83-274.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2010-0431

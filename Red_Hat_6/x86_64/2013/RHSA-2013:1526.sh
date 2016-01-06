@@ -1,24 +1,24 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1526
 #
 # Security announcement date: 2013-11-18 19:30:14 UTC
-# Script generation date:     2015-09-10 09:45:18 UTC
+# Script generation date:     2016-01-06 19:12:04 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - nagios:3.5.1-2.el6ost
-#   - nagios-common:3.5.1-2.el6ost
-#   - nagios-debuginfo:3.5.1-2.el6ost
-#   - nagios-devel:3.5.1-2.el6ost
+#   - nagios:3.5.1-2.el6ost.x86_64
+#   - nagios-common:3.5.1-2.el6ost.x86_64
+#   - nagios-debuginfo:3.5.1-2.el6ost.x86_64
+#   - nagios-devel:3.5.1-2.el6ost.x86_64
 #
 # Last versions recommanded by security team:
-#   - nagios:3.5.1-2.el6ost
-#   - nagios-common:3.5.1-2.el6ost
-#   - nagios-debuginfo:3.5.1-2.el6ost
-#   - nagios-devel:3.5.1-2.el6ost
+#   - nagios:3.5.1-2.el6ost.x86_64
+#   - nagios-common:3.5.1-2.el6ost.x86_64
+#   - nagios-debuginfo:3.5.1-2.el6ost.x86_64
+#   - nagios-devel:3.5.1-2.el6ost.x86_64
 #
 # CVE List:
 #   - CVE-2013-2029

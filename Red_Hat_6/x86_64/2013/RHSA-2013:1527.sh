@@ -1,18 +1,18 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1527
 #
 # Security announcement date: 2013-11-21 05:10:20 UTC
-# Script generation date:     2015-09-10 09:45:21 UTC
+# Script generation date:     2016-01-06 19:12:07 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rhev-hypervisor6:6.5-20131115.0.3.2.el6_5
+#   - rhev-hypervisor6:6.5-20131115.0.3.2.el6_5.noarch
 #
 # Last versions recommanded by security team:
-#   - rhev-hypervisor6:6.7-20150828.0.el6ev
+#   - rhev-hypervisor6:6.7-20150828.0.el6ev.noarch
 #
 # CVE List:
 #   - CVE-2010-5107

@@ -1,20 +1,20 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0008
 #
 # Security announcement date: 2014-01-06 18:40:25 UTC
-# Script generation date:     2015-09-10 09:45:29 UTC
+# Script generation date:     2016-01-06 19:12:15 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ruby193-rubygem-actionpack:3.2.8-5.1.el6
-#   - ruby193-rubygem-actionpack-doc:3.2.8-5.1.el6
+#   - ruby193-rubygem-actionpack:3.2.8-5.1.el6.noarch
+#   - ruby193-rubygem-actionpack-doc:3.2.8-5.1.el6.noarch
 #
 # Last versions recommanded by security team:
-#   - ruby193-rubygem-actionpack:3.2.17-6.el6sam
-#   - ruby193-rubygem-actionpack-doc:3.2.8-5.5.el6
+#   - ruby193-rubygem-actionpack:3.2.17-6.el6sam.noarch
+#   - ruby193-rubygem-actionpack-doc:3.2.8-5.5.el6.noarch
 #
 # CVE List:
 #   - CVE-2013-4491

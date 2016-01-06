@@ -1,18 +1,18 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1186
 #
 # Security announcement date: 2014-09-11 21:23:22 UTC
-# Script generation date:     2015-09-10 09:46:17 UTC
+# Script generation date:     2016-01-06 19:12:53 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - katello-configure:1.4.5.1-3.el6sam
+#   - katello-configure:1.4.5.1-3.el6sam.noarch
 #
 # Last versions recommanded by security team:
-#   - katello-configure:1.4.5.1-3.el6sam
+#   - katello-configure:1.4.5.1-3.el6sam.noarch
 #
 # CVE List:
 #   - CVE-2014-3120

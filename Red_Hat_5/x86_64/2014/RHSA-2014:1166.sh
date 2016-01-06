@@ -1,26 +1,26 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1166
 #
 # Security announcement date: 2014-09-08 19:34:53 UTC
-# Script generation date:     2015-09-10 09:46:17 UTC
+# Script generation date:     2016-01-06 19:12:52 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - jakarta-commons-httpclient:3.0-7jpp.4.el5_10
-#   - jakarta-commons-httpclient-debuginfo:3.0-7jpp.4.el5_10
-#   - jakarta-commons-httpclient-demo:3.0-7jpp.4.el5_10
-#   - jakarta-commons-httpclient-javadoc:3.0-7jpp.4.el5_10
-#   - jakarta-commons-httpclient-manual:3.0-7jpp.4.el5_10
+#   - jakarta-commons-httpclient:3.0-7jpp.4.el5_10.x86_64
+#   - jakarta-commons-httpclient-debuginfo:3.0-7jpp.4.el5_10.x86_64
+#   - jakarta-commons-httpclient-demo:3.0-7jpp.4.el5_10.x86_64
+#   - jakarta-commons-httpclient-javadoc:3.0-7jpp.4.el5_10.x86_64
+#   - jakarta-commons-httpclient-manual:3.0-7jpp.4.el5_10.x86_64
 #
 # Last versions recommanded by security team:
-#   - jakarta-commons-httpclient:3.1-4_patch_02.ep5.el5
-#   - jakarta-commons-httpclient-debuginfo:3.0-7jpp.4.el5_10
-#   - jakarta-commons-httpclient-demo:3.0-7jpp.4.el5_10
-#   - jakarta-commons-httpclient-javadoc:3.0-7jpp.4.el5_10
-#   - jakarta-commons-httpclient-manual:3.0-7jpp.4.el5_10
+#   - jakarta-commons-httpclient:3.1-4_patch_02.ep5.el5.noarch
+#   - jakarta-commons-httpclient-debuginfo:3.0-7jpp.4.el5_10.x86_64
+#   - jakarta-commons-httpclient-demo:3.0-7jpp.4.el5_10.x86_64
+#   - jakarta-commons-httpclient-javadoc:3.0-7jpp.4.el5_10.x86_64
+#   - jakarta-commons-httpclient-manual:3.0-7jpp.4.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2014-3577

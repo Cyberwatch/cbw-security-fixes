@@ -3,72 +3,72 @@
 # Security fix for RHSA-2015:2315
 #
 # Security announcement date: 2015-11-19 21:41:18 UTC
-# Script generation date:     2016-01-01 07:10:04 UTC
+# Script generation date:     2016-01-06 19:14:30 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ModemManager:1.1.0-8.git20130913.el7
-#   - ModemManager-debuginfo:1.1.0-8.git20130913.el7
-#   - ModemManager-glib:1.1.0-8.git20130913.el7
-#   - NetworkManager:1.0.6-27.el7
-#   - NetworkManager-adsl:1.0.6-27.el7
-#   - NetworkManager-bluetooth:1.0.6-27.el7
-#   - NetworkManager-debuginfo:1.0.6-27.el7
-#   - NetworkManager-glib:1.0.6-27.el7
-#   - NetworkManager-libnm:1.0.6-27.el7
-#   - NetworkManager-libreswan:1.0.6-3.el7
-#   - NetworkManager-libreswan-debuginfo:1.0.6-3.el7
-#   - NetworkManager-libreswan-gnome:1.0.6-3.el7
-#   - NetworkManager-team:1.0.6-27.el7
-#   - NetworkManager-tui:1.0.6-27.el7
-#   - NetworkManager-wifi:1.0.6-27.el7
-#   - NetworkManager-wwan:1.0.6-27.el7
-#   - libnm-gtk:1.0.6-2.el7
-#   - network-manager-applet-debuginfo:1.0.6-2.el7
-#   - nm-connection-editor:1.0.6-2.el7
-#   - ModemManager-devel:1.1.0-8.git20130913.el7
-#   - ModemManager-glib-devel:1.1.0-8.git20130913.el7
-#   - ModemManager-vala:1.1.0-8.git20130913.el7
-#   - NetworkManager-config-routing-rules:1.0.6-27.el7
-#   - NetworkManager-config-server:1.0.6-27.el7
-#   - NetworkManager-devel:1.0.6-27.el7
-#   - NetworkManager-glib-devel:1.0.6-27.el7
-#   - NetworkManager-libnm-devel:1.0.6-27.el7
-#   - libnm-gtk-devel:1.0.6-2.el7
-#   - network-manager-applet:1.0.6-2.el7
+#   - ModemManager:1.1.0-8.git20130913.el7.x86_64
+#   - ModemManager-debuginfo:1.1.0-8.git20130913.el7.x86_64
+#   - ModemManager-glib:1.1.0-8.git20130913.el7.x86_64
+#   - NetworkManager:1.0.6-27.el7.x86_64
+#   - NetworkManager-adsl:1.0.6-27.el7.x86_64
+#   - NetworkManager-bluetooth:1.0.6-27.el7.x86_64
+#   - NetworkManager-debuginfo:1.0.6-27.el7.x86_64
+#   - NetworkManager-glib:1.0.6-27.el7.x86_64
+#   - NetworkManager-libnm:1.0.6-27.el7.x86_64
+#   - NetworkManager-libreswan:1.0.6-3.el7.x86_64
+#   - NetworkManager-libreswan-debuginfo:1.0.6-3.el7.x86_64
+#   - NetworkManager-libreswan-gnome:1.0.6-3.el7.x86_64
+#   - NetworkManager-team:1.0.6-27.el7.x86_64
+#   - NetworkManager-tui:1.0.6-27.el7.x86_64
+#   - NetworkManager-wifi:1.0.6-27.el7.x86_64
+#   - NetworkManager-wwan:1.0.6-27.el7.x86_64
+#   - libnm-gtk:1.0.6-2.el7.x86_64
+#   - network-manager-applet-debuginfo:1.0.6-2.el7.x86_64
+#   - nm-connection-editor:1.0.6-2.el7.x86_64
+#   - ModemManager-devel:1.1.0-8.git20130913.el7.x86_64
+#   - ModemManager-glib-devel:1.1.0-8.git20130913.el7.x86_64
+#   - ModemManager-vala:1.1.0-8.git20130913.el7.x86_64
+#   - NetworkManager-config-routing-rules:1.0.6-27.el7.x86_64
+#   - NetworkManager-config-server:1.0.6-27.el7.x86_64
+#   - NetworkManager-devel:1.0.6-27.el7.x86_64
+#   - NetworkManager-glib-devel:1.0.6-27.el7.x86_64
+#   - NetworkManager-libnm-devel:1.0.6-27.el7.x86_64
+#   - libnm-gtk-devel:1.0.6-2.el7.x86_64
+#   - network-manager-applet:1.0.6-2.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - ModemManager:1.1.0-8.git20130913.el7
-#   - ModemManager-debuginfo:1.1.0-8.git20130913.el7
-#   - ModemManager-glib:1.1.0-8.git20130913.el7
-#   - NetworkManager:1.0.6-27.el7
-#   - NetworkManager-adsl:1.0.6-27.el7
-#   - NetworkManager-bluetooth:1.0.6-27.el7
-#   - NetworkManager-debuginfo:1.0.6-27.el7
-#   - NetworkManager-glib:1.0.6-27.el7
-#   - NetworkManager-libnm:1.0.6-27.el7
-#   - NetworkManager-libreswan:1.0.6-3.el7
-#   - NetworkManager-libreswan-debuginfo:1.0.6-3.el7
-#   - NetworkManager-libreswan-gnome:1.0.6-3.el7
-#   - NetworkManager-team:1.0.6-27.el7
-#   - NetworkManager-tui:1.0.6-27.el7
-#   - NetworkManager-wifi:1.0.6-27.el7
-#   - NetworkManager-wwan:1.0.6-27.el7
-#   - libnm-gtk:1.0.6-2.el7
-#   - network-manager-applet-debuginfo:1.0.6-2.el7
-#   - nm-connection-editor:1.0.6-2.el7
-#   - ModemManager-devel:1.1.0-8.git20130913.el7
-#   - ModemManager-glib-devel:1.1.0-8.git20130913.el7
-#   - ModemManager-vala:1.1.0-8.git20130913.el7
-#   - NetworkManager-config-routing-rules:1.0.6-27.el7
-#   - NetworkManager-config-server:1.0.6-27.el7
-#   - NetworkManager-devel:1.0.6-27.el7
-#   - NetworkManager-glib-devel:1.0.6-27.el7
-#   - NetworkManager-libnm-devel:1.0.6-27.el7
-#   - libnm-gtk-devel:1.0.6-2.el7
-#   - network-manager-applet:1.0.6-2.el7
+#   - ModemManager:1.1.0-8.git20130913.el7.x86_64
+#   - ModemManager-debuginfo:1.1.0-8.git20130913.el7.x86_64
+#   - ModemManager-glib:1.1.0-8.git20130913.el7.x86_64
+#   - NetworkManager:1.0.6-27.el7.x86_64
+#   - NetworkManager-adsl:1.0.6-27.el7.x86_64
+#   - NetworkManager-bluetooth:1.0.6-27.el7.x86_64
+#   - NetworkManager-debuginfo:1.0.6-27.el7.x86_64
+#   - NetworkManager-glib:1.0.6-27.el7.x86_64
+#   - NetworkManager-libnm:1.0.6-27.el7.x86_64
+#   - NetworkManager-libreswan:1.0.6-3.el7.x86_64
+#   - NetworkManager-libreswan-debuginfo:1.0.6-3.el7.x86_64
+#   - NetworkManager-libreswan-gnome:1.0.6-3.el7.x86_64
+#   - NetworkManager-team:1.0.6-27.el7.x86_64
+#   - NetworkManager-tui:1.0.6-27.el7.x86_64
+#   - NetworkManager-wifi:1.0.6-27.el7.x86_64
+#   - NetworkManager-wwan:1.0.6-27.el7.x86_64
+#   - libnm-gtk:1.0.6-2.el7.x86_64
+#   - network-manager-applet-debuginfo:1.0.6-2.el7.x86_64
+#   - nm-connection-editor:1.0.6-2.el7.x86_64
+#   - ModemManager-devel:1.1.0-8.git20130913.el7.x86_64
+#   - ModemManager-glib-devel:1.1.0-8.git20130913.el7.x86_64
+#   - ModemManager-vala:1.1.0-8.git20130913.el7.x86_64
+#   - NetworkManager-config-routing-rules:1.0.6-27.el7.x86_64
+#   - NetworkManager-config-server:1.0.6-27.el7.x86_64
+#   - NetworkManager-devel:1.0.6-27.el7.x86_64
+#   - NetworkManager-glib-devel:1.0.6-27.el7.x86_64
+#   - NetworkManager-libnm-devel:1.0.6-27.el7.x86_64
+#   - libnm-gtk-devel:1.0.6-2.el7.x86_64
+#   - network-manager-applet:1.0.6-2.el7.x86_64
 #
 # CVE List:
 #   - CVE-2015-0272

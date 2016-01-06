@@ -1,36 +1,36 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1172
 #
 # Security announcement date: 2013-08-21 18:30:28 UTC
-# Script generation date:     2015-09-10 09:45:09 UTC
+# Script generation date:     2016-01-06 19:11:55 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - condor:7.8.8-0.4.3.el6_4
-#   - condor-classads:7.8.8-0.4.3.el6_4
-#   - condor-debuginfo:7.8.8-0.4.3.el6_4
-#   - condor-kbdd:7.8.8-0.4.3.el6_4
-#   - condor-qmf:7.8.8-0.4.3.el6_4
-#   - condor-vm-gahp:7.8.8-0.4.3.el6_4
-#   - condor-aviary:7.8.8-0.4.3.el6_4
-#   - condor-cluster-resource-agent:7.8.8-0.4.3.el6_4
-#   - condor-deltacloud-gahp:7.8.8-0.4.3.el6_4
-#   - condor-plumage:7.8.8-0.4.3.el6_4
+#   - condor:7.8.8-0.4.3.el6_4.x86_64
+#   - condor-classads:7.8.8-0.4.3.el6_4.x86_64
+#   - condor-debuginfo:7.8.8-0.4.3.el6_4.x86_64
+#   - condor-kbdd:7.8.8-0.4.3.el6_4.x86_64
+#   - condor-qmf:7.8.8-0.4.3.el6_4.x86_64
+#   - condor-vm-gahp:7.8.8-0.4.3.el6_4.x86_64
+#   - condor-aviary:7.8.8-0.4.3.el6_4.x86_64
+#   - condor-cluster-resource-agent:7.8.8-0.4.3.el6_4.x86_64
+#   - condor-deltacloud-gahp:7.8.8-0.4.3.el6_4.x86_64
+#   - condor-plumage:7.8.8-0.4.3.el6_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - condor:7.8.10-0.2.el6
-#   - condor-classads:7.8.10-0.2.el6
-#   - condor-debuginfo:7.8.10-0.2.el6
-#   - condor-kbdd:7.8.10-0.2.el6
-#   - condor-qmf:7.8.10-0.2.el6
-#   - condor-vm-gahp:7.8.10-0.2.el6
-#   - condor-aviary:7.8.10-0.2.el6
-#   - condor-cluster-resource-agent:7.8.10-0.2.el6
-#   - condor-deltacloud-gahp:7.8.10-0.2.el6
-#   - condor-plumage:7.8.10-0.2.el6
+#   - condor:7.8.10-0.2.el6.x86_64
+#   - condor-classads:7.8.10-0.2.el6.x86_64
+#   - condor-debuginfo:7.8.10-0.2.el6.x86_64
+#   - condor-kbdd:7.8.10-0.2.el6.x86_64
+#   - condor-qmf:7.8.10-0.2.el6.x86_64
+#   - condor-vm-gahp:7.8.10-0.2.el6.x86_64
+#   - condor-aviary:7.8.10-0.2.el6.x86_64
+#   - condor-cluster-resource-agent:7.8.10-0.2.el6.x86_64
+#   - condor-deltacloud-gahp:7.8.10-0.2.el6.x86_64
+#   - condor-plumage:7.8.10-0.2.el6.x86_64
 #
 # CVE List:
 #   - CVE-2013-4255

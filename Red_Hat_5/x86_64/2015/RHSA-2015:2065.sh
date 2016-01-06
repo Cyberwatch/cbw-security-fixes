@@ -3,22 +3,22 @@
 # Security fix for RHSA-2015:2065
 #
 # Security announcement date: 2015-11-16 18:59:05 UTC
-# Script generation date:     2016-01-01 07:10:00 UTC
+# Script generation date:     2016-01-06 19:14:27 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - xen-debuginfo:3.0.3-147.el5_11
-#   - xen-libs:3.0.3-147.el5_11
-#   - xen:3.0.3-147.el5_11
-#   - xen-devel:3.0.3-147.el5_11
+#   - xen-debuginfo:3.0.3-147.el5_11.x86_64
+#   - xen-libs:3.0.3-147.el5_11.x86_64
+#   - xen:3.0.3-147.el5_11.x86_64
+#   - xen-devel:3.0.3-147.el5_11.x86_64
 #
 # Last versions recommanded by security team:
-#   - xen-debuginfo:3.0.3-147.el5_11
-#   - xen-libs:3.0.3-147.el5_11
-#   - xen:3.0.3-147.el5_11
-#   - xen-devel:3.0.3-147.el5_11
+#   - xen-debuginfo:3.0.3-146.el5_11.x86_64
+#   - xen-libs:3.0.3-146.el5_11.x86_64
+#   - xen:3.0.3-146.el5_11.x86_64
+#   - xen-devel:3.0.3-146.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2015-5279

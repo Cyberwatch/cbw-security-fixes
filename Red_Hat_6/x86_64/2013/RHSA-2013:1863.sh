@@ -1,22 +1,22 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1863
 #
 # Security announcement date: 2013-12-19 23:43:08 UTC
-# Script generation date:     2015-09-10 09:45:29 UTC
+# Script generation date:     2016-01-06 19:12:15 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - candlepin:0.8.26.0-1.el6sam
-#   - candlepin-selinux:0.8.26.0-1.el6sam
-#   - candlepin-tomcat6:0.8.26.0-1.el6sam
+#   - candlepin:0.8.26.0-1.el6sam.noarch
+#   - candlepin-selinux:0.8.26.0-1.el6sam.noarch
+#   - candlepin-tomcat6:0.8.26.0-1.el6sam.noarch
 #
 # Last versions recommanded by security team:
-#   - candlepin:0.9.49.3-1.el6
-#   - candlepin-selinux:0.9.49.3-1.el6
-#   - candlepin-tomcat6:0.9.49.3-1.el6
+#   - candlepin:0.9.49.3-1.el6.noarch
+#   - candlepin-selinux:0.9.49.3-1.el6.noarch
+#   - candlepin-tomcat6:0.9.49.3-1.el6.noarch
 #
 # CVE List:
 #   - CVE-2013-6439

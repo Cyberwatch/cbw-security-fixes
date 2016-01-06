@@ -1,22 +1,22 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2008:0061
 #
 # Security announcement date: 2008-05-21 14:28:23 UTC
-# Script generation date:     2015-09-10 09:41:37 UTC
+# Script generation date:     2016-01-06 19:08:45 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - setroubleshoot:2.0.5-3.el5
-#   - setroubleshoot-plugins:2.0.4-2.el5
-#   - setroubleshoot-server:2.0.5-3.el5
+#   - setroubleshoot:2.0.5-3.el5.noarch
+#   - setroubleshoot-plugins:2.0.4-2.el5.noarch
+#   - setroubleshoot-server:2.0.5-3.el5.noarch
 #
 # Last versions recommanded by security team:
-#   - setroubleshoot:2.0.5-7.el5_11
-#   - setroubleshoot-plugins:2.0.4-2.el5
-#   - setroubleshoot-server:2.0.5-7.el5_11
+#   - setroubleshoot:2.0.5-7.el5_11.noarch
+#   - setroubleshoot-plugins:2.0.4-2.el5.noarch
+#   - setroubleshoot-server:2.0.5-7.el5_11.noarch
 #
 # CVE List:
 #   - CVE-2007-5495

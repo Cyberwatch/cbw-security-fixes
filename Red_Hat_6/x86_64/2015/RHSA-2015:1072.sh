@@ -1,26 +1,26 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1072
 #
 # Security announcement date: 2015-06-04 17:50:39 UTC
-# Script generation date:     2015-09-10 09:47:29 UTC
+# Script generation date:     2016-01-06 19:13:54 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openssl:1.0.1e-30.el6_6.9
-#   - openssl-debuginfo:1.0.1e-30.el6_6.9
-#   - openssl-devel:1.0.1e-30.el6_6.9
-#   - openssl-perl:1.0.1e-30.el6_6.9
-#   - openssl-static:1.0.1e-30.el6_6.9
+#   - openssl:1.0.1e-30.el6_6.9.x86_64
+#   - openssl-debuginfo:1.0.1e-30.el6_6.9.x86_64
+#   - openssl-devel:1.0.1e-30.el6_6.9.x86_64
+#   - openssl-perl:1.0.1e-30.el6_6.9.x86_64
+#   - openssl-static:1.0.1e-30.el6_6.9.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-30.el6_6.11
-#   - openssl-debuginfo:1.0.1e-30.el6_6.11
-#   - openssl-devel:1.0.1e-30.el6_6.11
-#   - openssl-perl:1.0.1e-30.el6_6.11
-#   - openssl-static:1.0.1e-30.el6_6.11
+#   - openssl:1.0.1e-30.el6_6.11.x86_64
+#   - openssl-debuginfo:1.0.1e-30.el6_6.11.x86_64
+#   - openssl-devel:1.0.1e-30.el6_6.11.x86_64
+#   - openssl-perl:1.0.1e-30.el6_6.11.x86_64
+#   - openssl-static:1.0.1e-30.el6_6.11.x86_64
 #
 # CVE List:
 #   - CVE-2015-4000

@@ -1,26 +1,26 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0587
 #
 # Security announcement date: 2013-03-04 21:19:15 UTC
-# Script generation date:     2015-09-10 09:44:38 UTC
+# Script generation date:     2016-01-06 19:11:30 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openssl:1.0.0-27.el6_4.2
-#   - openssl-debuginfo:1.0.0-27.el6_4.2
-#   - openssl-devel:1.0.0-27.el6_4.2
-#   - openssl-perl:1.0.0-27.el6_4.2
-#   - openssl-static:1.0.0-27.el6_4.2
+#   - openssl:1.0.0-27.el6_4.2.x86_64
+#   - openssl-debuginfo:1.0.0-27.el6_4.2.x86_64
+#   - openssl-devel:1.0.0-27.el6_4.2.x86_64
+#   - openssl-perl:1.0.0-27.el6_4.2.x86_64
+#   - openssl-static:1.0.0-27.el6_4.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-30.el6_6.11
-#   - openssl-debuginfo:1.0.1e-30.el6_6.11
-#   - openssl-devel:1.0.1e-30.el6_6.11
-#   - openssl-perl:1.0.1e-30.el6_6.11
-#   - openssl-static:1.0.1e-30.el6_6.11
+#   - openssl:1.0.1e-30.el6_6.11.x86_64
+#   - openssl-debuginfo:1.0.1e-30.el6_6.11.x86_64
+#   - openssl-devel:1.0.1e-30.el6_6.11.x86_64
+#   - openssl-perl:1.0.1e-30.el6_6.11.x86_64
+#   - openssl-static:1.0.1e-30.el6_6.11.x86_64
 #
 # CVE List:
 #   - CVE-2012-4929

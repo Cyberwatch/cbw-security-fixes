@@ -1,26 +1,26 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2008:0580
 #
 # Security announcement date: 2008-11-25 08:44:10 UTC
-# Script generation date:     2015-09-10 09:41:51 UTC
+# Script generation date:     2016-01-06 19:08:57 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - vim-X11:7.0.109-4.el5_2.4z
-#   - vim-common:7.0.109-4.el5_2.4z
-#   - vim-debuginfo:7.0.109-4.el5_2.4z
-#   - vim-enhanced:7.0.109-4.el5_2.4z
-#   - vim-minimal:7.0.109-4.el5_2.4z
+#   - vim-X11:7.0.109-4.el5_2.4z.x86_64
+#   - vim-common:7.0.109-4.el5_2.4z.x86_64
+#   - vim-debuginfo:7.0.109-4.el5_2.4z.x86_64
+#   - vim-enhanced:7.0.109-4.el5_2.4z.x86_64
+#   - vim-minimal:7.0.109-4.el5_2.4z.x86_64
 #
 # Last versions recommanded by security team:
-#   - vim-X11:7.0.109-4.el5_2.4z
-#   - vim-common:7.0.109-4.el5_2.4z
-#   - vim-debuginfo:7.0.109-4.el5_2.4z
-#   - vim-enhanced:7.0.109-4.el5_2.4z
-#   - vim-minimal:7.0.109-4.el5_2.4z
+#   - vim-X11:7.0.109-4.el5_2.4z.x86_64
+#   - vim-common:7.0.109-4.el5_2.4z.x86_64
+#   - vim-debuginfo:7.0.109-4.el5_2.4z.x86_64
+#   - vim-enhanced:7.0.109-4.el5_2.4z.x86_64
+#   - vim-minimal:7.0.109-4.el5_2.4z.x86_64
 #
 # CVE List:
 #   - CVE-2007-2953

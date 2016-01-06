@@ -1,26 +1,26 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:1513
 #
 # Security announcement date: 2009-10-15 09:31:38 UTC
-# Script generation date:     2015-09-10 09:42:14 UTC
+# Script generation date:     2016-01-06 19:09:15 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - cups:1.3.7-11.el5_4.3
-#   - cups-debuginfo:1.3.7-11.el5_4.3
-#   - cups-libs:1.3.7-11.el5_4.3
-#   - cups-lpd:1.3.7-11.el5_4.3
-#   - cups-devel:1.3.7-11.el5_4.3
+#   - cups:1.3.7-11.el5_4.3.x86_64
+#   - cups-debuginfo:1.3.7-11.el5_4.3.x86_64
+#   - cups-libs:1.3.7-11.el5_4.3.x86_64
+#   - cups-lpd:1.3.7-11.el5_4.3.x86_64
+#   - cups-devel:1.3.7-11.el5_4.3.x86_64
 #
 # Last versions recommanded by security team:
-#   - cups:1.3.7-30.el5
-#   - cups-debuginfo:1.3.7-30.el5
-#   - cups-libs:1.3.7-30.el5
-#   - cups-lpd:1.3.7-30.el5
-#   - cups-devel:1.3.7-30.el5
+#   - cups:1.3.7-30.el5.x86_64
+#   - cups-debuginfo:1.3.7-30.el5.x86_64
+#   - cups-libs:1.3.7-30.el5.x86_64
+#   - cups-lpd:1.3.7-30.el5.x86_64
+#   - cups-devel:1.3.7-30.el5.x86_64
 #
 # CVE List:
 #   - CVE-2009-3608

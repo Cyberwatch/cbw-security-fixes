@@ -1,22 +1,22 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1507
 #
 # Security announcement date: 2011-12-01 16:54:13 UTC
-# Script generation date:     2015-09-10 09:43:33 UTC
+# Script generation date:     2016-01-06 19:10:34 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libarchive:2.8.3-3.el6_1
-#   - libarchive-debuginfo:2.8.3-3.el6_1
-#   - libarchive-devel:2.8.3-3.el6_1
+#   - libarchive:2.8.3-3.el6_1.x86_64
+#   - libarchive-debuginfo:2.8.3-3.el6_1.x86_64
+#   - libarchive-devel:2.8.3-3.el6_1.x86_64
 #
 # Last versions recommanded by security team:
-#   - libarchive:2.8.3-3.el6_1
-#   - libarchive-debuginfo:2.8.3-3.el6_1
-#   - libarchive-devel:2.8.3-3.el6_1
+#   - libarchive:2.8.3-3.el6_1.x86_64
+#   - libarchive-debuginfo:2.8.3-3.el6_1.x86_64
+#   - libarchive-devel:2.8.3-3.el6_1.x86_64
 #
 # CVE List:
 #   - CVE-2011-1777

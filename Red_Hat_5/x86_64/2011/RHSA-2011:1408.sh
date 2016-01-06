@@ -1,18 +1,18 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1408
 #
 # Security announcement date: 2011-10-26 17:25:18 UTC
-# Script generation date:     2015-09-10 09:43:31 UTC
+# Script generation date:     2016-01-06 19:10:31 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rhev-hypervisor:5.7-20111018.1.el5_7
+#   - rhev-hypervisor:5.7-20111018.1.el5_7.noarch
 #
 # Last versions recommanded by security team:
-#   - rhev-hypervisor:5.7-20111018.1.el5_7
+#   - rhev-hypervisor:5.7-20111018.1.el5_7.noarch
 #
 # CVE List:
 #   - CVE-2011-2723

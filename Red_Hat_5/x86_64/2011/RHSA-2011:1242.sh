@@ -1,22 +1,22 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1242
 #
 # Security announcement date: 2011-08-31 20:33:28 UTC
-# Script generation date:     2015-09-10 09:43:25 UTC
+# Script generation date:     2016-01-06 19:10:26 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - xulrunner:1.9.2.20-3.el5_7
-#   - xulrunner-debuginfo:1.9.2.20-3.el5_7
-#   - xulrunner-devel:1.9.2.20-3.el5_7
+#   - xulrunner:1.9.2.20-3.el5_7.x86_64
+#   - xulrunner-debuginfo:1.9.2.20-3.el5_7.x86_64
+#   - xulrunner-devel:1.9.2.20-3.el5_7.x86_64
 #
 # Last versions recommanded by security team:
-#   - xulrunner:17.0.10-1.el5_10
-#   - xulrunner-debuginfo:17.0.10-1.el5_10
-#   - xulrunner-devel:17.0.10-1.el5_10
+#   - xulrunner:17.0.10-1.el5_10.x86_64
+#   - xulrunner-debuginfo:17.0.10-1.el5_10.x86_64
+#   - xulrunner-devel:17.0.10-1.el5_10.x86_64
 #
 # CVE List:
 #

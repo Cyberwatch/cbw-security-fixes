@@ -1,34 +1,34 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1169
 #
 # Security announcement date: 2012-08-14 18:15:46 UTC
-# Script generation date:     2015-09-10 09:44:11 UTC
+# Script generation date:     2016-01-06 19:11:06 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - condor:7.6.5-0.14.2.el6_3
-#   - condor-classads:7.6.5-0.14.2.el6_3
-#   - condor-debuginfo:7.6.5-0.14.2.el6_3
-#   - condor-kbdd:7.6.5-0.14.2.el6_3
-#   - condor-qmf:7.6.5-0.14.2.el6_3
-#   - condor-vm-gahp:7.6.5-0.14.2.el6_3
-#   - condor-aviary:7.6.5-0.14.2.el6_3
-#   - condor-deltacloud-gahp:7.6.5-0.14.2.el6_3
-#   - condor-plumage:7.6.5-0.14.2.el6_3
+#   - condor:7.6.5-0.14.2.el6_3.x86_64
+#   - condor-classads:7.6.5-0.14.2.el6_3.x86_64
+#   - condor-debuginfo:7.6.5-0.14.2.el6_3.x86_64
+#   - condor-kbdd:7.6.5-0.14.2.el6_3.x86_64
+#   - condor-qmf:7.6.5-0.14.2.el6_3.x86_64
+#   - condor-vm-gahp:7.6.5-0.14.2.el6_3.x86_64
+#   - condor-aviary:7.6.5-0.14.2.el6_3.x86_64
+#   - condor-deltacloud-gahp:7.6.5-0.14.2.el6_3.x86_64
+#   - condor-plumage:7.6.5-0.14.2.el6_3.x86_64
 #
 # Last versions recommanded by security team:
-#   - condor:7.8.10-0.2.el6
-#   - condor-classads:7.8.10-0.2.el6
-#   - condor-debuginfo:7.8.10-0.2.el6
-#   - condor-kbdd:7.8.10-0.2.el6
-#   - condor-qmf:7.8.10-0.2.el6
-#   - condor-vm-gahp:7.8.10-0.2.el6
-#   - condor-aviary:7.8.10-0.2.el6
-#   - condor-deltacloud-gahp:7.8.10-0.2.el6
-#   - condor-plumage:7.8.10-0.2.el6
+#   - condor:7.8.10-0.2.el6.x86_64
+#   - condor-classads:7.8.10-0.2.el6.x86_64
+#   - condor-debuginfo:7.8.10-0.2.el6.x86_64
+#   - condor-kbdd:7.8.10-0.2.el6.x86_64
+#   - condor-qmf:7.8.10-0.2.el6.x86_64
+#   - condor-vm-gahp:7.8.10-0.2.el6.x86_64
+#   - condor-aviary:7.8.10-0.2.el6.x86_64
+#   - condor-deltacloud-gahp:7.8.10-0.2.el6.x86_64
+#   - condor-plumage:7.8.10-0.2.el6.x86_64
 #
 # CVE List:
 #   - CVE-2012-3416

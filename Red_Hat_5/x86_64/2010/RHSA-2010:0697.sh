@@ -1,60 +1,60 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0697
 #
 # Security announcement date: 2010-09-14 22:10:30 UTC
-# Script generation date:     2015-09-10 09:42:37 UTC
+# Script generation date:     2016-01-06 19:09:34 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - samba:3.0.9-1.3E.18
-#   - samba-client:3.0.9-1.3E.18
-#   - samba-common:3.0.9-1.3E.18
-#   - samba-debuginfo:3.0.9-1.3E.18
-#   - samba-swat:3.0.9-1.3E.18
-#   - libsmbclient:3.0.33-3.29.el5_5.1
-#   - libsmbclient-devel:3.0.33-3.29.el5_5.1
-#   - samba:3.0.33-3.29.el5_5.1
-#   - samba-client:3.0.33-3.29.el5_5.1
-#   - samba-common:3.0.33-3.29.el5_5.1
-#   - samba-debuginfo:3.0.33-3.29.el5_5.1
-#   - samba-swat:3.0.33-3.29.el5_5.1
-#   - samba:3.0.33-3.7.el5_3.3
-#   - samba-client:3.0.33-3.7.el5_3.3
-#   - samba-common:3.0.33-3.7.el5_3.3
-#   - samba-debuginfo:3.0.33-3.7.el5_3.3
-#   - samba-swat:3.0.33-3.7.el5_3.3
-#   - samba:3.0.33-3.15.el5_4.3
-#   - samba-client:3.0.33-3.15.el5_4.3
-#   - samba-common:3.0.33-3.15.el5_4.3
-#   - samba-debuginfo:3.0.33-3.15.el5_4.3
-#   - samba-swat:3.0.33-3.15.el5_4.3
+#   - samba:3.0.9-1.3E.18.x86_64
+#   - samba-client:3.0.9-1.3E.18.x86_64
+#   - samba-common:3.0.9-1.3E.18.x86_64
+#   - samba-debuginfo:3.0.9-1.3E.18.x86_64
+#   - samba-swat:3.0.9-1.3E.18.x86_64
+#   - libsmbclient:3.0.33-3.29.el5_5.1.x86_64
+#   - libsmbclient-devel:3.0.33-3.29.el5_5.1.x86_64
+#   - samba:3.0.33-3.29.el5_5.1.x86_64
+#   - samba-client:3.0.33-3.29.el5_5.1.x86_64
+#   - samba-common:3.0.33-3.29.el5_5.1.x86_64
+#   - samba-debuginfo:3.0.33-3.29.el5_5.1.x86_64
+#   - samba-swat:3.0.33-3.29.el5_5.1.x86_64
+#   - samba:3.0.33-3.7.el5_3.3.x86_64
+#   - samba-client:3.0.33-3.7.el5_3.3.x86_64
+#   - samba-common:3.0.33-3.7.el5_3.3.x86_64
+#   - samba-debuginfo:3.0.33-3.7.el5_3.3.x86_64
+#   - samba-swat:3.0.33-3.7.el5_3.3.x86_64
+#   - samba:3.0.33-3.15.el5_4.3.x86_64
+#   - samba-client:3.0.33-3.15.el5_4.3.x86_64
+#   - samba-common:3.0.33-3.15.el5_4.3.x86_64
+#   - samba-debuginfo:3.0.33-3.15.el5_4.3.x86_64
+#   - samba-swat:3.0.33-3.15.el5_4.3.x86_64
 #
 # Last versions recommanded by security team:
-#   - samba:3.0.33-3.40.el5_10
-#   - samba-client:3.0.33-3.40.el5_10
-#   - samba-common:3.0.33-3.40.el5_10
-#   - samba-debuginfo:3.0.33-3.40.el5_10
-#   - samba-swat:3.0.33-3.40.el5_10
-#   - libsmbclient:3.0.33-3.40.el5_10
-#   - libsmbclient-devel:3.0.33-3.40.el5_10
-#   - samba:3.0.33-3.40.el5_10
-#   - samba-client:3.0.33-3.40.el5_10
-#   - samba-common:3.0.33-3.40.el5_10
-#   - samba-debuginfo:3.0.33-3.40.el5_10
-#   - samba-swat:3.0.33-3.40.el5_10
-#   - samba:3.0.33-3.40.el5_10
-#   - samba-client:3.0.33-3.40.el5_10
-#   - samba-common:3.0.33-3.40.el5_10
-#   - samba-debuginfo:3.0.33-3.40.el5_10
-#   - samba-swat:3.0.33-3.40.el5_10
-#   - samba:3.0.33-3.40.el5_10
-#   - samba-client:3.0.33-3.40.el5_10
-#   - samba-common:3.0.33-3.40.el5_10
-#   - samba-debuginfo:3.0.33-3.40.el5_10
-#   - samba-swat:3.0.33-3.40.el5_10
+#   - samba:3.0.33-3.40.el5_10.x86_64
+#   - samba-client:3.0.33-3.40.el5_10.x86_64
+#   - samba-common:3.0.33-3.40.el5_10.x86_64
+#   - samba-debuginfo:3.0.33-3.40.el5_10.x86_64
+#   - samba-swat:3.0.33-3.40.el5_10.x86_64
+#   - libsmbclient:3.0.33-3.40.el5_10.x86_64
+#   - libsmbclient-devel:3.0.33-3.40.el5_10.x86_64
+#   - samba:3.0.33-3.40.el5_10.x86_64
+#   - samba-client:3.0.33-3.40.el5_10.x86_64
+#   - samba-common:3.0.33-3.40.el5_10.x86_64
+#   - samba-debuginfo:3.0.33-3.40.el5_10.x86_64
+#   - samba-swat:3.0.33-3.40.el5_10.x86_64
+#   - samba:3.0.33-3.40.el5_10.x86_64
+#   - samba-client:3.0.33-3.40.el5_10.x86_64
+#   - samba-common:3.0.33-3.40.el5_10.x86_64
+#   - samba-debuginfo:3.0.33-3.40.el5_10.x86_64
+#   - samba-swat:3.0.33-3.40.el5_10.x86_64
+#   - samba:3.0.33-3.40.el5_10.x86_64
+#   - samba-client:3.0.33-3.40.el5_10.x86_64
+#   - samba-common:3.0.33-3.40.el5_10.x86_64
+#   - samba-debuginfo:3.0.33-3.40.el5_10.x86_64
+#   - samba-swat:3.0.33-3.40.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2010-3069

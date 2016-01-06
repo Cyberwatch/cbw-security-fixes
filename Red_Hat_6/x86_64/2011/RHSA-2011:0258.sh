@@ -1,36 +1,36 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0258
 #
 # Security announcement date: 2011-02-15 19:31:24 UTC
-# Script generation date:     2015-09-10 09:42:55 UTC
+# Script generation date:     2016-01-06 19:09:49 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - subversion-svn2cl:1.6.11-2.el6_0.2
-#   - mod_dav_svn:1.6.11-2.el6_0.2
-#   - subversion:1.6.11-2.el6_0.2
-#   - subversion-debuginfo:1.6.11-2.el6_0.2
-#   - subversion-devel:1.6.11-2.el6_0.2
-#   - subversion-gnome:1.6.11-2.el6_0.2
-#   - subversion-javahl:1.6.11-2.el6_0.2
-#   - subversion-kde:1.6.11-2.el6_0.2
-#   - subversion-perl:1.6.11-2.el6_0.2
-#   - subversion-ruby:1.6.11-2.el6_0.2
+#   - subversion-svn2cl:1.6.11-2.el6_0.2.noarch
+#   - mod_dav_svn:1.6.11-2.el6_0.2.x86_64
+#   - subversion:1.6.11-2.el6_0.2.x86_64
+#   - subversion-debuginfo:1.6.11-2.el6_0.2.x86_64
+#   - subversion-devel:1.6.11-2.el6_0.2.x86_64
+#   - subversion-gnome:1.6.11-2.el6_0.2.x86_64
+#   - subversion-javahl:1.6.11-2.el6_0.2.x86_64
+#   - subversion-kde:1.6.11-2.el6_0.2.x86_64
+#   - subversion-perl:1.6.11-2.el6_0.2.x86_64
+#   - subversion-ruby:1.6.11-2.el6_0.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - subversion-svn2cl:1.6.11-15.el6_7
-#   - mod_dav_svn:1.6.11-15.el6_7
-#   - subversion:1.6.11-15.el6_7
-#   - subversion-debuginfo:1.6.11-15.el6_7
-#   - subversion-devel:1.6.11-15.el6_7
-#   - subversion-gnome:1.6.11-15.el6_7
-#   - subversion-javahl:1.6.11-15.el6_7
-#   - subversion-kde:1.6.11-15.el6_7
-#   - subversion-perl:1.6.11-15.el6_7
-#   - subversion-ruby:1.6.11-15.el6_7
+#   - subversion-svn2cl:1.6.11-15.el6_7.noarch
+#   - mod_dav_svn:1.6.11-15.el6_7.x86_64
+#   - subversion:1.6.11-15.el6_7.x86_64
+#   - subversion-debuginfo:1.6.11-15.el6_7.x86_64
+#   - subversion-devel:1.6.11-15.el6_7.x86_64
+#   - subversion-gnome:1.6.11-15.el6_7.x86_64
+#   - subversion-javahl:1.6.11-15.el6_7.x86_64
+#   - subversion-kde:1.6.11-15.el6_7.x86_64
+#   - subversion-perl:1.6.11-15.el6_7.x86_64
+#   - subversion-ruby:1.6.11-15.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2010-3315

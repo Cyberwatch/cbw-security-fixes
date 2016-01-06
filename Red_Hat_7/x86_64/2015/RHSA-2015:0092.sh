@@ -1,34 +1,34 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0092
 #
 # Security announcement date: 2015-01-27 18:20:48 UTC
-# Script generation date:     2015-09-10 09:46:56 UTC
+# Script generation date:     2016-01-06 19:13:27 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - glibc:2.17-55.el7_0.5
-#   - glibc-common:2.17-55.el7_0.5
-#   - glibc-debuginfo:2.17-55.el7_0.5
-#   - glibc-debuginfo-common:2.17-55.el7_0.5
-#   - glibc-devel:2.17-55.el7_0.5
-#   - glibc-headers:2.17-55.el7_0.5
-#   - glibc-utils:2.17-55.el7_0.5
-#   - nscd:2.17-55.el7_0.5
-#   - glibc-static:2.17-55.el7_0.5
+#   - glibc:2.17-55.el7_0.5.x86_64
+#   - glibc-common:2.17-55.el7_0.5.x86_64
+#   - glibc-debuginfo:2.17-55.el7_0.5.x86_64
+#   - glibc-debuginfo-common:2.17-55.el7_0.5.x86_64
+#   - glibc-devel:2.17-55.el7_0.5.x86_64
+#   - glibc-headers:2.17-55.el7_0.5.x86_64
+#   - glibc-utils:2.17-55.el7_0.5.x86_64
+#   - nscd:2.17-55.el7_0.5.x86_64
+#   - glibc-static:2.17-55.el7_0.5.x86_64
 #
 # Last versions recommanded by security team:
-#   - glibc:2.17-78.el7
-#   - glibc-common:2.17-78.el7
-#   - glibc-debuginfo:2.17-78.el7
-#   - glibc-debuginfo-common:2.17-78.el7
-#   - glibc-devel:2.17-78.el7
-#   - glibc-headers:2.17-78.el7
-#   - glibc-utils:2.17-78.el7
-#   - nscd:2.17-78.el7
-#   - glibc-static:2.17-78.el7
+#   - glibc:2.17-78.el7.x86_64
+#   - glibc-common:2.17-78.el7.x86_64
+#   - glibc-debuginfo:2.17-78.el7.x86_64
+#   - glibc-debuginfo-common:2.17-78.el7.x86_64
+#   - glibc-devel:2.17-78.el7.x86_64
+#   - glibc-headers:2.17-78.el7.x86_64
+#   - glibc-utils:2.17-78.el7.x86_64
+#   - nscd:2.17-78.el7.x86_64
+#   - glibc-static:2.17-78.el7.x86_64
 #
 # CVE List:
 #   - CVE-2015-0235

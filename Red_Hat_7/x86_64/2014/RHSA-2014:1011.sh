@@ -1,38 +1,38 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1011
 #
 # Security announcement date: 2014-08-06 01:04:23 UTC
-# Script generation date:     2015-09-10 09:46:04 UTC
+# Script generation date:     2016-01-06 19:12:43 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - resteasy-base:2.3.5-3.el7_0
-#   - resteasy-base-atom-provider:2.3.5-3.el7_0
-#   - resteasy-base-jackson-provider:2.3.5-3.el7_0
-#   - resteasy-base-javadoc:2.3.5-3.el7_0
-#   - resteasy-base-jaxb-provider:2.3.5-3.el7_0
-#   - resteasy-base-jaxrs:2.3.5-3.el7_0
-#   - resteasy-base-jaxrs-all:2.3.5-3.el7_0
-#   - resteasy-base-jaxrs-api:2.3.5-3.el7_0
-#   - resteasy-base-jettison-provider:2.3.5-3.el7_0
-#   - resteasy-base-providers-pom:2.3.5-3.el7_0
-#   - resteasy-base-tjws:2.3.5-3.el7_0
+#   - resteasy-base:2.3.5-3.el7_0.noarch
+#   - resteasy-base-atom-provider:2.3.5-3.el7_0.noarch
+#   - resteasy-base-jackson-provider:2.3.5-3.el7_0.noarch
+#   - resteasy-base-javadoc:2.3.5-3.el7_0.noarch
+#   - resteasy-base-jaxb-provider:2.3.5-3.el7_0.noarch
+#   - resteasy-base-jaxrs:2.3.5-3.el7_0.noarch
+#   - resteasy-base-jaxrs-all:2.3.5-3.el7_0.noarch
+#   - resteasy-base-jaxrs-api:2.3.5-3.el7_0.noarch
+#   - resteasy-base-jettison-provider:2.3.5-3.el7_0.noarch
+#   - resteasy-base-providers-pom:2.3.5-3.el7_0.noarch
+#   - resteasy-base-tjws:2.3.5-3.el7_0.noarch
 #
 # Last versions recommanded by security team:
-#   - resteasy-base:2.3.5-3.el7_0
-#   - resteasy-base-atom-provider:2.3.5-3.el7_0
-#   - resteasy-base-jackson-provider:2.3.5-3.el7_0
-#   - resteasy-base-javadoc:2.3.5-3.el7_0
-#   - resteasy-base-jaxb-provider:2.3.5-3.el7_0
-#   - resteasy-base-jaxrs:2.3.5-3.el7_0
-#   - resteasy-base-jaxrs-all:2.3.5-3.el7_0
-#   - resteasy-base-jaxrs-api:2.3.5-3.el7_0
-#   - resteasy-base-jettison-provider:2.3.5-3.el7_0
-#   - resteasy-base-providers-pom:2.3.5-3.el7_0
-#   - resteasy-base-tjws:2.3.5-3.el7_0
+#   - resteasy-base:2.3.5-3.el7_0.noarch
+#   - resteasy-base-atom-provider:2.3.5-3.el7_0.noarch
+#   - resteasy-base-jackson-provider:2.3.5-3.el7_0.noarch
+#   - resteasy-base-javadoc:2.3.5-3.el7_0.noarch
+#   - resteasy-base-jaxb-provider:2.3.5-3.el7_0.noarch
+#   - resteasy-base-jaxrs:2.3.5-3.el7_0.noarch
+#   - resteasy-base-jaxrs-all:2.3.5-3.el7_0.noarch
+#   - resteasy-base-jaxrs-api:2.3.5-3.el7_0.noarch
+#   - resteasy-base-jettison-provider:2.3.5-3.el7_0.noarch
+#   - resteasy-base-providers-pom:2.3.5-3.el7_0.noarch
+#   - resteasy-base-tjws:2.3.5-3.el7_0.noarch
 #
 # CVE List:
 #   - CVE-2014-3490

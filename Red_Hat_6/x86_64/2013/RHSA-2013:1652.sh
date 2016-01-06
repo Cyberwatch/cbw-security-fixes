@@ -1,22 +1,22 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1652
 #
 # Security announcement date: 2013-11-21 04:43:18 UTC
-# Script generation date:     2015-09-10 09:45:21 UTC
+# Script generation date:     2016-01-06 19:12:06 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - coreutils:8.4-31.el6
-#   - coreutils-debuginfo:8.4-31.el6
-#   - coreutils-libs:8.4-31.el6
+#   - coreutils:8.4-31.el6.x86_64
+#   - coreutils-debuginfo:8.4-31.el6.x86_64
+#   - coreutils-libs:8.4-31.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - coreutils:8.4-31.el6
-#   - coreutils-debuginfo:8.4-31.el6
-#   - coreutils-libs:8.4-31.el6
+#   - coreutils:8.4-31.el6.x86_64
+#   - coreutils-debuginfo:8.4-31.el6.x86_64
+#   - coreutils-libs:8.4-31.el6.x86_64
 #
 # CVE List:
 #   - CVE-2013-0221

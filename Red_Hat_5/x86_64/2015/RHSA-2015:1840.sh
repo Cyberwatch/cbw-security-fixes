@@ -1,32 +1,32 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1840
 #
 # Security announcement date: 2015-09-29 10:39:11 UTC
-# Script generation date:     2015-09-29 22:56:32 UTC
+# Script generation date:     2016-01-06 19:14:19 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - compat-openldap:2.3.43_2.2.29-29.el5_11
-#   - openldap:2.3.43-29.el5_11
-#   - openldap-clients:2.3.43-29.el5_11
-#   - openldap-debuginfo:2.3.43-29.el5_11
-#   - openldap-devel:2.3.43-29.el5_11
-#   - openldap-servers:2.3.43-29.el5_11
-#   - openldap-servers-overlays:2.3.43-29.el5_11
-#   - openldap-servers-sql:2.3.43-29.el5_11
+#   - compat-openldap:2.3.43_2.2.29-29.el5_11.x86_64
+#   - openldap:2.3.43-29.el5_11.x86_64
+#   - openldap-clients:2.3.43-29.el5_11.x86_64
+#   - openldap-debuginfo:2.3.43-29.el5_11.x86_64
+#   - openldap-devel:2.3.43-29.el5_11.x86_64
+#   - openldap-servers:2.3.43-29.el5_11.x86_64
+#   - openldap-servers-overlays:2.3.43-29.el5_11.x86_64
+#   - openldap-servers-sql:2.3.43-29.el5_11.x86_64
 #
 # Last versions recommanded by security team:
-#   - compat-openldap:2.3.43_2.2.29-29.el5_11
-#   - openldap:2.3.43-29.el5_11
-#   - openldap-clients:2.3.43-29.el5_11
-#   - openldap-debuginfo:2.3.43-29.el5_11
-#   - openldap-devel:2.3.43-29.el5_11
-#   - openldap-servers:2.3.43-29.el5_11
-#   - openldap-servers-overlays:2.3.43-29.el5_11
-#   - openldap-servers-sql:2.3.43-29.el5_11
+#   - compat-openldap:2.3.43_2.2.29-29.el5_11.x86_64
+#   - openldap:2.3.43-29.el5_11.x86_64
+#   - openldap-clients:2.3.43-29.el5_11.x86_64
+#   - openldap-debuginfo:2.3.43-29.el5_11.x86_64
+#   - openldap-devel:2.3.43-29.el5_11.x86_64
+#   - openldap-servers:2.3.43-29.el5_11.x86_64
+#   - openldap-servers-overlays:2.3.43-29.el5_11.x86_64
+#   - openldap-servers-sql:2.3.43-29.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2015-6908

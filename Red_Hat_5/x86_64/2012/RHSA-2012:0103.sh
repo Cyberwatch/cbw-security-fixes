@@ -1,18 +1,18 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0103
 #
 # Security announcement date: 2012-02-08 20:11:52 UTC
-# Script generation date:     2015-09-10 09:43:43 UTC
+# Script generation date:     2016-01-06 19:10:43 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - squirrelmail:1.4.8-5.el5_7.13
+#   - squirrelmail:1.4.8-5.el5_7.13.noarch
 #
 # Last versions recommanded by security team:
-#   - squirrelmail:1.4.8-21.el5
+#   - squirrelmail:1.4.8-21.el5.noarch
 #
 # CVE List:
 #   - CVE-2010-1637

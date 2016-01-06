@@ -1,32 +1,32 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0941
 #
 # Security announcement date: 2014-07-24 17:47:35 UTC
-# Script generation date:     2015-10-16 06:14:04 UTC
+# Script generation date:     2016-01-06 19:12:42 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openstack-swift:1.13.1-3.el7ost
-#   - openstack-swift-account:1.13.1-3.el7ost
-#   - openstack-swift-container:1.13.1-3.el7ost
-#   - openstack-swift-doc:1.13.1-3.el7ost
-#   - openstack-swift-object:1.13.1-3.el7ost
-#   - openstack-swift-proxy:1.13.1-3.el7ost
-#   - python-swiftclient:2.1.0-2.el7ost
-#   - python-swiftclient-doc:2.1.0-2.el7ost
+#   - openstack-swift:1.13.1-3.el7ost.noarch
+#   - openstack-swift-account:1.13.1-3.el7ost.noarch
+#   - openstack-swift-container:1.13.1-3.el7ost.noarch
+#   - openstack-swift-doc:1.13.1-3.el7ost.noarch
+#   - openstack-swift-object:1.13.1-3.el7ost.noarch
+#   - openstack-swift-proxy:1.13.1-3.el7ost.noarch
+#   - python-swiftclient:2.1.0-2.el7ost.noarch
+#   - python-swiftclient-doc:2.1.0-2.el7ost.noarch
 #
 # Last versions recommanded by security team:
-#   - openstack-swift:2.3.0-2.el7ost
-#   - openstack-swift-account:2.3.0-2.el7ost
-#   - openstack-swift-container:2.3.0-2.el7ost
-#   - openstack-swift-doc:2.3.0-2.el7ost
-#   - openstack-swift-object:2.3.0-2.el7ost
-#   - openstack-swift-proxy:2.3.0-2.el7ost
-#   - python-swiftclient:2.1.0-2.el7ost
-#   - python-swiftclient-doc:2.1.0-2.el7ost
+#   - openstack-swift:2.3.0-2.el7ost.noarch
+#   - openstack-swift-account:2.3.0-2.el7ost.noarch
+#   - openstack-swift-container:2.3.0-2.el7ost.noarch
+#   - openstack-swift-doc:2.3.0-2.el7ost.noarch
+#   - openstack-swift-object:2.3.0-2.el7ost.noarch
+#   - openstack-swift-proxy:2.3.0-2.el7ost.noarch
+#   - python-swiftclient:2.1.0-2.el7ost.noarch
+#   - python-swiftclient-doc:2.1.0-2.el7ost.noarch
 #
 # CVE List:
 #   - CVE-2014-3497

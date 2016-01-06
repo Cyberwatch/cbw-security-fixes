@@ -1,20 +1,20 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1852
 #
 # Security announcement date: 2013-12-17 18:44:00 UTC
-# Script generation date:     2015-09-10 09:45:29 UTC
+# Script generation date:     2016-01-06 19:12:14 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rubygems:1.8.23.2-1.el6
-#   - cumin:0.1.5787-4.el6
+#   - rubygems:1.8.23.2-1.el6.noarch
+#   - cumin:0.1.5787-4.el6.noarch
 #
 # Last versions recommanded by security team:
-#   - rubygems:1.8.24-6.el6op
-#   - cumin:0.1.5797-3.el6
+#   - rubygems:1.8.24-6.el6op.noarch
+#   - cumin:0.1.5797-3.el6.noarch
 #
 # CVE List:
 #   - CVE-2012-2125

@@ -3,22 +3,22 @@
 # Security fix for RHSA-2015:2180
 #
 # Security announcement date: 2015-11-19 21:36:51 UTC
-# Script generation date:     2016-01-01 07:10:03 UTC
+# Script generation date:     2016-01-06 19:14:29 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rubygem-bundler:1.7.8-3.el7
-#   - rubygem-thor:0.19.1-1.el7
-#   - rubygem-bundler-doc:1.7.8-3.el7
-#   - rubygem-thor-doc:0.19.1-1.el7
+#   - rubygem-bundler:1.7.8-3.el7.noarch
+#   - rubygem-thor:0.19.1-1.el7.noarch
+#   - rubygem-bundler-doc:1.7.8-3.el7.noarch
+#   - rubygem-thor-doc:0.19.1-1.el7.noarch
 #
 # Last versions recommanded by security team:
-#   - rubygem-bundler:1.7.8-3.el7
-#   - rubygem-thor:0.19.1-1.el7
-#   - rubygem-bundler-doc:1.7.8-3.el7
-#   - rubygem-thor-doc:0.19.1-1.el7
+#   - rubygem-bundler:1.7.8-3.el7.noarch
+#   - rubygem-thor:0.19.1-1.el7.noarch
+#   - rubygem-bundler-doc:1.7.8-3.el7.noarch
+#   - rubygem-thor-doc:0.19.1-1.el7.noarch
 #
 # CVE List:
 #   - CVE-2013-0334

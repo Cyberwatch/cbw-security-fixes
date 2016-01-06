@@ -3,26 +3,26 @@
 # Security fix for RHSA-2015:2617
 #
 # Security announcement date: 2015-12-14 05:57:00 UTC
-# Script generation date:     2016-01-01 07:10:21 UTC
+# Script generation date:     2016-01-06 19:14:39 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openssl:1.0.1e-51.el7_2.1
-#   - openssl-debuginfo:1.0.1e-51.el7_2.1
-#   - openssl-libs:1.0.1e-51.el7_2.1
-#   - openssl-devel:1.0.1e-51.el7_2.1
-#   - openssl-perl:1.0.1e-51.el7_2.1
-#   - openssl-static:1.0.1e-51.el7_2.1
+#   - openssl:1.0.1e-51.el7_2.1.x86_64
+#   - openssl-debuginfo:1.0.1e-51.el7_2.1.x86_64
+#   - openssl-libs:1.0.1e-51.el7_2.1.x86_64
+#   - openssl-devel:1.0.1e-51.el7_2.1.x86_64
+#   - openssl-perl:1.0.1e-51.el7_2.1.x86_64
+#   - openssl-static:1.0.1e-51.el7_2.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-51.el7_2.1
-#   - openssl-debuginfo:1.0.1e-51.el7_2.1
-#   - openssl-libs:1.0.1e-51.el7_2.1
-#   - openssl-devel:1.0.1e-51.el7_2.1
-#   - openssl-perl:1.0.1e-51.el7_2.1
-#   - openssl-static:1.0.1e-51.el7_2.1
+#   - openssl:1.0.1e-42.el7_1.8.x86_64
+#   - openssl-debuginfo:1.0.1e-42.el7_1.8.x86_64
+#   - openssl-libs:1.0.1e-42.el7_1.8.x86_64
+#   - openssl-devel:1.0.1e-42.el7_1.8.x86_64
+#   - openssl-perl:1.0.1e-42.el7_1.8.x86_64
+#   - openssl-static:1.0.1e-42.el7_1.8.x86_64
 #
 # CVE List:
 #   - CVE-2015-3194

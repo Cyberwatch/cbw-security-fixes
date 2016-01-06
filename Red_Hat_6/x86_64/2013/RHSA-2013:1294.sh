@@ -1,40 +1,40 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1294
 #
 # Security announcement date: 2013-10-01 16:44:31 UTC
-# Script generation date:     2015-09-10 09:45:15 UTC
+# Script generation date:     2016-01-06 19:12:00 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mrg-release:2.4.0-1.el6
-#   - condor:7.8.9-0.5.el6
-#   - condor-classads:7.8.9-0.5.el6
-#   - condor-debuginfo:7.8.9-0.5.el6
-#   - condor-kbdd:7.8.9-0.5.el6
-#   - condor-qmf:7.8.9-0.5.el6
-#   - condor-vm-gahp:7.8.9-0.5.el6
-#   - cumin:0.1.5786-2.el6
-#   - condor-aviary:7.8.9-0.5.el6
-#   - condor-cluster-resource-agent:7.8.9-0.5.el6
-#   - condor-deltacloud-gahp:7.8.9-0.5.el6
-#   - condor-plumage:7.8.9-0.5.el6
+#   - mrg-release:2.4.0-1.el6.noarch
+#   - condor:7.8.9-0.5.el6.x86_64
+#   - condor-classads:7.8.9-0.5.el6.x86_64
+#   - condor-debuginfo:7.8.9-0.5.el6.x86_64
+#   - condor-kbdd:7.8.9-0.5.el6.x86_64
+#   - condor-qmf:7.8.9-0.5.el6.x86_64
+#   - condor-vm-gahp:7.8.9-0.5.el6.x86_64
+#   - cumin:0.1.5786-2.el6.noarch
+#   - condor-aviary:7.8.9-0.5.el6.x86_64
+#   - condor-cluster-resource-agent:7.8.9-0.5.el6.x86_64
+#   - condor-deltacloud-gahp:7.8.9-0.5.el6.x86_64
+#   - condor-plumage:7.8.9-0.5.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - mrg-release:2.5.0-1.el6
-#   - condor:7.8.10-0.2.el6
-#   - condor-classads:7.8.10-0.2.el6
-#   - condor-debuginfo:7.8.10-0.2.el6
-#   - condor-kbdd:7.8.10-0.2.el6
-#   - condor-qmf:7.8.10-0.2.el6
-#   - condor-vm-gahp:7.8.10-0.2.el6
-#   - cumin:0.1.5797-3.el6
-#   - condor-aviary:7.8.10-0.2.el6
-#   - condor-cluster-resource-agent:7.8.10-0.2.el6
-#   - condor-deltacloud-gahp:7.8.10-0.2.el6
-#   - condor-plumage:7.8.10-0.2.el6
+#   - mrg-release:2.5.0-1.el6.noarch
+#   - condor:7.8.10-0.2.el6.x86_64
+#   - condor-classads:7.8.10-0.2.el6.x86_64
+#   - condor-debuginfo:7.8.10-0.2.el6.x86_64
+#   - condor-kbdd:7.8.10-0.2.el6.x86_64
+#   - condor-qmf:7.8.10-0.2.el6.x86_64
+#   - condor-vm-gahp:7.8.10-0.2.el6.x86_64
+#   - cumin:0.1.5797-3.el6.noarch
+#   - condor-aviary:7.8.10-0.2.el6.x86_64
+#   - condor-cluster-resource-agent:7.8.10-0.2.el6.x86_64
+#   - condor-deltacloud-gahp:7.8.10-0.2.el6.x86_64
+#   - condor-plumage:7.8.10-0.2.el6.x86_64
 #
 # CVE List:
 #   - CVE-2013-4284

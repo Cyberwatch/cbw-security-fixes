@@ -1,32 +1,32 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1283
 #
 # Security announcement date: 2013-09-24 18:17:06 UTC
-# Script generation date:     2015-09-10 09:45:14 UTC
+# Script generation date:     2016-01-06 19:11:59 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - hiera:1.0.0-3.el6_4
-#   - puppet:3.2.4-1.el6_4
-#   - puppet-server:3.2.4-1.el6_4
-#   - facter:1.6.6-1.el6_4
-#   - ruby-augeas:0.4.1-1.el6_4
-#   - ruby-augeas-debuginfo:0.4.1-1.el6_4
-#   - ruby-shadow:1.4.1-13.el6_4
-#   - ruby-shadow-debuginfo:1.4.1-13.el6_4
+#   - hiera:1.0.0-3.el6_4.noarch
+#   - puppet:3.2.4-1.el6_4.noarch
+#   - puppet-server:3.2.4-1.el6_4.noarch
+#   - facter:1.6.6-1.el6_4.x86_64
+#   - ruby-augeas:0.4.1-1.el6_4.x86_64
+#   - ruby-augeas-debuginfo:0.4.1-1.el6_4.x86_64
+#   - ruby-shadow:1.4.1-13.el6_4.x86_64
+#   - ruby-shadow-debuginfo:1.4.1-13.el6_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - hiera:1.0.0-3.el6_4
-#   - puppet:3.2.4-1.el6_4
-#   - puppet-server:3.2.4-1.el6_4
-#   - facter:1.6.6-1.el6op
-#   - ruby-augeas:0.4.1-1.el6_4
-#   - ruby-augeas-debuginfo:0.4.1-1.el6_4
-#   - ruby-shadow:1.4.1-13.el6_4
-#   - ruby-shadow-debuginfo:1.4.1-13.el6_4
+#   - hiera:1.0.0-3.el6_4.noarch
+#   - puppet:3.2.4-1.el6_4.noarch
+#   - puppet-server:3.2.4-1.el6_4.noarch
+#   - facter:1.6.6-1.el6op.x86_64
+#   - ruby-augeas:0.4.1-1.el6_4.x86_64
+#   - ruby-augeas-debuginfo:0.4.1-1.el6_4.x86_64
+#   - ruby-shadow:1.4.1-13.el6_4.x86_64
+#   - ruby-shadow-debuginfo:1.4.1-13.el6_4.x86_64
 #
 # CVE List:
 #   - CVE-2013-3567

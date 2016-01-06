@@ -1,34 +1,34 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0062
 #
 # Security announcement date: 2010-01-20 15:22:27 UTC
-# Script generation date:     2015-09-10 09:42:21 UTC
+# Script generation date:     2016-01-06 19:09:20 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - bind:9.3.6-4.P1.el5_4.2
-#   - bind-debuginfo:9.3.6-4.P1.el5_4.2
-#   - bind-libs:9.3.6-4.P1.el5_4.2
-#   - bind-sdb:9.3.6-4.P1.el5_4.2
-#   - bind-utils:9.3.6-4.P1.el5_4.2
-#   - bind-chroot:9.3.6-4.P1.el5_4.2
-#   - bind-devel:9.3.6-4.P1.el5_4.2
-#   - bind-libbind-devel:9.3.6-4.P1.el5_4.2
-#   - caching-nameserver:9.3.6-4.P1.el5_4.2
+#   - bind:9.3.6-4.P1.el5_4.2.x86_64
+#   - bind-debuginfo:9.3.6-4.P1.el5_4.2.x86_64
+#   - bind-libs:9.3.6-4.P1.el5_4.2.x86_64
+#   - bind-sdb:9.3.6-4.P1.el5_4.2.x86_64
+#   - bind-utils:9.3.6-4.P1.el5_4.2.x86_64
+#   - bind-chroot:9.3.6-4.P1.el5_4.2.x86_64
+#   - bind-devel:9.3.6-4.P1.el5_4.2.x86_64
+#   - bind-libbind-devel:9.3.6-4.P1.el5_4.2.x86_64
+#   - caching-nameserver:9.3.6-4.P1.el5_4.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - bind:9.3.6-25.P1.el5_11.4
-#   - bind-debuginfo:9.3.6-25.P1.el5_11.4
-#   - bind-libs:9.3.6-25.P1.el5_11.4
-#   - bind-sdb:9.3.6-25.P1.el5_11.4
-#   - bind-utils:9.3.6-25.P1.el5_11.4
-#   - bind-chroot:9.3.6-25.P1.el5_11.4
-#   - bind-devel:9.3.6-25.P1.el5_11.4
-#   - bind-libbind-devel:9.3.6-25.P1.el5_11.4
-#   - caching-nameserver:9.3.6-25.P1.el5_11.4
+#   - bind:9.3.6-25.P1.el5_11.4.x86_64
+#   - bind-debuginfo:9.3.6-25.P1.el5_11.4.x86_64
+#   - bind-libs:9.3.6-25.P1.el5_11.4.x86_64
+#   - bind-sdb:9.3.6-25.P1.el5_11.4.x86_64
+#   - bind-utils:9.3.6-25.P1.el5_11.4.x86_64
+#   - bind-chroot:9.3.6-25.P1.el5_11.4.x86_64
+#   - bind-devel:9.3.6-25.P1.el5_11.4.x86_64
+#   - bind-libbind-devel:9.3.6-25.P1.el5_11.4.x86_64
+#   - caching-nameserver:9.3.6-25.P1.el5_11.4.x86_64
 #
 # CVE List:
 #   - CVE-2010-0097

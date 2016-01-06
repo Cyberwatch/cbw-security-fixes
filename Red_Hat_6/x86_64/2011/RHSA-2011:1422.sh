@@ -1,22 +1,22 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1422
 #
 # Security announcement date: 2011-11-02 22:31:27 UTC
-# Script generation date:     2015-09-10 09:43:31 UTC
+# Script generation date:     2016-01-06 19:10:32 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openswan:2.6.32-4.el6_1.4
-#   - openswan-debuginfo:2.6.32-4.el6_1.4
-#   - openswan-doc:2.6.32-4.el6_1.4
+#   - openswan:2.6.32-4.el6_1.4.x86_64
+#   - openswan-debuginfo:2.6.32-4.el6_1.4.x86_64
+#   - openswan-doc:2.6.32-4.el6_1.4.x86_64
 #
 # Last versions recommanded by security team:
-#   - openswan:2.6.32-27.2.el6_5
-#   - openswan-debuginfo:2.6.32-27.2.el6_5
-#   - openswan-doc:2.6.32-27.2.el6_5
+#   - openswan:2.6.32-27.2.el6_5.x86_64
+#   - openswan-debuginfo:2.6.32-27.2.el6_5.x86_64
+#   - openswan-doc:2.6.32-27.2.el6_5.x86_64
 #
 # CVE List:
 #   - CVE-2011-4073

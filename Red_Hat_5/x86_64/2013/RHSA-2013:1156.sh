@@ -1,26 +1,26 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1156
 #
 # Security announcement date: 2013-08-13 16:38:30 UTC
-# Script generation date:     2015-09-10 09:45:09 UTC
+# Script generation date:     2016-01-06 19:11:55 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - httpd:2.2.3-82.el5_9
-#   - httpd-debuginfo:2.2.3-82.el5_9
-#   - mod_ssl:2.2.3-82.el5_9
-#   - httpd-devel:2.2.3-82.el5_9
-#   - httpd-manual:2.2.3-82.el5_9
+#   - httpd:2.2.3-82.el5_9.x86_64
+#   - httpd-debuginfo:2.2.3-82.el5_9.x86_64
+#   - mod_ssl:2.2.3-82.el5_9.x86_64
+#   - httpd-devel:2.2.3-82.el5_9.x86_64
+#   - httpd-manual:2.2.3-82.el5_9.x86_64
 #
 # Last versions recommanded by security team:
-#   - httpd:2.2.26-38.ep6.el5
-#   - httpd-debuginfo:2.2.26-38.ep6.el5
-#   - mod_ssl:2.2.26-38.ep6.el5
-#   - httpd-devel:2.2.26-38.ep6.el5
-#   - httpd-manual:2.2.26-38.ep6.el5
+#   - httpd:2.2.26-38.ep6.el5.x86_64
+#   - httpd-debuginfo:2.2.26-38.ep6.el5.x86_64
+#   - mod_ssl:2.2.26-38.ep6.el5.x86_64
+#   - httpd-devel:2.2.26-38.ep6.el5.x86_64
+#   - httpd-manual:2.2.26-38.ep6.el5.x86_64
 #
 # CVE List:
 #   - CVE-2013-1896

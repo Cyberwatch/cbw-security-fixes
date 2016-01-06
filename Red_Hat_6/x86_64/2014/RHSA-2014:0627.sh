@@ -1,36 +1,36 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0627
 #
 # Security announcement date: 2014-06-05 12:23:23 UTC
-# Script generation date:     2015-09-10 09:45:53 UTC
+# Script generation date:     2016-01-06 19:12:32 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openssl:1.0.0-25.el6_3.3
-#   - openssl-debuginfo:1.0.0-25.el6_3.3
-#   - openssl:1.0.0-27.el6_4.4
-#   - openssl-debuginfo:1.0.0-27.el6_4.4
-#   - openssl-devel:1.0.0-25.el6_3.3
-#   - openssl-perl:1.0.0-25.el6_3.3
-#   - openssl-static:1.0.0-25.el6_3.3
-#   - openssl-devel:1.0.0-27.el6_4.4
-#   - openssl-perl:1.0.0-27.el6_4.4
-#   - openssl-static:1.0.0-27.el6_4.4
+#   - openssl:1.0.0-25.el6_3.3.x86_64
+#   - openssl-debuginfo:1.0.0-25.el6_3.3.x86_64
+#   - openssl:1.0.0-27.el6_4.4.x86_64
+#   - openssl-debuginfo:1.0.0-27.el6_4.4.x86_64
+#   - openssl-devel:1.0.0-25.el6_3.3.x86_64
+#   - openssl-perl:1.0.0-25.el6_3.3.x86_64
+#   - openssl-static:1.0.0-25.el6_3.3.x86_64
+#   - openssl-devel:1.0.0-27.el6_4.4.x86_64
+#   - openssl-perl:1.0.0-27.el6_4.4.x86_64
+#   - openssl-static:1.0.0-27.el6_4.4.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-30.el6_6.11
-#   - openssl-debuginfo:1.0.1e-30.el6_6.11
-#   - openssl:1.0.1e-30.el6_6.11
-#   - openssl-debuginfo:1.0.1e-30.el6_6.11
-#   - openssl-devel:1.0.1e-30.el6_6.11
-#   - openssl-perl:1.0.1e-30.el6_6.11
-#   - openssl-static:1.0.1e-30.el6_6.11
-#   - openssl-devel:1.0.1e-30.el6_6.11
-#   - openssl-perl:1.0.1e-30.el6_6.11
-#   - openssl-static:1.0.1e-30.el6_6.11
+#   - openssl:1.0.1e-30.el6_6.11.x86_64
+#   - openssl-debuginfo:1.0.1e-30.el6_6.11.x86_64
+#   - openssl:1.0.1e-30.el6_6.11.x86_64
+#   - openssl-debuginfo:1.0.1e-30.el6_6.11.x86_64
+#   - openssl-devel:1.0.1e-30.el6_6.11.x86_64
+#   - openssl-perl:1.0.1e-30.el6_6.11.x86_64
+#   - openssl-static:1.0.1e-30.el6_6.11.x86_64
+#   - openssl-devel:1.0.1e-30.el6_6.11.x86_64
+#   - openssl-perl:1.0.1e-30.el6_6.11.x86_64
+#   - openssl-static:1.0.1e-30.el6_6.11.x86_64
 #
 # CVE List:
 #   - CVE-2014-0224

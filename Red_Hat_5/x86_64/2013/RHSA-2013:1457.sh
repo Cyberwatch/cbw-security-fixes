@@ -1,22 +1,22 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1457
 #
 # Security announcement date: 2013-10-24 15:29:21 UTC
-# Script generation date:     2015-09-10 09:45:16 UTC
+# Script generation date:     2016-01-06 19:12:02 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libgcrypt:1.4.4-7.el5_10
-#   - libgcrypt-debuginfo:1.4.4-7.el5_10
-#   - libgcrypt-devel:1.4.4-7.el5_10
+#   - libgcrypt:1.4.4-7.el5_10.x86_64
+#   - libgcrypt-debuginfo:1.4.4-7.el5_10.x86_64
+#   - libgcrypt-devel:1.4.4-7.el5_10.x86_64
 #
 # Last versions recommanded by security team:
-#   - libgcrypt:1.4.4-7.el5_10
-#   - libgcrypt-debuginfo:1.4.4-7.el5_10
-#   - libgcrypt-devel:1.4.4-7.el5_10
+#   - libgcrypt:1.4.4-7.el5_10.x86_64
+#   - libgcrypt-debuginfo:1.4.4-7.el5_10.x86_64
+#   - libgcrypt-devel:1.4.4-7.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2013-4242

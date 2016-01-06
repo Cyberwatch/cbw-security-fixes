@@ -1,28 +1,28 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0751
 #
 # Security announcement date: 2013-04-17 19:04:26 UTC
-# Script generation date:     2015-10-22 06:11:29 UTC
+# Script generation date:     2016-01-06 19:11:39 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.7.0-openjdk:1.7.0.19-2.3.9.1.el6_4
-#   - java-1.7.0-openjdk-debuginfo:1.7.0.19-2.3.9.1.el6_4
-#   - java-1.7.0-openjdk-javadoc:1.7.0.19-2.3.9.1.el6_4
-#   - java-1.7.0-openjdk-demo:1.7.0.19-2.3.9.1.el6_4
-#   - java-1.7.0-openjdk-devel:1.7.0.19-2.3.9.1.el6_4
-#   - java-1.7.0-openjdk-src:1.7.0.19-2.3.9.1.el6_4
+#   - java-1.7.0-openjdk:1.7.0.19-2.3.9.1.el6_4.x86_64
+#   - java-1.7.0-openjdk-debuginfo:1.7.0.19-2.3.9.1.el6_4.x86_64
+#   - java-1.7.0-openjdk-javadoc:1.7.0.19-2.3.9.1.el6_4.noarch
+#   - java-1.7.0-openjdk-demo:1.7.0.19-2.3.9.1.el6_4.x86_64
+#   - java-1.7.0-openjdk-devel:1.7.0.19-2.3.9.1.el6_4.x86_64
+#   - java-1.7.0-openjdk-src:1.7.0.19-2.3.9.1.el6_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-openjdk:1.7.0.91-2.6.2.2.el6_7
-#   - java-1.7.0-openjdk-debuginfo:1.7.0.91-2.6.2.2.el6_7
-#   - java-1.7.0-openjdk-javadoc:1.7.0.91-2.6.2.2.el6_7
-#   - java-1.7.0-openjdk-demo:1.7.0.91-2.6.2.2.el6_7
-#   - java-1.7.0-openjdk-devel:1.7.0.91-2.6.2.2.el6_7
-#   - java-1.7.0-openjdk-src:1.7.0.91-2.6.2.2.el6_7
+#   - java-1.7.0-openjdk:1.7.0.91-2.6.2.2.el6_7.x86_64
+#   - java-1.7.0-openjdk-debuginfo:1.7.0.91-2.6.2.2.el6_7.x86_64
+#   - java-1.7.0-openjdk-javadoc:1.7.0.91-2.6.2.2.el6_7.noarch
+#   - java-1.7.0-openjdk-demo:1.7.0.91-2.6.2.2.el6_7.x86_64
+#   - java-1.7.0-openjdk-devel:1.7.0.91-2.6.2.2.el6_7.x86_64
+#   - java-1.7.0-openjdk-src:1.7.0.91-2.6.2.2.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2013-0401

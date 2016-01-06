@@ -1,24 +1,24 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0211
 #
 # Security announcement date: 2011-02-10 19:49:54 UTC
-# Script generation date:     2015-10-16 06:10:48 UTC
+# Script generation date:     2016-01-06 19:09:49 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - jbossweb:2.1.10-5.patch01.1.1.ep5.el5
-#   - jbossweb-jsp-2.1-api:2.1.10-5.patch01.1.1.ep5.el5
-#   - jbossweb-lib:2.1.10-5.patch01.1.1.ep5.el5
-#   - jbossweb-servlet-2.5-api:2.1.10-5.patch01.1.1.ep5.el5
+#   - jbossweb:2.1.10-5.patch01.1.1.ep5.el5.noarch
+#   - jbossweb-jsp-2.1-api:2.1.10-5.patch01.1.1.ep5.el5.noarch
+#   - jbossweb-lib:2.1.10-5.patch01.1.1.ep5.el5.noarch
+#   - jbossweb-servlet-2.5-api:2.1.10-5.patch01.1.1.ep5.el5.noarch
 #
 # Last versions recommanded by security team:
-#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el5
-#   - jbossweb-jsp-2.1-api:2.1.13-3_patch_02.ep5.el5
-#   - jbossweb-lib:7.0.17-4.Final_redhat_3.ep6.el5
-#   - jbossweb-servlet-2.5-api:2.1.13-3_patch_02.ep5.el5
+#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el5.noarch
+#   - jbossweb-jsp-2.1-api:2.1.13-3_patch_02.ep5.el5.noarch
+#   - jbossweb-lib:7.0.17-4.Final_redhat_3.ep6.el5.noarch
+#   - jbossweb-servlet-2.5-api:2.1.13-3_patch_02.ep5.el5.noarch
 #
 # CVE List:
 #   - CVE-2010-4476

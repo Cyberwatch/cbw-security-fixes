@@ -3,32 +3,32 @@
 # Security fix for RHSA-2015:2199
 #
 # Security announcement date: 2015-11-19 21:37:30 UTC
-# Script generation date:     2016-01-01 07:10:03 UTC
+# Script generation date:     2016-01-06 19:14:29 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - glibc:2.17-105.el7
-#   - glibc-common:2.17-105.el7
-#   - glibc-debuginfo:2.17-105.el7
-#   - glibc-debuginfo-common:2.17-105.el7
-#   - glibc-devel:2.17-105.el7
-#   - glibc-headers:2.17-105.el7
-#   - glibc-utils:2.17-105.el7
-#   - nscd:2.17-105.el7
-#   - glibc-static:2.17-105.el7
+#   - glibc:2.17-105.el7.x86_64
+#   - glibc-common:2.17-105.el7.x86_64
+#   - glibc-debuginfo:2.17-105.el7.x86_64
+#   - glibc-debuginfo-common:2.17-105.el7.x86_64
+#   - glibc-devel:2.17-105.el7.x86_64
+#   - glibc-headers:2.17-105.el7.x86_64
+#   - glibc-utils:2.17-105.el7.x86_64
+#   - nscd:2.17-105.el7.x86_64
+#   - glibc-static:2.17-105.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - glibc:2.17-79.el7_1
-#   - glibc-common:2.17-79.el7_1
-#   - glibc-debuginfo:2.17-79.el7_1
-#   - glibc-debuginfo-common:2.17-79.el7_1
-#   - glibc-devel:2.17-79.el7_1
-#   - glibc-headers:2.17-79.el7_1
-#   - glibc-utils:2.17-79.el7_1
-#   - nscd:2.17-79.el7_1
-#   - glibc-static:2.17-79.el7_1
+#   - glibc:2.17-78.el7.x86_64
+#   - glibc-common:2.17-78.el7.x86_64
+#   - glibc-debuginfo:2.17-78.el7.x86_64
+#   - glibc-debuginfo-common:2.17-78.el7.x86_64
+#   - glibc-devel:2.17-78.el7.x86_64
+#   - glibc-headers:2.17-78.el7.x86_64
+#   - glibc-utils:2.17-78.el7.x86_64
+#   - nscd:2.17-78.el7.x86_64
+#   - glibc-static:2.17-78.el7.x86_64
 #
 # CVE List:
 #   - CVE-2013-7423

@@ -1,20 +1,20 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:2019
 #
 # Security announcement date: 2014-12-18 18:48:36 UTC
-# Script generation date:     2015-10-16 06:14:57 UTC
+# Script generation date:     2016-01-06 19:13:22 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - apache-cxf:2.7.12-1.SP1_redhat_5.1.ep6.el6
-#   - wss4j:1.6.16-2.redhat_3.1.ep6.el6
+#   - apache-cxf:2.7.12-1.SP1_redhat_5.1.ep6.el6.noarch
+#   - wss4j:1.6.16-2.redhat_3.1.ep6.el6.noarch
 #
 # Last versions recommanded by security team:
-#   - apache-cxf:2.7.17-1.redhat_1.1.ep6.el6
-#   - wss4j:1.6.17-2.SP1_redhat_1.1.ep6.el6
+#   - apache-cxf:2.7.17-1.redhat_1.1.ep6.el6.noarch
+#   - wss4j:1.6.17-2.SP1_redhat_1.1.ep6.el6.noarch
 #
 # CVE List:
 #   - CVE-2012-6153

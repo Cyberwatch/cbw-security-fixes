@@ -1,60 +1,60 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1622
 #
 # Security announcement date: 2015-08-13 15:39:46 UTC
-# Script generation date:     2015-09-10 09:47:48 UTC
+# Script generation date:     2016-01-06 19:14:11 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - tomcat6:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-admin-webapps:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-docs-webapp:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-el-2.1-api:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-javadoc:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-jsp-2.1-api:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-lib:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-log4j:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-maven-devel:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-servlet-2.5-api:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-webapps:6.0.41-15_patch_04.ep6.el7
-#   - tomcat7:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-admin-webapps:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-docs-webapp:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-el-2.2-api:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-javadoc:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-jsp-2.2-api:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-lib:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-log4j:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-maven-devel:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-servlet-3.0-api:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-webapps:7.0.54-20_patch_04.ep6.el7
+#   - tomcat6:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-admin-webapps:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-docs-webapp:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-el-2.1-api:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-javadoc:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-jsp-2.1-api:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-lib:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-log4j:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-maven-devel:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-servlet-2.5-api:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-webapps:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat7:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-admin-webapps:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-docs-webapp:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-el-2.2-api:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-javadoc:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-jsp-2.2-api:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-lib:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-log4j:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-maven-devel:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-servlet-3.0-api:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-webapps:7.0.54-20_patch_04.ep6.el7.noarch
 #
 # Last versions recommanded by security team:
-#   - tomcat6:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-admin-webapps:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-docs-webapp:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-el-2.1-api:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-javadoc:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-jsp-2.1-api:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-lib:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-log4j:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-maven-devel:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-servlet-2.5-api:6.0.41-15_patch_04.ep6.el7
-#   - tomcat6-webapps:6.0.41-15_patch_04.ep6.el7
-#   - tomcat7:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-admin-webapps:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-docs-webapp:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-el-2.2-api:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-javadoc:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-jsp-2.2-api:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-lib:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-log4j:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-maven-devel:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-servlet-3.0-api:7.0.54-20_patch_04.ep6.el7
-#   - tomcat7-webapps:7.0.54-20_patch_04.ep6.el7
+#   - tomcat6:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-admin-webapps:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-docs-webapp:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-el-2.1-api:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-javadoc:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-jsp-2.1-api:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-lib:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-log4j:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-maven-devel:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-servlet-2.5-api:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat6-webapps:6.0.41-15_patch_04.ep6.el7.noarch
+#   - tomcat7:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-admin-webapps:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-docs-webapp:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-el-2.2-api:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-javadoc:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-jsp-2.2-api:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-lib:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-log4j:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-maven-devel:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-servlet-3.0-api:7.0.54-20_patch_04.ep6.el7.noarch
+#   - tomcat7-webapps:7.0.54-20_patch_04.ep6.el7.noarch
 #
 # CVE List:
 #   - CVE-2014-0230

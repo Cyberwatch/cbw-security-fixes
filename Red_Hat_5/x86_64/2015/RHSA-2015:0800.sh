@@ -1,24 +1,24 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0800
 #
 # Security announcement date: 2015-04-13 12:00:20 UTC
-# Script generation date:     2015-09-10 09:47:13 UTC
+# Script generation date:     2016-01-06 19:13:40 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openssl:0.9.8e-33.el5_11
-#   - openssl-debuginfo:0.9.8e-33.el5_11
-#   - openssl-perl:0.9.8e-33.el5_11
-#   - openssl-devel:0.9.8e-33.el5_11
+#   - openssl:0.9.8e-33.el5_11.x86_64
+#   - openssl-debuginfo:0.9.8e-33.el5_11.x86_64
+#   - openssl-perl:0.9.8e-33.el5_11.x86_64
+#   - openssl-devel:0.9.8e-33.el5_11.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssl:0.9.8e-36.el5_11
-#   - openssl-debuginfo:0.9.8e-36.el5_11
-#   - openssl-perl:0.9.8e-36.el5_11
-#   - openssl-devel:0.9.8e-36.el5_11
+#   - openssl:0.9.8e-36.el5_11.x86_64
+#   - openssl-debuginfo:0.9.8e-36.el5_11.x86_64
+#   - openssl-perl:0.9.8e-36.el5_11.x86_64
+#   - openssl-devel:0.9.8e-36.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2014-8275

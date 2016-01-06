@@ -1,88 +1,88 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1661
 #
 # Security announcement date: 2013-11-21 04:47:56 UTC
-# Script generation date:     2015-09-10 09:45:21 UTC
+# Script generation date:     2016-01-06 19:12:06 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - infinipath-psm:3.0.1-115.1015_open.2.el6
-#   - infinipath-psm-debuginfo:3.0.1-115.1015_open.2.el6
-#   - libibverbs:1.1.7-1.el6
-#   - libibverbs-debuginfo:1.1.7-1.el6
-#   - librdmacm:1.0.17-1.el6
-#   - librdmacm-debuginfo:1.0.17-1.el6
-#   - openmpi:1.5.4-2.el6
-#   - openmpi-debuginfo:1.5.4-2.el6
-#   - rdma:3.10-3.el6
-#   - infinipath-psm-devel:3.0.1-115.1015_open.2.el6
-#   - libibverbs-devel:1.1.7-1.el6
-#   - libibverbs-devel-static:1.1.7-1.el6
-#   - libibverbs-utils:1.1.7-1.el6
-#   - libmlx4:1.0.5-4.el6.1
-#   - libmlx4-debuginfo:1.0.5-4.el6.1
-#   - libmlx4-static:1.0.5-4.el6.1
-#   - librdmacm-devel:1.0.17-1.el6
-#   - librdmacm-static:1.0.17-1.el6
-#   - librdmacm-utils:1.0.17-1.el6
-#   - openmpi-devel:1.5.4-2.el6
-#   - ibutils:1.5.7-8.el6
-#   - ibutils-debuginfo:1.5.7-8.el6
-#   - ibutils-libs:1.5.7-8.el6
-#   - mpitests-debuginfo:3.2-9.el6
-#   - mpitests-mvapich:3.2-9.el6
-#   - mpitests-mvapich2:3.2-9.el6
-#   - mpitests-openmpi:3.2-9.el6
-#   - mstflint:3.0-0.6.g6961daa.1.el6
-#   - mstflint-debuginfo:3.0-0.6.g6961daa.1.el6
-#   - perftest:2.0-2.el6
-#   - perftest-debuginfo:2.0-2.el6
-#   - qperf:0.4.9-1.el6
-#   - qperf-debuginfo:0.4.9-1.el6
-#   - ibutils-devel:1.5.7-8.el6
-#   - mpitests-mvapich-psm:3.2-9.el6
-#   - mpitests-mvapich2-psm:3.2-9.el6
+#   - infinipath-psm:3.0.1-115.1015_open.2.el6.x86_64
+#   - infinipath-psm-debuginfo:3.0.1-115.1015_open.2.el6.x86_64
+#   - libibverbs:1.1.7-1.el6.x86_64
+#   - libibverbs-debuginfo:1.1.7-1.el6.x86_64
+#   - librdmacm:1.0.17-1.el6.x86_64
+#   - librdmacm-debuginfo:1.0.17-1.el6.x86_64
+#   - openmpi:1.5.4-2.el6.x86_64
+#   - openmpi-debuginfo:1.5.4-2.el6.x86_64
+#   - rdma:3.10-3.el6.noarch
+#   - infinipath-psm-devel:3.0.1-115.1015_open.2.el6.x86_64
+#   - libibverbs-devel:1.1.7-1.el6.x86_64
+#   - libibverbs-devel-static:1.1.7-1.el6.x86_64
+#   - libibverbs-utils:1.1.7-1.el6.x86_64
+#   - libmlx4:1.0.5-4.el6.1.x86_64
+#   - libmlx4-debuginfo:1.0.5-4.el6.1.x86_64
+#   - libmlx4-static:1.0.5-4.el6.1.x86_64
+#   - librdmacm-devel:1.0.17-1.el6.x86_64
+#   - librdmacm-static:1.0.17-1.el6.x86_64
+#   - librdmacm-utils:1.0.17-1.el6.x86_64
+#   - openmpi-devel:1.5.4-2.el6.x86_64
+#   - ibutils:1.5.7-8.el6.x86_64
+#   - ibutils-debuginfo:1.5.7-8.el6.x86_64
+#   - ibutils-libs:1.5.7-8.el6.x86_64
+#   - mpitests-debuginfo:3.2-9.el6.x86_64
+#   - mpitests-mvapich:3.2-9.el6.x86_64
+#   - mpitests-mvapich2:3.2-9.el6.x86_64
+#   - mpitests-openmpi:3.2-9.el6.x86_64
+#   - mstflint:3.0-0.6.g6961daa.1.el6.x86_64
+#   - mstflint-debuginfo:3.0-0.6.g6961daa.1.el6.x86_64
+#   - perftest:2.0-2.el6.x86_64
+#   - perftest-debuginfo:2.0-2.el6.x86_64
+#   - qperf:0.4.9-1.el6.x86_64
+#   - qperf-debuginfo:0.4.9-1.el6.x86_64
+#   - ibutils-devel:1.5.7-8.el6.x86_64
+#   - mpitests-mvapich-psm:3.2-9.el6.x86_64
+#   - mpitests-mvapich2-psm:3.2-9.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - infinipath-psm:3.0.1-115.1015_open.2.el6
-#   - infinipath-psm-debuginfo:3.0.1-115.1015_open.2.el6
-#   - libibverbs:1.1.7-1.el6
-#   - libibverbs-debuginfo:1.1.7-1.el6
-#   - librdmacm:1.0.17-1.el6
-#   - librdmacm-debuginfo:1.0.17-1.el6
-#   - openmpi:1.5.4-2.el6
-#   - openmpi-debuginfo:1.5.4-2.el6
-#   - rdma:3.10-3.el6
-#   - infinipath-psm-devel:3.0.1-115.1015_open.2.el6
-#   - libibverbs-devel:1.1.7-1.el6
-#   - libibverbs-devel-static:1.1.7-1.el6
-#   - libibverbs-utils:1.1.7-1.el6
-#   - libmlx4:1.0.5-4.el6.1
-#   - libmlx4-debuginfo:1.0.5-4.el6.1
-#   - libmlx4-static:1.0.5-4.el6.1
-#   - librdmacm-devel:1.0.17-1.el6
-#   - librdmacm-static:1.0.17-1.el6
-#   - librdmacm-utils:1.0.17-1.el6
-#   - openmpi-devel:1.5.4-2.el6
-#   - ibutils:1.5.7-8.el6
-#   - ibutils-debuginfo:1.5.7-8.el6
-#   - ibutils-libs:1.5.7-8.el6
-#   - mpitests-debuginfo:3.2-9.el6
-#   - mpitests-mvapich:3.2-9.el6
-#   - mpitests-mvapich2:3.2-9.el6
-#   - mpitests-openmpi:3.2-9.el6
-#   - mstflint:3.0-0.6.g6961daa.1.el6
-#   - mstflint-debuginfo:3.0-0.6.g6961daa.1.el6
-#   - perftest:2.0-2.el6
-#   - perftest-debuginfo:2.0-2.el6
-#   - qperf:0.4.9-1.el6
-#   - qperf-debuginfo:0.4.9-1.el6
-#   - ibutils-devel:1.5.7-8.el6
-#   - mpitests-mvapich-psm:3.2-9.el6
-#   - mpitests-mvapich2-psm:3.2-9.el6
+#   - infinipath-psm:3.0.1-115.1015_open.2.el6.x86_64
+#   - infinipath-psm-debuginfo:3.0.1-115.1015_open.2.el6.x86_64
+#   - libibverbs:1.1.7-1.el6.x86_64
+#   - libibverbs-debuginfo:1.1.7-1.el6.x86_64
+#   - librdmacm:1.0.17-1.el6.x86_64
+#   - librdmacm-debuginfo:1.0.17-1.el6.x86_64
+#   - openmpi:1.5.4-2.el6.x86_64
+#   - openmpi-debuginfo:1.5.4-2.el6.x86_64
+#   - rdma:3.10-3.el6.noarch
+#   - infinipath-psm-devel:3.0.1-115.1015_open.2.el6.x86_64
+#   - libibverbs-devel:1.1.7-1.el6.x86_64
+#   - libibverbs-devel-static:1.1.7-1.el6.x86_64
+#   - libibverbs-utils:1.1.7-1.el6.x86_64
+#   - libmlx4:1.0.5-4.el6.1.x86_64
+#   - libmlx4-debuginfo:1.0.5-4.el6.1.x86_64
+#   - libmlx4-static:1.0.5-4.el6.1.x86_64
+#   - librdmacm-devel:1.0.17-1.el6.x86_64
+#   - librdmacm-static:1.0.17-1.el6.x86_64
+#   - librdmacm-utils:1.0.17-1.el6.x86_64
+#   - openmpi-devel:1.5.4-2.el6.x86_64
+#   - ibutils:1.5.7-8.el6.x86_64
+#   - ibutils-debuginfo:1.5.7-8.el6.x86_64
+#   - ibutils-libs:1.5.7-8.el6.x86_64
+#   - mpitests-debuginfo:3.2-9.el6.x86_64
+#   - mpitests-mvapich:3.2-9.el6.x86_64
+#   - mpitests-mvapich2:3.2-9.el6.x86_64
+#   - mpitests-openmpi:3.2-9.el6.x86_64
+#   - mstflint:3.0-0.6.g6961daa.1.el6.x86_64
+#   - mstflint-debuginfo:3.0-0.6.g6961daa.1.el6.x86_64
+#   - perftest:2.0-2.el6.x86_64
+#   - perftest-debuginfo:2.0-2.el6.x86_64
+#   - qperf:0.4.9-1.el6.x86_64
+#   - qperf-debuginfo:0.4.9-1.el6.x86_64
+#   - ibutils-devel:1.5.7-8.el6.x86_64
+#   - mpitests-mvapich-psm:3.2-9.el6.x86_64
+#   - mpitests-mvapich2-psm:3.2-9.el6.x86_64
 #
 # CVE List:
 #   - CVE-2012-4516

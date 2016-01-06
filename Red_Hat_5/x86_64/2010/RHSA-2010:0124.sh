@@ -1,32 +1,32 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0124
 #
 # Security announcement date: 2010-03-01 19:25:51 UTC
-# Script generation date:     2015-09-10 09:42:23 UTC
+# Script generation date:     2016-01-06 19:09:22 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - systemtap:0.9.7-5.el5_4.3
-#   - systemtap-client:0.9.7-5.el5_4.3
-#   - systemtap-debuginfo:0.9.7-5.el5_4.3
-#   - systemtap-initscript:0.9.7-5.el5_4.3
-#   - systemtap-runtime:0.9.7-5.el5_4.3
-#   - systemtap-sdt-devel:0.9.7-5.el5_4.3
-#   - systemtap-server:0.9.7-5.el5_4.3
-#   - systemtap-testsuite:0.9.7-5.el5_4.3
+#   - systemtap:0.9.7-5.el5_4.3.x86_64
+#   - systemtap-client:0.9.7-5.el5_4.3.x86_64
+#   - systemtap-debuginfo:0.9.7-5.el5_4.3.x86_64
+#   - systemtap-initscript:0.9.7-5.el5_4.3.x86_64
+#   - systemtap-runtime:0.9.7-5.el5_4.3.x86_64
+#   - systemtap-sdt-devel:0.9.7-5.el5_4.3.x86_64
+#   - systemtap-server:0.9.7-5.el5_4.3.x86_64
+#   - systemtap-testsuite:0.9.7-5.el5_4.3.x86_64
 #
 # Last versions recommanded by security team:
-#   - systemtap:1.6-7.el5_8
-#   - systemtap-client:1.3-9.el5
-#   - systemtap-debuginfo:1.6-7.el5_8
-#   - systemtap-initscript:1.6-7.el5_8
-#   - systemtap-runtime:1.6-7.el5_8
-#   - systemtap-sdt-devel:1.6-7.el5_8
-#   - systemtap-server:1.6-7.el5_8
-#   - systemtap-testsuite:1.6-7.el5_8
+#   - systemtap:1.6-7.el5_8.x86_64
+#   - systemtap-client:1.3-9.el5.x86_64
+#   - systemtap-debuginfo:1.6-7.el5_8.x86_64
+#   - systemtap-initscript:1.6-7.el5_8.x86_64
+#   - systemtap-runtime:1.6-7.el5_8.x86_64
+#   - systemtap-sdt-devel:1.6-7.el5_8.x86_64
+#   - systemtap-server:1.6-7.el5_8.x86_64
+#   - systemtap-testsuite:1.6-7.el5_8.x86_64
 #
 # CVE List:
 #   - CVE-2009-4273

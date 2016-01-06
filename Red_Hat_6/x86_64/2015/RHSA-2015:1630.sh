@@ -1,34 +1,34 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1630
 #
 # Security announcement date: 2015-08-17 06:50:10 UTC
-# Script generation date:     2015-09-10 09:47:49 UTC
+# Script generation date:     2016-01-06 19:14:12 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rh-mysql56-mysql:5.6.26-1.el6
-#   - rh-mysql56-mysql-bench:5.6.26-1.el6
-#   - rh-mysql56-mysql-common:5.6.26-1.el6
-#   - rh-mysql56-mysql-config:5.6.26-1.el6
-#   - rh-mysql56-mysql-debuginfo:5.6.26-1.el6
-#   - rh-mysql56-mysql-devel:5.6.26-1.el6
-#   - rh-mysql56-mysql-errmsg:5.6.26-1.el6
-#   - rh-mysql56-mysql-server:5.6.26-1.el6
-#   - rh-mysql56-mysql-test:5.6.26-1.el6
+#   - rh-mysql56-mysql:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql-bench:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql-common:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql-config:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql-debuginfo:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql-devel:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql-errmsg:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql-server:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql-test:5.6.26-1.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - rh-mysql56-mysql:5.6.26-1.el6
-#   - rh-mysql56-mysql-bench:5.6.26-1.el6
-#   - rh-mysql56-mysql-common:5.6.26-1.el6
-#   - rh-mysql56-mysql-config:5.6.26-1.el6
-#   - rh-mysql56-mysql-debuginfo:5.6.26-1.el6
-#   - rh-mysql56-mysql-devel:5.6.26-1.el6
-#   - rh-mysql56-mysql-errmsg:5.6.26-1.el6
-#   - rh-mysql56-mysql-server:5.6.26-1.el6
-#   - rh-mysql56-mysql-test:5.6.26-1.el6
+#   - rh-mysql56-mysql:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql-bench:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql-common:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql-config:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql-debuginfo:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql-devel:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql-errmsg:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql-server:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql-test:5.6.26-1.el6.x86_64
 #
 # CVE List:
 #   - CVE-2015-2582

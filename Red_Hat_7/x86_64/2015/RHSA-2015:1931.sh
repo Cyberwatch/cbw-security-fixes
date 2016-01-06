@@ -1,32 +1,32 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1931
 #
 # Security announcement date: 2015-10-27 08:59:07 UTC
-# Script generation date:     2015-10-27 19:17:39 UTC
+# Script generation date:     2016-01-06 19:14:26 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libcacard-devel-rhev:2.1.2-23.el7_1.10
-#   - libcacard-rhev:2.1.2-23.el7_1.10
-#   - libcacard-tools-rhev:2.1.2-23.el7_1.10
-#   - qemu-img-rhev:2.1.2-23.el7_1.10
-#   - qemu-kvm-common-rhev:2.1.2-23.el7_1.10
-#   - qemu-kvm-rhev:2.1.2-23.el7_1.10
-#   - qemu-kvm-rhev-debuginfo:2.1.2-23.el7_1.10
-#   - qemu-kvm-tools-rhev:2.1.2-23.el7_1.10
+#   - libcacard-devel-rhev:2.1.2-23.el7_1.10.x86_64
+#   - libcacard-rhev:2.1.2-23.el7_1.10.x86_64
+#   - libcacard-tools-rhev:2.1.2-23.el7_1.10.x86_64
+#   - qemu-img-rhev:2.1.2-23.el7_1.10.x86_64
+#   - qemu-kvm-common-rhev:2.1.2-23.el7_1.10.x86_64
+#   - qemu-kvm-rhev:2.1.2-23.el7_1.10.x86_64
+#   - qemu-kvm-rhev-debuginfo:2.1.2-23.el7_1.10.x86_64
+#   - qemu-kvm-tools-rhev:2.1.2-23.el7_1.10.x86_64
 #
 # Last versions recommanded by security team:
-#   - libcacard-devel-rhev:2.1.2-23.el7_1.10
-#   - libcacard-rhev:2.1.2-23.el7_1.10
-#   - libcacard-tools-rhev:2.1.2-23.el7_1.10
-#   - qemu-img-rhev:2.1.2-23.el7_1.10
-#   - qemu-kvm-common-rhev:2.1.2-23.el7_1.10
-#   - qemu-kvm-rhev:2.1.2-23.el7_1.10
-#   - qemu-kvm-rhev-debuginfo:2.1.2-23.el7_1.10
-#   - qemu-kvm-tools-rhev:2.1.2-23.el7_1.10
+#   - libcacard-devel-rhev:2.1.2-23.el7_1.10.x86_64
+#   - libcacard-rhev:2.1.2-23.el7_1.10.x86_64
+#   - libcacard-tools-rhev:2.1.2-23.el7_1.10.x86_64
+#   - qemu-img-rhev:2.1.2-23.el7_1.10.x86_64
+#   - qemu-kvm-common-rhev:2.1.2-23.el7_1.10.x86_64
+#   - qemu-kvm-rhev:2.1.2-23.el7_1.10.x86_64
+#   - qemu-kvm-rhev-debuginfo:2.1.2-23.el7_1.10.x86_64
+#   - qemu-kvm-tools-rhev:2.1.2-23.el7_1.10.x86_64
 #
 # CVE List:
 #   - CVE-2015-1779

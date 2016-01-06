@@ -1,22 +1,22 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1255
 #
 # Security announcement date: 2012-09-11 18:34:27 UTC
-# Script generation date:     2015-09-10 09:44:13 UTC
+# Script generation date:     2016-01-06 19:11:07 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libexif:0.6.21-5.el6_3
-#   - libexif-debuginfo:0.6.21-5.el6_3
-#   - libexif-devel:0.6.21-5.el6_3
+#   - libexif:0.6.21-5.el6_3.x86_64
+#   - libexif-debuginfo:0.6.21-5.el6_3.x86_64
+#   - libexif-devel:0.6.21-5.el6_3.x86_64
 #
 # Last versions recommanded by security team:
-#   - libexif:0.6.21-5.el6_3
-#   - libexif-debuginfo:0.6.21-5.el6_3
-#   - libexif-devel:0.6.21-5.el6_3
+#   - libexif:0.6.21-5.el6_3.x86_64
+#   - libexif-debuginfo:0.6.21-5.el6_3.x86_64
+#   - libexif-devel:0.6.21-5.el6_3.x86_64
 #
 # CVE List:
 #   - CVE-2012-2812

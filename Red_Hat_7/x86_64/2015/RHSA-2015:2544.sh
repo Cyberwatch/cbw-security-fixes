@@ -3,46 +3,46 @@
 # Security fix for RHSA-2015:2544
 #
 # Security announcement date: 2015-12-03 19:22:48 UTC
-# Script generation date:     2016-01-01 07:10:17 UTC
+# Script generation date:     2016-01-06 19:14:37 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openshift:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - openshift-clients:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - openshift-master:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - openshift-node:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - openshift-sdn-ovs:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - tuned-profiles-openshift-node:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - atomic-openshift:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - atomic-openshift-clients:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - atomic-openshift-clients-redistributable:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - atomic-openshift-dockerregistry:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - atomic-openshift-master:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - atomic-openshift-node:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - atomic-openshift-pod:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - atomic-openshift-recycle:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - atomic-openshift-sdn-ovs:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - tuned-profiles-atomic-openshift-node:3.1.0.4-1.git.15.5e061c3.el7aos
+#   - openshift:3.0.2.0-0.git.38.7576bc5.el7ose.x86_64
+#   - openshift-clients:3.0.2.0-0.git.38.7576bc5.el7ose.x86_64
+#   - openshift-master:3.0.2.0-0.git.38.7576bc5.el7ose.x86_64
+#   - openshift-node:3.0.2.0-0.git.38.7576bc5.el7ose.x86_64
+#   - openshift-sdn-ovs:3.0.2.0-0.git.38.7576bc5.el7ose.x86_64
+#   - tuned-profiles-openshift-node:3.0.2.0-0.git.38.7576bc5.el7ose.x86_64
+#   - atomic-openshift:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - atomic-openshift-clients:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - atomic-openshift-clients-redistributable:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - atomic-openshift-dockerregistry:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - atomic-openshift-master:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - atomic-openshift-node:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - atomic-openshift-pod:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - atomic-openshift-recycle:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - atomic-openshift-sdn-ovs:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - tuned-profiles-atomic-openshift-node:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
 #
 # Last versions recommanded by security team:
-#   - openshift:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - openshift-clients:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - openshift-master:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - openshift-node:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - openshift-sdn-ovs:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - tuned-profiles-openshift-node:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - atomic-openshift:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - atomic-openshift-clients:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - atomic-openshift-clients-redistributable:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - atomic-openshift-dockerregistry:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - atomic-openshift-master:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - atomic-openshift-node:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - atomic-openshift-pod:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - atomic-openshift-recycle:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - atomic-openshift-sdn-ovs:3.1.0.4-1.git.15.5e061c3.el7aos
-#   - tuned-profiles-atomic-openshift-node:3.1.0.4-1.git.15.5e061c3.el7aos
+#   - openshift:3.0.2.0-0.git.20.656dc3e.el7ose.x86_64
+#   - openshift-clients:3.0.2.0-0.git.20.656dc3e.el7ose.x86_64
+#   - openshift-master:3.0.2.0-0.git.20.656dc3e.el7ose.x86_64
+#   - openshift-node:3.0.2.0-0.git.20.656dc3e.el7ose.x86_64
+#   - openshift-sdn-ovs:3.0.2.0-0.git.20.656dc3e.el7ose.x86_64
+#   - tuned-profiles-openshift-node:3.0.2.0-0.git.20.656dc3e.el7ose.x86_64
+#   - atomic-openshift:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - atomic-openshift-clients:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - atomic-openshift-clients-redistributable:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - atomic-openshift-dockerregistry:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - atomic-openshift-master:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - atomic-openshift-node:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - atomic-openshift-pod:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - atomic-openshift-recycle:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - atomic-openshift-sdn-ovs:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
+#   - tuned-profiles-atomic-openshift-node:3.1.0.4-1.git.15.5e061c3.el7aos.x86_64
 #
 # CVE List:
 #   - CVE-2015-7528

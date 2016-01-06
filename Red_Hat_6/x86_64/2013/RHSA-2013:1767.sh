@@ -1,76 +1,76 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1767
 #
 # Security announcement date: 2013-11-26 19:15:04 UTC
-# Script generation date:     2015-09-10 09:45:21 UTC
+# Script generation date:     2016-01-06 19:12:07 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ruby:1.8.7.352-13.el6_2
-#   - ruby-debuginfo:1.8.7.352-13.el6_2
-#   - ruby-irb:1.8.7.352-13.el6_2
-#   - ruby-libs:1.8.7.352-13.el6_2
-#   - ruby:1.8.7.352-13.el6_3
-#   - ruby-debuginfo:1.8.7.352-13.el6_3
-#   - ruby-devel:1.8.7.352-13.el6_3
-#   - ruby-irb:1.8.7.352-13.el6_3
-#   - ruby-libs:1.8.7.352-13.el6_3
-#   - ruby-rdoc:1.8.7.352-13.el6_3
-#   - ruby:1.8.7.352-13.el6_4
-#   - ruby-debuginfo:1.8.7.352-13.el6_4
-#   - ruby-devel:1.8.7.352-13.el6_4
-#   - ruby-irb:1.8.7.352-13.el6_4
-#   - ruby-libs:1.8.7.352-13.el6_4
-#   - ruby-rdoc:1.8.7.352-13.el6_4
-#   - ruby-devel:1.8.7.352-13.el6_2
-#   - ruby-docs:1.8.7.352-13.el6_2
-#   - ruby-rdoc:1.8.7.352-13.el6_2
-#   - ruby-ri:1.8.7.352-13.el6_2
-#   - ruby-static:1.8.7.352-13.el6_2
-#   - ruby-tcltk:1.8.7.352-13.el6_2
-#   - ruby-docs:1.8.7.352-13.el6_3
-#   - ruby-ri:1.8.7.352-13.el6_3
-#   - ruby-static:1.8.7.352-13.el6_3
-#   - ruby-tcltk:1.8.7.352-13.el6_3
-#   - ruby-docs:1.8.7.352-13.el6_4
-#   - ruby-ri:1.8.7.352-13.el6_4
-#   - ruby-static:1.8.7.352-13.el6_4
-#   - ruby-tcltk:1.8.7.352-13.el6_4
+#   - ruby:1.8.7.352-13.el6_2.x86_64
+#   - ruby-debuginfo:1.8.7.352-13.el6_2.x86_64
+#   - ruby-irb:1.8.7.352-13.el6_2.x86_64
+#   - ruby-libs:1.8.7.352-13.el6_2.x86_64
+#   - ruby:1.8.7.352-13.el6_3.x86_64
+#   - ruby-debuginfo:1.8.7.352-13.el6_3.x86_64
+#   - ruby-devel:1.8.7.352-13.el6_3.x86_64
+#   - ruby-irb:1.8.7.352-13.el6_3.x86_64
+#   - ruby-libs:1.8.7.352-13.el6_3.x86_64
+#   - ruby-rdoc:1.8.7.352-13.el6_3.x86_64
+#   - ruby:1.8.7.352-13.el6_4.x86_64
+#   - ruby-debuginfo:1.8.7.352-13.el6_4.x86_64
+#   - ruby-devel:1.8.7.352-13.el6_4.x86_64
+#   - ruby-irb:1.8.7.352-13.el6_4.x86_64
+#   - ruby-libs:1.8.7.352-13.el6_4.x86_64
+#   - ruby-rdoc:1.8.7.352-13.el6_4.x86_64
+#   - ruby-devel:1.8.7.352-13.el6_2.x86_64
+#   - ruby-docs:1.8.7.352-13.el6_2.x86_64
+#   - ruby-rdoc:1.8.7.352-13.el6_2.x86_64
+#   - ruby-ri:1.8.7.352-13.el6_2.x86_64
+#   - ruby-static:1.8.7.352-13.el6_2.x86_64
+#   - ruby-tcltk:1.8.7.352-13.el6_2.x86_64
+#   - ruby-docs:1.8.7.352-13.el6_3.x86_64
+#   - ruby-ri:1.8.7.352-13.el6_3.x86_64
+#   - ruby-static:1.8.7.352-13.el6_3.x86_64
+#   - ruby-tcltk:1.8.7.352-13.el6_3.x86_64
+#   - ruby-docs:1.8.7.352-13.el6_4.x86_64
+#   - ruby-ri:1.8.7.352-13.el6_4.x86_64
+#   - ruby-static:1.8.7.352-13.el6_4.x86_64
+#   - ruby-tcltk:1.8.7.352-13.el6_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - ruby:1.8.7.374-3.el6_6
-#   - ruby-debuginfo:1.8.7.374-3.el6_6
-#   - ruby-irb:1.8.7.374-3.el6_6
-#   - ruby-libs:1.8.7.374-3.el6_6
-#   - ruby:1.8.7.374-3.el6_6
-#   - ruby-debuginfo:1.8.7.374-3.el6_6
-#   - ruby-devel:1.8.7.374-3.el6_6
-#   - ruby-irb:1.8.7.374-3.el6_6
-#   - ruby-libs:1.8.7.374-3.el6_6
-#   - ruby-rdoc:1.8.7.374-3.el6_6
-#   - ruby:1.8.7.374-3.el6_6
-#   - ruby-debuginfo:1.8.7.374-3.el6_6
-#   - ruby-devel:1.8.7.374-3.el6_6
-#   - ruby-irb:1.8.7.374-3.el6_6
-#   - ruby-libs:1.8.7.374-3.el6_6
-#   - ruby-rdoc:1.8.7.374-3.el6_6
-#   - ruby-devel:1.8.7.374-3.el6_6
-#   - ruby-docs:1.8.7.374-3.el6_6
-#   - ruby-rdoc:1.8.7.374-3.el6_6
-#   - ruby-ri:1.8.7.374-3.el6_6
-#   - ruby-static:1.8.7.374-3.el6_6
-#   - ruby-tcltk:1.8.7.374-3.el6_6
-#   - ruby-docs:1.8.7.374-3.el6_6
-#   - ruby-ri:1.8.7.374-3.el6_6
-#   - ruby-static:1.8.7.374-3.el6_6
-#   - ruby-tcltk:1.8.7.374-3.el6_6
-#   - ruby-docs:1.8.7.374-3.el6_6
-#   - ruby-ri:1.8.7.374-3.el6_6
-#   - ruby-static:1.8.7.374-3.el6_6
-#   - ruby-tcltk:1.8.7.374-3.el6_6
+#   - ruby:1.8.7.374-3.el6_6.x86_64
+#   - ruby-debuginfo:1.8.7.374-3.el6_6.x86_64
+#   - ruby-irb:1.8.7.374-3.el6_6.x86_64
+#   - ruby-libs:1.8.7.374-3.el6_6.x86_64
+#   - ruby:1.8.7.374-3.el6_6.x86_64
+#   - ruby-debuginfo:1.8.7.374-3.el6_6.x86_64
+#   - ruby-devel:1.8.7.374-3.el6_6.x86_64
+#   - ruby-irb:1.8.7.374-3.el6_6.x86_64
+#   - ruby-libs:1.8.7.374-3.el6_6.x86_64
+#   - ruby-rdoc:1.8.7.374-3.el6_6.x86_64
+#   - ruby:1.8.7.374-3.el6_6.x86_64
+#   - ruby-debuginfo:1.8.7.374-3.el6_6.x86_64
+#   - ruby-devel:1.8.7.374-3.el6_6.x86_64
+#   - ruby-irb:1.8.7.374-3.el6_6.x86_64
+#   - ruby-libs:1.8.7.374-3.el6_6.x86_64
+#   - ruby-rdoc:1.8.7.374-3.el6_6.x86_64
+#   - ruby-devel:1.8.7.374-3.el6_6.x86_64
+#   - ruby-docs:1.8.7.374-3.el6_6.x86_64
+#   - ruby-rdoc:1.8.7.374-3.el6_6.x86_64
+#   - ruby-ri:1.8.7.374-3.el6_6.x86_64
+#   - ruby-static:1.8.7.374-3.el6_6.x86_64
+#   - ruby-tcltk:1.8.7.374-3.el6_6.x86_64
+#   - ruby-docs:1.8.7.374-3.el6_6.x86_64
+#   - ruby-ri:1.8.7.374-3.el6_6.x86_64
+#   - ruby-static:1.8.7.374-3.el6_6.x86_64
+#   - ruby-tcltk:1.8.7.374-3.el6_6.x86_64
+#   - ruby-docs:1.8.7.374-3.el6_6.x86_64
+#   - ruby-ri:1.8.7.374-3.el6_6.x86_64
+#   - ruby-static:1.8.7.374-3.el6_6.x86_64
+#   - ruby-tcltk:1.8.7.374-3.el6_6.x86_64
 #
 # CVE List:
 #   - CVE-2013-4164

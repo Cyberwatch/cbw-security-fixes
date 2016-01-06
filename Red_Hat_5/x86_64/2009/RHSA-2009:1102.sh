@@ -1,20 +1,20 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:1102
 #
 # Security announcement date: 2009-06-15 21:28:33 UTC
-# Script generation date:     2015-09-10 09:42:04 UTC
+# Script generation date:     2016-01-06 19:09:07 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - cscope:15.5-15.1.el5_3.1
-#   - cscope-debuginfo:15.5-15.1.el5_3.1
+#   - cscope:15.5-15.1.el5_3.1.x86_64
+#   - cscope-debuginfo:15.5-15.1.el5_3.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - cscope:15.5-15.1.el5_3.1
-#   - cscope-debuginfo:15.5-15.1.el5_3.1
+#   - cscope:15.5-15.1.el5_3.1.x86_64
+#   - cscope-debuginfo:15.5-15.1.el5_3.1.x86_64
 #
 # CVE List:
 #   - CVE-2004-2541

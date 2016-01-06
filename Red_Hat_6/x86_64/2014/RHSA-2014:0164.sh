@@ -1,34 +1,34 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0164
 #
 # Security announcement date: 2014-02-12 18:36:56 UTC
-# Script generation date:     2015-09-10 09:45:34 UTC
+# Script generation date:     2016-01-06 19:12:18 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mysql:5.1.73-3.el6_5
-#   - mysql-debuginfo:5.1.73-3.el6_5
-#   - mysql-libs:5.1.73-3.el6_5
-#   - mysql-server:5.1.73-3.el6_5
-#   - mysql-bench:5.1.73-3.el6_5
-#   - mysql-devel:5.1.73-3.el6_5
-#   - mysql-embedded:5.1.73-3.el6_5
-#   - mysql-embedded-devel:5.1.73-3.el6_5
-#   - mysql-test:5.1.73-3.el6_5
+#   - mysql:5.1.73-3.el6_5.x86_64
+#   - mysql-debuginfo:5.1.73-3.el6_5.x86_64
+#   - mysql-libs:5.1.73-3.el6_5.x86_64
+#   - mysql-server:5.1.73-3.el6_5.x86_64
+#   - mysql-bench:5.1.73-3.el6_5.x86_64
+#   - mysql-devel:5.1.73-3.el6_5.x86_64
+#   - mysql-embedded:5.1.73-3.el6_5.x86_64
+#   - mysql-embedded-devel:5.1.73-3.el6_5.x86_64
+#   - mysql-test:5.1.73-3.el6_5.x86_64
 #
 # Last versions recommanded by security team:
-#   - mysql:5.1.73-3.el6_5
-#   - mysql-debuginfo:5.1.73-3.el6_5
-#   - mysql-libs:5.1.73-3.el6_5
-#   - mysql-server:5.1.73-3.el6_5
-#   - mysql-bench:5.1.73-3.el6_5
-#   - mysql-devel:5.1.73-3.el6_5
-#   - mysql-embedded:5.1.73-3.el6_5
-#   - mysql-embedded-devel:5.1.73-3.el6_5
-#   - mysql-test:5.1.73-3.el6_5
+#   - mysql:5.1.73-3.el6_5.x86_64
+#   - mysql-debuginfo:5.1.73-3.el6_5.x86_64
+#   - mysql-libs:5.1.73-3.el6_5.x86_64
+#   - mysql-server:5.1.73-3.el6_5.x86_64
+#   - mysql-bench:5.1.73-3.el6_5.x86_64
+#   - mysql-devel:5.1.73-3.el6_5.x86_64
+#   - mysql-embedded:5.1.73-3.el6_5.x86_64
+#   - mysql-embedded-devel:5.1.73-3.el6_5.x86_64
+#   - mysql-test:5.1.73-3.el6_5.x86_64
 #
 # CVE List:
 #   - CVE-2013-5908

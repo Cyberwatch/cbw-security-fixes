@@ -3,16 +3,16 @@
 # Security fix for RHSA-2015:2536
 #
 # Security announcement date: 2015-12-01 20:46:25 UTC
-# Script generation date:     2016-01-01 07:10:12 UTC
+# Script generation date:     2016-01-06 19:14:34 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - apache-commons-collections-eap6:3.2.1-16.redhat_5.1.ep6.el6
+#   - apache-commons-collections-eap6:3.2.1-16.redhat_5.1.ep6.el6.noarch
 #
 # Last versions recommanded by security team:
-#   - apache-commons-collections-eap6:3.2.1-18.redhat_7.1.ep6.el6
+#   - apache-commons-collections-eap6:3.2.1-15.redhat_3.1.ep6.el6.noarch
 #
 # CVE List:
 #   - CVE-2015-7501

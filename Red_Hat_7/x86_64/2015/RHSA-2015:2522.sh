@@ -3,22 +3,22 @@
 # Security fix for RHSA-2015:2522
 #
 # Security announcement date: 2015-11-30 16:57:38 UTC
-# Script generation date:     2016-01-01 07:10:12 UTC
+# Script generation date:     2016-01-06 19:14:34 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - apache-commons-collections:3.2.1-22.el7_2
-#   - apache-commons-collections-javadoc:3.2.1-22.el7_2
-#   - apache-commons-collections-testframework:3.2.1-22.el7_2
-#   - apache-commons-collections-testframework-javadoc:3.2.1-22.el7_2
+#   - apache-commons-collections:3.2.1-22.el7_2.noarch
+#   - apache-commons-collections-javadoc:3.2.1-22.el7_2.noarch
+#   - apache-commons-collections-testframework:3.2.1-22.el7_2.noarch
+#   - apache-commons-collections-testframework-javadoc:3.2.1-22.el7_2.noarch
 #
 # Last versions recommanded by security team:
-#   - apache-commons-collections:3.2.1-22.el7_2
-#   - apache-commons-collections-javadoc:3.2.1-22.el7_2
-#   - apache-commons-collections-testframework:3.2.1-22.el7_2
-#   - apache-commons-collections-testframework-javadoc:3.2.1-22.el7_2
+#   - apache-commons-collections:3.2.1-22.el7_2.noarch
+#   - apache-commons-collections-javadoc:3.2.1-22.el7_2.noarch
+#   - apache-commons-collections-testframework:3.2.1-22.el7_2.noarch
+#   - apache-commons-collections-testframework-javadoc:3.2.1-22.el7_2.noarch
 #
 # CVE List:
 #   - CVE-2015-7501

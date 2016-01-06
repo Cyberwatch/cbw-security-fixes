@@ -1,32 +1,32 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0796
 #
 # Security announcement date: 2012-06-20 08:27:46 UTC
-# Script generation date:     2015-09-10 09:44:02 UTC
+# Script generation date:     2016-01-06 19:10:58 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rsyslog:5.8.10-2.el6
-#   - rsyslog-debuginfo:5.8.10-2.el6
-#   - rsyslog-gnutls:5.8.10-2.el6
-#   - rsyslog-gssapi:5.8.10-2.el6
-#   - rsyslog-relp:5.8.10-2.el6
-#   - rsyslog-mysql:5.8.10-2.el6
-#   - rsyslog-pgsql:5.8.10-2.el6
-#   - rsyslog-snmp:5.8.10-2.el6
+#   - rsyslog:5.8.10-2.el6.x86_64
+#   - rsyslog-debuginfo:5.8.10-2.el6.x86_64
+#   - rsyslog-gnutls:5.8.10-2.el6.x86_64
+#   - rsyslog-gssapi:5.8.10-2.el6.x86_64
+#   - rsyslog-relp:5.8.10-2.el6.x86_64
+#   - rsyslog-mysql:5.8.10-2.el6.x86_64
+#   - rsyslog-pgsql:5.8.10-2.el6.x86_64
+#   - rsyslog-snmp:5.8.10-2.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - rsyslog:5.8.10-9.el6_6
-#   - rsyslog-debuginfo:5.8.10-9.el6_6
-#   - rsyslog-gnutls:5.8.10-9.el6_6
-#   - rsyslog-gssapi:5.8.10-9.el6_6
-#   - rsyslog-relp:5.8.10-9.el6_6
-#   - rsyslog-mysql:5.8.10-9.el6_6
-#   - rsyslog-pgsql:5.8.10-9.el6_6
-#   - rsyslog-snmp:5.8.10-9.el6_6
+#   - rsyslog:5.8.10-9.el6_6.x86_64
+#   - rsyslog-debuginfo:5.8.10-9.el6_6.x86_64
+#   - rsyslog-gnutls:5.8.10-9.el6_6.x86_64
+#   - rsyslog-gssapi:5.8.10-9.el6_6.x86_64
+#   - rsyslog-relp:5.8.10-9.el6_6.x86_64
+#   - rsyslog-mysql:5.8.10-9.el6_6.x86_64
+#   - rsyslog-pgsql:5.8.10-9.el6_6.x86_64
+#   - rsyslog-snmp:5.8.10-9.el6_6.x86_64
 #
 # CVE List:
 #   - CVE-2011-4623

@@ -1,20 +1,20 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1768
 #
 # Security announcement date: 2015-09-10 21:06:09 UTC
-# Script generation date:     2015-09-11 06:14:35 UTC
+# Script generation date:     2016-01-06 19:14:18 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libunwind:1.1-4.1.el6ost
-#   - libunwind-debuginfo:1.1-4.1.el6ost
+#   - libunwind:1.1-4.1.el6ost.x86_64
+#   - libunwind-debuginfo:1.1-4.1.el6ost.x86_64
 #
 # Last versions recommanded by security team:
-#   - libunwind:1.1-4.1.el6ost
-#   - libunwind-debuginfo:1.1-4.1.el6ost
+#   - libunwind:1.1-4.1.el6ost.x86_64
+#   - libunwind-debuginfo:1.1-4.1.el6ost.x86_64
 #
 # CVE List:
 #   - CVE-2015-3239

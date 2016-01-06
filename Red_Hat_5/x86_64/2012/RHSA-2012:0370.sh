@@ -1,24 +1,24 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0370
 #
 # Security announcement date: 2012-03-07 14:43:01 UTC
-# Script generation date:     2015-09-10 09:43:47 UTC
+# Script generation date:     2016-01-06 19:10:46 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - xen-debuginfo:3.0.3-135.el5_8.2
-#   - xen-libs:3.0.3-135.el5_8.2
-#   - xen:3.0.3-135.el5_8.2
-#   - xen-devel:3.0.3-135.el5_8.2
+#   - xen-debuginfo:3.0.3-135.el5_8.2.x86_64
+#   - xen-libs:3.0.3-135.el5_8.2.x86_64
+#   - xen:3.0.3-135.el5_8.2.x86_64
+#   - xen-devel:3.0.3-135.el5_8.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - xen-debuginfo:3.0.3-146.el5_11
-#   - xen-libs:3.0.3-146.el5_11
-#   - xen:3.0.3-146.el5_11
-#   - xen-devel:3.0.3-146.el5_11
+#   - xen-debuginfo:3.0.3-146.el5_11.x86_64
+#   - xen-libs:3.0.3-146.el5_11.x86_64
+#   - xen:3.0.3-146.el5_11.x86_64
+#   - xen-devel:3.0.3-146.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2012-0029

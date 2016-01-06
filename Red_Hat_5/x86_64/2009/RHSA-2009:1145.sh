@@ -1,78 +1,78 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:1145
 #
 # Security announcement date: 2009-07-06 11:49:39 UTC
-# Script generation date:     2015-10-16 06:09:56 UTC
+# Script generation date:     2016-01-06 19:09:08 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - glassfish-jaxb:2.1.4-1.11.1.ep1.el5
-#   - glassfish-jaxb-javadoc:2.1.4-1.11.1.ep1.el5
-#   - hibernate3:3.2.4-1.SP1_CP08.0jpp.ep1.2.3.el5
-#   - hibernate3-annotations:3.3.1-1.10.1GA_CP01.ep1.el5
-#   - hibernate3-annotations-javadoc:3.3.1-1.10.1GA_CP01.ep1.el5
-#   - hibernate3-commons-annotations:3.0.0-1jpp.ep1.5.2.el5
-#   - hibernate3-commons-annotations-javadoc:3.0.0-1jpp.ep1.5.2.el5
-#   - hibernate3-entitymanager:3.3.2-2.4.1.ep1.el5
-#   - hibernate3-entitymanager-javadoc:3.3.2-2.4.1.ep1.el5
-#   - hibernate3-javadoc:3.2.4-1.SP1_CP08.0jpp.ep1.2.3.el5
-#   - hibernate3-validator:3.0.0-1jpp.ep1.8.3.el5
-#   - hibernate3-validator-javadoc:3.0.0-1jpp.ep1.8.3.el5
-#   - jakarta-slide-webdavclient:2.1-9.2.el5
-#   - jboss-cache:1.4.1-6.SP13.1.ep1.el5
-#   - jboss-messaging:1.4.0-2.SP3_CP08.1.ep1.el5
-#   - jboss-remoting:2.2.3-2.ep1.el5
-#   - jboss-seam:1.2.1-3.JBPAPP_4_3_0_GA.ep1.11.el5.1
-#   - jboss-seam-docs:1.2.1-3.JBPAPP_4_3_0_GA.ep1.11.el5.1
-#   - jbossas:4.3.0-4.GA_CP05.6.1.ep1.el5
-#   - jbossas-4.3.0.GA_CP05-bin:4.3.0-4.GA_CP05.6.1.ep1.el5
-#   - jbossas-client:4.3.0-4.GA_CP05.6.1.ep1.el5
-#   - jbossts:4.2.3-1.SP5_CP05.1jpp.ep1.1.el5
-#   - jbossweb:2.0.0-6.CP11.0jpp.ep1.1.el5
-#   - jbossws:2.0.1-3.SP2_CP06.3.1.ep1.el5
-#   - jbossws-common:1.0.0-2.GA_CP04.1.ep1.el5
-#   - jbossws-framework:2.0.1-1.GA_CP04.2.ep1.el5
-#   - jbossws-native42:2.0.1-3.SP2_CP06.3.1.ep1.el5
-#   - jbossws-spi:1.0.0-1.GA_CP02.1.ep1.el5
-#   - jgroups:2.4.6-1.ep1.el5
-#   - rh-eap-docs:4.3.0-5.GA_CP05.ep1.2.1.el5
-#   - rh-eap-docs-examples:4.3.0-5.GA_CP05.ep1.2.1.el5
+#   - glassfish-jaxb:2.1.4-1.11.1.ep1.el5.noarch
+#   - glassfish-jaxb-javadoc:2.1.4-1.11.1.ep1.el5.noarch
+#   - hibernate3:3.2.4-1.SP1_CP08.0jpp.ep1.2.3.el5.noarch
+#   - hibernate3-annotations:3.3.1-1.10.1GA_CP01.ep1.el5.noarch
+#   - hibernate3-annotations-javadoc:3.3.1-1.10.1GA_CP01.ep1.el5.noarch
+#   - hibernate3-commons-annotations:3.0.0-1jpp.ep1.5.2.el5.noarch
+#   - hibernate3-commons-annotations-javadoc:3.0.0-1jpp.ep1.5.2.el5.noarch
+#   - hibernate3-entitymanager:3.3.2-2.4.1.ep1.el5.noarch
+#   - hibernate3-entitymanager-javadoc:3.3.2-2.4.1.ep1.el5.noarch
+#   - hibernate3-javadoc:3.2.4-1.SP1_CP08.0jpp.ep1.2.3.el5.noarch
+#   - hibernate3-validator:3.0.0-1jpp.ep1.8.3.el5.noarch
+#   - hibernate3-validator-javadoc:3.0.0-1jpp.ep1.8.3.el5.noarch
+#   - jakarta-slide-webdavclient:2.1-9.2.el5.noarch
+#   - jboss-cache:1.4.1-6.SP13.1.ep1.el5.noarch
+#   - jboss-messaging:1.4.0-2.SP3_CP08.1.ep1.el5.noarch
+#   - jboss-remoting:2.2.3-2.ep1.el5.noarch
+#   - jboss-seam:1.2.1-3.JBPAPP_4_3_0_GA.ep1.11.el5.1.noarch
+#   - jboss-seam-docs:1.2.1-3.JBPAPP_4_3_0_GA.ep1.11.el5.1.noarch
+#   - jbossas:4.3.0-4.GA_CP05.6.1.ep1.el5.noarch
+#   - jbossas-4.3.0.GA_CP05-bin:4.3.0-4.GA_CP05.6.1.ep1.el5.noarch
+#   - jbossas-client:4.3.0-4.GA_CP05.6.1.ep1.el5.noarch
+#   - jbossts:4.2.3-1.SP5_CP05.1jpp.ep1.1.el5.noarch
+#   - jbossweb:2.0.0-6.CP11.0jpp.ep1.1.el5.noarch
+#   - jbossws:2.0.1-3.SP2_CP06.3.1.ep1.el5.noarch
+#   - jbossws-common:1.0.0-2.GA_CP04.1.ep1.el5.noarch
+#   - jbossws-framework:2.0.1-1.GA_CP04.2.ep1.el5.noarch
+#   - jbossws-native42:2.0.1-3.SP2_CP06.3.1.ep1.el5.noarch
+#   - jbossws-spi:1.0.0-1.GA_CP02.1.ep1.el5.noarch
+#   - jgroups:2.4.6-1.ep1.el5.noarch
+#   - rh-eap-docs:4.3.0-5.GA_CP05.ep1.2.1.el5.noarch
+#   - rh-eap-docs-examples:4.3.0-5.GA_CP05.ep1.2.1.el5.noarch
 #
 # Last versions recommanded by security team:
-#   - glassfish-jaxb:2.2.5-14.redhat_5.ep6.el5
-#   - glassfish-jaxb-javadoc:2.1.4-1.12.patch03.1.ep1.el5
-#   - hibernate3:3.3.2-1.5.GA_CP05.ep5.el5
-#   - hibernate3-annotations:3.4.0-3.3.GA_CP05.ep5.el5
-#   - hibernate3-annotations-javadoc:3.4.0-3.3.GA_CP05.ep5.el5
-#   - hibernate3-commons-annotations:4.0.2-1.Final_redhat_1.1.ep6.el5
-#   - hibernate3-commons-annotations-javadoc:3.1.0-1.8.ep5.el5
-#   - hibernate3-entitymanager:3.4.0-4.4.GA_CP05.ep5.el5
-#   - hibernate3-entitymanager-javadoc:3.4.0-4.4.GA_CP05.ep5.el5
-#   - hibernate3-javadoc:3.3.2-1.5.GA_CP05.ep5.el5
-#   - hibernate3-validator:3.1.0-1.5.4.ep5.el5
-#   - hibernate3-validator-javadoc:3.1.0-1.5.4.ep5.el5
-#   - jakarta-slide-webdavclient:2.1-9.2.el5
-#   - jboss-cache:1.4.1-6.SP14.1.ep1.1.el5
-#   - jboss-messaging:1.4.8-12.SP9.1.ep5.el5
-#   - jboss-remoting:2.5.4-11.SP4_patch01.ep5.el5
-#   - jboss-seam:1.2.1-3.JBPAPP_4_3_0_GA.ep1.22.el5.1
-#   - jboss-seam-docs:1.2.1-3.JBPAPP_4_3_0_GA.ep1.22.el5.1
-#   - jbossas:5.2.0-14.ep5.el5
-#   - jbossas-4.3.0.GA_CP05-bin:4.3.0-4.GA_CP05.6.1.ep1.el5
-#   - jbossas-client:5.2.0-14.ep5.el5
-#   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el5
-#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el5
-#   - jbossws:3.1.2-14.SP15_patch_02.ep5.el5
-#   - jbossws-common:2.3.1-1.Final_redhat_1.1.ep6.el5
-#   - jbossws-framework:3.1.2-9.SP13.ep5.el5
-#   - jbossws-native42:2.0.1-4.SP2_CP07.2.1.ep1.el5
-#   - jbossws-spi:2.3.1-1.Final_redhat_1.1.ep6.el5
-#   - jgroups:3.2.13-1.Final_redhat_1.1.ep6.el5
-#   - rh-eap-docs:5.2.0-6.ep5.el5
-#   - rh-eap-docs-examples:5.2.0-6.ep5.el5
+#   - glassfish-jaxb:2.2.5-14.redhat_5.ep6.el5.noarch
+#   - glassfish-jaxb-javadoc:2.1.4-1.12.patch03.1.ep1.el5.noarch
+#   - hibernate3:3.3.2-1.5.GA_CP05.ep5.el5.noarch
+#   - hibernate3-annotations:3.4.0-3.3.GA_CP05.ep5.el5.noarch
+#   - hibernate3-annotations-javadoc:3.4.0-3.3.GA_CP05.ep5.el5.noarch
+#   - hibernate3-commons-annotations:4.0.2-1.Final_redhat_1.1.ep6.el5.noarch
+#   - hibernate3-commons-annotations-javadoc:3.1.0-1.8.ep5.el5.noarch
+#   - hibernate3-entitymanager:3.4.0-4.4.GA_CP05.ep5.el5.noarch
+#   - hibernate3-entitymanager-javadoc:3.4.0-4.4.GA_CP05.ep5.el5.noarch
+#   - hibernate3-javadoc:3.3.2-1.5.GA_CP05.ep5.el5.noarch
+#   - hibernate3-validator:3.1.0-1.5.4.ep5.el5.noarch
+#   - hibernate3-validator-javadoc:3.1.0-1.5.4.ep5.el5.noarch
+#   - jakarta-slide-webdavclient:2.1-9.2.el5.noarch
+#   - jboss-cache:1.4.1-6.SP14.1.ep1.1.el5.noarch
+#   - jboss-messaging:1.4.8-12.SP9.1.ep5.el5.noarch
+#   - jboss-remoting:2.5.4-11.SP4_patch01.ep5.el5.noarch
+#   - jboss-seam:1.2.1-3.JBPAPP_4_3_0_GA.ep1.22.el5.1.noarch
+#   - jboss-seam-docs:1.2.1-3.JBPAPP_4_3_0_GA.ep1.22.el5.1.noarch
+#   - jbossas:5.2.0-14.ep5.el5.noarch
+#   - jbossas-4.3.0.GA_CP05-bin:4.3.0-4.GA_CP05.6.1.ep1.el5.noarch
+#   - jbossas-client:5.2.0-14.ep5.el5.noarch
+#   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el5.noarch
+#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el5.noarch
+#   - jbossws:3.1.2-14.SP15_patch_02.ep5.el5.noarch
+#   - jbossws-common:2.3.1-1.Final_redhat_1.1.ep6.el5.noarch
+#   - jbossws-framework:3.1.2-9.SP13.ep5.el5.noarch
+#   - jbossws-native42:2.0.1-4.SP2_CP07.2.1.ep1.el5.noarch
+#   - jbossws-spi:2.3.1-1.Final_redhat_1.1.ep6.el5.noarch
+#   - jgroups:3.2.13-1.Final_redhat_1.1.ep6.el5.noarch
+#   - rh-eap-docs:5.2.0-6.ep5.el5.noarch
+#   - rh-eap-docs-examples:5.2.0-6.ep5.el5.noarch
 #
 # CVE List:
 #   - CVE-2008-5515

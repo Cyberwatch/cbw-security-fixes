@@ -1,24 +1,24 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0999
 #
 # Security announcement date: 2010-12-20 18:00:13 UTC
-# Script generation date:     2015-09-10 09:42:50 UTC
+# Script generation date:     2016-01-06 19:09:44 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libvpx:0.9.0-8.el6_0
-#   - libvpx-debuginfo:0.9.0-8.el6_0
-#   - libvpx-devel:0.9.0-8.el6_0
-#   - libvpx-utils:0.9.0-8.el6_0
+#   - libvpx:0.9.0-8.el6_0.x86_64
+#   - libvpx-debuginfo:0.9.0-8.el6_0.x86_64
+#   - libvpx-devel:0.9.0-8.el6_0.x86_64
+#   - libvpx-utils:0.9.0-8.el6_0.x86_64
 #
 # Last versions recommanded by security team:
-#   - libvpx:0.9.0-8.el6_0
-#   - libvpx-debuginfo:0.9.0-8.el6_0
-#   - libvpx-devel:0.9.0-8.el6_0
-#   - libvpx-utils:0.9.0-8.el6_0
+#   - libvpx:0.9.0-8.el6_0.x86_64
+#   - libvpx-debuginfo:0.9.0-8.el6_0.x86_64
+#   - libvpx-devel:0.9.0-8.el6_0.x86_64
+#   - libvpx-utils:0.9.0-8.el6_0.x86_64
 #
 # CVE List:
 #   - CVE-2010-4203

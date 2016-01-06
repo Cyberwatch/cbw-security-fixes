@@ -1,20 +1,20 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0585
 #
 # Security announcement date: 2010-08-02 20:56:57 UTC
-# Script generation date:     2015-09-10 09:42:33 UTC
+# Script generation date:     2016-01-06 19:09:30 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - lftp:3.7.11-4.el5_5.3
-#   - lftp-debuginfo:3.7.11-4.el5_5.3
+#   - lftp:3.7.11-4.el5_5.3.x86_64
+#   - lftp-debuginfo:3.7.11-4.el5_5.3.x86_64
 #
 # Last versions recommanded by security team:
-#   - lftp:3.7.11-4.el5_5.3
-#   - lftp-debuginfo:3.7.11-4.el5_5.3
+#   - lftp:3.7.11-4.el5_5.3.x86_64
+#   - lftp-debuginfo:3.7.11-4.el5_5.3.x86_64
 #
 # CVE List:
 #   - CVE-2010-2251

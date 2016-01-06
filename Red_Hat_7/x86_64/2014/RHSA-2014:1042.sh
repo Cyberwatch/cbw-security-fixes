@@ -1,28 +1,28 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1042
 #
 # Security announcement date: 2014-08-11 17:31:17 UTC
-# Script generation date:     2015-09-10 09:46:09 UTC
+# Script generation date:     2016-01-06 19:12:48 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.7.1-ibm:1.7.1.1.1-1jpp.1.el7_0
-#   - java-1.7.1-ibm-demo:1.7.1.1.1-1jpp.1.el7_0
-#   - java-1.7.1-ibm-devel:1.7.1.1.1-1jpp.1.el7_0
-#   - java-1.7.1-ibm-jdbc:1.7.1.1.1-1jpp.1.el7_0
-#   - java-1.7.1-ibm-plugin:1.7.1.1.1-1jpp.1.el7_0
-#   - java-1.7.1-ibm-src:1.7.1.1.1-1jpp.1.el7_0
+#   - java-1.7.1-ibm:1.7.1.1.1-1jpp.1.el7_0.x86_64
+#   - java-1.7.1-ibm-demo:1.7.1.1.1-1jpp.1.el7_0.x86_64
+#   - java-1.7.1-ibm-devel:1.7.1.1.1-1jpp.1.el7_0.x86_64
+#   - java-1.7.1-ibm-jdbc:1.7.1.1.1-1jpp.1.el7_0.x86_64
+#   - java-1.7.1-ibm-plugin:1.7.1.1.1-1jpp.1.el7_0.x86_64
+#   - java-1.7.1-ibm-src:1.7.1.1.1-1jpp.1.el7_0.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.7.1-ibm:1.7.1.3.10-1jpp.1.el7_1
-#   - java-1.7.1-ibm-demo:1.7.1.3.10-1jpp.1.el7_1
-#   - java-1.7.1-ibm-devel:1.7.1.3.10-1jpp.1.el7_1
-#   - java-1.7.1-ibm-jdbc:1.7.1.3.10-1jpp.1.el7_1
-#   - java-1.7.1-ibm-plugin:1.7.1.3.10-1jpp.1.el7_1
-#   - java-1.7.1-ibm-src:1.7.1.3.10-1jpp.1.el7_1
+#   - java-1.7.1-ibm:1.7.1.3.10-1jpp.1.el7_1.x86_64
+#   - java-1.7.1-ibm-demo:1.7.1.3.10-1jpp.1.el7_1.x86_64
+#   - java-1.7.1-ibm-devel:1.7.1.3.10-1jpp.1.el7_1.x86_64
+#   - java-1.7.1-ibm-jdbc:1.7.1.3.10-1jpp.1.el7_1.x86_64
+#   - java-1.7.1-ibm-plugin:1.7.1.3.10-1jpp.1.el7_1.x86_64
+#   - java-1.7.1-ibm-src:1.7.1.3.10-1jpp.1.el7_1.x86_64
 #
 # CVE List:
 #   - CVE-2014-4208

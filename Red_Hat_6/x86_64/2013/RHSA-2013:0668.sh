@@ -1,70 +1,70 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0668
 #
 # Security announcement date: 2013-03-21 18:30:50 UTC
-# Script generation date:     2015-09-10 09:44:44 UTC
+# Script generation date:     2016-01-06 19:11:36 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - boost:1.41.0-15.el6_4
-#   - boost-date-time:1.41.0-15.el6_4
-#   - boost-debuginfo:1.41.0-15.el6_4
-#   - boost-filesystem:1.41.0-15.el6_4
-#   - boost-graph:1.41.0-15.el6_4
-#   - boost-iostreams:1.41.0-15.el6_4
-#   - boost-program-options:1.41.0-15.el6_4
-#   - boost-python:1.41.0-15.el6_4
-#   - boost-regex:1.41.0-15.el6_4
-#   - boost-serialization:1.41.0-15.el6_4
-#   - boost-signals:1.41.0-15.el6_4
-#   - boost-system:1.41.0-15.el6_4
-#   - boost-test:1.41.0-15.el6_4
-#   - boost-thread:1.41.0-15.el6_4
-#   - boost-wave:1.41.0-15.el6_4
-#   - boost-devel:1.41.0-15.el6_4
-#   - boost-doc:1.41.0-15.el6_4
-#   - boost-graph-mpich2:1.41.0-15.el6_4
-#   - boost-graph-openmpi:1.41.0-15.el6_4
-#   - boost-math:1.41.0-15.el6_4
-#   - boost-mpich2:1.41.0-15.el6_4
-#   - boost-mpich2-devel:1.41.0-15.el6_4
-#   - boost-mpich2-python:1.41.0-15.el6_4
-#   - boost-openmpi:1.41.0-15.el6_4
-#   - boost-openmpi-devel:1.41.0-15.el6_4
-#   - boost-openmpi-python:1.41.0-15.el6_4
-#   - boost-static:1.41.0-15.el6_4
+#   - boost:1.41.0-15.el6_4.x86_64
+#   - boost-date-time:1.41.0-15.el6_4.x86_64
+#   - boost-debuginfo:1.41.0-15.el6_4.x86_64
+#   - boost-filesystem:1.41.0-15.el6_4.x86_64
+#   - boost-graph:1.41.0-15.el6_4.x86_64
+#   - boost-iostreams:1.41.0-15.el6_4.x86_64
+#   - boost-program-options:1.41.0-15.el6_4.x86_64
+#   - boost-python:1.41.0-15.el6_4.x86_64
+#   - boost-regex:1.41.0-15.el6_4.x86_64
+#   - boost-serialization:1.41.0-15.el6_4.x86_64
+#   - boost-signals:1.41.0-15.el6_4.x86_64
+#   - boost-system:1.41.0-15.el6_4.x86_64
+#   - boost-test:1.41.0-15.el6_4.x86_64
+#   - boost-thread:1.41.0-15.el6_4.x86_64
+#   - boost-wave:1.41.0-15.el6_4.x86_64
+#   - boost-devel:1.41.0-15.el6_4.x86_64
+#   - boost-doc:1.41.0-15.el6_4.x86_64
+#   - boost-graph-mpich2:1.41.0-15.el6_4.x86_64
+#   - boost-graph-openmpi:1.41.0-15.el6_4.x86_64
+#   - boost-math:1.41.0-15.el6_4.x86_64
+#   - boost-mpich2:1.41.0-15.el6_4.x86_64
+#   - boost-mpich2-devel:1.41.0-15.el6_4.x86_64
+#   - boost-mpich2-python:1.41.0-15.el6_4.x86_64
+#   - boost-openmpi:1.41.0-15.el6_4.x86_64
+#   - boost-openmpi-devel:1.41.0-15.el6_4.x86_64
+#   - boost-openmpi-python:1.41.0-15.el6_4.x86_64
+#   - boost-static:1.41.0-15.el6_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - boost:1.41.0-15.el6_4
-#   - boost-date-time:1.41.0-15.el6_4
-#   - boost-debuginfo:1.41.0-15.el6_4
-#   - boost-filesystem:1.41.0-15.el6_4
-#   - boost-graph:1.41.0-15.el6_4
-#   - boost-iostreams:1.41.0-15.el6_4
-#   - boost-program-options:1.41.0-15.el6_4
-#   - boost-python:1.41.0-15.el6_4
-#   - boost-regex:1.41.0-15.el6_4
-#   - boost-serialization:1.41.0-15.el6_4
-#   - boost-signals:1.41.0-15.el6_4
-#   - boost-system:1.41.0-15.el6_4
-#   - boost-test:1.41.0-15.el6_4
-#   - boost-thread:1.41.0-15.el6_4
-#   - boost-wave:1.41.0-15.el6_4
-#   - boost-devel:1.41.0-15.el6_4
-#   - boost-doc:1.41.0-15.el6_4
-#   - boost-graph-mpich2:1.41.0-15.el6_4
-#   - boost-graph-openmpi:1.41.0-15.el6_4
-#   - boost-math:1.41.0-15.el6_4
-#   - boost-mpich2:1.41.0-15.el6_4
-#   - boost-mpich2-devel:1.41.0-15.el6_4
-#   - boost-mpich2-python:1.41.0-15.el6_4
-#   - boost-openmpi:1.41.0-15.el6_4
-#   - boost-openmpi-devel:1.41.0-15.el6_4
-#   - boost-openmpi-python:1.41.0-15.el6_4
-#   - boost-static:1.41.0-15.el6_4
+#   - boost:1.41.0-15.el6_4.x86_64
+#   - boost-date-time:1.41.0-15.el6_4.x86_64
+#   - boost-debuginfo:1.41.0-15.el6_4.x86_64
+#   - boost-filesystem:1.41.0-15.el6_4.x86_64
+#   - boost-graph:1.41.0-15.el6_4.x86_64
+#   - boost-iostreams:1.41.0-15.el6_4.x86_64
+#   - boost-program-options:1.41.0-15.el6_4.x86_64
+#   - boost-python:1.41.0-15.el6_4.x86_64
+#   - boost-regex:1.41.0-15.el6_4.x86_64
+#   - boost-serialization:1.41.0-15.el6_4.x86_64
+#   - boost-signals:1.41.0-15.el6_4.x86_64
+#   - boost-system:1.41.0-15.el6_4.x86_64
+#   - boost-test:1.41.0-15.el6_4.x86_64
+#   - boost-thread:1.41.0-15.el6_4.x86_64
+#   - boost-wave:1.41.0-15.el6_4.x86_64
+#   - boost-devel:1.41.0-15.el6_4.x86_64
+#   - boost-doc:1.41.0-15.el6_4.x86_64
+#   - boost-graph-mpich2:1.41.0-15.el6_4.x86_64
+#   - boost-graph-openmpi:1.41.0-15.el6_4.x86_64
+#   - boost-math:1.41.0-15.el6_4.x86_64
+#   - boost-mpich2:1.41.0-15.el6_4.x86_64
+#   - boost-mpich2-devel:1.41.0-15.el6_4.x86_64
+#   - boost-mpich2-python:1.41.0-15.el6_4.x86_64
+#   - boost-openmpi:1.41.0-15.el6_4.x86_64
+#   - boost-openmpi-devel:1.41.0-15.el6_4.x86_64
+#   - boost-openmpi-python:1.41.0-15.el6_4.x86_64
+#   - boost-static:1.41.0-15.el6_4.x86_64
 #
 # CVE List:
 #   - CVE-2012-2677

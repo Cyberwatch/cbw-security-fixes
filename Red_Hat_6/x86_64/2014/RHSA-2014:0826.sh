@@ -1,26 +1,26 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0826
 #
 # Security announcement date: 2014-07-01 15:08:57 UTC
-# Script generation date:     2015-09-10 09:45:59 UTC
+# Script generation date:     2016-01-06 19:12:38 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - httpd:2.2.22-27.ep6.el6
-#   - httpd-debuginfo:2.2.22-27.ep6.el6
-#   - httpd-devel:2.2.22-27.ep6.el6
-#   - httpd-tools:2.2.22-27.ep6.el6
-#   - mod_ssl:2.2.22-27.ep6.el6
+#   - httpd:2.2.22-27.ep6.el6.x86_64
+#   - httpd-debuginfo:2.2.22-27.ep6.el6.x86_64
+#   - httpd-devel:2.2.22-27.ep6.el6.x86_64
+#   - httpd-tools:2.2.22-27.ep6.el6.x86_64
+#   - mod_ssl:2.2.22-27.ep6.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - httpd:2.2.15-47.el6_7
-#   - httpd-debuginfo:2.2.15-47.el6_7
-#   - httpd-devel:2.2.15-47.el6_7
-#   - httpd-tools:2.2.15-47.el6_7
-#   - mod_ssl:2.2.15-47.el6_7
+#   - httpd:2.2.15-47.el6_7.x86_64
+#   - httpd-debuginfo:2.2.15-47.el6_7.x86_64
+#   - httpd-devel:2.2.15-47.el6_7.x86_64
+#   - httpd-tools:2.2.15-47.el6_7.x86_64
+#   - mod_ssl:2.2.15-47.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2013-6438

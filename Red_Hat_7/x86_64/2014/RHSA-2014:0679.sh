@@ -1,28 +1,28 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0679
 #
 # Security announcement date: 2014-06-10 19:38:47 UTC
-# Script generation date:     2015-09-10 09:45:54 UTC
+# Script generation date:     2016-01-06 19:12:33 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openssl:1.0.1e-34.el7_0.3
-#   - openssl-debuginfo:1.0.1e-34.el7_0.3
-#   - openssl-libs:1.0.1e-34.el7_0.3
-#   - openssl-devel:1.0.1e-34.el7_0.3
-#   - openssl-perl:1.0.1e-34.el7_0.3
-#   - openssl-static:1.0.1e-34.el7_0.3
+#   - openssl:1.0.1e-34.el7_0.3.x86_64
+#   - openssl-debuginfo:1.0.1e-34.el7_0.3.x86_64
+#   - openssl-libs:1.0.1e-34.el7_0.3.x86_64
+#   - openssl-devel:1.0.1e-34.el7_0.3.x86_64
+#   - openssl-perl:1.0.1e-34.el7_0.3.x86_64
+#   - openssl-static:1.0.1e-34.el7_0.3.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-42.el7_1.8
-#   - openssl-debuginfo:1.0.1e-42.el7_1.8
-#   - openssl-libs:1.0.1e-42.el7_1.8
-#   - openssl-devel:1.0.1e-42.el7_1.8
-#   - openssl-perl:1.0.1e-42.el7_1.8
-#   - openssl-static:1.0.1e-42.el7_1.8
+#   - openssl:1.0.1e-42.el7_1.8.x86_64
+#   - openssl-debuginfo:1.0.1e-42.el7_1.8.x86_64
+#   - openssl-libs:1.0.1e-42.el7_1.8.x86_64
+#   - openssl-devel:1.0.1e-42.el7_1.8.x86_64
+#   - openssl-perl:1.0.1e-42.el7_1.8.x86_64
+#   - openssl-static:1.0.1e-42.el7_1.8.x86_64
 #
 # CVE List:
 #   - CVE-2010-5298

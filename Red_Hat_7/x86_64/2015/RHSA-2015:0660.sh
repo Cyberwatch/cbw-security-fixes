@@ -1,40 +1,40 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0660
 #
 # Security announcement date: 2015-03-09 15:22:47 UTC
-# Script generation date:     2015-09-10 09:47:09 UTC
+# Script generation date:     2016-01-06 19:13:36 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - qpid-cpp-client-devel-docs:0.18-38.el7
-#   - qpid-cpp-client:0.18-38.el7
-#   - qpid-cpp-client-devel:0.18-38.el7
-#   - qpid-cpp-client-rdma:0.18-38.el7
-#   - qpid-cpp-client-ssl:0.18-38.el7
-#   - qpid-cpp-debuginfo:0.18-38.el7
-#   - qpid-cpp-server:0.18-38.el7
-#   - qpid-cpp-server-cluster:0.18-38.el7
-#   - qpid-cpp-server-devel:0.18-38.el7
-#   - qpid-cpp-server-rdma:0.18-38.el7
-#   - qpid-cpp-server-ssl:0.18-38.el7
-#   - qpid-cpp-server-store:0.18-38.el7
+#   - qpid-cpp-client-devel-docs:0.18-38.el7.noarch
+#   - qpid-cpp-client:0.18-38.el7.x86_64
+#   - qpid-cpp-client-devel:0.18-38.el7.x86_64
+#   - qpid-cpp-client-rdma:0.18-38.el7.x86_64
+#   - qpid-cpp-client-ssl:0.18-38.el7.x86_64
+#   - qpid-cpp-debuginfo:0.18-38.el7.x86_64
+#   - qpid-cpp-server:0.18-38.el7.x86_64
+#   - qpid-cpp-server-cluster:0.18-38.el7.x86_64
+#   - qpid-cpp-server-devel:0.18-38.el7.x86_64
+#   - qpid-cpp-server-rdma:0.18-38.el7.x86_64
+#   - qpid-cpp-server-ssl:0.18-38.el7.x86_64
+#   - qpid-cpp-server-store:0.18-38.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - qpid-cpp-client-devel-docs:0.22-51.el7
-#   - qpid-cpp-client:0.30-9.el7
-#   - qpid-cpp-client-devel:0.30-9.el7
-#   - qpid-cpp-client-rdma:0.22-51.el7
-#   - qpid-cpp-client-ssl:0.18-38.el7
-#   - qpid-cpp-debuginfo:0.30-9.el7
-#   - qpid-cpp-server:0.30-9.el7
-#   - qpid-cpp-server-cluster:0.18-38.el7
-#   - qpid-cpp-server-devel:0.30-9.el7
-#   - qpid-cpp-server-rdma:0.22-51.el7
-#   - qpid-cpp-server-ssl:0.18-38.el7
-#   - qpid-cpp-server-store:0.18-38.el7
+#   - qpid-cpp-client-devel-docs:0.22-51.el7.noarch
+#   - qpid-cpp-client:0.30-9.el7.x86_64
+#   - qpid-cpp-client-devel:0.30-9.el7.x86_64
+#   - qpid-cpp-client-rdma:0.22-51.el7.x86_64
+#   - qpid-cpp-client-ssl:0.18-38.el7.x86_64
+#   - qpid-cpp-debuginfo:0.30-9.el7.x86_64
+#   - qpid-cpp-server:0.30-9.el7.x86_64
+#   - qpid-cpp-server-cluster:0.18-38.el7.x86_64
+#   - qpid-cpp-server-devel:0.30-9.el7.x86_64
+#   - qpid-cpp-server-rdma:0.22-51.el7.x86_64
+#   - qpid-cpp-server-ssl:0.18-38.el7.x86_64
+#   - qpid-cpp-server-store:0.18-38.el7.x86_64
 #
 # CVE List:
 #   - CVE-2015-0203

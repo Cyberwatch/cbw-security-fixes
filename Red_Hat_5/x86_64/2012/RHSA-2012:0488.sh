@@ -1,20 +1,20 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0488
 #
 # Security announcement date: 2012-04-17 19:00:36 UTC
-# Script generation date:     2015-09-10 09:43:52 UTC
+# Script generation date:     2016-01-06 19:10:49 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rhev-hypervisor5:5.8-20120403.0.el5_8
-#   - rhev-hypervisor5-tools:5.8-20120403.0.el5_8
+#   - rhev-hypervisor5:5.8-20120403.0.el5_8.noarch
+#   - rhev-hypervisor5-tools:5.8-20120403.0.el5_8.noarch
 #
 # Last versions recommanded by security team:
-#   - rhev-hypervisor5:5.8-20120919.0.el5_8
-#   - rhev-hypervisor5-tools:5.8-20120919.0.el5_8
+#   - rhev-hypervisor5:5.8-20120919.0.el5_8.noarch
+#   - rhev-hypervisor5-tools:5.8-20120919.0.el5_8.noarch
 #
 # CVE List:
 #   - CVE-2012-0864

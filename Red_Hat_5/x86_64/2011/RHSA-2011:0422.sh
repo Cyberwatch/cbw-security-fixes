@@ -1,22 +1,22 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0422
 #
 # Security announcement date: 2011-04-06 23:27:18 UTC
-# Script generation date:     2015-09-10 09:43:01 UTC
+# Script generation date:     2016-01-06 19:09:54 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - postfix:2.3.3-2.2.el5_6
-#   - postfix-debuginfo:2.3.3-2.2.el5_6
-#   - postfix-pflogsumm:2.3.3-2.2.el5_6
+#   - postfix:2.3.3-2.2.el5_6.x86_64
+#   - postfix-debuginfo:2.3.3-2.2.el5_6.x86_64
+#   - postfix-pflogsumm:2.3.3-2.2.el5_6.x86_64
 #
 # Last versions recommanded by security team:
-#   - postfix:2.3.3-2.3.el5_6
-#   - postfix-debuginfo:2.3.3-2.3.el5_6
-#   - postfix-pflogsumm:2.3.3-2.3.el5_6
+#   - postfix:2.3.3-2.3.el5_6.x86_64
+#   - postfix-debuginfo:2.3.3-2.3.el5_6.x86_64
+#   - postfix-pflogsumm:2.3.3-2.3.el5_6.x86_64
 #
 # CVE List:
 #   - CVE-2008-2937

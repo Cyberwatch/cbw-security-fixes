@@ -1,30 +1,30 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0917
 #
 # Security announcement date: 2015-04-29 16:35:46 UTC
-# Script generation date:     2015-09-10 09:47:23 UTC
+# Script generation date:     2016-01-06 19:13:49 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rhn-base:5.2.1-4.el5
-#   - rhn-cypress:5.2.1-4.el5
-#   - rhn-grail:5.2.1-4.el5
-#   - rhn-html:5.2.1-4.el5
-#   - rhn-moon:5.2.1-4.el5
-#   - rhn-pxt:5.2.1-4.el5
-#   - rhn-sniglets:5.2.1-4.el5
+#   - rhn-base:5.2.1-4.el5.noarch
+#   - rhn-cypress:5.2.1-4.el5.noarch
+#   - rhn-grail:5.2.1-4.el5.noarch
+#   - rhn-html:5.2.1-4.el5.noarch
+#   - rhn-moon:5.2.1-4.el5.noarch
+#   - rhn-pxt:5.2.1-4.el5.noarch
+#   - rhn-sniglets:5.2.1-4.el5.noarch
 #
 # Last versions recommanded by security team:
-#   - rhn-base:5.2.1-5.el5
-#   - rhn-cypress:5.2.1-5.el5
-#   - rhn-grail:5.2.1-5.el5
-#   - rhn-html:5.2.1-5.el5
-#   - rhn-moon:5.2.1-5.el5
-#   - rhn-pxt:5.2.1-5.el5
-#   - rhn-sniglets:5.2.1-5.el5
+#   - rhn-base:5.2.1-5.el5.noarch
+#   - rhn-cypress:5.2.1-5.el5.noarch
+#   - rhn-grail:5.2.1-5.el5.noarch
+#   - rhn-html:5.2.1-5.el5.noarch
+#   - rhn-moon:5.2.1-5.el5.noarch
+#   - rhn-pxt:5.2.1-5.el5.noarch
+#   - rhn-sniglets:5.2.1-5.el5.noarch
 #
 # CVE List:
 #

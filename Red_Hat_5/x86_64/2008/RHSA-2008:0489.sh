@@ -1,24 +1,24 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2008:0489
 #
 # Security announcement date: 2008-05-20 14:49:42 UTC
-# Script generation date:     2015-09-10 09:41:37 UTC
+# Script generation date:     2016-01-06 19:08:45 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - gnutls:1.4.1-3.el5_1
-#   - gnutls-debuginfo:1.4.1-3.el5_1
-#   - gnutls-utils:1.4.1-3.el5_1
-#   - gnutls-devel:1.4.1-3.el5_1
+#   - gnutls:1.4.1-3.el5_1.x86_64
+#   - gnutls-debuginfo:1.4.1-3.el5_1.x86_64
+#   - gnutls-utils:1.4.1-3.el5_1.x86_64
+#   - gnutls-devel:1.4.1-3.el5_1.x86_64
 #
 # Last versions recommanded by security team:
-#   - gnutls:1.4.1-16.el5_10
-#   - gnutls-debuginfo:1.4.1-16.el5_10
-#   - gnutls-utils:1.4.1-16.el5_10
-#   - gnutls-devel:1.4.1-16.el5_10
+#   - gnutls:1.4.1-16.el5_10.x86_64
+#   - gnutls-debuginfo:1.4.1-16.el5_10.x86_64
+#   - gnutls-utils:1.4.1-16.el5_10.x86_64
+#   - gnutls-devel:1.4.1-16.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2008-1948

@@ -1,20 +1,20 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1399
 #
 # Security announcement date: 2013-10-01 16:52:40 UTC
-# Script generation date:     2015-09-10 09:45:15 UTC
+# Script generation date:     2016-01-06 19:12:00 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mrg-release:1.3.3-3.el5
-#   - mrg-release:2.4.0-3.el5_9
+#   - mrg-release:1.3.3-3.el5.noarch
+#   - mrg-release:2.4.0-3.el5_9.noarch
 #
 # Last versions recommanded by security team:
-#   - mrg-release:2.5.0-1.el5
-#   - mrg-release:2.5.0-1.el5
+#   - mrg-release:2.5.0-1.el5.noarch
+#   - mrg-release:2.5.0-1.el5.noarch
 #
 # CVE List:
 #

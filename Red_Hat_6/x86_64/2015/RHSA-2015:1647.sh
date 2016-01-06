@@ -1,30 +1,30 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1647
 #
 # Security announcement date: 2015-08-20 09:32:43 UTC
-# Script generation date:     2015-09-10 09:47:50 UTC
+# Script generation date:     2016-01-06 19:14:13 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mariadb55-mariadb:5.5.44-1.el6
-#   - mariadb55-mariadb-bench:5.5.44-1.el6
-#   - mariadb55-mariadb-debuginfo:5.5.44-1.el6
-#   - mariadb55-mariadb-devel:5.5.44-1.el6
-#   - mariadb55-mariadb-libs:5.5.44-1.el6
-#   - mariadb55-mariadb-server:5.5.44-1.el6
-#   - mariadb55-mariadb-test:5.5.44-1.el6
+#   - mariadb55-mariadb:5.5.44-1.el6.x86_64
+#   - mariadb55-mariadb-bench:5.5.44-1.el6.x86_64
+#   - mariadb55-mariadb-debuginfo:5.5.44-1.el6.x86_64
+#   - mariadb55-mariadb-devel:5.5.44-1.el6.x86_64
+#   - mariadb55-mariadb-libs:5.5.44-1.el6.x86_64
+#   - mariadb55-mariadb-server:5.5.44-1.el6.x86_64
+#   - mariadb55-mariadb-test:5.5.44-1.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - mariadb55-mariadb:5.5.44-1.el6
-#   - mariadb55-mariadb-bench:5.5.44-1.el6
-#   - mariadb55-mariadb-debuginfo:5.5.44-1.el6
-#   - mariadb55-mariadb-devel:5.5.44-1.el6
-#   - mariadb55-mariadb-libs:5.5.44-1.el6
-#   - mariadb55-mariadb-server:5.5.44-1.el6
-#   - mariadb55-mariadb-test:5.5.44-1.el6
+#   - mariadb55-mariadb:5.5.44-1.el6.x86_64
+#   - mariadb55-mariadb-bench:5.5.44-1.el6.x86_64
+#   - mariadb55-mariadb-debuginfo:5.5.44-1.el6.x86_64
+#   - mariadb55-mariadb-devel:5.5.44-1.el6.x86_64
+#   - mariadb55-mariadb-libs:5.5.44-1.el6.x86_64
+#   - mariadb55-mariadb-server:5.5.44-1.el6.x86_64
+#   - mariadb55-mariadb-test:5.5.44-1.el6.x86_64
 #
 # CVE List:
 #   - CVE-2015-0433

@@ -1,22 +1,22 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0180
 #
 # Security announcement date: 2011-01-27 18:53:45 UTC
-# Script generation date:     2015-09-10 09:42:52 UTC
+# Script generation date:     2016-01-06 19:09:46 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - pango:1.14.9-8.el5_6.2
-#   - pango-debuginfo:1.14.9-8.el5_6.2
-#   - pango-devel:1.14.9-8.el5_6.2
+#   - pango:1.14.9-8.el5_6.2.x86_64
+#   - pango-debuginfo:1.14.9-8.el5_6.2.x86_64
+#   - pango-devel:1.14.9-8.el5_6.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - pango:1.14.9-8.el5_7.3
-#   - pango-debuginfo:1.14.9-8.el5_7.3
-#   - pango-devel:1.14.9-8.el5_7.3
+#   - pango:1.14.9-8.el5_7.3.x86_64
+#   - pango-debuginfo:1.14.9-8.el5_7.3.x86_64
+#   - pango-devel:1.14.9-8.el5_7.3.x86_64
 #
 # CVE List:
 #   - CVE-2011-0020

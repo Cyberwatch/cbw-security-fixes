@@ -1,28 +1,28 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0140
 #
 # Security announcement date: 2010-03-15 23:19:25 UTC
-# Script generation date:     2015-09-10 09:42:24 UTC
+# Script generation date:     2016-01-06 19:09:23 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - pango:1.2.5-10
-#   - pango-debuginfo:1.2.5-10
-#   - pango-devel:1.2.5-10
-#   - pango:1.14.9-8.el5
-#   - pango-debuginfo:1.14.9-8.el5
-#   - pango-devel:1.14.9-8.el5
+#   - pango:1.2.5-10.x86_64
+#   - pango-debuginfo:1.2.5-10.x86_64
+#   - pango-devel:1.2.5-10.x86_64
+#   - pango:1.14.9-8.el5.x86_64
+#   - pango-debuginfo:1.14.9-8.el5.x86_64
+#   - pango-devel:1.14.9-8.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - pango:1.14.9-8.el5_7.3
-#   - pango-debuginfo:1.14.9-8.el5_7.3
-#   - pango-devel:1.14.9-8.el5_7.3
-#   - pango:1.14.9-8.el5_7.3
-#   - pango-debuginfo:1.14.9-8.el5_7.3
-#   - pango-devel:1.14.9-8.el5_7.3
+#   - pango:1.14.9-8.el5_7.3.x86_64
+#   - pango-debuginfo:1.14.9-8.el5_7.3.x86_64
+#   - pango-devel:1.14.9-8.el5_7.3.x86_64
+#   - pango:1.14.9-8.el5_7.3.x86_64
+#   - pango-debuginfo:1.14.9-8.el5_7.3.x86_64
+#   - pango-devel:1.14.9-8.el5_7.3.x86_64
 #
 # CVE List:
 #   - CVE-2010-0421

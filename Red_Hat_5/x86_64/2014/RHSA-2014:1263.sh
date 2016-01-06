@@ -1,32 +1,32 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1263
 #
 # Security announcement date: 2014-09-18 18:35:38 UTC
-# Script generation date:     2015-09-10 09:46:18 UTC
+# Script generation date:     2016-01-06 19:12:53 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - glusterfs:3.4.0.68rhs-1.el5
-#   - glusterfs-api:3.4.0.68rhs-1.el5
-#   - glusterfs-api-devel:3.4.0.68rhs-1.el5
-#   - glusterfs-debuginfo:3.4.0.68rhs-1.el5
-#   - glusterfs-devel:3.4.0.68rhs-1.el5
-#   - glusterfs-fuse:3.4.0.68rhs-1.el5
-#   - glusterfs-libs:3.4.0.68rhs-1.el5
-#   - glusterfs-rdma:3.4.0.68rhs-1.el5
+#   - glusterfs:3.4.0.68rhs-1.el5.x86_64
+#   - glusterfs-api:3.4.0.68rhs-1.el5.x86_64
+#   - glusterfs-api-devel:3.4.0.68rhs-1.el5.x86_64
+#   - glusterfs-debuginfo:3.4.0.68rhs-1.el5.x86_64
+#   - glusterfs-devel:3.4.0.68rhs-1.el5.x86_64
+#   - glusterfs-fuse:3.4.0.68rhs-1.el5.x86_64
+#   - glusterfs-libs:3.4.0.68rhs-1.el5.x86_64
+#   - glusterfs-rdma:3.4.0.68rhs-1.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - glusterfs:3.7.1-11.el5
-#   - glusterfs-api:3.7.1-11.el5
-#   - glusterfs-api-devel:3.7.1-11.el5
-#   - glusterfs-debuginfo:3.7.1-11.el5
-#   - glusterfs-devel:3.7.1-11.el5
-#   - glusterfs-fuse:3.7.1-11.el5
-#   - glusterfs-libs:3.7.1-11.el5
-#   - glusterfs-rdma:3.7.1-11.el5
+#   - glusterfs:3.7.1-11.el5.x86_64
+#   - glusterfs-api:3.7.1-11.el5.x86_64
+#   - glusterfs-api-devel:3.7.1-11.el5.x86_64
+#   - glusterfs-debuginfo:3.7.1-11.el5.x86_64
+#   - glusterfs-devel:3.7.1-11.el5.x86_64
+#   - glusterfs-fuse:3.7.1-11.el5.x86_64
+#   - glusterfs-libs:3.7.1-11.el5.x86_64
+#   - glusterfs-rdma:3.7.1-11.el5.x86_64
 #
 # CVE List:
 #   - CVE-2013-2099

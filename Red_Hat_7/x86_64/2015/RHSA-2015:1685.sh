@@ -1,20 +1,20 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1685
 #
 # Security announcement date: 2015-08-25 06:09:22 UTC
-# Script generation date:     2015-09-10 09:47:55 UTC
+# Script generation date:     2016-01-06 19:14:17 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - python-keystoneclient:0.9.0-6.el7ost
-#   - python-keystoneclient-doc:0.9.0-6.el7ost
+#   - python-keystoneclient:0.9.0-6.el7ost.noarch
+#   - python-keystoneclient-doc:0.9.0-6.el7ost.noarch
 #
 # Last versions recommanded by security team:
-#   - python-keystoneclient:0.9.0-6.el7ost
-#   - python-keystoneclient-doc:0.9.0-6.el7ost
+#   - python-keystoneclient:0.9.0-6.el7ost.noarch
+#   - python-keystoneclient-doc:0.9.0-6.el7ost.noarch
 #
 # CVE List:
 #   - CVE-2015-1852

@@ -3,32 +3,32 @@
 # Security fix for RHSA-2015:2088
 #
 # Security announcement date: 2015-11-19 21:31:46 UTC
-# Script generation date:     2016-01-01 07:10:01 UTC
+# Script generation date:     2016-01-06 19:14:29 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openssh:6.6.1p1-22.el7
-#   - openssh-askpass:6.6.1p1-22.el7
-#   - openssh-clients:6.6.1p1-22.el7
-#   - openssh-debuginfo:6.6.1p1-22.el7
-#   - openssh-keycat:6.6.1p1-22.el7
-#   - openssh-server:6.6.1p1-22.el7
-#   - openssh-ldap:6.6.1p1-22.el7
-#   - openssh-server-sysvinit:6.6.1p1-22.el7
-#   - pam_ssh_agent_auth:0.9.3-9.22.el7
+#   - openssh:6.6.1p1-22.el7.x86_64
+#   - openssh-askpass:6.6.1p1-22.el7.x86_64
+#   - openssh-clients:6.6.1p1-22.el7.x86_64
+#   - openssh-debuginfo:6.6.1p1-22.el7.x86_64
+#   - openssh-keycat:6.6.1p1-22.el7.x86_64
+#   - openssh-server:6.6.1p1-22.el7.x86_64
+#   - openssh-ldap:6.6.1p1-22.el7.x86_64
+#   - openssh-server-sysvinit:6.6.1p1-22.el7.x86_64
+#   - pam_ssh_agent_auth:0.9.3-9.22.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssh:6.6.1p1-22.el7
-#   - openssh-askpass:6.6.1p1-22.el7
-#   - openssh-clients:6.6.1p1-22.el7
-#   - openssh-debuginfo:6.6.1p1-22.el7
-#   - openssh-keycat:6.6.1p1-22.el7
-#   - openssh-server:6.6.1p1-22.el7
-#   - openssh-ldap:6.6.1p1-22.el7
-#   - openssh-server-sysvinit:6.6.1p1-22.el7
-#   - pam_ssh_agent_auth:0.9.3-9.22.el7
+#   - openssh:6.6.1p1-11.el7.x86_64
+#   - openssh-askpass:6.6.1p1-11.el7.x86_64
+#   - openssh-clients:6.6.1p1-11.el7.x86_64
+#   - openssh-debuginfo:6.6.1p1-11.el7.x86_64
+#   - openssh-keycat:6.6.1p1-11.el7.x86_64
+#   - openssh-server:6.6.1p1-11.el7.x86_64
+#   - openssh-ldap:6.6.1p1-11.el7.x86_64
+#   - openssh-server-sysvinit:6.6.1p1-11.el7.x86_64
+#   - pam_ssh_agent_auth:0.9.3-9.11.el7.x86_64
 #
 # CVE List:
 #   - CVE-2015-5600

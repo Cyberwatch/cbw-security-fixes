@@ -1,24 +1,24 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0127
 #
 # Security announcement date: 2013-01-08 06:51:42 UTC
-# Script generation date:     2015-09-10 09:44:28 UTC
+# Script generation date:     2016-01-06 19:11:21 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libvirt:0.8.2-29.el5
-#   - libvirt-debuginfo:0.8.2-29.el5
-#   - libvirt-devel:0.8.2-29.el5
-#   - libvirt-python:0.8.2-29.el5
+#   - libvirt:0.8.2-29.el5.x86_64
+#   - libvirt-debuginfo:0.8.2-29.el5.x86_64
+#   - libvirt-devel:0.8.2-29.el5.x86_64
+#   - libvirt-python:0.8.2-29.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - libvirt:0.8.2-29.el5
-#   - libvirt-debuginfo:0.8.2-29.el5
-#   - libvirt-devel:0.8.2-29.el5
-#   - libvirt-python:0.8.2-29.el5
+#   - libvirt:0.8.2-29.el5.x86_64
+#   - libvirt-debuginfo:0.8.2-29.el5.x86_64
+#   - libvirt-devel:0.8.2-29.el5.x86_64
+#   - libvirt-python:0.8.2-29.el5.x86_64
 #
 # CVE List:
 #   - CVE-2012-2693

@@ -3,22 +3,22 @@
 # Security fix for RHSA-2015:2594
 #
 # Security announcement date: 2015-12-09 15:06:22 UTC
-# Script generation date:     2016-01-01 07:10:20 UTC
+# Script generation date:     2016-01-06 19:14:38 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libpng:1.2.49-2.el6_7
-#   - libpng-debuginfo:1.2.49-2.el6_7
-#   - libpng-devel:1.2.49-2.el6_7
-#   - libpng-static:1.2.49-2.el6_7
+#   - libpng:1.2.49-2.el6_7.x86_64
+#   - libpng-debuginfo:1.2.49-2.el6_7.x86_64
+#   - libpng-devel:1.2.49-2.el6_7.x86_64
+#   - libpng-static:1.2.49-2.el6_7.x86_64
 #
 # Last versions recommanded by security team:
-#   - libpng:1.2.49-2.el6_7
-#   - libpng-debuginfo:1.2.49-2.el6_7
-#   - libpng-devel:1.2.49-2.el6_7
-#   - libpng-static:1.2.49-2.el6_7
+#   - libpng:1.2.49-1.el6_2.x86_64
+#   - libpng-debuginfo:1.2.49-1.el6_2.x86_64
+#   - libpng-devel:1.2.49-1.el6_2.x86_64
+#   - libpng-static:1.2.49-1.el6_2.x86_64
 #
 # CVE List:
 #   - CVE-2015-7981

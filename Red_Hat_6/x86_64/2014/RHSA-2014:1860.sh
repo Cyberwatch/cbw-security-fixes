@@ -1,30 +1,30 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1860
 #
 # Security announcement date: 2014-11-17 11:19:21 UTC
-# Script generation date:     2015-09-10 09:46:43 UTC
+# Script generation date:     2016-01-06 19:13:16 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mysql55-mysql:5.5.40-1.el6
-#   - mysql55-mysql-bench:5.5.40-1.el6
-#   - mysql55-mysql-debuginfo:5.5.40-1.el6
-#   - mysql55-mysql-devel:5.5.40-1.el6
-#   - mysql55-mysql-libs:5.5.40-1.el6
-#   - mysql55-mysql-server:5.5.40-1.el6
-#   - mysql55-mysql-test:5.5.40-1.el6
+#   - mysql55-mysql:5.5.40-1.el6.x86_64
+#   - mysql55-mysql-bench:5.5.40-1.el6.x86_64
+#   - mysql55-mysql-debuginfo:5.5.40-1.el6.x86_64
+#   - mysql55-mysql-devel:5.5.40-1.el6.x86_64
+#   - mysql55-mysql-libs:5.5.40-1.el6.x86_64
+#   - mysql55-mysql-server:5.5.40-1.el6.x86_64
+#   - mysql55-mysql-test:5.5.40-1.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - mysql55-mysql:5.5.45-1.el6
-#   - mysql55-mysql-bench:5.5.45-1.el6
-#   - mysql55-mysql-debuginfo:5.5.45-1.el6
-#   - mysql55-mysql-devel:5.5.45-1.el6
-#   - mysql55-mysql-libs:5.5.45-1.el6
-#   - mysql55-mysql-server:5.5.45-1.el6
-#   - mysql55-mysql-test:5.5.45-1.el6
+#   - mysql55-mysql:5.5.45-1.el6.x86_64
+#   - mysql55-mysql-bench:5.5.45-1.el6.x86_64
+#   - mysql55-mysql-debuginfo:5.5.45-1.el6.x86_64
+#   - mysql55-mysql-devel:5.5.45-1.el6.x86_64
+#   - mysql55-mysql-libs:5.5.45-1.el6.x86_64
+#   - mysql55-mysql-server:5.5.45-1.el6.x86_64
+#   - mysql55-mysql-test:5.5.45-1.el6.x86_64
 #
 # CVE List:
 #   - CVE-2014-2494

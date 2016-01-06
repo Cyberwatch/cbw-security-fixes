@@ -1,28 +1,28 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:0313
 #
 # Security announcement date: 2009-03-04 19:53:04 UTC
-# Script generation date:     2015-09-10 09:41:56 UTC
+# Script generation date:     2016-01-06 19:09:01 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - wireshark:1.0.6-EL3.3
-#   - wireshark-debuginfo:1.0.6-EL3.3
-#   - wireshark-gnome:1.0.6-EL3.3
-#   - wireshark:1.0.6-2.el5_3
-#   - wireshark-debuginfo:1.0.6-2.el5_3
-#   - wireshark-gnome:1.0.6-2.el5_3
+#   - wireshark:1.0.6-EL3.3.x86_64
+#   - wireshark-debuginfo:1.0.6-EL3.3.x86_64
+#   - wireshark-gnome:1.0.6-EL3.3.x86_64
+#   - wireshark:1.0.6-2.el5_3.x86_64
+#   - wireshark-debuginfo:1.0.6-2.el5_3.x86_64
+#   - wireshark-gnome:1.0.6-2.el5_3.x86_64
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.0.15-7.el5_11
-#   - wireshark-debuginfo:1.0.15-7.el5_11
-#   - wireshark-gnome:1.0.15-7.el5_11
-#   - wireshark:1.0.15-7.el5_11
-#   - wireshark-debuginfo:1.0.15-7.el5_11
-#   - wireshark-gnome:1.0.15-7.el5_11
+#   - wireshark:1.0.15-7.el5_11.x86_64
+#   - wireshark-debuginfo:1.0.15-7.el5_11.x86_64
+#   - wireshark-gnome:1.0.15-7.el5_11.x86_64
+#   - wireshark:1.0.15-7.el5_11.x86_64
+#   - wireshark-debuginfo:1.0.15-7.el5_11.x86_64
+#   - wireshark-gnome:1.0.15-7.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2008-4680

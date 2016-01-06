@@ -1,30 +1,30 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1939
 #
 # Security announcement date: 2014-12-02 17:16:45 UTC
-# Script generation date:     2015-09-10 09:46:46 UTC
+# Script generation date:     2016-01-06 19:13:19 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openstack-trove:2014.1.3-1.el7ost
-#   - openstack-trove-api:2014.1.3-1.el7ost
-#   - openstack-trove-common:2014.1.3-1.el7ost
-#   - openstack-trove-conductor:2014.1.3-1.el7ost
-#   - openstack-trove-guestagent:2014.1.3-1.el7ost
-#   - openstack-trove-taskmanager:2014.1.3-1.el7ost
-#   - python-trove:2014.1.3-1.el7ost
+#   - openstack-trove:2014.1.3-1.el7ost.noarch
+#   - openstack-trove-api:2014.1.3-1.el7ost.noarch
+#   - openstack-trove-common:2014.1.3-1.el7ost.noarch
+#   - openstack-trove-conductor:2014.1.3-1.el7ost.noarch
+#   - openstack-trove-guestagent:2014.1.3-1.el7ost.noarch
+#   - openstack-trove-taskmanager:2014.1.3-1.el7ost.noarch
+#   - python-trove:2014.1.3-1.el7ost.noarch
 #
 # Last versions recommanded by security team:
-#   - openstack-trove:2014.1.3-1.el7ost
-#   - openstack-trove-api:2014.1.3-1.el7ost
-#   - openstack-trove-common:2014.1.3-1.el7ost
-#   - openstack-trove-conductor:2014.1.3-1.el7ost
-#   - openstack-trove-guestagent:2014.1.3-1.el7ost
-#   - openstack-trove-taskmanager:2014.1.3-1.el7ost
-#   - python-trove:2014.1.3-1.el7ost
+#   - openstack-trove:2014.1.3-1.el7ost.noarch
+#   - openstack-trove-api:2014.1.3-1.el7ost.noarch
+#   - openstack-trove-common:2014.1.3-1.el7ost.noarch
+#   - openstack-trove-conductor:2014.1.3-1.el7ost.noarch
+#   - openstack-trove-guestagent:2014.1.3-1.el7ost.noarch
+#   - openstack-trove-taskmanager:2014.1.3-1.el7ost.noarch
+#   - python-trove:2014.1.3-1.el7ost.noarch
 #
 # CVE List:
 #   - CVE-2014-7230

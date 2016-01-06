@@ -1,48 +1,48 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1542
 #
 # Security announcement date: 2012-12-04 20:56:03 UTC
-# Script generation date:     2015-09-10 09:44:20 UTC
+# Script generation date:     2016-01-06 19:11:15 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - converge-ui-devel:1.0.4-1.el6cf
-#   - puppet:2.6.17-2.el6cf
-#   - puppet-server:2.6.17-2.el6cf
-#   - rubygem-actionpack:3.0.10-10.el6cf
-#   - rubygem-activerecord:3.0.10-6.el6cf
-#   - rubygem-activesupport:3.0.10-4.el6cf
-#   - rubygem-chunky_png:1.2.0-3.el6cf
-#   - rubygem-compass:0.11.5-2.el6cf
-#   - rubygem-compass-960-plugin:0.10.4-2.el6cf
-#   - rubygem-compass-960-plugin-doc:0.10.4-2.el6cf
-#   - rubygem-delayed_job:2.1.4-2.el6cf
-#   - rubygem-delayed_job-doc:2.1.4-2.el6cf
-#   - rubygem-ldap_fluff:0.1.3-1.el6_3
-#   - rubygem-mail:2.3.0-3.el6cf
-#   - rubygem-mail-doc:2.3.0-3.el6cf
-#   - rubygem-net-ldap:0.1.1-3.el6cf
+#   - converge-ui-devel:1.0.4-1.el6cf.noarch
+#   - puppet:2.6.17-2.el6cf.noarch
+#   - puppet-server:2.6.17-2.el6cf.noarch
+#   - rubygem-actionpack:3.0.10-10.el6cf.noarch
+#   - rubygem-activerecord:3.0.10-6.el6cf.noarch
+#   - rubygem-activesupport:3.0.10-4.el6cf.noarch
+#   - rubygem-chunky_png:1.2.0-3.el6cf.noarch
+#   - rubygem-compass:0.11.5-2.el6cf.noarch
+#   - rubygem-compass-960-plugin:0.10.4-2.el6cf.noarch
+#   - rubygem-compass-960-plugin-doc:0.10.4-2.el6cf.noarch
+#   - rubygem-delayed_job:2.1.4-2.el6cf.noarch
+#   - rubygem-delayed_job-doc:2.1.4-2.el6cf.noarch
+#   - rubygem-ldap_fluff:0.1.3-1.el6_3.noarch
+#   - rubygem-mail:2.3.0-3.el6cf.noarch
+#   - rubygem-mail-doc:2.3.0-3.el6cf.noarch
+#   - rubygem-net-ldap:0.1.1-3.el6cf.noarch
 #
 # Last versions recommanded by security team:
-#   - converge-ui-devel:1.0.4-1.el6cf
-#   - puppet:3.2.4-1.el6_4
-#   - puppet-server:3.2.4-1.el6_4
-#   - rubygem-actionpack:3.0.13-8.el6op
-#   - rubygem-activerecord:3.0.13-3.el6op
-#   - rubygem-activesupport:3.0.10-9.el6cf
-#   - rubygem-chunky_png:1.2.0-3.el6cf
-#   - rubygem-compass:0.11.5-2.el6cf
-#   - rubygem-compass-960-plugin:0.10.4-2.el6cf
-#   - rubygem-compass-960-plugin-doc:0.10.4-2.el6cf
-#   - rubygem-delayed_job:2.1.4-3.el6cf
-#   - rubygem-delayed_job-doc:2.1.4-3.el6cf
-#   - rubygem-ldap_fluff:0.1.3-1.el6_3
-#   - rubygem-mail:2.3.0-3.el6cf
-#   - rubygem-mail-doc:2.3.0-3.el6cf
-#   - rubygem-net-ldap:0.1.1-3.el6cf
+#   - converge-ui-devel:1.0.4-1.el6cf.noarch
+#   - puppet:3.2.4-1.el6_4.noarch
+#   - puppet-server:3.2.4-1.el6_4.noarch
+#   - rubygem-actionpack:3.0.13-8.el6op.noarch
+#   - rubygem-activerecord:3.0.13-3.el6op.noarch
+#   - rubygem-activesupport:3.0.10-9.el6cf.noarch
+#   - rubygem-chunky_png:1.2.0-3.el6cf.noarch
+#   - rubygem-compass:0.11.5-2.el6cf.noarch
+#   - rubygem-compass-960-plugin:0.10.4-2.el6cf.noarch
+#   - rubygem-compass-960-plugin-doc:0.10.4-2.el6cf.noarch
+#   - rubygem-delayed_job:2.1.4-3.el6cf.noarch
+#   - rubygem-delayed_job-doc:2.1.4-3.el6cf.noarch
+#   - rubygem-ldap_fluff:0.1.3-1.el6_3.noarch
+#   - rubygem-mail:2.3.0-3.el6cf.noarch
+#   - rubygem-mail-doc:2.3.0-3.el6cf.noarch
+#   - rubygem-net-ldap:0.1.1-3.el6cf.noarch
 #
 # CVE List:
 #   - CVE-2012-1986

@@ -1,28 +1,28 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0442
 #
 # Security announcement date: 2015-03-05 14:37:15 UTC
-# Script generation date:     2015-09-10 09:47:06 UTC
+# Script generation date:     2016-01-06 19:13:34 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ipa-client:4.1.0-18.el7
-#   - ipa-debuginfo:4.1.0-18.el7
-#   - ipa-python:4.1.0-18.el7
-#   - ipa-admintools:4.1.0-18.el7
-#   - ipa-server:4.1.0-18.el7
-#   - ipa-server-trust-ad:4.1.0-18.el7
+#   - ipa-client:4.1.0-18.el7.x86_64
+#   - ipa-debuginfo:4.1.0-18.el7.x86_64
+#   - ipa-python:4.1.0-18.el7.x86_64
+#   - ipa-admintools:4.1.0-18.el7.x86_64
+#   - ipa-server:4.1.0-18.el7.x86_64
+#   - ipa-server-trust-ad:4.1.0-18.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - ipa-client:4.1.0-18.el7_1.3
-#   - ipa-debuginfo:4.1.0-18.el7_1.3
-#   - ipa-python:4.1.0-18.el7_1.3
-#   - ipa-admintools:4.1.0-18.el7_1.3
-#   - ipa-server:4.1.0-18.el7_1.3
-#   - ipa-server-trust-ad:4.1.0-18.el7_1.3
+#   - ipa-client:4.1.0-18.el7_1.3.x86_64
+#   - ipa-debuginfo:4.1.0-18.el7_1.3.x86_64
+#   - ipa-python:4.1.0-18.el7_1.3.x86_64
+#   - ipa-admintools:4.1.0-18.el7_1.3.x86_64
+#   - ipa-server:4.1.0-18.el7_1.3.x86_64
+#   - ipa-server-trust-ad:4.1.0-18.el7_1.3.x86_64
 #
 # CVE List:
 #   - CVE-2010-5312

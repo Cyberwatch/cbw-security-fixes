@@ -1,30 +1,30 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0439
 #
 # Security announcement date: 2015-03-05 14:38:10 UTC
-# Script generation date:     2015-09-10 09:47:06 UTC
+# Script generation date:     2016-01-06 19:13:34 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - krb5-debuginfo:1.12.2-14.el7
-#   - krb5-libs:1.12.2-14.el7
-#   - krb5-pkinit:1.12.2-14.el7
-#   - krb5-workstation:1.12.2-14.el7
-#   - krb5-devel:1.12.2-14.el7
-#   - krb5-server:1.12.2-14.el7
-#   - krb5-server-ldap:1.12.2-14.el7
+#   - krb5-debuginfo:1.12.2-14.el7.x86_64
+#   - krb5-libs:1.12.2-14.el7.x86_64
+#   - krb5-pkinit:1.12.2-14.el7.x86_64
+#   - krb5-workstation:1.12.2-14.el7.x86_64
+#   - krb5-devel:1.12.2-14.el7.x86_64
+#   - krb5-server:1.12.2-14.el7.x86_64
+#   - krb5-server-ldap:1.12.2-14.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - krb5-debuginfo:1.12.2-14.el7
-#   - krb5-libs:1.12.2-14.el7
-#   - krb5-pkinit:1.12.2-14.el7
-#   - krb5-workstation:1.12.2-14.el7
-#   - krb5-devel:1.12.2-14.el7
-#   - krb5-server:1.12.2-14.el7
-#   - krb5-server-ldap:1.12.2-14.el7
+#   - krb5-debuginfo:1.12.2-14.el7.x86_64
+#   - krb5-libs:1.12.2-14.el7.x86_64
+#   - krb5-pkinit:1.12.2-14.el7.x86_64
+#   - krb5-workstation:1.12.2-14.el7.x86_64
+#   - krb5-devel:1.12.2-14.el7.x86_64
+#   - krb5-server:1.12.2-14.el7.x86_64
+#   - krb5-server-ldap:1.12.2-14.el7.x86_64
 #
 # CVE List:
 #   - CVE-2014-4341

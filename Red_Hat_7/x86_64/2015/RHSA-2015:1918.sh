@@ -1,18 +1,18 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1918
 #
 # Security announcement date: 2015-10-20 20:43:26 UTC
-# Script generation date:     2015-10-21 06:18:12 UTC
+# Script generation date:     2016-01-06 19:14:25 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - swiftonfile:1.13.1-6.el7rhgs
+#   - swiftonfile:1.13.1-6.el7rhgs.noarch
 #
 # Last versions recommanded by security team:
-#   - swiftonfile:1.13.1-6.el7rhgs
+#   - swiftonfile:1.13.1-6.el7rhgs.noarch
 #
 # CVE List:
 #   - CVE-2015-5242

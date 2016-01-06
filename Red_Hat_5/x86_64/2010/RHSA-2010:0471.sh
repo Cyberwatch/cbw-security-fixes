@@ -1,20 +1,20 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0471
 #
 # Security announcement date: 2010-06-14 23:25:07 UTC
-# Script generation date:     2015-09-10 09:42:30 UTC
+# Script generation date:     2016-01-06 19:09:28 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.6.0-ibm:1.6.0.8-1jpp.1.el5
-#   - java-1.6.0-ibm-devel:1.6.0.8-1jpp.1.el5
+#   - java-1.6.0-ibm:1.6.0.8-1jpp.1.el5.x86_64
+#   - java-1.6.0-ibm-devel:1.6.0.8-1jpp.1.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-ibm:1.6.0.16.7-1jpp.1.el5
-#   - java-1.6.0-ibm-devel:1.6.0.16.7-1jpp.1.el5
+#   - java-1.6.0-ibm:1.6.0.16.7-1jpp.1.el5.x86_64
+#   - java-1.6.0-ibm-devel:1.6.0.16.7-1jpp.1.el5.x86_64
 #
 # CVE List:
 #   - CVE-2010-0084

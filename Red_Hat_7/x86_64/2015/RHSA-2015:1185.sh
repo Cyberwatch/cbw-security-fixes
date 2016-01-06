@@ -1,34 +1,34 @@
-# CYBERWATCH SAS - 2015
+# CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1185
 #
 # Security announcement date: 2015-06-25 07:39:10 UTC
-# Script generation date:     2015-11-04 19:16:04 UTC
+# Script generation date:     2016-01-06 19:13:57 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - nss:3.19.1-3.el7_1
-#   - nss-debuginfo:3.19.1-3.el7_1
-#   - nss-sysinit:3.19.1-3.el7_1
-#   - nss-tools:3.19.1-3.el7_1
-#   - nss-util:3.19.1-1.el7_1
-#   - nss-util-debuginfo:3.19.1-1.el7_1
-#   - nss-devel:3.19.1-3.el7_1
-#   - nss-pkcs11-devel:3.19.1-3.el7_1
-#   - nss-util-devel:3.19.1-1.el7_1
+#   - nss:3.19.1-3.el7_1.x86_64
+#   - nss-debuginfo:3.19.1-3.el7_1.x86_64
+#   - nss-sysinit:3.19.1-3.el7_1.x86_64
+#   - nss-tools:3.19.1-3.el7_1.x86_64
+#   - nss-util:3.19.1-1.el7_1.x86_64
+#   - nss-util-debuginfo:3.19.1-1.el7_1.x86_64
+#   - nss-devel:3.19.1-3.el7_1.x86_64
+#   - nss-pkcs11-devel:3.19.1-3.el7_1.x86_64
+#   - nss-util-devel:3.19.1-1.el7_1.x86_64
 #
 # Last versions recommanded by security team:
-#   - nss:3.19.1-7.el7_1.2
-#   - nss-debuginfo:3.19.1-7.el7_1.2
-#   - nss-sysinit:3.19.1-7.el7_1.2
-#   - nss-tools:3.19.1-7.el7_1.2
-#   - nss-util:3.19.1-4.el7_1
-#   - nss-util-debuginfo:3.19.1-4.el7_1
-#   - nss-devel:3.19.1-7.el7_1.2
-#   - nss-pkcs11-devel:3.19.1-7.el7_1.2
-#   - nss-util-devel:3.19.1-4.el7_1
+#   - nss:3.19.1-3.el7_1.x86_64
+#   - nss-debuginfo:3.19.1-3.el7_1.x86_64
+#   - nss-sysinit:3.19.1-3.el7_1.x86_64
+#   - nss-tools:3.19.1-3.el7_1.x86_64
+#   - nss-util:3.19.1-1.el7_1.x86_64
+#   - nss-util-debuginfo:3.19.1-1.el7_1.x86_64
+#   - nss-devel:3.19.1-3.el7_1.x86_64
+#   - nss-pkcs11-devel:3.19.1-3.el7_1.x86_64
+#   - nss-util-devel:3.19.1-1.el7_1.x86_64
 #
 # CVE List:
 #   - CVE-2015-4000
