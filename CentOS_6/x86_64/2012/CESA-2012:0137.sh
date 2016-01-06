@@ -3,38 +3,38 @@
 # Security fix for CESA-2012:0137
 #
 # Security announcement date: 2012-02-16 13:36:55 UTC
-# Script generation date:     2016-01-01 07:05:54 UTC
+# Script generation date:     2016-01-06 19:07:00 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - kpathsea:2007-57.el6_2
-#   - kpathsea-devel:2007-57.el6_2
-#   - mendexk:2.6e-57.el6_2
-#   - texlive:2007-57.el6_2
-#   - texlive-afm:2007-57.el6_2
-#   - texlive-context:2007-57.el6_2
-#   - texlive-dvips:2007-57.el6_2
-#   - texlive-dviutils:2007-57.el6_2
-#   - texlive-east-asian:2007-57.el6_2
-#   - texlive-latex:2007-57.el6_2
-#   - texlive-utils:2007-57.el6_2
-#   - texlive-xetex:2007-57.el6_2
+#   - kpathsea:2007-57.el6_2.x86_64
+#   - kpathsea-devel:2007-57.el6_2.x86_64
+#   - mendexk:2.6e-57.el6_2.x86_64
+#   - texlive:2007-57.el6_2.x86_64
+#   - texlive-afm:2007-57.el6_2.x86_64
+#   - texlive-context:2007-57.el6_2.x86_64
+#   - texlive-dvips:2007-57.el6_2.x86_64
+#   - texlive-dviutils:2007-57.el6_2.x86_64
+#   - texlive-east-asian:2007-57.el6_2.x86_64
+#   - texlive-latex:2007-57.el6_2.x86_64
+#   - texlive-utils:2007-57.el6_2.x86_64
+#   - texlive-xetex:2007-57.el6_2.x86_64
 #
 # Last versions recommanded by security team:
-#   - kpathsea:2007-57.el6_2
-#   - kpathsea-devel:2007-57.el6_2
-#   - mendexk:2.6e-57.el6_2
-#   - texlive:2007-57.el6_2
-#   - texlive-afm:2007-57.el6_2
-#   - texlive-context:2007-57.el6_2
-#   - texlive-dvips:2007-57.el6_2
-#   - texlive-dviutils:2007-57.el6_2
-#   - texlive-east-asian:2007-57.el6_2
-#   - texlive-latex:2007-57.el6_2
-#   - texlive-utils:2007-57.el6_2
-#   - texlive-xetex:2007-57.el6_2
+#   - kpathsea:2007-57.el6_2.x86_64
+#   - kpathsea-devel:2007-57.el6_2.x86_64
+#   - mendexk:2.6e-57.el6_2.x86_64
+#   - texlive:2007-57.el6_2.x86_64
+#   - texlive-afm:2007-57.el6_2.x86_64
+#   - texlive-context:2007-57.el6_2.x86_64
+#   - texlive-dvips:2007-57.el6_2.x86_64
+#   - texlive-dviutils:2007-57.el6_2.x86_64
+#   - texlive-east-asian:2007-57.el6_2.x86_64
+#   - texlive-latex:2007-57.el6_2.x86_64
+#   - texlive-utils:2007-57.el6_2.x86_64
+#   - texlive-xetex:2007-57.el6_2.x86_64
 #
 # CVE List:
 #   - CVE-2011-0764

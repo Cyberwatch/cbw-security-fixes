@@ -3,32 +3,32 @@
 # Security fix for CESA-2015:1636
 #
 # Security announcement date: 2015-08-17 16:54:59 UTC
-# Script generation date:     2016-01-01 07:07:15 UTC
+# Script generation date:     2016-01-06 19:08:19 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - net-snmp:5.7.2-20.el7_1.1
-#   - net-snmp-agent-libs:5.7.2-20.el7_1.1
-#   - net-snmp-devel:5.7.2-20.el7_1.1
-#   - net-snmp-gui:5.7.2-20.el7_1.1
-#   - net-snmp-libs:5.7.2-20.el7_1.1
-#   - net-snmp-perl:5.7.2-20.el7_1.1
-#   - net-snmp-python:5.7.2-20.el7_1.1
-#   - net-snmp-sysvinit:5.7.2-20.el7_1.1
-#   - net-snmp-utils:5.7.2-20.el7_1.1
+#   - net-snmp:5.7.2-20.el7_1.1.x86_64
+#   - net-snmp-agent-libs:5.7.2-20.el7_1.1.x86_64
+#   - net-snmp-devel:5.7.2-20.el7_1.1.x86_64
+#   - net-snmp-gui:5.7.2-20.el7_1.1.x86_64
+#   - net-snmp-libs:5.7.2-20.el7_1.1.x86_64
+#   - net-snmp-perl:5.7.2-20.el7_1.1.x86_64
+#   - net-snmp-python:5.7.2-20.el7_1.1.x86_64
+#   - net-snmp-sysvinit:5.7.2-20.el7_1.1.x86_64
+#   - net-snmp-utils:5.7.2-20.el7_1.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - net-snmp:5.7.2-20.el7_1.1
-#   - net-snmp-agent-libs:5.7.2-20.el7_1.1
-#   - net-snmp-devel:5.7.2-20.el7_1.1
-#   - net-snmp-gui:5.7.2-20.el7_1.1
-#   - net-snmp-libs:5.7.2-20.el7_1.1
-#   - net-snmp-perl:5.7.2-20.el7_1.1
-#   - net-snmp-python:5.7.2-20.el7_1.1
-#   - net-snmp-sysvinit:5.7.2-20.el7_1.1
-#   - net-snmp-utils:5.7.2-20.el7_1.1
+#   - net-snmp:5.7.2-24.el7.x86_64
+#   - net-snmp-agent-libs:5.7.2-24.el7.x86_64
+#   - net-snmp-devel:5.7.2-24.el7.x86_64
+#   - net-snmp-gui:5.7.2-24.el7.x86_64
+#   - net-snmp-libs:5.7.2-24.el7.x86_64
+#   - net-snmp-perl:5.7.2-24.el7.x86_64
+#   - net-snmp-python:5.7.2-24.el7.x86_64
+#   - net-snmp-sysvinit:5.7.2-24.el7.x86_64
+#   - net-snmp-utils:5.7.2-24.el7.x86_64
 #
 # CVE List:
 #   - CVE-2015-5621

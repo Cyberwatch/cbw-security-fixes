@@ -3,16 +3,16 @@
 # Security fix for CESA-2009:0479
 #
 # Security announcement date: 2009-05-19 15:03:41 UTC
-# Script generation date:     2016-01-01 07:05:17 UTC
+# Script generation date:     2016-01-06 19:06:25 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - perl-DBD-Pg:1.49-2.el5_3.1
+#   - perl-DBD-Pg:1.49-2.el5_3.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - perl-DBD-Pg:1.49-4.el5_8
+#   - perl-DBD-Pg:1.49-4.el5_8.x86_64
 #
 # CVE List:
 #   - CVE-2009-0663

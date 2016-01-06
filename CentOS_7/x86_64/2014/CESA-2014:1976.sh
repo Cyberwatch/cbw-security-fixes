@@ -3,32 +3,32 @@
 # Security fix for CESA-2014:1976
 #
 # Security announcement date: 2014-12-10 12:49:42 UTC
-# Script generation date:     2016-01-01 07:06:59 UTC
+# Script generation date:     2016-01-06 19:08:03 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rpm:4.11.1-18.el7_0
-#   - rpm-apidocs:4.11.1-18.el7_0
-#   - rpm-build:4.11.1-18.el7_0
-#   - rpm-build-libs:4.11.1-18.el7_0
-#   - rpm-cron:4.11.1-18.el7_0
-#   - rpm-devel:4.11.1-18.el7_0
-#   - rpm-libs:4.11.1-18.el7_0
-#   - rpm-python:4.11.1-18.el7_0
-#   - rpm-sign:4.11.1-18.el7_0
+#   - rpm:4.11.1-18.el7_0.x86_64
+#   - rpm-apidocs:4.11.1-18.el7_0.noarch
+#   - rpm-build:4.11.1-18.el7_0.x86_64
+#   - rpm-build-libs:4.11.1-18.el7_0.x86_64
+#   - rpm-cron:4.11.1-18.el7_0.noarch
+#   - rpm-devel:4.11.1-18.el7_0.x86_64
+#   - rpm-libs:4.11.1-18.el7_0.x86_64
+#   - rpm-python:4.11.1-18.el7_0.x86_64
+#   - rpm-sign:4.11.1-18.el7_0.x86_64
 #
 # Last versions recommanded by security team:
-#   - rpm:4.11.1-18.el7_0
-#   - rpm-apidocs:4.11.1-18.el7_0
-#   - rpm-build:4.11.1-18.el7_0
-#   - rpm-build-libs:4.11.1-18.el7_0
-#   - rpm-cron:4.11.1-18.el7_0
-#   - rpm-devel:4.11.1-18.el7_0
-#   - rpm-libs:4.11.1-18.el7_0
-#   - rpm-python:4.11.1-18.el7_0
-#   - rpm-sign:4.11.1-18.el7_0
+#   - rpm:4.11.1-18.el7_0.x86_64
+#   - rpm-apidocs:4.11.1-18.el7_0.noarch
+#   - rpm-build:4.11.1-18.el7_0.x86_64
+#   - rpm-build-libs:4.11.1-18.el7_0.x86_64
+#   - rpm-cron:4.11.1-18.el7_0.noarch
+#   - rpm-devel:4.11.1-18.el7_0.x86_64
+#   - rpm-libs:4.11.1-18.el7_0.x86_64
+#   - rpm-python:4.11.1-18.el7_0.x86_64
+#   - rpm-sign:4.11.1-18.el7_0.x86_64
 #
 # CVE List:
 #   - CVE-2013-6435

@@ -3,32 +3,32 @@
 # Security fix for CESA-2014:1911
 #
 # Security announcement date: 2014-12-01 12:57:41 UTC
-# Script generation date:     2016-01-01 07:06:58 UTC
+# Script generation date:     2016-01-06 19:08:02 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ruby:1.8.7.374-3.el6_6
-#   - ruby-devel:1.8.7.374-3.el6_6
-#   - ruby-docs:1.8.7.374-3.el6_6
-#   - ruby-irb:1.8.7.374-3.el6_6
-#   - ruby-libs:1.8.7.374-3.el6_6
-#   - ruby-rdoc:1.8.7.374-3.el6_6
-#   - ruby-ri:1.8.7.374-3.el6_6
-#   - ruby-static:1.8.7.374-3.el6_6
-#   - ruby-tcltk:1.8.7.374-3.el6_6
+#   - ruby:1.8.7.374-3.el6_6.x86_64
+#   - ruby-devel:1.8.7.374-3.el6_6.x86_64
+#   - ruby-docs:1.8.7.374-3.el6_6.x86_64
+#   - ruby-irb:1.8.7.374-3.el6_6.x86_64
+#   - ruby-libs:1.8.7.374-3.el6_6.x86_64
+#   - ruby-rdoc:1.8.7.374-3.el6_6.x86_64
+#   - ruby-ri:1.8.7.374-3.el6_6.x86_64
+#   - ruby-static:1.8.7.374-3.el6_6.x86_64
+#   - ruby-tcltk:1.8.7.374-3.el6_6.x86_64
 #
 # Last versions recommanded by security team:
-#   - ruby:1.8.7.374-3.el6_6
-#   - ruby-devel:1.8.7.374-3.el6_6
-#   - ruby-docs:1.8.7.374-3.el6_6
-#   - ruby-irb:1.8.7.374-3.el6_6
-#   - ruby-libs:1.8.7.374-3.el6_6
-#   - ruby-rdoc:1.8.7.374-3.el6_6
-#   - ruby-ri:1.8.7.374-3.el6_6
-#   - ruby-static:1.8.7.374-3.el6_6
-#   - ruby-tcltk:1.8.7.374-3.el6_6
+#   - ruby:1.8.7.374-3.el6_6.x86_64
+#   - ruby-devel:1.8.7.374-3.el6_6.x86_64
+#   - ruby-docs:1.8.7.374-3.el6_6.x86_64
+#   - ruby-irb:1.8.7.374-3.el6_6.x86_64
+#   - ruby-libs:1.8.7.374-3.el6_6.x86_64
+#   - ruby-rdoc:1.8.7.374-3.el6_6.x86_64
+#   - ruby-ri:1.8.7.374-3.el6_6.x86_64
+#   - ruby-static:1.8.7.374-3.el6_6.x86_64
+#   - ruby-tcltk:1.8.7.374-3.el6_6.x86_64
 #
 # CVE List:
 #   - CVE-2014-8080

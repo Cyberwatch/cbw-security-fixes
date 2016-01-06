@@ -3,24 +3,24 @@
 # Security fix for CESA-2015:0066
 #
 # Security announcement date: 2015-01-20 21:13:20 UTC
-# Script generation date:     2016-01-01 07:07:01 UTC
+# Script generation date:     2016-01-06 19:08:05 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openssl:1.0.1e-34.el7_0.7
-#   - openssl-devel:1.0.1e-34.el7_0.7
-#   - openssl-libs:1.0.1e-34.el7_0.7
-#   - openssl-perl:1.0.1e-34.el7_0.7
-#   - openssl-static:1.0.1e-34.el7_0.7
+#   - openssl:1.0.1e-34.el7_0.7.x86_64
+#   - openssl-devel:1.0.1e-34.el7_0.7.x86_64
+#   - openssl-libs:1.0.1e-34.el7_0.7.x86_64
+#   - openssl-perl:1.0.1e-34.el7_0.7.x86_64
+#   - openssl-static:1.0.1e-34.el7_0.7.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-51.el7_2.1
-#   - openssl-devel:1.0.1e-51.el7_2.1
-#   - openssl-libs:1.0.1e-51.el7_2.1
-#   - openssl-perl:1.0.1e-51.el7_2.1
-#   - openssl-static:1.0.1e-51.el7_2.1
+#   - openssl:1.0.1e-51.el7_2.1.x86_64
+#   - openssl-devel:1.0.1e-51.el7_2.1.x86_64
+#   - openssl-libs:1.0.1e-51.el7_2.1.x86_64
+#   - openssl-perl:1.0.1e-51.el7_2.1.x86_64
+#   - openssl-static:1.0.1e-51.el7_2.1.x86_64
 #
 # CVE List:
 #   - CVE-2014-3570

@@ -3,22 +3,22 @@
 # Security fix for CESA-2013:0525
 #
 # Security announcement date: 2013-03-09 00:42:23 UTC
-# Script generation date:     2016-01-01 07:06:21 UTC
+# Script generation date:     2016-01-06 19:07:27 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - pcsc-lite:1.5.2-11.el6
-#   - pcsc-lite-devel:1.5.2-11.el6
-#   - pcsc-lite-doc:1.5.2-11.el6
-#   - pcsc-lite-libs:1.5.2-11.el6
+#   - pcsc-lite:1.5.2-11.el6.x86_64
+#   - pcsc-lite-devel:1.5.2-11.el6.x86_64
+#   - pcsc-lite-doc:1.5.2-11.el6.x86_64
+#   - pcsc-lite-libs:1.5.2-11.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - pcsc-lite:1.5.2-11.el6
-#   - pcsc-lite-devel:1.5.2-11.el6
-#   - pcsc-lite-doc:1.5.2-11.el6
-#   - pcsc-lite-libs:1.5.2-11.el6
+#   - pcsc-lite:1.5.2-11.el6.x86_64
+#   - pcsc-lite-devel:1.5.2-11.el6.x86_64
+#   - pcsc-lite-doc:1.5.2-11.el6.x86_64
+#   - pcsc-lite-libs:1.5.2-11.el6.x86_64
 #
 # CVE List:
 #

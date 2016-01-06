@@ -3,38 +3,38 @@
 # Security fix for CESA-2008:0207
 #
 # Security announcement date: 2008-03-27 23:06:04 UTC
-# Script generation date:     2016-01-01 07:04:58 UTC
+# Script generation date:     2016-01-06 19:06:12 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:1.5.0.12-14.el5.centos
-#   - firefox-devel:1.5.0.12-14.el5.centos
-#   - seamonkey:1.0.9-0.16.el3.centos3
-#   - seamonkey-chat:1.0.9-0.16.el3.centos3
-#   - seamonkey-devel:1.0.9-0.16.el3.centos3
-#   - seamonkey-dom-inspector:1.0.9-0.16.el3.centos3
-#   - seamonkey-js-debugger:1.0.9-0.16.el3.centos3
-#   - seamonkey-mail:1.0.9-0.16.el3.centos3
-#   - seamonkey-nspr:1.0.9-0.16.el3.centos3
-#   - seamonkey-nspr-devel:1.0.9-0.16.el3.centos3
-#   - seamonkey-nss:1.0.9-0.16.el3.centos3
-#   - seamonkey-nss-devel:1.0.9-0.16.el3.centos3
+#   - firefox:1.5.0.12-14.el5.centos.x86_64
+#   - firefox-devel:1.5.0.12-14.el5.centos.x86_64
+#   - seamonkey:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-chat:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-devel:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-dom-inspector:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-js-debugger:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-mail:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-nspr:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-nspr-devel:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-nss:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-nss-devel:1.0.9-0.16.el3.centos3.x86_64
 #
 # Last versions recommanded by security team:
-#   - firefox:38.5.0-2.el5.centos
-#   - firefox-devel:1.5.0.12-15.el5.centos
-#   - seamonkey:1.0.9-0.16.el3.centos3
-#   - seamonkey-chat:1.0.9-0.16.el3.centos3
-#   - seamonkey-devel:1.0.9-0.16.el3.centos3
-#   - seamonkey-dom-inspector:1.0.9-0.16.el3.centos3
-#   - seamonkey-js-debugger:1.0.9-0.16.el3.centos3
-#   - seamonkey-mail:1.0.9-0.16.el3.centos3
-#   - seamonkey-nspr:1.0.9-0.16.el3.centos3
-#   - seamonkey-nspr-devel:1.0.9-0.16.el3.centos3
-#   - seamonkey-nss:1.0.9-0.16.el3.centos3
-#   - seamonkey-nss-devel:1.0.9-0.16.el3.centos3
+#   - firefox:38.5.0-2.el5.centos.x86_64
+#   - firefox-devel:1.5.0.12-15.el5.centos.x86_64
+#   - seamonkey:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-chat:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-devel:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-dom-inspector:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-js-debugger:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-mail:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-nspr:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-nspr-devel:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-nss:1.0.9-0.16.el3.centos3.x86_64
+#   - seamonkey-nss-devel:1.0.9-0.16.el3.centos3.x86_64
 #
 # CVE List:
 #   - CVE-2008-1235

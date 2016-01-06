@@ -3,24 +3,24 @@
 # Security fix for CESA-2014:1606
 #
 # Security announcement date: 2014-10-20 18:08:44 UTC
-# Script generation date:     2016-01-01 07:06:55 UTC
+# Script generation date:     2016-01-06 19:07:59 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - file:5.04-21.el6
-#   - file-devel:5.04-21.el6
-#   - file-libs:5.04-21.el6
-#   - file-static:5.04-21.el6
-#   - python-magic:5.04-21.el6
+#   - file:5.04-21.el6.x86_64
+#   - file-devel:5.04-21.el6.x86_64
+#   - file-libs:5.04-21.el6.x86_64
+#   - file-static:5.04-21.el6.x86_64
+#   - python-magic:5.04-21.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - file:5.04-21.el6
-#   - file-devel:5.04-21.el6
-#   - file-libs:5.04-21.el6
-#   - file-static:5.04-21.el6
-#   - python-magic:5.04-21.el6
+#   - file:5.04-21.el6.x86_64
+#   - file-devel:5.04-21.el6.x86_64
+#   - file-libs:5.04-21.el6.x86_64
+#   - file-static:5.04-21.el6.x86_64
+#   - python-magic:5.04-21.el6.x86_64
 #
 # CVE List:
 #   - CVE-2014-2270

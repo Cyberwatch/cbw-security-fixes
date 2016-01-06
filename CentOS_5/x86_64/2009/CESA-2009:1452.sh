@@ -3,18 +3,18 @@
 # Security fix for CESA-2009:1452
 #
 # Security announcement date: 2009-10-30 14:43:55 UTC
-# Script generation date:     2016-01-01 07:05:22 UTC
+# Script generation date:     2016-01-06 19:06:30 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - neon:0.25.5-10.el5_4.1
-#   - neon-devel:0.25.5-10.el5_4.1
+#   - neon:0.25.5-10.el5_4.1.x86_64
+#   - neon-devel:0.25.5-10.el5_4.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - neon:0.25.5-10.el5_4.1
-#   - neon-devel:0.25.5-10.el5_4.1
+#   - neon:0.25.5-10.el5_4.1.x86_64
+#   - neon-devel:0.25.5-10.el5_4.1.x86_64
 #
 # CVE List:
 #   - CVE-2009-2474

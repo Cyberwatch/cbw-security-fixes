@@ -3,16 +3,16 @@
 # Security fix for CESA-2015:0728
 #
 # Security announcement date: 2015-04-01 03:31:10 UTC
-# Script generation date:     2016-01-01 07:07:07 UTC
+# Script generation date:     2016-01-06 19:08:11 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - slapi-nis:0.54-3.el7_1
+#   - slapi-nis:0.54-3.el7_1.x86_64
 #
 # Last versions recommanded by security team:
-#   - slapi-nis:0.54-3.el7_1
+#   - slapi-nis:0.54-3.el7_1.x86_64
 #
 # CVE List:
 #   - CVE-2015-0283

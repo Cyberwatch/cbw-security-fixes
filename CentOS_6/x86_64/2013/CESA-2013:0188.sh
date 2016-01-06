@@ -3,24 +3,24 @@
 # Security fix for CESA-2013:0188
 #
 # Security announcement date: 2013-01-24 03:12:49 UTC
-# Script generation date:     2016-01-01 07:06:13 UTC
+# Script generation date:     2016-01-06 19:07:19 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ipa-admintools:2.2.0-17.el6_3.1
-#   - ipa-client:2.2.0-17.el6_3.1
-#   - ipa-python:2.2.0-17.el6_3.1
-#   - ipa-server:2.2.0-17.el6_3.1
-#   - ipa-server-selinux:2.2.0-17.el6_3.1
+#   - ipa-admintools:2.2.0-17.el6_3.1.x86_64
+#   - ipa-client:2.2.0-17.el6_3.1.x86_64
+#   - ipa-python:2.2.0-17.el6_3.1.x86_64
+#   - ipa-server:2.2.0-17.el6_3.1.x86_64
+#   - ipa-server-selinux:2.2.0-17.el6_3.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - ipa-admintools:3.0.0-47.el6.centos
-#   - ipa-client:3.0.0-47.el6.centos
-#   - ipa-python:3.0.0-47.el6.centos
-#   - ipa-server:3.0.0-47.el6.centos
-#   - ipa-server-selinux:3.0.0-47.el6.centos
+#   - ipa-admintools:3.0.0-47.el6.centos.x86_64
+#   - ipa-client:3.0.0-47.el6.centos.x86_64
+#   - ipa-python:3.0.0-47.el6.centos.x86_64
+#   - ipa-server:3.0.0-47.el6.centos.x86_64
+#   - ipa-server-selinux:3.0.0-47.el6.centos.x86_64
 #
 # CVE List:
 #   - CVE-2012-5484

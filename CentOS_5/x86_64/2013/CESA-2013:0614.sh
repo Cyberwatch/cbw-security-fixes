@@ -3,18 +3,18 @@
 # Security fix for CESA-2013:0614
 #
 # Security announcement date: 2013-03-08 16:45:51 UTC
-# Script generation date:     2016-01-01 07:06:20 UTC
+# Script generation date:     2016-01-06 19:07:25 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - xulrunner:17.0.3-2.el5_9
-#   - xulrunner-devel:17.0.3-2.el5_9
+#   - xulrunner:17.0.3-2.el5_9.x86_64
+#   - xulrunner-devel:17.0.3-2.el5_9.x86_64
 #
 # Last versions recommanded by security team:
-#   - xulrunner:17.0.10-1.el5_10
-#   - xulrunner-devel:17.0.10-1.el5_10
+#   - xulrunner:17.0.10-1.el5_10.x86_64
+#   - xulrunner-devel:17.0.10-1.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2013-0787

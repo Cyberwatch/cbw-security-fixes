@@ -3,26 +3,26 @@
 # Security fix for CESA-2014:1389
 #
 # Security announcement date: 2014-10-20 18:09:24 UTC
-# Script generation date:     2016-01-01 07:06:56 UTC
+# Script generation date:     2016-01-06 19:07:59 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - krb5-devel:1.10.3-33.el6
-#   - krb5-libs:1.10.3-33.el6
-#   - krb5-pkinit-openssl:1.10.3-33.el6
-#   - krb5-server:1.10.3-33.el6
-#   - krb5-server-ldap:1.10.3-33.el6
-#   - krb5-workstation:1.10.3-33.el6
+#   - krb5-devel:1.10.3-33.el6.x86_64
+#   - krb5-libs:1.10.3-33.el6.x86_64
+#   - krb5-pkinit-openssl:1.10.3-33.el6.x86_64
+#   - krb5-server:1.10.3-33.el6.x86_64
+#   - krb5-server-ldap:1.10.3-33.el6.x86_64
+#   - krb5-workstation:1.10.3-33.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - krb5-devel:1.10.3-37.el6_6
-#   - krb5-libs:1.10.3-37.el6_6
-#   - krb5-pkinit-openssl:1.10.3-37.el6_6
-#   - krb5-server:1.10.3-37.el6_6
-#   - krb5-server-ldap:1.10.3-37.el6_6
-#   - krb5-workstation:1.10.3-37.el6_6
+#   - krb5-devel:1.10.3-37.el6_6.x86_64
+#   - krb5-libs:1.10.3-37.el6_6.x86_64
+#   - krb5-pkinit-openssl:1.10.3-37.el6_6.x86_64
+#   - krb5-server:1.10.3-37.el6_6.x86_64
+#   - krb5-server-ldap:1.10.3-37.el6_6.x86_64
+#   - krb5-workstation:1.10.3-37.el6_6.x86_64
 #
 # CVE List:
 #   - CVE-2013-1418

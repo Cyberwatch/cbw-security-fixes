@@ -3,20 +3,20 @@
 # Security fix for CESA-2013:0820
 #
 # Security announcement date: 2013-05-14 22:39:45 UTC
-# Script generation date:     2016-01-01 07:06:26 UTC
+# Script generation date:     2016-01-06 19:07:32 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:17.0.6-1.el5.centos
-#   - xulrunner:17.0.6-1.el5_9
-#   - xulrunner-devel:17.0.6-1.el5_9
+#   - firefox:17.0.6-1.el5.centos.x86_64
+#   - xulrunner:17.0.6-1.el5_9.x86_64
+#   - xulrunner-devel:17.0.6-1.el5_9.x86_64
 #
 # Last versions recommanded by security team:
-#   - firefox:38.5.0-2.el5.centos
-#   - xulrunner:17.0.10-1.el5_10
-#   - xulrunner-devel:17.0.10-1.el5_10
+#   - firefox:38.5.0-2.el5.centos.x86_64
+#   - xulrunner:17.0.10-1.el5_10.x86_64
+#   - xulrunner-devel:17.0.10-1.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2013-0801

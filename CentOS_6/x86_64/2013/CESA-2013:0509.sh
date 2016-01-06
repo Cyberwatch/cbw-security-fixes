@@ -3,16 +3,16 @@
 # Security fix for CESA-2013:0509
 #
 # Security announcement date: 2013-03-09 00:42:43 UTC
-# Script generation date:     2016-01-01 07:06:22 UTC
+# Script generation date:     2016-01-06 19:07:27 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rdma:3.6-1.el6
+#   - rdma:3.6-1.el6.noarch
 #
 # Last versions recommanded by security team:
-#   - rdma:3.10-3.el6
+#   - rdma:3.10-3.el6.noarch
 #
 # CVE List:
 #

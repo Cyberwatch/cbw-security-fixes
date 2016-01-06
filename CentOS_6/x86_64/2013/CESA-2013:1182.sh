@@ -3,20 +3,20 @@
 # Security fix for CESA-2013:1182
 #
 # Security announcement date: 2013-08-28 19:04:09 UTC
-# Script generation date:     2016-01-01 07:06:30 UTC
+# Script generation date:     2016-01-06 19:07:35 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - 389-ds-base:1.2.11.15-22.el6_4
-#   - 389-ds-base-devel:1.2.11.15-22.el6_4
-#   - 389-ds-base-libs:1.2.11.15-22.el6_4
+#   - 389-ds-base:1.2.11.15-22.el6_4.x86_64
+#   - 389-ds-base-devel:1.2.11.15-22.el6_4.x86_64
+#   - 389-ds-base-libs:1.2.11.15-22.el6_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - 389-ds-base:1.2.11.15-34.el6_5
-#   - 389-ds-base-devel:1.2.11.15-34.el6_5
-#   - 389-ds-base-libs:1.2.11.15-34.el6_5
+#   - 389-ds-base:1.2.11.15-34.el6_5.x86_64
+#   - 389-ds-base-devel:1.2.11.15-34.el6_5.x86_64
+#   - 389-ds-base-libs:1.2.11.15-34.el6_5.x86_64
 #
 # CVE List:
 #   - CVE-2013-4283

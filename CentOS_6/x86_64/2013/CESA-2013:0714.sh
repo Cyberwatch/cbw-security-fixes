@@ -3,16 +3,16 @@
 # Security fix for CESA-2013:0714
 #
 # Security announcement date: 2013-04-08 20:25:12 UTC
-# Script generation date:     2016-01-01 07:06:25 UTC
+# Script generation date:     2016-01-06 19:07:30 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - stunnel:4.29-3.el6_4
+#   - stunnel:4.29-3.el6_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - stunnel:4.29-3.el6_4
+#   - stunnel:4.29-3.el6_4.x86_64
 #
 # CVE List:
 #   - CVE-2013-1762

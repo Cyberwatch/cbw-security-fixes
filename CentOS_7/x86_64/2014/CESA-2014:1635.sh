@@ -3,20 +3,20 @@
 # Security fix for CESA-2014:1635
 #
 # Security announcement date: 2014-10-15 12:21:00 UTC
-# Script generation date:     2016-01-01 07:06:54 UTC
+# Script generation date:     2016-01-06 19:07:58 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:31.2.0-3.el7.centos
-#   - xulrunner:31.2.0-1.el7.centos
-#   - xulrunner-devel:31.2.0-1.el7.centos
+#   - firefox:31.2.0-3.el7.centos.x86_64
+#   - xulrunner:31.2.0-1.el7.centos.x86_64
+#   - xulrunner-devel:31.2.0-1.el7.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - firefox:38.5.0-3.el7.centos
-#   - xulrunner:31.6.0-2.el7.centos
-#   - xulrunner-devel:31.6.0-2.el7.centos
+#   - firefox:38.5.0-3.el7.centos.x86_64
+#   - xulrunner:31.6.0-2.el7.centos.x86_64
+#   - xulrunner-devel:31.6.0-2.el7.centos.x86_64
 #
 # CVE List:
 #   - CVE-2014-1574

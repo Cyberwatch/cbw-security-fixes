@@ -3,20 +3,20 @@
 # Security fix for CESA-2008:0146
 #
 # Security announcement date: 2008-03-03 19:08:13 UTC
-# Script generation date:     2016-01-01 07:04:57 UTC
+# Script generation date:     2016-01-06 19:06:11 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - gd:2.0.33-9.4.el5_1.1
-#   - gd-devel:2.0.33-9.4.el5_1.1
-#   - gd-progs:2.0.33-9.4.el5_1.1
+#   - gd:2.0.33-9.4.el5_1.1.x86_64
+#   - gd-devel:2.0.33-9.4.el5_1.1.x86_64
+#   - gd-progs:2.0.33-9.4.el5_1.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - gd:2.0.33-9.4.el5_4.2
-#   - gd-devel:2.0.33-9.4.el5_4.2
-#   - gd-progs:2.0.33-9.4.el5_4.2
+#   - gd:2.0.33-9.4.el5_4.2.x86_64
+#   - gd-devel:2.0.33-9.4.el5_4.2.x86_64
+#   - gd-progs:2.0.33-9.4.el5_4.2.x86_64
 #
 # CVE List:
 #   - CVE-2006-4484

@@ -3,18 +3,18 @@
 # Security fix for CESA-2010:0565
 #
 # Security announcement date: 2010-07-27 15:06:39 UTC
-# Script generation date:     2016-01-01 07:05:32 UTC
+# Script generation date:     2016-01-06 19:06:39 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - w3m:0.5.1-17.el5_5
-#   - w3m-img:0.5.1-17.el5_5
+#   - w3m:0.5.1-17.el5_5.x86_64
+#   - w3m-img:0.5.1-17.el5_5.x86_64
 #
 # Last versions recommanded by security team:
-#   - w3m:0.5.1-17.el5_5
-#   - w3m-img:0.5.1-17.el5_5
+#   - w3m:0.5.1-17.el5_5.x86_64
+#   - w3m-img:0.5.1-17.el5_5.x86_64
 #
 # CVE List:
 #   - CVE-2010-2074

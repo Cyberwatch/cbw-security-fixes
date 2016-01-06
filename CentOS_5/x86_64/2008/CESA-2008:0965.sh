@@ -3,16 +3,16 @@
 # Security fix for CESA-2008:0965
 #
 # Security announcement date: 2008-10-27 20:09:48 UTC
-# Script generation date:     2016-01-01 07:05:09 UTC
+# Script generation date:     2016-01-06 19:06:19 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - lynx:2.8.5-28.1.el5_2.1
+#   - lynx:2.8.5-28.1.el5_2.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - lynx:2.8.5-28.1.el5_2.1
+#   - lynx:2.8.5-28.1.el5_2.1.x86_64
 #
 # CVE List:
 #   - CVE-2006-7234

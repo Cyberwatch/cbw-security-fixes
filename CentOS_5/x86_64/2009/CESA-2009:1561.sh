@@ -3,18 +3,18 @@
 # Security fix for CESA-2009:1561
 #
 # Security announcement date: 2009-11-14 01:12:27 UTC
-# Script generation date:     2016-01-01 07:05:24 UTC
+# Script generation date:     2016-01-06 19:06:31 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libvorbis:1.1.2-3.el5_4.4
-#   - libvorbis-devel:1.1.2-3.el5_4.4
+#   - libvorbis:1.1.2-3.el5_4.4.x86_64
+#   - libvorbis-devel:1.1.2-3.el5_4.4.x86_64
 #
 # Last versions recommanded by security team:
-#   - libvorbis:1.1.2-3.el5_7.6
-#   - libvorbis-devel:1.1.2-3.el5_7.6
+#   - libvorbis:1.1.2-3.el5_7.6.x86_64
+#   - libvorbis-devel:1.1.2-3.el5_7.6.x86_64
 #
 # CVE List:
 #   - CVE-2009-3379

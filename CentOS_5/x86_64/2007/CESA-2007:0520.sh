@@ -3,18 +3,18 @@
 # Security fix for CESA-2007:0520
 #
 # Security announcement date: 2007-07-12 23:29:18 UTC
-# Script generation date:     2016-01-01 07:04:49 UTC
+# Script generation date:     2016-01-06 19:06:02 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - xorg-x11-xfs:1.0.2-4
-#   - xorg-x11-xfs-utils:1.0.2-4
+#   - xorg-x11-xfs:1.0.2-4.x86_64
+#   - xorg-x11-xfs-utils:1.0.2-4.x86_64
 #
 # Last versions recommanded by security team:
-#   - xorg-x11-xfs:1.0.2-4
-#   - xorg-x11-xfs-utils:1.0.2-4
+#   - xorg-x11-xfs:1.0.2-4.x86_64
+#   - xorg-x11-xfs-utils:1.0.2-4.x86_64
 #
 # CVE List:
 #

@@ -3,24 +3,24 @@
 # Security fix for CESA-2015:0716
 #
 # Security announcement date: 2015-04-01 03:29:07 UTC
-# Script generation date:     2016-01-01 07:07:07 UTC
+# Script generation date:     2016-01-06 19:08:10 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openssl:1.0.1e-42.el7.4
-#   - openssl-devel:1.0.1e-42.el7.4
-#   - openssl-libs:1.0.1e-42.el7.4
-#   - openssl-perl:1.0.1e-42.el7.4
-#   - openssl-static:1.0.1e-42.el7.4
+#   - openssl:1.0.1e-42.el7.4.x86_64
+#   - openssl-devel:1.0.1e-42.el7.4.x86_64
+#   - openssl-libs:1.0.1e-42.el7.4.x86_64
+#   - openssl-perl:1.0.1e-42.el7.4.x86_64
+#   - openssl-static:1.0.1e-42.el7.4.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-51.el7_2.1
-#   - openssl-devel:1.0.1e-51.el7_2.1
-#   - openssl-libs:1.0.1e-51.el7_2.1
-#   - openssl-perl:1.0.1e-51.el7_2.1
-#   - openssl-static:1.0.1e-51.el7_2.1
+#   - openssl:1.0.1e-51.el7_2.1.x86_64
+#   - openssl-devel:1.0.1e-51.el7_2.1.x86_64
+#   - openssl-libs:1.0.1e-51.el7_2.1.x86_64
+#   - openssl-perl:1.0.1e-51.el7_2.1.x86_64
+#   - openssl-static:1.0.1e-51.el7_2.1.x86_64
 #
 # CVE List:
 #   - CVE-2015-0209

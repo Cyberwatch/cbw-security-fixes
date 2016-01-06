@@ -3,18 +3,18 @@
 # Security fix for CESA-2014:1146
 #
 # Security announcement date: 2014-09-03 23:09:02 UTC
-# Script generation date:     2016-01-01 07:06:51 UTC
+# Script generation date:     2016-01-06 19:07:55 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - httpcomponents-client:4.2.5-5.el7_0
-#   - httpcomponents-client-javadoc:4.2.5-5.el7_0
+#   - httpcomponents-client:4.2.5-5.el7_0.noarch
+#   - httpcomponents-client-javadoc:4.2.5-5.el7_0.noarch
 #
 # Last versions recommanded by security team:
-#   - httpcomponents-client:4.2.5-5.el7_0
-#   - httpcomponents-client-javadoc:4.2.5-5.el7_0
+#   - httpcomponents-client:4.2.5-5.el7_0.noarch
+#   - httpcomponents-client-javadoc:4.2.5-5.el7_0.noarch
 #
 # CVE List:
 #   - CVE-2012-6153

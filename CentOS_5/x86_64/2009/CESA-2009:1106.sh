@@ -3,30 +3,30 @@
 # Security fix for CESA-2009:1106
 #
 # Security announcement date: 2009-06-19 09:44:16 UTC
-# Script generation date:     2016-01-01 07:05:18 UTC
+# Script generation date:     2016-01-06 19:06:26 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - kernel:2.6.18-128.1.14.el5
-#   - kernel-debug:2.6.18-128.1.14.el5
-#   - kernel-debug-devel:2.6.18-128.1.14.el5
-#   - kernel-devel:2.6.18-128.1.14.el5
-#   - kernel-doc:2.6.18-128.1.14.el5
-#   - kernel-headers:2.6.18-128.1.14.el5
-#   - kernel-xen:2.6.18-128.1.14.el5
-#   - kernel-xen-devel:2.6.18-128.1.14.el5
+#   - kernel:2.6.18-128.1.14.el5.x86_64
+#   - kernel-debug:2.6.18-128.1.14.el5.x86_64
+#   - kernel-debug-devel:2.6.18-128.1.14.el5.x86_64
+#   - kernel-devel:2.6.18-128.1.14.el5.x86_64
+#   - kernel-doc:2.6.18-128.1.14.el5.noarch
+#   - kernel-headers:2.6.18-128.1.14.el5.x86_64
+#   - kernel-xen:2.6.18-128.1.14.el5.x86_64
+#   - kernel-xen-devel:2.6.18-128.1.14.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - kernel:2.6.18-406.el5
-#   - kernel-debug:2.6.18-406.el5
-#   - kernel-debug-devel:2.6.18-406.el5
-#   - kernel-devel:2.6.18-406.el5
-#   - kernel-doc:2.6.18-406.el5
-#   - kernel-headers:2.6.18-406.el5
-#   - kernel-xen:2.6.18-406.el5
-#   - kernel-xen-devel:2.6.18-406.el5
+#   - kernel:2.6.18-406.el5.x86_64
+#   - kernel-debug:2.6.18-406.el5.x86_64
+#   - kernel-debug-devel:2.6.18-406.el5.x86_64
+#   - kernel-devel:2.6.18-406.el5.x86_64
+#   - kernel-doc:2.6.18-406.el5.noarch
+#   - kernel-headers:2.6.18-406.el5.x86_64
+#   - kernel-xen:2.6.18-406.el5.x86_64
+#   - kernel-xen-devel:2.6.18-406.el5.x86_64
 #
 # CVE List:
 #   - CVE-2009-1072

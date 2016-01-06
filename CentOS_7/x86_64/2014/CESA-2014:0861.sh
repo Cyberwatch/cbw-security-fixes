@@ -3,20 +3,20 @@
 # Security fix for CESA-2014:0861
 #
 # Security announcement date: 2014-07-09 19:40:16 UTC
-# Script generation date:     2016-01-01 07:06:45 UTC
+# Script generation date:     2016-01-06 19:07:49 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - lzo:2.06-6.el7_0.2
-#   - lzo-devel:2.06-6.el7_0.2
-#   - lzo-minilzo:2.06-6.el7_0.2
+#   - lzo:2.06-6.el7_0.2.x86_64
+#   - lzo-devel:2.06-6.el7_0.2.x86_64
+#   - lzo-minilzo:2.06-6.el7_0.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - lzo:2.06-6.el7_0.2
-#   - lzo-devel:2.06-6.el7_0.2
-#   - lzo-minilzo:2.06-6.el7_0.2
+#   - lzo:2.06-6.el7_0.2.x86_64
+#   - lzo-devel:2.06-6.el7_0.2.x86_64
+#   - lzo-minilzo:2.06-6.el7_0.2.x86_64
 #
 # CVE List:
 #   - CVE-2014-4607

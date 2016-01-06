@@ -3,22 +3,22 @@
 # Security fix for CESA-2015:0867
 #
 # Security announcement date: 2015-04-22 09:45:47 UTC
-# Script generation date:     2016-01-01 07:07:08 UTC
+# Script generation date:     2016-01-06 19:08:12 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - qemu-guest-agent:0.12.1.2-2.448.el6_6.2
-#   - qemu-img:0.12.1.2-2.448.el6_6.2
-#   - qemu-kvm:0.12.1.2-2.448.el6_6.2
-#   - qemu-kvm-tools:0.12.1.2-2.448.el6_6.2
+#   - qemu-guest-agent:0.12.1.2-2.448.el6_6.2.x86_64
+#   - qemu-img:0.12.1.2-2.448.el6_6.2.x86_64
+#   - qemu-kvm:0.12.1.2-2.448.el6_6.2.x86_64
+#   - qemu-kvm-tools:0.12.1.2-2.448.el6_6.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - qemu-guest-agent:0.12.1.2-2.479.el6_7.3
-#   - qemu-img:0.12.1.2-2.479.el6_7.3
-#   - qemu-kvm:0.12.1.2-2.479.el6_7.3
-#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.3
+#   - qemu-guest-agent:0.12.1.2-2.479.el6_7.3.x86_64
+#   - qemu-img:0.12.1.2-2.479.el6_7.3.x86_64
+#   - qemu-kvm:0.12.1.2-2.479.el6_7.3.x86_64
+#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.3.x86_64
 #
 # CVE List:
 #   - CVE-2014-8106

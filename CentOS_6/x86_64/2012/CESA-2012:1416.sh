@@ -3,22 +3,22 @@
 # Security fix for CESA-2012:1416
 #
 # Security announcement date: 2012-10-30 21:17:30 UTC
-# Script generation date:     2016-01-01 07:06:11 UTC
+# Script generation date:     2016-01-06 19:07:17 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - kdelibs-apidocs:4.3.4-14.el6_3.2
-#   - kdelibs:4.3.4-14.el6_3.2
-#   - kdelibs-common:4.3.4-14.el6_3.2
-#   - kdelibs-devel:4.3.4-14.el6_3.2
+#   - kdelibs-apidocs:4.3.4-14.el6_3.2.noarch
+#   - kdelibs:4.3.4-14.el6_3.2.x86_64
+#   - kdelibs-common:4.3.4-14.el6_3.2.x86_64
+#   - kdelibs-devel:4.3.4-14.el6_3.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - kdelibs-apidocs:4.3.4-14.el6_3.2
-#   - kdelibs:4.3.4-14.el6_3.2
-#   - kdelibs-common:4.3.4-14.el6_3.2
-#   - kdelibs-devel:4.3.4-14.el6_3.2
+#   - kdelibs-apidocs:4.3.4-14.el6_3.2.noarch
+#   - kdelibs:4.3.4-14.el6_3.2.x86_64
+#   - kdelibs-common:4.3.4-14.el6_3.2.x86_64
+#   - kdelibs-devel:4.3.4-14.el6_3.2.x86_64
 #
 # CVE List:
 #   - CVE-2012-4513

@@ -3,20 +3,20 @@
 # Security fix for CESA-2013:1140
 #
 # Security announcement date: 2013-08-07 12:23:59 UTC
-# Script generation date:     2016-01-01 07:06:30 UTC
+# Script generation date:     2016-01-06 19:07:35 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:17.0.8-1.el6.centos
-#   - xulrunner:17.0.8-3.el6.centos
-#   - xulrunner-devel:17.0.8-3.el6.centos
+#   - firefox:17.0.8-1.el6.centos.x86_64
+#   - xulrunner:17.0.8-3.el6.centos.x86_64
+#   - xulrunner-devel:17.0.8-3.el6.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - firefox:38.5.0-2.el6.centos
-#   - xulrunner:17.0.10-1.el6.centos
-#   - xulrunner-devel:17.0.10-1.el6.centos
+#   - firefox:38.5.0-2.el6.centos.x86_64
+#   - xulrunner:17.0.10-1.el6.centos.x86_64
+#   - xulrunner-devel:17.0.10-1.el6.centos.x86_64
 #
 # CVE List:
 #   - CVE-2013-1701

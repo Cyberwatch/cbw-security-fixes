@@ -3,16 +3,16 @@
 # Security fix for CESA-2008:0105
 #
 # Security announcement date: 2008-02-09 13:44:20 UTC
-# Script generation date:     2016-01-01 07:04:57 UTC
+# Script generation date:     2016-01-06 19:06:10 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - thunderbird:1.5.0.12-8.el5.centos
+#   - thunderbird:1.5.0.12-8.el5.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - thunderbird:38.4.0-1.el5.centos
+#   - thunderbird:38.4.0-1.el5.centos.x86_64
 #
 # CVE List:
 #   - CVE-2008-0593

@@ -3,26 +3,26 @@
 # Security fix for CESA-2008:0129
 #
 # Security announcement date: 2008-02-13 03:27:28 UTC
-# Script generation date:     2016-01-01 07:04:57 UTC
+# Script generation date:     2016-01-06 19:06:10 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - kernel:2.6.18-53.1.13.el5
-#   - kernel-devel:2.6.18-53.1.13.el5
-#   - kernel-doc:2.6.18-53.1.13.el5
-#   - kernel-headers:2.6.18-53.1.13.el5
-#   - kernel-xen:2.6.18-53.1.13.el5
-#   - kernel-xen-devel:2.6.18-53.1.13.el5
+#   - kernel:2.6.18-53.1.13.el5.x86_64
+#   - kernel-devel:2.6.18-53.1.13.el5.x86_64
+#   - kernel-doc:2.6.18-53.1.13.el5.noarch
+#   - kernel-headers:2.6.18-53.1.13.el5.x86_64
+#   - kernel-xen:2.6.18-53.1.13.el5.x86_64
+#   - kernel-xen-devel:2.6.18-53.1.13.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - kernel:2.6.18-406.el5
-#   - kernel-devel:2.6.18-406.el5
-#   - kernel-doc:2.6.18-406.el5
-#   - kernel-headers:2.6.18-406.el5
-#   - kernel-xen:2.6.18-406.el5
-#   - kernel-xen-devel:2.6.18-406.el5
+#   - kernel:2.6.18-406.el5.x86_64
+#   - kernel-devel:2.6.18-406.el5.x86_64
+#   - kernel-doc:2.6.18-406.el5.noarch
+#   - kernel-headers:2.6.18-406.el5.x86_64
+#   - kernel-xen:2.6.18-406.el5.x86_64
+#   - kernel-xen-devel:2.6.18-406.el5.x86_64
 #
 # CVE List:
 #   - CVE-2008-0600

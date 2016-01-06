@@ -3,22 +3,22 @@
 # Security fix for CESA-2009:1082
 #
 # Security announcement date: 2009-06-10 11:18:31 UTC
-# Script generation date:     2016-01-01 07:05:18 UTC
+# Script generation date:     2016-01-06 19:06:26 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - cups:1.3.7-8.el5_3.6
-#   - cups-devel:1.3.7-8.el5_3.6
-#   - cups-libs:1.3.7-8.el5_3.6
-#   - cups-lpd:1.3.7-8.el5_3.6
+#   - cups:1.3.7-8.el5_3.6.x86_64
+#   - cups-devel:1.3.7-8.el5_3.6.x86_64
+#   - cups-libs:1.3.7-8.el5_3.6.x86_64
+#   - cups-lpd:1.3.7-8.el5_3.6.x86_64
 #
 # Last versions recommanded by security team:
-#   - cups:1.3.7-30.el5_9.3
-#   - cups-devel:1.3.7-30.el5_9.3
-#   - cups-libs:1.3.7-30.el5_9.3
-#   - cups-lpd:1.3.7-30.el5_9.3
+#   - cups:1.3.7-30.el5_9.3.x86_64
+#   - cups-devel:1.3.7-30.el5_9.3.x86_64
+#   - cups-libs:1.3.7-30.el5_9.3.x86_64
+#   - cups-lpd:1.3.7-30.el5_9.3.x86_64
 #
 # CVE List:
 #   - CVE-2009-0949

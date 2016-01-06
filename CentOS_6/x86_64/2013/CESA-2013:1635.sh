@@ -3,30 +3,30 @@
 # Security fix for CESA-2013:1635
 #
 # Security announcement date: 2013-11-26 13:32:30 UTC
-# Script generation date:     2016-01-01 07:06:34 UTC
+# Script generation date:     2016-01-06 19:07:40 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - pacemaker:1.1.10-14.el6
-#   - pacemaker-cli:1.1.10-14.el6
-#   - pacemaker-cluster-libs:1.1.10-14.el6
-#   - pacemaker-cts:1.1.10-14.el6
-#   - pacemaker-doc:1.1.10-14.el6
-#   - pacemaker-libs:1.1.10-14.el6
-#   - pacemaker-libs-devel:1.1.10-14.el6
-#   - pacemaker-remote:1.1.10-14.el6
+#   - pacemaker:1.1.10-14.el6.x86_64
+#   - pacemaker-cli:1.1.10-14.el6.x86_64
+#   - pacemaker-cluster-libs:1.1.10-14.el6.x86_64
+#   - pacemaker-cts:1.1.10-14.el6.x86_64
+#   - pacemaker-doc:1.1.10-14.el6.x86_64
+#   - pacemaker-libs:1.1.10-14.el6.x86_64
+#   - pacemaker-libs-devel:1.1.10-14.el6.x86_64
+#   - pacemaker-remote:1.1.10-14.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - pacemaker:1.1.12-8.el6
-#   - pacemaker-cli:1.1.12-8.el6
-#   - pacemaker-cluster-libs:1.1.12-8.el6
-#   - pacemaker-cts:1.1.12-8.el6
-#   - pacemaker-doc:1.1.12-8.el6
-#   - pacemaker-libs:1.1.12-8.el6
-#   - pacemaker-libs-devel:1.1.12-8.el6
-#   - pacemaker-remote:1.1.12-8.el6
+#   - pacemaker:1.1.12-8.el6.x86_64
+#   - pacemaker-cli:1.1.12-8.el6.x86_64
+#   - pacemaker-cluster-libs:1.1.12-8.el6.x86_64
+#   - pacemaker-cts:1.1.12-8.el6.x86_64
+#   - pacemaker-doc:1.1.12-8.el6.x86_64
+#   - pacemaker-libs:1.1.12-8.el6.x86_64
+#   - pacemaker-libs-devel:1.1.12-8.el6.x86_64
+#   - pacemaker-remote:1.1.12-8.el6.x86_64
 #
 # CVE List:
 #   - CVE-2013-0281

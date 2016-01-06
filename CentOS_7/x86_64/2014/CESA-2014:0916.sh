@@ -3,28 +3,28 @@
 # Security fix for CESA-2014:0916
 #
 # Security announcement date: 2014-07-23 02:23:58 UTC
-# Script generation date:     2016-01-01 07:06:46 UTC
+# Script generation date:     2016-01-06 19:07:50 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - nspr:4.10.6-1.el7_0
-#   - nspr-devel:4.10.6-1.el7_0
-#   - nss:3.15.4-7.el7_0
-#   - nss-devel:3.15.4-7.el7_0
-#   - nss-pkcs11-devel:3.15.4-7.el7_0
-#   - nss-sysinit:3.15.4-7.el7_0
-#   - nss-tools:3.15.4-7.el7_0
+#   - nspr:4.10.6-1.el7_0.x86_64
+#   - nspr-devel:4.10.6-1.el7_0.x86_64
+#   - nss:3.15.4-7.el7_0.x86_64
+#   - nss-devel:3.15.4-7.el7_0.x86_64
+#   - nss-pkcs11-devel:3.15.4-7.el7_0.x86_64
+#   - nss-sysinit:3.15.4-7.el7_0.x86_64
+#   - nss-tools:3.15.4-7.el7_0.x86_64
 #
 # Last versions recommanded by security team:
-#   - nspr:4.10.8-2.el7_1
-#   - nspr-devel:4.10.8-2.el7_1
-#   - nss:3.19.1-7.el7_1.2
-#   - nss-devel:3.19.1-7.el7_1.2
-#   - nss-pkcs11-devel:3.19.1-7.el7_1.2
-#   - nss-sysinit:3.19.1-7.el7_1.2
-#   - nss-tools:3.19.1-7.el7_1.2
+#   - nspr:4.10.8-2.el7_1.x86_64
+#   - nspr-devel:4.10.8-2.el7_1.x86_64
+#   - nss:3.19.1-7.el7_1.2.x86_64
+#   - nss-devel:3.19.1-7.el7_1.2.x86_64
+#   - nss-pkcs11-devel:3.19.1-7.el7_1.2.x86_64
+#   - nss-sysinit:3.19.1-7.el7_1.2.x86_64
+#   - nss-tools:3.19.1-7.el7_1.2.x86_64
 #
 # CVE List:
 #   - CVE-2014-1544

@@ -3,54 +3,54 @@
 # Security fix for CESA-2014:0914
 #
 # Security announcement date: 2014-07-23 02:24:10 UTC
-# Script generation date:     2016-01-01 07:06:46 UTC
+# Script generation date:     2016-01-06 19:07:50 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libvirt:1.1.1-29.el7_0.1
-#   - libvirt-client:1.1.1-29.el7_0.1
-#   - libvirt-daemon:1.1.1-29.el7_0.1
-#   - libvirt-daemon-config-network:1.1.1-29.el7_0.1
-#   - libvirt-daemon-config-nwfilter:1.1.1-29.el7_0.1
-#   - libvirt-daemon-driver-interface:1.1.1-29.el7_0.1
-#   - libvirt-daemon-driver-lxc:1.1.1-29.el7_0.1
-#   - libvirt-daemon-driver-network:1.1.1-29.el7_0.1
-#   - libvirt-daemon-driver-nodedev:1.1.1-29.el7_0.1
-#   - libvirt-daemon-driver-nwfilter:1.1.1-29.el7_0.1
-#   - libvirt-daemon-driver-qemu:1.1.1-29.el7_0.1
-#   - libvirt-daemon-driver-secret:1.1.1-29.el7_0.1
-#   - libvirt-daemon-driver-storage:1.1.1-29.el7_0.1
-#   - libvirt-daemon-kvm:1.1.1-29.el7_0.1
-#   - libvirt-daemon-lxc:1.1.1-29.el7_0.1
-#   - libvirt-devel:1.1.1-29.el7_0.1
-#   - libvirt-docs:1.1.1-29.el7_0.1
-#   - libvirt-lock-sanlock:1.1.1-29.el7_0.1
-#   - libvirt-login-shell:1.1.1-29.el7_0.1
-#   - libvirt-python:1.1.1-29.el7_0.1
+#   - libvirt:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-client:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-daemon:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-daemon-config-network:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-daemon-config-nwfilter:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-daemon-driver-interface:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-daemon-driver-lxc:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-daemon-driver-network:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-daemon-driver-nodedev:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-daemon-driver-nwfilter:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-daemon-driver-qemu:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-daemon-driver-secret:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-daemon-driver-storage:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-daemon-kvm:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-daemon-lxc:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-devel:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-docs:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-lock-sanlock:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-login-shell:1.1.1-29.el7_0.1.x86_64
+#   - libvirt-python:1.1.1-29.el7_0.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - libvirt:1.2.8-16.el7
-#   - libvirt-client:1.2.8-16.el7
-#   - libvirt-daemon:1.2.8-16.el7
-#   - libvirt-daemon-config-network:1.2.8-16.el7
-#   - libvirt-daemon-config-nwfilter:1.2.8-16.el7
-#   - libvirt-daemon-driver-interface:1.2.8-16.el7
-#   - libvirt-daemon-driver-lxc:1.2.8-16.el7
-#   - libvirt-daemon-driver-network:1.2.8-16.el7
-#   - libvirt-daemon-driver-nodedev:1.2.8-16.el7
-#   - libvirt-daemon-driver-nwfilter:1.2.8-16.el7
-#   - libvirt-daemon-driver-qemu:1.2.8-16.el7
-#   - libvirt-daemon-driver-secret:1.2.8-16.el7
-#   - libvirt-daemon-driver-storage:1.2.8-16.el7
-#   - libvirt-daemon-kvm:1.2.8-16.el7
-#   - libvirt-daemon-lxc:1.2.8-16.el7
-#   - libvirt-devel:1.2.8-16.el7
-#   - libvirt-docs:1.2.8-16.el7
-#   - libvirt-lock-sanlock:1.2.8-16.el7
-#   - libvirt-login-shell:1.2.8-16.el7
-#   - libvirt-python:1.1.1-29.el7_0.4
+#   - libvirt:1.2.8-16.el7.x86_64
+#   - libvirt-client:1.2.8-16.el7.x86_64
+#   - libvirt-daemon:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-config-network:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-config-nwfilter:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-interface:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-lxc:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-network:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-nodedev:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-nwfilter:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-qemu:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-secret:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-driver-storage:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-kvm:1.2.8-16.el7.x86_64
+#   - libvirt-daemon-lxc:1.2.8-16.el7.x86_64
+#   - libvirt-devel:1.2.8-16.el7.x86_64
+#   - libvirt-docs:1.2.8-16.el7.x86_64
+#   - libvirt-lock-sanlock:1.2.8-16.el7.x86_64
+#   - libvirt-login-shell:1.2.8-16.el7.x86_64
+#   - libvirt-python:1.1.1-29.el7_0.4.x86_64
 #
 # CVE List:
 #   - CVE-2014-0179

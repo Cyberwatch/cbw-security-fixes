@@ -3,24 +3,24 @@
 # Security fix for CESA-2008:0145
 #
 # Security announcement date: 2008-04-18 17:05:59 UTC
-# Script generation date:     2016-01-01 07:04:59 UTC
+# Script generation date:     2016-01-06 19:06:12 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ImageMagick:6.2.8.0-4.el5_1.1
-#   - :6.2.8.0-4.el5_1.1
-#   - -devel:6.2.8.0-4.el5_1.1
-#   - ImageMagick-devel:6.2.8.0-4.el5_1.1
-#   - ImageMagick-perl:6.2.8.0-4.el5_1.1
+#   - ImageMagick:6.2.8.0-4.el5_1.1.x86_64
+#   - :6.2.8.0-4.el5_1.1.x86_64
+#   - -devel:6.2.8.0-4.el5_1.1.x86_64
+#   - ImageMagick-devel:6.2.8.0-4.el5_1.1.x86_64
+#   - ImageMagick-perl:6.2.8.0-4.el5_1.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - ImageMagick:6.2.8.0-15.el5_8
-#   - :6.2.8.0-15.el5_8
-#   - -devel:6.2.8.0-15.el5_8
-#   - ImageMagick-devel:6.2.8.0-15.el5_8
-#   - ImageMagick-perl:6.2.8.0-15.el5_8
+#   - ImageMagick:6.2.8.0-15.el5_8.x86_64
+#   - :6.2.8.0-15.el5_8.x86_64
+#   - -devel:6.2.8.0-15.el5_8.x86_64
+#   - ImageMagick-devel:6.2.8.0-15.el5_8.x86_64
+#   - ImageMagick-perl:6.2.8.0-15.el5_8.x86_64
 #
 # CVE List:
 #   - CVE-2007-4985

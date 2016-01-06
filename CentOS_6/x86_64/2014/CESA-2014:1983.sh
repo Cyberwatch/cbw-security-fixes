@@ -3,30 +3,30 @@
 # Security fix for CESA-2014:1983
 #
 # Security announcement date: 2014-12-11 19:59:07 UTC
-# Script generation date:     2016-01-01 07:06:59 UTC
+# Script generation date:     2016-01-06 19:08:03 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - xorg-x11-server-source:1.15.0-25.el6.centos
-#   - xorg-x11-server-common:1.15.0-25.el6.centos
-#   - xorg-x11-server-devel:1.15.0-25.el6.centos
-#   - xorg-x11-server-Xdmx:1.15.0-25.el6.centos
-#   - xorg-x11-server-Xephyr:1.15.0-25.el6.centos
-#   - xorg-x11-server-Xnest:1.15.0-25.el6.centos
-#   - xorg-x11-server-Xorg:1.15.0-25.el6.centos
-#   - xorg-x11-server-Xvfb:1.15.0-25.el6.centos
+#   - xorg-x11-server-source:1.15.0-25.el6.centos.noarch
+#   - xorg-x11-server-common:1.15.0-25.el6.centos.x86_64
+#   - xorg-x11-server-devel:1.15.0-25.el6.centos.x86_64
+#   - xorg-x11-server-Xdmx:1.15.0-25.el6.centos.x86_64
+#   - xorg-x11-server-Xephyr:1.15.0-25.el6.centos.x86_64
+#   - xorg-x11-server-Xnest:1.15.0-25.el6.centos.x86_64
+#   - xorg-x11-server-Xorg:1.15.0-25.el6.centos.x86_64
+#   - xorg-x11-server-Xvfb:1.15.0-25.el6.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - xorg-x11-server-source:1.15.0-26.el6.centos
-#   - xorg-x11-server-common:1.15.0-26.el6.centos
-#   - xorg-x11-server-devel:1.15.0-26.el6.centos
-#   - xorg-x11-server-Xdmx:1.15.0-26.el6.centos
-#   - xorg-x11-server-Xephyr:1.15.0-26.el6.centos
-#   - xorg-x11-server-Xnest:1.15.0-26.el6.centos
-#   - xorg-x11-server-Xorg:1.15.0-26.el6.centos
-#   - xorg-x11-server-Xvfb:1.15.0-26.el6.centos
+#   - xorg-x11-server-source:1.15.0-26.el6.centos.noarch
+#   - xorg-x11-server-common:1.15.0-26.el6.centos.x86_64
+#   - xorg-x11-server-devel:1.15.0-26.el6.centos.x86_64
+#   - xorg-x11-server-Xdmx:1.15.0-26.el6.centos.x86_64
+#   - xorg-x11-server-Xephyr:1.15.0-26.el6.centos.x86_64
+#   - xorg-x11-server-Xnest:1.15.0-26.el6.centos.x86_64
+#   - xorg-x11-server-Xorg:1.15.0-26.el6.centos.x86_64
+#   - xorg-x11-server-Xvfb:1.15.0-26.el6.centos.x86_64
 #
 # CVE List:
 #   - CVE-2014-8094

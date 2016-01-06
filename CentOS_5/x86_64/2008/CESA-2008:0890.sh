@@ -3,18 +3,18 @@
 # Security fix for CESA-2008:0890
 #
 # Security announcement date: 2008-10-03 18:47:17 UTC
-# Script generation date:     2016-01-01 07:05:08 UTC
+# Script generation date:     2016-01-06 19:06:18 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - wireshark:1.0.3-4.el5_2
-#   - wireshark-gnome:1.0.3-4.el5_2
+#   - wireshark:1.0.3-4.el5_2.x86_64
+#   - wireshark-gnome:1.0.3-4.el5_2.x86_64
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.0.15-7.el5_11
-#   - wireshark-gnome:1.0.15-7.el5_11
+#   - wireshark:1.0.15-7.el5_11.x86_64
+#   - wireshark-gnome:1.0.15-7.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2008-1070

@@ -3,22 +3,22 @@
 # Security fix for CESA-2012:1512
 #
 # Security announcement date: 2012-11-29 21:27:43 UTC
-# Script generation date:     2016-01-01 07:06:11 UTC
+# Script generation date:     2016-01-06 19:07:18 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libxml2:2.7.6-8.el6_3.4
-#   - libxml2-devel:2.7.6-8.el6_3.4
-#   - libxml2-python:2.7.6-8.el6_3.4
-#   - libxml2-static:2.7.6-8.el6_3.4
+#   - libxml2:2.7.6-8.el6_3.4.x86_64
+#   - libxml2-devel:2.7.6-8.el6_3.4.x86_64
+#   - libxml2-python:2.7.6-8.el6_3.4.x86_64
+#   - libxml2-static:2.7.6-8.el6_3.4.x86_64
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.7.6-20.el6_7.1
-#   - libxml2-devel:2.7.6-20.el6_7.1
-#   - libxml2-python:2.7.6-20.el6_7.1
-#   - libxml2-static:2.7.6-20.el6_7.1
+#   - libxml2:2.7.6-20.el6_7.1.x86_64
+#   - libxml2-devel:2.7.6-20.el6_7.1.x86_64
+#   - libxml2-python:2.7.6-20.el6_7.1.x86_64
+#   - libxml2-static:2.7.6-20.el6_7.1.x86_64
 #
 # CVE List:
 #   - CVE-2012-5134

@@ -3,22 +3,22 @@
 # Security fix for CESA-2011:0859
 #
 # Security announcement date: 2011-06-08 20:42:26 UTC
-# Script generation date:     2016-01-01 07:05:42 UTC
+# Script generation date:     2016-01-06 19:06:48 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - cyrus-imapd:2.3.7-7.el5_6.4
-#   - cyrus-imapd-devel:2.3.7-7.el5_6.4
-#   - cyrus-imapd-perl:2.3.7-7.el5_6.4
-#   - cyrus-imapd-utils:2.3.7-7.el5_6.4
+#   - cyrus-imapd:2.3.7-7.el5_6.4.x86_64
+#   - cyrus-imapd-devel:2.3.7-7.el5_6.4.x86_64
+#   - cyrus-imapd-perl:2.3.7-7.el5_6.4.x86_64
+#   - cyrus-imapd-utils:2.3.7-7.el5_6.4.x86_64
 #
 # Last versions recommanded by security team:
-#   - cyrus-imapd:2.3.7-12.el5_7.2
-#   - cyrus-imapd-devel:2.3.7-12.el5_7.2
-#   - cyrus-imapd-perl:2.3.7-12.el5_7.2
-#   - cyrus-imapd-utils:2.3.7-12.el5_7.2
+#   - cyrus-imapd:2.3.7-12.el5_7.2.x86_64
+#   - cyrus-imapd-devel:2.3.7-12.el5_7.2.x86_64
+#   - cyrus-imapd-perl:2.3.7-12.el5_7.2.x86_64
+#   - cyrus-imapd-utils:2.3.7-12.el5_7.2.x86_64
 #
 # CVE List:
 #   - CVE-2011-1926

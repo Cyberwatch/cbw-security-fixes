@@ -3,24 +3,24 @@
 # Security fix for CESA-2014:2024
 #
 # Security announcement date: 2014-12-20 02:57:22 UTC
-# Script generation date:     2016-01-01 07:07:00 UTC
+# Script generation date:     2016-01-06 19:08:04 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ntp:4.2.6p5-19.el7.centos
-#   - ntpdate:4.2.6p5-19.el7.centos
-#   - ntp-doc:4.2.6p5-19.el7.centos
-#   - ntp-perl:4.2.6p5-19.el7.centos
-#   - sntp:4.2.6p5-19.el7.centos
+#   - ntp:4.2.6p5-19.el7.centos.x86_64
+#   - ntpdate:4.2.6p5-19.el7.centos.x86_64
+#   - ntp-doc:4.2.6p5-19.el7.centos.noarch
+#   - ntp-perl:4.2.6p5-19.el7.centos.noarch
+#   - sntp:4.2.6p5-19.el7.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - ntp:4.2.6p5-19.el7.centos.3
-#   - ntpdate:4.2.6p5-19.el7.centos.3
-#   - ntp-doc:4.2.6p5-19.el7.centos.3
-#   - ntp-perl:4.2.6p5-19.el7.centos.3
-#   - sntp:4.2.6p5-19.el7.centos.3
+#   - ntp:4.2.6p5-22.el7.centos.x86_64
+#   - ntpdate:4.2.6p5-22.el7.centos.x86_64
+#   - ntp-doc:4.2.6p5-22.el7.centos.noarch
+#   - ntp-perl:4.2.6p5-22.el7.centos.noarch
+#   - sntp:4.2.6p5-22.el7.centos.x86_64
 #
 # CVE List:
 #   - CVE-2014-9293

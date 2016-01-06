@@ -3,18 +3,18 @@
 # Security fix for CESA-2013:0522
 #
 # Security announcement date: 2013-03-09 00:40:29 UTC
-# Script generation date:     2016-01-01 07:06:21 UTC
+# Script generation date:     2016-01-06 19:07:26 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - gdb:7.2-60.el6
-#   - gdb-gdbserver:7.2-60.el6
+#   - gdb:7.2-60.el6.x86_64
+#   - gdb-gdbserver:7.2-60.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - gdb:7.2-60.el6
-#   - gdb-gdbserver:7.2-60.el6
+#   - gdb:7.2-60.el6.x86_64
+#   - gdb-gdbserver:7.2-60.el6.x86_64
 #
 # CVE List:
 #

@@ -3,20 +3,20 @@
 # Security fix for CESA-2014:0594
 #
 # Security announcement date: 2014-06-04 09:31:23 UTC
-# Script generation date:     2016-01-01 07:06:44 UTC
+# Script generation date:     2016-01-06 19:07:48 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - gnutls:1.4.1-16.el5_10
-#   - gnutls-devel:1.4.1-16.el5_10
-#   - gnutls-utils:1.4.1-16.el5_10
+#   - gnutls:1.4.1-16.el5_10.x86_64
+#   - gnutls-devel:1.4.1-16.el5_10.x86_64
+#   - gnutls-utils:1.4.1-16.el5_10.x86_64
 #
 # Last versions recommanded by security team:
-#   - gnutls:1.4.1-16.el5_10
-#   - gnutls-devel:1.4.1-16.el5_10
-#   - gnutls-utils:1.4.1-16.el5_10
+#   - gnutls:1.4.1-16.el5_10.x86_64
+#   - gnutls-devel:1.4.1-16.el5_10.x86_64
+#   - gnutls-utils:1.4.1-16.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2014-3466

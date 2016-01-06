@@ -3,22 +3,22 @@
 # Security fix for CESA-2015:1457
 #
 # Security announcement date: 2015-07-26 14:11:38 UTC
-# Script generation date:     2016-01-01 07:07:13 UTC
+# Script generation date:     2016-01-06 19:08:17 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - gnutls:2.8.5-18.el6
-#   - gnutls-devel:2.8.5-18.el6
-#   - gnutls-guile:2.8.5-18.el6
-#   - gnutls-utils:2.8.5-18.el6
+#   - gnutls:2.8.5-18.el6.x86_64
+#   - gnutls-devel:2.8.5-18.el6.x86_64
+#   - gnutls-guile:2.8.5-18.el6.x86_64
+#   - gnutls-utils:2.8.5-18.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - gnutls:2.8.5-18.el6
-#   - gnutls-devel:2.8.5-18.el6
-#   - gnutls-guile:2.8.5-18.el6
-#   - gnutls-utils:2.8.5-18.el6
+#   - gnutls:2.8.5-18.el6.x86_64
+#   - gnutls-devel:2.8.5-18.el6.x86_64
+#   - gnutls-guile:2.8.5-18.el6.x86_64
+#   - gnutls-utils:2.8.5-18.el6.x86_64
 #
 # CVE List:
 #   - CVE-2015-0282

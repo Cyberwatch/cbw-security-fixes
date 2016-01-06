@@ -3,22 +3,22 @@
 # Security fix for CESA-2009:1122
 #
 # Security announcement date: 2009-06-26 13:59:32 UTC
-# Script generation date:     2016-01-01 07:05:18 UTC
+# Script generation date:     2016-01-06 19:06:26 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - icu:3.6-5.11.4
-#   - libicu:3.6-5.11.4
-#   - libicu-devel:3.6-5.11.4
-#   - libicu-doc:3.6-5.11.4
+#   - icu:3.6-5.11.4.x86_64
+#   - libicu:3.6-5.11.4.x86_64
+#   - libicu-devel:3.6-5.11.4.x86_64
+#   - libicu-doc:3.6-5.11.4.x86_64
 #
 # Last versions recommanded by security team:
-#   - icu:3.6-5.16.1
-#   - libicu:3.6-5.16.1
-#   - libicu-devel:3.6-5.16.1
-#   - libicu-doc:3.6-5.16.1
+#   - icu:3.6-5.16.1.x86_64
+#   - libicu:3.6-5.16.1.x86_64
+#   - libicu-devel:3.6-5.16.1.x86_64
+#   - libicu-doc:3.6-5.16.1.x86_64
 #
 # CVE List:
 #   - CVE-2009-0153

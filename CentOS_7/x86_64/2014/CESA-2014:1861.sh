@@ -3,30 +3,30 @@
 # Security fix for CESA-2014:1861
 #
 # Security announcement date: 2014-11-17 17:32:07 UTC
-# Script generation date:     2016-01-01 07:06:58 UTC
+# Script generation date:     2016-01-06 19:08:01 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mariadb:5.5.40-1.el7_0
-#   - mariadb-bench:5.5.40-1.el7_0
-#   - mariadb-devel:5.5.40-1.el7_0
-#   - mariadb-embedded:5.5.40-1.el7_0
-#   - mariadb-embedded-devel:5.5.40-1.el7_0
-#   - mariadb-libs:5.5.40-1.el7_0
-#   - mariadb-server:5.5.40-1.el7_0
-#   - mariadb-test:5.5.40-1.el7_0
+#   - mariadb:5.5.40-1.el7_0.x86_64
+#   - mariadb-bench:5.5.40-1.el7_0.x86_64
+#   - mariadb-devel:5.5.40-1.el7_0.x86_64
+#   - mariadb-embedded:5.5.40-1.el7_0.x86_64
+#   - mariadb-embedded-devel:5.5.40-1.el7_0.x86_64
+#   - mariadb-libs:5.5.40-1.el7_0.x86_64
+#   - mariadb-server:5.5.40-1.el7_0.x86_64
+#   - mariadb-test:5.5.40-1.el7_0.x86_64
 #
 # Last versions recommanded by security team:
-#   - mariadb:5.5.44-1.el7_1
-#   - mariadb-bench:5.5.44-1.el7_1
-#   - mariadb-devel:5.5.44-1.el7_1
-#   - mariadb-embedded:5.5.44-1.el7_1
-#   - mariadb-embedded-devel:5.5.44-1.el7_1
-#   - mariadb-libs:5.5.44-1.el7_1
-#   - mariadb-server:5.5.44-1.el7_1
-#   - mariadb-test:5.5.44-1.el7_1
+#   - mariadb:5.5.44-1.el7_1.x86_64
+#   - mariadb-bench:5.5.44-1.el7_1.x86_64
+#   - mariadb-devel:5.5.44-1.el7_1.x86_64
+#   - mariadb-embedded:5.5.44-1.el7_1.x86_64
+#   - mariadb-embedded-devel:5.5.44-1.el7_1.x86_64
+#   - mariadb-libs:5.5.44-1.el7_1.x86_64
+#   - mariadb-server:5.5.44-1.el7_1.x86_64
+#   - mariadb-test:5.5.44-1.el7_1.x86_64
 #
 # CVE List:
 #   - CVE-2014-4243

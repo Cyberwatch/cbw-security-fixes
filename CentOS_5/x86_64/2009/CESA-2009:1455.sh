@@ -3,16 +3,16 @@
 # Security fix for CESA-2009:1455
 #
 # Security announcement date: 2009-10-30 14:43:51 UTC
-# Script generation date:     2016-01-01 07:05:22 UTC
+# Script generation date:     2016-01-06 19:06:30 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - kernel-doc:2.6.18-164.2.1.el5
+#   - kernel-doc:2.6.18-164.2.1.el5.noarch
 #
 # Last versions recommanded by security team:
-#   - kernel-doc:2.6.18-406.el5
+#   - kernel-doc:2.6.18-406.el5.noarch
 #
 # CVE List:
 #   - CVE-2009-2849

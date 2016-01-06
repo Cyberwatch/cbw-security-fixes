@@ -3,18 +3,18 @@
 # Security fix for CESA-2014:1826
 #
 # Security announcement date: 2014-11-12 12:51:19 UTC
-# Script generation date:     2016-01-01 07:06:58 UTC
+# Script generation date:     2016-01-06 19:08:01 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libvncserver:0.9.9-9.el7_0.1
-#   - libvncserver-devel:0.9.9-9.el7_0.1
+#   - libvncserver:0.9.9-9.el7_0.1.x86_64
+#   - libvncserver-devel:0.9.9-9.el7_0.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - libvncserver:0.9.9-9.el7_0.1
-#   - libvncserver-devel:0.9.9-9.el7_0.1
+#   - libvncserver:0.9.9-9.el7_0.1.x86_64
+#   - libvncserver-devel:0.9.9-9.el7_0.1.x86_64
 #
 # CVE List:
 #   - CVE-2014-6051

@@ -3,16 +3,16 @@
 # Security fix for CESA-2013:0144
 #
 # Security announcement date: 2013-01-09 05:52:17 UTC
-# Script generation date:     2016-01-01 07:06:12 UTC
+# Script generation date:     2016-01-06 19:07:18 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:10.0.12-1.el6.centos
+#   - firefox:10.0.12-1.el6.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - firefox:38.5.0-2.el6.centos
+#   - firefox:38.5.0-2.el6.centos.x86_64
 #
 # CVE List:
 #   - CVE-2013-0744

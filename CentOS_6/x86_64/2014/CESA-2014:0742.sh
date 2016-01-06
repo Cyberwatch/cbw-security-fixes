@@ -3,16 +3,16 @@
 # Security fix for CESA-2014:0742
 #
 # Security announcement date: 2014-06-11 11:39:42 UTC
-# Script generation date:     2016-01-01 07:06:44 UTC
+# Script generation date:     2016-01-06 19:07:49 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - thunderbird:24.6.0-1.el6.centos
+#   - thunderbird:24.6.0-1.el6.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - thunderbird:38.4.0-1.el6.centos
+#   - thunderbird:38.4.0-1.el6.centos.x86_64
 #
 # CVE List:
 #   - CVE-2014-1533

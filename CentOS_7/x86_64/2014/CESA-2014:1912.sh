@@ -3,44 +3,44 @@
 # Security fix for CESA-2014:1912
 #
 # Security announcement date: 2014-12-01 13:45:48 UTC
-# Script generation date:     2016-01-01 07:06:58 UTC
+# Script generation date:     2016-01-06 19:08:02 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ruby:2.0.0.353-22.el7_0
-#   - ruby-devel:2.0.0.353-22.el7_0
-#   - ruby-doc:2.0.0.353-22.el7_0
-#   - rubygem-bigdecimal:1.2.0-22.el7_0
-#   - rubygem-io-console:0.4.2-22.el7_0
-#   - rubygem-json:1.7.7-22.el7_0
-#   - rubygem-minitest:4.3.2-22.el7_0
-#   - rubygem-psych:2.0.0-22.el7_0
-#   - rubygem-rake:0.9.6-22.el7_0
-#   - rubygem-rdoc:4.0.0-22.el7_0
-#   - rubygems:2.0.14-22.el7_0
-#   - rubygems-devel:2.0.14-22.el7_0
-#   - ruby-irb:2.0.0.353-22.el7_0
-#   - ruby-libs:2.0.0.353-22.el7_0
-#   - ruby-tcltk:2.0.0.353-22.el7_0
+#   - ruby:2.0.0.353-22.el7_0.x86_64
+#   - ruby-devel:2.0.0.353-22.el7_0.x86_64
+#   - ruby-doc:2.0.0.353-22.el7_0.noarch
+#   - rubygem-bigdecimal:1.2.0-22.el7_0.x86_64
+#   - rubygem-io-console:0.4.2-22.el7_0.x86_64
+#   - rubygem-json:1.7.7-22.el7_0.x86_64
+#   - rubygem-minitest:4.3.2-22.el7_0.noarch
+#   - rubygem-psych:2.0.0-22.el7_0.x86_64
+#   - rubygem-rake:0.9.6-22.el7_0.noarch
+#   - rubygem-rdoc:4.0.0-22.el7_0.noarch
+#   - rubygems:2.0.14-22.el7_0.noarch
+#   - rubygems-devel:2.0.14-22.el7_0.noarch
+#   - ruby-irb:2.0.0.353-22.el7_0.noarch
+#   - ruby-libs:2.0.0.353-22.el7_0.x86_64
+#   - ruby-tcltk:2.0.0.353-22.el7_0.x86_64
 #
 # Last versions recommanded by security team:
-#   - ruby:2.0.0.353-22.el7_0
-#   - ruby-devel:2.0.0.353-22.el7_0
-#   - ruby-doc:2.0.0.353-22.el7_0
-#   - rubygem-bigdecimal:1.2.0-22.el7_0
-#   - rubygem-io-console:0.4.2-22.el7_0
-#   - rubygem-json:1.7.7-22.el7_0
-#   - rubygem-minitest:4.3.2-22.el7_0
-#   - rubygem-psych:2.0.0-22.el7_0
-#   - rubygem-rake:0.9.6-22.el7_0
-#   - rubygem-rdoc:4.0.0-22.el7_0
-#   - rubygems:2.0.14-22.el7_0
-#   - rubygems-devel:2.0.14-22.el7_0
-#   - ruby-irb:2.0.0.353-22.el7_0
-#   - ruby-libs:2.0.0.353-22.el7_0
-#   - ruby-tcltk:2.0.0.353-22.el7_0
+#   - ruby:2.0.0.353-22.el7_0.x86_64
+#   - ruby-devel:2.0.0.353-22.el7_0.x86_64
+#   - ruby-doc:2.0.0.353-22.el7_0.noarch
+#   - rubygem-bigdecimal:1.2.0-22.el7_0.x86_64
+#   - rubygem-io-console:0.4.2-22.el7_0.x86_64
+#   - rubygem-json:1.7.7-22.el7_0.x86_64
+#   - rubygem-minitest:4.3.2-22.el7_0.noarch
+#   - rubygem-psych:2.0.0-22.el7_0.x86_64
+#   - rubygem-rake:0.9.6-22.el7_0.noarch
+#   - rubygem-rdoc:4.0.0-22.el7_0.noarch
+#   - rubygems:2.0.14-22.el7_0.noarch
+#   - rubygems-devel:2.0.14-22.el7_0.noarch
+#   - ruby-irb:2.0.0.353-22.el7_0.noarch
+#   - ruby-libs:2.0.0.353-22.el7_0.x86_64
+#   - ruby-tcltk:2.0.0.353-22.el7_0.x86_64
 #
 # CVE List:
 #   - CVE-2014-8080

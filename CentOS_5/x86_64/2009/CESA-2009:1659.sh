@@ -3,22 +3,22 @@
 # Security fix for CESA-2009:1659
 #
 # Security announcement date: 2009-12-18 01:52:42 UTC
-# Script generation date:     2016-01-01 07:05:25 UTC
+# Script generation date:     2016-01-06 19:06:32 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - kmod-kvm:83-105.el5_4.13
-#   - kvm:83-105.el5_4.13
-#   - kvm-qemu-img:83-105.el5_4.13
-#   - kvm-tools:83-105.el5_4.13
+#   - kmod-kvm:83-105.el5_4.13.x86_64
+#   - kvm:83-105.el5_4.13.x86_64
+#   - kvm-qemu-img:83-105.el5_4.13.x86_64
+#   - kvm-tools:83-105.el5_4.13.x86_64
 #
 # Last versions recommanded by security team:
-#   - kmod-kvm:83-274.el5.centos
-#   - kvm:83-274.el5.centos
-#   - kvm-qemu-img:83-274.el5.centos
-#   - kvm-tools:83-274.el5.centos
+#   - kmod-kvm:83-274.el5.centos.x86_64
+#   - kvm:83-274.el5.centos.x86_64
+#   - kvm-qemu-img:83-274.el5.centos.x86_64
+#   - kvm-tools:83-274.el5.centos.x86_64
 #
 # CVE List:
 #   - CVE-2009-4031

@@ -3,26 +3,26 @@
 # Security fix for CESA-2014:0305
 #
 # Security announcement date: 2014-03-17 19:05:31 UTC
-# Script generation date:     2016-01-01 07:06:42 UTC
+# Script generation date:     2016-01-06 19:07:46 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libsmbclient:3.0.33-3.40.el5_10
-#   - libsmbclient-devel:3.0.33-3.40.el5_10
-#   - samba:3.0.33-3.40.el5_10
-#   - samba-client:3.0.33-3.40.el5_10
-#   - samba-common:3.0.33-3.40.el5_10
-#   - samba-swat:3.0.33-3.40.el5_10
+#   - libsmbclient:3.0.33-3.40.el5_10.x86_64
+#   - libsmbclient-devel:3.0.33-3.40.el5_10.x86_64
+#   - samba:3.0.33-3.40.el5_10.x86_64
+#   - samba-client:3.0.33-3.40.el5_10.x86_64
+#   - samba-common:3.0.33-3.40.el5_10.x86_64
+#   - samba-swat:3.0.33-3.40.el5_10.x86_64
 #
 # Last versions recommanded by security team:
-#   - libsmbclient:3.0.33-3.40.el5_10
-#   - libsmbclient-devel:3.0.33-3.40.el5_10
-#   - samba:3.0.33-3.40.el5_10
-#   - samba-client:3.0.33-3.40.el5_10
-#   - samba-common:3.0.33-3.40.el5_10
-#   - samba-swat:3.0.33-3.40.el5_10
+#   - libsmbclient:3.0.33-3.40.el5_10.x86_64
+#   - libsmbclient-devel:3.0.33-3.40.el5_10.x86_64
+#   - samba:3.0.33-3.40.el5_10.x86_64
+#   - samba-client:3.0.33-3.40.el5_10.x86_64
+#   - samba-common:3.0.33-3.40.el5_10.x86_64
+#   - samba-swat:3.0.33-3.40.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2013-4124

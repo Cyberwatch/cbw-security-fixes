@@ -3,16 +3,16 @@
 # Security fix for CESA-2010:0585
 #
 # Security announcement date: 2010-08-03 00:39:46 UTC
-# Script generation date:     2016-01-01 07:05:32 UTC
+# Script generation date:     2016-01-06 19:06:39 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - lftp:3.7.11-4.el5_5.3
+#   - lftp:3.7.11-4.el5_5.3.x86_64
 #
 # Last versions recommanded by security team:
-#   - lftp:3.7.11-4.el5_5.3
+#   - lftp:3.7.11-4.el5_5.3.x86_64
 #
 # CVE List:
 #   - CVE-2010-2251

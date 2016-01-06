@@ -3,36 +3,36 @@
 # Security fix for CESA-2007:0336
 #
 # Security announcement date: 2007-05-10 14:29:39 UTC
-# Script generation date:     2016-01-01 07:04:45 UTC
+# Script generation date:     2016-01-06 19:05:59 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - postgresql:8.1.9-1.el5
-#   - postgresql-contrib:8.1.9-1.el5
-#   - postgresql-debuginfo:8.1.9-1.el5
-#   - postgresql-devel:8.1.9-1.el5
-#   - postgresql-docs:8.1.9-1.el5
-#   - postgresql-libs:8.1.9-1.el5
-#   - postgresql-pl:8.1.9-1.el5
-#   - postgresql-python:8.1.9-1.el5
-#   - postgresql-server:8.1.9-1.el5
-#   - postgresql-tcl:8.1.9-1.el5
-#   - postgresql-test:8.1.9-1.el5
+#   - postgresql:8.1.9-1.el5.x86_64
+#   - postgresql-contrib:8.1.9-1.el5.x86_64
+#   - postgresql-debuginfo:8.1.9-1.el5.x86_64
+#   - postgresql-devel:8.1.9-1.el5.x86_64
+#   - postgresql-docs:8.1.9-1.el5.x86_64
+#   - postgresql-libs:8.1.9-1.el5.x86_64
+#   - postgresql-pl:8.1.9-1.el5.x86_64
+#   - postgresql-python:8.1.9-1.el5.x86_64
+#   - postgresql-server:8.1.9-1.el5.x86_64
+#   - postgresql-tcl:8.1.9-1.el5.x86_64
+#   - postgresql-test:8.1.9-1.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - postgresql:8.1.23-10.el5_10
-#   - postgresql-contrib:8.1.23-10.el5_10
-#   - postgresql-debuginfo:8.1.9-1.el5
-#   - postgresql-devel:8.1.23-10.el5_10
-#   - postgresql-docs:8.1.23-10.el5_10
-#   - postgresql-libs:8.1.23-10.el5_10
-#   - postgresql-pl:8.1.23-10.el5_10
-#   - postgresql-python:8.1.23-10.el5_10
-#   - postgresql-server:8.1.23-10.el5_10
-#   - postgresql-tcl:8.1.23-10.el5_10
-#   - postgresql-test:8.1.23-10.el5_10
+#   - postgresql:8.1.23-10.el5_10.x86_64
+#   - postgresql-contrib:8.1.23-10.el5_10.x86_64
+#   - postgresql-debuginfo:8.1.9-1.el5.x86_64
+#   - postgresql-devel:8.1.23-10.el5_10.x86_64
+#   - postgresql-docs:8.1.23-10.el5_10.x86_64
+#   - postgresql-libs:8.1.23-10.el5_10.x86_64
+#   - postgresql-pl:8.1.23-10.el5_10.x86_64
+#   - postgresql-python:8.1.23-10.el5_10.x86_64
+#   - postgresql-server:8.1.23-10.el5_10.x86_64
+#   - postgresql-tcl:8.1.23-10.el5_10.x86_64
+#   - postgresql-test:8.1.23-10.el5_10.x86_64
 #
 # CVE List:
 #

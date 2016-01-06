@@ -3,22 +3,22 @@
 # Security fix for CESA-2012:0426
 #
 # Security announcement date: 2012-03-28 01:11:59 UTC
-# Script generation date:     2016-01-01 07:05:55 UTC
+# Script generation date:     2016-01-06 19:07:02 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openssl:1.0.0-20.el6_2.3
-#   - openssl-devel:1.0.0-20.el6_2.3
-#   - openssl-perl:1.0.0-20.el6_2.3
-#   - openssl-static:1.0.0-20.el6_2.3
+#   - openssl:1.0.0-20.el6_2.3.x86_64
+#   - openssl-devel:1.0.0-20.el6_2.3.x86_64
+#   - openssl-perl:1.0.0-20.el6_2.3.x86_64
+#   - openssl-static:1.0.0-20.el6_2.3.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-42.el6_7.1
-#   - openssl-devel:1.0.1e-42.el6_7.1
-#   - openssl-perl:1.0.1e-42.el6_7.1
-#   - openssl-static:1.0.1e-42.el6_7.1
+#   - openssl:1.0.1e-42.el6_7.1.x86_64
+#   - openssl-devel:1.0.1e-42.el6_7.1.x86_64
+#   - openssl-perl:1.0.1e-42.el6_7.1.x86_64
+#   - openssl-static:1.0.1e-42.el6_7.1.x86_64
 #
 # CVE List:
 #   - CVE-2011-4619

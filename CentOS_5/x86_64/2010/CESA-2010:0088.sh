@@ -3,22 +3,22 @@
 # Security fix for CESA-2010:0088
 #
 # Security announcement date: 2010-02-09 13:51:39 UTC
-# Script generation date:     2016-01-01 07:05:26 UTC
+# Script generation date:     2016-01-06 19:06:34 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - kmod-kvm:83-105.el5_4.22
-#   - kvm:83-105.el5_4.22
-#   - kvm-qemu-img:83-105.el5_4.22
-#   - kvm-tools:83-105.el5_4.22
+#   - kmod-kvm:83-105.el5_4.22.x86_64
+#   - kvm:83-105.el5_4.22.x86_64
+#   - kvm-qemu-img:83-105.el5_4.22.x86_64
+#   - kvm-tools:83-105.el5_4.22.x86_64
 #
 # Last versions recommanded by security team:
-#   - kmod-kvm:83-274.el5.centos
-#   - kvm:83-274.el5.centos
-#   - kvm-qemu-img:83-274.el5.centos
-#   - kvm-tools:83-274.el5.centos
+#   - kmod-kvm:83-274.el5.centos.x86_64
+#   - kvm:83-274.el5.centos.x86_64
+#   - kvm-qemu-img:83-274.el5.centos.x86_64
+#   - kvm-tools:83-274.el5.centos.x86_64
 #
 # CVE List:
 #   - CVE-2010-0297

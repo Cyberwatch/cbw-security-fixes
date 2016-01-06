@@ -3,38 +3,38 @@
 # Security fix for CESA-2013:1806
 #
 # Security announcement date: 2013-12-10 01:03:24 UTC
-# Script generation date:     2016-01-01 07:06:36 UTC
+# Script generation date:     2016-01-06 19:07:42 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libsmbclient:3.6.9-167.el6_5
-#   - libsmbclient-devel:3.6.9-167.el6_5
-#   - samba:3.6.9-167.el6_5
-#   - samba-client:3.6.9-167.el6_5
-#   - samba-common:3.6.9-167.el6_5
-#   - samba-doc:3.6.9-167.el6_5
-#   - samba-domainjoin-gui:3.6.9-167.el6_5
-#   - samba-swat:3.6.9-167.el6_5
-#   - samba-winbind:3.6.9-167.el6_5
-#   - samba-winbind-clients:3.6.9-167.el6_5
-#   - samba-winbind-devel:3.6.9-167.el6_5
-#   - samba-winbind-krb5-locator:3.6.9-167.el6_5
+#   - libsmbclient:3.6.9-167.el6_5.x86_64
+#   - libsmbclient-devel:3.6.9-167.el6_5.x86_64
+#   - samba:3.6.9-167.el6_5.x86_64
+#   - samba-client:3.6.9-167.el6_5.x86_64
+#   - samba-common:3.6.9-167.el6_5.x86_64
+#   - samba-doc:3.6.9-167.el6_5.x86_64
+#   - samba-domainjoin-gui:3.6.9-167.el6_5.x86_64
+#   - samba-swat:3.6.9-167.el6_5.x86_64
+#   - samba-winbind:3.6.9-167.el6_5.x86_64
+#   - samba-winbind-clients:3.6.9-167.el6_5.x86_64
+#   - samba-winbind-devel:3.6.9-167.el6_5.x86_64
+#   - samba-winbind-krb5-locator:3.6.9-167.el6_5.x86_64
 #
 # Last versions recommanded by security team:
-#   - libsmbclient:3.6.23-14.el6_6
-#   - libsmbclient-devel:3.6.23-14.el6_6
-#   - samba:3.6.23-14.el6_6
-#   - samba-client:3.6.23-14.el6_6
-#   - samba-common:3.6.23-14.el6_6
-#   - samba-doc:3.6.23-14.el6_6
-#   - samba-domainjoin-gui:3.6.23-14.el6_6
-#   - samba-swat:3.6.23-14.el6_6
-#   - samba-winbind:3.6.23-14.el6_6
-#   - samba-winbind-clients:3.6.23-14.el6_6
-#   - samba-winbind-devel:3.6.23-14.el6_6
-#   - samba-winbind-krb5-locator:3.6.23-14.el6_6
+#   - libsmbclient:3.6.23-14.el6_6.x86_64
+#   - libsmbclient-devel:3.6.23-14.el6_6.x86_64
+#   - samba:3.6.23-14.el6_6.x86_64
+#   - samba-client:3.6.23-14.el6_6.x86_64
+#   - samba-common:3.6.23-14.el6_6.x86_64
+#   - samba-doc:3.6.23-14.el6_6.x86_64
+#   - samba-domainjoin-gui:3.6.23-14.el6_6.x86_64
+#   - samba-swat:3.6.23-14.el6_6.x86_64
+#   - samba-winbind:3.6.23-14.el6_6.x86_64
+#   - samba-winbind-clients:3.6.23-14.el6_6.x86_64
+#   - samba-winbind-devel:3.6.23-14.el6_6.x86_64
+#   - samba-winbind-krb5-locator:3.6.23-14.el6_6.x86_64
 #
 # CVE List:
 #   - CVE-2013-4408

@@ -3,24 +3,24 @@
 # Security fix for CESA-2015:1840
 #
 # Security announcement date: 2015-09-29 13:30:59 UTC
-# Script generation date:     2016-01-01 07:07:17 UTC
+# Script generation date:     2016-01-06 19:08:21 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openldap:2.4.40-6.el6_7
-#   - openldap-clients:2.4.40-6.el6_7
-#   - openldap-devel:2.4.40-6.el6_7
-#   - openldap-servers:2.4.40-6.el6_7
-#   - openldap-servers-sql:2.4.40-6.el6_7
+#   - openldap:2.4.40-6.el6_7.x86_64
+#   - openldap-clients:2.4.40-6.el6_7.x86_64
+#   - openldap-devel:2.4.40-6.el6_7.x86_64
+#   - openldap-servers:2.4.40-6.el6_7.x86_64
+#   - openldap-servers-sql:2.4.40-6.el6_7.x86_64
 #
 # Last versions recommanded by security team:
-#   - openldap:2.4.40-6.el6_7
-#   - openldap-clients:2.4.40-6.el6_7
-#   - openldap-devel:2.4.40-6.el6_7
-#   - openldap-servers:2.4.40-6.el6_7
-#   - openldap-servers-sql:2.4.40-6.el6_7
+#   - openldap:2.4.40-6.el6_7.x86_64
+#   - openldap-clients:2.4.40-6.el6_7.x86_64
+#   - openldap-devel:2.4.40-6.el6_7.x86_64
+#   - openldap-servers:2.4.40-6.el6_7.x86_64
+#   - openldap-servers-sql:2.4.40-6.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2015-6908

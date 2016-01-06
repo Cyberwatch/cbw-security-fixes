@@ -3,32 +3,32 @@
 # Security fix for CESA-2012:0973
 #
 # Security announcement date: 2012-07-10 17:29:45 UTC
-# Script generation date:     2016-01-01 07:06:03 UTC
+# Script generation date:     2016-01-06 19:07:10 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - nspr:4.9-1.el6
-#   - nspr-devel:4.9-1.el6
-#   - nss:3.13.3-6.el6
-#   - nss-devel:3.13.3-6.el6
-#   - nss-pkcs11-devel:3.13.3-6.el6
-#   - nss-sysinit:3.13.3-6.el6
-#   - nss-tools:3.13.3-6.el6
-#   - nss-util:3.13.3-2.el6
-#   - nss-util-devel:3.13.3-2.el6
+#   - nspr:4.9-1.el6.x86_64
+#   - nspr-devel:4.9-1.el6.x86_64
+#   - nss:3.13.3-6.el6.x86_64
+#   - nss-devel:3.13.3-6.el6.x86_64
+#   - nss-pkcs11-devel:3.13.3-6.el6.x86_64
+#   - nss-sysinit:3.13.3-6.el6.x86_64
+#   - nss-tools:3.13.3-6.el6.x86_64
+#   - nss-util:3.13.3-2.el6.x86_64
+#   - nss-util-devel:3.13.3-2.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - nspr:4.10.8-2.el6_7
-#   - nspr-devel:4.10.8-2.el6_7
-#   - nss:3.19.1-5.el6_7
-#   - nss-devel:3.19.1-5.el6_7
-#   - nss-pkcs11-devel:3.19.1-5.el6_7
-#   - nss-sysinit:3.19.1-5.el6_7
-#   - nss-tools:3.19.1-5.el6_7
-#   - nss-util:3.19.1-2.el6_7
-#   - nss-util-devel:3.19.1-2.el6_7
+#   - nspr:4.10.8-2.el6_7.x86_64
+#   - nspr-devel:4.10.8-2.el6_7.x86_64
+#   - nss:3.19.1-5.el6_7.x86_64
+#   - nss-devel:3.19.1-5.el6_7.x86_64
+#   - nss-pkcs11-devel:3.19.1-5.el6_7.x86_64
+#   - nss-sysinit:3.19.1-5.el6_7.x86_64
+#   - nss-tools:3.19.1-5.el6_7.x86_64
+#   - nss-util:3.19.1-2.el6_7.x86_64
+#   - nss-util-devel:3.19.1-2.el6_7.x86_64
 #
 # CVE List:
 #

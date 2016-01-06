@@ -3,26 +3,26 @@
 # Security fix for CESA-2012:0126
 #
 # Security announcement date: 2012-02-14 03:06:54 UTC
-# Script generation date:     2016-01-01 07:05:53 UTC
+# Script generation date:     2016-01-06 19:07:00 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - glibc:2.5-65.el5_7.3
-#   - glibc-common:2.5-65.el5_7.3
-#   - glibc-devel:2.5-65.el5_7.3
-#   - glibc-headers:2.5-65.el5_7.3
-#   - glibc-utils:2.5-65.el5_7.3
-#   - nscd:2.5-65.el5_7.3
+#   - glibc:2.5-65.el5_7.3.x86_64
+#   - glibc-common:2.5-65.el5_7.3.x86_64
+#   - glibc-devel:2.5-65.el5_7.3.x86_64
+#   - glibc-headers:2.5-65.el5_7.3.x86_64
+#   - glibc-utils:2.5-65.el5_7.3.x86_64
+#   - nscd:2.5-65.el5_7.3.x86_64
 #
 # Last versions recommanded by security team:
-#   - glibc:2.5-123.el5_11.3
-#   - glibc-common:2.5-123.el5_11.3
-#   - glibc-devel:2.5-123.el5_11.3
-#   - glibc-headers:2.5-123.el5_11.3
-#   - glibc-utils:2.5-123.el5_11.3
-#   - nscd:2.5-123.el5_11.3
+#   - glibc:2.5-123.el5_11.3.x86_64
+#   - glibc-common:2.5-123.el5_11.3.x86_64
+#   - glibc-devel:2.5-123.el5_11.3.x86_64
+#   - glibc-headers:2.5-123.el5_11.3.x86_64
+#   - glibc-utils:2.5-123.el5_11.3.x86_64
+#   - nscd:2.5-123.el5_11.3.x86_64
 #
 # CVE List:
 #   - CVE-2009-5029

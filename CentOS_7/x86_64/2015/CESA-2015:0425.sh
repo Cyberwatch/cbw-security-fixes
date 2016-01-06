@@ -3,30 +3,30 @@
 # Security fix for CESA-2015:0425
 #
 # Security announcement date: 2015-03-17 13:29:24 UTC
-# Script generation date:     2016-01-01 07:07:06 UTC
+# Script generation date:     2016-01-06 19:08:09 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openssh:6.6.1p1-11.el7
-#   - openssh-askpass:6.6.1p1-11.el7
-#   - openssh-clients:6.6.1p1-11.el7
-#   - openssh-keycat:6.6.1p1-11.el7
-#   - openssh-ldap:6.6.1p1-11.el7
-#   - openssh-server:6.6.1p1-11.el7
-#   - openssh-server-sysvinit:6.6.1p1-11.el7
-#   - pam_ssh_agent_auth:0.9.3-9.11.el7
+#   - openssh:6.6.1p1-11.el7.x86_64
+#   - openssh-askpass:6.6.1p1-11.el7.x86_64
+#   - openssh-clients:6.6.1p1-11.el7.x86_64
+#   - openssh-keycat:6.6.1p1-11.el7.x86_64
+#   - openssh-ldap:6.6.1p1-11.el7.x86_64
+#   - openssh-server:6.6.1p1-11.el7.x86_64
+#   - openssh-server-sysvinit:6.6.1p1-11.el7.x86_64
+#   - pam_ssh_agent_auth:0.9.3-9.11.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssh:6.6.1p1-11.el7
-#   - openssh-askpass:6.6.1p1-11.el7
-#   - openssh-clients:6.6.1p1-11.el7
-#   - openssh-keycat:6.6.1p1-11.el7
-#   - openssh-ldap:6.6.1p1-11.el7
-#   - openssh-server:6.6.1p1-11.el7
-#   - openssh-server-sysvinit:6.6.1p1-11.el7
-#   - pam_ssh_agent_auth:0.9.3-9.11.el7
+#   - openssh:6.6.1p1-22.el7.x86_64
+#   - openssh-askpass:6.6.1p1-22.el7.x86_64
+#   - openssh-clients:6.6.1p1-22.el7.x86_64
+#   - openssh-keycat:6.6.1p1-22.el7.x86_64
+#   - openssh-ldap:6.6.1p1-22.el7.x86_64
+#   - openssh-server:6.6.1p1-22.el7.x86_64
+#   - openssh-server-sysvinit:6.6.1p1-22.el7.x86_64
+#   - pam_ssh_agent_auth:0.9.3-9.22.el7.x86_64
 #
 # CVE List:
 #   - CVE-2014-2653

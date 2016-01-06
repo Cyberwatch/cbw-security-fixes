@@ -3,20 +3,20 @@
 # Security fix for CESA-2009:0011
 #
 # Security announcement date: 2009-01-08 16:02:58 UTC
-# Script generation date:     2016-01-01 07:05:13 UTC
+# Script generation date:     2016-01-06 19:06:22 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - lcms:1.15-1.2.2.el5_2.2
-#   - lcms-devel:1.15-1.2.2.el5_2.2
-#   - python-lcms:1.15-1.2.2.el5_2.2
+#   - lcms:1.15-1.2.2.el5_2.2.x86_64
+#   - lcms-devel:1.15-1.2.2.el5_2.2.x86_64
+#   - python-lcms:1.15-1.2.2.el5_2.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - lcms:1.15-1.2.2.el5_2.2
-#   - lcms-devel:1.15-1.2.2.el5_2.2
-#   - python-lcms:1.15-1.2.2.el5_2.2
+#   - lcms:1.15-1.2.2.el5_2.2.x86_64
+#   - lcms-devel:1.15-1.2.2.el5_2.2.x86_64
+#   - python-lcms:1.15-1.2.2.el5_2.2.x86_64
 #
 # CVE List:
 #   - CVE-2008-5316

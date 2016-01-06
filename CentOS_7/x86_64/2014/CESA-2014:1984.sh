@@ -3,34 +3,34 @@
 # Security fix for CESA-2014:1984
 #
 # Security announcement date: 2014-12-12 11:15:31 UTC
-# Script generation date:     2016-01-01 07:06:59 UTC
+# Script generation date:     2016-01-06 19:08:03 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - bind:9.9.4-14.el7_0.1
-#   - bind-chroot:9.9.4-14.el7_0.1
-#   - bind-devel:9.9.4-14.el7_0.1
-#   - bind-libs:9.9.4-14.el7_0.1
-#   - bind-libs-lite:9.9.4-14.el7_0.1
-#   - bind-license:9.9.4-14.el7_0.1
-#   - bind-lite-devel:9.9.4-14.el7_0.1
-#   - bind-sdb:9.9.4-14.el7_0.1
-#   - bind-sdb-chroot:9.9.4-14.el7_0.1
-#   - bind-utils:9.9.4-14.el7_0.1
+#   - bind:9.9.4-14.el7_0.1.x86_64
+#   - bind-chroot:9.9.4-14.el7_0.1.x86_64
+#   - bind-devel:9.9.4-14.el7_0.1.x86_64
+#   - bind-libs:9.9.4-14.el7_0.1.x86_64
+#   - bind-libs-lite:9.9.4-14.el7_0.1.x86_64
+#   - bind-license:9.9.4-14.el7_0.1.noarch
+#   - bind-lite-devel:9.9.4-14.el7_0.1.x86_64
+#   - bind-sdb:9.9.4-14.el7_0.1.x86_64
+#   - bind-sdb-chroot:9.9.4-14.el7_0.1.x86_64
+#   - bind-utils:9.9.4-14.el7_0.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - bind:9.9.4-29.el7_2.1
-#   - bind-chroot:9.9.4-29.el7_2.1
-#   - bind-devel:9.9.4-29.el7_2.1
-#   - bind-libs:9.9.4-29.el7_2.1
-#   - bind-libs-lite:9.9.4-29.el7_2.1
-#   - bind-license:9.9.4-29.el7_2.1
-#   - bind-lite-devel:9.9.4-29.el7_2.1
-#   - bind-sdb:9.9.4-29.el7_2.1
-#   - bind-sdb-chroot:9.9.4-29.el7_2.1
-#   - bind-utils:9.9.4-29.el7_2.1
+#   - bind:9.9.4-29.el7_2.1.x86_64
+#   - bind-chroot:9.9.4-29.el7_2.1.x86_64
+#   - bind-devel:9.9.4-29.el7_2.1.x86_64
+#   - bind-libs:9.9.4-29.el7_2.1.x86_64
+#   - bind-libs-lite:9.9.4-29.el7_2.1.x86_64
+#   - bind-license:9.9.4-29.el7_2.1.noarch
+#   - bind-lite-devel:9.9.4-29.el7_2.1.x86_64
+#   - bind-sdb:9.9.4-29.el7_2.1.x86_64
+#   - bind-sdb-chroot:9.9.4-29.el7_2.1.x86_64
+#   - bind-utils:9.9.4-29.el7_2.1.x86_64
 #
 # CVE List:
 #   - CVE-2014-8500

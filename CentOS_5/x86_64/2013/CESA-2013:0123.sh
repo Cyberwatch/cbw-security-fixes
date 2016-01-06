@@ -3,28 +3,28 @@
 # Security fix for CESA-2013:0123
 #
 # Security announcement date: 2013-01-11 13:18:46 UTC
-# Script generation date:     2016-01-01 07:06:14 UTC
+# Script generation date:     2016-01-06 19:07:20 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - OpenIPMI:2.0.16-16.el5
-#   - OpenIPMI-devel:2.0.16-16.el5
-#   - OpenIPMI-gui:2.0.16-16.el5
-#   - OpenIPMI-libs:2.0.16-16.el5
-#   - OpenIPMI-perl:2.0.16-16.el5
-#   - OpenIPMI-python:2.0.16-16.el5
-#   - OpenIPMI-tools:2.0.16-16.el5
+#   - OpenIPMI:2.0.16-16.el5.x86_64
+#   - OpenIPMI-devel:2.0.16-16.el5.x86_64
+#   - OpenIPMI-gui:2.0.16-16.el5.x86_64
+#   - OpenIPMI-libs:2.0.16-16.el5.x86_64
+#   - OpenIPMI-perl:2.0.16-16.el5.x86_64
+#   - OpenIPMI-python:2.0.16-16.el5.x86_64
+#   - OpenIPMI-tools:2.0.16-16.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - OpenIPMI:2.0.16-16.el5
-#   - OpenIPMI-devel:2.0.16-16.el5
-#   - OpenIPMI-gui:2.0.16-16.el5
-#   - OpenIPMI-libs:2.0.16-16.el5
-#   - OpenIPMI-perl:2.0.16-16.el5
-#   - OpenIPMI-python:2.0.16-16.el5
-#   - OpenIPMI-tools:2.0.16-16.el5
+#   - OpenIPMI:2.0.16-16.el5.x86_64
+#   - OpenIPMI-devel:2.0.16-16.el5.x86_64
+#   - OpenIPMI-gui:2.0.16-16.el5.x86_64
+#   - OpenIPMI-libs:2.0.16-16.el5.x86_64
+#   - OpenIPMI-perl:2.0.16-16.el5.x86_64
+#   - OpenIPMI-python:2.0.16-16.el5.x86_64
+#   - OpenIPMI-tools:2.0.16-16.el5.x86_64
 #
 # CVE List:
 #   - CVE-2011-4339

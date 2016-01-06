@@ -3,24 +3,24 @@
 # Security fix for CESA-2013:0520
 #
 # Security announcement date: 2013-03-09 00:40:03 UTC
-# Script generation date:     2016-01-01 07:06:21 UTC
+# Script generation date:     2016-01-06 19:07:26 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - dovecot:2.0.9-5.el6
-#   - dovecot-devel:2.0.9-5.el6
-#   - dovecot-mysql:2.0.9-5.el6
-#   - dovecot-pgsql:2.0.9-5.el6
-#   - dovecot-pigeonhole:2.0.9-5.el6
+#   - dovecot:2.0.9-5.el6.x86_64
+#   - dovecot-devel:2.0.9-5.el6.x86_64
+#   - dovecot-mysql:2.0.9-5.el6.x86_64
+#   - dovecot-pgsql:2.0.9-5.el6.x86_64
+#   - dovecot-pigeonhole:2.0.9-5.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - dovecot:2.0.9-7.el6_5.1
-#   - dovecot-devel:2.0.9-7.el6_5.1
-#   - dovecot-mysql:2.0.9-7.el6_5.1
-#   - dovecot-pgsql:2.0.9-7.el6_5.1
-#   - dovecot-pigeonhole:2.0.9-7.el6_5.1
+#   - dovecot:2.0.9-7.el6_5.1.x86_64
+#   - dovecot-devel:2.0.9-7.el6_5.1.x86_64
+#   - dovecot-mysql:2.0.9-7.el6_5.1.x86_64
+#   - dovecot-pgsql:2.0.9-7.el6_5.1.x86_64
+#   - dovecot-pigeonhole:2.0.9-7.el6_5.1.x86_64
 #
 # CVE List:
 #

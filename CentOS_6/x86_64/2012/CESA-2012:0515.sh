@@ -3,20 +3,20 @@
 # Security fix for CESA-2012:0515
 #
 # Security announcement date: 2012-04-25 03:51:02 UTC
-# Script generation date:     2016-01-01 07:05:57 UTC
+# Script generation date:     2016-01-06 19:07:03 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:10.0.4-1.el6.centos
-#   - xulrunner:10.0.4-1.el6.centos
-#   - xulrunner-devel:10.0.4-1.el6.centos
+#   - firefox:10.0.4-1.el6.centos.x86_64
+#   - xulrunner:10.0.4-1.el6.centos.x86_64
+#   - xulrunner-devel:10.0.4-1.el6.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - firefox:38.5.0-2.el6.centos
-#   - xulrunner:17.0.10-1.el6.centos
-#   - xulrunner-devel:17.0.10-1.el6.centos
+#   - firefox:38.5.0-2.el6.centos.x86_64
+#   - xulrunner:17.0.10-1.el6.centos.x86_64
+#   - xulrunner-devel:17.0.10-1.el6.centos.x86_64
 #
 # CVE List:
 #   - CVE-2011-3062

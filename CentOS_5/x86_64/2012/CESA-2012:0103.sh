@@ -3,16 +3,16 @@
 # Security fix for CESA-2012:0103
 #
 # Security announcement date: 2012-02-08 20:33:10 UTC
-# Script generation date:     2016-01-01 07:05:53 UTC
+# Script generation date:     2016-01-06 19:06:59 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - squirrelmail:1.4.8-5.el5.centos.13
+#   - squirrelmail:1.4.8-5.el5.centos.13.noarch
 #
 # Last versions recommanded by security team:
-#   - squirrelmail:1.4.8-21.el5.centos
+#   - squirrelmail:1.4.8-21.el5.centos.noarch
 #
 # CVE List:
 #   - CVE-2010-1637

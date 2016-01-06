@@ -3,26 +3,26 @@
 # Security fix for CESA-2014:1636
 #
 # Security announcement date: 2014-10-20 18:15:08 UTC
-# Script generation date:     2016-01-01 07:06:57 UTC
+# Script generation date:     2016-01-06 19:08:01 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.8.0-openjdk-javadoc:1.8.0.25-1.b17.el6
-#   - java-1.8.0-openjdk:1.8.0.25-1.b17.el6
-#   - java-1.8.0-openjdk-demo:1.8.0.25-1.b17.el6
-#   - java-1.8.0-openjdk-devel:1.8.0.25-1.b17.el6
-#   - java-1.8.0-openjdk-headless:1.8.0.25-1.b17.el6
-#   - java-1.8.0-openjdk-src:1.8.0.25-1.b17.el6
+#   - java-1.8.0-openjdk-javadoc:1.8.0.25-1.b17.el6.noarch
+#   - java-1.8.0-openjdk:1.8.0.25-1.b17.el6.x86_64
+#   - java-1.8.0-openjdk-demo:1.8.0.25-1.b17.el6.x86_64
+#   - java-1.8.0-openjdk-devel:1.8.0.25-1.b17.el6.x86_64
+#   - java-1.8.0-openjdk-headless:1.8.0.25-1.b17.el6.x86_64
+#   - java-1.8.0-openjdk-src:1.8.0.25-1.b17.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.8.0-openjdk-javadoc:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-demo:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-devel:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-headless:1.8.0.65-0.b17.el6_7
-#   - java-1.8.0-openjdk-src:1.8.0.65-0.b17.el6_7
+#   - java-1.8.0-openjdk-javadoc:1.8.0.65-0.b17.el6_7.noarch
+#   - java-1.8.0-openjdk:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-demo:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-devel:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-headless:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk-src:1.8.0.65-0.b17.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2014-6457

@@ -3,26 +3,26 @@
 # Security fix for CESA-2014:0321
 #
 # Security announcement date: 2014-03-24 20:46:56 UTC
-# Script generation date:     2016-01-01 07:06:42 UTC
+# Script generation date:     2016-01-06 19:07:46 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - net-snmp:5.5-49.el6_5.1
-#   - net-snmp-devel:5.5-49.el6_5.1
-#   - net-snmp-libs:5.5-49.el6_5.1
-#   - net-snmp-perl:5.5-49.el6_5.1
-#   - net-snmp-python:5.5-49.el6_5.1
-#   - net-snmp-utils:5.5-49.el6_5.1
+#   - net-snmp:5.5-49.el6_5.1.x86_64
+#   - net-snmp-devel:5.5-49.el6_5.1.x86_64
+#   - net-snmp-libs:5.5-49.el6_5.1.x86_64
+#   - net-snmp-perl:5.5-49.el6_5.1.x86_64
+#   - net-snmp-python:5.5-49.el6_5.1.x86_64
+#   - net-snmp-utils:5.5-49.el6_5.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - net-snmp:5.5-54.el6_7.1
-#   - net-snmp-devel:5.5-54.el6_7.1
-#   - net-snmp-libs:5.5-54.el6_7.1
-#   - net-snmp-perl:5.5-54.el6_7.1
-#   - net-snmp-python:5.5-54.el6_7.1
-#   - net-snmp-utils:5.5-54.el6_7.1
+#   - net-snmp:5.5-54.el6_7.1.x86_64
+#   - net-snmp-devel:5.5-54.el6_7.1.x86_64
+#   - net-snmp-libs:5.5-54.el6_7.1.x86_64
+#   - net-snmp-perl:5.5-54.el6_7.1.x86_64
+#   - net-snmp-python:5.5-54.el6_7.1.x86_64
+#   - net-snmp-utils:5.5-54.el6_7.1.x86_64
 #
 # CVE List:
 #   - CVE-2014-2284

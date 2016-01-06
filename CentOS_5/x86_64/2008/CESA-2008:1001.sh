@@ -3,18 +3,18 @@
 # Security fix for CESA-2008:1001
 #
 # Security announcement date: 2008-11-26 22:30:05 UTC
-# Script generation date:     2016-01-01 07:05:12 UTC
+# Script generation date:     2016-01-06 19:06:21 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - tog-pegasus:2.7.0-2.el5_2.1
-#   - tog-pegasus-devel:2.7.0-2.el5_2.1
+#   - tog-pegasus:2.7.0-2.el5_2.1.x86_64
+#   - tog-pegasus-devel:2.7.0-2.el5_2.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - tog-pegasus:2.7.0-2.el5_2.1
-#   - tog-pegasus-devel:2.7.0-2.el5_2.1
+#   - tog-pegasus:2.7.0-2.el5_2.1.x86_64
+#   - tog-pegasus-devel:2.7.0-2.el5_2.1.x86_64
 #
 # CVE List:
 #   - CVE-2008-4313

@@ -3,24 +3,24 @@
 # Security fix for CESA-2009:1289
 #
 # Security announcement date: 2009-09-15 18:28:46 UTC
-# Script generation date:     2016-01-01 07:05:21 UTC
+# Script generation date:     2016-01-06 19:06:29 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mysql:5.0.77-3.el5
-#   - mysql-bench:5.0.77-3.el5
-#   - mysql-devel:5.0.77-3.el5
-#   - mysql-server:5.0.77-3.el5
-#   - mysql-test:5.0.77-3.el5
+#   - mysql:5.0.77-3.el5.x86_64
+#   - mysql-bench:5.0.77-3.el5.x86_64
+#   - mysql-devel:5.0.77-3.el5.x86_64
+#   - mysql-server:5.0.77-3.el5.x86_64
+#   - mysql-test:5.0.77-3.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - mysql:5.0.95-5.el5_9
-#   - mysql-bench:5.0.95-5.el5_9
-#   - mysql-devel:5.0.95-5.el5_9
-#   - mysql-server:5.0.95-5.el5_9
-#   - mysql-test:5.0.95-5.el5_9
+#   - mysql:5.0.95-5.el5_9.x86_64
+#   - mysql-bench:5.0.95-5.el5_9.x86_64
+#   - mysql-devel:5.0.95-5.el5_9.x86_64
+#   - mysql-server:5.0.95-5.el5_9.x86_64
+#   - mysql-test:5.0.95-5.el5_9.x86_64
 #
 # CVE List:
 #   - CVE-2009-2446

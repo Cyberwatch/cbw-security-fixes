@@ -3,24 +3,24 @@
 # Security fix for CESA-2014:1255
 #
 # Security announcement date: 2014-10-10 21:45:06 UTC
-# Script generation date:     2016-01-01 07:06:54 UTC
+# Script generation date:     2016-01-06 19:07:57 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - krb5-devel:1.6.1-80.el5_11
-#   - krb5-libs:1.6.1-80.el5_11
-#   - krb5-server:1.6.1-80.el5_11
-#   - krb5-server-ldap:1.6.1-80.el5_11
-#   - krb5-workstation:1.6.1-80.el5_11
+#   - krb5-devel:1.6.1-80.el5_11.x86_64
+#   - krb5-libs:1.6.1-80.el5_11.x86_64
+#   - krb5-server:1.6.1-80.el5_11.x86_64
+#   - krb5-server-ldap:1.6.1-80.el5_11.x86_64
+#   - krb5-workstation:1.6.1-80.el5_11.x86_64
 #
 # Last versions recommanded by security team:
-#   - krb5-devel:1.6.1-80.el5_11
-#   - krb5-libs:1.6.1-80.el5_11
-#   - krb5-server:1.6.1-80.el5_11
-#   - krb5-server-ldap:1.6.1-80.el5_11
-#   - krb5-workstation:1.6.1-80.el5_11
+#   - krb5-devel:1.6.1-80.el5_11.x86_64
+#   - krb5-libs:1.6.1-80.el5_11.x86_64
+#   - krb5-server:1.6.1-80.el5_11.x86_64
+#   - krb5-server-ldap:1.6.1-80.el5_11.x86_64
+#   - krb5-workstation:1.6.1-80.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2014-4345

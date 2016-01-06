@@ -3,16 +3,16 @@
 # Security fix for CESA-2014:1919
 #
 # Security announcement date: 2014-12-04 01:18:41 UTC
-# Script generation date:     2016-01-01 07:06:59 UTC
+# Script generation date:     2016-01-06 19:08:02 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:31.3.0-3.el7.centos
+#   - firefox:31.3.0-3.el7.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - firefox:38.5.0-3.el7.centos
+#   - firefox:38.5.0-3.el7.centos.x86_64
 #
 # CVE List:
 #   - CVE-2014-1587

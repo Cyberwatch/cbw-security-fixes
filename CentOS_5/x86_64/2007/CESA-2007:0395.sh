@@ -3,18 +3,18 @@
 # Security fix for CESA-2007:0395
 #
 # Security announcement date: 2007-06-14 15:29:57 UTC
-# Script generation date:     2016-01-01 07:04:48 UTC
+# Script generation date:     2016-01-06 19:06:01 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mod_perl:2.0.2-6.3.el5
-#   - mod_perl-devel:2.0.2-6.3.el5
+#   - mod_perl:2.0.2-6.3.el5.x86_64
+#   - mod_perl-devel:2.0.2-6.3.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - mod_perl:2.0.2-6.3.el5
-#   - mod_perl-devel:2.0.2-6.3.el5
+#   - mod_perl:2.0.2-6.3.el5.x86_64
+#   - mod_perl-devel:2.0.2-6.3.el5.x86_64
 #
 # CVE List:
 #

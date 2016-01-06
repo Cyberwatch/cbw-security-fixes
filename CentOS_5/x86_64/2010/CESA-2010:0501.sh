@@ -3,44 +3,44 @@
 # Security fix for CESA-2010:0501
 #
 # Security announcement date: 2010-06-24 16:14:17 UTC
-# Script generation date:     2016-01-01 07:05:31 UTC
+# Script generation date:     2016-01-06 19:06:38 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - devhelp:0.12-20.el5
-#   - devhelp-devel:0.12-20.el5
-#   - esc:1.1.0-12.el5
-#   - firefox:3.6.4-8.el5.centos
-#   - gnome-python2-extras:2.14.2-6.el5
-#   - gnome-python2-gtkhtml2:2.14.2-6.el5
-#   - gnome-python2-gtkmozembed:2.14.2-6.el5
-#   - gnome-python2-gtkspell:2.14.2-6.el5
-#   - gnome-python2-libegg:2.14.2-6.el5
-#   - totem:2.16.7-7.el5
-#   - totem-devel:2.16.7-7.el5
-#   - totem-mozplugin:2.16.7-7.el5
-#   - xulrunner:1.9.2.4-9.el5
-#   - xulrunner-devel:1.9.2.4-9.el5
-#   - yelp:2.16.0-26.el5
+#   - devhelp:0.12-20.el5.x86_64
+#   - devhelp-devel:0.12-20.el5.x86_64
+#   - esc:1.1.0-12.el5.x86_64
+#   - firefox:3.6.4-8.el5.centos.x86_64
+#   - gnome-python2-extras:2.14.2-6.el5.x86_64
+#   - gnome-python2-gtkhtml2:2.14.2-6.el5.x86_64
+#   - gnome-python2-gtkmozembed:2.14.2-6.el5.x86_64
+#   - gnome-python2-gtkspell:2.14.2-6.el5.x86_64
+#   - gnome-python2-libegg:2.14.2-6.el5.x86_64
+#   - totem:2.16.7-7.el5.x86_64
+#   - totem-devel:2.16.7-7.el5.x86_64
+#   - totem-mozplugin:2.16.7-7.el5.x86_64
+#   - xulrunner:1.9.2.4-9.el5.x86_64
+#   - xulrunner-devel:1.9.2.4-9.el5.x86_64
+#   - yelp:2.16.0-26.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - devhelp:0.12-23.el5_9
-#   - devhelp-devel:0.12-23.el5_9
-#   - esc:1.1.0-12.el5
-#   - firefox:38.5.0-2.el5.centos
-#   - gnome-python2-extras:2.14.2-6.el5
-#   - gnome-python2-gtkhtml2:2.14.2-6.el5
-#   - gnome-python2-gtkmozembed:2.14.2-6.el5
-#   - gnome-python2-gtkspell:2.14.2-6.el5
-#   - gnome-python2-libegg:2.14.2-6.el5
-#   - totem:2.16.7-7.el5
-#   - totem-devel:2.16.7-7.el5
-#   - totem-mozplugin:2.16.7-7.el5
-#   - xulrunner:17.0.10-1.el5_10
-#   - xulrunner-devel:17.0.10-1.el5_10
-#   - yelp:2.16.0-30.el5_9
+#   - devhelp:0.12-23.el5_9.x86_64
+#   - devhelp-devel:0.12-23.el5_9.x86_64
+#   - esc:1.1.0-12.el5.x86_64
+#   - firefox:38.5.0-2.el5.centos.x86_64
+#   - gnome-python2-extras:2.14.2-6.el5.x86_64
+#   - gnome-python2-gtkhtml2:2.14.2-6.el5.x86_64
+#   - gnome-python2-gtkmozembed:2.14.2-6.el5.x86_64
+#   - gnome-python2-gtkspell:2.14.2-6.el5.x86_64
+#   - gnome-python2-libegg:2.14.2-6.el5.x86_64
+#   - totem:2.16.7-7.el5.x86_64
+#   - totem-devel:2.16.7-7.el5.x86_64
+#   - totem-mozplugin:2.16.7-7.el5.x86_64
+#   - xulrunner:17.0.10-1.el5_10.x86_64
+#   - xulrunner-devel:17.0.10-1.el5_10.x86_64
+#   - yelp:2.16.0-30.el5_9.x86_64
 #
 # CVE List:
 #   - CVE-2010-0182

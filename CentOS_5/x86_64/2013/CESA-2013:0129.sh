@@ -3,32 +3,32 @@
 # Security fix for CESA-2013:0129
 #
 # Security announcement date: 2013-01-11 13:18:59 UTC
-# Script generation date:     2016-01-01 07:06:14 UTC
+# Script generation date:     2016-01-06 19:07:20 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ruby:1.8.5-27.el5
-#   - ruby-devel:1.8.5-27.el5
-#   - ruby-docs:1.8.5-27.el5
-#   - ruby-irb:1.8.5-27.el5
-#   - ruby-libs:1.8.5-27.el5
-#   - ruby-mode:1.8.5-27.el5
-#   - ruby-rdoc:1.8.5-27.el5
-#   - ruby-ri:1.8.5-27.el5
-#   - ruby-tcltk:1.8.5-27.el5
+#   - ruby:1.8.5-27.el5.x86_64
+#   - ruby-devel:1.8.5-27.el5.x86_64
+#   - ruby-docs:1.8.5-27.el5.x86_64
+#   - ruby-irb:1.8.5-27.el5.x86_64
+#   - ruby-libs:1.8.5-27.el5.x86_64
+#   - ruby-mode:1.8.5-27.el5.x86_64
+#   - ruby-rdoc:1.8.5-27.el5.x86_64
+#   - ruby-ri:1.8.5-27.el5.x86_64
+#   - ruby-tcltk:1.8.5-27.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - ruby:1.8.5-31.el5_9
-#   - ruby-devel:1.8.5-31.el5_9
-#   - ruby-docs:1.8.5-31.el5_9
-#   - ruby-irb:1.8.5-31.el5_9
-#   - ruby-libs:1.8.5-31.el5_9
-#   - ruby-mode:1.8.5-31.el5_9
-#   - ruby-rdoc:1.8.5-31.el5_9
-#   - ruby-ri:1.8.5-31.el5_9
-#   - ruby-tcltk:1.8.5-31.el5_9
+#   - ruby:1.8.5-31.el5_9.x86_64
+#   - ruby-devel:1.8.5-31.el5_9.x86_64
+#   - ruby-docs:1.8.5-31.el5_9.x86_64
+#   - ruby-irb:1.8.5-31.el5_9.x86_64
+#   - ruby-libs:1.8.5-31.el5_9.x86_64
+#   - ruby-mode:1.8.5-31.el5_9.x86_64
+#   - ruby-rdoc:1.8.5-31.el5_9.x86_64
+#   - ruby-ri:1.8.5-31.el5_9.x86_64
+#   - ruby-tcltk:1.8.5-31.el5_9.x86_64
 #
 # CVE List:
 #   - CVE-2011-1005

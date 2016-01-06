@@ -3,34 +3,34 @@
 # Security fix for CESA-2013:0898
 #
 # Security announcement date: 2013-06-03 22:45:12 UTC
-# Script generation date:     2016-01-01 07:06:27 UTC
+# Script generation date:     2016-01-06 19:07:32 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - glx-utils:6.5.1-7.11.el5_9
-#   - mesa-libGL:6.5.1-7.11.el5_9
-#   - mesa-libGL-devel:6.5.1-7.11.el5_9
-#   - mesa-libGLU:6.5.1-7.11.el5_9
-#   - mesa-libGLU-devel:6.5.1-7.11.el5_9
-#   - mesa-libGLw:6.5.1-7.11.el5_9
-#   - mesa-libGLw-devel:6.5.1-7.11.el5_9
-#   - mesa-libOSMesa:6.5.1-7.11.el5_9
-#   - mesa-libOSMesa-devel:6.5.1-7.11.el5_9
-#   - mesa-source:6.5.1-7.11.el5_9
+#   - glx-utils:6.5.1-7.11.el5_9.x86_64
+#   - mesa-libGL:6.5.1-7.11.el5_9.x86_64
+#   - mesa-libGL-devel:6.5.1-7.11.el5_9.x86_64
+#   - mesa-libGLU:6.5.1-7.11.el5_9.x86_64
+#   - mesa-libGLU-devel:6.5.1-7.11.el5_9.x86_64
+#   - mesa-libGLw:6.5.1-7.11.el5_9.x86_64
+#   - mesa-libGLw-devel:6.5.1-7.11.el5_9.x86_64
+#   - mesa-libOSMesa:6.5.1-7.11.el5_9.x86_64
+#   - mesa-libOSMesa-devel:6.5.1-7.11.el5_9.x86_64
+#   - mesa-source:6.5.1-7.11.el5_9.x86_64
 #
 # Last versions recommanded by security team:
-#   - glx-utils:6.5.1-7.11.el5_9
-#   - mesa-libGL:6.5.1-7.11.el5_9
-#   - mesa-libGL-devel:6.5.1-7.11.el5_9
-#   - mesa-libGLU:6.5.1-7.11.el5_9
-#   - mesa-libGLU-devel:6.5.1-7.11.el5_9
-#   - mesa-libGLw:6.5.1-7.11.el5_9
-#   - mesa-libGLw-devel:6.5.1-7.11.el5_9
-#   - mesa-libOSMesa:6.5.1-7.11.el5_9
-#   - mesa-libOSMesa-devel:6.5.1-7.11.el5_9
-#   - mesa-source:6.5.1-7.11.el5_9
+#   - glx-utils:6.5.1-7.11.el5_9.x86_64
+#   - mesa-libGL:6.5.1-7.11.el5_9.x86_64
+#   - mesa-libGL-devel:6.5.1-7.11.el5_9.x86_64
+#   - mesa-libGLU:6.5.1-7.11.el5_9.x86_64
+#   - mesa-libGLU-devel:6.5.1-7.11.el5_9.x86_64
+#   - mesa-libGLw:6.5.1-7.11.el5_9.x86_64
+#   - mesa-libGLw-devel:6.5.1-7.11.el5_9.x86_64
+#   - mesa-libOSMesa:6.5.1-7.11.el5_9.x86_64
+#   - mesa-libOSMesa-devel:6.5.1-7.11.el5_9.x86_64
+#   - mesa-source:6.5.1-7.11.el5_9.x86_64
 #
 # CVE List:
 #   - CVE-2013-1993

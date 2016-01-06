@@ -3,18 +3,18 @@
 # Security fix for CESA-2008:0103
 #
 # Security announcement date: 2008-02-09 13:43:22 UTC
-# Script generation date:     2016-01-01 07:04:56 UTC
+# Script generation date:     2016-01-06 19:06:10 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:1.5.0.12-9.el5.centos
-#   - firefox-devel:1.5.0.12-9.el5.centos
+#   - firefox:1.5.0.12-9.el5.centos.x86_64
+#   - firefox-devel:1.5.0.12-9.el5.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - firefox:38.5.0-2.el5.centos
-#   - firefox-devel:1.5.0.12-15.el5.centos
+#   - firefox:38.5.0-2.el5.centos.x86_64
+#   - firefox-devel:1.5.0.12-15.el5.centos.x86_64
 #
 # CVE List:
 #   - CVE-2008-0593

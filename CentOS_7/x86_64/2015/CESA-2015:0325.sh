@@ -3,30 +3,30 @@
 # Security fix for CESA-2015:0325
 #
 # Security announcement date: 2015-03-17 13:28:17 UTC
-# Script generation date:     2016-01-01 07:07:04 UTC
+# Script generation date:     2016-01-06 19:08:08 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - httpd:2.4.6-31.el7.centos
-#   - httpd-devel:2.4.6-31.el7.centos
-#   - httpd-manual:2.4.6-31.el7.centos
-#   - httpd-tools:2.4.6-31.el7.centos
-#   - mod_ldap:2.4.6-31.el7.centos
-#   - mod_proxy_html:2.4.6-31.el7.centos
-#   - mod_session:2.4.6-31.el7.centos
-#   - mod_ssl:2.4.6-31.el7.centos
+#   - httpd:2.4.6-31.el7.centos.x86_64
+#   - httpd-devel:2.4.6-31.el7.centos.x86_64
+#   - httpd-manual:2.4.6-31.el7.centos.noarch
+#   - httpd-tools:2.4.6-31.el7.centos.x86_64
+#   - mod_ldap:2.4.6-31.el7.centos.x86_64
+#   - mod_proxy_html:2.4.6-31.el7.centos.x86_64
+#   - mod_session:2.4.6-31.el7.centos.x86_64
+#   - mod_ssl:2.4.6-31.el7.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - httpd:2.4.6-31.el7.centos.1
-#   - httpd-devel:2.4.6-31.el7.centos.1
-#   - httpd-manual:2.4.6-31.el7.centos.1
-#   - httpd-tools:2.4.6-31.el7.centos.1
-#   - mod_ldap:2.4.6-31.el7.centos.1
-#   - mod_proxy_html:2.4.6-31.el7.centos.1
-#   - mod_session:2.4.6-31.el7.centos.1
-#   - mod_ssl:2.4.6-31.el7.centos.1
+#   - httpd:2.4.6-31.el7.centos.1.x86_64
+#   - httpd-devel:2.4.6-31.el7.centos.1.x86_64
+#   - httpd-manual:2.4.6-31.el7.centos.1.noarch
+#   - httpd-tools:2.4.6-31.el7.centos.1.x86_64
+#   - mod_ldap:2.4.6-31.el7.centos.1.x86_64
+#   - mod_proxy_html:2.4.6-31.el7.centos.1.x86_64
+#   - mod_session:2.4.6-31.el7.centos.1.x86_64
+#   - mod_ssl:2.4.6-31.el7.centos.1.x86_64
 #
 # CVE List:
 #   - CVE-2013-5704

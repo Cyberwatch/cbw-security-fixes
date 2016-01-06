@@ -3,20 +3,20 @@
 # Security fix for CESA-2015:1002
 #
 # Security announcement date: 2015-05-13 15:16:55 UTC
-# Script generation date:     2016-01-01 07:07:09 UTC
+# Script generation date:     2016-01-06 19:08:13 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - xen:3.0.3-146.el5_11
-#   - xen-devel:3.0.3-146.el5_11
-#   - xen-libs:3.0.3-146.el5_11
+#   - xen:3.0.3-146.el5_11.x86_64
+#   - xen-devel:3.0.3-146.el5_11.x86_64
+#   - xen-libs:3.0.3-146.el5_11.x86_64
 #
 # Last versions recommanded by security team:
-#   - xen:3.0.3-147.el5_11
-#   - xen-devel:3.0.3-147.el5_11
-#   - xen-libs:3.0.3-147.el5_11
+#   - xen:3.0.3-147.el5_11.x86_64
+#   - xen-devel:3.0.3-147.el5_11.x86_64
+#   - xen-libs:3.0.3-147.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2015-3456

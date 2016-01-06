@@ -3,52 +3,52 @@
 # Security fix for CESA-2014:1824
 #
 # Security announcement date: 2014-11-06 18:30:07 UTC
-# Script generation date:     2016-01-01 07:06:57 UTC
+# Script generation date:     2016-01-06 19:08:01 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - php:5.1.6-45.el5_11
-#   - php-bcmath:5.1.6-45.el5_11
-#   - php-cli:5.1.6-45.el5_11
-#   - php-common:5.1.6-45.el5_11
-#   - php-dba:5.1.6-45.el5_11
-#   - php-devel:5.1.6-45.el5_11
-#   - php-gd:5.1.6-45.el5_11
-#   - php-imap:5.1.6-45.el5_11
-#   - php-ldap:5.1.6-45.el5_11
-#   - php-mbstring:5.1.6-45.el5_11
-#   - php-mysql:5.1.6-45.el5_11
-#   - php-ncurses:5.1.6-45.el5_11
-#   - php-odbc:5.1.6-45.el5_11
-#   - php-pdo:5.1.6-45.el5_11
-#   - php-pgsql:5.1.6-45.el5_11
-#   - php-snmp:5.1.6-45.el5_11
-#   - php-soap:5.1.6-45.el5_11
-#   - php-xml:5.1.6-45.el5_11
-#   - php-xmlrpc:5.1.6-45.el5_11
+#   - php:5.1.6-45.el5_11.x86_64
+#   - php-bcmath:5.1.6-45.el5_11.x86_64
+#   - php-cli:5.1.6-45.el5_11.x86_64
+#   - php-common:5.1.6-45.el5_11.x86_64
+#   - php-dba:5.1.6-45.el5_11.x86_64
+#   - php-devel:5.1.6-45.el5_11.x86_64
+#   - php-gd:5.1.6-45.el5_11.x86_64
+#   - php-imap:5.1.6-45.el5_11.x86_64
+#   - php-ldap:5.1.6-45.el5_11.x86_64
+#   - php-mbstring:5.1.6-45.el5_11.x86_64
+#   - php-mysql:5.1.6-45.el5_11.x86_64
+#   - php-ncurses:5.1.6-45.el5_11.x86_64
+#   - php-odbc:5.1.6-45.el5_11.x86_64
+#   - php-pdo:5.1.6-45.el5_11.x86_64
+#   - php-pgsql:5.1.6-45.el5_11.x86_64
+#   - php-snmp:5.1.6-45.el5_11.x86_64
+#   - php-soap:5.1.6-45.el5_11.x86_64
+#   - php-xml:5.1.6-45.el5_11.x86_64
+#   - php-xmlrpc:5.1.6-45.el5_11.x86_64
 #
 # Last versions recommanded by security team:
-#   - php:5.1.6-45.el5_11
-#   - php-bcmath:5.1.6-45.el5_11
-#   - php-cli:5.1.6-45.el5_11
-#   - php-common:5.1.6-45.el5_11
-#   - php-dba:5.1.6-45.el5_11
-#   - php-devel:5.1.6-45.el5_11
-#   - php-gd:5.1.6-45.el5_11
-#   - php-imap:5.1.6-45.el5_11
-#   - php-ldap:5.1.6-45.el5_11
-#   - php-mbstring:5.1.6-45.el5_11
-#   - php-mysql:5.1.6-45.el5_11
-#   - php-ncurses:5.1.6-45.el5_11
-#   - php-odbc:5.1.6-45.el5_11
-#   - php-pdo:5.1.6-45.el5_11
-#   - php-pgsql:5.1.6-45.el5_11
-#   - php-snmp:5.1.6-45.el5_11
-#   - php-soap:5.1.6-45.el5_11
-#   - php-xml:5.1.6-45.el5_11
-#   - php-xmlrpc:5.1.6-45.el5_11
+#   - php:5.1.6-45.el5_11.x86_64
+#   - php-bcmath:5.1.6-45.el5_11.x86_64
+#   - php-cli:5.1.6-45.el5_11.x86_64
+#   - php-common:5.1.6-45.el5_11.x86_64
+#   - php-dba:5.1.6-45.el5_11.x86_64
+#   - php-devel:5.1.6-45.el5_11.x86_64
+#   - php-gd:5.1.6-45.el5_11.x86_64
+#   - php-imap:5.1.6-45.el5_11.x86_64
+#   - php-ldap:5.1.6-45.el5_11.x86_64
+#   - php-mbstring:5.1.6-45.el5_11.x86_64
+#   - php-mysql:5.1.6-45.el5_11.x86_64
+#   - php-ncurses:5.1.6-45.el5_11.x86_64
+#   - php-odbc:5.1.6-45.el5_11.x86_64
+#   - php-pdo:5.1.6-45.el5_11.x86_64
+#   - php-pgsql:5.1.6-45.el5_11.x86_64
+#   - php-snmp:5.1.6-45.el5_11.x86_64
+#   - php-soap:5.1.6-45.el5_11.x86_64
+#   - php-xml:5.1.6-45.el5_11.x86_64
+#   - php-xmlrpc:5.1.6-45.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2014-8626

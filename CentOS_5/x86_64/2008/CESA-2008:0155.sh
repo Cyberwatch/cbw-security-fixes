@@ -3,20 +3,20 @@
 # Security fix for CESA-2008:0155
 #
 # Security announcement date: 2008-03-03 19:13:18 UTC
-# Script generation date:     2016-01-01 07:04:57 UTC
+# Script generation date:     2016-01-06 19:06:11 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ghostscript:8.15.2-9.1.el5_1.1
-#   - ghostscript-devel:8.15.2-9.1.el5_1.1
-#   - ghostscript-gtk:8.15.2-9.1.el5_1.1
+#   - ghostscript:8.15.2-9.1.el5_1.1.x86_64
+#   - ghostscript-devel:8.15.2-9.1.el5_1.1.x86_64
+#   - ghostscript-gtk:8.15.2-9.1.el5_1.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - ghostscript:8.70-14.el5_8.1
-#   - ghostscript-devel:8.70-14.el5_8.1
-#   - ghostscript-gtk:8.70-14.el5_8.1
+#   - ghostscript:8.70-14.el5_8.1.x86_64
+#   - ghostscript-devel:8.70-14.el5_8.1.x86_64
+#   - ghostscript-gtk:8.70-14.el5_8.1.x86_64
 #
 # CVE List:
 #   - CVE-2008-0411

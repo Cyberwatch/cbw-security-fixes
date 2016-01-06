@@ -3,24 +3,24 @@
 # Security fix for CESA-2012:0135
 #
 # Security announcement date: 2012-02-15 10:26:37 UTC
-# Script generation date:     2016-01-01 07:05:53 UTC
+# Script generation date:     2016-01-06 19:07:00 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.6.0-openjdk:1.6.0.0-1.43.1.10.6.el6_2
-#   - java-1.6.0-openjdk-demo:1.6.0.0-1.43.1.10.6.el6_2
-#   - java-1.6.0-openjdk-devel:1.6.0.0-1.43.1.10.6.el6_2
-#   - java-1.6.0-openjdk-javadoc:1.6.0.0-1.43.1.10.6.el6_2
-#   - java-1.6.0-openjdk-src:1.6.0.0-1.43.1.10.6.el6_2
+#   - java-1.6.0-openjdk:1.6.0.0-1.43.1.10.6.el6_2.x86_64
+#   - java-1.6.0-openjdk-demo:1.6.0.0-1.43.1.10.6.el6_2.x86_64
+#   - java-1.6.0-openjdk-devel:1.6.0.0-1.43.1.10.6.el6_2.x86_64
+#   - java-1.6.0-openjdk-javadoc:1.6.0.0-1.43.1.10.6.el6_2.x86_64
+#   - java-1.6.0-openjdk-src:1.6.0.0-1.43.1.10.6.el6_2.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-openjdk:1.6.0.37-1.13.9.4.el6_7
-#   - java-1.6.0-openjdk-demo:1.6.0.37-1.13.9.4.el6_7
-#   - java-1.6.0-openjdk-devel:1.6.0.37-1.13.9.4.el6_7
-#   - java-1.6.0-openjdk-javadoc:1.6.0.37-1.13.9.4.el6_7
-#   - java-1.6.0-openjdk-src:1.6.0.37-1.13.9.4.el6_7
+#   - java-1.6.0-openjdk:1.6.0.37-1.13.9.4.el6_7.x86_64
+#   - java-1.6.0-openjdk-demo:1.6.0.37-1.13.9.4.el6_7.x86_64
+#   - java-1.6.0-openjdk-devel:1.6.0.37-1.13.9.4.el6_7.x86_64
+#   - java-1.6.0-openjdk-javadoc:1.6.0.37-1.13.9.4.el6_7.x86_64
+#   - java-1.6.0-openjdk-src:1.6.0.37-1.13.9.4.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2011-5035

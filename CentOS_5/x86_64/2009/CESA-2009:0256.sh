@@ -3,30 +3,30 @@
 # Security fix for CESA-2009:0256
 #
 # Security announcement date: 2009-02-05 01:08:30 UTC
-# Script generation date:     2016-01-01 07:05:15 UTC
+# Script generation date:     2016-01-06 19:06:22 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:3.0.6-1.el5.centos
-#   - nss:3.12.2.0-4.el5.centos
-#   - nss-devel:3.12.2.0-4.el5.centos
-#   - nss-pkcs11-devel:3.12.2.0-4.el5.centos
-#   - nss-tools:3.12.2.0-4.el5.centos
-#   - xulrunner:1.9.0.6-1.el5
-#   - xulrunner-devel:1.9.0.6-1.el5
-#   - xulrunner-devel-unstable:1.9.0.6-1.el5
+#   - firefox:3.0.6-1.el5.centos.x86_64
+#   - nss:3.12.2.0-4.el5.centos.x86_64
+#   - nss-devel:3.12.2.0-4.el5.centos.x86_64
+#   - nss-pkcs11-devel:3.12.2.0-4.el5.centos.x86_64
+#   - nss-tools:3.12.2.0-4.el5.centos.x86_64
+#   - xulrunner:1.9.0.6-1.el5.x86_64
+#   - xulrunner-devel:1.9.0.6-1.el5.x86_64
+#   - xulrunner-devel-unstable:1.9.0.6-1.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - firefox:38.5.0-2.el5.centos
-#   - nss:3.19.1-2.el5_11
-#   - nss-devel:3.19.1-2.el5_11
-#   - nss-pkcs11-devel:3.19.1-2.el5_11
-#   - nss-tools:3.19.1-2.el5_11
-#   - xulrunner:17.0.10-1.el5_10
-#   - xulrunner-devel:17.0.10-1.el5_10
-#   - xulrunner-devel-unstable:1.9.0.18-1.el5_4
+#   - firefox:38.5.0-2.el5.centos.x86_64
+#   - nss:3.19.1-2.el5_11.x86_64
+#   - nss-devel:3.19.1-2.el5_11.x86_64
+#   - nss-pkcs11-devel:3.19.1-2.el5_11.x86_64
+#   - nss-tools:3.19.1-2.el5_11.x86_64
+#   - xulrunner:17.0.10-1.el5_10.x86_64
+#   - xulrunner-devel:17.0.10-1.el5_10.x86_64
+#   - xulrunner-devel-unstable:1.9.0.18-1.el5_4.x86_64
 #
 # CVE List:
 #   - CVE-2009-0355

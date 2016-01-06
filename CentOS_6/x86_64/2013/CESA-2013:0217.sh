@@ -3,18 +3,18 @@
 # Security fix for CESA-2013:0217
 #
 # Security announcement date: 2013-02-01 00:53:30 UTC
-# Script generation date:     2016-01-01 07:06:15 UTC
+# Script generation date:     2016-01-06 19:07:21 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mingw32-libxml2:2.7.6-6.el6_3
-#   - mingw32-libxml2-static:2.7.6-6.el6_3
+#   - mingw32-libxml2:2.7.6-6.el6_3.noarch
+#   - mingw32-libxml2-static:2.7.6-6.el6_3.noarch
 #
 # Last versions recommanded by security team:
-#   - mingw32-libxml2:2.7.6-6.el6_3
-#   - mingw32-libxml2-static:2.7.6-6.el6_3
+#   - mingw32-libxml2:2.7.6-6.el6_3.noarch
+#   - mingw32-libxml2-static:2.7.6-6.el6_3.noarch
 #
 # CVE List:
 #   - CVE-2011-3102

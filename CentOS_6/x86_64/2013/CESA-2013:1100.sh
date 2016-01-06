@@ -3,24 +3,24 @@
 # Security fix for CESA-2013:1100
 #
 # Security announcement date: 2013-07-22 20:02:54 UTC
-# Script generation date:     2016-01-01 07:06:29 UTC
+# Script generation date:     2016-01-06 19:07:34 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - qemu-guest-agent:0.12.1.2-2.355.0.1.el6.centos.6
-#   - qemu-guest-agent-win32:0.12.1.2-2.355.0.1.el6.centos.6
-#   - qemu-img:0.12.1.2-2.355.0.1.el6.centos.6
-#   - qemu-kvm:0.12.1.2-2.355.0.1.el6.centos.6
-#   - qemu-kvm-tools:0.12.1.2-2.355.0.1.el6.centos.6
+#   - qemu-guest-agent:0.12.1.2-2.355.0.1.el6.centos.6.x86_64
+#   - qemu-guest-agent-win32:0.12.1.2-2.355.0.1.el6.centos.6.x86_64
+#   - qemu-img:0.12.1.2-2.355.0.1.el6.centos.6.x86_64
+#   - qemu-kvm:0.12.1.2-2.355.0.1.el6.centos.6.x86_64
+#   - qemu-kvm-tools:0.12.1.2-2.355.0.1.el6.centos.6.x86_64
 #
 # Last versions recommanded by security team:
-#   - qemu-guest-agent:0.12.1.2-2.479.el6_7.3
-#   - qemu-guest-agent-win32:0.12.1.2-2.355.0.1.el6.centos.6
-#   - qemu-img:0.12.1.2-2.479.el6_7.3
-#   - qemu-kvm:0.12.1.2-2.479.el6_7.3
-#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.3
+#   - qemu-guest-agent:0.12.1.2-2.479.el6_7.3.x86_64
+#   - qemu-guest-agent-win32:0.12.1.2-2.355.0.1.el6.centos.6.x86_64
+#   - qemu-img:0.12.1.2-2.479.el6_7.3.x86_64
+#   - qemu-kvm:0.12.1.2-2.479.el6_7.3.x86_64
+#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.3.x86_64
 #
 # CVE List:
 #   - CVE-2013-2231

@@ -3,16 +3,16 @@
 # Security fix for CESA-2012:0080
 #
 # Security announcement date: 2012-02-01 11:56:07 UTC
-# Script generation date:     2016-01-01 07:05:52 UTC
+# Script generation date:     2016-01-06 19:06:58 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - thunderbird:3.1.18-1.el6.centos
+#   - thunderbird:3.1.18-1.el6.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - thunderbird:38.4.0-1.el6.centos
+#   - thunderbird:38.4.0-1.el6.centos.x86_64
 #
 # CVE List:
 #   - CVE-2011-3659

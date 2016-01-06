@@ -3,20 +3,20 @@
 # Security fix for CESA-2011:0838
 #
 # Security announcement date: 2011-05-31 17:02:44 UTC
-# Script generation date:     2016-01-01 07:05:41 UTC
+# Script generation date:     2016-01-06 19:06:48 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - gimp:2.2.13-2.0.7.el5_6.2
-#   - gimp-devel:2.2.13-2.0.7.el5_6.2
-#   - gimp-libs:2.2.13-2.0.7.el5_6.2
+#   - gimp:2.2.13-2.0.7.el5_6.2.x86_64
+#   - gimp-devel:2.2.13-2.0.7.el5_6.2.x86_64
+#   - gimp-libs:2.2.13-2.0.7.el5_6.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - gimp:2.2.13-3.el5_10
-#   - gimp-devel:2.2.13-3.el5_10
-#   - gimp-libs:2.2.13-3.el5_10
+#   - gimp:2.2.13-3.el5_10.x86_64
+#   - gimp-devel:2.2.13-3.el5_10.x86_64
+#   - gimp-libs:2.2.13-3.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2009-1570

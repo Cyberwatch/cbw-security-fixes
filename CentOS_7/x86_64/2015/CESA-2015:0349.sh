@@ -3,28 +3,28 @@
 # Security fix for CESA-2015:0349
 #
 # Security announcement date: 2015-03-17 13:29:43 UTC
-# Script generation date:     2016-01-01 07:07:06 UTC
+# Script generation date:     2016-01-06 19:08:10 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libcacard:1.5.3-86.el7
-#   - libcacard-devel:1.5.3-86.el7
-#   - libcacard-tools:1.5.3-86.el7
-#   - qemu-img:1.5.3-86.el7
-#   - qemu-kvm:1.5.3-86.el7
-#   - qemu-kvm-common:1.5.3-86.el7
-#   - qemu-kvm-tools:1.5.3-86.el7
+#   - libcacard:1.5.3-86.el7.x86_64
+#   - libcacard-devel:1.5.3-86.el7.x86_64
+#   - libcacard-tools:1.5.3-86.el7.x86_64
+#   - qemu-img:1.5.3-86.el7.x86_64
+#   - qemu-kvm:1.5.3-86.el7.x86_64
+#   - qemu-kvm-common:1.5.3-86.el7.x86_64
+#   - qemu-kvm-tools:1.5.3-86.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - libcacard:1.5.3-86.el7_1.8
-#   - libcacard-devel:1.5.3-86.el7_1.8
-#   - libcacard-tools:1.5.3-86.el7_1.8
-#   - qemu-img:1.5.3-86.el7_1.8
-#   - qemu-kvm:1.5.3-86.el7_1.8
-#   - qemu-kvm-common:1.5.3-86.el7_1.8
-#   - qemu-kvm-tools:1.5.3-86.el7_1.8
+#   - libcacard:1.5.3-86.el7_1.8.x86_64
+#   - libcacard-devel:1.5.3-86.el7_1.8.x86_64
+#   - libcacard-tools:1.5.3-86.el7_1.8.x86_64
+#   - qemu-img:1.5.3-86.el7_1.8.x86_64
+#   - qemu-kvm:1.5.3-86.el7_1.8.x86_64
+#   - qemu-kvm-common:1.5.3-86.el7_1.8.x86_64
+#   - qemu-kvm-tools:1.5.3-86.el7_1.8.x86_64
 #
 # CVE List:
 #   - CVE-2014-7815

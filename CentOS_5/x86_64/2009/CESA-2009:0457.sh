@@ -3,18 +3,18 @@
 # Security fix for CESA-2009:0457
 #
 # Security announcement date: 2009-05-19 14:39:06 UTC
-# Script generation date:     2016-01-01 07:05:17 UTC
+# Script generation date:     2016-01-06 19:06:25 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libwmf:0.2.8.4-10.2
-#   - libwmf-devel:0.2.8.4-10.2
+#   - libwmf:0.2.8.4-10.2.x86_64
+#   - libwmf-devel:0.2.8.4-10.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - libwmf:0.2.8.4-10.2
-#   - libwmf-devel:0.2.8.4-10.2
+#   - libwmf:0.2.8.4-10.2.x86_64
+#   - libwmf-devel:0.2.8.4-10.2.x86_64
 #
 # CVE List:
 #   - CVE-2009-1364

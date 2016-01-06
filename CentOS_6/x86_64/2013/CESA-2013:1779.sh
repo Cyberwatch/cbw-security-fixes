@@ -3,16 +3,16 @@
 # Security fix for CESA-2013:1779
 #
 # Security announcement date: 2013-12-03 22:51:46 UTC
-# Script generation date:     2016-01-01 07:06:36 UTC
+# Script generation date:     2016-01-06 19:07:41 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mod_nss:1.0.8-19.el6_5
+#   - mod_nss:1.0.8-19.el6_5.x86_64
 #
 # Last versions recommanded by security team:
-#   - mod_nss:1.0.8-19.el6_5
+#   - mod_nss:1.0.8-19.el6_5.x86_64
 #
 # CVE List:
 #   - CVE-2013-4566

@@ -3,56 +3,56 @@
 # Security fix for CESA-2011:0196
 #
 # Security announcement date: 2011-04-14 23:48:18 UTC
-# Script generation date:     2016-01-01 07:05:39 UTC
+# Script generation date:     2016-01-06 19:06:46 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - php53:5.3.3-1.el5_6.1
-#   - php53-bcmath:5.3.3-1.el5_6.1
-#   - php53-cli:5.3.3-1.el5_6.1
-#   - php53-common:5.3.3-1.el5_6.1
-#   - php53-dba:5.3.3-1.el5_6.1
-#   - php53-devel:5.3.3-1.el5_6.1
-#   - php53-gd:5.3.3-1.el5_6.1
-#   - php53-imap:5.3.3-1.el5_6.1
-#   - php53-intl:5.3.3-1.el5_6.1
-#   - php53-ldap:5.3.3-1.el5_6.1
-#   - php53-mbstring:5.3.3-1.el5_6.1
-#   - php53-mysql:5.3.3-1.el5_6.1
-#   - php53-odbc:5.3.3-1.el5_6.1
-#   - php53-pdo:5.3.3-1.el5_6.1
-#   - php53-pgsql:5.3.3-1.el5_6.1
-#   - php53-process:5.3.3-1.el5_6.1
-#   - php53-pspell:5.3.3-1.el5_6.1
-#   - php53-snmp:5.3.3-1.el5_6.1
-#   - php53-soap:5.3.3-1.el5_6.1
-#   - php53-xml:5.3.3-1.el5_6.1
-#   - php53-xmlrpc:5.3.3-1.el5_6.1
+#   - php53:5.3.3-1.el5_6.1.x86_64
+#   - php53-bcmath:5.3.3-1.el5_6.1.x86_64
+#   - php53-cli:5.3.3-1.el5_6.1.x86_64
+#   - php53-common:5.3.3-1.el5_6.1.x86_64
+#   - php53-dba:5.3.3-1.el5_6.1.x86_64
+#   - php53-devel:5.3.3-1.el5_6.1.x86_64
+#   - php53-gd:5.3.3-1.el5_6.1.x86_64
+#   - php53-imap:5.3.3-1.el5_6.1.x86_64
+#   - php53-intl:5.3.3-1.el5_6.1.x86_64
+#   - php53-ldap:5.3.3-1.el5_6.1.x86_64
+#   - php53-mbstring:5.3.3-1.el5_6.1.x86_64
+#   - php53-mysql:5.3.3-1.el5_6.1.x86_64
+#   - php53-odbc:5.3.3-1.el5_6.1.x86_64
+#   - php53-pdo:5.3.3-1.el5_6.1.x86_64
+#   - php53-pgsql:5.3.3-1.el5_6.1.x86_64
+#   - php53-process:5.3.3-1.el5_6.1.x86_64
+#   - php53-pspell:5.3.3-1.el5_6.1.x86_64
+#   - php53-snmp:5.3.3-1.el5_6.1.x86_64
+#   - php53-soap:5.3.3-1.el5_6.1.x86_64
+#   - php53-xml:5.3.3-1.el5_6.1.x86_64
+#   - php53-xmlrpc:5.3.3-1.el5_6.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - php53:5.3.3-26.el5_11
-#   - php53-bcmath:5.3.3-26.el5_11
-#   - php53-cli:5.3.3-26.el5_11
-#   - php53-common:5.3.3-26.el5_11
-#   - php53-dba:5.3.3-26.el5_11
-#   - php53-devel:5.3.3-26.el5_11
-#   - php53-gd:5.3.3-26.el5_11
-#   - php53-imap:5.3.3-26.el5_11
-#   - php53-intl:5.3.3-26.el5_11
-#   - php53-ldap:5.3.3-26.el5_11
-#   - php53-mbstring:5.3.3-26.el5_11
-#   - php53-mysql:5.3.3-26.el5_11
-#   - php53-odbc:5.3.3-26.el5_11
-#   - php53-pdo:5.3.3-26.el5_11
-#   - php53-pgsql:5.3.3-26.el5_11
-#   - php53-process:5.3.3-26.el5_11
-#   - php53-pspell:5.3.3-26.el5_11
-#   - php53-snmp:5.3.3-26.el5_11
-#   - php53-soap:5.3.3-26.el5_11
-#   - php53-xml:5.3.3-26.el5_11
-#   - php53-xmlrpc:5.3.3-26.el5_11
+#   - php53:5.3.3-26.el5_11.x86_64
+#   - php53-bcmath:5.3.3-26.el5_11.x86_64
+#   - php53-cli:5.3.3-26.el5_11.x86_64
+#   - php53-common:5.3.3-26.el5_11.x86_64
+#   - php53-dba:5.3.3-26.el5_11.x86_64
+#   - php53-devel:5.3.3-26.el5_11.x86_64
+#   - php53-gd:5.3.3-26.el5_11.x86_64
+#   - php53-imap:5.3.3-26.el5_11.x86_64
+#   - php53-intl:5.3.3-26.el5_11.x86_64
+#   - php53-ldap:5.3.3-26.el5_11.x86_64
+#   - php53-mbstring:5.3.3-26.el5_11.x86_64
+#   - php53-mysql:5.3.3-26.el5_11.x86_64
+#   - php53-odbc:5.3.3-26.el5_11.x86_64
+#   - php53-pdo:5.3.3-26.el5_11.x86_64
+#   - php53-pgsql:5.3.3-26.el5_11.x86_64
+#   - php53-process:5.3.3-26.el5_11.x86_64
+#   - php53-pspell:5.3.3-26.el5_11.x86_64
+#   - php53-snmp:5.3.3-26.el5_11.x86_64
+#   - php53-soap:5.3.3-26.el5_11.x86_64
+#   - php53-xml:5.3.3-26.el5_11.x86_64
+#   - php53-xmlrpc:5.3.3-26.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2010-3710

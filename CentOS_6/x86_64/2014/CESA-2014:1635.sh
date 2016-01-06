@@ -3,16 +3,16 @@
 # Security fix for CESA-2014:1635
 #
 # Security announcement date: 2014-10-20 18:14:56 UTC
-# Script generation date:     2016-01-01 07:06:57 UTC
+# Script generation date:     2016-01-06 19:08:00 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:31.2.0-3.el6.centos
+#   - firefox:31.2.0-3.el6.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - firefox:38.5.0-2.el6.centos
+#   - firefox:38.5.0-2.el6.centos.x86_64
 #
 # CVE List:
 #   - CVE-2014-1574

@@ -3,20 +3,20 @@
 # Security fix for CESA-2015:1254
 #
 # Security announcement date: 2015-07-26 14:12:23 UTC
-# Script generation date:     2016-01-01 07:07:13 UTC
+# Script generation date:     2016-01-06 19:08:17 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - curl:7.19.7-46.el6
-#   - libcurl:7.19.7-46.el6
-#   - libcurl-devel:7.19.7-46.el6
+#   - curl:7.19.7-46.el6.x86_64
+#   - libcurl:7.19.7-46.el6.x86_64
+#   - libcurl-devel:7.19.7-46.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - curl:7.19.7-46.el6
-#   - libcurl:7.19.7-46.el6
-#   - libcurl-devel:7.19.7-46.el6
+#   - curl:7.19.7-46.el6.x86_64
+#   - libcurl:7.19.7-46.el6.x86_64
+#   - libcurl-devel:7.19.7-46.el6.x86_64
 #
 # CVE List:
 #   - CVE-2014-8150

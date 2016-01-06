@@ -3,48 +3,48 @@
 # Security fix for CESA-2010:0039
 #
 # Security announcement date: 2010-01-14 12:58:42 UTC
-# Script generation date:     2016-01-01 07:05:25 UTC
+# Script generation date:     2016-01-06 19:06:33 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - cpp:4.1.2-46.el5_4.2
-#   - gcc:4.1.2-46.el5_4.2
-#   - :4.1.2-46.el5_4.2
-#   - gcc-gfortran:4.1.2-46.el5_4.2
-#   - gcc-gnat:4.1.2-46.el5_4.2
-#   - gcc-java:4.1.2-46.el5_4.2
-#   - gcc-objc:4.1.2-46.el5_4.2
-#   - libgcc:4.1.2-46.el5_4.2
-#   - libgcj:4.1.2-46.el5_4.2
-#   - libgcj-devel:4.1.2-46.el5_4.2
-#   - libgcj-src:4.1.2-46.el5_4.2
-#   - libgfortran:4.1.2-46.el5_4.2
-#   - libgnat:4.1.2-46.el5_4.2
-#   - libmudflap:4.1.2-46.el5_4.2
-#   - libmudflap-devel:4.1.2-46.el5_4.2
-#   - libobjc:4.1.2-46.el5_4.2
-#   - -devel:4.1.2-46.el5_4.2
+#   - cpp:4.1.2-46.el5_4.2.x86_64
+#   - gcc:4.1.2-46.el5_4.2.x86_64
+#   - :4.1.2-46.el5_4.2.x86_64
+#   - gcc-gfortran:4.1.2-46.el5_4.2.x86_64
+#   - gcc-gnat:4.1.2-46.el5_4.2.x86_64
+#   - gcc-java:4.1.2-46.el5_4.2.x86_64
+#   - gcc-objc:4.1.2-46.el5_4.2.x86_64
+#   - libgcc:4.1.2-46.el5_4.2.x86_64
+#   - libgcj:4.1.2-46.el5_4.2.x86_64
+#   - libgcj-devel:4.1.2-46.el5_4.2.x86_64
+#   - libgcj-src:4.1.2-46.el5_4.2.x86_64
+#   - libgfortran:4.1.2-46.el5_4.2.x86_64
+#   - libgnat:4.1.2-46.el5_4.2.x86_64
+#   - libmudflap:4.1.2-46.el5_4.2.x86_64
+#   - libmudflap-devel:4.1.2-46.el5_4.2.x86_64
+#   - libobjc:4.1.2-46.el5_4.2.x86_64
+#   - -devel:4.1.2-46.el5_4.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - cpp:4.1.2-46.el5_4.2
-#   - gcc:4.1.2-46.el5_4.2
-#   - :6.2.8.0-15.el5_8
-#   - gcc-gfortran:4.1.2-46.el5_4.2
-#   - gcc-gnat:4.1.2-46.el5_4.2
-#   - gcc-java:4.1.2-46.el5_4.2
-#   - gcc-objc:4.1.2-46.el5_4.2
-#   - libgcc:4.1.2-46.el5_4.2
-#   - libgcj:4.1.2-46.el5_4.2
-#   - libgcj-devel:4.1.2-46.el5_4.2
-#   - libgcj-src:4.1.2-46.el5_4.2
-#   - libgfortran:4.1.2-46.el5_4.2
-#   - libgnat:4.1.2-46.el5_4.2
-#   - libmudflap:4.1.2-46.el5_4.2
-#   - libmudflap-devel:4.1.2-46.el5_4.2
-#   - libobjc:4.1.2-46.el5_4.2
-#   - -devel:6.2.8.0-15.el5_8
+#   - cpp:4.1.2-46.el5_4.2.x86_64
+#   - gcc:4.1.2-46.el5_4.2.x86_64
+#   - :6.2.8.0-15.el5_8.x86_64
+#   - gcc-gfortran:4.1.2-46.el5_4.2.x86_64
+#   - gcc-gnat:4.1.2-46.el5_4.2.x86_64
+#   - gcc-java:4.1.2-46.el5_4.2.x86_64
+#   - gcc-objc:4.1.2-46.el5_4.2.x86_64
+#   - libgcc:4.1.2-46.el5_4.2.x86_64
+#   - libgcj:4.1.2-46.el5_4.2.x86_64
+#   - libgcj-devel:4.1.2-46.el5_4.2.x86_64
+#   - libgcj-src:4.1.2-46.el5_4.2.x86_64
+#   - libgfortran:4.1.2-46.el5_4.2.x86_64
+#   - libgnat:4.1.2-46.el5_4.2.x86_64
+#   - libmudflap:4.1.2-46.el5_4.2.x86_64
+#   - libmudflap-devel:4.1.2-46.el5_4.2.x86_64
+#   - libobjc:4.1.2-46.el5_4.2.x86_64
+#   - -devel:6.2.8.0-15.el5_8.x86_64
 #
 # CVE List:
 #   - CVE-2009-3736

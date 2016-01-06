@@ -3,20 +3,20 @@
 # Security fix for CESA-2011:1777
 #
 # Security announcement date: 2011-12-22 15:54:26 UTC
-# Script generation date:     2016-01-01 07:05:48 UTC
+# Script generation date:     2016-01-06 19:06:55 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - qemu-img:0.12.1.2-2.209.el6_2.1
-#   - qemu-kvm:0.12.1.2-2.209.el6_2.1
-#   - qemu-kvm-tools:0.12.1.2-2.209.el6_2.1
+#   - qemu-img:0.12.1.2-2.209.el6_2.1.x86_64
+#   - qemu-kvm:0.12.1.2-2.209.el6_2.1.x86_64
+#   - qemu-kvm-tools:0.12.1.2-2.209.el6_2.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - qemu-img:0.12.1.2-2.479.el6_7.3
-#   - qemu-kvm:0.12.1.2-2.479.el6_7.3
-#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.3
+#   - qemu-img:0.12.1.2-2.479.el6_7.3.x86_64
+#   - qemu-kvm:0.12.1.2-2.479.el6_7.3.x86_64
+#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.3.x86_64
 #
 # CVE List:
 #   - CVE-2011-4111

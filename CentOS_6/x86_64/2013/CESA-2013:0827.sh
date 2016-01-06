@@ -3,18 +3,18 @@
 # Security fix for CESA-2013:0827
 #
 # Security announcement date: 2013-05-16 00:24:06 UTC
-# Script generation date:     2016-01-01 07:06:27 UTC
+# Script generation date:     2016-01-06 19:07:32 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openswan:2.6.32-20.el6_4
-#   - openswan-doc:2.6.32-20.el6_4
+#   - openswan:2.6.32-20.el6_4.x86_64
+#   - openswan-doc:2.6.32-20.el6_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - openswan:2.6.32-27.2.el6_5
-#   - openswan-doc:2.6.32-27.2.el6_5
+#   - openswan:2.6.32-27.2.el6_5.x86_64
+#   - openswan-doc:2.6.32-27.2.el6_5.x86_64
 #
 # CVE List:
 #   - CVE-2013-2053

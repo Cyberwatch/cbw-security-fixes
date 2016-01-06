@@ -3,16 +3,16 @@
 # Security fix for CESA-2014:0132
 #
 # Security announcement date: 2014-02-05 09:43:50 UTC
-# Script generation date:     2016-01-01 07:06:39 UTC
+# Script generation date:     2016-01-06 19:07:44 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:24.3.0-2.el5.centos
+#   - firefox:24.3.0-2.el5.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - firefox:38.5.0-2.el5.centos
+#   - firefox:38.5.0-2.el5.centos.x86_64
 #
 # CVE List:
 #   - CVE-2014-1477

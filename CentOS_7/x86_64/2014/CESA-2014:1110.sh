@@ -3,28 +3,28 @@
 # Security fix for CESA-2014:1110
 #
 # Security announcement date: 2014-08-29 21:03:35 UTC
-# Script generation date:     2016-01-01 07:06:51 UTC
+# Script generation date:     2016-01-06 19:07:55 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - glibc:2.17-55.el7_0.1
-#   - glibc-common:2.17-55.el7_0.1
-#   - glibc-devel:2.17-55.el7_0.1
-#   - glibc-headers:2.17-55.el7_0.1
-#   - glibc-static:2.17-55.el7_0.1
-#   - glibc-utils:2.17-55.el7_0.1
-#   - nscd:2.17-55.el7_0.1
+#   - glibc:2.17-55.el7_0.1.x86_64
+#   - glibc-common:2.17-55.el7_0.1.x86_64
+#   - glibc-devel:2.17-55.el7_0.1.x86_64
+#   - glibc-headers:2.17-55.el7_0.1.x86_64
+#   - glibc-static:2.17-55.el7_0.1.x86_64
+#   - glibc-utils:2.17-55.el7_0.1.x86_64
+#   - nscd:2.17-55.el7_0.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - glibc:2.17-106.el7_2.1
-#   - glibc-common:2.17-106.el7_2.1
-#   - glibc-devel:2.17-106.el7_2.1
-#   - glibc-headers:2.17-106.el7_2.1
-#   - glibc-static:2.17-106.el7_2.1
-#   - glibc-utils:2.17-106.el7_2.1
-#   - nscd:2.17-106.el7_2.1
+#   - glibc:2.17-105.el7.x86_64
+#   - glibc-common:2.17-105.el7.x86_64
+#   - glibc-devel:2.17-105.el7.x86_64
+#   - glibc-headers:2.17-105.el7.x86_64
+#   - glibc-static:2.17-105.el7.x86_64
+#   - glibc-utils:2.17-105.el7.x86_64
+#   - nscd:2.17-105.el7.x86_64
 #
 # CVE List:
 #   - CVE-2014-0475

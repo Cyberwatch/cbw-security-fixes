@@ -3,24 +3,24 @@
 # Security fix for CESA-2014:1244
 #
 # Security announcement date: 2014-09-30 11:21:28 UTC
-# Script generation date:     2016-01-01 07:06:53 UTC
+# Script generation date:     2016-01-06 19:07:57 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - bind97:9.7.0-21.P2.el5
-#   - bind97-chroot:9.7.0-21.P2.el5
-#   - bind97-devel:9.7.0-21.P2.el5
-#   - bind97-libs:9.7.0-21.P2.el5
-#   - bind97-utils:9.7.0-21.P2.el5
+#   - bind97:9.7.0-21.P2.el5.x86_64
+#   - bind97-chroot:9.7.0-21.P2.el5.x86_64
+#   - bind97-devel:9.7.0-21.P2.el5.x86_64
+#   - bind97-libs:9.7.0-21.P2.el5.x86_64
+#   - bind97-utils:9.7.0-21.P2.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - bind97:9.7.0-21.P2.el5_11.4
-#   - bind97-chroot:9.7.0-21.P2.el5_11.4
-#   - bind97-devel:9.7.0-21.P2.el5_11.4
-#   - bind97-libs:9.7.0-21.P2.el5_11.4
-#   - bind97-utils:9.7.0-21.P2.el5_11.4
+#   - bind97:9.7.0-21.P2.el5_11.4.x86_64
+#   - bind97-chroot:9.7.0-21.P2.el5_11.4.x86_64
+#   - bind97-devel:9.7.0-21.P2.el5_11.4.x86_64
+#   - bind97-libs:9.7.0-21.P2.el5_11.4.x86_64
+#   - bind97-utils:9.7.0-21.P2.el5_11.4.x86_64
 #
 # CVE List:
 #   - CVE-2014-0591

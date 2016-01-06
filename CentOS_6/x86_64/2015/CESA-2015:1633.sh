@@ -3,32 +3,32 @@
 # Security fix for CESA-2015:1633
 #
 # Security announcement date: 2015-08-17 15:33:54 UTC
-# Script generation date:     2016-01-01 07:07:15 UTC
+# Script generation date:     2016-01-06 19:08:19 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - subversion-svn2cl:1.6.11-15.el6_7
-#   - mod_dav_svn:1.6.11-15.el6_7
-#   - subversion:1.6.11-15.el6_7
-#   - subversion-devel:1.6.11-15.el6_7
-#   - subversion-gnome:1.6.11-15.el6_7
-#   - subversion-javahl:1.6.11-15.el6_7
-#   - subversion-kde:1.6.11-15.el6_7
-#   - subversion-perl:1.6.11-15.el6_7
-#   - subversion-ruby:1.6.11-15.el6_7
+#   - subversion-svn2cl:1.6.11-15.el6_7.noarch
+#   - mod_dav_svn:1.6.11-15.el6_7.x86_64
+#   - subversion:1.6.11-15.el6_7.x86_64
+#   - subversion-devel:1.6.11-15.el6_7.x86_64
+#   - subversion-gnome:1.6.11-15.el6_7.x86_64
+#   - subversion-javahl:1.6.11-15.el6_7.x86_64
+#   - subversion-kde:1.6.11-15.el6_7.x86_64
+#   - subversion-perl:1.6.11-15.el6_7.x86_64
+#   - subversion-ruby:1.6.11-15.el6_7.x86_64
 #
 # Last versions recommanded by security team:
-#   - subversion-svn2cl:1.6.11-15.el6_7
-#   - mod_dav_svn:1.6.11-15.el6_7
-#   - subversion:1.6.11-15.el6_7
-#   - subversion-devel:1.6.11-15.el6_7
-#   - subversion-gnome:1.6.11-15.el6_7
-#   - subversion-javahl:1.6.11-15.el6_7
-#   - subversion-kde:1.6.11-15.el6_7
-#   - subversion-perl:1.6.11-15.el6_7
-#   - subversion-ruby:1.6.11-15.el6_7
+#   - subversion-svn2cl:1.6.11-15.el6_7.noarch
+#   - mod_dav_svn:1.6.11-15.el6_7.x86_64
+#   - subversion:1.6.11-15.el6_7.x86_64
+#   - subversion-devel:1.6.11-15.el6_7.x86_64
+#   - subversion-gnome:1.6.11-15.el6_7.x86_64
+#   - subversion-javahl:1.6.11-15.el6_7.x86_64
+#   - subversion-kde:1.6.11-15.el6_7.x86_64
+#   - subversion-perl:1.6.11-15.el6_7.x86_64
+#   - subversion-ruby:1.6.11-15.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2015-0251

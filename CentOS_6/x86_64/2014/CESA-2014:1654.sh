@@ -3,30 +3,30 @@
 # Security fix for CESA-2014:1654
 #
 # Security announcement date: 2014-10-20 18:15:12 UTC
-# Script generation date:     2016-01-01 07:06:57 UTC
+# Script generation date:     2016-01-06 19:08:01 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rsyslog7:7.4.10-3.el6_6
-#   - rsyslog7-elasticsearch:7.4.10-3.el6_6
-#   - rsyslog7-gnutls:7.4.10-3.el6_6
-#   - rsyslog7-gssapi:7.4.10-3.el6_6
-#   - rsyslog7-mysql:7.4.10-3.el6_6
-#   - rsyslog7-pgsql:7.4.10-3.el6_6
-#   - rsyslog7-relp:7.4.10-3.el6_6
-#   - rsyslog7-snmp:7.4.10-3.el6_6
+#   - rsyslog7:7.4.10-3.el6_6.x86_64
+#   - rsyslog7-elasticsearch:7.4.10-3.el6_6.x86_64
+#   - rsyslog7-gnutls:7.4.10-3.el6_6.x86_64
+#   - rsyslog7-gssapi:7.4.10-3.el6_6.x86_64
+#   - rsyslog7-mysql:7.4.10-3.el6_6.x86_64
+#   - rsyslog7-pgsql:7.4.10-3.el6_6.x86_64
+#   - rsyslog7-relp:7.4.10-3.el6_6.x86_64
+#   - rsyslog7-snmp:7.4.10-3.el6_6.x86_64
 #
 # Last versions recommanded by security team:
-#   - rsyslog7:7.4.10-3.el6_6
-#   - rsyslog7-elasticsearch:7.4.10-3.el6_6
-#   - rsyslog7-gnutls:7.4.10-3.el6_6
-#   - rsyslog7-gssapi:7.4.10-3.el6_6
-#   - rsyslog7-mysql:7.4.10-3.el6_6
-#   - rsyslog7-pgsql:7.4.10-3.el6_6
-#   - rsyslog7-relp:7.4.10-3.el6_6
-#   - rsyslog7-snmp:7.4.10-3.el6_6
+#   - rsyslog7:7.4.10-3.el6_6.x86_64
+#   - rsyslog7-elasticsearch:7.4.10-3.el6_6.x86_64
+#   - rsyslog7-gnutls:7.4.10-3.el6_6.x86_64
+#   - rsyslog7-gssapi:7.4.10-3.el6_6.x86_64
+#   - rsyslog7-mysql:7.4.10-3.el6_6.x86_64
+#   - rsyslog7-pgsql:7.4.10-3.el6_6.x86_64
+#   - rsyslog7-relp:7.4.10-3.el6_6.x86_64
+#   - rsyslog7-snmp:7.4.10-3.el6_6.x86_64
 #
 # CVE List:
 #   - CVE-2014-3634

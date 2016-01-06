@@ -3,16 +3,16 @@
 # Security fix for CESA-2013:0868
 #
 # Security announcement date: 2013-05-29 08:24:29 UTC
-# Script generation date:     2016-01-01 07:06:27 UTC
+# Script generation date:     2016-01-06 19:07:32 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - haproxy:1.4.22-4.el6_4
+#   - haproxy:1.4.22-4.el6_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - haproxy:1.5.4-2.el6_7.1
+#   - haproxy:1.5.4-2.el6_7.1.x86_64
 #
 # CVE List:
 #   - CVE-2013-1912

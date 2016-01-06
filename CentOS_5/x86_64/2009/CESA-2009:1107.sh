@@ -3,20 +3,20 @@
 # Security fix for CESA-2009:1107
 #
 # Security announcement date: 2009-06-19 09:53:07 UTC
-# Script generation date:     2016-01-01 07:05:18 UTC
+# Script generation date:     2016-01-06 19:06:26 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - apr-util:1.2.7-7.el5_3.1
-#   - apr-util-devel:1.2.7-7.el5_3.1
-#   - apr-util-docs:1.2.7-7.el5_3.1
+#   - apr-util:1.2.7-7.el5_3.1.x86_64
+#   - apr-util-devel:1.2.7-7.el5_3.1.x86_64
+#   - apr-util-docs:1.2.7-7.el5_3.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - apr-util:1.2.7-7.el5_3.2
-#   - apr-util-devel:1.2.7-7.el5_3.2
-#   - apr-util-docs:1.2.7-7.el5_3.2
+#   - apr-util:1.2.7-7.el5_3.2.x86_64
+#   - apr-util-devel:1.2.7-7.el5_3.2.x86_64
+#   - apr-util-docs:1.2.7-7.el5_3.2.x86_64
 #
 # CVE List:
 #   - CVE-2009-0023

@@ -3,18 +3,18 @@
 # Security fix for CESA-2012:1054
 #
 # Security announcement date: 2012-07-03 13:30:55 UTC
-# Script generation date:     2016-01-01 07:06:02 UTC
+# Script generation date:     2016-01-06 19:07:08 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libtiff:3.8.2-15.el5_8
-#   - libtiff-devel:3.8.2-15.el5_8
+#   - libtiff:3.8.2-15.el5_8.x86_64
+#   - libtiff-devel:3.8.2-15.el5_8.x86_64
 #
 # Last versions recommanded by security team:
-#   - libtiff:3.8.2-19.el5_10
-#   - libtiff-devel:3.8.2-19.el5_10
+#   - libtiff:3.8.2-19.el5_10.x86_64
+#   - libtiff-devel:3.8.2-19.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2012-2088

@@ -3,20 +3,20 @@
 # Security fix for CESA-2008:0649
 #
 # Security announcement date: 2008-07-31 21:57:14 UTC
-# Script generation date:     2016-01-01 07:05:05 UTC
+# Script generation date:     2016-01-06 19:06:17 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libxslt:1.1.17-2.el5_2.2
-#   - libxslt-devel:1.1.17-2.el5_2.2
-#   - libxslt-python:1.1.17-2.el5_2.2
+#   - libxslt:1.1.17-2.el5_2.2.x86_64
+#   - libxslt-devel:1.1.17-2.el5_2.2.x86_64
+#   - libxslt-python:1.1.17-2.el5_2.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - libxslt:1.1.17-4.el5_8.3
-#   - libxslt-devel:1.1.17-4.el5_8.3
-#   - libxslt-python:1.1.17-4.el5_8.3
+#   - libxslt:1.1.17-4.el5_8.3.x86_64
+#   - libxslt-devel:1.1.17-4.el5_8.3.x86_64
+#   - libxslt-python:1.1.17-4.el5_8.3.x86_64
 #
 # CVE List:
 #   - CVE-2008-2935

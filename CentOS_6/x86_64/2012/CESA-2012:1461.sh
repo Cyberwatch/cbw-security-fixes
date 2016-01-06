@@ -3,30 +3,30 @@
 # Security fix for CESA-2012:1461
 #
 # Security announcement date: 2012-11-15 03:44:16 UTC
-# Script generation date:     2016-01-01 07:06:11 UTC
+# Script generation date:     2016-01-06 19:07:17 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libproxy:0.3.0-3.el6_3
-#   - libproxy-bin:0.3.0-3.el6_3
-#   - libproxy-devel:0.3.0-3.el6_3
-#   - libproxy-gnome:0.3.0-3.el6_3
-#   - libproxy-kde:0.3.0-3.el6_3
-#   - libproxy-mozjs:0.3.0-3.el6_3
-#   - libproxy-python:0.3.0-3.el6_3
-#   - libproxy-webkit:0.3.0-3.el6_3
+#   - libproxy:0.3.0-3.el6_3.x86_64
+#   - libproxy-bin:0.3.0-3.el6_3.x86_64
+#   - libproxy-devel:0.3.0-3.el6_3.x86_64
+#   - libproxy-gnome:0.3.0-3.el6_3.x86_64
+#   - libproxy-kde:0.3.0-3.el6_3.x86_64
+#   - libproxy-mozjs:0.3.0-3.el6_3.x86_64
+#   - libproxy-python:0.3.0-3.el6_3.x86_64
+#   - libproxy-webkit:0.3.0-3.el6_3.x86_64
 #
 # Last versions recommanded by security team:
-#   - libproxy:0.3.0-4.el6_3
-#   - libproxy-bin:0.3.0-4.el6_3
-#   - libproxy-devel:0.3.0-4.el6_3
-#   - libproxy-gnome:0.3.0-4.el6_3
-#   - libproxy-kde:0.3.0-4.el6_3
-#   - libproxy-mozjs:0.3.0-4.el6_3
-#   - libproxy-python:0.3.0-4.el6_3
-#   - libproxy-webkit:0.3.0-4.el6_3
+#   - libproxy:0.3.0-4.el6_3.x86_64
+#   - libproxy-bin:0.3.0-4.el6_3.x86_64
+#   - libproxy-devel:0.3.0-4.el6_3.x86_64
+#   - libproxy-gnome:0.3.0-4.el6_3.x86_64
+#   - libproxy-kde:0.3.0-4.el6_3.x86_64
+#   - libproxy-mozjs:0.3.0-4.el6_3.x86_64
+#   - libproxy-python:0.3.0-4.el6_3.x86_64
+#   - libproxy-webkit:0.3.0-4.el6_3.x86_64
 #
 # CVE List:
 #   - CVE-2012-4505

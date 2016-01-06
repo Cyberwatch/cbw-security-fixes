@@ -3,24 +3,24 @@
 # Security fix for CESA-2015:1230
 #
 # Security announcement date: 2015-07-15 15:39:22 UTC
-# Script generation date:     2016-01-01 07:07:11 UTC
+# Script generation date:     2016-01-06 19:08:15 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.7.0-openjdk:1.7.0.85-2.6.1.3.el5_11
-#   - java-1.7.0-openjdk-demo:1.7.0.85-2.6.1.3.el5_11
-#   - java-1.7.0-openjdk-devel:1.7.0.85-2.6.1.3.el5_11
-#   - java-1.7.0-openjdk-javadoc:1.7.0.85-2.6.1.3.el5_11
-#   - java-1.7.0-openjdk-src:1.7.0.85-2.6.1.3.el5_11
+#   - java-1.7.0-openjdk:1.7.0.85-2.6.1.3.el5_11.x86_64
+#   - java-1.7.0-openjdk-demo:1.7.0.85-2.6.1.3.el5_11.x86_64
+#   - java-1.7.0-openjdk-devel:1.7.0.85-2.6.1.3.el5_11.x86_64
+#   - java-1.7.0-openjdk-javadoc:1.7.0.85-2.6.1.3.el5_11.x86_64
+#   - java-1.7.0-openjdk-src:1.7.0.85-2.6.1.3.el5_11.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-openjdk:1.7.0.91-2.6.2.1.el5_11
-#   - java-1.7.0-openjdk-demo:1.7.0.91-2.6.2.1.el5_11
-#   - java-1.7.0-openjdk-devel:1.7.0.91-2.6.2.1.el5_11
-#   - java-1.7.0-openjdk-javadoc:1.7.0.91-2.6.2.1.el5_11
-#   - java-1.7.0-openjdk-src:1.7.0.91-2.6.2.1.el5_11
+#   - java-1.7.0-openjdk:1.7.0.91-2.6.2.1.el5_11.x86_64
+#   - java-1.7.0-openjdk-demo:1.7.0.91-2.6.2.1.el5_11.x86_64
+#   - java-1.7.0-openjdk-devel:1.7.0.91-2.6.2.1.el5_11.x86_64
+#   - java-1.7.0-openjdk-javadoc:1.7.0.91-2.6.2.1.el5_11.x86_64
+#   - java-1.7.0-openjdk-src:1.7.0.91-2.6.2.1.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2015-2808

@@ -3,22 +3,22 @@
 # Security fix for CESA-2013:1270
 #
 # Security announcement date: 2013-09-20 02:25:01 UTC
-# Script generation date:     2016-01-01 07:06:31 UTC
+# Script generation date:     2016-01-06 19:07:36 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - polkit-desktop-policy:0.96-5.el6_4
-#   - polkit:0.96-5.el6_4
-#   - polkit-devel:0.96-5.el6_4
-#   - polkit-docs:0.96-5.el6_4
+#   - polkit-desktop-policy:0.96-5.el6_4.noarch
+#   - polkit:0.96-5.el6_4.x86_64
+#   - polkit-devel:0.96-5.el6_4.x86_64
+#   - polkit-docs:0.96-5.el6_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - polkit-desktop-policy:0.96-5.el6_4
-#   - polkit:0.96-5.el6_4
-#   - polkit-devel:0.96-5.el6_4
-#   - polkit-docs:0.96-5.el6_4
+#   - polkit-desktop-policy:0.96-5.el6_4.noarch
+#   - polkit:0.96-5.el6_4.x86_64
+#   - polkit-devel:0.96-5.el6_4.x86_64
+#   - polkit-docs:0.96-5.el6_4.x86_64
 #
 # CVE List:
 #   - CVE-2013-4288

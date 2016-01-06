@@ -3,38 +3,38 @@
 # Security fix for CESA-2013:0589
 #
 # Security announcement date: 2013-03-04 22:46:35 UTC
-# Script generation date:     2016-01-01 07:06:25 UTC
+# Script generation date:     2016-01-06 19:07:30 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - emacs-git:1.7.1-3.el6_4.1
-#   - emacs-git-el:1.7.1-3.el6_4.1
-#   - git-all:1.7.1-3.el6_4.1
-#   - git-cvs:1.7.1-3.el6_4.1
-#   - git-email:1.7.1-3.el6_4.1
-#   - git-gui:1.7.1-3.el6_4.1
-#   - gitk:1.7.1-3.el6_4.1
-#   - git-svn:1.7.1-3.el6_4.1
-#   - gitweb:1.7.1-3.el6_4.1
-#   - perl-Git:1.7.1-3.el6_4.1
-#   - git:1.7.1-3.el6_4.1
-#   - git-daemon:1.7.1-3.el6_4.1
+#   - emacs-git:1.7.1-3.el6_4.1.noarch
+#   - emacs-git-el:1.7.1-3.el6_4.1.noarch
+#   - git-all:1.7.1-3.el6_4.1.noarch
+#   - git-cvs:1.7.1-3.el6_4.1.noarch
+#   - git-email:1.7.1-3.el6_4.1.noarch
+#   - git-gui:1.7.1-3.el6_4.1.noarch
+#   - gitk:1.7.1-3.el6_4.1.noarch
+#   - git-svn:1.7.1-3.el6_4.1.noarch
+#   - gitweb:1.7.1-3.el6_4.1.noarch
+#   - perl-Git:1.7.1-3.el6_4.1.noarch
+#   - git:1.7.1-3.el6_4.1.x86_64
+#   - git-daemon:1.7.1-3.el6_4.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - emacs-git:1.7.1-3.el6_4.1
-#   - emacs-git-el:1.7.1-3.el6_4.1
-#   - git-all:1.7.1-3.el6_4.1
-#   - git-cvs:1.7.1-3.el6_4.1
-#   - git-email:1.7.1-3.el6_4.1
-#   - git-gui:1.7.1-3.el6_4.1
-#   - gitk:1.7.1-3.el6_4.1
-#   - git-svn:1.7.1-3.el6_4.1
-#   - gitweb:1.7.1-3.el6_4.1
-#   - perl-Git:1.7.1-3.el6_4.1
-#   - git:1.7.1-3.el6_4.1
-#   - git-daemon:1.7.1-3.el6_4.1
+#   - emacs-git:1.7.1-3.el6_4.1.noarch
+#   - emacs-git-el:1.7.1-3.el6_4.1.noarch
+#   - git-all:1.7.1-3.el6_4.1.noarch
+#   - git-cvs:1.7.1-3.el6_4.1.noarch
+#   - git-email:1.7.1-3.el6_4.1.noarch
+#   - git-gui:1.7.1-3.el6_4.1.noarch
+#   - gitk:1.7.1-3.el6_4.1.noarch
+#   - git-svn:1.7.1-3.el6_4.1.noarch
+#   - gitweb:1.7.1-3.el6_4.1.noarch
+#   - perl-Git:1.7.1-3.el6_4.1.noarch
+#   - git:1.7.1-3.el6_4.1.x86_64
+#   - git-daemon:1.7.1-3.el6_4.1.x86_64
 #
 # CVE List:
 #   - CVE-2013-0308

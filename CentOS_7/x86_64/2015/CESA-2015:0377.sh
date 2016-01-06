@@ -3,16 +3,16 @@
 # Security fix for CESA-2015:0377
 #
 # Security announcement date: 2015-03-17 13:29:04 UTC
-# Script generation date:     2016-01-01 07:07:06 UTC
+# Script generation date:     2016-01-06 19:08:09 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mdds-devel:0.10.3-1.el7
+#   - mdds-devel:0.10.3-1.el7.noarch
 #
 # Last versions recommanded by security team:
-#   - mdds-devel:0.10.3-1.el7
+#   - mdds-devel:0.10.3-1.el7.noarch
 #
 # CVE List:
 #   - CVE-2014-3575

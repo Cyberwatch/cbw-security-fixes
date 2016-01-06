@@ -3,18 +3,18 @@
 # Security fix for CESA-2014:1870
 #
 # Security announcement date: 2014-11-18 14:18:34 UTC
-# Script generation date:     2016-01-01 07:06:58 UTC
+# Script generation date:     2016-01-06 19:08:02 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libXfont:1.4.5-4.el6_6
-#   - libXfont-devel:1.4.5-4.el6_6
+#   - libXfont:1.4.5-4.el6_6.x86_64
+#   - libXfont-devel:1.4.5-4.el6_6.x86_64
 #
 # Last versions recommanded by security team:
-#   - libXfont:1.4.5-5.el6_7
-#   - libXfont-devel:1.4.5-5.el6_7
+#   - libXfont:1.4.5-5.el6_7.x86_64
+#   - libXfont-devel:1.4.5-5.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2014-0209

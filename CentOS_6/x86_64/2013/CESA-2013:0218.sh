@@ -3,16 +3,16 @@
 # Security fix for CESA-2013:0218
 #
 # Security announcement date: 2013-02-01 00:53:46 UTC
-# Script generation date:     2016-01-01 07:06:15 UTC
+# Script generation date:     2016-01-06 19:07:21 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - xorg-x11-drv-qxl:0.0.14-14.el6_3
+#   - xorg-x11-drv-qxl:0.0.14-14.el6_3.x86_64
 #
 # Last versions recommanded by security team:
-#   - xorg-x11-drv-qxl:0.0.14-14.el6_3
+#   - xorg-x11-drv-qxl:0.0.14-14.el6_3.x86_64
 #
 # CVE List:
 #   - CVE-2013-0241

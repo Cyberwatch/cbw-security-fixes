@@ -3,24 +3,24 @@
 # Security fix for CESA-2007:0875
 #
 # Security announcement date: 2007-08-31 00:23:27 UTC
-# Script generation date:     2016-01-01 07:04:50 UTC
+# Script generation date:     2016-01-06 19:06:03 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mysql:5.0.22-2.1.0.1
-#   - mysql-bench:5.0.22-2.1.0.1
-#   - mysql-devel:5.0.22-2.1.0.1
-#   - mysql-server:5.0.22-2.1.0.1
-#   - mysql-test:5.0.22-2.1.0.1
+#   - mysql:5.0.22-2.1.0.1.x86_64
+#   - mysql-bench:5.0.22-2.1.0.1.x86_64
+#   - mysql-devel:5.0.22-2.1.0.1.x86_64
+#   - mysql-server:5.0.22-2.1.0.1.x86_64
+#   - mysql-test:5.0.22-2.1.0.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - mysql:5.0.95-5.el5_9
-#   - mysql-bench:5.0.95-5.el5_9
-#   - mysql-devel:5.0.95-5.el5_9
-#   - mysql-server:5.0.95-5.el5_9
-#   - mysql-test:5.0.95-5.el5_9
+#   - mysql:5.0.95-5.el5_9.x86_64
+#   - mysql-bench:5.0.95-5.el5_9.x86_64
+#   - mysql-devel:5.0.95-5.el5_9.x86_64
+#   - mysql-server:5.0.95-5.el5_9.x86_64
+#   - mysql-test:5.0.95-5.el5_9.x86_64
 #
 # CVE List:
 #

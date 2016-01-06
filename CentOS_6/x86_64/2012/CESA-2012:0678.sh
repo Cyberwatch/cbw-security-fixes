@@ -3,34 +3,34 @@
 # Security fix for CESA-2012:0678
 #
 # Security announcement date: 2012-05-21 21:24:46 UTC
-# Script generation date:     2016-01-01 07:05:58 UTC
+# Script generation date:     2016-01-06 19:07:05 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - postgresql:8.4.11-1.el6_2
-#   - postgresql-contrib:8.4.11-1.el6_2
-#   - postgresql-devel:8.4.11-1.el6_2
-#   - postgresql-docs:8.4.11-1.el6_2
-#   - postgresql-libs:8.4.11-1.el6_2
-#   - postgresql-plperl:8.4.11-1.el6_2
-#   - postgresql-plpython:8.4.11-1.el6_2
-#   - postgresql-pltcl:8.4.11-1.el6_2
-#   - postgresql-server:8.4.11-1.el6_2
-#   - postgresql-test:8.4.11-1.el6_2
+#   - postgresql:8.4.11-1.el6_2.x86_64
+#   - postgresql-contrib:8.4.11-1.el6_2.x86_64
+#   - postgresql-devel:8.4.11-1.el6_2.x86_64
+#   - postgresql-docs:8.4.11-1.el6_2.x86_64
+#   - postgresql-libs:8.4.11-1.el6_2.x86_64
+#   - postgresql-plperl:8.4.11-1.el6_2.x86_64
+#   - postgresql-plpython:8.4.11-1.el6_2.x86_64
+#   - postgresql-pltcl:8.4.11-1.el6_2.x86_64
+#   - postgresql-server:8.4.11-1.el6_2.x86_64
+#   - postgresql-test:8.4.11-1.el6_2.x86_64
 #
 # Last versions recommanded by security team:
-#   - postgresql:8.4.20-4.el6_7
-#   - postgresql-contrib:8.4.20-4.el6_7
-#   - postgresql-devel:8.4.20-4.el6_7
-#   - postgresql-docs:8.4.20-4.el6_7
-#   - postgresql-libs:8.4.20-4.el6_7
-#   - postgresql-plperl:8.4.20-4.el6_7
-#   - postgresql-plpython:8.4.20-4.el6_7
-#   - postgresql-pltcl:8.4.20-4.el6_7
-#   - postgresql-server:8.4.20-4.el6_7
-#   - postgresql-test:8.4.20-4.el6_7
+#   - postgresql:8.4.20-4.el6_7.x86_64
+#   - postgresql-contrib:8.4.20-4.el6_7.x86_64
+#   - postgresql-devel:8.4.20-4.el6_7.x86_64
+#   - postgresql-docs:8.4.20-4.el6_7.x86_64
+#   - postgresql-libs:8.4.20-4.el6_7.x86_64
+#   - postgresql-plperl:8.4.20-4.el6_7.x86_64
+#   - postgresql-plpython:8.4.20-4.el6_7.x86_64
+#   - postgresql-pltcl:8.4.20-4.el6_7.x86_64
+#   - postgresql-server:8.4.20-4.el6_7.x86_64
+#   - postgresql-test:8.4.20-4.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2012-0866

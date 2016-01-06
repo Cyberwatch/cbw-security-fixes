@@ -3,22 +3,22 @@
 # Security fix for CESA-2011:1815
 #
 # Security announcement date: 2011-12-22 15:45:28 UTC
-# Script generation date:     2016-01-01 07:05:48 UTC
+# Script generation date:     2016-01-06 19:06:55 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libicu-doc:4.2.1-9.1.el6_2
-#   - icu:4.2.1-9.1.el6_2
-#   - libicu:4.2.1-9.1.el6_2
-#   - libicu-devel:4.2.1-9.1.el6_2
+#   - libicu-doc:4.2.1-9.1.el6_2.noarch
+#   - icu:4.2.1-9.1.el6_2.x86_64
+#   - libicu:4.2.1-9.1.el6_2.x86_64
+#   - libicu-devel:4.2.1-9.1.el6_2.x86_64
 #
 # Last versions recommanded by security team:
-#   - libicu-doc:4.2.1-9.1.el6_2
-#   - icu:4.2.1-9.1.el6_2
-#   - libicu:4.2.1-9.1.el6_2
-#   - libicu-devel:4.2.1-9.1.el6_2
+#   - libicu-doc:4.2.1-9.1.el6_2.noarch
+#   - icu:4.2.1-9.1.el6_2.x86_64
+#   - libicu:4.2.1-9.1.el6_2.x86_64
+#   - libicu-devel:4.2.1-9.1.el6_2.x86_64
 #
 # CVE List:
 #   - CVE-2011-4599

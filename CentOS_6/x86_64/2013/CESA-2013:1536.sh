@@ -3,38 +3,38 @@
 # Security fix for CESA-2013:1536
 #
 # Security announcement date: 2013-11-26 13:32:04 UTC
-# Script generation date:     2016-01-01 07:06:34 UTC
+# Script generation date:     2016-01-06 19:07:39 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libguestfs:1.20.11-2.el6
-#   - libguestfs-devel:1.20.11-2.el6
-#   - libguestfs-java:1.20.11-2.el6
-#   - libguestfs-java-devel:1.20.11-2.el6
-#   - libguestfs-javadoc:1.20.11-2.el6
-#   - libguestfs-tools:1.20.11-2.el6
-#   - libguestfs-tools-c:1.20.11-2.el6
-#   - ocaml-libguestfs:1.20.11-2.el6
-#   - ocaml-libguestfs-devel:1.20.11-2.el6
-#   - perl-Sys-Guestfs:1.20.11-2.el6
-#   - python-libguestfs:1.20.11-2.el6
-#   - ruby-libguestfs:1.20.11-2.el6
+#   - libguestfs:1.20.11-2.el6.x86_64
+#   - libguestfs-devel:1.20.11-2.el6.x86_64
+#   - libguestfs-java:1.20.11-2.el6.x86_64
+#   - libguestfs-java-devel:1.20.11-2.el6.x86_64
+#   - libguestfs-javadoc:1.20.11-2.el6.x86_64
+#   - libguestfs-tools:1.20.11-2.el6.x86_64
+#   - libguestfs-tools-c:1.20.11-2.el6.x86_64
+#   - ocaml-libguestfs:1.20.11-2.el6.x86_64
+#   - ocaml-libguestfs-devel:1.20.11-2.el6.x86_64
+#   - perl-Sys-Guestfs:1.20.11-2.el6.x86_64
+#   - python-libguestfs:1.20.11-2.el6.x86_64
+#   - ruby-libguestfs:1.20.11-2.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - libguestfs:1.20.11-2.el6
-#   - libguestfs-devel:1.20.11-2.el6
-#   - libguestfs-java:1.20.11-2.el6
-#   - libguestfs-java-devel:1.20.11-2.el6
-#   - libguestfs-javadoc:1.20.11-2.el6
-#   - libguestfs-tools:1.20.11-2.el6
-#   - libguestfs-tools-c:1.20.11-2.el6
-#   - ocaml-libguestfs:1.20.11-2.el6
-#   - ocaml-libguestfs-devel:1.20.11-2.el6
-#   - perl-Sys-Guestfs:1.20.11-2.el6
-#   - python-libguestfs:1.20.11-2.el6
-#   - ruby-libguestfs:1.20.11-2.el6
+#   - libguestfs:1.20.11-2.el6.x86_64
+#   - libguestfs-devel:1.20.11-2.el6.x86_64
+#   - libguestfs-java:1.20.11-2.el6.x86_64
+#   - libguestfs-java-devel:1.20.11-2.el6.x86_64
+#   - libguestfs-javadoc:1.20.11-2.el6.x86_64
+#   - libguestfs-tools:1.20.11-2.el6.x86_64
+#   - libguestfs-tools-c:1.20.11-2.el6.x86_64
+#   - ocaml-libguestfs:1.20.11-2.el6.x86_64
+#   - ocaml-libguestfs-devel:1.20.11-2.el6.x86_64
+#   - perl-Sys-Guestfs:1.20.11-2.el6.x86_64
+#   - python-libguestfs:1.20.11-2.el6.x86_64
+#   - ruby-libguestfs:1.20.11-2.el6.x86_64
 #
 # CVE List:
 #   - CVE-2013-4419

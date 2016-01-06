@@ -3,20 +3,20 @@
 # Security fix for CESA-2015:0767
 #
 # Security announcement date: 2015-04-01 04:28:23 UTC
-# Script generation date:     2016-01-01 07:07:07 UTC
+# Script generation date:     2016-01-06 19:08:11 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - flac:1.3.0-5.el7_1
-#   - flac-devel:1.3.0-5.el7_1
-#   - flac-libs:1.3.0-5.el7_1
+#   - flac:1.3.0-5.el7_1.x86_64
+#   - flac-devel:1.3.0-5.el7_1.x86_64
+#   - flac-libs:1.3.0-5.el7_1.x86_64
 #
 # Last versions recommanded by security team:
-#   - flac:1.3.0-5.el7_1
-#   - flac-devel:1.3.0-5.el7_1
-#   - flac-libs:1.3.0-5.el7_1
+#   - flac:1.3.0-5.el7_1.x86_64
+#   - flac-devel:1.3.0-5.el7_1.x86_64
+#   - flac-libs:1.3.0-5.el7_1.x86_64
 #
 # CVE List:
 #   - CVE-2014-8962

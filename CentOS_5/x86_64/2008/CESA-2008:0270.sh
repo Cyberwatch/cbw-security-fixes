@@ -3,18 +3,18 @@
 # Security fix for CESA-2008:0270
 #
 # Security announcement date: 2008-05-19 01:19:26 UTC
-# Script generation date:     2016-01-01 07:05:00 UTC
+# Script generation date:     2016-01-06 19:06:13 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libvorbis:1.1.2-3.el5_1.2
-#   - libvorbis-devel:1.1.2-3.el5_1.2
+#   - libvorbis:1.1.2-3.el5_1.2.x86_64
+#   - libvorbis-devel:1.1.2-3.el5_1.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - libvorbis:1.1.2-3.el5_7.6
-#   - libvorbis-devel:1.1.2-3.el5_7.6
+#   - libvorbis:1.1.2-3.el5_7.6.x86_64
+#   - libvorbis-devel:1.1.2-3.el5_7.6.x86_64
 #
 # CVE List:
 #   - CVE-2008-1419

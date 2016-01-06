@@ -3,24 +3,24 @@
 # Security fix for CESA-2012:0899
 #
 # Security announcement date: 2012-07-10 17:25:58 UTC
-# Script generation date:     2016-01-01 07:06:03 UTC
+# Script generation date:     2016-01-06 19:07:10 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openldap:2.4.23-26.el6
-#   - openldap-clients:2.4.23-26.el6
-#   - openldap-devel:2.4.23-26.el6
-#   - openldap-servers:2.4.23-26.el6
-#   - openldap-servers-sql:2.4.23-26.el6
+#   - openldap:2.4.23-26.el6.x86_64
+#   - openldap-clients:2.4.23-26.el6.x86_64
+#   - openldap-devel:2.4.23-26.el6.x86_64
+#   - openldap-servers:2.4.23-26.el6.x86_64
+#   - openldap-servers-sql:2.4.23-26.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - openldap:2.4.40-6.el6_7
-#   - openldap-clients:2.4.40-6.el6_7
-#   - openldap-devel:2.4.40-6.el6_7
-#   - openldap-servers:2.4.40-6.el6_7
-#   - openldap-servers-sql:2.4.40-6.el6_7
+#   - openldap:2.4.40-6.el6_7.x86_64
+#   - openldap-clients:2.4.40-6.el6_7.x86_64
+#   - openldap-devel:2.4.40-6.el6_7.x86_64
+#   - openldap-servers:2.4.40-6.el6_7.x86_64
+#   - openldap-servers-sql:2.4.40-6.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2012-1164

@@ -3,20 +3,20 @@
 # Security fix for CESA-2015:2594
 #
 # Security announcement date: 2015-12-09 14:47:29 UTC
-# Script generation date:     2016-01-01 07:07:21 UTC
+# Script generation date:     2016-01-06 19:08:24 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libpng:1.2.49-2.el6_7
-#   - libpng-devel:1.2.49-2.el6_7
-#   - libpng-static:1.2.49-2.el6_7
+#   - libpng:1.2.49-2.el6_7.x86_64
+#   - libpng-devel:1.2.49-2.el6_7.x86_64
+#   - libpng-static:1.2.49-2.el6_7.x86_64
 #
 # Last versions recommanded by security team:
-#   - libpng:1.2.49-2.el6_7
-#   - libpng-devel:1.2.49-2.el6_7
-#   - libpng-static:1.2.49-2.el6_7
+#   - libpng:1.2.49-2.el6_7.x86_64
+#   - libpng-devel:1.2.49-2.el6_7.x86_64
+#   - libpng-static:1.2.49-2.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2015-8126

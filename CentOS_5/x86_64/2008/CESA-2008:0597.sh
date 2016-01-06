@@ -3,26 +3,26 @@
 # Security fix for CESA-2008:0597
 #
 # Security announcement date: 2008-07-17 02:42:21 UTC
-# Script generation date:     2016-01-01 07:05:04 UTC
+# Script generation date:     2016-01-06 19:06:16 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - devhelp:0.12-18.el5_2
-#   - devhelp-devel:0.12-18.el5_2
-#   - firefox:3.0.1-1.el5.centos
-#   - xulrunner:1.9.0.1-1.el5_2
-#   - xulrunner-devel:1.9.0.1-1.el5_2
-#   - xulrunner-devel-unstable:1.9.0.1-1.el5_2
+#   - devhelp:0.12-18.el5_2.x86_64
+#   - devhelp-devel:0.12-18.el5_2.x86_64
+#   - firefox:3.0.1-1.el5.centos.x86_64
+#   - xulrunner:1.9.0.1-1.el5_2.x86_64
+#   - xulrunner-devel:1.9.0.1-1.el5_2.x86_64
+#   - xulrunner-devel-unstable:1.9.0.1-1.el5_2.x86_64
 #
 # Last versions recommanded by security team:
-#   - devhelp:0.12-23.el5_9
-#   - devhelp-devel:0.12-23.el5_9
-#   - firefox:38.5.0-2.el5.centos
-#   - xulrunner:17.0.10-1.el5_10
-#   - xulrunner-devel:17.0.10-1.el5_10
-#   - xulrunner-devel-unstable:1.9.0.18-1.el5_4
+#   - devhelp:0.12-23.el5_9.x86_64
+#   - devhelp-devel:0.12-23.el5_9.x86_64
+#   - firefox:38.5.0-2.el5.centos.x86_64
+#   - xulrunner:17.0.10-1.el5_10.x86_64
+#   - xulrunner-devel:17.0.10-1.el5_10.x86_64
+#   - xulrunner-devel-unstable:1.9.0.18-1.el5_4.x86_64
 #
 # CVE List:
 #   - CVE-2008-2933

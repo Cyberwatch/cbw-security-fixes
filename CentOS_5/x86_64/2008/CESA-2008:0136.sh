@@ -3,18 +3,18 @@
 # Security fix for CESA-2008:0136
 #
 # Security announcement date: 2008-02-23 11:54:04 UTC
-# Script generation date:     2016-01-01 07:04:57 UTC
+# Script generation date:     2016-01-06 19:06:11 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - tk:8.4.13-5.el5_1.1
-#   - tk-devel:8.4.13-5.el5_1.1
+#   - tk:8.4.13-5.el5_1.1.x86_64
+#   - tk-devel:8.4.13-5.el5_1.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - tk:8.4.13-5.el5_1.1
-#   - tk-devel:8.4.13-5.el5_1.1
+#   - tk:8.4.13-5.el5_1.1.x86_64
+#   - tk-devel:8.4.13-5.el5_1.1.x86_64
 #
 # CVE List:
 #   - CVE-2008-0553

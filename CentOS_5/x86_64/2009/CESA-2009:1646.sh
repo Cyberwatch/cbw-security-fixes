@@ -3,20 +3,20 @@
 # Security fix for CESA-2009:1646
 #
 # Security announcement date: 2009-12-18 01:40:41 UTC
-# Script generation date:     2016-01-01 07:05:25 UTC
+# Script generation date:     2016-01-06 19:06:32 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libtool:1.5.22-7.el5_4
-#   - libtool-ltdl:1.5.22-7.el5_4
-#   - libtool-ltdl-devel:1.5.22-7.el5_4
+#   - libtool:1.5.22-7.el5_4.x86_64
+#   - libtool-ltdl:1.5.22-7.el5_4.x86_64
+#   - libtool-ltdl-devel:1.5.22-7.el5_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - libtool:1.5.22-7.el5_4
-#   - libtool-ltdl:1.5.22-7.el5_4
-#   - libtool-ltdl-devel:1.5.22-7.el5_4
+#   - libtool:1.5.22-7.el5_4.x86_64
+#   - libtool-ltdl:1.5.22-7.el5_4.x86_64
+#   - libtool-ltdl-devel:1.5.22-7.el5_4.x86_64
 #
 # CVE List:
 #   - CVE-2009-3736

@@ -3,46 +3,46 @@
 # Security fix for CESA-2015:2561
 #
 # Security announcement date: 2015-12-09 19:18:57 UTC
-# Script generation date:     2016-01-01 07:07:21 UTC
+# Script generation date:     2016-01-06 19:08:24 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - emacs-git:1.8.3.1-6.el7
-#   - emacs-git-el:1.8.3.1-6.el7
-#   - git:1.8.3.1-6.el7
-#   - git-all:1.8.3.1-6.el7
-#   - git-bzr:1.8.3.1-6.el7
-#   - git-cvs:1.8.3.1-6.el7
-#   - git-daemon:1.8.3.1-6.el7
-#   - git-email:1.8.3.1-6.el7
-#   - git-gui:1.8.3.1-6.el7
-#   - git-hg:1.8.3.1-6.el7
-#   - gitk:1.8.3.1-6.el7
-#   - git-p4:1.8.3.1-6.el7
-#   - git-svn:1.8.3.1-6.el7
-#   - gitweb:1.8.3.1-6.el7
-#   - perl-Git:1.8.3.1-6.el7
-#   - perl-Git-SVN:1.8.3.1-6.el7
+#   - emacs-git:1.8.3.1-6.el7.noarch
+#   - emacs-git-el:1.8.3.1-6.el7.noarch
+#   - git:1.8.3.1-6.el7.x86_64
+#   - git-all:1.8.3.1-6.el7.noarch
+#   - git-bzr:1.8.3.1-6.el7.noarch
+#   - git-cvs:1.8.3.1-6.el7.noarch
+#   - git-daemon:1.8.3.1-6.el7.x86_64
+#   - git-email:1.8.3.1-6.el7.noarch
+#   - git-gui:1.8.3.1-6.el7.noarch
+#   - git-hg:1.8.3.1-6.el7.noarch
+#   - gitk:1.8.3.1-6.el7.noarch
+#   - git-p4:1.8.3.1-6.el7.noarch
+#   - git-svn:1.8.3.1-6.el7.x86_64
+#   - gitweb:1.8.3.1-6.el7.noarch
+#   - perl-Git:1.8.3.1-6.el7.noarch
+#   - perl-Git-SVN:1.8.3.1-6.el7.noarch
 #
 # Last versions recommanded by security team:
-#   - emacs-git:1.8.3.1-6.el7
-#   - emacs-git-el:1.8.3.1-6.el7
-#   - git:1.8.3.1-6.el7
-#   - git-all:1.8.3.1-6.el7
-#   - git-bzr:1.8.3.1-6.el7
-#   - git-cvs:1.8.3.1-6.el7
-#   - git-daemon:1.8.3.1-6.el7
-#   - git-email:1.8.3.1-6.el7
-#   - git-gui:1.8.3.1-6.el7
-#   - git-hg:1.8.3.1-6.el7
-#   - gitk:1.8.3.1-6.el7
-#   - git-p4:1.8.3.1-6.el7
-#   - git-svn:1.8.3.1-6.el7
-#   - gitweb:1.8.3.1-6.el7
-#   - perl-Git:1.8.3.1-6.el7
-#   - perl-Git-SVN:1.8.3.1-6.el7
+#   - emacs-git:1.8.3.1-6.el7.noarch
+#   - emacs-git-el:1.8.3.1-6.el7.noarch
+#   - git:1.8.3.1-6.el7.x86_64
+#   - git-all:1.8.3.1-6.el7.noarch
+#   - git-bzr:1.8.3.1-6.el7.noarch
+#   - git-cvs:1.8.3.1-6.el7.noarch
+#   - git-daemon:1.8.3.1-6.el7.x86_64
+#   - git-email:1.8.3.1-6.el7.noarch
+#   - git-gui:1.8.3.1-6.el7.noarch
+#   - git-hg:1.8.3.1-6.el7.noarch
+#   - gitk:1.8.3.1-6.el7.noarch
+#   - git-p4:1.8.3.1-6.el7.noarch
+#   - git-svn:1.8.3.1-6.el7.x86_64
+#   - gitweb:1.8.3.1-6.el7.noarch
+#   - perl-Git:1.8.3.1-6.el7.noarch
+#   - perl-Git-SVN:1.8.3.1-6.el7.noarch
 #
 # CVE List:
 #

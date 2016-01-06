@@ -3,18 +3,18 @@
 # Security fix for CESA-2015:1409
 #
 # Security announcement date: 2015-07-26 14:12:38 UTC
-# Script generation date:     2016-01-01 07:07:13 UTC
+# Script generation date:     2016-01-06 19:08:17 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - sudo:1.8.6p3-19.el6
-#   - sudo-devel:1.8.6p3-19.el6
+#   - sudo:1.8.6p3-19.el6.x86_64
+#   - sudo-devel:1.8.6p3-19.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - sudo:1.8.6p3-19.el6
-#   - sudo-devel:1.8.6p3-19.el6
+#   - sudo:1.8.6p3-19.el6.x86_64
+#   - sudo-devel:1.8.6p3-19.el6.x86_64
 #
 # CVE List:
 #   - CVE-2014-9680

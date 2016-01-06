@@ -3,32 +3,32 @@
 # Security fix for CESA-2013:0623
 #
 # Security announcement date: 2013-03-12 05:31:44 UTC
-# Script generation date:     2016-01-01 07:06:23 UTC
+# Script generation date:     2016-01-06 19:07:28 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - tomcat6:6.0.24-52.el6_4
-#   - tomcat6-admin-webapps:6.0.24-52.el6_4
-#   - tomcat6-docs-webapp:6.0.24-52.el6_4
-#   - tomcat6-el-2.1-api:6.0.24-52.el6_4
-#   - tomcat6-javadoc:6.0.24-52.el6_4
-#   - tomcat6-jsp-2.1-api:6.0.24-52.el6_4
-#   - tomcat6-lib:6.0.24-52.el6_4
-#   - tomcat6-servlet-2.5-api:6.0.24-52.el6_4
-#   - tomcat6-webapps:6.0.24-52.el6_4
+#   - tomcat6:6.0.24-52.el6_4.noarch
+#   - tomcat6-admin-webapps:6.0.24-52.el6_4.noarch
+#   - tomcat6-docs-webapp:6.0.24-52.el6_4.noarch
+#   - tomcat6-el-2.1-api:6.0.24-52.el6_4.noarch
+#   - tomcat6-javadoc:6.0.24-52.el6_4.noarch
+#   - tomcat6-jsp-2.1-api:6.0.24-52.el6_4.noarch
+#   - tomcat6-lib:6.0.24-52.el6_4.noarch
+#   - tomcat6-servlet-2.5-api:6.0.24-52.el6_4.noarch
+#   - tomcat6-webapps:6.0.24-52.el6_4.noarch
 #
 # Last versions recommanded by security team:
-#   - tomcat6:6.0.24-83.el6_6
-#   - tomcat6-admin-webapps:6.0.24-83.el6_6
-#   - tomcat6-docs-webapp:6.0.24-83.el6_6
-#   - tomcat6-el-2.1-api:6.0.24-83.el6_6
-#   - tomcat6-javadoc:6.0.24-83.el6_6
-#   - tomcat6-jsp-2.1-api:6.0.24-83.el6_6
-#   - tomcat6-lib:6.0.24-83.el6_6
-#   - tomcat6-servlet-2.5-api:6.0.24-83.el6_6
-#   - tomcat6-webapps:6.0.24-83.el6_6
+#   - tomcat6:6.0.24-83.el6_6.x86_64
+#   - tomcat6-admin-webapps:6.0.24-83.el6_6.x86_64
+#   - tomcat6-docs-webapp:6.0.24-83.el6_6.x86_64
+#   - tomcat6-el-2.1-api:6.0.24-83.el6_6.x86_64
+#   - tomcat6-javadoc:6.0.24-83.el6_6.x86_64
+#   - tomcat6-jsp-2.1-api:6.0.24-83.el6_6.x86_64
+#   - tomcat6-lib:6.0.24-83.el6_6.x86_64
+#   - tomcat6-servlet-2.5-api:6.0.24-83.el6_6.x86_64
+#   - tomcat6-webapps:6.0.24-83.el6_6.x86_64
 #
 # CVE List:
 #   - CVE-2012-5885

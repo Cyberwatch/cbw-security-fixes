@@ -3,24 +3,24 @@
 # Security fix for CESA-2015:1981
 #
 # Security announcement date: 2015-11-04 16:35:45 UTC
-# Script generation date:     2016-01-01 07:07:19 UTC
+# Script generation date:     2016-01-06 19:08:23 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - nss:3.19.1-5.el6_7
-#   - nss-devel:3.19.1-5.el6_7
-#   - nss-pkcs11-devel:3.19.1-5.el6_7
-#   - nss-sysinit:3.19.1-5.el6_7
-#   - nss-tools:3.19.1-5.el6_7
+#   - nss:3.19.1-5.el6_7.x86_64
+#   - nss-devel:3.19.1-5.el6_7.x86_64
+#   - nss-pkcs11-devel:3.19.1-5.el6_7.x86_64
+#   - nss-sysinit:3.19.1-5.el6_7.x86_64
+#   - nss-tools:3.19.1-5.el6_7.x86_64
 #
 # Last versions recommanded by security team:
-#   - nss:3.19.1-5.el6_7
-#   - nss-devel:3.19.1-5.el6_7
-#   - nss-pkcs11-devel:3.19.1-5.el6_7
-#   - nss-sysinit:3.19.1-5.el6_7
-#   - nss-tools:3.19.1-5.el6_7
+#   - nss:3.19.1-5.el6_7.x86_64
+#   - nss-devel:3.19.1-5.el6_7.x86_64
+#   - nss-pkcs11-devel:3.19.1-5.el6_7.x86_64
+#   - nss-sysinit:3.19.1-5.el6_7.x86_64
+#   - nss-tools:3.19.1-5.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2015-7181

@@ -3,18 +3,18 @@
 # Security fix for CESA-2012:0143
 #
 # Security announcement date: 2012-02-17 01:35:23 UTC
-# Script generation date:     2016-01-01 07:05:54 UTC
+# Script generation date:     2016-01-06 19:07:00 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - xulrunner:1.9.2.26-2.el5_7
-#   - xulrunner-devel:1.9.2.26-2.el5_7
+#   - xulrunner:1.9.2.26-2.el5_7.x86_64
+#   - xulrunner-devel:1.9.2.26-2.el5_7.x86_64
 #
 # Last versions recommanded by security team:
-#   - xulrunner:17.0.10-1.el5_10
-#   - xulrunner-devel:17.0.10-1.el5_10
+#   - xulrunner:17.0.10-1.el5_10.x86_64
+#   - xulrunner-devel:17.0.10-1.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2011-3026

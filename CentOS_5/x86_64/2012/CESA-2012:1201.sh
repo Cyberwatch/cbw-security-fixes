@@ -3,28 +3,28 @@
 # Security fix for CESA-2012:1201
 #
 # Security announcement date: 2012-08-23 23:12:26 UTC
-# Script generation date:     2016-01-01 07:06:07 UTC
+# Script generation date:     2016-01-06 19:07:14 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - tetex:3.0-33.15.el5_8.1
-#   - tetex-afm:3.0-33.15.el5_8.1
-#   - tetex-doc:3.0-33.15.el5_8.1
-#   - tetex-dvips:3.0-33.15.el5_8.1
-#   - tetex-fonts:3.0-33.15.el5_8.1
-#   - tetex-latex:3.0-33.15.el5_8.1
-#   - tetex-xdvi:3.0-33.15.el5_8.1
+#   - tetex:3.0-33.15.el5_8.1.x86_64
+#   - tetex-afm:3.0-33.15.el5_8.1.x86_64
+#   - tetex-doc:3.0-33.15.el5_8.1.x86_64
+#   - tetex-dvips:3.0-33.15.el5_8.1.x86_64
+#   - tetex-fonts:3.0-33.15.el5_8.1.x86_64
+#   - tetex-latex:3.0-33.15.el5_8.1.x86_64
+#   - tetex-xdvi:3.0-33.15.el5_8.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - tetex:3.0-33.15.el5_8.1
-#   - tetex-afm:3.0-33.15.el5_8.1
-#   - tetex-doc:3.0-33.15.el5_8.1
-#   - tetex-dvips:3.0-33.15.el5_8.1
-#   - tetex-fonts:3.0-33.15.el5_8.1
-#   - tetex-latex:3.0-33.15.el5_8.1
-#   - tetex-xdvi:3.0-33.15.el5_8.1
+#   - tetex:3.0-33.15.el5_8.1.x86_64
+#   - tetex-afm:3.0-33.15.el5_8.1.x86_64
+#   - tetex-doc:3.0-33.15.el5_8.1.x86_64
+#   - tetex-dvips:3.0-33.15.el5_8.1.x86_64
+#   - tetex-fonts:3.0-33.15.el5_8.1.x86_64
+#   - tetex-latex:3.0-33.15.el5_8.1.x86_64
+#   - tetex-xdvi:3.0-33.15.el5_8.1.x86_64
 #
 # CVE List:
 #   - CVE-2010-3702

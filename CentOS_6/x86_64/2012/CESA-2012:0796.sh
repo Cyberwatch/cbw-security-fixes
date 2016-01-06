@@ -3,28 +3,28 @@
 # Security fix for CESA-2012:0796
 #
 # Security announcement date: 2012-07-10 17:21:56 UTC
-# Script generation date:     2016-01-01 07:06:02 UTC
+# Script generation date:     2016-01-06 19:07:09 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rsyslog:5.8.10-2.el6
-#   - rsyslog-gnutls:5.8.10-2.el6
-#   - rsyslog-gssapi:5.8.10-2.el6
-#   - rsyslog-mysql:5.8.10-2.el6
-#   - rsyslog-pgsql:5.8.10-2.el6
-#   - rsyslog-relp:5.8.10-2.el6
-#   - rsyslog-snmp:5.8.10-2.el6
+#   - rsyslog:5.8.10-2.el6.x86_64
+#   - rsyslog-gnutls:5.8.10-2.el6.x86_64
+#   - rsyslog-gssapi:5.8.10-2.el6.x86_64
+#   - rsyslog-mysql:5.8.10-2.el6.x86_64
+#   - rsyslog-pgsql:5.8.10-2.el6.x86_64
+#   - rsyslog-relp:5.8.10-2.el6.x86_64
+#   - rsyslog-snmp:5.8.10-2.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - rsyslog:5.8.10-9.el6_6
-#   - rsyslog-gnutls:5.8.10-9.el6_6
-#   - rsyslog-gssapi:5.8.10-9.el6_6
-#   - rsyslog-mysql:5.8.10-9.el6_6
-#   - rsyslog-pgsql:5.8.10-9.el6_6
-#   - rsyslog-relp:5.8.10-9.el6_6
-#   - rsyslog-snmp:5.8.10-9.el6_6
+#   - rsyslog:5.8.10-9.el6_6.x86_64
+#   - rsyslog-gnutls:5.8.10-9.el6_6.x86_64
+#   - rsyslog-gssapi:5.8.10-9.el6_6.x86_64
+#   - rsyslog-mysql:5.8.10-9.el6_6.x86_64
+#   - rsyslog-pgsql:5.8.10-9.el6_6.x86_64
+#   - rsyslog-relp:5.8.10-9.el6_6.x86_64
+#   - rsyslog-snmp:5.8.10-9.el6_6.x86_64
 #
 # CVE List:
 #   - CVE-2011-4623

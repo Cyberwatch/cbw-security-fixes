@@ -3,16 +3,16 @@
 # Security fix for CESA-2012:1139
 #
 # Security announcement date: 2012-08-03 04:31:34 UTC
-# Script generation date:     2016-01-01 07:06:07 UTC
+# Script generation date:     2016-01-06 19:07:13 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - bind-dyndb-ldap:1.1.0-0.9.b1.el6_3.1
+#   - bind-dyndb-ldap:1.1.0-0.9.b1.el6_3.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - bind-dyndb-ldap:1.1.0-0.9.b1.el6_3.1
+#   - bind-dyndb-ldap:1.1.0-0.9.b1.el6_3.1.x86_64
 #
 # CVE List:
 #   - CVE-2012-3429

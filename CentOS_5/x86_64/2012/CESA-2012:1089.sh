@@ -3,16 +3,16 @@
 # Security fix for CESA-2012:1089
 #
 # Security announcement date: 2012-07-17 21:25:02 UTC
-# Script generation date:     2016-01-01 07:06:04 UTC
+# Script generation date:     2016-01-06 19:07:11 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - thunderbird:10.0.6-1.el5.centos
+#   - thunderbird:10.0.6-1.el5.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - thunderbird:38.4.0-1.el5.centos
+#   - thunderbird:38.4.0-1.el5.centos.x86_64
 #
 # CVE List:
 #   - CVE-2012-1948

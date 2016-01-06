@@ -3,16 +3,16 @@
 # Security fix for CESA-2010:0122
 #
 # Security announcement date: 2010-03-01 18:44:36 UTC
-# Script generation date:     2016-01-01 07:05:28 UTC
+# Script generation date:     2016-01-06 19:06:35 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - sudo:1.6.9p17-6.el5_4
+#   - sudo:1.6.9p17-6.el5_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - sudo:1.7.2p1-29.el5_10
+#   - sudo:1.7.2p1-29.el5_10.x86_64
 #
 # CVE List:
 #   - CVE-2010-0426

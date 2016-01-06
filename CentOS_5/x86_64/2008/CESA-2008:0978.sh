@@ -3,36 +3,36 @@
 # Security fix for CESA-2008:0978
 #
 # Security announcement date: 2008-11-14 23:55:41 UTC
-# Script generation date:     2016-01-01 07:05:11 UTC
+# Script generation date:     2016-01-06 19:06:20 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - devhelp:0.12-20.el5
-#   - devhelp-devel:0.12-20.el5
-#   - firefox:3.0.4-1.el5.centos
-#   - nss:3.12.1.1-3.el5.centos
-#   - nss-devel:3.12.1.1-3.el5.centos
-#   - nss-pkcs11-devel:3.12.1.1-3.el5.centos
-#   - nss-tools:3.12.1.1-3.el5.centos
-#   - xulrunner:1.9.0.4-1.el5
-#   - xulrunner-devel:1.9.0.4-1.el5
-#   - xulrunner-devel-unstable:1.9.0.4-1.el5
-#   - yelp:2.16.0-22.el5
+#   - devhelp:0.12-20.el5.x86_64
+#   - devhelp-devel:0.12-20.el5.x86_64
+#   - firefox:3.0.4-1.el5.centos.x86_64
+#   - nss:3.12.1.1-3.el5.centos.x86_64
+#   - nss-devel:3.12.1.1-3.el5.centos.x86_64
+#   - nss-pkcs11-devel:3.12.1.1-3.el5.centos.x86_64
+#   - nss-tools:3.12.1.1-3.el5.centos.x86_64
+#   - xulrunner:1.9.0.4-1.el5.x86_64
+#   - xulrunner-devel:1.9.0.4-1.el5.x86_64
+#   - xulrunner-devel-unstable:1.9.0.4-1.el5.x86_64
+#   - yelp:2.16.0-22.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - devhelp:0.12-23.el5_9
-#   - devhelp-devel:0.12-23.el5_9
-#   - firefox:38.5.0-2.el5.centos
-#   - nss:3.19.1-2.el5_11
-#   - nss-devel:3.19.1-2.el5_11
-#   - nss-pkcs11-devel:3.19.1-2.el5_11
-#   - nss-tools:3.19.1-2.el5_11
-#   - xulrunner:17.0.10-1.el5_10
-#   - xulrunner-devel:17.0.10-1.el5_10
-#   - xulrunner-devel-unstable:1.9.0.18-1.el5_4
-#   - yelp:2.16.0-30.el5_9
+#   - devhelp:0.12-23.el5_9.x86_64
+#   - devhelp-devel:0.12-23.el5_9.x86_64
+#   - firefox:38.5.0-2.el5.centos.x86_64
+#   - nss:3.19.1-2.el5_11.x86_64
+#   - nss-devel:3.19.1-2.el5_11.x86_64
+#   - nss-pkcs11-devel:3.19.1-2.el5_11.x86_64
+#   - nss-tools:3.19.1-2.el5_11.x86_64
+#   - xulrunner:17.0.10-1.el5_10.x86_64
+#   - xulrunner-devel:17.0.10-1.el5_10.x86_64
+#   - xulrunner-devel-unstable:1.9.0.18-1.el5_4.x86_64
+#   - yelp:2.16.0-30.el5_9.x86_64
 #
 # CVE List:
 #   - CVE-2008-5014

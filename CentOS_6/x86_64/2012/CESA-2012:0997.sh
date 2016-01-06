@@ -3,20 +3,20 @@
 # Security fix for CESA-2012:0997
 #
 # Security announcement date: 2012-07-10 17:32:43 UTC
-# Script generation date:     2016-01-01 07:06:03 UTC
+# Script generation date:     2016-01-06 19:07:10 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - 389-ds-base:1.2.10.2-18.el6_3
-#   - 389-ds-base-devel:1.2.10.2-18.el6_3
-#   - 389-ds-base-libs:1.2.10.2-18.el6_3
+#   - 389-ds-base:1.2.10.2-18.el6_3.x86_64
+#   - 389-ds-base-devel:1.2.10.2-18.el6_3.x86_64
+#   - 389-ds-base-libs:1.2.10.2-18.el6_3.x86_64
 #
 # Last versions recommanded by security team:
-#   - 389-ds-base:1.2.11.15-34.el6_5
-#   - 389-ds-base-devel:1.2.11.15-34.el6_5
-#   - 389-ds-base-libs:1.2.11.15-34.el6_5
+#   - 389-ds-base:1.2.11.15-34.el6_5.x86_64
+#   - 389-ds-base-devel:1.2.11.15-34.el6_5.x86_64
+#   - 389-ds-base-libs:1.2.11.15-34.el6_5.x86_64
 #
 # CVE List:
 #   - CVE-2012-2678

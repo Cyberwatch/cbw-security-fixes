@@ -3,32 +3,32 @@
 # Security fix for CESA-2013:0134
 #
 # Security announcement date: 2013-01-11 13:17:46 UTC
-# Script generation date:     2016-01-01 07:06:14 UTC
+# Script generation date:     2016-01-06 19:07:20 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - freeradius2:2.1.12-5.el5
-#   - freeradius2-krb5:2.1.12-5.el5
-#   - freeradius2-ldap:2.1.12-5.el5
-#   - freeradius2-mysql:2.1.12-5.el5
-#   - freeradius2-perl:2.1.12-5.el5
-#   - freeradius2-postgresql:2.1.12-5.el5
-#   - freeradius2-python:2.1.12-5.el5
-#   - freeradius2-unixODBC:2.1.12-5.el5
-#   - freeradius2-utils:2.1.12-5.el5
+#   - freeradius2:2.1.12-5.el5.x86_64
+#   - freeradius2-krb5:2.1.12-5.el5.x86_64
+#   - freeradius2-ldap:2.1.12-5.el5.x86_64
+#   - freeradius2-mysql:2.1.12-5.el5.x86_64
+#   - freeradius2-perl:2.1.12-5.el5.x86_64
+#   - freeradius2-postgresql:2.1.12-5.el5.x86_64
+#   - freeradius2-python:2.1.12-5.el5.x86_64
+#   - freeradius2-unixODBC:2.1.12-5.el5.x86_64
+#   - freeradius2-utils:2.1.12-5.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - freeradius2:2.1.12-5.el5
-#   - freeradius2-krb5:2.1.12-5.el5
-#   - freeradius2-ldap:2.1.12-5.el5
-#   - freeradius2-mysql:2.1.12-5.el5
-#   - freeradius2-perl:2.1.12-5.el5
-#   - freeradius2-postgresql:2.1.12-5.el5
-#   - freeradius2-python:2.1.12-5.el5
-#   - freeradius2-unixODBC:2.1.12-5.el5
-#   - freeradius2-utils:2.1.12-5.el5
+#   - freeradius2:2.1.12-5.el5.x86_64
+#   - freeradius2-krb5:2.1.12-5.el5.x86_64
+#   - freeradius2-ldap:2.1.12-5.el5.x86_64
+#   - freeradius2-mysql:2.1.12-5.el5.x86_64
+#   - freeradius2-perl:2.1.12-5.el5.x86_64
+#   - freeradius2-postgresql:2.1.12-5.el5.x86_64
+#   - freeradius2-python:2.1.12-5.el5.x86_64
+#   - freeradius2-unixODBC:2.1.12-5.el5.x86_64
+#   - freeradius2-utils:2.1.12-5.el5.x86_64
 #
 # CVE List:
 #   - CVE-2011-4966
