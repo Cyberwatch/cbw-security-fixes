@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:1089
 #
 # Security announcement date: 2012-07-17 21:25:02 UTC
-# Script generation date:     2016-01-06 19:07:11 UTC
+# Script generation date:     2016-01-07 07:05:37 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - thunderbird:10.0.6-1.el5.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - thunderbird:38.4.0-1.el5.centos.x86_64
+#   - thunderbird:38.5.0-1.el5.centos.x86_64
 #
 # CVE List:
 #   - CVE-2012-1948
@@ -36,4 +36,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2012:1089
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird-38.4.0 -y 
+sudo yum install thunderbird-38.5.0 -y 
