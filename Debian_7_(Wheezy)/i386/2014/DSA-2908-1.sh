@@ -4,7 +4,7 @@
 # Security fix for DSA-2908-1
 #
 # Security announcement date: 2014-04-17 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:28 UTC
+# Script generation date:     2016-01-08 19:05:45 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - openssl:1.0.1e-2+deb7u7
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-2+deb7u18
+#   - openssl:1.0.1e-2+deb7u19
 #
 # CVE List:
 #   - CVE-2010-5298
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2908-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=1.0.1e-2+deb7u18 -y
+sudo apt-get install --only-upgrade openssl=1.0.1e-2+deb7u19 -y

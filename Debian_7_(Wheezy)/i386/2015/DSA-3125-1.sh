@@ -4,7 +4,7 @@
 # Security fix for DSA-3125-1
 #
 # Security announcement date: 2015-01-11 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:43 UTC
+# Script generation date:     2016-01-08 19:05:59 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - openssl:1.0.1e-2+deb7u14
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-2+deb7u18
+#   - openssl:1.0.1e-2+deb7u19
 #
 # CVE List:
 #   - CVE-2014-3569
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3125-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=1.0.1e-2+deb7u18 -y
+sudo apt-get install --only-upgrade openssl=1.0.1e-2+deb7u19 -y
