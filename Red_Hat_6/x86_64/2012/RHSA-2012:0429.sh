@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:0429
 #
 # Security announcement date: 2012-03-27 23:08:00 UTC
-# Script generation date:     2016-01-06 19:10:48 UTC
+# Script generation date:     2016-01-08 07:12:34 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - gnutls-guile:2.8.5-4.el6_2.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - gnutls:2.8.5-18.el6.x86_64
-#   - gnutls-debuginfo:2.8.5-18.el6.x86_64
-#   - gnutls-utils:2.8.5-18.el6.x86_64
-#   - gnutls-devel:2.8.5-18.el6.x86_64
-#   - gnutls-guile:2.8.5-18.el6.x86_64
+#   - gnutls:2.8.5-19.el6_7.x86_64
+#   - gnutls-debuginfo:2.8.5-19.el6_7.x86_64
+#   - gnutls-utils:2.8.5-19.el6_7.x86_64
+#   - gnutls-devel:2.8.5-19.el6_7.x86_64
+#   - gnutls-guile:2.8.5-19.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2011-4128

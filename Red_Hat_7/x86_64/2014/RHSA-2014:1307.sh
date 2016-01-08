@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1307
 #
 # Security announcement date: 2014-09-26 05:11:01 UTC
-# Script generation date:     2016-01-06 19:12:57 UTC
+# Script generation date:     2016-01-08 07:14:45 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -25,17 +25,17 @@
 #   - nss-util-devel:3.16.2-2.el7_0.x86_64
 #
 # Last versions recommanded by security team:
-#   - nss:3.19.1-3.el7_1.x86_64
-#   - nss-debuginfo:3.19.1-3.el7_1.x86_64
+#   - nss:3.19.1-19.el7_2.x86_64
+#   - nss-debuginfo:3.19.1-19.el7_2.x86_64
 #   - nss-softokn:3.16.2.3-13.el7_1.x86_64
 #   - nss-softokn-debuginfo:3.16.2.3-13.el7_1.x86_64
 #   - nss-softokn-freebl:3.16.2.3-13.el7_1.x86_64
-#   - nss-sysinit:3.19.1-3.el7_1.x86_64
-#   - nss-tools:3.19.1-3.el7_1.x86_64
+#   - nss-sysinit:3.19.1-19.el7_2.x86_64
+#   - nss-tools:3.19.1-19.el7_2.x86_64
 #   - nss-util:3.19.1-1.el7_1.x86_64
 #   - nss-util-debuginfo:3.19.1-1.el7_1.x86_64
-#   - nss-devel:3.19.1-3.el7_1.x86_64
-#   - nss-pkcs11-devel:3.19.1-3.el7_1.x86_64
+#   - nss-devel:3.19.1-19.el7_2.x86_64
+#   - nss-pkcs11-devel:3.19.1-19.el7_2.x86_64
 #   - nss-softokn-devel:3.16.2.3-13.el7_1.x86_64
 #   - nss-softokn-freebl-devel:3.16.2.3-13.el7_1.x86_64
 #   - nss-util-devel:3.19.1-1.el7_1.x86_64

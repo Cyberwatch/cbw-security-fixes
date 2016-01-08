@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:1543
 #
 # Security announcement date: 2013-11-21 04:25:11 UTC
-# Script generation date:     2016-01-06 19:12:05 UTC
+# Script generation date:     2016-01-08 07:13:51 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -26,21 +26,21 @@
 #   - samba4-winbind-krb5-locator:4.0.0-58.el6.rc4.x86_64
 #
 # Last versions recommanded by security team:
-#   - samba4:4.0.0-65.el6_5.rc4.x86_64
-#   - samba4-client:4.0.0-65.el6_5.rc4.x86_64
-#   - samba4-common:4.0.0-65.el6_5.rc4.x86_64
-#   - samba4-dc:4.0.0-65.el6_5.rc4.x86_64
-#   - samba4-dc-libs:4.0.0-65.el6_5.rc4.x86_64
-#   - samba4-debuginfo:4.0.0-65.el6_5.rc4.x86_64
-#   - samba4-devel:4.0.0-65.el6_5.rc4.x86_64
-#   - samba4-libs:4.0.0-65.el6_5.rc4.x86_64
-#   - samba4-pidl:4.0.0-65.el6_5.rc4.x86_64
-#   - samba4-python:4.0.0-65.el6_5.rc4.x86_64
-#   - samba4-swat:4.0.0-65.el6_5.rc4.x86_64
-#   - samba4-test:4.0.0-65.el6_5.rc4.x86_64
-#   - samba4-winbind:4.0.0-65.el6_5.rc4.x86_64
-#   - samba4-winbind-clients:4.0.0-65.el6_5.rc4.x86_64
-#   - samba4-winbind-krb5-locator:4.0.0-65.el6_5.rc4.x86_64
+#   - samba4:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-client:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-common:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-dc:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-dc-libs:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-debuginfo:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-devel:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-libs:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-pidl:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-python:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-swat:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-test:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-winbind:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-winbind-clients:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-winbind-krb5-locator:4.0.0-67.el6_7.rc4.x86_64
 #
 # CVE List:
 #   - CVE-2013-4124

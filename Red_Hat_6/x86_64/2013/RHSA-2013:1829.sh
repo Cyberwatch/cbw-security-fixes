@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:1829
 #
 # Security announcement date: 2013-12-12 19:30:12 UTC
-# Script generation date:     2016-01-06 19:12:14 UTC
+# Script generation date:     2016-01-08 07:14:00 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -25,15 +25,15 @@
 # Last versions recommanded by security team:
 #   - nspr:4.10.6-1.el6_5.x86_64
 #   - nspr-debuginfo:4.10.6-1.el6_5.x86_64
-#   - nss:3.19.1-3.el6_6.x86_64
-#   - nss-debuginfo:3.19.1-3.el6_6.x86_64
-#   - nss-sysinit:3.19.1-3.el6_6.x86_64
-#   - nss-tools:3.19.1-3.el6_6.x86_64
+#   - nss:3.19.1-8.el6_7.x86_64
+#   - nss-debuginfo:3.19.1-8.el6_7.x86_64
+#   - nss-sysinit:3.19.1-8.el6_7.x86_64
+#   - nss-tools:3.19.1-8.el6_7.x86_64
 #   - nss-util:3.19.1-1.el6_6.x86_64
 #   - nss-util-debuginfo:3.19.1-1.el6_6.x86_64
 #   - nspr-devel:4.10.6-1.el6_5.x86_64
-#   - nss-devel:3.19.1-3.el6_6.x86_64
-#   - nss-pkcs11-devel:3.19.1-3.el6_6.x86_64
+#   - nss-devel:3.19.1-8.el6_7.x86_64
+#   - nss-pkcs11-devel:3.19.1-8.el6_7.x86_64
 #   - nss-util-devel:3.19.1-1.el6_6.x86_64
 #
 # CVE List:

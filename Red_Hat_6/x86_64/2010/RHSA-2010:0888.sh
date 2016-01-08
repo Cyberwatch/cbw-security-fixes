@@ -3,7 +3,7 @@
 # Security fix for RHSA-2010:0888
 #
 # Security announcement date: 2010-11-16 17:04:28 UTC
-# Script generation date:     2016-01-06 19:09:40 UTC
+# Script generation date:     2016-01-08 07:11:36 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - openssl-static:1.0.0-4.el6_0.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-30.el6_6.11.x86_64
-#   - openssl-debuginfo:1.0.1e-30.el6_6.11.x86_64
-#   - openssl-devel:1.0.1e-30.el6_6.11.x86_64
-#   - openssl-perl:1.0.1e-30.el6_6.11.x86_64
-#   - openssl-static:1.0.1e-30.el6_6.11.x86_64
+#   - openssl:1.0.1e-42.el6_7.2.x86_64
+#   - openssl-debuginfo:1.0.1e-42.el6_7.2.x86_64
+#   - openssl-devel:1.0.1e-42.el6_7.2.x86_64
+#   - openssl-perl:1.0.1e-42.el6_7.2.x86_64
+#   - openssl-static:1.0.1e-42.el6_7.2.x86_64
 #
 # CVE List:
 #   - CVE-2010-3864

@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0587
 #
 # Security announcement date: 2013-03-04 21:19:15 UTC
-# Script generation date:     2016-01-06 19:11:30 UTC
+# Script generation date:     2016-01-08 07:13:16 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - openssl-static:1.0.0-27.el6_4.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-30.el6_6.11.x86_64
-#   - openssl-debuginfo:1.0.1e-30.el6_6.11.x86_64
-#   - openssl-devel:1.0.1e-30.el6_6.11.x86_64
-#   - openssl-perl:1.0.1e-30.el6_6.11.x86_64
-#   - openssl-static:1.0.1e-30.el6_6.11.x86_64
+#   - openssl:1.0.1e-42.el6_7.2.x86_64
+#   - openssl-debuginfo:1.0.1e-42.el6_7.2.x86_64
+#   - openssl-devel:1.0.1e-42.el6_7.2.x86_64
+#   - openssl-perl:1.0.1e-42.el6_7.2.x86_64
+#   - openssl-static:1.0.1e-42.el6_7.2.x86_64
 #
 # CVE List:
 #   - CVE-2012-4929

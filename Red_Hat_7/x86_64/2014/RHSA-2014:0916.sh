@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:0916
 #
 # Security announcement date: 2014-07-22 19:25:36 UTC
-# Script generation date:     2016-01-06 19:12:41 UTC
+# Script generation date:     2016-01-08 07:14:28 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -22,13 +22,13 @@
 # Last versions recommanded by security team:
 #   - nspr:4.10.6-1.el7_0.x86_64
 #   - nspr-debuginfo:4.10.6-1.el7_0.x86_64
-#   - nss:3.19.1-3.el7_1.x86_64
-#   - nss-debuginfo:3.19.1-3.el7_1.x86_64
-#   - nss-sysinit:3.19.1-3.el7_1.x86_64
-#   - nss-tools:3.19.1-3.el7_1.x86_64
+#   - nss:3.19.1-19.el7_2.x86_64
+#   - nss-debuginfo:3.19.1-19.el7_2.x86_64
+#   - nss-sysinit:3.19.1-19.el7_2.x86_64
+#   - nss-tools:3.19.1-19.el7_2.x86_64
 #   - nspr-devel:4.10.6-1.el7_0.x86_64
-#   - nss-devel:3.19.1-3.el7_1.x86_64
-#   - nss-pkcs11-devel:3.19.1-3.el7_1.x86_64
+#   - nss-devel:3.19.1-19.el7_2.x86_64
+#   - nss-pkcs11-devel:3.19.1-19.el7_2.x86_64
 #
 # CVE List:
 #   - CVE-2014-1544
