@@ -4,7 +4,7 @@
 # Security fix for USN-2606-1
 #
 # Security announcement date: 2015-05-12 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:55 UTC
+# Script generation date:     2016-01-08 07:01:45 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libssl1.0.0:1.0.1-4ubuntu5.27
 #
 # Last versions recommanded by security team:
-#   - libssl1.0.0:1.0.1-4ubuntu5.32
+#   - libssl1.0.0:1.0.1-4ubuntu5.33
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2606-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.32 -y
+sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.33 -y

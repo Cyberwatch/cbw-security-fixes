@@ -3,7 +3,7 @@
 # Security fix for USN-2791-1
 #
 # Security announcement date: 2015-11-04 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:21 UTC
+# Script generation date:     2016-01-08 07:02:10 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - libnss3:2:3.19.2.1-0ubuntu0.15.10.1
 #
 # Last versions recommanded by security team:
-#   - libnss3:2:3.19.2.1-0ubuntu0.15.10.1
+#   - libnss3:2:3.19.2.1-0ubuntu0.15.10.2
 #
 # CVE List:
 #   - CVE-2015-7181
