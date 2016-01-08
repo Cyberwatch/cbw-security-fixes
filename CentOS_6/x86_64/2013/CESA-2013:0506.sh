@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0506
 #
 # Security announcement date: 2013-03-09 00:42:54 UTC
-# Script generation date:     2016-01-06 19:07:27 UTC
+# Script generation date:     2016-01-08 07:08:06 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -25,20 +25,20 @@
 #   - samba4-winbind-krb5-locator:4.0.0-55.el6.rc4.x86_64
 #
 # Last versions recommanded by security team:
-#   - samba4:4.0.0-66.el6_6.rc4.x86_64
-#   - samba4-client:4.0.0-66.el6_6.rc4.x86_64
-#   - samba4-common:4.0.0-66.el6_6.rc4.x86_64
-#   - samba4-dc:4.0.0-66.el6_6.rc4.x86_64
-#   - samba4-dc-libs:4.0.0-66.el6_6.rc4.x86_64
-#   - samba4-devel:4.0.0-66.el6_6.rc4.x86_64
-#   - samba4-libs:4.0.0-66.el6_6.rc4.x86_64
-#   - samba4-pidl:4.0.0-66.el6_6.rc4.x86_64
-#   - samba4-python:4.0.0-66.el6_6.rc4.x86_64
-#   - samba4-swat:4.0.0-66.el6_6.rc4.x86_64
-#   - samba4-test:4.0.0-66.el6_6.rc4.x86_64
-#   - samba4-winbind:4.0.0-66.el6_6.rc4.x86_64
-#   - samba4-winbind-clients:4.0.0-66.el6_6.rc4.x86_64
-#   - samba4-winbind-krb5-locator:4.0.0-66.el6_6.rc4.x86_64
+#   - samba4:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-client:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-common:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-dc:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-dc-libs:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-devel:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-libs:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-pidl:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-python:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-swat:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-test:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-winbind:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-winbind-clients:4.0.0-67.el6_7.rc4.x86_64
+#   - samba4-winbind-krb5-locator:4.0.0-67.el6_7.rc4.x86_64
 #
 # CVE List:
 #

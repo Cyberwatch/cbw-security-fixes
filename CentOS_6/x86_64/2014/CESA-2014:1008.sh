@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:1008
 #
 # Security announcement date: 2014-08-05 22:01:05 UTC
-# Script generation date:     2016-01-06 19:07:53 UTC
+# Script generation date:     2016-01-08 07:08:32 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -31,13 +31,13 @@
 #   - samba-winbind-modules:4.1.1-37.el7_0.x86_64
 #
 # Last versions recommanded by security team:
-#   - libsmbclient:3.6.23-14.el6_6.x86_64
-#   - libsmbclient-devel:3.6.23-14.el6_6.x86_64
+#   - libsmbclient:3.6.23-24.el6_7.x86_64
+#   - libsmbclient-devel:3.6.23-24.el6_7.x86_64
 #   - libwbclient:4.1.1-37.el7_0.x86_64
 #   - libwbclient-devel:4.1.1-37.el7_0.x86_64
-#   - samba:3.6.23-14.el6_6.x86_64
-#   - samba-client:3.6.23-14.el6_6.x86_64
-#   - samba-common:3.6.23-14.el6_6.x86_64
+#   - samba:3.6.23-24.el6_7.x86_64
+#   - samba-client:3.6.23-24.el6_7.x86_64
+#   - samba-common:3.6.23-24.el6_7.x86_64
 #   - samba-dc:4.1.1-37.el7_0.x86_64
 #   - samba-dc-libs:4.1.1-37.el7_0.x86_64
 #   - samba-devel:4.1.1-37.el7_0.x86_64
@@ -47,9 +47,9 @@
 #   - samba-test:4.1.1-37.el7_0.x86_64
 #   - samba-test-devel:4.1.1-37.el7_0.x86_64
 #   - samba-vfs-glusterfs:4.1.1-37.el7_0.x86_64
-#   - samba-winbind:3.6.23-14.el6_6.x86_64
-#   - samba-winbind-clients:3.6.23-14.el6_6.x86_64
-#   - samba-winbind-krb5-locator:3.6.23-14.el6_6.x86_64
+#   - samba-winbind:3.6.23-24.el6_7.x86_64
+#   - samba-winbind-clients:3.6.23-24.el6_7.x86_64
+#   - samba-winbind-krb5-locator:3.6.23-24.el6_7.x86_64
 #   - samba-winbind-modules:4.1.1-37.el7_0.x86_64
 #
 # CVE List:

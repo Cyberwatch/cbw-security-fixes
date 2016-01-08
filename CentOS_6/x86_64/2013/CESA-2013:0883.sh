@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0883
 #
 # Security announcement date: 2013-05-30 20:28:37 UTC
-# Script generation date:     2016-01-06 19:07:32 UTC
+# Script generation date:     2016-01-08 07:08:11 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - gnutls-utils:2.8.5-10.el6_4.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - gnutls:2.8.5-18.el6.x86_64
-#   - gnutls-devel:2.8.5-18.el6.x86_64
-#   - gnutls-guile:2.8.5-18.el6.x86_64
-#   - gnutls-utils:2.8.5-18.el6.x86_64
+#   - gnutls:2.8.5-19.el6_7.x86_64
+#   - gnutls-devel:2.8.5-19.el6_7.x86_64
+#   - gnutls-guile:2.8.5-19.el6_7.x86_64
+#   - gnutls-utils:2.8.5-19.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2013-1619

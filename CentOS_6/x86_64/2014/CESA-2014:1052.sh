@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:1052
 #
 # Security announcement date: 2014-08-13 20:10:43 UTC
-# Script generation date:     2016-01-06 19:07:54 UTC
+# Script generation date:     2016-01-08 07:08:33 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - openssl-static:1.0.1e-16.el6_5.15.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-42.el6_7.1.x86_64
-#   - openssl-devel:1.0.1e-42.el6_7.1.x86_64
-#   - openssl-perl:1.0.1e-42.el6_7.1.x86_64
-#   - openssl-static:1.0.1e-42.el6_7.1.x86_64
+#   - openssl:1.0.1e-42.el6_7.2.x86_64
+#   - openssl-devel:1.0.1e-42.el6_7.2.x86_64
+#   - openssl-perl:1.0.1e-42.el6_7.2.x86_64
+#   - openssl-static:1.0.1e-42.el6_7.2.x86_64
 #
 # CVE List:
 #   - CVE-2014-3505

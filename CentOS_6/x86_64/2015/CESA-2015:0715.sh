@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:0715
 #
 # Security announcement date: 2015-03-23 20:40:40 UTC
-# Script generation date:     2016-01-06 19:08:07 UTC
+# Script generation date:     2016-01-08 07:08:47 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - openssl-static:1.0.1e-30.el6_6.7.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-42.el6_7.1.x86_64
-#   - openssl-devel:1.0.1e-42.el6_7.1.x86_64
-#   - openssl-perl:1.0.1e-42.el6_7.1.x86_64
-#   - openssl-static:1.0.1e-42.el6_7.1.x86_64
+#   - openssl:1.0.1e-42.el6_7.2.x86_64
+#   - openssl-devel:1.0.1e-42.el6_7.2.x86_64
+#   - openssl-perl:1.0.1e-42.el6_7.2.x86_64
+#   - openssl-static:1.0.1e-42.el6_7.2.x86_64
 #
 # CVE List:
 #   - CVE-2015-0209

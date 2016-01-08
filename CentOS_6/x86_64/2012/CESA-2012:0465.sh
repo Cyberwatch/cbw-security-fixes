@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0465
 #
 # Security announcement date: 2012-04-10 23:59:51 UTC
-# Script generation date:     2016-01-06 19:07:02 UTC
+# Script generation date:     2016-01-08 07:07:42 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -23,18 +23,18 @@
 #   - samba-winbind-krb5-locator:3.5.10-115.el6_2.x86_64
 #
 # Last versions recommanded by security team:
-#   - libsmbclient:3.6.23-14.el6_6.x86_64
-#   - libsmbclient-devel:3.6.23-14.el6_6.x86_64
-#   - samba:3.6.23-14.el6_6.x86_64
-#   - samba-client:3.6.23-14.el6_6.x86_64
-#   - samba-common:3.6.23-14.el6_6.x86_64
-#   - samba-doc:3.6.23-14.el6_6.x86_64
-#   - samba-domainjoin-gui:3.6.23-14.el6_6.x86_64
-#   - samba-swat:3.6.23-14.el6_6.x86_64
-#   - samba-winbind:3.6.23-14.el6_6.x86_64
-#   - samba-winbind-clients:3.6.23-14.el6_6.x86_64
-#   - samba-winbind-devel:3.6.23-14.el6_6.x86_64
-#   - samba-winbind-krb5-locator:3.6.23-14.el6_6.x86_64
+#   - libsmbclient:3.6.23-24.el6_7.x86_64
+#   - libsmbclient-devel:3.6.23-24.el6_7.x86_64
+#   - samba:3.6.23-24.el6_7.x86_64
+#   - samba-client:3.6.23-24.el6_7.x86_64
+#   - samba-common:3.6.23-24.el6_7.x86_64
+#   - samba-doc:3.6.23-24.el6_7.x86_64
+#   - samba-domainjoin-gui:3.6.23-24.el6_7.x86_64
+#   - samba-swat:3.6.23-24.el6_7.x86_64
+#   - samba-winbind:3.6.23-24.el6_7.x86_64
+#   - samba-winbind-clients:3.6.23-24.el6_7.x86_64
+#   - samba-winbind-devel:3.6.23-24.el6_7.x86_64
+#   - samba-winbind-krb5-locator:3.6.23-24.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2012-1182

@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0246
 #
 # Security announcement date: 2014-03-04 21:00:04 UTC
-# Script generation date:     2016-01-06 19:07:45 UTC
+# Script generation date:     2016-01-08 07:08:24 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - gnutls-utils:2.8.5-13.el6_5.x86_64
 #
 # Last versions recommanded by security team:
-#   - gnutls:2.8.5-18.el6.x86_64
-#   - gnutls-devel:2.8.5-18.el6.x86_64
-#   - gnutls-guile:2.8.5-18.el6.x86_64
-#   - gnutls-utils:2.8.5-18.el6.x86_64
+#   - gnutls:2.8.5-19.el6_7.x86_64
+#   - gnutls-devel:2.8.5-19.el6_7.x86_64
+#   - gnutls-guile:2.8.5-19.el6_7.x86_64
+#   - gnutls-utils:2.8.5-19.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2014-0092
