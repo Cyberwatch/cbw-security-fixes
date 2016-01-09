@@ -4,7 +4,7 @@
 # Security fix for USN-1638-3
 #
 # Security announcement date: 2012-12-03 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:42 UTC
+# Script generation date:     2016-01-09 07:00:37 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - firefox:17.0.1+build1-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:43.0+build1-0ubuntu0.12.04.1
+#   - firefox:43.0.4+build3-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2012-5842
@@ -49,4 +49,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-1638-3
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=43.0+build1-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade firefox=43.0.4+build3-0ubuntu0.12.04.1 -y

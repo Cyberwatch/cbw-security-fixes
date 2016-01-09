@@ -4,7 +4,7 @@
 # Security fix for USN-2102-2
 #
 # Security announcement date: 2014-02-19 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:03 UTC
+# Script generation date:     2016-01-09 07:00:58 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox:27.0.1+build1-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:43.0+build1-0ubuntu0.12.04.1
+#   - firefox:43.0.4+build3-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2014-1477
@@ -35,4 +35,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2102-2
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=43.0+build1-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade firefox=43.0.4+build3-0ubuntu0.12.04.1 -y
