@@ -4,7 +4,7 @@
 # Security fix for DSA-2483-1
 #
 # Security announcement date: 2012-05-31 00:00:00 UTC
-# Script generation date:     2016-01-10 07:05:41 UTC
+# Script generation date:     2016-01-10 19:02:46 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - strongswan:4.4.1-5.2
 #
 # Last versions recommanded by security team:
-#   - strongswan:4.4.1-5.6
+#   - strongswan:4.4.1-5.8
 #
 # CVE List:
 #   - CVE-2012-2388
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2483-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade strongswan=4.4.1-5.6 -y
+sudo apt-get install --only-upgrade strongswan=4.4.1-5.8 -y

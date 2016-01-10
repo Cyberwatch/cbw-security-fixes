@@ -4,7 +4,7 @@
 # Security fix for DSA-2651-1
 #
 # Security announcement date: 2013-03-20 00:00:00 UTC
-# Script generation date:     2016-01-10 07:05:48 UTC
+# Script generation date:     2016-01-10 19:02:53 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - smokeping:2.3.6-5+squeeze1
 #
 # Last versions recommanded by security team:
-#   - smokeping:2.3.6-5+squeeze1
+#   - smokeping:2.3.6-5+squeeze2
 #
 # CVE List:
 #   - CVE-2012-0790
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2651-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade smokeping=2.3.6-5+squeeze1 -y
+sudo apt-get install --only-upgrade smokeping=2.3.6-5+squeeze2 -y

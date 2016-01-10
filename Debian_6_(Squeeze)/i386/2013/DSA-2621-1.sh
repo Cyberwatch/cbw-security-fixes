@@ -4,7 +4,7 @@
 # Security fix for DSA-2621-1
 #
 # Security announcement date: 2013-02-13 00:00:00 UTC
-# Script generation date:     2016-01-10 07:05:47 UTC
+# Script generation date:     2016-01-10 19:02:52 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - openssl:0.9.8o-4squeeze14
 #
 # Last versions recommanded by security team:
-#   - openssl:0.9.8o-4squeeze14
+#   - openssl:0.9.8o-4squeeze22
 #
 # CVE List:
 #   - CVE-2013-0166
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2621-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze14 -y
+sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze22 -y

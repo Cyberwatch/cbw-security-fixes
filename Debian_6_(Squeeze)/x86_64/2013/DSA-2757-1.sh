@@ -4,7 +4,7 @@
 # Security fix for DSA-2757-1
 #
 # Security announcement date: 2013-09-14 00:00:00 UTC
-# Script generation date:     2016-01-10 07:05:57 UTC
+# Script generation date:     2016-01-10 19:03:01 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - wordpress:3.6.1+dfsg-1~deb6u1
 #
 # Last versions recommanded by security team:
-#   - wordpress:3.6.1+dfsg-1~deb6u4
+#   - wordpress:3.6.1+dfsg-1~deb6u8
 #
 # CVE List:
 #   - CVE-2013-4338
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2757-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb6u4 -y
+sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb6u8 -y

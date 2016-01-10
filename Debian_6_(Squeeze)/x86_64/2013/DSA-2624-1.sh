@@ -4,7 +4,7 @@
 # Security fix for DSA-2624-1
 #
 # Security announcement date: 2013-02-16 00:00:00 UTC
-# Script generation date:     2016-01-10 07:05:47 UTC
+# Script generation date:     2016-01-10 19:02:52 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - ffmpeg:4:0.5.10-1
 #
 # Last versions recommanded by security team:
-#   - ffmpeg:4:0.5.10-1
+#   - ffmpeg:4:0.5.10-1+deb6u1
 #
 # CVE List:
 #   - CVE-2012-0858
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2624-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ffmpeg=4:0.5.10-1 -y
+sudo apt-get install --only-upgrade ffmpeg=4:0.5.10-1+deb6u1 -y
