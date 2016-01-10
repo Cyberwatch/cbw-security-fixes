@@ -4,7 +4,7 @@
 # Security fix for DLA-307-1
 #
 # Security announcement date: 2015-09-07 00:00:00 UTC
-# Script generation date:     2016-01-10 07:09:38 UTC
+# Script generation date:     2016-01-10 19:06:48 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - php5:5.3.3.1-7+squeeze27
 #
 # Last versions recommanded by security team:
-#   - php5:5.3.3-7+squeeze19
+#   - php5:5.3.3.1-7+squeeze28
 #
 # CVE List:
 #   - CVE-2015-3307
@@ -41,4 +41,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-307-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.3.3-7+squeeze19 -y
+sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze28 -y
