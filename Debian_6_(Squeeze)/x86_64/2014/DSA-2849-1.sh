@@ -4,7 +4,7 @@
 # Security fix for DSA-2849-1
 #
 # Security announcement date: 2014-01-31 00:00:00 UTC
-# Script generation date:     2016-01-10 19:03:10 UTC
+# Script generation date:     2016-01-11 19:05:04 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - curl:7.21.0-2.1+squeeze7
 #
 # Last versions recommanded by security team:
-#   - curl:7.21.0-2.1+squeeze12
+#   - curl:7.21.0-2.1+squeeze8
 #
 # CVE List:
 #   - CVE-2014-0015
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2849-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade curl=7.21.0-2.1+squeeze12 -y
+sudo apt-get install --only-upgrade curl=7.21.0-2.1+squeeze8 -y

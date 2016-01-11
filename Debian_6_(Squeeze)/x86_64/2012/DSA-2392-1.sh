@@ -4,7 +4,7 @@
 # Security fix for DSA-2392-1
 #
 # Security announcement date: 2012-01-23 00:00:00 UTC
-# Script generation date:     2016-01-10 19:02:41 UTC
+# Script generation date:     2016-01-11 19:04:35 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - openssl:0.9.8o-4squeeze7
 #
 # Last versions recommanded by security team:
-#   - openssl:0.9.8o-4squeeze22
+#   - openssl:0.9.8o-4squeeze14
 #
 # CVE List:
 #   - CVE-2012-0050
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2392-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze22 -y
+sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze14 -y
