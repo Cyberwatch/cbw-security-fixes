@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:2393
 #
 # Security announcement date: 2015-11-19 21:54:58 UTC
-# Script generation date:     2016-01-06 19:14:31 UTC
+# Script generation date:     2016-01-11 19:17:10 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - wireshark-devel:1.10.14-7.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.10.3-12.el7_0.x86_64
-#   - wireshark-debuginfo:1.10.3-12.el7_0.x86_64
-#   - wireshark-gnome:1.10.3-12.el7_0.x86_64
-#   - wireshark-devel:1.10.3-12.el7_0.x86_64
+#   - wireshark:1.10.14-7.el7.x86_64
+#   - wireshark-debuginfo:1.10.14-7.el7.x86_64
+#   - wireshark-gnome:1.10.14-7.el7.x86_64
+#   - wireshark-devel:1.10.14-7.el7.x86_64
 #
 # CVE List:
 #   - CVE-2014-8710
@@ -47,7 +47,7 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:2393
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install wireshark-1.10.3 -y 
-sudo yum install wireshark-debuginfo-1.10.3 -y 
-sudo yum install wireshark-gnome-1.10.3 -y 
-sudo yum install wireshark-devel-1.10.3 -y 
+sudo yum install wireshark-1.10.14 -y 
+sudo yum install wireshark-debuginfo-1.10.14 -y 
+sudo yum install wireshark-gnome-1.10.14 -y 
+sudo yum install wireshark-devel-1.10.14 -y 

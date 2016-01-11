@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:0264
 #
 # Security announcement date: 2015-02-24 13:45:10 UTC
-# Script generation date:     2016-01-06 19:13:33 UTC
+# Script generation date:     2016-01-11 19:16:08 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - java-1.6.0-ibm-devel:1.6.0.16.3-1jpp.1.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-ibm:1.6.0.16.7-1jpp.1.el5.x86_64
-#   - java-1.6.0-ibm-devel:1.6.0.16.7-1jpp.1.el5.x86_64
+#   - java-1.6.0-ibm:1.6.0.16.15-1jpp.1.el5.x86_64
+#   - java-1.6.0-ibm-devel:1.6.0.16.15-1jpp.1.el5.x86_64
 #
 # CVE List:
 #   - CVE-2014-3065
@@ -61,5 +61,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:0264
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-ibm-1.6.0.16.7 -y 
-sudo yum install java-1.6.0-ibm-devel-1.6.0.16.7 -y 
+sudo yum install java-1.6.0-ibm-1.6.0.16.15 -y 
+sudo yum install java-1.6.0-ibm-devel-1.6.0.16.15 -y 

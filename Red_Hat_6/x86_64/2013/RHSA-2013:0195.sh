@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0195
 #
 # Security announcement date: 2013-01-24 19:22:40 UTC
-# Script generation date:     2016-01-06 19:11:26 UTC
+# Script generation date:     2016-01-11 19:13:52 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -211,7 +211,7 @@
 #   - jboss-seam2-docs:2.2.6.EAP5-22_patch_01.el6.noarch
 #   - jboss-seam2-examples:2.2.6.EAP5-22_patch_01.el6.noarch
 #   - jboss-seam2-runtime:2.2.6.EAP5-22_patch_01.el6.noarch
-#   - jboss-security-negotiation:2.3.8-1.Final_redhat_1.1.ep6.el6.noarch
+#   - jboss-security-negotiation:2.3.10-1.Final_redhat_1.1.ep6.el6.noarch
 #   - jboss-security-spi:2.0.5-4.SP3_1.ep5.el6.noarch
 #   - jboss-transaction-1.0.1-api:5.0.2-2.ep5.el6.noarch
 #   - jboss-vfs2:3.2.10-1.Final_redhat_1.1.ep6.el6.noarch
@@ -223,7 +223,7 @@
 #   - jbosssx2:2.0.5-9.1.SP3_1_patch_01.ep5.el6.noarch
 #   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el6.noarch
 #   - jbossts-javadoc:4.6.1-12.CP13.7.ep5.el6.noarch
-#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el6.noarch
+#   - jbossweb:7.5.12-1.Final_redhat_1.1.ep6.el6.noarch
 #   - jbossweb-el-1.0-api:2.1.13-4_patch_02.ep5.el6.noarch
 #   - jbossweb-jsp-2.1-api:2.1.13-4_patch_02.ep5.el6.noarch
 #   - jbossweb-lib:7.0.17-4.Final_redhat_3.ep6.el6.noarch
@@ -299,8 +299,8 @@
 #   - xml-commons-which11:1.3.04-8.2_patch_01.ep5.el6.noarch
 #   - xml-security:1.5.7-2.redhat_1.1.ep6.el6.noarch
 #   - jboss-eap5-native:5.2.0-6.ep5.el6.x86_64
-#   - mod_cluster-native:1.2.9-4.Final_redhat_2.ep6.el6.x86_64
-#   - mod_cluster-native-debuginfo:1.2.9-4.Final_redhat_2.ep6.el6.x86_64
+#   - mod_cluster-native:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
+#   - mod_cluster-native-debuginfo:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
 #
 # CVE List:
 #   - CVE-2009-5066
@@ -377,7 +377,7 @@ sudo yum install jboss-seam2-2.2.6.EAP5 -y
 sudo yum install jboss-seam2-docs-2.2.6.EAP5 -y 
 sudo yum install jboss-seam2-examples-2.2.6.EAP5 -y 
 sudo yum install jboss-seam2-runtime-2.2.6.EAP5 -y 
-sudo yum install jboss-security-negotiation-2.3.8 -y 
+sudo yum install jboss-security-negotiation-2.3.10 -y 
 sudo yum install jboss-security-spi-2.0.5 -y 
 sudo yum install jboss-transaction-1.0.1-api-5.0.2 -y 
 sudo yum install jboss-vfs2-3.2.10 -y 
@@ -389,7 +389,7 @@ sudo yum install jbossas-ws-cxf-ewp-5.2.0 -y
 sudo yum install jbosssx2-2.0.5 -y 
 sudo yum install jbossts-4.17.30 -y 
 sudo yum install jbossts-javadoc-4.6.1 -y 
-sudo yum install jbossweb-7.5.11 -y 
+sudo yum install jbossweb-7.5.12 -y 
 sudo yum install jbossweb-el-1.0-api-2.1.13 -y 
 sudo yum install jbossweb-jsp-2.1-api-2.1.13 -y 
 sudo yum install jbossweb-lib-7.0.17 -y 
@@ -465,5 +465,5 @@ sudo yum install xml-commons-which10-1.3.04 -y
 sudo yum install xml-commons-which11-1.3.04 -y 
 sudo yum install xml-security-1.5.7 -y 
 sudo yum install jboss-eap5-native-5.2.0 -y 
-sudo yum install mod_cluster-native-1.2.9 -y 
-sudo yum install mod_cluster-native-debuginfo-1.2.9 -y 
+sudo yum install mod_cluster-native-1.3.1 -y 
+sudo yum install mod_cluster-native-debuginfo-1.3.1 -y 

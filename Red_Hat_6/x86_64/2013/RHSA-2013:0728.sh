@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0728
 #
 # Security announcement date: 2013-04-09 18:18:45 UTC
-# Script generation date:     2016-01-06 19:11:39 UTC
+# Script generation date:     2016-01-11 19:14:04 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -32,7 +32,7 @@
 #   - ruby193-rubygem-chunky_png:1.2.6-3.el6op.noarch
 #   - ruby193-rubygem-ci_reporter:1.7.2-4.el6op.noarch
 #   - ruby193-rubygem-compass:0.12.2-4.el6op.noarch
-#   - ruby193-rubygem-haml:4.0.3-2.el6op.noarch
+#   - ruby193-rubygem-haml:3.1.6-6.el6sat.noarch
 #   - ruby193-rubygem-http_connection:1.4.1-7.el6.noarch
 #   - ruby193-rubygem-rack:1.4.5-3.el6sam.noarch
 #   - ruby193-rubygem-rack-test:0.6.2-1.el6cf.noarch
@@ -56,7 +56,7 @@ sudo yum install ruby193-rubygem-bson-1.8.1 -y
 sudo yum install ruby193-rubygem-chunky_png-1.2.6 -y 
 sudo yum install ruby193-rubygem-ci_reporter-1.7.2 -y 
 sudo yum install ruby193-rubygem-compass-0.12.2 -y 
-sudo yum install ruby193-rubygem-haml-4.0.3 -y 
+sudo yum install ruby193-rubygem-haml-3.1.6 -y 
 sudo yum install ruby193-rubygem-http_connection-1.4.1 -y 
 sudo yum install ruby193-rubygem-rack-1.4.5 -y 
 sudo yum install ruby193-rubygem-rack-test-0.6.2 -y 

@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:0982
 #
 # Security announcement date: 2014-07-29 15:57:39 UTC
-# Script generation date:     2016-01-06 19:12:43 UTC
+# Script generation date:     2016-01-11 19:15:15 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - java-1.6.0-ibm-devel:1.6.0.16.0-1jpp.1.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-ibm:1.6.0.16.7-1jpp.1.el6_7.x86_64
-#   - java-1.6.0-ibm-devel:1.6.0.16.7-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm:1.6.0.16.15-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm-devel:1.6.0.16.15-1jpp.1.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2013-5878
@@ -71,5 +71,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:0982
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-ibm-1.6.0.16.7 -y 
-sudo yum install java-1.6.0-ibm-devel-1.6.0.16.7 -y 
+sudo yum install java-1.6.0-ibm-1.6.0.16.15 -y 
+sudo yum install java-1.6.0-ibm-devel-1.6.0.16.15 -y 

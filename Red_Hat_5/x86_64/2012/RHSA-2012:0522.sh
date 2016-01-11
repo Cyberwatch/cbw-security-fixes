@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:0522
 #
 # Security announcement date: 2012-04-25 12:48:12 UTC
-# Script generation date:     2016-01-06 19:10:50 UTC
+# Script generation date:     2016-01-11 19:13:16 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -19,14 +19,14 @@
 #   - openssl-perl:0.9.8e-12.el5_6.9.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssl:0.9.8e-36.el5_11.x86_64
-#   - openssl-debuginfo:0.9.8e-36.el5_11.x86_64
-#   - openssl-devel:0.9.8e-36.el5_11.x86_64
-#   - openssl-perl:0.9.8e-36.el5_11.x86_64
-#   - openssl:0.9.8e-36.el5_11.x86_64
-#   - openssl-debuginfo:0.9.8e-36.el5_11.x86_64
-#   - openssl-devel:0.9.8e-36.el5_11.x86_64
-#   - openssl-perl:0.9.8e-36.el5_11.x86_64
+#   - openssl:0.9.8e-37.el5_11.x86_64
+#   - openssl-debuginfo:0.9.8e-37.el5_11.x86_64
+#   - openssl-devel:0.9.8e-37.el5_11.x86_64
+#   - openssl-perl:0.9.8e-37.el5_11.x86_64
+#   - openssl:0.9.8e-37.el5_11.x86_64
+#   - openssl-debuginfo:0.9.8e-37.el5_11.x86_64
+#   - openssl-devel:0.9.8e-37.el5_11.x86_64
+#   - openssl-perl:0.9.8e-37.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2012-2110

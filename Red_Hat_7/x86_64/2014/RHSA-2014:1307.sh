@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1307
 #
 # Security announcement date: 2014-09-26 05:11:01 UTC
-# Script generation date:     2016-01-08 07:14:45 UTC
+# Script generation date:     2016-01-11 19:15:30 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -32,13 +32,13 @@
 #   - nss-softokn-freebl:3.16.2.3-13.el7_1.x86_64
 #   - nss-sysinit:3.19.1-19.el7_2.x86_64
 #   - nss-tools:3.19.1-19.el7_2.x86_64
-#   - nss-util:3.19.1-1.el7_1.x86_64
-#   - nss-util-debuginfo:3.19.1-1.el7_1.x86_64
+#   - nss-util:3.19.1-4.el7_1.x86_64
+#   - nss-util-debuginfo:3.19.1-4.el7_1.x86_64
 #   - nss-devel:3.19.1-19.el7_2.x86_64
 #   - nss-pkcs11-devel:3.19.1-19.el7_2.x86_64
 #   - nss-softokn-devel:3.16.2.3-13.el7_1.x86_64
 #   - nss-softokn-freebl-devel:3.16.2.3-13.el7_1.x86_64
-#   - nss-util-devel:3.19.1-1.el7_1.x86_64
+#   - nss-util-devel:3.19.1-4.el7_1.x86_64
 #
 # CVE List:
 #   - CVE-2014-1568

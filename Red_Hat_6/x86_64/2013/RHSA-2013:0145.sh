@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0145
 #
 # Security announcement date: 2013-01-08 21:46:38 UTC
-# Script generation date:     2016-01-06 19:11:22 UTC
+# Script generation date:     2016-01-11 19:13:47 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - thunderbird-debuginfo:10.0.12-3.el6_3.x86_64
 #
 # Last versions recommanded by security team:
-#   - thunderbird:38.3.0-1.el6_7.x86_64
-#   - thunderbird-debuginfo:38.3.0-1.el6_7.x86_64
+#   - thunderbird:38.5.0-1.el6_7.x86_64
+#   - thunderbird-debuginfo:38.5.0-1.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2013-0744
@@ -34,5 +34,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:0145
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird-38.3.0 -y 
-sudo yum install thunderbird-debuginfo-38.3.0 -y 
+sudo yum install thunderbird-38.5.0 -y 
+sudo yum install thunderbird-debuginfo-38.5.0 -y 

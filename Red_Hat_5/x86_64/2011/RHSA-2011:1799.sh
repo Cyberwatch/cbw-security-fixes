@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:1799
 #
 # Security announcement date: 2011-12-08 21:23:37 UTC
-# Script generation date:     2016-01-06 19:10:36 UTC
+# Script generation date:     2016-01-11 19:13:00 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -137,7 +137,7 @@
 #   - jbosssx2:2.0.5-9.SP3_1_patch_01.ep5.el5.noarch
 #   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jbossts-javadoc:4.6.1-12.CP13.8.ep5.el5.noarch
-#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el5.noarch
+#   - jbossweb:7.5.12-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jbossweb-el-1.0-api:2.1.13-3_patch_02.ep5.el5.noarch
 #   - jbossweb-jsp-2.1-api:2.1.13-3_patch_02.ep5.el5.noarch
 #   - jbossweb-lib:7.0.17-4.Final_redhat_3.ep6.el5.noarch
@@ -239,7 +239,7 @@ sudo yum install jbossas-ws-native-5.2.0 -y
 sudo yum install jbosssx2-2.0.5 -y 
 sudo yum install jbossts-4.17.30 -y 
 sudo yum install jbossts-javadoc-4.6.1 -y 
-sudo yum install jbossweb-7.5.11 -y 
+sudo yum install jbossweb-7.5.12 -y 
 sudo yum install jbossweb-el-1.0-api-2.1.13 -y 
 sudo yum install jbossweb-jsp-2.1-api-2.1.13 -y 
 sudo yum install jbossweb-lib-7.0.17 -y 

@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0839
 #
 # Security announcement date: 2013-05-20 19:50:12 UTC
-# Script generation date:     2016-01-06 19:11:44 UTC
+# Script generation date:     2016-01-11 19:14:09 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -239,7 +239,7 @@
 #   - hibernate4-envers:4.2.0-11.SP1_redhat_1.ep6.el5.noarch
 #   - hibernate4-infinispan:4.2.0-11.SP1_redhat_1.ep6.el5.noarch
 #   - hibernate4-validator:4.3.2-2.Final_redhat_2.1.ep6.el5.noarch
-#   - hornetq:2.3.25-4.SP3_redhat_1.1.ep6.el5.noarch
+#   - hornetq:2.3.25-7.SP6_redhat_1.1.ep6.el5.noarch
 #   - httpclient:4.2.1-7.redhat_1.ep6.el5.noarch
 #   - httpcomponents-client:4.2.1-7.redhat_1.ep6.el5.noarch
 #   - httpcomponents-core:4.2.1-7.redhat_1.ep6.el5.noarch
@@ -263,66 +263,66 @@
 #   - jbosgi-spi:3.2.0-3.Final_redhat_2.1.ep6.el5.noarch
 #   - jbosgi-vfs:1.2.1-5.Final_redhat_4.1.ep6.el5.noarch
 #   - jboss-aesh:0.33.16-1.redhat_1.1.ep6.el5.noarch
-#   - jboss-as-appclient:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-cli:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-client-all:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-clustering:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-cmp:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-configadmin:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-connector:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-console:2.5.10-4.Final_redhat_2.1.ep6.el5.noarch
-#   - jboss-as-controller:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-controller-client:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-deployment-repository:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-deployment-scanner:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-domain-http:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-domain-management:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-ee:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-ee-deployment:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-ejb3:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-embedded:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-host-controller:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-jacorb:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-jaxr:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-jaxrs:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-jdr:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-jmx:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-jpa:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-jsf:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-jsr77:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-logging:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-mail:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-management-client-content:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-messaging:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-modcluster:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-naming:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-network:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-osgi:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-osgi-configadmin:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-osgi-service:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-platform-mbean:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-pojo:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-process-controller:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-protocol:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-remoting:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-sar:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-security:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-server:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-system-jmx:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-threads:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-transactions:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-version:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-web:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-webservices:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-weld:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jboss-as-xts:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
+#   - jboss-as-appclient:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-cli:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-client-all:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-clustering:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-cmp:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-configadmin:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-connector:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-console:2.5.11-1.Final_redhat_1.1.ep6.el5.noarch
+#   - jboss-as-controller:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-controller-client:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-deployment-repository:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-deployment-scanner:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-domain-http:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-domain-management:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-ee:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-ee-deployment:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-ejb3:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-embedded:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-host-controller:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-jacorb:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-jaxr:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-jaxrs:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-jdr:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-jmx:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-jpa:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-jsf:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-jsr77:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-logging:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-mail:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-management-client-content:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-messaging:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-modcluster:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-naming:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-network:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-osgi:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-osgi-configadmin:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-osgi-service:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-platform-mbean:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-pojo:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-process-controller:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-protocol:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-remoting:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-sar:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-security:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-server:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-system-jmx:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-threads:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-transactions:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-version:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-web:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-webservices:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-weld:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jboss-as-xts:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
 #   - jboss-common-beans:1.1.0-2.Final_redhat_2.1.ep6.el5.noarch
 #   - jboss-dmr:1.2.2-1.Final_redhat_1.1.ep6.el5.noarch
-#   - jboss-ejb-client:1.0.30-1.Final_redhat_1.1.ep6.el5.noarch
+#   - jboss-ejb-client:1.0.32-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jboss-jaxrpc-api_1.1_spec:1.0.1-5.Final_redhat_4.1.ep6.el5.noarch
 #   - jboss-jaxrs-api_1.1_spec:1.0.1-10.Final_redhat_3.1.ep6.el5.noarch
 #   - jboss-jms-api_1.1_spec:1.0.1-13.Final_redhat_3.1.ep6.el5.noarch
-#   - jboss-jsf-api_2.1_spec:2.1.28-3.Final_redhat_1.1.ep6.el5.noarch
+#   - jboss-jsf-api_2.1_spec:2.1.28-5.SP1_redhat_1.1.ep6.el5.noarch
 #   - jboss-logmanager:1.5.4-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jboss-marshalling:1.4.10-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jboss-metadata:7.2.1-1.Final_redhat_1.1.ep6.el5.noarch
@@ -334,23 +334,23 @@
 #   - jboss-modules:1.3.7-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jboss-msc:1.1.5-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jboss-remote-naming:1.0.10-1.Final_redhat_1.1.ep6.el5.noarch
-#   - jboss-remoting3:3.3.4-1.Final_redhat_1.1.ep6.el5.noarch
+#   - jboss-remoting3:3.3.6-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jboss-remoting3-jmx:1.1.3-1.Final_redhat_2.1.ep6.el5.noarch
-#   - jboss-security-negotiation:2.3.8-1.Final_redhat_1.1.ep6.el5.noarch
+#   - jboss-security-negotiation:2.3.10-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jboss-servlet-api_3.0_spec:1.0.2-4.Final_redhat_2.1.ep6.el5.noarch
 #   - jboss-threads:2.1.2-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jboss-transaction-api_1.1_spec:1.0.1-13.Final_redhat_3.1.ep6.el5.noarch
-#   - jbossas-appclient:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jbossas-bundles:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jbossas-core:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jbossas-domain:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jbossas-javadocs:7.5.4-4.Final_redhat_4.1.ep6.el5.noarch
-#   - jbossas-modules-eap:7.5.4-3.Final_redhat_4.1.ep6.el5.noarch
-#   - jbossas-product-eap:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jbossas-standalone:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
-#   - jbossas-welcome-content-eap:7.5.4-2.Final_redhat_4.1.ep6.el5.noarch
+#   - jbossas-appclient:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jbossas-bundles:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jbossas-core:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jbossas-domain:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jbossas-javadocs:7.5.5-3.Final_redhat_3.1.ep6.el5.noarch
+#   - jbossas-modules-eap:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jbossas-product-eap:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jbossas-standalone:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
+#   - jbossas-welcome-content-eap:7.5.5-2.Final_redhat_3.1.ep6.el5.noarch
 #   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el5.noarch
-#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el5.noarch
+#   - jbossweb:7.5.12-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jbossws-api:1.0.2-1.Final_redhat_1.2.ep6.el5.noarch
 #   - jbossws-common:2.3.1-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jbossws-common-tools:1.2.0-2.Final_redhat_2.1.ep6.el5.noarch
@@ -370,7 +370,7 @@
 #   - openws:1.4.4-3.redhat_2.1.ep6.el5.noarch
 #   - org.osgi.core:4.2.0-9.redhat_3.ep6.el5.noarch
 #   - org.osgi.enterprise:4.2.0-9.redhat_3.ep6.el5.noarch
-#   - picketbox:4.1.1-1.Final_redhat_1.1.ep6.el5.noarch
+#   - picketbox:4.1.2-1.Final_redhat_1.1.ep6.el5.noarch
 #   - picketlink-federation:2.5.4-8.SP7_redhat_1.1.ep6.el5.noarch
 #   - relaxngDatatype:2011.1-4.redhat_6.ep6.el5.noarch
 #   - relaxngDatatype-eap6:2011.1.0-1.redhat_9.1.ep6.el5.noarch
@@ -473,62 +473,62 @@ sudo yum install jbosgi-resolver-3.0.1 -y
 sudo yum install jbosgi-spi-3.2.0 -y 
 sudo yum install jbosgi-vfs-1.2.1 -y 
 sudo yum install jboss-aesh-0.33.16 -y 
-sudo yum install jboss-as-appclient-7.5.4 -y 
-sudo yum install jboss-as-cli-7.5.4 -y 
-sudo yum install jboss-as-client-all-7.5.4 -y 
-sudo yum install jboss-as-clustering-7.5.4 -y 
-sudo yum install jboss-as-cmp-7.5.4 -y 
-sudo yum install jboss-as-configadmin-7.5.4 -y 
-sudo yum install jboss-as-connector-7.5.4 -y 
-sudo yum install jboss-as-console-2.5.10 -y 
-sudo yum install jboss-as-controller-7.5.4 -y 
-sudo yum install jboss-as-controller-client-7.5.4 -y 
-sudo yum install jboss-as-deployment-repository-7.5.4 -y 
-sudo yum install jboss-as-deployment-scanner-7.5.4 -y 
-sudo yum install jboss-as-domain-http-7.5.4 -y 
-sudo yum install jboss-as-domain-management-7.5.4 -y 
-sudo yum install jboss-as-ee-7.5.4 -y 
-sudo yum install jboss-as-ee-deployment-7.5.4 -y 
-sudo yum install jboss-as-ejb3-7.5.4 -y 
-sudo yum install jboss-as-embedded-7.5.4 -y 
-sudo yum install jboss-as-host-controller-7.5.4 -y 
-sudo yum install jboss-as-jacorb-7.5.4 -y 
-sudo yum install jboss-as-jaxr-7.5.4 -y 
-sudo yum install jboss-as-jaxrs-7.5.4 -y 
-sudo yum install jboss-as-jdr-7.5.4 -y 
-sudo yum install jboss-as-jmx-7.5.4 -y 
-sudo yum install jboss-as-jpa-7.5.4 -y 
-sudo yum install jboss-as-jsf-7.5.4 -y 
-sudo yum install jboss-as-jsr77-7.5.4 -y 
-sudo yum install jboss-as-logging-7.5.4 -y 
-sudo yum install jboss-as-mail-7.5.4 -y 
-sudo yum install jboss-as-management-client-content-7.5.4 -y 
-sudo yum install jboss-as-messaging-7.5.4 -y 
-sudo yum install jboss-as-modcluster-7.5.4 -y 
-sudo yum install jboss-as-naming-7.5.4 -y 
-sudo yum install jboss-as-network-7.5.4 -y 
-sudo yum install jboss-as-osgi-7.5.4 -y 
-sudo yum install jboss-as-osgi-configadmin-7.5.4 -y 
-sudo yum install jboss-as-osgi-service-7.5.4 -y 
-sudo yum install jboss-as-platform-mbean-7.5.4 -y 
-sudo yum install jboss-as-pojo-7.5.4 -y 
-sudo yum install jboss-as-process-controller-7.5.4 -y 
-sudo yum install jboss-as-protocol-7.5.4 -y 
-sudo yum install jboss-as-remoting-7.5.4 -y 
-sudo yum install jboss-as-sar-7.5.4 -y 
-sudo yum install jboss-as-security-7.5.4 -y 
-sudo yum install jboss-as-server-7.5.4 -y 
-sudo yum install jboss-as-system-jmx-7.5.4 -y 
-sudo yum install jboss-as-threads-7.5.4 -y 
-sudo yum install jboss-as-transactions-7.5.4 -y 
-sudo yum install jboss-as-version-7.5.4 -y 
-sudo yum install jboss-as-web-7.5.4 -y 
-sudo yum install jboss-as-webservices-7.5.4 -y 
-sudo yum install jboss-as-weld-7.5.4 -y 
-sudo yum install jboss-as-xts-7.5.4 -y 
+sudo yum install jboss-as-appclient-7.5.5 -y 
+sudo yum install jboss-as-cli-7.5.5 -y 
+sudo yum install jboss-as-client-all-7.5.5 -y 
+sudo yum install jboss-as-clustering-7.5.5 -y 
+sudo yum install jboss-as-cmp-7.5.5 -y 
+sudo yum install jboss-as-configadmin-7.5.5 -y 
+sudo yum install jboss-as-connector-7.5.5 -y 
+sudo yum install jboss-as-console-2.5.11 -y 
+sudo yum install jboss-as-controller-7.5.5 -y 
+sudo yum install jboss-as-controller-client-7.5.5 -y 
+sudo yum install jboss-as-deployment-repository-7.5.5 -y 
+sudo yum install jboss-as-deployment-scanner-7.5.5 -y 
+sudo yum install jboss-as-domain-http-7.5.5 -y 
+sudo yum install jboss-as-domain-management-7.5.5 -y 
+sudo yum install jboss-as-ee-7.5.5 -y 
+sudo yum install jboss-as-ee-deployment-7.5.5 -y 
+sudo yum install jboss-as-ejb3-7.5.5 -y 
+sudo yum install jboss-as-embedded-7.5.5 -y 
+sudo yum install jboss-as-host-controller-7.5.5 -y 
+sudo yum install jboss-as-jacorb-7.5.5 -y 
+sudo yum install jboss-as-jaxr-7.5.5 -y 
+sudo yum install jboss-as-jaxrs-7.5.5 -y 
+sudo yum install jboss-as-jdr-7.5.5 -y 
+sudo yum install jboss-as-jmx-7.5.5 -y 
+sudo yum install jboss-as-jpa-7.5.5 -y 
+sudo yum install jboss-as-jsf-7.5.5 -y 
+sudo yum install jboss-as-jsr77-7.5.5 -y 
+sudo yum install jboss-as-logging-7.5.5 -y 
+sudo yum install jboss-as-mail-7.5.5 -y 
+sudo yum install jboss-as-management-client-content-7.5.5 -y 
+sudo yum install jboss-as-messaging-7.5.5 -y 
+sudo yum install jboss-as-modcluster-7.5.5 -y 
+sudo yum install jboss-as-naming-7.5.5 -y 
+sudo yum install jboss-as-network-7.5.5 -y 
+sudo yum install jboss-as-osgi-7.5.5 -y 
+sudo yum install jboss-as-osgi-configadmin-7.5.5 -y 
+sudo yum install jboss-as-osgi-service-7.5.5 -y 
+sudo yum install jboss-as-platform-mbean-7.5.5 -y 
+sudo yum install jboss-as-pojo-7.5.5 -y 
+sudo yum install jboss-as-process-controller-7.5.5 -y 
+sudo yum install jboss-as-protocol-7.5.5 -y 
+sudo yum install jboss-as-remoting-7.5.5 -y 
+sudo yum install jboss-as-sar-7.5.5 -y 
+sudo yum install jboss-as-security-7.5.5 -y 
+sudo yum install jboss-as-server-7.5.5 -y 
+sudo yum install jboss-as-system-jmx-7.5.5 -y 
+sudo yum install jboss-as-threads-7.5.5 -y 
+sudo yum install jboss-as-transactions-7.5.5 -y 
+sudo yum install jboss-as-version-7.5.5 -y 
+sudo yum install jboss-as-web-7.5.5 -y 
+sudo yum install jboss-as-webservices-7.5.5 -y 
+sudo yum install jboss-as-weld-7.5.5 -y 
+sudo yum install jboss-as-xts-7.5.5 -y 
 sudo yum install jboss-common-beans-1.1.0 -y 
 sudo yum install jboss-dmr-1.2.2 -y 
-sudo yum install jboss-ejb-client-1.0.30 -y 
+sudo yum install jboss-ejb-client-1.0.32 -y 
 sudo yum install jboss-jaxrpc-api_1.1_spec-1.0.1 -y 
 sudo yum install jboss-jaxrs-api_1.1_spec-1.0.1 -y 
 sudo yum install jboss-jms-api_1.1_spec-1.0.1 -y 
@@ -544,23 +544,23 @@ sudo yum install jboss-metadata-web-7.2.1 -y
 sudo yum install jboss-modules-1.3.7 -y 
 sudo yum install jboss-msc-1.1.5 -y 
 sudo yum install jboss-remote-naming-1.0.10 -y 
-sudo yum install jboss-remoting3-3.3.4 -y 
+sudo yum install jboss-remoting3-3.3.6 -y 
 sudo yum install jboss-remoting3-jmx-1.1.3 -y 
-sudo yum install jboss-security-negotiation-2.3.8 -y 
+sudo yum install jboss-security-negotiation-2.3.10 -y 
 sudo yum install jboss-servlet-api_3.0_spec-1.0.2 -y 
 sudo yum install jboss-threads-2.1.2 -y 
 sudo yum install jboss-transaction-api_1.1_spec-1.0.1 -y 
-sudo yum install jbossas-appclient-7.5.4 -y 
-sudo yum install jbossas-bundles-7.5.4 -y 
-sudo yum install jbossas-core-7.5.4 -y 
-sudo yum install jbossas-domain-7.5.4 -y 
-sudo yum install jbossas-javadocs-7.5.4 -y 
-sudo yum install jbossas-modules-eap-7.5.4 -y 
-sudo yum install jbossas-product-eap-7.5.4 -y 
-sudo yum install jbossas-standalone-7.5.4 -y 
-sudo yum install jbossas-welcome-content-eap-7.5.4 -y 
+sudo yum install jbossas-appclient-7.5.5 -y 
+sudo yum install jbossas-bundles-7.5.5 -y 
+sudo yum install jbossas-core-7.5.5 -y 
+sudo yum install jbossas-domain-7.5.5 -y 
+sudo yum install jbossas-javadocs-7.5.5 -y 
+sudo yum install jbossas-modules-eap-7.5.5 -y 
+sudo yum install jbossas-product-eap-7.5.5 -y 
+sudo yum install jbossas-standalone-7.5.5 -y 
+sudo yum install jbossas-welcome-content-eap-7.5.5 -y 
 sudo yum install jbossts-4.17.30 -y 
-sudo yum install jbossweb-7.5.11 -y 
+sudo yum install jbossweb-7.5.12 -y 
 sudo yum install jbossws-api-1.0.2 -y 
 sudo yum install jbossws-common-2.3.1 -y 
 sudo yum install jbossws-common-tools-1.2.0 -y 
@@ -580,7 +580,7 @@ sudo yum install opensaml-2.5.3 -y
 sudo yum install openws-1.4.4 -y 
 sudo yum install org.osgi.core-4.2.0 -y 
 sudo yum install org.osgi.enterprise-4.2.0 -y 
-sudo yum install picketbox-4.1.1 -y 
+sudo yum install picketbox-4.1.2 -y 
 sudo yum install picketlink-federation-2.5.4 -y 
 sudo yum install relaxngDatatype-2011.1 -y 
 sudo yum install relaxngDatatype-eap6-2011.1.0 -y 

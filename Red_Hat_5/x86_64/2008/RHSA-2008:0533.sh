@@ -3,7 +3,7 @@
 # Security fix for RHSA-2008:0533
 #
 # Security announcement date: 2008-07-09 07:28:11 UTC
-# Script generation date:     2016-01-06 19:08:49 UTC
+# Script generation date:     2016-01-11 19:11:20 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -29,16 +29,16 @@
 #   - selinux-policy-mls:2.4.6-137.1.el5_2.noarch
 #   - selinux-policy-strict:2.4.6-137.1.el5_2.noarch
 #   - selinux-policy-targeted:2.4.6-137.1.el5_2.noarch
-#   - bind:9.3.6-25.P1.el5_11.4.x86_64
-#   - bind-debuginfo:9.3.6-25.P1.el5_11.4.x86_64
-#   - bind-libs:9.3.6-25.P1.el5_11.4.x86_64
-#   - bind-sdb:9.3.6-25.P1.el5_11.4.x86_64
-#   - bind-utils:9.3.6-25.P1.el5_11.4.x86_64
+#   - bind:9.3.6-25.P1.el5_11.5.x86_64
+#   - bind-debuginfo:9.3.6-25.P1.el5_11.5.x86_64
+#   - bind-libs:9.3.6-25.P1.el5_11.5.x86_64
+#   - bind-sdb:9.3.6-25.P1.el5_11.5.x86_64
+#   - bind-utils:9.3.6-25.P1.el5_11.5.x86_64
 #   - selinux-policy-devel:2.4.6-137.1.el5_2.noarch
-#   - bind-chroot:9.3.6-25.P1.el5_11.4.x86_64
-#   - bind-devel:9.3.6-25.P1.el5_11.4.x86_64
-#   - bind-libbind-devel:9.3.6-25.P1.el5_11.4.x86_64
-#   - caching-nameserver:9.3.6-25.P1.el5_11.4.x86_64
+#   - bind-chroot:9.3.6-25.P1.el5_11.5.x86_64
+#   - bind-devel:9.3.6-25.P1.el5_11.5.x86_64
+#   - bind-libbind-devel:9.3.6-25.P1.el5_11.5.x86_64
+#   - caching-nameserver:9.3.6-25.P1.el5_11.5.x86_64
 #
 # CVE List:
 #   - CVE-2008-1447

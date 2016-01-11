@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0215
 #
 # Security announcement date: 2013-01-31 21:55:58 UTC
-# Script generation date:     2016-01-06 19:11:29 UTC
+# Script generation date:     2016-01-11 19:13:54 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -47,22 +47,22 @@
 #   - abrt-gui:2.0.8-26.el6_6.1.x86_64
 #   - abrt-libs:2.0.8-26.el6_6.1.x86_64
 #   - abrt-tui:2.0.8-26.el6_6.1.x86_64
-#   - libreport:2.0.9-21.el6_6.1.x86_64
-#   - libreport-cli:2.0.9-21.el6_6.1.x86_64
-#   - libreport-debuginfo:2.0.9-21.el6_6.1.x86_64
-#   - libreport-gtk:2.0.9-21.el6_6.1.x86_64
-#   - libreport-newt:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-kerneloops:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-logger:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-mailx:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-reportuploader:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-rhtsupport:2.0.9-21.el6_6.1.x86_64
-#   - libreport-python:2.0.9-21.el6_6.1.x86_64
+#   - libreport:2.0.9-25.el6_7.x86_64
+#   - libreport-cli:2.0.9-25.el6_7.x86_64
+#   - libreport-debuginfo:2.0.9-25.el6_7.x86_64
+#   - libreport-gtk:2.0.9-25.el6_7.x86_64
+#   - libreport-newt:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-kerneloops:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-logger:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-mailx:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-reportuploader:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-rhtsupport:2.0.9-25.el6_7.x86_64
+#   - libreport-python:2.0.9-25.el6_7.x86_64
 #   - abrt-addon-vmcore:2.0.8-26.el6_6.1.x86_64
 #   - abrt-devel:2.0.8-26.el6_6.1.x86_64
-#   - libreport-devel:2.0.9-21.el6_6.1.x86_64
-#   - libreport-gtk-devel:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-bugzilla:2.0.9-21.el6_6.1.x86_64
+#   - libreport-devel:2.0.9-25.el6_7.x86_64
+#   - libreport-gtk-devel:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-bugzilla:2.0.9-25.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2012-5659

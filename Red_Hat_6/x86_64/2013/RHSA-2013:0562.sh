@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0562
 #
 # Security announcement date: 2013-03-06 20:02:06 UTC
-# Script generation date:     2016-01-06 19:11:31 UTC
+# Script generation date:     2016-01-11 19:13:56 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -56,15 +56,15 @@
 #
 # Last versions recommanded by security team:
 #   - mrg-release:2.5.0-1.el6.noarch
-#   - python-qpid:0.30-6.el6.noarch
+#   - python-qpid:0.30-7.el6.noarch
 #   - qpid-tests:0.18-2.el6.noarch
 #   - qpid-tools:0.30-4.el6.noarch
-#   - rubygem-rake:0.8.7-2.1.el6.noarch
+#   - rubygem-rake:0.9.2.2-41.el6sat.noarch
 #   - rubygems:1.8.24-6.el6op.noarch
 #   - xerces-c-doc:3.0.1-20.el6.noarch
 #   - xqilla-doc:2.2.3-8.el6.noarch
 #   - python-qpid-qmf:0.30-5.el6.x86_64
-#   - python-saslwrapper:0.18-1.el6_3.x86_64
+#   - python-saslwrapper:0.22-5.el6sat.x86_64
 #   - qpid-cpp-client:0.30-9.el6.x86_64
 #   - qpid-cpp-client-ssl:0.18-38.el6.x86_64
 #   - qpid-cpp-debuginfo:0.30-9.el6.x86_64
@@ -74,8 +74,8 @@
 #   - qpid-qmf-debuginfo:0.30-5.el6.x86_64
 #   - ruby-qpid-qmf:0.22-41.el6.x86_64
 #   - ruby-saslwrapper:0.18-1.el6_3.x86_64
-#   - saslwrapper:0.18-1.el6_3.x86_64
-#   - saslwrapper-debuginfo:0.18-1.el6_3.x86_64
+#   - saslwrapper:0.22-5.el6sat.x86_64
+#   - saslwrapper-debuginfo:0.22-5.el6sat.x86_64
 #   - saslwrapper-devel:0.18-1.el6_3.x86_64
 #   - xerces-c:3.0.1-20.el6.x86_64
 #   - xerces-c-debuginfo:3.0.1-20.el6.x86_64
@@ -113,12 +113,12 @@ sudo yum install mrg-release-2.5.0 -y
 sudo yum install python-qpid-0.30 -y 
 sudo yum install qpid-tests-0.18 -y 
 sudo yum install qpid-tools-0.30 -y 
-sudo yum install rubygem-rake-0.8.7 -y 
+sudo yum install rubygem-rake-0.9.2.2 -y 
 sudo yum install rubygems-1.8.24 -y 
 sudo yum install xerces-c-doc-3.0.1 -y 
 sudo yum install xqilla-doc-2.2.3 -y 
 sudo yum install python-qpid-qmf-0.30 -y 
-sudo yum install python-saslwrapper-0.18 -y 
+sudo yum install python-saslwrapper-0.22 -y 
 sudo yum install qpid-cpp-client-0.30 -y 
 sudo yum install qpid-cpp-client-ssl-0.18 -y 
 sudo yum install qpid-cpp-debuginfo-0.30 -y 
@@ -128,8 +128,8 @@ sudo yum install qpid-qmf-0.30 -y
 sudo yum install qpid-qmf-debuginfo-0.30 -y 
 sudo yum install ruby-qpid-qmf-0.22 -y 
 sudo yum install ruby-saslwrapper-0.18 -y 
-sudo yum install saslwrapper-0.18 -y 
-sudo yum install saslwrapper-debuginfo-0.18 -y 
+sudo yum install saslwrapper-0.22 -y 
+sudo yum install saslwrapper-debuginfo-0.22 -y 
 sudo yum install saslwrapper-devel-0.18 -y 
 sudo yum install xerces-c-3.0.1 -y 
 sudo yum install xerces-c-debuginfo-3.0.1 -y 

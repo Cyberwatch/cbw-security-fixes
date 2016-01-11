@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:0897
 #
 # Security announcement date: 2011-06-23 07:10:46 UTC
-# Script generation date:     2016-01-06 19:10:02 UTC
+# Script generation date:     2016-01-11 19:12:36 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -160,8 +160,8 @@
 #   - jakarta-commons-beanutils:1.8.0-4.1.2.1.jdk6.ep5.el5.noarch
 #   - jakarta-commons-chain:1.2-2.2.1.ep5.el5.noarch
 #   - jakarta-commons-codec:1.3-9.2.1.1.jdk6.ep5.el5.noarch
-#   - jakarta-commons-collections:3.2.1-4.1.ep5.el5.noarch
-#   - jakarta-commons-collections-tomcat5:3.2.1-4.1.ep5.el5.noarch
+#   - jakarta-commons-collections:3.2-2jpp.4.x86_64
+#   - jakarta-commons-collections-tomcat5:3.2-2jpp.4.x86_64
 #   - jakarta-commons-daemon:1.0.5-1.ep5.el5.noarch
 #   - jakarta-commons-dbcp:1.2.1-16.4.ep5.el5.noarch
 #   - jakarta-commons-dbcp-tomcat5:1.2.1-16.4.ep5.el5.noarch
@@ -287,8 +287,8 @@ sudo yum install hibernate3-javadoc-3.3.2 -y
 sudo yum install jakarta-commons-beanutils-1.8.0 -y 
 sudo yum install jakarta-commons-chain-1.2 -y 
 sudo yum install jakarta-commons-codec-1.3 -y 
-sudo yum install jakarta-commons-collections-3.2.1 -y 
-sudo yum install jakarta-commons-collections-tomcat5-3.2.1 -y 
+sudo yum install jakarta-commons-collections-3.2 -y 
+sudo yum install jakarta-commons-collections-tomcat5-3.2 -y 
 sudo yum install jakarta-commons-daemon-1.0.5 -y 
 sudo yum install jakarta-commons-dbcp-1.2.1 -y 
 sudo yum install jakarta-commons-dbcp-tomcat5-1.2.1 -y 

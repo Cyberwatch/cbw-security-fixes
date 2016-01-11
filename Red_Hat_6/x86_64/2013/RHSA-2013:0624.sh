@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0624
 #
 # Security announcement date: 2013-03-11 19:54:46 UTC
-# Script generation date:     2016-01-06 19:11:33 UTC
+# Script generation date:     2016-01-11 19:13:58 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - java-1.5.0-ibm-src:1.5.0.16.0-1jpp.1.el6_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.5.0-ibm:1.5.0.16.13-1jpp.3.el6_7.x86_64
-#   - java-1.5.0-ibm-demo:1.5.0.16.13-1jpp.3.el6_7.x86_64
-#   - java-1.5.0-ibm-devel:1.5.0.16.13-1jpp.3.el6_7.x86_64
-#   - java-1.5.0-ibm-javacomm:1.5.0.16.13-1jpp.3.el6_7.x86_64
-#   - java-1.5.0-ibm-src:1.5.0.16.13-1jpp.3.el6_7.x86_64
+#   - java-1.5.0-ibm:1.5.0.16.14-1jpp.1.el6_7.x86_64
+#   - java-1.5.0-ibm-demo:1.5.0.16.14-1jpp.1.el6_7.x86_64
+#   - java-1.5.0-ibm-devel:1.5.0.16.14-1jpp.1.el6_7.x86_64
+#   - java-1.5.0-ibm-javacomm:1.5.0.16.14-1jpp.1.el6_7.x86_64
+#   - java-1.5.0-ibm-src:1.5.0.16.14-1jpp.1.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2013-0409
@@ -49,8 +49,8 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:0624
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.5.0-ibm-1.5.0.16.13 -y 
-sudo yum install java-1.5.0-ibm-demo-1.5.0.16.13 -y 
-sudo yum install java-1.5.0-ibm-devel-1.5.0.16.13 -y 
-sudo yum install java-1.5.0-ibm-javacomm-1.5.0.16.13 -y 
-sudo yum install java-1.5.0-ibm-src-1.5.0.16.13 -y 
+sudo yum install java-1.5.0-ibm-1.5.0.16.14 -y 
+sudo yum install java-1.5.0-ibm-demo-1.5.0.16.14 -y 
+sudo yum install java-1.5.0-ibm-devel-1.5.0.16.14 -y 
+sudo yum install java-1.5.0-ibm-javacomm-1.5.0.16.14 -y 
+sudo yum install java-1.5.0-ibm-src-1.5.0.16.14 -y 

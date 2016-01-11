@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:2589
 #
 # Security announcement date: 2015-12-09 10:56:17 UTC
-# Script generation date:     2016-01-06 19:14:38 UTC
+# Script generation date:     2016-01-11 19:17:16 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -20,15 +20,15 @@
 #   - glibc-static:2.17-79.el7_1.x86_64
 #
 # Last versions recommanded by security team:
-#   - glibc:2.17-78.el7.x86_64
-#   - glibc-common:2.17-78.el7.x86_64
-#   - glibc-debuginfo:2.17-78.el7.x86_64
-#   - glibc-debuginfo-common:2.17-78.el7.x86_64
-#   - glibc-devel:2.17-78.el7.x86_64
-#   - glibc-headers:2.17-78.el7.x86_64
-#   - glibc-utils:2.17-78.el7.x86_64
-#   - nscd:2.17-78.el7.x86_64
-#   - glibc-static:2.17-78.el7.x86_64
+#   - glibc:2.17-79.el7_1.x86_64
+#   - glibc-common:2.17-79.el7_1.x86_64
+#   - glibc-debuginfo:2.17-79.el7_1.x86_64
+#   - glibc-debuginfo-common:2.17-79.el7_1.x86_64
+#   - glibc-devel:2.17-79.el7_1.x86_64
+#   - glibc-headers:2.17-79.el7_1.x86_64
+#   - glibc-utils:2.17-79.el7_1.x86_64
+#   - nscd:2.17-79.el7_1.x86_64
+#   - glibc-static:2.17-79.el7_1.x86_64
 #
 # CVE List:
 #   - CVE-2013-7423

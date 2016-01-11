@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:0707
 #
 # Security announcement date: 2015-03-19 17:16:06 UTC
-# Script generation date:     2016-01-06 19:13:37 UTC
+# Script generation date:     2016-01-11 19:16:14 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -28,7 +28,7 @@
 #   - ruby-qpid-qmf:0.22-41.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - python-qpid:0.30-6.el6.noarch
+#   - python-qpid:0.30-7.el6.noarch
 #   - qpid-cpp-client-devel-docs:0.22-51.el6.noarch
 #   - python-qpid-qmf:0.30-5.el6.x86_64
 #   - qpid-cpp-client:0.30-9.el6.x86_64

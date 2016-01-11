@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:0253
 #
 # Security announcement date: 2014-03-05 19:39:39 UTC
-# Script generation date:     2016-01-06 19:12:21 UTC
+# Script generation date:     2016-01-11 19:14:47 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - jbossweb:7.3.0-2.Final_redhat_2.1.ep6.el6.noarch
 #
 # Last versions recommanded by security team:
-#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el6.noarch
+#   - jbossweb:7.5.12-1.Final_redhat_1.1.ep6.el6.noarch
 #
 # CVE List:
 #   - CVE-2014-0050
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:0253
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install jbossweb-7.5.11 -y 
+sudo yum install jbossweb-7.5.12 -y 

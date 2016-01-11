@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:1475
 #
 # Security announcement date: 2013-10-29 21:20:12 UTC
-# Script generation date:     2016-01-06 19:12:02 UTC
+# Script generation date:     2016-01-11 19:14:27 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -22,17 +22,17 @@
 #   - postgresql-test:8.4.18-1.el6_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - postgresql-debuginfo:8.4.20-3.el6_6.x86_64
-#   - postgresql-libs:8.4.20-3.el6_6.x86_64
-#   - postgresql:8.4.20-3.el6_6.x86_64
-#   - postgresql-contrib:8.4.20-3.el6_6.x86_64
-#   - postgresql-devel:8.4.20-3.el6_6.x86_64
-#   - postgresql-docs:8.4.20-3.el6_6.x86_64
-#   - postgresql-plperl:8.4.20-3.el6_6.x86_64
-#   - postgresql-plpython:8.4.20-3.el6_6.x86_64
-#   - postgresql-pltcl:8.4.20-3.el6_6.x86_64
-#   - postgresql-server:8.4.20-3.el6_6.x86_64
-#   - postgresql-test:8.4.20-3.el6_6.x86_64
+#   - postgresql-debuginfo:8.4.20-4.el6_7.x86_64
+#   - postgresql-libs:8.4.20-4.el6_7.x86_64
+#   - postgresql:8.4.20-4.el6_7.x86_64
+#   - postgresql-contrib:8.4.20-4.el6_7.x86_64
+#   - postgresql-devel:8.4.20-4.el6_7.x86_64
+#   - postgresql-docs:8.4.20-4.el6_7.x86_64
+#   - postgresql-plperl:8.4.20-4.el6_7.x86_64
+#   - postgresql-plpython:8.4.20-4.el6_7.x86_64
+#   - postgresql-pltcl:8.4.20-4.el6_7.x86_64
+#   - postgresql-server:8.4.20-4.el6_7.x86_64
+#   - postgresql-test:8.4.20-4.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2013-0255

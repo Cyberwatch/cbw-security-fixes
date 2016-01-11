@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:1269
 #
 # Security announcement date: 2012-09-19 18:10:38 UTC
-# Script generation date:     2016-01-06 19:11:09 UTC
+# Script generation date:     2016-01-11 19:13:34 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -22,7 +22,7 @@
 #   - ruby-qpid-qmf:0.14-14.el6_3.x86_64
 #
 # Last versions recommanded by security team:
-#   - python-qpid:0.30-6.el6.noarch
+#   - python-qpid:0.30-7.el6.noarch
 #   - qpid-tools:0.30-4.el6.noarch
 #   - python-qpid-qmf:0.30-5.el6.x86_64
 #   - qpid-cpp-client:0.30-9.el6.x86_64

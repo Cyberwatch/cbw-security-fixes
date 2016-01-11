@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0710
 #
 # Security announcement date: 2013-04-04 20:23:03 UTC
-# Script generation date:     2016-01-06 19:11:38 UTC
+# Script generation date:     2016-01-11 19:14:04 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - puppet-server:2.6.18-1.el6ost.noarch
 #
 # Last versions recommanded by security team:
-#   - puppet:3.2.4-1.el6_4.noarch
-#   - puppet-server:3.2.4-1.el6_4.noarch
+#   - puppet:3.6.2-4.el6_6sat.noarch
+#   - puppet-server:3.6.2-4.el6_6sat.noarch
 #
 # CVE List:
 #   - CVE-2012-6120
@@ -28,5 +28,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:0710
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install puppet-3.2.4 -y 
-sudo yum install puppet-server-3.2.4 -y 
+sudo yum install puppet-3.6.2 -y 
+sudo yum install puppet-server-3.6.2 -y 

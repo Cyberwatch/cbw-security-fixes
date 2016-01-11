@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:0183
 #
 # Security announcement date: 2011-01-28 16:06:42 UTC
-# Script generation date:     2016-01-06 19:09:47 UTC
+# Script generation date:     2016-01-11 19:12:20 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -147,35 +147,35 @@
 #   - openoffice.org-testtools:3.2.1-19.6.el6_0.5.x86_64
 #
 # Last versions recommanded by security team:
-#   - autocorr-af:4.2.8.2-11.el6.noarch
-#   - autocorr-bg:4.2.8.2-11.el6.noarch
-#   - autocorr-cs:4.2.8.2-11.el6.noarch
-#   - autocorr-da:4.2.8.2-11.el6.noarch
-#   - autocorr-de:4.2.8.2-11.el6.noarch
-#   - autocorr-en:4.2.8.2-11.el6.noarch
-#   - autocorr-es:4.2.8.2-11.el6.noarch
+#   - autocorr-af:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-bg:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-cs:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-da:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-de:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-en:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-es:4.2.8.2-11.el6_7.1.noarch
 #   - autocorr-eu:3.4.5.2-16.1.el6_3.noarch
-#   - autocorr-fa:4.2.8.2-11.el6.noarch
-#   - autocorr-fi:4.2.8.2-11.el6.noarch
-#   - autocorr-fr:4.2.8.2-11.el6.noarch
-#   - autocorr-ga:4.2.8.2-11.el6.noarch
-#   - autocorr-hu:4.2.8.2-11.el6.noarch
-#   - autocorr-it:4.2.8.2-11.el6.noarch
-#   - autocorr-ja:4.2.8.2-11.el6.noarch
-#   - autocorr-ko:4.2.8.2-11.el6.noarch
-#   - autocorr-lb:4.2.8.2-11.el6.noarch
-#   - autocorr-lt:4.2.8.2-11.el6.noarch
-#   - autocorr-mn:4.2.8.2-11.el6.noarch
-#   - autocorr-nl:4.2.8.2-11.el6.noarch
-#   - autocorr-pl:4.2.8.2-11.el6.noarch
-#   - autocorr-pt:4.2.8.2-11.el6.noarch
-#   - autocorr-ru:4.2.8.2-11.el6.noarch
-#   - autocorr-sk:4.2.8.2-11.el6.noarch
-#   - autocorr-sl:4.2.8.2-11.el6.noarch
-#   - autocorr-sv:4.2.8.2-11.el6.noarch
-#   - autocorr-tr:4.2.8.2-11.el6.noarch
-#   - autocorr-vi:4.2.8.2-11.el6.noarch
-#   - autocorr-zh:4.2.8.2-11.el6.noarch
+#   - autocorr-fa:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-fi:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-fr:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-ga:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-hu:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-it:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-ja:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-ko:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-lb:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-lt:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-mn:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-nl:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-pl:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-pt:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-ru:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-sk:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-sl:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-sv:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-tr:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-vi:4.2.8.2-11.el6_7.1.noarch
+#   - autocorr-zh:4.2.8.2-11.el6_7.1.noarch
 #   - openoffice.org-opensymbol-fonts:3.2.1-19.6.el6_2.7.noarch
 #   - openoffice.org-base:3.2.1-19.6.el6_2.7.x86_64
 #   - openoffice.org-base-core:3.2.1-19.6.el6_2.7.x86_64

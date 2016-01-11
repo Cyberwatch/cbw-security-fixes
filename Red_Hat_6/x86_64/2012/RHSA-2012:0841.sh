@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:0841
 #
 # Security announcement date: 2012-06-20 08:40:14 UTC
-# Script generation date:     2016-01-06 19:10:58 UTC
+# Script generation date:     2016-01-11 19:13:23 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -45,25 +45,25 @@
 #   - python-meh:0.12.1-3.el6.noarch
 #   - btparser:0.16-3.el6.x86_64
 #   - btparser-debuginfo:0.16-3.el6.x86_64
-#   - libreport:2.0.9-21.el6_6.1.x86_64
-#   - libreport-cli:2.0.9-21.el6_6.1.x86_64
-#   - libreport-debuginfo:2.0.9-21.el6_6.1.x86_64
-#   - libreport-gtk:2.0.9-21.el6_6.1.x86_64
-#   - libreport-newt:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-kerneloops:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-logger:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-mailx:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-reportuploader:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-rhtsupport:2.0.9-21.el6_6.1.x86_64
-#   - libreport-python:2.0.9-21.el6_6.1.x86_64
+#   - libreport:2.0.9-25.el6_7.x86_64
+#   - libreport-cli:2.0.9-25.el6_7.x86_64
+#   - libreport-debuginfo:2.0.9-25.el6_7.x86_64
+#   - libreport-gtk:2.0.9-25.el6_7.x86_64
+#   - libreport-newt:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-kerneloops:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-logger:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-mailx:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-reportuploader:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-rhtsupport:2.0.9-25.el6_7.x86_64
+#   - libreport-python:2.0.9-25.el6_7.x86_64
 #   - abrt-addon-vmcore:2.0.8-26.el6_6.1.x86_64
 #   - abrt-debuginfo:2.0.8-26.el6_6.1.x86_64
 #   - abrt-devel:2.0.8-26.el6_6.1.x86_64
 #   - btparser-devel:0.16-3.el6.x86_64
 #   - btparser-python:0.16-3.el6.x86_64
-#   - libreport-devel:2.0.9-21.el6_6.1.x86_64
-#   - libreport-gtk-devel:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-bugzilla:2.0.9-21.el6_6.1.x86_64
+#   - libreport-devel:2.0.9-25.el6_7.x86_64
+#   - libreport-gtk-devel:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-bugzilla:2.0.9-25.el6_7.x86_64
 #   - abrt:2.0.8-26.el6_6.1.x86_64
 #   - abrt-addon-ccpp:2.0.8-26.el6_6.1.x86_64
 #   - abrt-addon-kerneloops:2.0.8-26.el6_6.1.x86_64

@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1210
 #
 # Security announcement date: 2015-07-07 08:56:38 UTC
-# Script generation date:     2016-01-06 19:13:59 UTC
+# Script generation date:     2016-01-11 19:16:35 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -51,26 +51,26 @@
 #   - abrt-gui:2.0.8-26.el6_6.1.x86_64
 #   - abrt-libs:2.0.8-26.el6_6.1.x86_64
 #   - abrt-tui:2.0.8-26.el6_6.1.x86_64
-#   - libreport:2.0.9-21.el6_6.1.x86_64
-#   - libreport-cli:2.0.9-21.el6_6.1.x86_64
-#   - libreport-compat:2.0.9-21.el6_6.1.x86_64
-#   - libreport-debuginfo:2.0.9-21.el6_6.1.x86_64
-#   - libreport-gtk:2.0.9-21.el6_6.1.x86_64
-#   - libreport-newt:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-kerneloops:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-logger:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-mailx:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-reportuploader:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-rhtsupport:2.0.9-21.el6_6.1.x86_64
-#   - libreport-python:2.0.9-21.el6_6.1.x86_64
+#   - libreport:2.0.9-25.el6_7.x86_64
+#   - libreport-cli:2.0.9-25.el6_7.x86_64
+#   - libreport-compat:2.0.9-25.el6_7.x86_64
+#   - libreport-debuginfo:2.0.9-25.el6_7.x86_64
+#   - libreport-gtk:2.0.9-25.el6_7.x86_64
+#   - libreport-newt:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-kerneloops:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-logger:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-mailx:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-reportuploader:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-rhtsupport:2.0.9-25.el6_7.x86_64
+#   - libreport-python:2.0.9-25.el6_7.x86_64
 #   - abrt-python:2.0.8-26.el6_6.1.noarch
 #   - abrt-addon-vmcore:2.0.8-26.el6_6.1.x86_64
 #   - abrt-console-notification:2.0.8-26.el6_6.1.x86_64
 #   - abrt-devel:2.0.8-26.el6_6.1.x86_64
-#   - libreport-devel:2.0.9-21.el6_6.1.x86_64
-#   - libreport-filesystem:2.0.9-21.el6_6.1.x86_64
-#   - libreport-gtk-devel:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-bugzilla:2.0.9-21.el6_6.1.x86_64
+#   - libreport-devel:2.0.9-25.el6_7.x86_64
+#   - libreport-filesystem:2.0.9-25.el6_7.x86_64
+#   - libreport-gtk-devel:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-bugzilla:2.0.9-25.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2015-1869

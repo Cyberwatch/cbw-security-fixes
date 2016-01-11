@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:0074
 #
 # Security announcement date: 2012-02-01 01:12:38 UTC
-# Script generation date:     2016-01-06 19:10:41 UTC
+# Script generation date:     2016-01-11 19:13:06 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -16,7 +16,7 @@
 #   - jbossweb-servlet-2.5-api:2.1.12-3_patch_03.2.ep5.el6.noarch
 #
 # Last versions recommanded by security team:
-#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el6.noarch
+#   - jbossweb:7.5.12-1.Final_redhat_1.1.ep6.el6.noarch
 #   - jbossweb-el-1.0-api:2.1.13-4_patch_02.ep5.el6.noarch
 #   - jbossweb-jsp-2.1-api:2.1.13-4_patch_02.ep5.el6.noarch
 #   - jbossweb-lib:7.0.17-4.Final_redhat_3.ep6.el6.noarch
@@ -36,7 +36,7 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2012:0074
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install jbossweb-7.5.11 -y 
+sudo yum install jbossweb-7.5.12 -y 
 sudo yum install jbossweb-el-1.0-api-2.1.13 -y 
 sudo yum install jbossweb-jsp-2.1-api-2.1.13 -y 
 sudo yum install jbossweb-lib-7.0.17 -y 

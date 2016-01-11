@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:0060
 #
 # Security announcement date: 2012-01-24 21:38:14 UTC
-# Script generation date:     2016-01-06 19:10:41 UTC
+# Script generation date:     2016-01-11 19:13:05 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - openssl-devel:0.9.8e-20.el5_7.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssl:0.9.8e-36.el5_11.x86_64
-#   - openssl-debuginfo:0.9.8e-36.el5_11.x86_64
-#   - openssl-perl:0.9.8e-36.el5_11.x86_64
-#   - openssl-devel:0.9.8e-36.el5_11.x86_64
+#   - openssl:0.9.8e-37.el5_11.x86_64
+#   - openssl-debuginfo:0.9.8e-37.el5_11.x86_64
+#   - openssl-perl:0.9.8e-37.el5_11.x86_64
+#   - openssl-devel:0.9.8e-37.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2011-4108

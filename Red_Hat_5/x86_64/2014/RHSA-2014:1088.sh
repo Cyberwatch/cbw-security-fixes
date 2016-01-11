@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1088
 #
 # Security announcement date: 2014-08-21 16:03:54 UTC
-# Script generation date:     2016-01-06 19:12:50 UTC
+# Script generation date:     2016-01-11 19:15:22 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -73,7 +73,7 @@
 #
 # Last versions recommanded by security team:
 #   - antlr-eap6:2.7.7-18.redhat_4.1.ep6.el5.noarch
-#   - apache-commons-collections-eap6:3.2.1-15.redhat_3.1.ep6.el5.noarch
+#   - apache-commons-collections-eap6:3.2.1-18.redhat_7.1.ep6.el5.noarch
 #   - apache-commons-collections-tomcat-eap6:3.2.1-15.redhat_3.1.ep6.el5.noarch
 #   - apache-commons-daemon-eap6:1.0.15-8.redhat_1.ep6.el5.noarch
 #   - apache-commons-pool-eap6:1.6.0-1.redhat_7.1.ep6.el5.noarch
@@ -81,11 +81,11 @@
 #   - dom4j-eap6:1.6.1-20.redhat_6.1.ep6.el5.noarch
 #   - ecj3:3.7.2-9.redhat_3.1.ep6.el5.noarch
 #   - hibernate4-c3p0-eap6:4.2.14-3.SP1_redhat_1.1.ep6.el5.noarch
-#   - hibernate4-core-eap6:4.2.20-1.Final_redhat_1.1.ep6.el5.noarch
-#   - hibernate4-eap6:4.2.20-1.Final_redhat_1.1.ep6.el5.noarch
-#   - hibernate4-entitymanager-eap6:4.2.20-1.Final_redhat_1.1.ep6.el5.noarch
-#   - hibernate4-envers-eap6:4.2.20-1.Final_redhat_1.1.ep6.el5.noarch
-#   - hibernate4-infinispan-eap6:4.2.20-1.Final_redhat_1.1.ep6.el5.noarch
+#   - hibernate4-core-eap6:4.2.21-1.Final_redhat_1.1.ep6.el5.noarch
+#   - hibernate4-eap6:4.2.21-1.Final_redhat_1.1.ep6.el5.noarch
+#   - hibernate4-entitymanager-eap6:4.2.21-1.Final_redhat_1.1.ep6.el5.noarch
+#   - hibernate4-envers-eap6:4.2.21-1.Final_redhat_1.1.ep6.el5.noarch
+#   - hibernate4-infinispan-eap6:4.2.21-1.Final_redhat_1.1.ep6.el5.noarch
 #   - javassist-eap6:3.18.1-6.GA_redhat_1.1.ep6.el5.noarch
 #   - jboss-logging:3.1.4-2.GA_redhat_2.1.ep6.el5.noarch
 #   - jboss-transaction-api_1.1_spec:1.0.1-13.Final_redhat_3.1.ep6.el5.noarch
@@ -154,11 +154,11 @@ sudo yum install apache-commons-pool-tomcat-eap6-1.6 -y
 sudo yum install dom4j-eap6-1.6.1 -y 
 sudo yum install ecj3-3.7.2 -y 
 sudo yum install hibernate4-c3p0-eap6-4.2.14 -y 
-sudo yum install hibernate4-core-eap6-4.2.20 -y 
-sudo yum install hibernate4-eap6-4.2.20 -y 
-sudo yum install hibernate4-entitymanager-eap6-4.2.20 -y 
-sudo yum install hibernate4-envers-eap6-4.2.20 -y 
-sudo yum install hibernate4-infinispan-eap6-4.2.20 -y 
+sudo yum install hibernate4-core-eap6-4.2.21 -y 
+sudo yum install hibernate4-eap6-4.2.21 -y 
+sudo yum install hibernate4-entitymanager-eap6-4.2.21 -y 
+sudo yum install hibernate4-envers-eap6-4.2.21 -y 
+sudo yum install hibernate4-infinispan-eap6-4.2.21 -y 
 sudo yum install javassist-eap6-3.18.1 -y 
 sudo yum install jboss-logging-3.1.4 -y 
 sudo yum install jboss-transaction-api_1.1_spec-1.0.1 -y 

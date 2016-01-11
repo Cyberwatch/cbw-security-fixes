@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:0945
 #
 # Security announcement date: 2011-07-18 22:04:52 UTC
-# Script generation date:     2016-01-06 19:10:10 UTC
+# Script generation date:     2016-01-11 19:12:41 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -178,8 +178,8 @@
 #   - hornetq-jopr-plugin:2.0.0-1.Final.4.ep5.el5.noarch
 #   - hsqldb:1.8.0.10-9_patch_01.2.ep5.el5.noarch
 #   - jacorb-jboss:2.3.2-13.redhat_6.1.ep6.el5.noarch
-#   - jakarta-commons-collections:3.2.1-4.1.ep5.el5.noarch
-#   - jakarta-commons-collections-tomcat5:3.2.1-4.1.ep5.el5.noarch
+#   - jakarta-commons-collections:3.2-2jpp.4.x86_64
+#   - jakarta-commons-collections-tomcat5:3.2-2jpp.4.x86_64
 #   - jakarta-commons-dbcp:1.2.1-16.4.ep5.el5.noarch
 #   - jakarta-commons-dbcp-tomcat5:1.2.1-16.4.ep5.el5.noarch
 #   - jakarta-commons-fileupload:1.1.1-7.7.ep5.el5.noarch
@@ -229,7 +229,7 @@
 #   - jbosssx2:2.0.5-9.SP3_1_patch_01.ep5.el5.noarch
 #   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jbossts-javadoc:4.6.1-12.CP13.8.ep5.el5.noarch
-#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el5.noarch
+#   - jbossweb:7.5.12-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jbossweb-el-1.0-api:2.1.13-3_patch_02.ep5.el5.noarch
 #   - jbossweb-jsp-2.1-api:2.1.13-3_patch_02.ep5.el5.noarch
 #   - jbossweb-lib:7.0.17-4.Final_redhat_3.ep6.el5.noarch
@@ -328,8 +328,8 @@ sudo yum install hibernate3-validator-javadoc-3.1.0 -y
 sudo yum install hornetq-jopr-plugin-2.0.0 -y 
 sudo yum install hsqldb-1.8.0.10 -y 
 sudo yum install jacorb-jboss-2.3.2 -y 
-sudo yum install jakarta-commons-collections-3.2.1 -y 
-sudo yum install jakarta-commons-collections-tomcat5-3.2.1 -y 
+sudo yum install jakarta-commons-collections-3.2 -y 
+sudo yum install jakarta-commons-collections-tomcat5-3.2 -y 
 sudo yum install jakarta-commons-dbcp-1.2.1 -y 
 sudo yum install jakarta-commons-dbcp-tomcat5-1.2.1 -y 
 sudo yum install jakarta-commons-fileupload-1.1.1 -y 
@@ -379,7 +379,7 @@ sudo yum install jbossas-ws-cxf-ewp-5.2.0 -y
 sudo yum install jbosssx2-2.0.5 -y 
 sudo yum install jbossts-4.17.30 -y 
 sudo yum install jbossts-javadoc-4.6.1 -y 
-sudo yum install jbossweb-7.5.11 -y 
+sudo yum install jbossweb-7.5.12 -y 
 sudo yum install jbossweb-el-1.0-api-2.1.13 -y 
 sudo yum install jbossweb-jsp-2.1-api-2.1.13 -y 
 sudo yum install jbossweb-lib-7.0.17 -y 

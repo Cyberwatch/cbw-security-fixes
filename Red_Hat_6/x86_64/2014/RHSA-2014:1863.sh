@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1863
 #
 # Security announcement date: 2014-11-17 17:25:51 UTC
-# Script generation date:     2016-01-06 19:13:16 UTC
+# Script generation date:     2016-01-11 19:15:51 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -27,7 +27,7 @@
 #   - ruby193-rubygem-railties:3.2.17-1.el6sam.noarch
 #
 # Last versions recommanded by security team:
-#   - katello-common:1.4.3.28-1.el6sam_splice.noarch
+#   - katello-common:2.2.0.14-1.el6_6sat.noarch
 #   - katello-glue-candlepin:1.4.3.28-1.el6sam_splice.noarch
 #   - katello-glue-elasticsearch:1.4.3.28-1.el6sam_splice.noarch
 #   - katello-headpin:1.4.3.28-1.el6sam_splice.noarch
@@ -57,7 +57,7 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:1863
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install katello-common-1.4.3.28 -y 
+sudo yum install katello-common-2.2.0.14 -y 
 sudo yum install katello-glue-candlepin-1.4.3.28 -y 
 sudo yum install katello-glue-elasticsearch-1.4.3.28 -y 
 sudo yum install katello-headpin-1.4.3.28 -y 

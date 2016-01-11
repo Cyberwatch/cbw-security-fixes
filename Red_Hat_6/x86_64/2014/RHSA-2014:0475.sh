@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:0475
 #
 # Security announcement date: 2014-05-07 19:39:27 UTC
-# Script generation date:     2016-01-07 19:12:42 UTC
+# Script generation date:     2016-01-11 19:14:55 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -26,7 +26,7 @@
 #   - python-perf:2.6.32-431.17.1.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - kernel-abi-whitelists:2.6.32-573.3.1.el6.noarch
+#   - kernel-abi-whitelists:2.6.32-431.68.1.el6.noarch
 #   - kernel-doc:2.6.32-358.69.1.el6.noarch
 #   - kernel-firmware:2.6.32-358.69.1.el6.noarch
 #   - kernel:2.6.32-358.69.1.el6.x86_64

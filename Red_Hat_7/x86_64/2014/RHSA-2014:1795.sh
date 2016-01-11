@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1795
 #
 # Security announcement date: 2014-11-03 19:08:19 UTC
-# Script generation date:     2016-01-06 19:13:09 UTC
+# Script generation date:     2016-01-11 19:15:44 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - cups-filters-devel:1.0.35-15.el7_0.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - cups-filters:1.0.35-15.el7_0.1.x86_64
-#   - cups-filters-debuginfo:1.0.35-15.el7_0.1.x86_64
-#   - cups-filters-libs:1.0.35-15.el7_0.1.x86_64
-#   - cups-filters-devel:1.0.35-15.el7_0.1.x86_64
+#   - cups-filters:1.0.35-21.el7.x86_64
+#   - cups-filters-debuginfo:1.0.35-21.el7.x86_64
+#   - cups-filters-libs:1.0.35-21.el7.x86_64
+#   - cups-filters-devel:1.0.35-21.el7.x86_64
 #
 # CVE List:
 #   - CVE-2014-4337

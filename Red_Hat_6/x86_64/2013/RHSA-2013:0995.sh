@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0995
 #
 # Security announcement date: 2013-06-27 18:23:16 UTC
-# Script generation date:     2016-01-06 19:11:49 UTC
+# Script generation date:     2016-01-11 19:14:14 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -27,11 +27,11 @@
 #   - ruby193-foreman:1.1.10014-1.3.el6ost.noarch
 #   - ruby193-foreman-mysql:1.1.10014-1.3.el6ost.noarch
 #   - ruby193-foreman-proxy:1.1.10001-7.el6ost.noarch
-#   - ruby193-rubygem-ancestry:1.2.5-1.el6cf.noarch
+#   - ruby193-rubygem-ancestry:2.0.0-1.el6sat.noarch
 #   - ruby193-rubygem-ancestry-doc:1.3.0-5.el6ost.noarch
-#   - ruby193-rubygem-fog:1.19.0-2.el6cf.noarch
+#   - ruby193-rubygem-fog:1.24.0-3.el6_6sat.noarch
 #   - ruby193-rubygem-fog-doc:1.21.0-3.el6op.noarch
-#   - ruby193-rubygem-safemode:1.2.0-9.el6ost.noarch
+#   - ruby193-rubygem-safemode:1.2.1-1.el6sat.noarch
 #   - ruby193-rubygem-safemode-doc:1.2.0-9.el6ost.noarch
 #   - ruby193-openstack-foreman-installer:0.0.18-1.el6ost.x86_64
 #   - ruby193-openstack-foreman-installer-debuginfo:0.0.18-1.el6ost.x86_64
@@ -49,11 +49,11 @@
 sudo yum install ruby193-foreman-1.1.10014 -y 
 sudo yum install ruby193-foreman-mysql-1.1.10014 -y 
 sudo yum install ruby193-foreman-proxy-1.1.10001 -y 
-sudo yum install ruby193-rubygem-ancestry-1.2.5 -y 
+sudo yum install ruby193-rubygem-ancestry-2.0.0 -y 
 sudo yum install ruby193-rubygem-ancestry-doc-1.3.0 -y 
-sudo yum install ruby193-rubygem-fog-1.19.0 -y 
+sudo yum install ruby193-rubygem-fog-1.24.0 -y 
 sudo yum install ruby193-rubygem-fog-doc-1.21.0 -y 
-sudo yum install ruby193-rubygem-safemode-1.2.0 -y 
+sudo yum install ruby193-rubygem-safemode-1.2.1 -y 
 sudo yum install ruby193-rubygem-safemode-doc-1.2.0 -y 
 sudo yum install ruby193-openstack-foreman-installer-0.0.18 -y 
 sudo yum install ruby193-openstack-foreman-installer-debuginfo-0.0.18 -y 

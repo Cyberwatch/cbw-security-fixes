@@ -3,7 +3,7 @@
 # Security fix for RHSA-2009:0348
 #
 # Security announcement date: 2009-03-06 19:12:58 UTC
-# Script generation date:     2016-01-06 19:09:01 UTC
+# Script generation date:     2016-01-11 19:11:33 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -50,7 +50,7 @@
 #   - jbossas-4.2.0.GA_CP06-bin:4.2.0-4.GA_CP06.3.1.ep1.el5.noarch
 #   - jbossas-client:5.2.0-14.ep5.el5.noarch
 #   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el5.noarch
-#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el5.noarch
+#   - jbossweb:7.5.12-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jbossws-jboss42:1.2.1-1.1.ep1.el5.noarch
 #   - jgroups:3.2.13-1.Final_redhat_1.1.ep6.el5.noarch
 #   - rh-eap-docs:5.2.0-6.ep5.el5.noarch
@@ -82,7 +82,7 @@ sudo yum install jbossas-5.2.0 -y
 sudo yum install jbossas-4.2.0.GA_CP06-bin-4.2.0 -y 
 sudo yum install jbossas-client-5.2.0 -y 
 sudo yum install jbossts-4.17.30 -y 
-sudo yum install jbossweb-7.5.11 -y 
+sudo yum install jbossweb-7.5.12 -y 
 sudo yum install jbossws-jboss42-1.2.1 -y 
 sudo yum install jgroups-3.2.13 -y 
 sudo yum install rh-eap-docs-5.2.0 -y 

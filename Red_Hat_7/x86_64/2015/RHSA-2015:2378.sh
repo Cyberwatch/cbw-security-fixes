@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:2378
 #
 # Security announcement date: 2015-11-19 21:54:33 UTC
-# Script generation date:     2016-01-06 19:14:31 UTC
+# Script generation date:     2016-01-11 19:17:09 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -14,9 +14,9 @@
 #   - squid-sysvinit:3.3.8-26.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - squid:3.3.8-12.el7_0.x86_64
-#   - squid-debuginfo:3.3.8-12.el7_0.x86_64
-#   - squid-sysvinit:3.3.8-12.el7_0.x86_64
+#   - squid:3.3.8-26.el7.x86_64
+#   - squid-debuginfo:3.3.8-26.el7.x86_64
+#   - squid-sysvinit:3.3.8-26.el7.x86_64
 #
 # CVE List:
 #   - CVE-2015-3455

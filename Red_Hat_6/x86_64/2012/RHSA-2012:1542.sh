@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:1542
 #
 # Security announcement date: 2012-12-04 20:56:03 UTC
-# Script generation date:     2016-01-06 19:11:15 UTC
+# Script generation date:     2016-01-11 19:13:40 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -28,8 +28,8 @@
 #
 # Last versions recommanded by security team:
 #   - converge-ui-devel:1.0.4-1.el6cf.noarch
-#   - puppet:3.2.4-1.el6_4.noarch
-#   - puppet-server:3.2.4-1.el6_4.noarch
+#   - puppet:3.6.2-4.el6_6sat.noarch
+#   - puppet-server:3.6.2-4.el6_6sat.noarch
 #   - rubygem-actionpack:3.0.13-8.el6op.noarch
 #   - rubygem-activerecord:3.0.13-3.el6op.noarch
 #   - rubygem-activesupport:3.0.10-9.el6cf.noarch
@@ -67,8 +67,8 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install converge-ui-devel-1.0.4 -y 
-sudo yum install puppet-3.2.4 -y 
-sudo yum install puppet-server-3.2.4 -y 
+sudo yum install puppet-3.6.2 -y 
+sudo yum install puppet-server-3.6.2 -y 
 sudo yum install rubygem-actionpack-3.0.13 -y 
 sudo yum install rubygem-activerecord-3.0.13 -y 
 sudo yum install rubygem-activesupport-3.0.10 -y 

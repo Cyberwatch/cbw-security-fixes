@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1657
 #
 # Security announcement date: 2015-08-24 14:21:49 UTC
-# Script generation date:     2016-01-06 19:14:13 UTC
+# Script generation date:     2016-01-11 19:16:52 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -44,8 +44,8 @@
 #   - rh-ruby22-ruby-tcltk:2.2.2-12.el7.x86_64
 #   - rh-ruby22-rubygem-bigdecimal:1.2.6-12.el7.x86_64
 #   - rh-ruby22-rubygem-io-console:0.4.3-12.el7.x86_64
-#   - rh-ruby22-rubygem-json:1.8.1-12.el7.x86_64
-#   - rh-ruby22-rubygem-psych:2.0.8-12.el7.x86_64
+#   - rh-ruby22-rubygem-json:1.8.2-9.el7cf.x86_64
+#   - rh-ruby22-rubygem-psych:2.0.13-4.el7cf.x86_64
 #   - rh-ruby22-rubygems:2.4.5-12.el7.x86_64
 #
 # CVE List:
@@ -70,6 +70,6 @@ sudo yum install rh-ruby22-ruby-libs-2.2.2 -y
 sudo yum install rh-ruby22-ruby-tcltk-2.2.2 -y 
 sudo yum install rh-ruby22-rubygem-bigdecimal-1.2.6 -y 
 sudo yum install rh-ruby22-rubygem-io-console-0.4.3 -y 
-sudo yum install rh-ruby22-rubygem-json-1.8.1 -y 
-sudo yum install rh-ruby22-rubygem-psych-2.0.8 -y 
+sudo yum install rh-ruby22-rubygem-json-1.8.2 -y 
+sudo yum install rh-ruby22-rubygem-psych-2.0.13 -y 
 sudo yum install rh-ruby22-rubygems-2.4.5 -y 

@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:1236
 #
 # Security announcement date: 2012-09-05 17:08:32 UTC
-# Script generation date:     2016-01-06 19:11:07 UTC
+# Script generation date:     2016-01-11 19:13:32 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - xen-devel:3.0.3-135.el5_8.5.x86_64
 #
 # Last versions recommanded by security team:
-#   - xen-debuginfo:3.0.3-146.el5_11.x86_64
-#   - xen-libs:3.0.3-146.el5_11.x86_64
-#   - xen:3.0.3-146.el5_11.x86_64
-#   - xen-devel:3.0.3-146.el5_11.x86_64
+#   - xen-debuginfo:3.0.3-147.el5_11.x86_64
+#   - xen-libs:3.0.3-147.el5_11.x86_64
+#   - xen:3.0.3-147.el5_11.x86_64
+#   - xen-devel:3.0.3-147.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2012-3515

@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:2551
 #
 # Security announcement date: 2015-12-08 15:52:31 UTC
-# Script generation date:     2016-01-06 19:14:38 UTC
+# Script generation date:     2016-01-11 19:17:16 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -67,7 +67,7 @@
 #   - rh-ruby22-rubygem-eventmachine-debuginfo:1.0.7-6.el7cf.x86_64
 #   - rh-ruby22-rubygem-ffi:1.9.8-4.el7cf.x86_64
 #   - rh-ruby22-rubygem-ffi-debuginfo:1.9.8-4.el7cf.x86_64
-#   - rh-ruby22-rubygem-json:1.8.1-12.el7.x86_64
+#   - rh-ruby22-rubygem-json:1.8.2-9.el7cf.x86_64
 #   - rh-ruby22-rubygem-json-debuginfo:1.8.2-9.el7cf.x86_64
 #   - rh-ruby22-rubygem-linux_block_device:0.1.0-2.el7cf.x86_64
 #   - rh-ruby22-rubygem-linux_block_device-debuginfo:0.1.0-2.el7cf.x86_64
@@ -79,7 +79,7 @@
 #   - rh-ruby22-rubygem-nokogiri-debuginfo:1.6.6.2-3.el7cf.x86_64
 #   - rh-ruby22-rubygem-pg:0.18.2-2.el7cf.x86_64
 #   - rh-ruby22-rubygem-pg-debuginfo:0.18.2-2.el7cf.x86_64
-#   - rh-ruby22-rubygem-psych:2.0.8-12.el7.x86_64
+#   - rh-ruby22-rubygem-psych:2.0.13-4.el7cf.x86_64
 #   - rh-ruby22-rubygem-psych-debuginfo:2.0.13-4.el7cf.x86_64
 #   - rh-ruby22-rubygem-puma:2.13.4-2.el7cf.x86_64
 #   - rh-ruby22-rubygem-puma-debuginfo:2.13.4-2.el7cf.x86_64
@@ -114,7 +114,7 @@ sudo yum install rh-ruby22-rubygem-eventmachine-1.0.7 -y
 sudo yum install rh-ruby22-rubygem-eventmachine-debuginfo-1.0.7 -y 
 sudo yum install rh-ruby22-rubygem-ffi-1.9.8 -y 
 sudo yum install rh-ruby22-rubygem-ffi-debuginfo-1.9.8 -y 
-sudo yum install rh-ruby22-rubygem-json-1.8.1 -y 
+sudo yum install rh-ruby22-rubygem-json-1.8.2 -y 
 sudo yum install rh-ruby22-rubygem-json-debuginfo-1.8.2 -y 
 sudo yum install rh-ruby22-rubygem-linux_block_device-0.1.0 -y 
 sudo yum install rh-ruby22-rubygem-linux_block_device-debuginfo-0.1.0 -y 
@@ -126,7 +126,7 @@ sudo yum install rh-ruby22-rubygem-nokogiri-1.6.6.2 -y
 sudo yum install rh-ruby22-rubygem-nokogiri-debuginfo-1.6.6.2 -y 
 sudo yum install rh-ruby22-rubygem-pg-0.18.2 -y 
 sudo yum install rh-ruby22-rubygem-pg-debuginfo-0.18.2 -y 
-sudo yum install rh-ruby22-rubygem-psych-2.0.8 -y 
+sudo yum install rh-ruby22-rubygem-psych-2.0.13 -y 
 sudo yum install rh-ruby22-rubygem-psych-debuginfo-2.0.13 -y 
 sudo yum install rh-ruby22-rubygem-puma-2.13.4 -y 
 sudo yum install rh-ruby22-rubygem-puma-debuginfo-2.13.4 -y 

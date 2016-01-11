@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1948
 #
 # Security announcement date: 2014-12-02 23:51:17 UTC
-# Script generation date:     2016-01-08 07:15:11 UTC
+# Script generation date:     2016-01-11 19:15:54 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -24,11 +24,11 @@
 #   - nss-debuginfo:3.19.1-8.el6_7.x86_64
 #   - nss-sysinit:3.19.1-8.el6_7.x86_64
 #   - nss-tools:3.19.1-8.el6_7.x86_64
-#   - nss-util:3.19.1-1.el6_6.x86_64
-#   - nss-util-debuginfo:3.19.1-1.el6_6.x86_64
+#   - nss-util:3.14.3-7.el6_4.x86_64
+#   - nss-util-debuginfo:3.14.3-7.el6_4.x86_64
 #   - nss-devel:3.19.1-8.el6_7.x86_64
 #   - nss-pkcs11-devel:3.19.1-8.el6_7.x86_64
-#   - nss-util-devel:3.19.1-1.el6_6.x86_64
+#   - nss-util-devel:3.14.3-7.el6_4.x86_64
 #
 # CVE List:
 #   - CVE-2014-3566
@@ -41,8 +41,8 @@ sudo yum install nss-3.19.1 -y
 sudo yum install nss-debuginfo-3.19.1 -y 
 sudo yum install nss-sysinit-3.19.1 -y 
 sudo yum install nss-tools-3.19.1 -y 
-sudo yum install nss-util-3.19.1 -y 
-sudo yum install nss-util-debuginfo-3.19.1 -y 
+sudo yum install nss-util-3.14.3 -y 
+sudo yum install nss-util-debuginfo-3.14.3 -y 
 sudo yum install nss-devel-3.19.1 -y 
 sudo yum install nss-pkcs11-devel-3.19.1 -y 
-sudo yum install nss-util-devel-3.19.1 -y 
+sudo yum install nss-util-devel-3.14.3 -y 

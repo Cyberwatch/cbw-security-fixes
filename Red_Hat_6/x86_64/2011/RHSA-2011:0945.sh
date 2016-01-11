@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:0945
 #
 # Security announcement date: 2011-07-18 22:04:52 UTC
-# Script generation date:     2016-01-06 19:10:12 UTC
+# Script generation date:     2016-01-11 19:12:41 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -348,8 +348,8 @@
 #   - jacorb-jboss:2.3.2-13.redhat_6.1.ep6.el6.noarch
 #   - jakarta-commons-beanutils:1.8.0-9.ep5.el6.noarch
 #   - jakarta-commons-codec:1.3-12.1.ep5.el6.noarch
-#   - jakarta-commons-collections:3.2.1-4.ep5.el6.noarch
-#   - jakarta-commons-collections-tomcat5:3.2.1-4.ep5.el6.noarch
+#   - jakarta-commons-collections:3.2.1-5.ep5.el6.noarch
+#   - jakarta-commons-collections-tomcat5:3.2.1-5.ep5.el6.noarch
 #   - jakarta-commons-dbcp:1.2.1-16.2.ep5.el6.noarch
 #   - jakarta-commons-dbcp-tomcat5:1.2.1-16.2.ep5.el6.noarch
 #   - jakarta-commons-digester:1.8.1-8.1.1.1.ep5.el6.noarch
@@ -443,7 +443,7 @@
 #   - jboss-seam2-examples:2.2.6.EAP5-22_patch_01.el6.noarch
 #   - jboss-seam2-runtime:2.2.6.EAP5-22_patch_01.el6.noarch
 #   - jboss-security-aspects:1.0.0-2.4.ep5.el6.noarch
-#   - jboss-security-negotiation:2.3.8-1.Final_redhat_1.1.ep6.el6.noarch
+#   - jboss-security-negotiation:2.3.10-1.Final_redhat_1.1.ep6.el6.noarch
 #   - jboss-security-spi:2.0.5-4.SP3_1.ep5.el6.noarch
 #   - jboss-security-xacml:2.0.8-5.Final_redhat_2.ep6.el6.noarch
 #   - jboss-serialization:1.0.5-2.ep5.el6.noarch
@@ -452,7 +452,7 @@
 #   - jboss-transaction-1.0.1-api:5.0.2-2.ep5.el6.noarch
 #   - jboss-transaction-aspects:1.0.0-1.6.ep5.el6.noarch
 #   - jboss-vfs2:3.2.10-1.Final_redhat_1.1.ep6.el6.noarch
-#   - jboss-xnio-base:3.0.13-1.GA_redhat_1.1.ep6.el6.noarch
+#   - jboss-xnio-base:3.0.15-1.GA_redhat_1.1.ep6.el6.noarch
 #   - jboss-xnio-metadata:1.0.1-1.4.ep5.el6.noarch
 #   - jboss5-libs:5.1.0-1.6.ep5.el6.noarch
 #   - jbossas-web:5.2.0-16.ep5.el6.noarch
@@ -462,7 +462,7 @@
 #   - jbosssx2:2.0.5-9.1.SP3_1_patch_01.ep5.el6.noarch
 #   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el6.noarch
 #   - jbossts-javadoc:4.6.1-12.CP13.7.ep5.el6.noarch
-#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el6.noarch
+#   - jbossweb:7.5.12-1.Final_redhat_1.1.ep6.el6.noarch
 #   - jbossweb-el-1.0-api:2.1.13-4_patch_02.ep5.el6.noarch
 #   - jbossweb-jsp-2.1-api:2.1.13-4_patch_02.ep5.el6.noarch
 #   - jbossweb-lib:7.0.17-4.Final_redhat_3.ep6.el6.noarch
@@ -496,7 +496,7 @@
 #   - mx4j:3.0.1-12.ep5.el6.noarch
 #   - objectweb-asm31:3.1-12.1.ep5.el6.noarch
 #   - org-mc4j-ems:1.2.15.1-7.ep5.el6.noarch
-#   - quartz:2.2.1.redhat_1-1.el6_5.noarch
+#   - quartz:1.8.4-5.el6sat.noarch
 #   - regexp:1.5-5.ep5.el6.noarch
 #   - relaxngDatatype:2011.1-4.redhat_6.ep6.el6.noarch
 #   - resteasy:2.3.12-1.Final_redhat_1.1.ep6.el6.noarch
@@ -577,8 +577,8 @@
 #   - xml-commons-which11:1.3.04-8.2_patch_01.ep5.el6.noarch
 #   - xml-security:1.5.7-2.redhat_1.1.ep6.el6.noarch
 #   - jboss-eap5-native:5.2.0-6.ep5.el6.x86_64
-#   - mod_cluster-native:1.2.9-4.Final_redhat_2.ep6.el6.x86_64
-#   - mod_cluster-native-debuginfo:1.2.9-4.Final_redhat_2.ep6.el6.x86_64
+#   - mod_cluster-native:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
+#   - mod_cluster-native-debuginfo:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
 #   - mod_jk-ap20:1.2.31-1.1.2.ep5.el6.x86_64
 #   - mod_jk-debuginfo:1.2.40-4.redhat_2.ep6.el6.x86_64
 #   - tomcat-native:1.1.32-3.redhat_1.ep6.el6.x86_64
@@ -738,7 +738,7 @@ sudo yum install jboss-seam2-docs-2.2.6.EAP5 -y
 sudo yum install jboss-seam2-examples-2.2.6.EAP5 -y 
 sudo yum install jboss-seam2-runtime-2.2.6.EAP5 -y 
 sudo yum install jboss-security-aspects-1.0.0 -y 
-sudo yum install jboss-security-negotiation-2.3.8 -y 
+sudo yum install jboss-security-negotiation-2.3.10 -y 
 sudo yum install jboss-security-spi-2.0.5 -y 
 sudo yum install jboss-security-xacml-2.0.8 -y 
 sudo yum install jboss-serialization-1.0.5 -y 
@@ -747,7 +747,7 @@ sudo yum install jboss-threads-2.1.2 -y
 sudo yum install jboss-transaction-1.0.1-api-5.0.2 -y 
 sudo yum install jboss-transaction-aspects-1.0.0 -y 
 sudo yum install jboss-vfs2-3.2.10 -y 
-sudo yum install jboss-xnio-base-3.0.13 -y 
+sudo yum install jboss-xnio-base-3.0.15 -y 
 sudo yum install jboss-xnio-metadata-1.0.1 -y 
 sudo yum install jboss5-libs-5.1.0 -y 
 sudo yum install jbossas-web-5.2.0 -y 
@@ -757,7 +757,7 @@ sudo yum install jbossas-ws-cxf-ewp-5.2.0 -y
 sudo yum install jbosssx2-2.0.5 -y 
 sudo yum install jbossts-4.17.30 -y 
 sudo yum install jbossts-javadoc-4.6.1 -y 
-sudo yum install jbossweb-7.5.11 -y 
+sudo yum install jbossweb-7.5.12 -y 
 sudo yum install jbossweb-el-1.0-api-2.1.13 -y 
 sudo yum install jbossweb-jsp-2.1-api-2.1.13 -y 
 sudo yum install jbossweb-lib-7.0.17 -y 
@@ -791,7 +791,7 @@ sudo yum install msv-xsdlib-1.2 -y
 sudo yum install mx4j-3.0.1 -y 
 sudo yum install objectweb-asm31-3.1 -y 
 sudo yum install org-mc4j-ems-1.2.15.1 -y 
-sudo yum install quartz-2.2.1.redhat_1 -y 
+sudo yum install quartz-1.8.4 -y 
 sudo yum install regexp-1.5 -y 
 sudo yum install relaxngDatatype-2011.1 -y 
 sudo yum install resteasy-2.3.12 -y 
@@ -872,8 +872,8 @@ sudo yum install xml-commons-which10-1.3.04 -y
 sudo yum install xml-commons-which11-1.3.04 -y 
 sudo yum install xml-security-1.5.7 -y 
 sudo yum install jboss-eap5-native-5.2.0 -y 
-sudo yum install mod_cluster-native-1.2.9 -y 
-sudo yum install mod_cluster-native-debuginfo-1.2.9 -y 
+sudo yum install mod_cluster-native-1.3.1 -y 
+sudo yum install mod_cluster-native-debuginfo-1.3.1 -y 
 sudo yum install mod_jk-ap20-1.2.31 -y 
 sudo yum install mod_jk-debuginfo-1.2.40 -y 
 sudo yum install tomcat-native-1.1.32 -y 

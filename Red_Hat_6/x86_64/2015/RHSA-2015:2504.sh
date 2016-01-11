@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:2504
 #
 # Security announcement date: 2015-11-23 09:54:25 UTC
-# Script generation date:     2016-01-06 19:14:32 UTC
+# Script generation date:     2016-01-11 19:17:10 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -28,23 +28,23 @@
 #   - libreport-plugin-bugzilla:2.0.9-25.el6_7.x86_64
 #
 # Last versions recommanded by security team:
-#   - libreport:2.0.9-21.el6_6.1.x86_64
-#   - libreport-cli:2.0.9-21.el6_6.1.x86_64
-#   - libreport-compat:2.0.9-21.el6_6.1.x86_64
-#   - libreport-debuginfo:2.0.9-21.el6_6.1.x86_64
-#   - libreport-filesystem:2.0.9-21.el6_6.1.x86_64
-#   - libreport-gtk:2.0.9-21.el6_6.1.x86_64
-#   - libreport-newt:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-kerneloops:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-logger:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-mailx:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-reportuploader:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-rhtsupport:2.0.9-21.el6_6.1.x86_64
+#   - libreport:2.0.9-25.el6_7.x86_64
+#   - libreport-cli:2.0.9-25.el6_7.x86_64
+#   - libreport-compat:2.0.9-25.el6_7.x86_64
+#   - libreport-debuginfo:2.0.9-25.el6_7.x86_64
+#   - libreport-filesystem:2.0.9-25.el6_7.x86_64
+#   - libreport-gtk:2.0.9-25.el6_7.x86_64
+#   - libreport-newt:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-kerneloops:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-logger:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-mailx:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-reportuploader:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-rhtsupport:2.0.9-25.el6_7.x86_64
 #   - libreport-plugin-ureport:2.0.9-25.el6_7.x86_64
-#   - libreport-python:2.0.9-21.el6_6.1.x86_64
-#   - libreport-devel:2.0.9-21.el6_6.1.x86_64
-#   - libreport-gtk-devel:2.0.9-21.el6_6.1.x86_64
-#   - libreport-plugin-bugzilla:2.0.9-21.el6_6.1.x86_64
+#   - libreport-python:2.0.9-25.el6_7.x86_64
+#   - libreport-devel:2.0.9-25.el6_7.x86_64
+#   - libreport-gtk-devel:2.0.9-25.el6_7.x86_64
+#   - libreport-plugin-bugzilla:2.0.9-25.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2015-5302

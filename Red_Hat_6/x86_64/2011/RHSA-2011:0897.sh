@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:0897
 #
 # Security announcement date: 2011-06-23 07:10:46 UTC
-# Script generation date:     2016-01-06 19:10:03 UTC
+# Script generation date:     2016-01-11 19:12:37 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -168,8 +168,8 @@
 #   - jakarta-commons-beanutils:1.8.0-9.ep5.el6.noarch
 #   - jakarta-commons-chain:1.2-2.2.2.ep5.el6.noarch
 #   - jakarta-commons-codec:1.3-12.1.ep5.el6.noarch
-#   - jakarta-commons-collections:3.2.1-4.ep5.el6.noarch
-#   - jakarta-commons-collections-tomcat5:3.2.1-4.ep5.el6.noarch
+#   - jakarta-commons-collections:3.2.1-5.ep5.el6.noarch
+#   - jakarta-commons-collections-tomcat5:3.2.1-5.ep5.el6.noarch
 #   - jakarta-commons-daemon:1.0.5-1.1.ep5.el6.noarch
 #   - jakarta-commons-dbcp:1.2.1-16.2.ep5.el6.noarch
 #   - jakarta-commons-dbcp-tomcat5:1.2.1-16.2.ep5.el6.noarch
@@ -243,8 +243,8 @@
 #   - httpd-tools:2.2.15-47.el6_7.x86_64
 #   - jakarta-commons-daemon-jsvc:1.0.5-1.4.ep5.el6.x86_64
 #   - jakarta-commons-daemon-jsvc-debuginfo:1.0.5-1.4.ep5.el6.x86_64
-#   - mod_cluster-native:1.2.9-4.Final_redhat_2.ep6.el6.x86_64
-#   - mod_cluster-native-debuginfo:1.2.9-4.Final_redhat_2.ep6.el6.x86_64
+#   - mod_cluster-native:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
+#   - mod_cluster-native-debuginfo:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
 #   - mod_jk-ap20:1.2.31-1.1.2.ep5.el6.x86_64
 #   - mod_jk-debuginfo:1.2.40-4.redhat_2.ep6.el6.x86_64
 #   - mod_jk-manual:1.2.40-4.redhat_2.ep6.el6.x86_64
@@ -377,8 +377,8 @@ sudo yum install httpd-manual-2.2.15 -y
 sudo yum install httpd-tools-2.2.15 -y 
 sudo yum install jakarta-commons-daemon-jsvc-1.0.5 -y 
 sudo yum install jakarta-commons-daemon-jsvc-debuginfo-1.0.5 -y 
-sudo yum install mod_cluster-native-1.2.9 -y 
-sudo yum install mod_cluster-native-debuginfo-1.2.9 -y 
+sudo yum install mod_cluster-native-1.3.1 -y 
+sudo yum install mod_cluster-native-debuginfo-1.3.1 -y 
 sudo yum install mod_jk-ap20-1.2.31 -y 
 sudo yum install mod_jk-debuginfo-1.2.40 -y 
 sudo yum install mod_jk-manual-1.2.40 -y 

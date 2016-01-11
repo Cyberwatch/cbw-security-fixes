@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:1455
 #
 # Security announcement date: 2013-10-23 16:40:43 UTC
-# Script generation date:     2016-01-06 19:12:02 UTC
+# Script generation date:     2016-01-11 19:14:27 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - java-1.6.0-ibm-devel:1.6.0.14.0-1jpp.1.el5_9.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-ibm:1.6.0.16.7-1jpp.1.el5.x86_64
-#   - java-1.6.0-ibm-devel:1.6.0.16.7-1jpp.1.el5.x86_64
+#   - java-1.6.0-ibm:1.6.0.16.15-1jpp.1.el5.x86_64
+#   - java-1.6.0-ibm-devel:1.6.0.16.15-1jpp.1.el5.x86_64
 #
 # CVE List:
 #   - CVE-2011-0802
@@ -180,5 +180,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:1455
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-ibm-1.6.0.16.7 -y 
-sudo yum install java-1.6.0-ibm-devel-1.6.0.16.7 -y 
+sudo yum install java-1.6.0-ibm-1.6.0.16.15 -y 
+sudo yum install java-1.6.0-ibm-devel-1.6.0.16.15 -y 

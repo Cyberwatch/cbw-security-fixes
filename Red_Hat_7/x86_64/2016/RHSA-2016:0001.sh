@@ -3,7 +3,7 @@
 # Security fix for RHSA-2016:0001
 #
 # Security announcement date: 2016-01-05 19:32:59 UTC
-# Script generation date:     2016-01-08 07:16:35 UTC
+# Script generation date:     2016-01-11 19:17:21 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - thunderbird-debuginfo:38.5.0-1.el7_2.x86_64
 #
 # Last versions recommanded by security team:
-#   - thunderbird:38.3.0-1.el7_1.x86_64
-#   - thunderbird-debuginfo:38.3.0-1.el7_1.x86_64
+#   - thunderbird:38.5.0-1.el7_2.x86_64
+#   - thunderbird-debuginfo:38.5.0-1.el7_2.x86_64
 #
 # CVE List:
 #   - CVE-2015-7201
@@ -27,5 +27,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2016:0001
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird-38.3.0 -y 
-sudo yum install thunderbird-debuginfo-38.3.0 -y 
+sudo yum install thunderbird-38.5.0 -y 
+sudo yum install thunderbird-debuginfo-38.5.0 -y 

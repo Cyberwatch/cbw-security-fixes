@@ -3,7 +3,7 @@
 # Security fix for RHSA-2016:0009
 #
 # Security announcement date: 2016-01-08 03:41:59 UTC
-# Script generation date:     2016-01-10 07:19:20 UTC
+# Script generation date:     2016-01-11 19:17:22 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - pyldb-devel:1.1.20-1.el7_2.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - libldb:1.1.20-3.el7rhgs.x86_64
-#   - libldb-debuginfo:1.1.20-3.el7rhgs.x86_64
-#   - ldb-tools:1.1.20-3.el7rhgs.x86_64
-#   - libldb-devel:1.1.20-3.el7rhgs.x86_64
-#   - pyldb:1.1.20-3.el7rhgs.x86_64
-#   - pyldb-devel:1.1.20-3.el7rhgs.x86_64
+#   - libldb:1.1.20-1.el7_2.2.x86_64
+#   - libldb-debuginfo:1.1.20-1.el7_2.2.x86_64
+#   - ldb-tools:1.1.20-1.el7_2.2.x86_64
+#   - libldb-devel:1.1.20-1.el7_2.2.x86_64
+#   - pyldb:1.1.20-1.el7_2.2.x86_64
+#   - pyldb-devel:1.1.20-1.el7_2.2.x86_64
 #
 # CVE List:
 #   - CVE-2015-3223

@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:1841
 #
 # Security announcement date: 2013-12-16 18:47:15 UTC
-# Script generation date:     2016-01-06 19:12:14 UTC
+# Script generation date:     2016-01-11 19:14:40 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -26,21 +26,21 @@
 #   - nss-tools:3.14.3-8.el5_9.x86_64
 #
 # Last versions recommanded by security team:
-#   - nss:3.19.1-1.el5_11.x86_64
-#   - nss-debuginfo:3.19.1-1.el5_11.x86_64
-#   - nss-devel:3.19.1-1.el5_11.x86_64
-#   - nss-pkcs11-devel:3.19.1-1.el5_11.x86_64
-#   - nss-tools:3.19.1-1.el5_11.x86_64
-#   - nss:3.19.1-1.el5_11.x86_64
-#   - nss-debuginfo:3.19.1-1.el5_11.x86_64
-#   - nss-devel:3.19.1-1.el5_11.x86_64
-#   - nss-pkcs11-devel:3.19.1-1.el5_11.x86_64
-#   - nss-tools:3.19.1-1.el5_11.x86_64
-#   - nss:3.19.1-1.el5_11.x86_64
-#   - nss-debuginfo:3.19.1-1.el5_11.x86_64
-#   - nss-devel:3.19.1-1.el5_11.x86_64
-#   - nss-pkcs11-devel:3.19.1-1.el5_11.x86_64
-#   - nss-tools:3.19.1-1.el5_11.x86_64
+#   - nss:3.19.1-2.el5_11.x86_64
+#   - nss-debuginfo:3.19.1-2.el5_11.x86_64
+#   - nss-devel:3.19.1-2.el5_11.x86_64
+#   - nss-pkcs11-devel:3.19.1-2.el5_11.x86_64
+#   - nss-tools:3.19.1-2.el5_11.x86_64
+#   - nss:3.19.1-2.el5_11.x86_64
+#   - nss-debuginfo:3.19.1-2.el5_11.x86_64
+#   - nss-devel:3.19.1-2.el5_11.x86_64
+#   - nss-pkcs11-devel:3.19.1-2.el5_11.x86_64
+#   - nss-tools:3.19.1-2.el5_11.x86_64
+#   - nss:3.19.1-2.el5_11.x86_64
+#   - nss-debuginfo:3.19.1-2.el5_11.x86_64
+#   - nss-devel:3.19.1-2.el5_11.x86_64
+#   - nss-pkcs11-devel:3.19.1-2.el5_11.x86_64
+#   - nss-tools:3.19.1-2.el5_11.x86_64
 #
 # CVE List:
 #   - CVE-2013-5605

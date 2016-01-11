@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:2695
 #
 # Security announcement date: 2015-12-22 15:27:44 UTC
-# Script generation date:     2016-01-06 19:14:43 UTC
+# Script generation date:     2016-01-11 19:17:21 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - qemu-kvm-rhev-tools:0.12.1.2-2.479.el6_7.3.x86_64
 #
 # Last versions recommanded by security team:
-#   - qemu-img-rhev:0.12.1.2-2.479.el6_7.2.x86_64
-#   - qemu-kvm-rhev:0.12.1.2-2.479.el6_7.2.x86_64
-#   - qemu-kvm-rhev-debuginfo:0.12.1.2-2.479.el6_7.2.x86_64
-#   - qemu-kvm-rhev-tools:0.12.1.2-2.479.el6_7.2.x86_64
+#   - qemu-img-rhev:0.12.1.2-2.479.el6_7.3.x86_64
+#   - qemu-kvm-rhev:0.12.1.2-2.479.el6_7.3.x86_64
+#   - qemu-kvm-rhev-debuginfo:0.12.1.2-2.479.el6_7.3.x86_64
+#   - qemu-kvm-rhev-tools:0.12.1.2-2.479.el6_7.3.x86_64
 #
 # CVE List:
 #   - CVE-2015-7504

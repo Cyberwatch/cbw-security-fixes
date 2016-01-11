@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:0514
 #
 # Security announcement date: 2012-04-24 20:35:10 UTC
-# Script generation date:     2016-01-06 19:10:50 UTC
+# Script generation date:     2016-01-11 19:13:15 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -18,13 +18,13 @@
 #   - java-1.6.0-ibm-src:1.6.0.10.1-1jpp.5.el6_2.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-ibm:1.6.0.16.7-1jpp.1.el6_7.x86_64
-#   - java-1.6.0-ibm-demo:1.6.0.16.7-1jpp.1.el6_7.x86_64
-#   - java-1.6.0-ibm-devel:1.6.0.16.7-1jpp.1.el6_7.x86_64
-#   - java-1.6.0-ibm-javacomm:1.6.0.16.7-1jpp.1.el6_7.x86_64
-#   - java-1.6.0-ibm-jdbc:1.6.0.16.7-1jpp.1.el6_7.x86_64
-#   - java-1.6.0-ibm-plugin:1.6.0.16.7-1jpp.1.el6_7.x86_64
-#   - java-1.6.0-ibm-src:1.6.0.16.7-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm:1.6.0.16.15-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm-demo:1.6.0.16.15-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm-devel:1.6.0.16.15-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm-javacomm:1.6.0.16.15-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm-jdbc:1.6.0.16.15-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm-plugin:1.6.0.16.15-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm-src:1.6.0.16.15-1jpp.1.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2011-3563
@@ -44,10 +44,10 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2012:0514
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-ibm-1.6.0.16.7 -y 
-sudo yum install java-1.6.0-ibm-demo-1.6.0.16.7 -y 
-sudo yum install java-1.6.0-ibm-devel-1.6.0.16.7 -y 
-sudo yum install java-1.6.0-ibm-javacomm-1.6.0.16.7 -y 
-sudo yum install java-1.6.0-ibm-jdbc-1.6.0.16.7 -y 
-sudo yum install java-1.6.0-ibm-plugin-1.6.0.16.7 -y 
-sudo yum install java-1.6.0-ibm-src-1.6.0.16.7 -y 
+sudo yum install java-1.6.0-ibm-1.6.0.16.15 -y 
+sudo yum install java-1.6.0-ibm-demo-1.6.0.16.15 -y 
+sudo yum install java-1.6.0-ibm-devel-1.6.0.16.15 -y 
+sudo yum install java-1.6.0-ibm-javacomm-1.6.0.16.15 -y 
+sudo yum install java-1.6.0-ibm-jdbc-1.6.0.16.15 -y 
+sudo yum install java-1.6.0-ibm-plugin-1.6.0.16.15 -y 
+sudo yum install java-1.6.0-ibm-src-1.6.0.16.15 -y 

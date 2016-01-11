@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1103
 #
 # Security announcement date: 2014-08-28 15:17:57 UTC
-# Script generation date:     2016-01-06 19:12:50 UTC
+# Script generation date:     2016-01-11 19:15:23 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - redhat-release-server:6Server-6.4.0.6.el6_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - redhat-release-server:6Server-6.5.0.3.el6_5.1.x86_64
+#   - redhat-release-server:6Server-6.5.0.3.el6_5.2.x86_64
 #
 # CVE List:
 #

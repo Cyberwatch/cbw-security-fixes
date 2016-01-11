@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:1105
 #
 # Security announcement date: 2011-07-28 18:26:57 UTC
-# Script generation date:     2016-01-06 19:10:24 UTC
+# Script generation date:     2016-01-11 19:12:47 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - libpng-static:1.2.46-1.el6_1.x86_64
 #
 # Last versions recommanded by security team:
-#   - libpng:1.2.49-1.el6_2.x86_64
-#   - libpng-debuginfo:1.2.49-1.el6_2.x86_64
-#   - libpng-devel:1.2.49-1.el6_2.x86_64
-#   - libpng-static:1.2.49-1.el6_2.x86_64
+#   - libpng:1.2.49-2.el6_7.x86_64
+#   - libpng-debuginfo:1.2.49-2.el6_7.x86_64
+#   - libpng-devel:1.2.49-2.el6_7.x86_64
+#   - libpng-static:1.2.49-2.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2011-2501

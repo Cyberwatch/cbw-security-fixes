@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:1798
 #
 # Security announcement date: 2011-12-08 21:23:14 UTC
-# Script generation date:     2016-01-06 19:10:35 UTC
+# Script generation date:     2016-01-11 19:12:59 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -137,7 +137,7 @@
 #   - jbosssx2:2.0.5-9.1.SP3_1_patch_01.ep5.el6.noarch
 #   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el6.noarch
 #   - jbossts-javadoc:4.6.1-12.CP13.7.ep5.el6.noarch
-#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el6.noarch
+#   - jbossweb:7.5.12-1.Final_redhat_1.1.ep6.el6.noarch
 #   - jbossweb-el-1.0-api:2.1.13-4_patch_02.ep5.el6.noarch
 #   - jbossweb-jsp-2.1-api:2.1.13-4_patch_02.ep5.el6.noarch
 #   - jbossweb-lib:7.0.17-4.Final_redhat_3.ep6.el6.noarch
@@ -195,8 +195,8 @@
 #   - slf4j:1.5.8-10_patch_01.2.ep5.el6.noarch
 #   - xalan-j2:2.7.0-9.8.el6.noarch
 #   - jboss-eap5-native:5.2.0-6.ep5.el6.x86_64
-#   - mod_cluster-native:1.2.9-4.Final_redhat_2.ep6.el6.x86_64
-#   - mod_cluster-native-debuginfo:1.2.9-4.Final_redhat_2.ep6.el6.x86_64
+#   - mod_cluster-native:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
+#   - mod_cluster-native-debuginfo:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
 #
 # CVE List:
 #   - CVE-2011-4085
@@ -239,7 +239,7 @@ sudo yum install jbossas-ws-native-5.2.0 -y
 sudo yum install jbosssx2-2.0.5 -y 
 sudo yum install jbossts-4.17.30 -y 
 sudo yum install jbossts-javadoc-4.6.1 -y 
-sudo yum install jbossweb-7.5.11 -y 
+sudo yum install jbossweb-7.5.12 -y 
 sudo yum install jbossweb-el-1.0-api-2.1.13 -y 
 sudo yum install jbossweb-jsp-2.1-api-2.1.13 -y 
 sudo yum install jbossweb-lib-7.0.17 -y 
@@ -297,5 +297,5 @@ sudo yum install rhq-rtfilter-3.0.0 -y
 sudo yum install slf4j-1.5.8 -y 
 sudo yum install xalan-j2-2.7.0 -y 
 sudo yum install jboss-eap5-native-5.2.0 -y 
-sudo yum install mod_cluster-native-1.2.9 -y 
-sudo yum install mod_cluster-native-debuginfo-1.2.9 -y 
+sudo yum install mod_cluster-native-1.3.1 -y 
+sudo yum install mod_cluster-native-debuginfo-1.3.1 -y 

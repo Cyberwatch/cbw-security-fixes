@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0565
 #
 # Security announcement date: 2013-03-06 20:03:44 UTC
-# Script generation date:     2016-01-06 19:11:32 UTC
+# Script generation date:     2016-01-11 19:13:56 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -80,7 +80,7 @@
 #   - python-condorec2e:1.3.0-3.el6.noarch
 #   - python-wallaby:0.16.3-1.el6.noarch
 #   - rubygem-nokogiri-doc:1.5.0-0.9.beta4.el6cf.noarch
-#   - rubygem-rack:1.3.0-4.el6cf.noarch
+#   - rubygem-rack:1.4.1-13.el6sat.noarch
 #   - wallaby:0.16.3-1.el6.noarch
 #   - condor-aviary:7.8.10-0.2.el6.x86_64
 #   - condor-cluster-resource-agent:7.8.10-0.2.el6.x86_64
@@ -127,7 +127,7 @@ sudo yum install deltacloud-core-rhevm-0.5.0 -y
 sudo yum install python-condorec2e-1.3.0 -y 
 sudo yum install python-wallaby-0.16.3 -y 
 sudo yum install rubygem-nokogiri-doc-1.5.0 -y 
-sudo yum install rubygem-rack-1.3.0 -y 
+sudo yum install rubygem-rack-1.4.1 -y 
 sudo yum install wallaby-0.16.3 -y 
 sudo yum install condor-aviary-7.8.10 -y 
 sudo yum install condor-cluster-resource-agent-7.8.10 -y 

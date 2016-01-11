@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1929
 #
 # Security announcement date: 2015-10-22 20:06:39 UTC
-# Script generation date:     2016-01-06 19:14:26 UTC
+# Script generation date:     2016-01-11 19:17:05 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -14,7 +14,7 @@
 #   - python-ironic-discoverd:1.1.0-8.el7ost.noarch
 #
 # Last versions recommanded by security team:
-#   - openstack-ironic-discoverd:1.1.0-8.el7ost.noarch
+#   - openstack-ironic-discoverd:0.2.5-2.el7ost.noarch
 #   - openstack-ironic-discoverd-ramdisk:1.1.0-8.el7ost.noarch
 #   - python-ironic-discoverd:1.1.0-8.el7ost.noarch
 #
@@ -25,6 +25,6 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1929
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install openstack-ironic-discoverd-1.1.0 -y 
+sudo yum install openstack-ironic-discoverd-0.2.5 -y 
 sudo yum install openstack-ironic-discoverd-ramdisk-1.1.0 -y 
 sudo yum install python-ironic-discoverd-1.1.0 -y 

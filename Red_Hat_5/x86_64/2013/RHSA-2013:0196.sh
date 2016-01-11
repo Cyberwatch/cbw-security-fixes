@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0196
 #
 # Security announcement date: 2013-01-24 19:23:17 UTC
-# Script generation date:     2016-01-06 19:11:27 UTC
+# Script generation date:     2016-01-11 19:13:53 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -200,7 +200,7 @@
 #   - jboss-seam2-docs:2.2.6.EAP5-22_patch_01.ep5.el5.noarch
 #   - jboss-seam2-examples:2.2.6.EAP5-22_patch_01.ep5.el5.noarch
 #   - jboss-seam2-runtime:2.2.6.EAP5-22_patch_01.ep5.el5.noarch
-#   - jboss-security-negotiation:2.3.8-1.Final_redhat_1.1.ep6.el5.noarch
+#   - jboss-security-negotiation:2.3.10-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jboss-security-spi:2.0.5-4.SP3_1.ep5.el5.noarch
 #   - jboss-transaction-1.0.1-api:5.0.2-2.ep5.el5.noarch
 #   - jboss-vfs2:3.2.10-1.Final_redhat_1.1.ep6.el5.noarch
@@ -212,7 +212,7 @@
 #   - jbosssx2:2.0.5-9.SP3_1_patch_01.ep5.el5.noarch
 #   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jbossts-javadoc:4.6.1-12.CP13.8.ep5.el5.noarch
-#   - jbossweb:7.5.11-1.Final_redhat_1.1.ep6.el5.noarch
+#   - jbossweb:7.5.12-1.Final_redhat_1.1.ep6.el5.noarch
 #   - jbossweb-el-1.0-api:2.1.13-3_patch_02.ep5.el5.noarch
 #   - jbossweb-jsp-2.1-api:2.1.13-3_patch_02.ep5.el5.noarch
 #   - jbossweb-lib:7.0.17-4.Final_redhat_3.ep6.el5.noarch
@@ -356,7 +356,7 @@ sudo yum install jboss-seam2-2.2.6.EAP5 -y
 sudo yum install jboss-seam2-docs-2.2.6.EAP5 -y 
 sudo yum install jboss-seam2-examples-2.2.6.EAP5 -y 
 sudo yum install jboss-seam2-runtime-2.2.6.EAP5 -y 
-sudo yum install jboss-security-negotiation-2.3.8 -y 
+sudo yum install jboss-security-negotiation-2.3.10 -y 
 sudo yum install jboss-security-spi-2.0.5 -y 
 sudo yum install jboss-transaction-1.0.1-api-5.0.2 -y 
 sudo yum install jboss-vfs2-3.2.10 -y 
@@ -368,7 +368,7 @@ sudo yum install jbossas-ws-cxf-ewp-5.2.0 -y
 sudo yum install jbosssx2-2.0.5 -y 
 sudo yum install jbossts-4.17.30 -y 
 sudo yum install jbossts-javadoc-4.6.1 -y 
-sudo yum install jbossweb-7.5.11 -y 
+sudo yum install jbossweb-7.5.12 -y 
 sudo yum install jbossweb-el-1.0-api-2.1.13 -y 
 sudo yum install jbossweb-jsp-2.1-api-2.1.13 -y 
 sudo yum install jbossweb-lib-7.0.17 -y 

@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1862
 #
 # Security announcement date: 2015-10-08 19:58:51 UTC
-# Script generation date:     2016-01-06 19:14:21 UTC
+# Script generation date:     2016-01-11 19:16:59 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -30,10 +30,10 @@
 # Last versions recommanded by security team:
 #   - ahc-tools:0.1.1-6.el7ost.noarch
 #   - instack-undercloud:2.1.2-29.el7ost.noarch
-#   - openstack-ironic-discoverd:1.1.0-8.el7ost.noarch
+#   - openstack-ironic-discoverd:0.2.5-2.el7ost.noarch
 #   - openstack-ironic-discoverd-ramdisk:1.1.0-8.el7ost.noarch
 #   - openstack-tripleo-common:0.0.1.dev6-3.git49b57eb.el7ost.noarch
-#   - openstack-tripleo-heat-templates:0.8.6-71.el7ost.noarch
+#   - openstack-tripleo-heat-templates:0.8.6-94.el7ost.noarch
 #   - openstack-tripleo-image-elements:0.9.6-10.el7ost.noarch
 #   - openstack-tripleo-puppet-elements:0.0.1-5.el7ost.noarch
 #   - openstack-tuskar:0.4.18-4.el7ost.noarch
@@ -44,7 +44,7 @@
 #   - python-hardware-doc:0.14-7.el7ost.noarch
 #   - python-ironic-discoverd:1.1.0-8.el7ost.noarch
 #   - python-proliantutils:2.1.0-4.el7ost.noarch
-#   - python-rdomanager-oscplugin:0.0.10-8.el7ost.noarch
+#   - python-rdomanager-oscplugin:0.0.10-22.el7ost.noarch
 #
 # CVE List:
 #   - CVE-2015-5271
@@ -55,7 +55,7 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ahc-tools-0.1.1 -y 
 sudo yum install instack-undercloud-2.1.2 -y 
-sudo yum install openstack-ironic-discoverd-1.1.0 -y 
+sudo yum install openstack-ironic-discoverd-0.2.5 -y 
 sudo yum install openstack-ironic-discoverd-ramdisk-1.1.0 -y 
 sudo yum install openstack-tripleo-common-0.0.1.dev6 -y 
 sudo yum install openstack-tripleo-heat-templates-0.8.6 -y 
