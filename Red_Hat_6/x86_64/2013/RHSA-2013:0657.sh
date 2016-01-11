@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0657
 #
 # Security announcement date: 2013-03-21 18:28:36 UTC
-# Script generation date:     2016-01-06 19:11:36 UTC
+# Script generation date:     2016-01-11 07:13:46 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -23,18 +23,18 @@
 #   - python-nova:2012.2.3-4.el6ost.noarch
 #
 # Last versions recommanded by security team:
-#   - openstack-nova:2014.1.5-3.el6ost.noarch
-#   - openstack-nova-api:2014.1.5-3.el6ost.noarch
-#   - openstack-nova-cert:2014.1.5-3.el6ost.noarch
-#   - openstack-nova-common:2014.1.5-3.el6ost.noarch
-#   - openstack-nova-compute:2014.1.5-3.el6ost.noarch
-#   - openstack-nova-console:2014.1.5-3.el6ost.noarch
-#   - openstack-nova-doc:2014.1.5-3.el6ost.noarch
-#   - openstack-nova-network:2014.1.5-3.el6ost.noarch
-#   - openstack-nova-objectstore:2014.1.5-3.el6ost.noarch
-#   - openstack-nova-scheduler:2014.1.5-3.el6ost.noarch
+#   - openstack-nova:2014.1.5-16.el6ost.noarch
+#   - openstack-nova-api:2014.1.5-16.el6ost.noarch
+#   - openstack-nova-cert:2014.1.5-16.el6ost.noarch
+#   - openstack-nova-common:2014.1.5-16.el6ost.noarch
+#   - openstack-nova-compute:2014.1.5-16.el6ost.noarch
+#   - openstack-nova-console:2014.1.5-16.el6ost.noarch
+#   - openstack-nova-doc:2014.1.5-16.el6ost.noarch
+#   - openstack-nova-network:2014.1.5-16.el6ost.noarch
+#   - openstack-nova-objectstore:2014.1.5-16.el6ost.noarch
+#   - openstack-nova-scheduler:2014.1.5-16.el6ost.noarch
 #   - openstack-nova-volume:2012.2.3-7.el6ost.noarch
-#   - python-nova:2014.1.5-3.el6ost.noarch
+#   - python-nova:2014.1.5-16.el6ost.noarch
 #
 # CVE List:
 #   - CVE-2013-1664
