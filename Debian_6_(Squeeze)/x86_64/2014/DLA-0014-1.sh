@@ -4,7 +4,7 @@
 # Security fix for DLA-0014-1
 #
 # Security announcement date: 2014-07-09 00:00:00 UTC
-# Script generation date:     2016-01-10 19:06:34 UTC
+# Script generation date:     2016-01-11 19:07:37 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - phpmyadmin:4:3.3.7-8
 #
 # Last versions recommanded by security team:
-#   - phpmyadmin:4:3.3.7-9
+#   - phpmyadmin:4:3.3.7-7
 #
 # CVE List:
 #   - CVE-2013-3239
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-0014-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade phpmyadmin=4:3.3.7-9 -y
+sudo apt-get install --only-upgrade phpmyadmin=4:3.3.7-7 -y
