@@ -4,7 +4,7 @@
 # Security fix for DLA-190-1
 #
 # Security announcement date: 2015-04-09 00:00:00 UTC
-# Script generation date:     2016-01-11 19:07:45 UTC
+# Script generation date:     2016-01-12 07:08:46 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libgcrypt11:1.4.5-2+squeeze3
 #
 # Last versions recommanded by security team:
-#   - libgcrypt11:1.4.5-2+squeeze1
+#   - libgcrypt11:1.4.5-2+squeeze3
 #
 # CVE List:
 #   - CVE-2014-3591
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-190-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgcrypt11=1.4.5-2+squeeze1 -y
+sudo apt-get install --only-upgrade libgcrypt11=1.4.5-2+squeeze3 -y
