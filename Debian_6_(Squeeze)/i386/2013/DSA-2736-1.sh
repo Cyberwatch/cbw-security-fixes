@@ -4,7 +4,7 @@
 # Security fix for DSA-2736-1
 #
 # Security announcement date: 2013-08-11 00:00:00 UTC
-# Script generation date:     2016-01-11 19:04:53 UTC
+# Script generation date:     2016-01-12 07:05:26 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - putty:0.60+2010-02-20-1+squeeze2
 #
 # Last versions recommanded by security team:
-#   - putty:0.60+2010-02-20-1+squeeze2
+#   - putty:0.60+2010-02-20-1+squeeze4
 #
 # CVE List:
 #   - CVE-2013-4206
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2736-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade putty=0.60+2010-02-20-1+squeeze2 -y
+sudo apt-get install --only-upgrade putty=0.60+2010-02-20-1+squeeze4 -y
