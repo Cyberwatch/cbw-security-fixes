@@ -4,7 +4,7 @@
 # Security fix for DLA-372-1
 #
 # Security announcement date: 2015-12-18 00:00:00 UTC
-# Script generation date:     2016-01-13 07:09:44 UTC
+# Script generation date:     2016-01-13 19:10:16 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - virtualbox-ose:<end-of-life>
 #
 # Last versions recommanded by security team:
-#   - virtualbox-ose:3.2.10-dfsg-1+squeeze3
+#   - virtualbox-ose:<end-of-life>
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-372-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade virtualbox-ose=3.2.10-dfsg-1+squeeze3 -y
+sudo apt-get install --only-upgrade virtualbox-ose=<end-of-life> -y
