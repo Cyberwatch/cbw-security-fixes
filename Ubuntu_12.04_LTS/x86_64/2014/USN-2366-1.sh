@@ -4,7 +4,7 @@
 # Security fix for USN-2366-1
 #
 # Security announcement date: 2014-09-30 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:22 UTC
+# Script generation date:     2016-01-13 07:01:17 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - libvirt-bin:0.9.8-2ubuntu17.20
 #
 # Last versions recommanded by security team:
-#   - libvirt0:0.9.8-2ubuntu17.20
-#   - libvirt-bin:0.9.8-2ubuntu17.20
+#   - libvirt0:0.9.8-2ubuntu17.23
+#   - libvirt-bin:0.9.8-2ubuntu17.23
 #
 # CVE List:
 #   - CVE-2014-0179
@@ -26,5 +26,5 @@
 #   - https://www.cyberwatch.fr/notices/USN-2366-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libvirt0=0.9.8-2ubuntu17.20 -y
-sudo apt-get install --only-upgrade libvirt-bin=0.9.8-2ubuntu17.20 -y
+sudo apt-get install --only-upgrade libvirt0=0.9.8-2ubuntu17.23 -y
+sudo apt-get install --only-upgrade libvirt-bin=0.9.8-2ubuntu17.23 -y
