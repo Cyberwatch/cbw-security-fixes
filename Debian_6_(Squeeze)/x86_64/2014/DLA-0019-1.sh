@@ -4,7 +4,7 @@
 # Security fix for DLA-0019-1
 #
 # Security announcement date: 2014-07-29 00:00:00 UTC
-# Script generation date:     2016-01-12 07:08:37 UTC
+# Script generation date:     2016-01-13 07:09:24 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - postgresql-8.4:8.4.22-0+deb6u1
 #
 # Last versions recommanded by security team:
-#   - postgresql-8.4:8.4.22lts5-0+deb6u1
+#   - postgresql-8.4:8.4.20-0squeeze1
 #
 # CVE List:
 #   - CVE-2014-0067
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-0019-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade postgresql-8.4=8.4.22lts5-0+deb6u1 -y
+sudo apt-get install --only-upgrade postgresql-8.4=8.4.20-0squeeze1 -y

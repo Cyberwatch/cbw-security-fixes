@@ -4,7 +4,7 @@
 # Security fix for DLA-321-1
 #
 # Security announcement date: 2015-09-30 00:00:00 UTC
-# Script generation date:     2016-01-12 07:08:55 UTC
+# Script generation date:     2016-01-13 07:09:42 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - wordpress:3.6.1+dfsg-1~deb6u8
 #
 # Last versions recommanded by security team:
-#   - wordpress:3.6.1+dfsg-1~deb6u8
+#   - wordpress:3.6.1+dfsg-1~deb6u4
 #
 # CVE List:
 #   - CVE-2015-5714
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-321-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb6u8 -y
+sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb6u4 -y
