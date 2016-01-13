@@ -4,7 +4,7 @@
 # Security fix for DSA-2878-1
 #
 # Security announcement date: 2014-03-13 00:00:00 UTC
-# Script generation date:     2016-01-12 07:05:38 UTC
+# Script generation date:     2016-01-13 07:06:04 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - virtualbox-ose:3.2.10-dfsg-1+squeeze2
 #
 # Last versions recommanded by security team:
-#   - virtualbox-ose:<end-of-life>
+#   - virtualbox-ose:3.2.10-dfsg-1+squeeze3
 #
 # CVE List:
 #   - CVE-2013-5892
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2878-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade virtualbox-ose=<end-of-life> -y
+sudo apt-get install --only-upgrade virtualbox-ose=3.2.10-dfsg-1+squeeze3 -y

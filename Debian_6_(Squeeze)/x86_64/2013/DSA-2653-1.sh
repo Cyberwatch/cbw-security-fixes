@@ -4,7 +4,7 @@
 # Security fix for DSA-2653-1
 #
 # Security announcement date: 2013-03-26 00:00:00 UTC
-# Script generation date:     2016-01-12 07:05:20 UTC
+# Script generation date:     2016-01-13 07:05:45 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - icinga:1.0.2-2+squeeze1
 #
 # Last versions recommanded by security team:
-#   - icinga:1.0.2-2+squeeze2
+#   - icinga:1.0.2-2+squeeze1
 #
 # CVE List:
 #   - CVE-2012-6096
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2653-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icinga=1.0.2-2+squeeze2 -y
+sudo apt-get install --only-upgrade icinga=1.0.2-2+squeeze1 -y
