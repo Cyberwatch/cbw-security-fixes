@@ -4,7 +4,7 @@
 # Security fix for DSA-2471-1
 #
 # Security announcement date: 2012-05-13 00:00:00 UTC
-# Script generation date:     2016-01-13 07:05:37 UTC
+# Script generation date:     2016-01-13 19:05:51 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - ffmpeg:4:0.5.8-1
 #
 # Last versions recommanded by security team:
-#   - ffmpeg:4:0.5.10-1
+#   - ffmpeg:4:0.5.10-1+deb6u1
 #
 # CVE List:
 #   - CVE-2011-3892
@@ -31,4 +31,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2471-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ffmpeg=4:0.5.10-1 -y
+sudo apt-get install --only-upgrade ffmpeg=4:0.5.10-1+deb6u1 -y

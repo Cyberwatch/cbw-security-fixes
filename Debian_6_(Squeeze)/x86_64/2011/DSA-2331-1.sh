@@ -4,7 +4,7 @@
 # Security fix for DSA-2331-1
 #
 # Security announcement date: 2011-10-28 00:00:00 UTC
-# Script generation date:     2016-01-13 07:05:31 UTC
+# Script generation date:     2016-01-13 19:05:45 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - tor:0.2.1.31-1
 #
 # Last versions recommanded by security team:
-#   - tor:0.2.2.39-1
+#   - tor:0.2.4.27-1~deb6u1
 #
 # CVE List:
 #   - CVE-2011-2768
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2331-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tor=0.2.2.39-1 -y
+sudo apt-get install --only-upgrade tor=0.2.4.27-1~deb6u1 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-2494-1
 #
 # Security announcement date: 2012-06-12 00:00:00 UTC
-# Script generation date:     2016-01-13 07:05:38 UTC
+# Script generation date:     2016-01-13 19:05:52 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - ffmpeg:4:0.5.9-1
 #
 # Last versions recommanded by security team:
-#   - ffmpeg:4:0.5.10-1
+#   - ffmpeg:4:0.5.10-1+deb6u1
 #
 # CVE List:
 #   - CVE-2011-3951
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2494-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ffmpeg=4:0.5.10-1 -y
+sudo apt-get install --only-upgrade ffmpeg=4:0.5.10-1+deb6u1 -y

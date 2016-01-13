@@ -4,7 +4,7 @@
 # Security fix for DSA-2542-1
 #
 # Security announcement date: 2012-09-08 00:00:00 UTC
-# Script generation date:     2016-01-13 07:05:40 UTC
+# Script generation date:     2016-01-13 19:05:54 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - qemu-kvm:0.12.5+dfsg-5+squeeze9
 #
 # Last versions recommanded by security team:
-#   - qemu-kvm:0.12.5+dfsg-5+squeeze11
+#   - qemu-kvm:0.12.5+dfsg-5+squeeze12
 #
 # CVE List:
 #   - CVE-2012-2652
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2542-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu-kvm=0.12.5+dfsg-5+squeeze11 -y
+sudo apt-get install --only-upgrade qemu-kvm=0.12.5+dfsg-5+squeeze12 -y

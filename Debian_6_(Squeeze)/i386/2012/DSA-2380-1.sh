@@ -4,7 +4,7 @@
 # Security fix for DSA-2380-1
 #
 # Security announcement date: 2012-01-04 00:00:00 UTC
-# Script generation date:     2016-01-13 07:05:33 UTC
+# Script generation date:     2016-01-13 19:05:47 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - foomatic-filters:4.0.5-6+squeeze1
 #
 # Last versions recommanded by security team:
-#   - foomatic-filters:4.0.5-6+squeeze1
+#   - foomatic-filters:4.0.5-6+squeeze2+deb6u12
 #
 # CVE List:
 #   - CVE-2011-2697
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2380-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade foomatic-filters=4.0.5-6+squeeze1 -y
+sudo apt-get install --only-upgrade foomatic-filters=4.0.5-6+squeeze2+deb6u12 -y
