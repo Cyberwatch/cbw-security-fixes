@@ -4,7 +4,7 @@
 # Security fix for DLA-293-1
 #
 # Security announcement date: 2015-08-16 00:00:00 UTC
-# Script generation date:     2016-01-13 19:10:03 UTC
+# Script generation date:     2016-01-14 07:10:14 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - subversion:1.6.12dfsg-7+deb6u3
 #
 # Last versions recommanded by security team:
-#   - subversion:1.6.12dfsg-7+deb6u3
+#   - subversion:1.6.12dfsg-7
 #
 # CVE List:
 #   - CVE-2015-3187
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-293-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade subversion=1.6.12dfsg-7+deb6u3 -y
+sudo apt-get install --only-upgrade subversion=1.6.12dfsg-7 -y

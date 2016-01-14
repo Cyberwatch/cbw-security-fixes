@@ -4,7 +4,7 @@
 # Security fix for DLA-239-1
 #
 # Security announcement date: 2015-06-09 00:00:00 UTC
-# Script generation date:     2016-01-13 19:09:59 UTC
+# Script generation date:     2016-01-14 07:10:08 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - cups:1.4.4-7+squeeze8
 #
 # Last versions recommanded by security team:
-#   - cups:1.4.4-7+squeeze10
+#   - cups:1.4.4-7+squeeze4
 #
 # CVE List:
 #   - CVE-2015-1158
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-239-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade cups=1.4.4-7+squeeze10 -y
+sudo apt-get install --only-upgrade cups=1.4.4-7+squeeze4 -y
