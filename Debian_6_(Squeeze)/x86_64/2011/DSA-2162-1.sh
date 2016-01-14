@@ -4,7 +4,7 @@
 # Security fix for DSA-2162-1
 #
 # Security announcement date: 2011-02-14 00:00:00 UTC
-# Script generation date:     2016-01-13 19:05:37 UTC
+# Script generation date:     2016-01-14 07:05:40 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - openssl:0.9.8o-4squeeze1
 #
 # Last versions recommanded by security team:
-#   - openssl:0.9.8o-4squeeze22
+#   - openssl:0.9.8o-4squeeze14
 #
 # CVE List:
 #   - CVE-2011-0014
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2162-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze22 -y
+sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze14 -y

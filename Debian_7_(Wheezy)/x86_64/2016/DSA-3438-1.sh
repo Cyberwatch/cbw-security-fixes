@@ -3,8 +3,8 @@
 #
 # Security fix for DSA-3438-1
 #
-# Security announcement date: 2016-01-09 00:00:00 UTC
-# Script generation date:     2016-01-11 07:03:54 UTC
+# Security announcement date: 2016-01-10 00:00:00 UTC
+# Script generation date:     2016-01-14 07:07:05 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64

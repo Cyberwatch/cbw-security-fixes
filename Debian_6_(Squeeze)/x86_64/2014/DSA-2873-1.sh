@@ -4,7 +4,7 @@
 # Security fix for DSA-2873-1
 #
 # Security announcement date: 2014-03-11 00:00:00 UTC
-# Script generation date:     2016-01-13 19:06:18 UTC
+# Script generation date:     2016-01-14 07:06:22 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - file:5.04-5+squeeze4
 #
 # Last versions recommanded by security team:
-#   - file:5.04-5+squeeze10
+#   - file:5.04-5+squeeze5
 #
 # CVE List:
 #   - CVE-2014-2270
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2873-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade file=5.04-5+squeeze10 -y
+sudo apt-get install --only-upgrade file=5.04-5+squeeze5 -y
