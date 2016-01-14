@@ -4,7 +4,7 @@
 # Security fix for USN-2506-1
 #
 # Security announcement date: 2015-03-03 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:43 UTC
+# Script generation date:     2016-01-14 07:01:44 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - thunderbird:1:31.5.0+build1-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - thunderbird:1:38.4.0+build3-0ubuntu0.12.04.1
+#   - thunderbird:1:38.5.1+build2-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2015-0822
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2506-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade thunderbird=1:38.4.0+build3-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade thunderbird=1:38.5.1+build2-0ubuntu0.12.04.1 -y

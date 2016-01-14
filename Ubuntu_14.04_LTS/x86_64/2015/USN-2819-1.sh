@@ -4,7 +4,7 @@
 # Security fix for USN-2819-1
 #
 # Security announcement date: 2015-12-01 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:27 UTC
+# Script generation date:     2016-01-14 07:02:28 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - thunderbird:1:38.4.0+build3-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - thunderbird:1:38.4.0+build3-0ubuntu0.14.04.1
+#   - thunderbird:1:38.5.1+build2-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2015-4513
@@ -33,4 +33,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2819-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade thunderbird=1:38.4.0+build3-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade thunderbird=1:38.5.1+build2-0ubuntu0.14.04.1 -y
