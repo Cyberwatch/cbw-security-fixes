@@ -4,7 +4,7 @@
 # Security fix for DSA-2519-2
 #
 # Security announcement date: 2012-08-04 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:59 UTC
+# Script generation date:     2016-01-14 19:04:53 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - isc-dhcp:4.1.1-P1-15+squeeze6
 #
 # Last versions recommanded by security team:
-#   - isc-dhcp:4.1.1-P1-15+squeeze6
+#   - isc-dhcp:4.1.1-P1-15+squeeze9
 #
 # CVE List:
 #   - CVE-2012-3571
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2519-2
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade isc-dhcp=4.1.1-P1-15+squeeze6 -y
+sudo apt-get install --only-upgrade isc-dhcp=4.1.1-P1-15+squeeze9 -y
