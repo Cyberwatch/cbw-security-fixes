@@ -4,7 +4,7 @@
 # Security fix for DSA-2384-1
 #
 # Security announcement date: 2012-01-09 00:00:00 UTC
-# Script generation date:     2016-01-14 07:05:50 UTC
+# Script generation date:     2016-01-15 07:03:00 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - cacti:0.8.7g-1+squeeze1
 #
 # Last versions recommanded by security team:
-#   - cacti:0.8.7g-1+squeeze3
+#   - cacti:0.8.7g-1+squeeze9+deb6u14
 #
 # CVE List:
 #   - CVE-2010-1644
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2384-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade cacti=0.8.7g-1+squeeze3 -y
+sudo apt-get install --only-upgrade cacti=0.8.7g-1+squeeze9+deb6u14 -y

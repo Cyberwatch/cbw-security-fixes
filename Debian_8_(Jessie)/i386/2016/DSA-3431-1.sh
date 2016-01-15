@@ -4,7 +4,7 @@
 # Security fix for DSA-3431-1
 #
 # Security announcement date: 2016-01-01 00:00:00 UTC
-# Script generation date:     2016-01-03 07:03:47 UTC
+# Script generation date:     2016-01-15 07:04:14 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - ganeti:2.12.4-1+deb8u2
 #
 # Last versions recommanded by security team:
-#   - ganeti:2.12.4-1+deb8u2
+#   - ganeti:2.12.4-1+deb8u3
 #
 # CVE List:
 #   - CVE-2015-7944
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3431-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ganeti=2.12.4-1+deb8u2 -y
+sudo apt-get install --only-upgrade ganeti=2.12.4-1+deb8u3 -y
