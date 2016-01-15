@@ -4,7 +4,7 @@
 # Security fix for USN-2516-2
 #
 # Security announcement date: 2015-02-28 00:00:00 UTC
-# Script generation date:     2016-01-14 07:01:42 UTC
+# Script generation date:     2016-01-15 19:01:47 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -299,12 +299,12 @@
 #   - input-modules-3.13.0-46-powerpc-e500-di:3.13.0-46.76
 #   - sata-modules-3.13.0-46-powerpc-smp-di:3.13.0-46.76
 #   - floppy-modules-3.13.0-46-powerpc64-smp-di:3.13.0-46.76
-#   - linux-tools-common:3.13.0-74.118
+#   - linux-tools-common:3.13.0-73.116
 #   - linux-tools-3.13.0-46-powerpc64-emb:3.13.0-46.76
 #   - fs-secondary-modules-3.13.0-46-generic-di:3.13.0-46.76
 #   - linux-cloud-tools-3.13.0-46-powerpc-e500mc:3.13.0-46.76
 #   - sata-modules-3.13.0-46-powerpc-e500mc-di:3.13.0-46.76
-#   - linux-doc:3.13.0-74.118
+#   - linux-doc:3.13.0-73.116
 #   - linux-image-3.13.0-46-powerpc64-smp:3.13.0-46.76
 #   - nic-modules-3.13.0-46-generic-lpae-di:3.13.0-46.76
 #   - parport-modules-3.13.0-46-powerpc-e500mc-di:3.13.0-46.76
@@ -372,7 +372,7 @@
 #   - fb-modules-3.13.0-46-powerpc-smp-di:3.13.0-46.76
 #   - speakup-modules-3.13.0-46-generic-lpae-di:3.13.0-46.76
 #   - md-modules-3.13.0-46-generic-lpae-di:3.13.0-46.76
-#   - linux-source-3.13.0:3.13.0-74.118
+#   - linux-source-3.13.0:3.13.0-73.116
 #   - speakup-modules-3.13.0-46-generic-di:3.13.0-46.76
 #   - linux-tools-3.13.0-46-powerpc-e500mc:3.13.0-46.76
 #   - fs-secondary-modules-3.13.0-46-powerpc64-smp-di:3.13.0-46.76
@@ -460,7 +460,7 @@
 #   - linux-tools-3.13.0-46-powerpc64-smp:3.13.0-46.76
 #   - parport-modules-3.13.0-46-powerpc-e500-di:3.13.0-46.76
 #   - linux-image-3.13.0-46-lowlatency:3.13.0-46.79
-#   - linux-cloud-tools-common:3.13.0-74.118
+#   - linux-cloud-tools-common:3.13.0-73.116
 #   - kernel-image-3.13.0-46-powerpc-smp-di:3.13.0-46.76
 #   - nic-usb-modules-3.13.0-46-powerpc-e500mc-di:3.13.0-46.76
 #   - scsi-modules-3.13.0-46-powerpc-smp-di:3.13.0-46.76
@@ -580,12 +580,12 @@ sudo apt-get install --only-upgrade fs-core-modules-3.13.0-46-powerpc64-smp-di=3
 sudo apt-get install --only-upgrade input-modules-3.13.0-46-powerpc-e500-di=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade sata-modules-3.13.0-46-powerpc-smp-di=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade floppy-modules-3.13.0-46-powerpc64-smp-di=3.13.0-46.76 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.13.0-74.118 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.13.0-73.116 -y
 sudo apt-get install --only-upgrade linux-tools-3.13.0-46-powerpc64-emb=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade fs-secondary-modules-3.13.0-46-generic-di=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade linux-cloud-tools-3.13.0-46-powerpc-e500mc=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade sata-modules-3.13.0-46-powerpc-e500mc-di=3.13.0-46.76 -y
-sudo apt-get install --only-upgrade linux-doc=3.13.0-74.118 -y
+sudo apt-get install --only-upgrade linux-doc=3.13.0-73.116 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-46-powerpc64-smp=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade nic-modules-3.13.0-46-generic-lpae-di=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade parport-modules-3.13.0-46-powerpc-e500mc-di=3.13.0-46.76 -y
@@ -653,7 +653,7 @@ sudo apt-get install --only-upgrade nic-usb-modules-3.13.0-46-generic-di=3.13.0-
 sudo apt-get install --only-upgrade fb-modules-3.13.0-46-powerpc-smp-di=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade speakup-modules-3.13.0-46-generic-lpae-di=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade md-modules-3.13.0-46-generic-lpae-di=3.13.0-46.76 -y
-sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-74.118 -y
+sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-73.116 -y
 sudo apt-get install --only-upgrade speakup-modules-3.13.0-46-generic-di=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade linux-tools-3.13.0-46-powerpc-e500mc=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade fs-secondary-modules-3.13.0-46-powerpc64-smp-di=3.13.0-46.76 -y
@@ -741,7 +741,7 @@ sudo apt-get install --only-upgrade storage-core-modules-3.13.0-46-powerpc-smp-d
 sudo apt-get install --only-upgrade linux-tools-3.13.0-46-powerpc64-smp=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade parport-modules-3.13.0-46-powerpc-e500-di=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-46-lowlatency=3.13.0-46.79 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-74.118 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-73.116 -y
 sudo apt-get install --only-upgrade kernel-image-3.13.0-46-powerpc-smp-di=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade nic-usb-modules-3.13.0-46-powerpc-e500mc-di=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade scsi-modules-3.13.0-46-powerpc-smp-di=3.13.0-46.76 -y
