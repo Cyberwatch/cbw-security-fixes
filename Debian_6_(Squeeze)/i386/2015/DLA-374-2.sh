@@ -4,7 +4,7 @@
 # Security fix for DLA-374-2
 #
 # Security announcement date: 2015-12-30 00:00:00 UTC
-# Script generation date:     2016-01-14 07:10:24 UTC
+# Script generation date:     2016-01-15 07:07:37 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - cacti:0.8.7g-1+squeeze9+deb6u12
 #
 # Last versions recommanded by security team:
-#   - cacti:0.8.7g-1+squeeze3
+#   - cacti:0.8.7g-1+squeeze9+deb6u14
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-374-2
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade cacti=0.8.7g-1+squeeze3 -y
+sudo apt-get install --only-upgrade cacti=0.8.7g-1+squeeze9+deb6u14 -y

@@ -4,7 +4,7 @@
 # Security fix for DLA-2934-1
 #
 # Security announcement date: 2014-05-19 00:00:00 UTC
-# Script generation date:     2016-01-14 07:10:17 UTC
+# Script generation date:     2016-01-15 07:07:32 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - python-django:1.2.3-3+squeeze10
 #
 # Last versions recommanded by security team:
-#   - python-django:1.2.3-3+squeeze10
+#   - python-django:1.2.3-3+squeeze15
 #
 # CVE List:
 #   - CVE-2014-0472
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-2934-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.2.3-3+squeeze10 -y
+sudo apt-get install --only-upgrade python-django=1.2.3-3+squeeze15 -y

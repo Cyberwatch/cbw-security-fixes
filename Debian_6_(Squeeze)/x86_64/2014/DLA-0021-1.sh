@@ -4,7 +4,7 @@
 # Security fix for DLA-0021-1
 #
 # Security announcement date: 2014-07-26 00:00:00 UTC
-# Script generation date:     2016-01-14 07:09:53 UTC
+# Script generation date:     2016-01-15 07:07:17 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - fail2ban:0.8.4-3+squeeze3
 #
 # Last versions recommanded by security team:
-#   - fail2ban:0.8.4-3+squeeze2
+#   - fail2ban:0.8.4-3+squeeze3
 #
 # CVE List:
 #   - CVE-2013-7176
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-0021-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade fail2ban=0.8.4-3+squeeze2 -y
+sudo apt-get install --only-upgrade fail2ban=0.8.4-3+squeeze3 -y
