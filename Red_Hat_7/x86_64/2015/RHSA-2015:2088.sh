@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:2088
 #
 # Security announcement date: 2015-11-19 21:31:46 UTC
-# Script generation date:     2016-01-11 19:17:07 UTC
+# Script generation date:     2016-01-15 07:18:40 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -20,15 +20,15 @@
 #   - pam_ssh_agent_auth:0.9.3-9.22.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - openssh:6.6.1p1-22.el7.x86_64
-#   - openssh-askpass:6.6.1p1-22.el7.x86_64
-#   - openssh-clients:6.6.1p1-22.el7.x86_64
-#   - openssh-debuginfo:6.6.1p1-22.el7.x86_64
-#   - openssh-keycat:6.6.1p1-22.el7.x86_64
-#   - openssh-server:6.6.1p1-22.el7.x86_64
-#   - openssh-ldap:6.6.1p1-22.el7.x86_64
-#   - openssh-server-sysvinit:6.6.1p1-22.el7.x86_64
-#   - pam_ssh_agent_auth:0.9.3-9.22.el7.x86_64
+#   - openssh:6.6.1p1-23.el7_2.x86_64
+#   - openssh-askpass:6.6.1p1-23.el7_2.x86_64
+#   - openssh-clients:6.6.1p1-23.el7_2.x86_64
+#   - openssh-debuginfo:6.6.1p1-23.el7_2.x86_64
+#   - openssh-keycat:6.6.1p1-23.el7_2.x86_64
+#   - openssh-server:6.6.1p1-23.el7_2.x86_64
+#   - openssh-ldap:6.6.1p1-23.el7_2.x86_64
+#   - openssh-server-sysvinit:6.6.1p1-23.el7_2.x86_64
+#   - pam_ssh_agent_auth:0.9.3-9.23.el7_2.x86_64
 #
 # CVE List:
 #   - CVE-2015-5600
