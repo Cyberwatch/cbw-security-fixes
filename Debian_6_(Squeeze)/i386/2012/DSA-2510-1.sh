@@ -4,7 +4,7 @@
 # Security fix for DSA-2510-1
 #
 # Security announcement date: 2012-07-12 00:00:00 UTC
-# Script generation date:     2016-01-15 19:06:21 UTC
+# Script generation date:     2016-01-17 19:02:55 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - extplorer:2.1.0b6+dfsg.2-1+squeeze1
 #
 # Last versions recommanded by security team:
-#   - extplorer:2.1.0b6+dfsg.2-1+squeeze2
+#   - extplorer:2.1.0b6+dfsg.2-1+squeeze3
 #
 # CVE List:
 #   - CVE-2012-3362
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2510-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade extplorer=2.1.0b6+dfsg.2-1+squeeze2 -y
+sudo apt-get install --only-upgrade extplorer=2.1.0b6+dfsg.2-1+squeeze3 -y
