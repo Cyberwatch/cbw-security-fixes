@@ -4,7 +4,7 @@
 # Security fix for DLA-66-1
 #
 # Security announcement date: 2014-09-29 00:00:00 UTC
-# Script generation date:     2016-01-15 19:10:47 UTC
+# Script generation date:     2016-01-17 19:07:36 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - apache2:2.2.16-6+squeeze13
 #
 # Last versions recommanded by security team:
-#   - apache2:2.2.16-6+squeeze11
+#   - apache2:2.2.16-6+squeeze15
 #
 # CVE List:
 #   - CVE-2013-6438
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-66-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade apache2=2.2.16-6+squeeze11 -y
+sudo apt-get install --only-upgrade apache2=2.2.16-6+squeeze15 -y

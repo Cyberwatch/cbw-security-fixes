@@ -4,7 +4,7 @@
 # Security fix for DLA-373-1
 #
 # Security announcement date: 2015-12-26 00:00:00 UTC
-# Script generation date:     2016-01-15 19:11:04 UTC
+# Script generation date:     2016-01-17 19:07:53 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libxml2:2.7.8.dfsg-2+squeeze16
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.7.8.dfsg-2+squeeze8
+#   - libxml2:2.7.8.dfsg-2+squeeze16
 #
 # CVE List:
 #   - CVE-2015-5312
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-373-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-2+squeeze8 -y
+sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-2+squeeze16 -y

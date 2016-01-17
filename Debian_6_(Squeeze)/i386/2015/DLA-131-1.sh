@@ -4,7 +4,7 @@
 # Security fix for DLA-131-1
 #
 # Security announcement date: 2015-01-09 00:00:00 UTC
-# Script generation date:     2016-01-15 19:10:50 UTC
+# Script generation date:     2016-01-17 19:07:40 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - file:5.04-5+squeeze9
 #
 # Last versions recommanded by security team:
-#   - file:5.04-5+squeeze5
+#   - file:5.04-5+squeeze10
 #
 # CVE List:
 #   - CVE-2014-8116
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-131-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade file=5.04-5+squeeze5 -y
+sudo apt-get install --only-upgrade file=5.04-5+squeeze10 -y

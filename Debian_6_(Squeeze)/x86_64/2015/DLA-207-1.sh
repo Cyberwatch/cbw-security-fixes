@@ -4,7 +4,7 @@
 # Security fix for DLA-207-1
 #
 # Security announcement date: 2015-04-24 00:00:00 UTC
-# Script generation date:     2016-01-15 19:10:54 UTC
+# Script generation date:     2016-01-17 19:07:43 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - subversion:1.6.12dfsg-7+deb6u2
 #
 # Last versions recommanded by security team:
-#   - subversion:1.6.12dfsg-7
+#   - subversion:1.6.12dfsg-7+deb6u3
 #
 # CVE List:
 #   - CVE-2013-1845
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-207-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade subversion=1.6.12dfsg-7 -y
+sudo apt-get install --only-upgrade subversion=1.6.12dfsg-7+deb6u3 -y

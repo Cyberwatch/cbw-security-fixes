@@ -4,7 +4,7 @@
 # Security fix for DLA-308-1
 #
 # Security announcement date: 2015-09-09 00:00:00 UTC
-# Script generation date:     2016-01-15 19:10:59 UTC
+# Script generation date:     2016-01-17 19:07:48 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - bind9:1:9.7.3.dfsg-1~squeeze17
 #
 # Last versions recommanded by security team:
-#   - bind9:1:9.7.3.dfsg-1~squeeze11
+#   - bind9:1:9.7.3.dfsg-1~squeeze18
 #
 # CVE List:
 #   - CVE-2015-5722
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-308-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade bind9=1:9.7.3.dfsg-1~squeeze11 -y
+sudo apt-get install --only-upgrade bind9=1:9.7.3.dfsg-1~squeeze18 -y

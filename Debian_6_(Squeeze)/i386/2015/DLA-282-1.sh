@@ -4,7 +4,7 @@
 # Security fix for DLA-282-1
 #
 # Security announcement date: 2015-07-25 00:00:00 UTC
-# Script generation date:     2016-01-15 19:10:57 UTC
+# Script generation date:     2016-01-17 19:07:47 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - lighttpd:1.4.28-2+squeeze1.7
 #
 # Last versions recommanded by security team:
-#   - lighttpd:1.4.28-2+squeeze1.6
+#   - lighttpd:1.4.28-2+squeeze1.7
 #
 # CVE List:
 #   - CVE-2014-3566
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-282-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade lighttpd=1.4.28-2+squeeze1.6 -y
+sudo apt-get install --only-upgrade lighttpd=1.4.28-2+squeeze1.7 -y

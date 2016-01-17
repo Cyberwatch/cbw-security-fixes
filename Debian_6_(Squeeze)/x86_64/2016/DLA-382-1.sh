@@ -4,7 +4,7 @@
 # Security fix for DLA-382-1
 #
 # Security announcement date: 2016-01-11 00:00:00 UTC
-# Script generation date:     2016-01-15 19:11:04 UTC
+# Script generation date:     2016-01-17 19:07:54 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - sudo:1.7.4p4-2.squeeze.6
 #
 # Last versions recommanded by security team:
-#   - sudo:1.7.4p4-2.squeeze.4
+#   - sudo:1.7.4p4-2.squeeze.6
 #
 # CVE List:
 #   - CVE-2015-5602
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-382-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade sudo=1.7.4p4-2.squeeze.4 -y
+sudo apt-get install --only-upgrade sudo=1.7.4p4-2.squeeze.6 -y
