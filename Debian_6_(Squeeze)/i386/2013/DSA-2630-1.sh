@@ -4,7 +4,7 @@
 # Security fix for DSA-2630-1
 #
 # Security announcement date: 2013-02-20 00:00:00 UTC
-# Script generation date:     2016-01-17 19:03:01 UTC
+# Script generation date:     2016-01-18 07:06:10 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - postgresql-8.4:8.4.16-0squeeze1
 #
 # Last versions recommanded by security team:
-#   - postgresql-8.4:8.4.22lts5-0+deb6u1
+#   - postgresql-8.4:8.4.20-0squeeze1
 #
 # CVE List:
 #   - CVE-2013-0255
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2630-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade postgresql-8.4=8.4.22lts5-0+deb6u1 -y
+sudo apt-get install --only-upgrade postgresql-8.4=8.4.20-0squeeze1 -y

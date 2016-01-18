@@ -4,7 +4,7 @@
 # Security fix for DSA-2391-1
 #
 # Security announcement date: 2012-01-22 00:00:00 UTC
-# Script generation date:     2016-01-17 19:02:49 UTC
+# Script generation date:     2016-01-18 07:05:59 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - phpmyadmin:4:3.3.7-7
 #
 # Last versions recommanded by security team:
-#   - phpmyadmin:4:3.3.7-9
+#   - phpmyadmin:4:3.3.7-7
 #
 # CVE List:
 #   - CVE-2011-1940
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2391-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade phpmyadmin=4:3.3.7-9 -y
+sudo apt-get install --only-upgrade phpmyadmin=4:3.3.7-7 -y

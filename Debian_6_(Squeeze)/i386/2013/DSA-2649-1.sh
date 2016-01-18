@@ -4,7 +4,7 @@
 # Security fix for DSA-2649-1
 #
 # Security announcement date: 2013-03-15 00:00:00 UTC
-# Script generation date:     2016-01-17 19:03:02 UTC
+# Script generation date:     2016-01-18 07:06:11 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - lighttpd:1.4.28-2+squeeze1.3
 #
 # Last versions recommanded by security team:
-#   - lighttpd:1.4.28-2+squeeze1.7
+#   - lighttpd:1.4.28-2+squeeze1.6
 #
 # CVE List:
 #   - CVE-2013-1427
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2649-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade lighttpd=1.4.28-2+squeeze1.7 -y
+sudo apt-get install --only-upgrade lighttpd=1.4.28-2+squeeze1.6 -y

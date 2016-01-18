@@ -4,7 +4,7 @@
 # Security fix for DSA-2208-1
 #
 # Security announcement date: 2011-03-30 00:00:00 UTC
-# Script generation date:     2016-01-17 19:02:41 UTC
+# Script generation date:     2016-01-18 07:05:51 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - bind9:1:9.7.3.dfsg-1~squeeze1
 #
 # Last versions recommanded by security team:
-#   - bind9:1:9.7.3.dfsg-1~squeeze18
+#   - bind9:1:9.7.3.dfsg-1~squeeze11
 #
 # CVE List:
 #   - CVE-2011-0414
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2208-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade bind9=1:9.7.3.dfsg-1~squeeze18 -y
+sudo apt-get install --only-upgrade bind9=1:9.7.3.dfsg-1~squeeze11 -y
