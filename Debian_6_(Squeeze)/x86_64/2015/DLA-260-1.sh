@@ -4,7 +4,7 @@
 # Security fix for DLA-260-1
 #
 # Security announcement date: 2015-06-29 00:00:00 UTC
-# Script generation date:     2016-01-17 19:07:45 UTC
+# Script generation date:     2016-01-18 07:10:28 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - hostapd:1:0.6.10-2+squeeze2
 #
 # Last versions recommanded by security team:
-#   - hostapd:1:0.6.10-2+squeeze2
+#   - hostapd:1:0.6.10-2+squeeze1
 #
 # CVE List:
 #   - CVE-2015-4142
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-260-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade hostapd=1:0.6.10-2+squeeze2 -y
+sudo apt-get install --only-upgrade hostapd=1:0.6.10-2+squeeze1 -y

@@ -4,7 +4,7 @@
 # Security fix for DLA-178-1
 #
 # Security announcement date: 2015-03-22 00:00:00 UTC
-# Script generation date:     2016-01-17 19:07:42 UTC
+# Script generation date:     2016-01-18 07:10:24 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - tor:0.2.4.26-1~deb6u1
 #
 # Last versions recommanded by security team:
-#   - tor:0.2.4.27-1~deb6u1
+#   - tor:0.2.2.39-1
 #
 # CVE List:
 #   - CVE-2015-2688
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-178-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tor=0.2.4.27-1~deb6u1 -y
+sudo apt-get install --only-upgrade tor=0.2.2.39-1 -y

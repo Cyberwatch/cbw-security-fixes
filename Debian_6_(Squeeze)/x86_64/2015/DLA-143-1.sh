@@ -4,7 +4,7 @@
 # Security fix for DLA-143-1
 #
 # Security announcement date: 2015-01-29 00:00:00 UTC
-# Script generation date:     2016-01-17 19:07:40 UTC
+# Script generation date:     2016-01-18 07:10:22 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - python-django:1.2.3-3+squeeze12
 #
 # Last versions recommanded by security team:
-#   - python-django:1.2.3-3+squeeze15
+#   - python-django:1.2.3-3+squeeze10
 #
 # CVE List:
 #   - CVE-2015-0219
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-143-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.2.3-3+squeeze15 -y
+sudo apt-get install --only-upgrade python-django=1.2.3-3+squeeze10 -y

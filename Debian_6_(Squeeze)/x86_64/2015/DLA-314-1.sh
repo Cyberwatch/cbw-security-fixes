@@ -4,7 +4,7 @@
 # Security fix for DLA-314-1
 #
 # Security announcement date: 2015-09-23 00:00:00 UTC
-# Script generation date:     2016-01-17 19:07:50 UTC
+# Script generation date:     2016-01-18 07:10:33 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - cups:1.4.4-7+squeeze10
 #
 # Last versions recommanded by security team:
-#   - cups:1.4.4-7+squeeze10
+#   - cups:1.4.4-7+squeeze4
 #
 # CVE List:
 #   - CVE-2015-3258
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-314-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade cups=1.4.4-7+squeeze10 -y
+sudo apt-get install --only-upgrade cups=1.4.4-7+squeeze4 -y
