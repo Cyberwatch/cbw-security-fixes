@@ -4,7 +4,7 @@
 # Security fix for DSA-2201-1
 #
 # Security announcement date: 2011-03-23 00:00:00 UTC
-# Script generation date:     2016-01-18 07:05:51 UTC
+# Script generation date:     2016-01-19 07:02:41 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - wireshark:1.2.11-6+squeeze1
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.2.11-6+squeeze14
+#   - wireshark:1.8.2-5wheezy16~deb6u1
 #
 # CVE List:
 #   - CVE-2011-0538
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2201-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wireshark=1.2.11-6+squeeze14 -y
+sudo apt-get install --only-upgrade wireshark=1.8.2-5wheezy16~deb6u1 -y

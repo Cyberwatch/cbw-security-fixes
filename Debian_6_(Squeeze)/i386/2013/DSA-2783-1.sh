@@ -4,7 +4,7 @@
 # Security fix for DSA-2783-1
 #
 # Security announcement date: 2013-10-21 00:00:00 UTC
-# Script generation date:     2016-01-18 07:06:22 UTC
+# Script generation date:     2016-01-19 07:03:13 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - librack-ruby:1.1.0-4+squeeze1
 #
 # Last versions recommanded by security team:
-#   - librack-ruby:1.1.0-4+squeeze2
+#   - librack-ruby:1.1.0-4+squeeze3
 #
 # CVE List:
 #   - CVE-2011-5036
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2783-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade librack-ruby=1.1.0-4+squeeze2 -y
+sudo apt-get install --only-upgrade librack-ruby=1.1.0-4+squeeze3 -y
