@@ -4,7 +4,7 @@
 # Security fix for DLA-84-1
 #
 # Security announcement date: 2014-11-09 00:00:00 UTC
-# Script generation date:     2016-01-19 07:07:42 UTC
+# Script generation date:     2016-01-19 19:11:09 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - curl:7.21.0-2.1+squeeze10
 #
 # Last versions recommanded by security team:
-#   - curl:7.21.0-2.1+squeeze12
+#   - curl:7.21.0-2.1+squeeze8
 #
 # CVE List:
 #   - CVE-2014-3707
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-84-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade curl=7.21.0-2.1+squeeze12 -y
+sudo apt-get install --only-upgrade curl=7.21.0-2.1+squeeze8 -y

@@ -4,7 +4,7 @@
 # Security fix for DLA-362-1
 #
 # Security announcement date: 2015-12-08 00:00:00 UTC
-# Script generation date:     2016-01-19 07:07:57 UTC
+# Script generation date:     2016-01-19 19:11:24 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - dhcpcd:1:3.2.3-5+squeeze2
 #
 # Last versions recommanded by security team:
-#   - dhcpcd:1:3.2.3-5+squeeze2
+#   - dhcpcd:1:3.2.3-5+squeeze1
 #
 # CVE List:
 #   - CVE-2012-6698
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-362-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade dhcpcd=1:3.2.3-5+squeeze2 -y
+sudo apt-get install --only-upgrade dhcpcd=1:3.2.3-5+squeeze1 -y

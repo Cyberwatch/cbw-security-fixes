@@ -4,7 +4,7 @@
 # Security fix for DLA-313-1
 #
 # Security announcement date: 2015-09-21 00:00:00 UTC
-# Script generation date:     2016-01-19 07:07:53 UTC
+# Script generation date:     2016-01-19 19:11:19 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - virtualbox-ose:3.2.28-dfsg-1+squeeze1
 #
 # Last versions recommanded by security team:
-#   - virtualbox-ose:<end-of-life>
+#   - virtualbox-ose:3.2.10-dfsg-1+squeeze3
 #
 # CVE List:
 #   - CVE-2013-3792
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-313-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade virtualbox-ose=<end-of-life> -y
+sudo apt-get install --only-upgrade virtualbox-ose=3.2.10-dfsg-1+squeeze3 -y
