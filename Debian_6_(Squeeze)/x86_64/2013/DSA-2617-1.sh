@@ -4,7 +4,7 @@
 # Security fix for DSA-2617-1
 #
 # Security announcement date: 2013-02-02 00:00:00 UTC
-# Script generation date:     2016-01-19 07:03:00 UTC
+# Script generation date:     2016-01-19 19:06:36 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - samba:2:3.5.6~dfsg-3squeeze9
 #
 # Last versions recommanded by security team:
-#   - samba:2:3.5.6~dfsg-3squeeze13
+#   - samba:2:3.5.6~dfsg-3squeeze11
 #
 # CVE List:
 #   - CVE-2013-0213
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2617-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade samba=2:3.5.6~dfsg-3squeeze13 -y
+sudo apt-get install --only-upgrade samba=2:3.5.6~dfsg-3squeeze11 -y
