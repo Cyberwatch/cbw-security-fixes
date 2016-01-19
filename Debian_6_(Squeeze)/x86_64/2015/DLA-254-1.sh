@@ -4,7 +4,7 @@
 # Security fix for DLA-254-1
 #
 # Security announcement date: 2015-06-26 00:00:00 UTC
-# Script generation date:     2016-01-18 07:10:28 UTC
+# Script generation date:     2016-01-19 07:07:50 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - librack-ruby:1.1.0-4+squeeze3
 #
 # Last versions recommanded by security team:
-#   - librack-ruby:1.1.0-4+squeeze2
+#   - librack-ruby:1.1.0-4+squeeze3
 #
 # CVE List:
 #   - CVE-2015-3225
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-254-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade librack-ruby=1.1.0-4+squeeze2 -y
+sudo apt-get install --only-upgrade librack-ruby=1.1.0-4+squeeze3 -y

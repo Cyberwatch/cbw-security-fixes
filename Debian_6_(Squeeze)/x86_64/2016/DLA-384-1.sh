@@ -4,7 +4,7 @@
 # Security fix for DLA-384-1
 #
 # Security announcement date: 2016-01-13 00:00:00 UTC
-# Script generation date:     2016-01-18 07:10:36 UTC
+# Script generation date:     2016-01-19 07:07:58 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - inspircd:1.1.22+dfsg-4+squeeze3
 #
 # Last versions recommanded by security team:
-#   - inspircd:1.1.22+dfsg-4+squeeze1
+#   - inspircd:1.1.22+dfsg-4+squeeze3
 #
 # CVE List:
 #   - CVE-2015-8702
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-384-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade inspircd=1.1.22+dfsg-4+squeeze1 -y
+sudo apt-get install --only-upgrade inspircd=1.1.22+dfsg-4+squeeze3 -y

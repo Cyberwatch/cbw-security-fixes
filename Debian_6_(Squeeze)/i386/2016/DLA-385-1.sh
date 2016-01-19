@@ -4,7 +4,7 @@
 # Security fix for DLA-385-1
 #
 # Security announcement date: 2016-01-14 00:00:00 UTC
-# Script generation date:     2016-01-16 07:04:36 UTC
+# Script generation date:     2016-01-19 07:07:58 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - isc-dhcp:4.1.1-P1-15+squeeze9
 #
 # Last versions recommanded by security team:
-#   - isc-dhcp:4.1.1-P1-15+squeeze9
+#   - isc-dhcp:4.1.1-P1-15+squeeze10
 #
 # CVE List:
 #   - CVE-2015-8605
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-385-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade isc-dhcp=4.1.1-P1-15+squeeze9 -y
+sudo apt-get install --only-upgrade isc-dhcp=4.1.1-P1-15+squeeze10 -y
