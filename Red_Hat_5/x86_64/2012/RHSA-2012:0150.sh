@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:0150
 #
 # Security announcement date: 2012-02-21 04:57:48 UTC
-# Script generation date:     2016-01-06 19:10:45 UTC
+# Script generation date:     2016-01-19 19:16:51 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -23,18 +23,18 @@
 #   - kernel-xen-devel:2.6.18-308.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - kernel-doc:2.6.18-238.56.1.el5.noarch
-#   - kernel:2.6.18-238.56.1.el5.x86_64
-#   - kernel-debug:2.6.18-238.56.1.el5.x86_64
-#   - kernel-debug-debuginfo:2.6.18-238.56.1.el5.x86_64
-#   - kernel-debug-devel:2.6.18-238.56.1.el5.x86_64
-#   - kernel-debuginfo:2.6.18-238.56.1.el5.x86_64
-#   - kernel-debuginfo-common:2.6.18-238.56.1.el5.x86_64
-#   - kernel-devel:2.6.18-238.56.1.el5.x86_64
-#   - kernel-headers:2.6.18-238.56.1.el5.x86_64
-#   - kernel-xen:2.6.18-238.56.1.el5.x86_64
-#   - kernel-xen-debuginfo:2.6.18-238.56.1.el5.x86_64
-#   - kernel-xen-devel:2.6.18-238.56.1.el5.x86_64
+#   - kernel-doc:2.6.18-408.el5.noarch
+#   - kernel:2.6.18-408.el5.x86_64
+#   - kernel-debug:2.6.18-408.el5.x86_64
+#   - kernel-debug-debuginfo:2.6.18-408.el5.x86_64
+#   - kernel-debug-devel:2.6.18-408.el5.x86_64
+#   - kernel-debuginfo:2.6.18-408.el5.x86_64
+#   - kernel-debuginfo-common:2.6.18-408.el5.x86_64
+#   - kernel-devel:2.6.18-408.el5.x86_64
+#   - kernel-headers:2.6.18-408.el5.x86_64
+#   - kernel-xen:2.6.18-408.el5.x86_64
+#   - kernel-xen-debuginfo:2.6.18-408.el5.x86_64
+#   - kernel-xen-devel:2.6.18-408.el5.x86_64
 #
 # CVE List:
 #   - CVE-2011-1083
