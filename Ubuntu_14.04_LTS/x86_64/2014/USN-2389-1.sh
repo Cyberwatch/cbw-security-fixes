@@ -4,7 +4,7 @@
 # Security fix for USN-2389-1
 #
 # Security announcement date: 2014-10-27 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:23 UTC
+# Script generation date:     2016-01-20 07:01:27 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libxml2:2.9.1+dfsg1-3ubuntu4.4
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.9.1+dfsg1-3ubuntu4.6
+#   - libxml2:2.9.1+dfsg1-3ubuntu4.7
 #
 # CVE List:
 #   - CVE-2014-3660
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2389-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.9.1+dfsg1-3ubuntu4.6 -y
+sudo apt-get install --only-upgrade libxml2=2.9.1+dfsg1-3ubuntu4.7 -y

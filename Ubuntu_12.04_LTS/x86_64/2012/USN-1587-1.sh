@@ -4,7 +4,7 @@
 # Security fix for USN-1587-1
 #
 # Security announcement date: 2012-09-27 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:38 UTC
+# Script generation date:     2016-01-20 07:00:38 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libxml2:2.7.8.dfsg-5.1ubuntu4.2
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.7.8.dfsg-5.1ubuntu4.13
+#   - libxml2:2.7.8.dfsg-5.1ubuntu4.14
 #
 # CVE List:
 #   - CVE-2012-2807
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-1587-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-5.1ubuntu4.13 -y
+sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-5.1ubuntu4.14 -y

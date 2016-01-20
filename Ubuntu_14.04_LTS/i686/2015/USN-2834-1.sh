@@ -4,7 +4,7 @@
 # Security fix for USN-2834-1
 #
 # Security announcement date: 2015-12-14 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:29 UTC
+# Script generation date:     2016-01-20 07:02:33 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - libxml2:2.9.1+dfsg1-3ubuntu4.6
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.9.1+dfsg1-3ubuntu4.6
+#   - libxml2:2.9.1+dfsg1-3ubuntu4.7
 #
 # CVE List:
 #   - CVE-2015-5312
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2834-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.9.1+dfsg1-3ubuntu4.6 -y
+sudo apt-get install --only-upgrade libxml2=2.9.1+dfsg1-3ubuntu4.7 -y

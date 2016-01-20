@@ -3,7 +3,7 @@
 # Security fix for USN-2834-1
 #
 # Security announcement date: 2015-12-14 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:29 UTC
+# Script generation date:     2016-01-20 07:02:33 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -12,7 +12,7 @@
 #   - libxml2:2.9.2+zdfsg1-4ubuntu0.2
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.9.2+zdfsg1-4ubuntu0.2
+#   - libxml2:2.9.2+zdfsg1-4ubuntu0.3
 #
 # CVE List:
 #   - CVE-2015-5312
