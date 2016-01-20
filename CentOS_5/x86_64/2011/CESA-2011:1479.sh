@@ -3,7 +3,7 @@
 # Security fix for CESA-2011:1479
 #
 # Security announcement date: 2011-11-30 10:33:41 UTC
-# Script generation date:     2016-01-06 19:06:54 UTC
+# Script generation date:     2016-01-20 07:12:53 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - kernel-doc:2.6.18-274.12.1.el5.noarch
 #
 # Last versions recommanded by security team:
-#   - kernel-doc:2.6.18-406.el5.noarch
+#   - kernel-doc:2.6.18-408.el5.noarch
 #
 # CVE List:
 #   - CVE-2011-3363
