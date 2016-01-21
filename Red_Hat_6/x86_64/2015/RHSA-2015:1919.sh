@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1919
 #
 # Security announcement date: 2015-10-21 21:15:21 UTC
-# Script generation date:     2016-01-06 19:14:25 UTC
+# Script generation date:     2016-01-21 07:21:26 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -24,19 +24,19 @@
 #   - java-1.8.0-openjdk-src-debug:1.8.0.65-0.b17.el6_7.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.8.0-openjdk:1.8.0.65-0.b17.el6_7.x86_64
-#   - java-1.8.0-openjdk-debuginfo:1.8.0.65-0.b17.el6_7.x86_64
-#   - java-1.8.0-openjdk-headless:1.8.0.65-0.b17.el6_7.x86_64
-#   - java-1.8.0-openjdk-javadoc:1.8.0.65-0.b17.el6_7.noarch
-#   - java-1.8.0-openjdk-javadoc-debug:1.8.0.65-0.b17.el6_7.noarch
-#   - java-1.8.0-openjdk-debug:1.8.0.65-0.b17.el6_7.x86_64
-#   - java-1.8.0-openjdk-demo:1.8.0.65-0.b17.el6_7.x86_64
-#   - java-1.8.0-openjdk-demo-debug:1.8.0.65-0.b17.el6_7.x86_64
-#   - java-1.8.0-openjdk-devel:1.8.0.65-0.b17.el6_7.x86_64
-#   - java-1.8.0-openjdk-devel-debug:1.8.0.65-0.b17.el6_7.x86_64
-#   - java-1.8.0-openjdk-headless-debug:1.8.0.65-0.b17.el6_7.x86_64
-#   - java-1.8.0-openjdk-src:1.8.0.65-0.b17.el6_7.x86_64
-#   - java-1.8.0-openjdk-src-debug:1.8.0.65-0.b17.el6_7.x86_64
+#   - java-1.8.0-openjdk:1.8.0.71-1.b15.el6_7.x86_64
+#   - java-1.8.0-openjdk-debuginfo:1.8.0.71-1.b15.el6_7.x86_64
+#   - java-1.8.0-openjdk-headless:1.8.0.71-1.b15.el6_7.x86_64
+#   - java-1.8.0-openjdk-javadoc:1.8.0.71-1.b15.el6_7.noarch
+#   - java-1.8.0-openjdk-javadoc-debug:1.8.0.71-1.b15.el6_7.noarch
+#   - java-1.8.0-openjdk-debug:1.8.0.71-1.b15.el6_7.x86_64
+#   - java-1.8.0-openjdk-demo:1.8.0.71-1.b15.el6_7.x86_64
+#   - java-1.8.0-openjdk-demo-debug:1.8.0.71-1.b15.el6_7.x86_64
+#   - java-1.8.0-openjdk-devel:1.8.0.71-1.b15.el6_7.x86_64
+#   - java-1.8.0-openjdk-devel-debug:1.8.0.71-1.b15.el6_7.x86_64
+#   - java-1.8.0-openjdk-headless-debug:1.8.0.71-1.b15.el6_7.x86_64
+#   - java-1.8.0-openjdk-src:1.8.0.71-1.b15.el6_7.x86_64
+#   - java-1.8.0-openjdk-src-debug:1.8.0.71-1.b15.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2015-4734
@@ -62,16 +62,16 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1919
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.8.0-openjdk-1.8.0.65 -y 
-sudo yum install java-1.8.0-openjdk-debuginfo-1.8.0.65 -y 
-sudo yum install java-1.8.0-openjdk-headless-1.8.0.65 -y 
-sudo yum install java-1.8.0-openjdk-javadoc-1.8.0.65 -y 
-sudo yum install java-1.8.0-openjdk-javadoc-debug-1.8.0.65 -y 
-sudo yum install java-1.8.0-openjdk-debug-1.8.0.65 -y 
-sudo yum install java-1.8.0-openjdk-demo-1.8.0.65 -y 
-sudo yum install java-1.8.0-openjdk-demo-debug-1.8.0.65 -y 
-sudo yum install java-1.8.0-openjdk-devel-1.8.0.65 -y 
-sudo yum install java-1.8.0-openjdk-devel-debug-1.8.0.65 -y 
-sudo yum install java-1.8.0-openjdk-headless-debug-1.8.0.65 -y 
-sudo yum install java-1.8.0-openjdk-src-1.8.0.65 -y 
-sudo yum install java-1.8.0-openjdk-src-debug-1.8.0.65 -y 
+sudo yum install java-1.8.0-openjdk-1.8.0.71 -y 
+sudo yum install java-1.8.0-openjdk-debuginfo-1.8.0.71 -y 
+sudo yum install java-1.8.0-openjdk-headless-1.8.0.71 -y 
+sudo yum install java-1.8.0-openjdk-javadoc-1.8.0.71 -y 
+sudo yum install java-1.8.0-openjdk-javadoc-debug-1.8.0.71 -y 
+sudo yum install java-1.8.0-openjdk-debug-1.8.0.71 -y 
+sudo yum install java-1.8.0-openjdk-demo-1.8.0.71 -y 
+sudo yum install java-1.8.0-openjdk-demo-debug-1.8.0.71 -y 
+sudo yum install java-1.8.0-openjdk-devel-1.8.0.71 -y 
+sudo yum install java-1.8.0-openjdk-devel-debug-1.8.0.71 -y 
+sudo yum install java-1.8.0-openjdk-headless-debug-1.8.0.71 -y 
+sudo yum install java-1.8.0-openjdk-src-1.8.0.71 -y 
+sudo yum install java-1.8.0-openjdk-src-debug-1.8.0.71 -y 
