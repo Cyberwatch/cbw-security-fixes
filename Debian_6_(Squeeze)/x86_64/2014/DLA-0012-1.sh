@@ -4,7 +4,7 @@
 # Security fix for DLA-0012-1
 #
 # Security announcement date: 2014-06-30 00:00:00 UTC
-# Script generation date:     2016-01-19 19:11:05 UTC
+# Script generation date:     2016-01-21 07:11:28 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - gnupg:1.4.10-4+squeeze5
 #
 # Last versions recommanded by security team:
-#   - gnupg:1.4.10-4+squeeze4
+#   - gnupg:1.4.10-4+squeeze7
 #
 # CVE List:
 #   - CVE-2014-4617
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-0012-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade gnupg=1.4.10-4+squeeze4 -y
+sudo apt-get install --only-upgrade gnupg=1.4.10-4+squeeze7 -y

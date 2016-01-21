@@ -4,7 +4,7 @@
 # Security fix for DLA-347-1
 #
 # Security announcement date: 2015-11-24 00:00:00 UTC
-# Script generation date:     2016-01-19 19:11:23 UTC
+# Script generation date:     2016-01-21 07:11:46 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - putty:0.60+2010-02-20-1+squeeze4
 #
 # Last versions recommanded by security team:
-#   - putty:0.60+2010-02-20-1+squeeze2
+#   - putty:0.60+2010-02-20-1+squeeze4
 #
 # CVE List:
 #   - CVE-2015-5309
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-347-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade putty=0.60+2010-02-20-1+squeeze2 -y
+sudo apt-get install --only-upgrade putty=0.60+2010-02-20-1+squeeze4 -y

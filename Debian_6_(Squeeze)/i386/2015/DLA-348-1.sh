@@ -4,7 +4,7 @@
 # Security fix for DLA-348-1
 #
 # Security announcement date: 2015-11-25 00:00:00 UTC
-# Script generation date:     2016-01-19 19:11:23 UTC
+# Script generation date:     2016-01-21 07:11:46 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - smokeping:2.3.6-5+squeeze2
 #
 # Last versions recommanded by security team:
-#   - smokeping:2.3.6-5+squeeze1
+#   - smokeping:2.3.6-5+squeeze2
 #
 # CVE List:
 #   - CVE-2013-4168
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-348-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade smokeping=2.3.6-5+squeeze1 -y
+sudo apt-get install --only-upgrade smokeping=2.3.6-5+squeeze2 -y
