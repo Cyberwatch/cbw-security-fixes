@@ -4,7 +4,7 @@
 # Security fix for DSA-2272-1
 #
 # Security announcement date: 2011-07-05 00:00:00 UTC
-# Script generation date:     2016-01-19 19:06:20 UTC
+# Script generation date:     2016-01-21 07:06:31 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - bind9:1:9.7.3.dfsg-1~squeeze3
 #
 # Last versions recommanded by security team:
-#   - bind9:1:9.7.3.dfsg-1~squeeze11
+#   - bind9:1:9.7.3.dfsg-1~squeeze19
 #
 # CVE List:
 #   - CVE-2011-2464
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2272-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade bind9=1:9.7.3.dfsg-1~squeeze11 -y
+sudo apt-get install --only-upgrade bind9=1:9.7.3.dfsg-1~squeeze19 -y

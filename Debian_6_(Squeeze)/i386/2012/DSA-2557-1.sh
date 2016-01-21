@@ -4,7 +4,7 @@
 # Security fix for DSA-2557-1
 #
 # Security announcement date: 2012-10-08 00:00:00 UTC
-# Script generation date:     2016-01-19 19:06:33 UTC
+# Script generation date:     2016-01-21 07:06:44 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - hostapd:1:0.6.10-2+squeeze1
 #
 # Last versions recommanded by security team:
-#   - hostapd:1:0.6.10-2+squeeze1
+#   - hostapd:1:0.6.10-2+squeeze2
 #
 # CVE List:
 #   - CVE-2012-4445
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2557-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade hostapd=1:0.6.10-2+squeeze1 -y
+sudo apt-get install --only-upgrade hostapd=1:0.6.10-2+squeeze2 -y

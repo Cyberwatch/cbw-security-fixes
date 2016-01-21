@@ -4,7 +4,7 @@
 # Security fix for DSA-2230-1
 #
 # Security announcement date: 2011-05-01 00:00:00 UTC
-# Script generation date:     2016-01-19 19:06:18 UTC
+# Script generation date:     2016-01-21 07:06:29 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - qemu-kvm:0.12.5+dfsg-5+squeeze1
 #
 # Last versions recommanded by security team:
-#   - qemu-kvm:0.12.5+dfsg-5+squeeze11
+#   - qemu-kvm:0.12.5+dfsg-5+squeeze12
 #
 # CVE List:
 #   - CVE-2011-0011
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2230-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu-kvm=0.12.5+dfsg-5+squeeze11 -y
+sudo apt-get install --only-upgrade qemu-kvm=0.12.5+dfsg-5+squeeze12 -y
