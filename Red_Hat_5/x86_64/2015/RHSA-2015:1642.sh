@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1642
 #
 # Security announcement date: 2015-08-18 19:07:05 UTC
-# Script generation date:     2016-01-06 19:14:13 UTC
+# Script generation date:     2016-01-21 19:13:21 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -16,8 +16,8 @@
 #   - mod_jk-manual:1.2.40-4.redhat_2.ep6.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - mod_cluster-native:1.2.9-4.Final_redhat_2.ep6.el5.x86_64
-#   - mod_cluster-native-debuginfo:1.2.9-4.Final_redhat_2.ep6.el5.x86_64
+#   - mod_cluster-native:1.2.9-6.Final_redhat_2.ep6.el5.x86_64
+#   - mod_cluster-native-debuginfo:1.2.9-6.Final_redhat_2.ep6.el5.x86_64
 #   - mod_jk-ap22:1.2.40-4.redhat_2.ep6.el5.x86_64
 #   - mod_jk-debuginfo:1.2.40-4.redhat_2.ep6.el5.x86_64
 #   - mod_jk-manual:1.2.40-4.redhat_2.ep6.el5.x86_64

@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:1803
 #
 # Security announcement date: 2011-12-08 21:29:10 UTC
-# Script generation date:     2016-01-11 19:13:01 UTC
+# Script generation date:     2016-01-21 19:09:10 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -173,8 +173,8 @@
 #   - slf4j:1.7.2-13.redhat_3.1.ep6.el5.noarch
 #   - xalan-j2:2.7.1-12_patch_08.ep5.el5.noarch
 #   - jboss-eap5-native:5.2.0-6.ep5.el5.x86_64
-#   - mod_cluster-native:1.2.9-4.Final_redhat_2.ep6.el5.x86_64
-#   - mod_cluster-native-debuginfo:1.2.9-4.Final_redhat_2.ep6.el5.x86_64
+#   - mod_cluster-native:1.2.9-6.Final_redhat_2.ep6.el5.x86_64
+#   - mod_cluster-native-debuginfo:1.2.9-6.Final_redhat_2.ep6.el5.x86_64
 #
 # CVE List:
 #   - CVE-2011-4314

@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:1207
 #
 # Security announcement date: 2013-09-04 19:04:15 UTC
-# Script generation date:     2016-01-11 19:14:22 UTC
+# Script generation date:     2016-01-21 19:10:56 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -257,12 +257,12 @@
 #   - apache-commons-daemon-jsvc-eap6-debuginfo:1.0.15-6.redhat_2.ep6.el5.x86_64
 #   - hornetq-native:2.3.25-3.Final_redhat_1.ep6.el5.x86_64
 #   - hornetq-native-debuginfo:2.3.25-3.Final_redhat_1.ep6.el5.x86_64
-#   - httpd:2.2.26-38.ep6.el5.x86_64
-#   - httpd-debuginfo:2.2.26-38.ep6.el5.x86_64
-#   - httpd-devel:2.2.26-38.ep6.el5.x86_64
-#   - httpd-tools:2.2.26-38.ep6.el5.x86_64
+#   - httpd:2.2.26-41.ep6.el5.x86_64
+#   - httpd-debuginfo:2.2.26-41.ep6.el5.x86_64
+#   - httpd-devel:2.2.26-41.ep6.el5.x86_64
+#   - httpd-tools:2.2.26-41.ep6.el5.x86_64
 #   - jbossas-hornetq-native:2.3.25-3.Final_redhat_1.ep6.el5.x86_64
-#   - mod_ssl:2.2.26-38.ep6.el5.x86_64
+#   - mod_ssl:2.2.26-41.ep6.el5.x86_64
 #
 # CVE List:
 #   - CVE-2012-3499

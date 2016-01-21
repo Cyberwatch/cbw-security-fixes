@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:0946
 #
 # Security announcement date: 2011-07-18 22:07:29 UTC
-# Script generation date:     2016-01-11 19:12:43 UTC
+# Script generation date:     2016-01-21 19:08:52 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -502,7 +502,7 @@
 #   - netty:3.2.6-1_redhat_1.2.ep6.el6.noarch
 #   - objectweb-asm31:3.1-12.1.ep5.el6.noarch
 #   - org-mc4j-ems:1.2.15.1-7.ep5.el6.noarch
-#   - quartz:1.8.4-5.el6sat.noarch
+#   - quartz:2.2.1.redhat_1-1.el6_5.noarch
 #   - regexp:1.5-5.ep5.el6.noarch
 #   - relaxngDatatype:2011.1-4.redhat_6.ep6.el6.noarch
 #   - resteasy:2.3.12-1.Final_redhat_1.1.ep6.el6.noarch
@@ -583,8 +583,8 @@
 #   - xml-commons-which11:1.3.04-8.2_patch_01.ep5.el6.noarch
 #   - xml-security:1.5.7-2.redhat_1.1.ep6.el6.noarch
 #   - jboss-eap5-native:5.2.0-6.ep5.el6.x86_64
-#   - mod_cluster-native:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
-#   - mod_cluster-native-debuginfo:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
+#   - mod_cluster-native:1.2.9-6.Final_redhat_2.ep6.el6.x86_64
+#   - mod_cluster-native-debuginfo:1.2.9-6.Final_redhat_2.ep6.el6.x86_64
 #   - mod_jk-ap20:1.2.31-1.1.2.ep5.el6.x86_64
 #   - mod_jk-debuginfo:1.2.40-4.redhat_2.ep6.el6.x86_64
 #   - tomcat-native:1.1.32-3.redhat_1.ep6.el6.x86_64
@@ -800,7 +800,7 @@ sudo yum install mx4j-3.0.1 -y
 sudo yum install netty-3.2.6 -y 
 sudo yum install objectweb-asm31-3.1 -y 
 sudo yum install org-mc4j-ems-1.2.15.1 -y 
-sudo yum install quartz-1.8.4 -y 
+sudo yum install quartz-2.2.1.redhat_1 -y 
 sudo yum install regexp-1.5 -y 
 sudo yum install relaxngDatatype-2011.1 -y 
 sudo yum install resteasy-2.3.12 -y 
@@ -881,8 +881,8 @@ sudo yum install xml-commons-which10-1.3.04 -y
 sudo yum install xml-commons-which11-1.3.04 -y 
 sudo yum install xml-security-1.5.7 -y 
 sudo yum install jboss-eap5-native-5.2.0 -y 
-sudo yum install mod_cluster-native-1.3.1 -y 
-sudo yum install mod_cluster-native-debuginfo-1.3.1 -y 
+sudo yum install mod_cluster-native-1.2.9 -y 
+sudo yum install mod_cluster-native-debuginfo-1.2.9 -y 
 sudo yum install mod_jk-ap20-1.2.31 -y 
 sudo yum install mod_jk-debuginfo-1.2.40 -y 
 sudo yum install tomcat-native-1.1.32 -y 

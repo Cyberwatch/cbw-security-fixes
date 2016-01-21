@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0191
 #
 # Security announcement date: 2013-01-24 19:19:01 UTC
-# Script generation date:     2016-01-11 19:13:49 UTC
+# Script generation date:     2016-01-21 19:09:59 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -313,8 +313,8 @@
 #   - hornetq-native:2.3.25-3.Final_redhat_1.ep6.el6.x86_64
 #   - hornetq-native-debuginfo:2.3.25-3.Final_redhat_1.ep6.el6.x86_64
 #   - jboss-eap5-native:5.2.0-6.ep5.el6.x86_64
-#   - mod_cluster-native:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
-#   - mod_cluster-native-debuginfo:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
+#   - mod_cluster-native:1.2.9-6.Final_redhat_2.ep6.el6.x86_64
+#   - mod_cluster-native-debuginfo:1.2.9-6.Final_redhat_2.ep6.el6.x86_64
 #
 # CVE List:
 #   - CVE-2009-5066
@@ -486,5 +486,5 @@ sudo yum install xml-security-1.5.7 -y
 sudo yum install hornetq-native-2.3.25 -y 
 sudo yum install hornetq-native-debuginfo-2.3.25 -y 
 sudo yum install jboss-eap5-native-5.2.0 -y 
-sudo yum install mod_cluster-native-1.3.1 -y 
-sudo yum install mod_cluster-native-debuginfo-1.3.1 -y 
+sudo yum install mod_cluster-native-1.2.9 -y 
+sudo yum install mod_cluster-native-debuginfo-1.2.9 -y 

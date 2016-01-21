@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:1786
 #
 # Security announcement date: 2013-12-04 18:35:58 UTC
-# Script generation date:     2016-01-11 19:14:36 UTC
+# Script generation date:     2016-01-21 19:11:08 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -359,8 +359,8 @@
 #   - hornetq-native:2.3.25-3.Final_redhat_1.ep6.el6.x86_64
 #   - hornetq-native-debuginfo:2.3.25-3.Final_redhat_1.ep6.el6.x86_64
 #   - jbossas-hornetq-native:2.3.25-3.Final_redhat_1.ep6.el6.x86_64
-#   - mod_cluster-native:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
-#   - mod_cluster-native-debuginfo:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
+#   - mod_cluster-native:1.2.9-6.Final_redhat_2.ep6.el6.x86_64
+#   - mod_cluster-native-debuginfo:1.2.9-6.Final_redhat_2.ep6.el6.x86_64
 #   - mod_jk-ap22:1.2.40-4.redhat_2.ep6.el6.x86_64
 #   - mod_jk-debuginfo:1.2.40-4.redhat_2.ep6.el6.x86_64
 #
@@ -544,7 +544,7 @@ sudo yum install xom-1.2.7 -y
 sudo yum install hornetq-native-2.3.25 -y 
 sudo yum install hornetq-native-debuginfo-2.3.25 -y 
 sudo yum install jbossas-hornetq-native-2.3.25 -y 
-sudo yum install mod_cluster-native-1.3.1 -y 
-sudo yum install mod_cluster-native-debuginfo-1.3.1 -y 
+sudo yum install mod_cluster-native-1.2.9 -y 
+sudo yum install mod_cluster-native-debuginfo-1.2.9 -y 
 sudo yum install mod_jk-ap22-1.2.40 -y 
 sudo yum install mod_jk-debuginfo-1.2.40 -y 

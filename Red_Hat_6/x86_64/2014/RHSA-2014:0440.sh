@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:0440
 #
 # Security announcement date: 2014-04-28 16:48:40 UTC
-# Script generation date:     2016-01-11 19:14:54 UTC
+# Script generation date:     2016-01-21 19:11:27 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -38,9 +38,9 @@
 #   - condor-cluster-resource-agent:7.8.10-0.2.el6.x86_64
 #   - condor-deltacloud-gahp:7.8.10-0.2.el6.x86_64
 #   - condor-plumage:7.8.10-0.2.el6.x86_64
-#   - mongodb:2.4.6-2.el6sat.x86_64
-#   - mongodb-debuginfo:2.4.6-2.el6sat.x86_64
-#   - mongodb-server:2.4.6-2.el6sat.x86_64
+#   - mongodb:2.4.6-2.el6op.x86_64
+#   - mongodb-debuginfo:2.4.6-2.el6op.x86_64
+#   - mongodb-server:2.4.6-2.el6op.x86_64
 #
 # CVE List:
 #   - CVE-2012-6619

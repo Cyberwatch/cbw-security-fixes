@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0701
 #
 # Security announcement date: 2013-04-02 20:14:23 UTC
-# Script generation date:     2016-01-11 19:14:03 UTC
+# Script generation date:     2016-01-21 19:10:37 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -37,7 +37,7 @@
 #   - ruby193-rubygems:1.8.23-50.el6.noarch
 #   - ruby193-rubygems-devel:1.8.23-50.el6.noarch
 #   - rubygem-json-doc:1.7.3-2.el6op.noarch
-#   - rubygem-rdoc:3.12-27.el6sat.x86_64
+#   - rubygem-rdoc:3.8-9.el6op.noarch
 #   - rubygem-rdoc-doc:3.8-9.el6op.noarch
 #   - ruby193-ruby:1.9.3.484-50.el6.x86_64
 #   - ruby193-ruby-debuginfo:1.9.3.484-50.el6.x86_64
@@ -66,7 +66,7 @@ sudo yum install ruby193-rubygem-rake-0.9.2.2 -y
 sudo yum install ruby193-rubygems-1.8.23 -y 
 sudo yum install ruby193-rubygems-devel-1.8.23 -y 
 sudo yum install rubygem-json-doc-1.7.3 -y 
-sudo yum install rubygem-rdoc-3.12 -y 
+sudo yum install rubygem-rdoc-3.8 -y 
 sudo yum install rubygem-rdoc-doc-3.8 -y 
 sudo yum install ruby193-ruby-1.9.3.484 -y 
 sudo yum install ruby193-ruby-debuginfo-1.9.3.484 -y 

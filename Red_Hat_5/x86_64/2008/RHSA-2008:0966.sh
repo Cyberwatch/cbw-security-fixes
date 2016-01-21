@@ -3,7 +3,7 @@
 # Security fix for RHSA-2008:0966
 #
 # Security announcement date: 2008-12-04 19:57:45 UTC
-# Script generation date:     2016-01-06 19:08:58 UTC
+# Script generation date:     2016-01-21 19:07:38 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -49,11 +49,11 @@
 #
 # Last versions recommanded by security team:
 #   - php-pear:1.8.1-2.el5s2.noarch
-#   - httpd:2.2.26-38.ep6.el5.x86_64
-#   - httpd-debuginfo:2.2.26-38.ep6.el5.x86_64
-#   - httpd-devel:2.2.26-38.ep6.el5.x86_64
-#   - httpd-manual:2.2.26-38.ep6.el5.x86_64
-#   - mod_ssl:2.2.26-38.ep6.el5.x86_64
+#   - httpd:2.2.26-41.ep6.el5.x86_64
+#   - httpd-debuginfo:2.2.26-41.ep6.el5.x86_64
+#   - httpd-devel:2.2.26-41.ep6.el5.x86_64
+#   - httpd-manual:2.2.26-41.ep6.el5.x86_64
+#   - mod_ssl:2.2.26-41.ep6.el5.x86_64
 #   - mysql:5.0.95-5.el5_9.x86_64
 #   - mysql-bench:5.0.95-5.el5_9.x86_64
 #   - mysql-cluster:5.0.84-2.el5s2.x86_64

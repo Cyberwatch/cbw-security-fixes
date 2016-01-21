@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:1785
 #
 # Security announcement date: 2013-12-04 18:35:01 UTC
-# Script generation date:     2016-01-11 19:14:34 UTC
+# Script generation date:     2016-01-21 19:11:07 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -365,8 +365,8 @@
 #   - hornetq-native:2.3.25-3.Final_redhat_1.ep6.el5.x86_64
 #   - hornetq-native-debuginfo:2.3.25-3.Final_redhat_1.ep6.el5.x86_64
 #   - jbossas-hornetq-native:2.3.25-3.Final_redhat_1.ep6.el5.x86_64
-#   - mod_cluster-native:1.2.9-4.Final_redhat_2.ep6.el5.x86_64
-#   - mod_cluster-native-debuginfo:1.2.9-4.Final_redhat_2.ep6.el5.x86_64
+#   - mod_cluster-native:1.2.9-6.Final_redhat_2.ep6.el5.x86_64
+#   - mod_cluster-native-debuginfo:1.2.9-6.Final_redhat_2.ep6.el5.x86_64
 #   - mod_jk-ap22:1.2.40-4.redhat_2.ep6.el5.x86_64
 #   - mod_jk-debuginfo:1.2.40-4.redhat_2.ep6.el5.x86_64
 #

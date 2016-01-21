@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:0948
 #
 # Security announcement date: 2011-07-18 22:09:05 UTC
-# Script generation date:     2016-01-11 19:12:45 UTC
+# Script generation date:     2016-01-21 19:08:54 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -313,8 +313,8 @@
 #   - xerces-j2:2.9.1-10.patch02.ep5.el5.noarch
 #   - xerces-j2-scripts:2.9.1-10.patch02.ep5.el5.noarch
 #   - jboss-eap5-native:5.2.0-6.ep5.el5.x86_64
-#   - mod_cluster-native:1.2.9-4.Final_redhat_2.ep6.el5.x86_64
-#   - mod_cluster-native-debuginfo:1.2.9-4.Final_redhat_2.ep6.el5.x86_64
+#   - mod_cluster-native:1.2.9-6.Final_redhat_2.ep6.el5.x86_64
+#   - mod_cluster-native-debuginfo:1.2.9-6.Final_redhat_2.ep6.el5.x86_64
 #   - mod_jk-ap20:1.2.31-1.1.ep5.el5.x86_64
 #   - mod_jk-debuginfo:1.2.40-4.redhat_2.ep6.el5.x86_64
 #   - tomcat-native:1.1.32-3.redhat_1.ep6.el5.x86_64

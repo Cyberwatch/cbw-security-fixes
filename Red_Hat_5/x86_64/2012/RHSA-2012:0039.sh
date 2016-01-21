@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:0039
 #
 # Security announcement date: 2012-01-18 19:33:24 UTC
-# Script generation date:     2016-01-06 19:10:40 UTC
+# Script generation date:     2016-01-21 19:09:13 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - mod_cluster-native-debuginfo:1.0.10-4.1.GA_CP02.ep5.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - mod_cluster-native:1.2.9-4.Final_redhat_2.ep6.el5.x86_64
-#   - mod_cluster-native-debuginfo:1.2.9-4.Final_redhat_2.ep6.el5.x86_64
+#   - mod_cluster-native:1.2.9-6.Final_redhat_2.ep6.el5.x86_64
+#   - mod_cluster-native-debuginfo:1.2.9-6.Final_redhat_2.ep6.el5.x86_64
 #
 # CVE List:
 #   - CVE-2011-4608

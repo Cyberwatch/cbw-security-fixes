@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0196
 #
 # Security announcement date: 2013-01-24 19:23:17 UTC
-# Script generation date:     2016-01-11 19:13:53 UTC
+# Script generation date:     2016-01-21 19:10:06 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -279,8 +279,8 @@
 #   - xml-commons-which11:1.3.04-8.2_patch_01.ep5.el5.noarch
 #   - xml-security:1.5.7-2.redhat_1.1.ep6.el5.noarch
 #   - jboss-eap5-native:5.2.0-6.ep5.el5.x86_64
-#   - mod_cluster-native:1.2.9-4.Final_redhat_2.ep6.el5.x86_64
-#   - mod_cluster-native-debuginfo:1.2.9-4.Final_redhat_2.ep6.el5.x86_64
+#   - mod_cluster-native:1.2.9-6.Final_redhat_2.ep6.el5.x86_64
+#   - mod_cluster-native-debuginfo:1.2.9-6.Final_redhat_2.ep6.el5.x86_64
 #
 # CVE List:
 #   - CVE-2009-5066

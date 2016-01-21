@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:0028
 #
 # Security announcement date: 2015-01-14 20:27:32 UTC
-# Script generation date:     2016-01-11 19:16:00 UTC
+# Script generation date:     2016-01-21 19:12:30 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -18,7 +18,7 @@
 #   - mingw32-cfme-host:5.3.2.6-1.el6cf.x86_64
 #
 # Last versions recommanded by security team:
-#   - ruby193-rubygem-fog:1.24.0-3.el6_6sat.noarch
+#   - ruby193-rubygem-fog:1.19.0-2.el6cf.noarch
 #   - ruby193-rubygem-linux_admin:0.9.4-1.el6cf.noarch
 #   - cfme:5.4.4.2-1.el6cf.x86_64
 #   - cfme-appliance:5.4.4.2-1.el6cf.x86_64
@@ -34,7 +34,7 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:0028
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install ruby193-rubygem-fog-1.24.0 -y 
+sudo yum install ruby193-rubygem-fog-1.19.0 -y 
 sudo yum install ruby193-rubygem-linux_admin-0.9.4 -y 
 sudo yum install cfme-5.4.4.2 -y 
 sudo yum install cfme-appliance-5.4.4.2 -y 

@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0638
 #
 # Security announcement date: 2013-03-12 19:05:43 UTC
-# Script generation date:     2016-01-11 19:13:59 UTC
+# Script generation date:     2016-01-21 19:10:25 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -16,7 +16,7 @@
 #
 # Last versions recommanded by security team:
 #   - ruby193-rubygem-rack:1.4.5-3.el6sam.noarch
-#   - rubygem-rack:1.4.1-13.el6sat.noarch
+#   - rubygem-rack:1.3.0-4.el6cf.noarch
 #   - jenkins:1.609.1-1.el6op.noarch
 #   - openshift-origin-cartridge-jenkins-1.4:1.0.3-1.el6op.noarch
 #
@@ -34,6 +34,6 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ruby193-rubygem-rack-1.4.5 -y 
-sudo yum install rubygem-rack-1.4.1 -y 
+sudo yum install rubygem-rack-1.3.0 -y 
 sudo yum install jenkins-1.609.1 -y 
 sudo yum install openshift-origin-cartridge-jenkins-1.4-1.0.3 -y 

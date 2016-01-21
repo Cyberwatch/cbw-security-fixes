@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:1170
 #
 # Security announcement date: 2013-08-21 18:29:17 UTC
-# Script generation date:     2016-01-11 19:14:20 UTC
+# Script generation date:     2016-01-21 19:10:54 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - python-bson:1.9-11.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - mongodb:2.4.6-2.el6sat.x86_64
-#   - mongodb-debuginfo:2.4.6-2.el6sat.x86_64
-#   - mongodb-server:2.4.6-2.el6sat.x86_64
+#   - mongodb:2.4.6-2.el6op.x86_64
+#   - mongodb-debuginfo:2.4.6-2.el6op.x86_64
+#   - mongodb-server:2.4.6-2.el6op.x86_64
 #   - pymongo:1.9-11.el6.x86_64
 #   - pymongo-debuginfo:1.9-11.el6.x86_64
-#   - python-bson:2.5.2-3.el6sat.x86_64
+#   - python-bson:2.5.2-3.el6op.x86_64
 #
 # CVE List:
 #   - CVE-2013-1892

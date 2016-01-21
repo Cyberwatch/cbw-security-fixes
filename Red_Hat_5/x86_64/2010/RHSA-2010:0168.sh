@@ -3,7 +3,7 @@
 # Security fix for RHSA-2010:0168
 #
 # Security announcement date: 2010-03-25 11:08:34 UTC
-# Script generation date:     2016-01-06 19:09:24 UTC
+# Script generation date:     2016-01-21 19:08:05 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - httpd-manual:2.2.3-31.el5_4.4.x86_64
 #
 # Last versions recommanded by security team:
-#   - httpd:2.2.26-38.ep6.el5.x86_64
-#   - httpd-debuginfo:2.2.26-38.ep6.el5.x86_64
-#   - mod_ssl:2.2.26-38.ep6.el5.x86_64
-#   - httpd-devel:2.2.26-38.ep6.el5.x86_64
-#   - httpd-manual:2.2.26-38.ep6.el5.x86_64
+#   - httpd:2.2.26-41.ep6.el5.x86_64
+#   - httpd-debuginfo:2.2.26-41.ep6.el5.x86_64
+#   - mod_ssl:2.2.26-41.ep6.el5.x86_64
+#   - httpd-devel:2.2.26-41.ep6.el5.x86_64
+#   - httpd-manual:2.2.26-41.ep6.el5.x86_64
 #
 # CVE List:
 #   - CVE-2010-0408

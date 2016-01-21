@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1087
 #
 # Security announcement date: 2014-08-21 16:02:14 UTC
-# Script generation date:     2016-01-11 19:15:22 UTC
+# Script generation date:     2016-01-21 19:11:52 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -120,13 +120,13 @@
 #   - tomcat7-webapps:7.0.59-42_patch_01.ep7.el6.noarch
 #   - apache-commons-daemon-jsvc-eap6:1.0.15-6.redhat_2.ep6.el6.x86_64
 #   - apache-commons-daemon-jsvc-eap6-debuginfo:1.0.15-6.redhat_2.ep6.el6.x86_64
-#   - httpd:2.2.15-47.el6_7.x86_64
-#   - httpd-debuginfo:2.2.15-47.el6_7.x86_64
-#   - httpd-devel:2.2.15-47.el6_7.x86_64
-#   - httpd-manual:2.2.15-47.el6_7.noarch
-#   - httpd-tools:2.2.15-47.el6_7.x86_64
-#   - mod_cluster-native:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
-#   - mod_cluster-native-debuginfo:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
+#   - httpd:2.2.26-41.ep6.el6.x86_64
+#   - httpd-debuginfo:2.2.26-41.ep6.el6.x86_64
+#   - httpd-devel:2.2.26-41.ep6.el6.x86_64
+#   - httpd-manual:2.2.26-41.ep6.el6.x86_64
+#   - httpd-tools:2.2.26-41.ep6.el6.x86_64
+#   - mod_cluster-native:1.2.9-6.Final_redhat_2.ep6.el6.x86_64
+#   - mod_cluster-native-debuginfo:1.2.9-6.Final_redhat_2.ep6.el6.x86_64
 #   - mod_jk-ap22:1.2.40-4.redhat_2.ep6.el6.x86_64
 #   - mod_jk-debuginfo:1.2.40-4.redhat_2.ep6.el6.x86_64
 #   - mod_jk-manual:1.2.40-4.redhat_2.ep6.el6.x86_64
@@ -134,7 +134,7 @@
 #   - mod_rt-debuginfo:2.4.1-6.GA.ep6.el6.x86_64
 #   - mod_snmp:2.4.1-13.GA.ep6.el6.x86_64
 #   - mod_snmp-debuginfo:2.4.1-13.GA.ep6.el6.x86_64
-#   - mod_ssl:2.2.15-47.el6_7.x86_64
+#   - mod_ssl:2.2.26-41.ep6.el6.x86_64
 #   - tomcat-native:1.1.32-3.redhat_1.ep6.el6.x86_64
 #   - tomcat-native-debuginfo:1.1.32-3.redhat_1.ep6.el6.x86_64
 #
@@ -195,13 +195,13 @@ sudo yum install tomcat7-servlet-3.0-api-7.0.59 -y
 sudo yum install tomcat7-webapps-7.0.59 -y 
 sudo yum install apache-commons-daemon-jsvc-eap6-1.0.15 -y 
 sudo yum install apache-commons-daemon-jsvc-eap6-debuginfo-1.0.15 -y 
-sudo yum install httpd-2.2.15 -y 
-sudo yum install httpd-debuginfo-2.2.15 -y 
-sudo yum install httpd-devel-2.2.15 -y 
-sudo yum install httpd-manual-2.2.15 -y 
-sudo yum install httpd-tools-2.2.15 -y 
-sudo yum install mod_cluster-native-1.3.1 -y 
-sudo yum install mod_cluster-native-debuginfo-1.3.1 -y 
+sudo yum install httpd-2.2.26 -y 
+sudo yum install httpd-debuginfo-2.2.26 -y 
+sudo yum install httpd-devel-2.2.26 -y 
+sudo yum install httpd-manual-2.2.26 -y 
+sudo yum install httpd-tools-2.2.26 -y 
+sudo yum install mod_cluster-native-1.2.9 -y 
+sudo yum install mod_cluster-native-debuginfo-1.2.9 -y 
 sudo yum install mod_jk-ap22-1.2.40 -y 
 sudo yum install mod_jk-debuginfo-1.2.40 -y 
 sudo yum install mod_jk-manual-1.2.40 -y 
@@ -209,6 +209,6 @@ sudo yum install mod_rt-2.4.1 -y
 sudo yum install mod_rt-debuginfo-2.4.1 -y 
 sudo yum install mod_snmp-2.4.1 -y 
 sudo yum install mod_snmp-debuginfo-2.4.1 -y 
-sudo yum install mod_ssl-2.2.15 -y 
+sudo yum install mod_ssl-2.2.26 -y 
 sudo yum install tomcat-native-1.1.32 -y 
 sudo yum install tomcat-native-debuginfo-1.1.32 -y 

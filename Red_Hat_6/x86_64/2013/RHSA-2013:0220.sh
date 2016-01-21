@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0220
 #
 # Security announcement date: 2013-01-31 22:00:01 UTC
-# Script generation date:     2016-01-11 19:13:55 UTC
+# Script generation date:     2016-01-21 19:10:12 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -59,18 +59,18 @@
 #   - rubygem-openshift-origin-controller:1.38.4.2-1.el6op.noarch
 #   - rubygem-openshift-origin-dns-bind:1.0.2-1.el6op.noarch
 #   - rubygem-openshift-origin-msg-broker-mcollective:1.35.3.1-1.el6op.noarch
-#   - libmongodb:2.4.6-2.el6sat.x86_64
-#   - mongodb:2.4.6-2.el6sat.x86_64
-#   - mongodb-debuginfo:2.4.6-2.el6sat.x86_64
+#   - libmongodb:2.4.6-2.el6op.x86_64
+#   - mongodb:2.4.6-2.el6op.x86_64
+#   - mongodb-debuginfo:2.4.6-2.el6op.x86_64
 #   - mongodb-devel:2.0.2-6.el6op.x86_64
-#   - mongodb-server:2.4.6-2.el6sat.x86_64
+#   - mongodb-server:2.4.6-2.el6op.x86_64
 #   - ruby193-mod_passenger:3.0.21-3.el6op.x86_64
-#   - ruby193-rubygem-passenger:4.0.18-19.el6sat.x86_64
-#   - ruby193-rubygem-passenger-debuginfo:4.0.18-19.el6sat.x86_64
+#   - ruby193-rubygem-passenger:3.0.21-3.el6op.x86_64
+#   - ruby193-rubygem-passenger-debuginfo:3.0.21-3.el6op.x86_64
 #   - ruby193-rubygem-passenger-devel:3.0.21-3.el6op.x86_64
 #   - ruby193-rubygem-passenger-doc:3.0.21-3.el6op.x86_64
-#   - ruby193-rubygem-passenger-native:4.0.18-19.el6sat.x86_64
-#   - ruby193-rubygem-passenger-native-libs:4.0.18-19.el6sat.x86_64
+#   - ruby193-rubygem-passenger-native:3.0.21-3.el6op.x86_64
+#   - ruby193-rubygem-passenger-native-libs:3.0.21-3.el6op.x86_64
 #   - jenkins:1.609.1-1.el6op.noarch
 #   - openshift-origin-cartridge-haproxy-1.4:1.0.3-1.el6op.noarch
 #   - openshift-origin-cartridge-ruby-1.8:1.0.5-1.el6op.noarch
@@ -113,12 +113,12 @@ sudo yum install mongodb-debuginfo-2.4.6 -y
 sudo yum install mongodb-devel-2.0.2 -y 
 sudo yum install mongodb-server-2.4.6 -y 
 sudo yum install ruby193-mod_passenger-3.0.21 -y 
-sudo yum install ruby193-rubygem-passenger-4.0.18 -y 
-sudo yum install ruby193-rubygem-passenger-debuginfo-4.0.18 -y 
+sudo yum install ruby193-rubygem-passenger-3.0.21 -y 
+sudo yum install ruby193-rubygem-passenger-debuginfo-3.0.21 -y 
 sudo yum install ruby193-rubygem-passenger-devel-3.0.21 -y 
 sudo yum install ruby193-rubygem-passenger-doc-3.0.21 -y 
-sudo yum install ruby193-rubygem-passenger-native-4.0.18 -y 
-sudo yum install ruby193-rubygem-passenger-native-libs-4.0.18 -y 
+sudo yum install ruby193-rubygem-passenger-native-3.0.21 -y 
+sudo yum install ruby193-rubygem-passenger-native-libs-3.0.21 -y 
 sudo yum install jenkins-1.609.1 -y 
 sudo yum install openshift-origin-cartridge-haproxy-1.4-1.0.3 -y 
 sudo yum install openshift-origin-cartridge-ruby-1.8-1.0.5 -y 

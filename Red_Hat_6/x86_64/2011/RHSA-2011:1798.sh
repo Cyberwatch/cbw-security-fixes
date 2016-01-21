@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:1798
 #
 # Security announcement date: 2011-12-08 21:23:14 UTC
-# Script generation date:     2016-01-11 19:12:59 UTC
+# Script generation date:     2016-01-21 19:09:08 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -195,8 +195,8 @@
 #   - slf4j:1.5.8-10_patch_01.2.ep5.el6.noarch
 #   - xalan-j2:2.7.0-9.8.el6.noarch
 #   - jboss-eap5-native:5.2.0-6.ep5.el6.x86_64
-#   - mod_cluster-native:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
-#   - mod_cluster-native-debuginfo:1.3.1-6.Final_redhat_2.ep7.el6.x86_64
+#   - mod_cluster-native:1.2.9-6.Final_redhat_2.ep6.el6.x86_64
+#   - mod_cluster-native-debuginfo:1.2.9-6.Final_redhat_2.ep6.el6.x86_64
 #
 # CVE List:
 #   - CVE-2011-4085
@@ -297,5 +297,5 @@ sudo yum install rhq-rtfilter-3.0.0 -y
 sudo yum install slf4j-1.5.8 -y 
 sudo yum install xalan-j2-2.7.0 -y 
 sudo yum install jboss-eap5-native-5.2.0 -y 
-sudo yum install mod_cluster-native-1.3.1 -y 
-sudo yum install mod_cluster-native-debuginfo-1.3.1 -y 
+sudo yum install mod_cluster-native-1.2.9 -y 
+sudo yum install mod_cluster-native-debuginfo-1.2.9 -y 

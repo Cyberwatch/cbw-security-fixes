@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1796
 #
 # Security announcement date: 2014-11-03 20:15:35 UTC
-# Script generation date:     2016-01-11 19:15:45 UTC
+# Script generation date:     2016-01-21 19:12:13 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -476,7 +476,7 @@
 #   - rhc:1.38.4.5-1.el6op.noarch
 #   - rubygem-archive-tar-minitar:0.5.2-3.1.el6op.noarch
 #   - rubygem-commander:4.0.3-4.el6op.noarch
-#   - rubygem-highline:1.6.21-1.el6sat.noarch
+#   - rubygem-highline:1.6.16-1.el6op.noarch
 #   - rubygem-httpclient:2.4.0-3.el6op.noarch
 #   - rubygem-net-scp:1.1.2-2.el6op.noarch
 #   - rubygem-net-ssh:2.7.0-1.el6op.noarch
@@ -499,28 +499,28 @@
 #   - ruby193-mcollective:2.4.1-6.el6op.noarch
 #   - ruby193-mcollective-client:2.4.1-6.el6op.noarch
 #   - ruby193-mcollective-common:2.4.1-6.el6op.noarch
-#   - ruby193-ruby-wrapper:0.0.2-6.el6sat.noarch
+#   - ruby193-ruby-wrapper:0.0.2-2.el6op.noarch
 #   - ruby193-rubygem-bson:1.8.1-1.el6op.noarch
 #   - ruby193-rubygem-chunky_png:1.2.6-3.el6op.noarch
 #   - ruby193-rubygem-compass:0.12.2-4.el6op.noarch
 #   - ruby193-rubygem-compass-rails:1.0.3-2.el6op.noarch
 #   - ruby193-rubygem-daemon_controller:1.1.0-1.el6op.noarch
-#   - ruby193-rubygem-daemons:1.1.4-10.el6sat.noarch
+#   - ruby193-rubygem-daemons:1.0.10-4.el6op.noarch
 #   - ruby193-rubygem-dnsruby:1.53-3.el6op.noarch
-#   - ruby193-rubygem-excon:0.38.0-1.el6_6sat.noarch
+#   - ruby193-rubygem-excon:0.32.1-2.el6op.noarch
 #   - ruby193-rubygem-excon-doc:0.32.1-2.el6op.noarch
 #   - ruby193-rubygem-file-tail:1.0.5-5.el6op.noarch
-#   - ruby193-rubygem-fog:1.24.0-3.el6_6sat.noarch
-#   - ruby193-rubygem-fog-brightbox:0.0.1-2.el6sat.noarch
-#   - ruby193-rubygem-fog-core:1.24.0-1.el6_6sat.noarch
+#   - ruby193-rubygem-fog:1.19.0-2.el6cf.noarch
+#   - ruby193-rubygem-fog-brightbox:0.0.1-2.el6op.noarch
+#   - ruby193-rubygem-fog-core:1.21.1-2.el6op.noarch
 #   - ruby193-rubygem-fog-doc:1.21.0-3.el6op.noarch
-#   - ruby193-rubygem-fog-json:1.0.0-2.1.el6_6sat.noarch
+#   - ruby193-rubygem-fog-json:1.0.0-2.el6op.noarch
 #   - ruby193-rubygem-fog-json-doc:1.0.0-2.el6op.noarch
-#   - ruby193-rubygem-formatador:0.2.1-9.el6sat.noarch
+#   - ruby193-rubygem-formatador:0.2.1-9.el6op.noarch
 #   - ruby193-rubygem-formatador-doc:0.2.1-9.el6op.noarch
 #   - ruby193-rubygem-formtastic:1.2.4-2.el6op.noarch
 #   - ruby193-rubygem-fssm:0.2.8.1-2.el6op.noarch
-#   - ruby193-rubygem-haml:3.1.6-6.el6sat.noarch
+#   - ruby193-rubygem-haml:4.0.3-2.el6op.noarch
 #   - ruby193-rubygem-httpclient:2.4.0-1.el6op.noarch
 #   - ruby193-rubygem-jquery-rails:3.1.0-1.el6op.noarch
 #   - ruby193-rubygem-json_pure:1.7.3-1.el6.noarch
@@ -528,21 +528,21 @@
 #   - ruby193-rubygem-mongo:1.8.1-1.el6op.noarch
 #   - ruby193-rubygem-mongoid:3.1.4-2.el6op.noarch
 #   - ruby193-rubygem-moped:1.5.0-2.el6op.noarch
-#   - ruby193-rubygem-net-ldap:0.3.1-3.el6sat.noarch
-#   - ruby193-rubygem-net-scp:1.1.0-5.el6sat.noarch
+#   - ruby193-rubygem-net-ldap:0.3.1-1.el6op.noarch
+#   - ruby193-rubygem-net-scp:1.1.2-1.el6op.noarch
 #   - ruby193-rubygem-net-scp-doc:1.1.2-1.el6op.noarch
-#   - ruby193-rubygem-net-ssh:2.6.7-5.el6sat.noarch
+#   - ruby193-rubygem-net-ssh:2.7.0-1.el6op.noarch
 #   - ruby193-rubygem-net-ssh-doc:2.7.0-1.el6op.noarch
 #   - ruby193-rubygem-open4:1.3.0-3.el6op.noarch
 #   - ruby193-rubygem-origin:1.0.7-2.el6op.noarch
 #   - ruby193-rubygem-parseconfig:1.0.2-1.el6op.noarch
 #   - ruby193-rubygem-regin:0.3.7-4.el6op.noarch
-#   - ruby193-rubygem-rest-client:1.6.7-1.el6sat.noarch
-#   - ruby193-rubygem-ruby2ruby:2.0.1-9.el6sat.noarch
-#   - ruby193-rubygem-ruby_parser:3.1.1-15.el6sat.noarch
+#   - ruby193-rubygem-rest-client:1.6.1-2.el6op.noarch
+#   - ruby193-rubygem-ruby2ruby:1.3.1-2.el6op.noarch
+#   - ruby193-rubygem-ruby_parser:2.3.1-3.el6op.noarch
 #   - ruby193-rubygem-safe_yaml:0.9.1-1.el6op.noarch
 #   - ruby193-rubygem-sass-twitter-bootstrap:2.0.1-1.el6op.noarch
-#   - ruby193-rubygem-sexp_processor:4.1.3-7.el6sat.noarch
+#   - ruby193-rubygem-sexp_processor:3.2.0-2.el6op.noarch
 #   - ruby193-rubygem-spruz:0.2.5-5.el6op.noarch
 #   - ruby193-rubygem-state_machine:1.1.2-7.el6op.noarch
 #   - ruby193-rubygem-stomp:1.2.14-1.el6op.noarch
@@ -554,7 +554,7 @@
 #   - rubygem-RubyInline:3.8.4-3.el6op.noarch
 #   - rubygem-ZenTest:4.3.3-1.el6op.noarch
 #   - rubygem-bson:1.8.3-1.el6op.noarch
-#   - rubygem-bundler:1.0.15-5.el6sat.noarch
+#   - rubygem-bundler:1.0.21-3.el6op.noarch
 #   - rubygem-diff-lcs:1.1.2-5.el6op.noarch
 #   - rubygem-file-tail:1.0.5-4.el6op.noarch
 #   - rubygem-openshift-origin-admin-console:1.26.2.0-1.el6op.noarch
@@ -569,8 +569,8 @@
 #   - rubygem-openshift-origin-msg-broker-mcollective:1.35.3.1-1.el6op.noarch
 #   - rubygem-openshift-origin-routing-activemq:0.6.1.0-1.el6op.noarch
 #   - rubygem-openshift-origin-routing-daemon:0.26.4.4-1.el6op.noarch
-#   - rubygem-rack:1.4.1-13.el6sat.noarch
-#   - rubygem-rake:0.9.2.2-41.el6sat.noarch
+#   - rubygem-rack:1.3.0-4.el6cf.noarch
+#   - rubygem-rake:0.8.7-2.1.el6.noarch
 #   - rubygem-regin:0.3.7-4.el6op.noarch
 #   - rubygem-ruby2ruby:1.2.4-3.el6op.noarch
 #   - rubygem-ruby_parser:2.0.4-6.el6op.noarch
@@ -578,7 +578,7 @@
 #   - rubygem-spruz:0.2.5-4.el6op.noarch
 #   - rubygem-stomp:1.1.8-1.el6op.noarch
 #   - rubygem-systemu:1.2.0-3.el6op.noarch
-#   - rubygem-thor:0.14.6-5.el6sat.noarch
+#   - rubygem-thor:0.14.6-2.el6op.noarch
 #   - yum-plugin-priorities:1.1.30-17.el6_5.noarch
 #   - activemq:5.9.0-5.redhat.610328.el6op.x86_64
 #   - activemq-client:5.9.0-5.redhat.610328.el6op.x86_64
@@ -594,11 +594,11 @@
 #   - libev:4.04-4.el6op.x86_64
 #   - libev-debuginfo:4.04-4.el6op.x86_64
 #   - libev-devel:4.04-4.el6op.x86_64
-#   - libmongodb:2.4.6-2.el6sat.x86_64
-#   - mod_passenger:4.0.18-19.el6sat.x86_64
-#   - mongodb:2.4.6-2.el6sat.x86_64
-#   - mongodb-debuginfo:2.4.6-2.el6sat.x86_64
-#   - mongodb-server:2.4.6-2.el6sat.x86_64
+#   - libmongodb:2.4.6-2.el6op.x86_64
+#   - mod_passenger:3.0.21-12.el6op.x86_64
+#   - mongodb:2.4.6-2.el6op.x86_64
+#   - mongodb-debuginfo:2.4.6-2.el6op.x86_64
+#   - mongodb-server:2.4.6-2.el6op.x86_64
 #   - openshift-origin-logshifter:1.10.1.2-1.el6op.x86_64
 #   - rsyslog7-debuginfo:7.4.10-3.el6op.x86_64
 #   - rsyslog7-mmopenshift:7.4.10-3.el6op.x86_64
@@ -616,16 +616,16 @@
 #   - ruby193-rubygem-fastthread-debuginfo:1.0.7-7.el6op.x86_64
 #   - ruby193-rubygem-json:1.5.5-50.el6.x86_64
 #   - ruby193-rubygem-json-debuginfo:1.7.3-5.el6op.x86_64
-#   - ruby193-rubygem-nokogiri:1.5.11-1.el6sat.x86_64
-#   - ruby193-rubygem-nokogiri-debuginfo:1.5.11-1.el6sat.x86_64
+#   - ruby193-rubygem-nokogiri:1.5.11-1.el6op.x86_64
+#   - ruby193-rubygem-nokogiri-debuginfo:1.5.11-1.el6op.x86_64
 #   - ruby193-rubygem-nokogiri-doc:1.5.11-1.el6op.x86_64
-#   - ruby193-rubygem-passenger:4.0.18-19.el6sat.x86_64
-#   - ruby193-rubygem-passenger-debuginfo:4.0.18-19.el6sat.x86_64
+#   - ruby193-rubygem-passenger:3.0.21-3.el6op.x86_64
+#   - ruby193-rubygem-passenger-debuginfo:3.0.21-3.el6op.x86_64
 #   - ruby193-rubygem-passenger-devel:3.0.21-3.el6op.x86_64
-#   - ruby193-rubygem-passenger-native:4.0.18-19.el6sat.x86_64
-#   - ruby193-rubygem-passenger-native-libs:4.0.18-19.el6sat.x86_64
-#   - ruby193-rubygem-pg:0.12.2-10.el6sat.x86_64
-#   - ruby193-rubygem-pg-debuginfo:0.12.2-10.el6sat.x86_64
+#   - ruby193-rubygem-passenger-native:3.0.21-3.el6op.x86_64
+#   - ruby193-rubygem-passenger-native-libs:3.0.21-3.el6op.x86_64
+#   - ruby193-rubygem-pg:0.12.2-4.el6op.x86_64
+#   - ruby193-rubygem-pg-debuginfo:0.12.2-4.el6op.x86_64
 #   - ruby193-rubygem-rdiscount:1.6.8-3.el6op.x86_64
 #   - ruby193-rubygem-rdiscount-debuginfo:1.6.8-3.el6op.x86_64
 #   - rubygem-bson_ext:1.8.3-1.el6op.x86_64
@@ -633,15 +633,15 @@
 #   - rubygem-fastthread:1.0.7-4.el6op.x86_64
 #   - rubygem-json:1.4.6-2.el6.x86_64
 #   - rubygem-json-debuginfo:1.4.6-2.el6.x86_64
-#   - rubygem-passenger:4.0.18-19.el6sat.x86_64
-#   - rubygem-passenger-debuginfo:4.0.18-19.el6sat.x86_64
+#   - rubygem-passenger:3.0.21-12.el6op.x86_64
+#   - rubygem-passenger-debuginfo:3.0.21-12.el6op.x86_64
 #   - rubygem-passenger-devel:3.0.21-12.el6op.x86_64
-#   - rubygem-passenger-native:4.0.18-19.el6sat.x86_64
-#   - rubygem-passenger-native-libs:4.0.18-19.el6sat.x86_64
+#   - rubygem-passenger-native:3.0.21-12.el6op.x86_64
+#   - rubygem-passenger-native-libs:3.0.21-12.el6op.x86_64
 #   - rubygem-thread-dump:0.0.5-93.el6op.x86_64
 #   - rubygem-thread-dump-debuginfo:0.0.5-93.el6op.x86_64
-#   - v8:3.14.5.10-9.el6sat.x86_64
-#   - v8-debuginfo:3.14.5.10-9.el6sat.x86_64
+#   - v8:3.14.5.10-2.el6op.x86_64
+#   - v8-debuginfo:3.14.5.10-2.el6op.x86_64
 #   - v8-devel:3.14.5.10-2.el6op.x86_64
 #   - openshift-origin-cartridge-dependencies-optional-jbosseap:1.27.1.0-1.el6op.noarch
 #   - openshift-origin-cartridge-dependencies-recommended-jbosseap:1.27.1.0-1.el6op.noarch
@@ -734,7 +734,7 @@
 #   - python-virtualenv:1.10.1-1.el6op.noarch
 #   - python27-python-pip:1.5.6-5.el6.noarch
 #   - python27-python-pip-virtualenv:1.4-7.el6op.noarch
-#   - quartz:1.8.4-5.el6sat.noarch
+#   - quartz:2.2.1.redhat_1-1.el6_5.noarch
 #   - ruby193-rubygem-commander:4.0.3-5.el6op.noarch
 #   - ruby193-rubygem-highline:1.6.16-1.el6op.noarch
 #   - ruby193-rubygem-parallel:0.8.0-1.el6op.noarch
@@ -764,7 +764,7 @@
 #   - cfitsio-debuginfo:3.240-3.el6op.x86_64
 #   - cfitsio-devel:3.240-3.el6op.x86_64
 #   - cfitsio-static:3.240-3.el6op.x86_64
-#   - facter:1.7.6-2.el6sat.x86_64
+#   - facter:1.6.6-1.el6op.x86_64
 #   - freexl:1.0.0d-1.el6op.x86_64
 #   - freexl-debuginfo:1.0.0d-1.el6op.x86_64
 #   - freexl-devel:1.0.0d-1.el6op.x86_64
@@ -896,10 +896,10 @@
 #   - proj-debuginfo:4.7.0-1.el6op.x86_64
 #   - proj-devel:4.7.0-1.el6op.x86_64
 #   - proj-nad:4.7.0-1.el6op.x86_64
-#   - python-bson:2.5.2-3.el6sat.x86_64
-#   - python-pymongo:2.5.2-3.el6sat.x86_64
-#   - python-pymongo-debuginfo:2.5.2-3.el6sat.x86_64
-#   - python-pymongo-gridfs:2.5.2-3.el6sat.x86_64
+#   - python-bson:2.5.2-3.el6op.x86_64
+#   - python-pymongo:2.5.2-3.el6op.x86_64
+#   - python-pymongo-debuginfo:2.5.2-3.el6op.x86_64
+#   - python-pymongo-gridfs:2.5.2-3.el6op.x86_64
 #   - python27-mod_wsgi:3.4-26.el6op.x86_64
 #   - python27-mod_wsgi-debuginfo:3.4-26.el6op.x86_64
 #   - python33-mod_wsgi:3.4-26.el6op.x86_64
@@ -947,7 +947,7 @@
 sudo yum install rhc-1.38.4.5 -y 
 sudo yum install rubygem-archive-tar-minitar-0.5.2 -y 
 sudo yum install rubygem-commander-4.0.3 -y 
-sudo yum install rubygem-highline-1.6.21 -y 
+sudo yum install rubygem-highline-1.6.16 -y 
 sudo yum install rubygem-httpclient-2.4.0 -y 
 sudo yum install rubygem-net-scp-1.1.2 -y 
 sudo yum install rubygem-net-ssh-2.7.0 -y 
@@ -976,14 +976,14 @@ sudo yum install ruby193-rubygem-chunky_png-1.2.6 -y
 sudo yum install ruby193-rubygem-compass-0.12.2 -y 
 sudo yum install ruby193-rubygem-compass-rails-1.0.3 -y 
 sudo yum install ruby193-rubygem-daemon_controller-1.1.0 -y 
-sudo yum install ruby193-rubygem-daemons-1.1.4 -y 
+sudo yum install ruby193-rubygem-daemons-1.0.10 -y 
 sudo yum install ruby193-rubygem-dnsruby-1.53 -y 
-sudo yum install ruby193-rubygem-excon-0.38.0 -y 
+sudo yum install ruby193-rubygem-excon-0.32.1 -y 
 sudo yum install ruby193-rubygem-excon-doc-0.32.1 -y 
 sudo yum install ruby193-rubygem-file-tail-1.0.5 -y 
-sudo yum install ruby193-rubygem-fog-1.24.0 -y 
+sudo yum install ruby193-rubygem-fog-1.19.0 -y 
 sudo yum install ruby193-rubygem-fog-brightbox-0.0.1 -y 
-sudo yum install ruby193-rubygem-fog-core-1.24.0 -y 
+sudo yum install ruby193-rubygem-fog-core-1.21.1 -y 
 sudo yum install ruby193-rubygem-fog-doc-1.21.0 -y 
 sudo yum install ruby193-rubygem-fog-json-1.0.0 -y 
 sudo yum install ruby193-rubygem-fog-json-doc-1.0.0 -y 
@@ -991,7 +991,7 @@ sudo yum install ruby193-rubygem-formatador-0.2.1 -y
 sudo yum install ruby193-rubygem-formatador-doc-0.2.1 -y 
 sudo yum install ruby193-rubygem-formtastic-1.2.4 -y 
 sudo yum install ruby193-rubygem-fssm-0.2.8.1 -y 
-sudo yum install ruby193-rubygem-haml-3.1.6 -y 
+sudo yum install ruby193-rubygem-haml-4.0.3 -y 
 sudo yum install ruby193-rubygem-httpclient-2.4.0 -y 
 sudo yum install ruby193-rubygem-jquery-rails-3.1.0 -y 
 sudo yum install ruby193-rubygem-json_pure-1.7.3 -y 
@@ -1000,20 +1000,20 @@ sudo yum install ruby193-rubygem-mongo-1.8.1 -y
 sudo yum install ruby193-rubygem-mongoid-3.1.4 -y 
 sudo yum install ruby193-rubygem-moped-1.5.0 -y 
 sudo yum install ruby193-rubygem-net-ldap-0.3.1 -y 
-sudo yum install ruby193-rubygem-net-scp-1.1.0 -y 
+sudo yum install ruby193-rubygem-net-scp-1.1.2 -y 
 sudo yum install ruby193-rubygem-net-scp-doc-1.1.2 -y 
-sudo yum install ruby193-rubygem-net-ssh-2.6.7 -y 
+sudo yum install ruby193-rubygem-net-ssh-2.7.0 -y 
 sudo yum install ruby193-rubygem-net-ssh-doc-2.7.0 -y 
 sudo yum install ruby193-rubygem-open4-1.3.0 -y 
 sudo yum install ruby193-rubygem-origin-1.0.7 -y 
 sudo yum install ruby193-rubygem-parseconfig-1.0.2 -y 
 sudo yum install ruby193-rubygem-regin-0.3.7 -y 
-sudo yum install ruby193-rubygem-rest-client-1.6.7 -y 
-sudo yum install ruby193-rubygem-ruby2ruby-2.0.1 -y 
-sudo yum install ruby193-rubygem-ruby_parser-3.1.1 -y 
+sudo yum install ruby193-rubygem-rest-client-1.6.1 -y 
+sudo yum install ruby193-rubygem-ruby2ruby-1.3.1 -y 
+sudo yum install ruby193-rubygem-ruby_parser-2.3.1 -y 
 sudo yum install ruby193-rubygem-safe_yaml-0.9.1 -y 
 sudo yum install ruby193-rubygem-sass-twitter-bootstrap-2.0.1 -y 
-sudo yum install ruby193-rubygem-sexp_processor-4.1.3 -y 
+sudo yum install ruby193-rubygem-sexp_processor-3.2.0 -y 
 sudo yum install ruby193-rubygem-spruz-0.2.5 -y 
 sudo yum install ruby193-rubygem-state_machine-1.1.2 -y 
 sudo yum install ruby193-rubygem-stomp-1.2.14 -y 
@@ -1025,7 +1025,7 @@ sudo yum install rubygem-ParseTree-3.0.5 -y
 sudo yum install rubygem-RubyInline-3.8.4 -y 
 sudo yum install rubygem-ZenTest-4.3.3 -y 
 sudo yum install rubygem-bson-1.8.3 -y 
-sudo yum install rubygem-bundler-1.0.15 -y 
+sudo yum install rubygem-bundler-1.0.21 -y 
 sudo yum install rubygem-diff-lcs-1.1.2 -y 
 sudo yum install rubygem-file-tail-1.0.5 -y 
 sudo yum install rubygem-openshift-origin-admin-console-1.26.2.0 -y 
@@ -1040,8 +1040,8 @@ sudo yum install rubygem-openshift-origin-gear-placement-0.0.2.1 -y
 sudo yum install rubygem-openshift-origin-msg-broker-mcollective-1.35.3.1 -y 
 sudo yum install rubygem-openshift-origin-routing-activemq-0.6.1.0 -y 
 sudo yum install rubygem-openshift-origin-routing-daemon-0.26.4.4 -y 
-sudo yum install rubygem-rack-1.4.1 -y 
-sudo yum install rubygem-rake-0.9.2.2 -y 
+sudo yum install rubygem-rack-1.3.0 -y 
+sudo yum install rubygem-rake-0.8.7 -y 
 sudo yum install rubygem-regin-0.3.7 -y 
 sudo yum install rubygem-ruby2ruby-1.2.4 -y 
 sudo yum install rubygem-ruby_parser-2.0.4 -y 
@@ -1066,7 +1066,7 @@ sudo yum install libev-4.04 -y
 sudo yum install libev-debuginfo-4.04 -y 
 sudo yum install libev-devel-4.04 -y 
 sudo yum install libmongodb-2.4.6 -y 
-sudo yum install mod_passenger-4.0.18 -y 
+sudo yum install mod_passenger-3.0.21 -y 
 sudo yum install mongodb-2.4.6 -y 
 sudo yum install mongodb-debuginfo-2.4.6 -y 
 sudo yum install mongodb-server-2.4.6 -y 
@@ -1090,11 +1090,11 @@ sudo yum install ruby193-rubygem-json-debuginfo-1.7.3 -y
 sudo yum install ruby193-rubygem-nokogiri-1.5.11 -y 
 sudo yum install ruby193-rubygem-nokogiri-debuginfo-1.5.11 -y 
 sudo yum install ruby193-rubygem-nokogiri-doc-1.5.11 -y 
-sudo yum install ruby193-rubygem-passenger-4.0.18 -y 
-sudo yum install ruby193-rubygem-passenger-debuginfo-4.0.18 -y 
+sudo yum install ruby193-rubygem-passenger-3.0.21 -y 
+sudo yum install ruby193-rubygem-passenger-debuginfo-3.0.21 -y 
 sudo yum install ruby193-rubygem-passenger-devel-3.0.21 -y 
-sudo yum install ruby193-rubygem-passenger-native-4.0.18 -y 
-sudo yum install ruby193-rubygem-passenger-native-libs-4.0.18 -y 
+sudo yum install ruby193-rubygem-passenger-native-3.0.21 -y 
+sudo yum install ruby193-rubygem-passenger-native-libs-3.0.21 -y 
 sudo yum install ruby193-rubygem-pg-0.12.2 -y 
 sudo yum install ruby193-rubygem-pg-debuginfo-0.12.2 -y 
 sudo yum install ruby193-rubygem-rdiscount-1.6.8 -y 
@@ -1104,11 +1104,11 @@ sudo yum install rubygem-bson_ext-debuginfo-1.8.3 -y
 sudo yum install rubygem-fastthread-1.0.7 -y 
 sudo yum install rubygem-json-1.4.6 -y 
 sudo yum install rubygem-json-debuginfo-1.4.6 -y 
-sudo yum install rubygem-passenger-4.0.18 -y 
-sudo yum install rubygem-passenger-debuginfo-4.0.18 -y 
+sudo yum install rubygem-passenger-3.0.21 -y 
+sudo yum install rubygem-passenger-debuginfo-3.0.21 -y 
 sudo yum install rubygem-passenger-devel-3.0.21 -y 
-sudo yum install rubygem-passenger-native-4.0.18 -y 
-sudo yum install rubygem-passenger-native-libs-4.0.18 -y 
+sudo yum install rubygem-passenger-native-3.0.21 -y 
+sudo yum install rubygem-passenger-native-libs-3.0.21 -y 
 sudo yum install rubygem-thread-dump-0.0.5 -y 
 sudo yum install rubygem-thread-dump-debuginfo-0.0.5 -y 
 sudo yum install v8-3.14.5.10 -y 
@@ -1205,7 +1205,7 @@ sudo yum install php-pear-MDB2-Driver-pgsql-1.5.0 -y
 sudo yum install python-virtualenv-1.10.1 -y 
 sudo yum install python27-python-pip-1.5.6 -y 
 sudo yum install python27-python-pip-virtualenv-1.4 -y 
-sudo yum install quartz-1.8.4 -y 
+sudo yum install quartz-2.2.1.redhat_1 -y 
 sudo yum install ruby193-rubygem-commander-4.0.3 -y 
 sudo yum install ruby193-rubygem-highline-1.6.16 -y 
 sudo yum install ruby193-rubygem-parallel-0.8.0 -y 
@@ -1235,7 +1235,7 @@ sudo yum install cfitsio-3.240 -y
 sudo yum install cfitsio-debuginfo-3.240 -y 
 sudo yum install cfitsio-devel-3.240 -y 
 sudo yum install cfitsio-static-3.240 -y 
-sudo yum install facter-1.7.6 -y 
+sudo yum install facter-1.6.6 -y 
 sudo yum install freexl-1.0.0d -y 
 sudo yum install freexl-debuginfo-1.0.0d -y 
 sudo yum install freexl-devel-1.0.0d -y 

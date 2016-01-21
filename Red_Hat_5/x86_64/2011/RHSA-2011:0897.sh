@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:0897
 #
 # Security announcement date: 2011-06-23 07:10:46 UTC
-# Script generation date:     2016-01-11 19:12:36 UTC
+# Script generation date:     2016-01-21 19:08:45 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -223,18 +223,18 @@
 #   - xml-commons-jaxp-1.2-apis:1.3.04-8.2_patch_01.ep5.el5.noarch
 #   - xml-commons-jaxp-1.3-apis:1.3.04-8.2_patch_01.ep5.el5.noarch
 #   - xml-commons-resolver12:1.3.04-8.2_patch_01.ep5.el5.noarch
-#   - httpd:2.2.26-38.ep6.el5.x86_64
-#   - httpd-debuginfo:2.2.26-38.ep6.el5.x86_64
-#   - httpd-devel:2.2.26-38.ep6.el5.x86_64
-#   - httpd-manual:2.2.26-38.ep6.el5.x86_64
+#   - httpd:2.2.26-41.ep6.el5.x86_64
+#   - httpd-debuginfo:2.2.26-41.ep6.el5.x86_64
+#   - httpd-devel:2.2.26-41.ep6.el5.x86_64
+#   - httpd-manual:2.2.26-41.ep6.el5.x86_64
 #   - jakarta-commons-daemon-jsvc:1.0.5-1.4.ep5.el5.x86_64
 #   - jakarta-commons-daemon-jsvc-debuginfo:1.0.5-1.4.ep5.el5.x86_64
-#   - mod_cluster-native:1.2.9-4.Final_redhat_2.ep6.el5.x86_64
-#   - mod_cluster-native-debuginfo:1.2.9-4.Final_redhat_2.ep6.el5.x86_64
+#   - mod_cluster-native:1.2.9-6.Final_redhat_2.ep6.el5.x86_64
+#   - mod_cluster-native-debuginfo:1.2.9-6.Final_redhat_2.ep6.el5.x86_64
 #   - mod_jk-ap20:1.2.31-1.1.ep5.el5.x86_64
 #   - mod_jk-debuginfo:1.2.40-4.redhat_2.ep6.el5.x86_64
 #   - mod_jk-manual:1.2.40-4.redhat_2.ep6.el5.x86_64
-#   - mod_ssl:2.2.26-38.ep6.el5.x86_64
+#   - mod_ssl:2.2.26-41.ep6.el5.x86_64
 #   - tomcat-native:1.1.32-3.redhat_1.ep6.el5.x86_64
 #   - tomcat-native-debuginfo:1.1.32-3.redhat_1.ep6.el5.x86_64
 #

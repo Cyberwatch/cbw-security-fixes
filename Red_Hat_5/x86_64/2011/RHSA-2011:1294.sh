@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:1294
 #
 # Security announcement date: 2011-09-14 19:09:42 UTC
-# Script generation date:     2016-01-06 19:10:28 UTC
+# Script generation date:     2016-01-21 19:09:00 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -21,16 +21,16 @@
 #   - mod_ssl:2.2.3-45.el5_6.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - httpd:2.2.26-38.ep6.el5.x86_64
-#   - httpd-debuginfo:2.2.26-38.ep6.el5.x86_64
-#   - httpd-devel:2.2.26-38.ep6.el5.x86_64
-#   - httpd-manual:2.2.26-38.ep6.el5.x86_64
-#   - mod_ssl:2.2.26-38.ep6.el5.x86_64
-#   - httpd:2.2.26-38.ep6.el5.x86_64
-#   - httpd-debuginfo:2.2.26-38.ep6.el5.x86_64
-#   - httpd-devel:2.2.26-38.ep6.el5.x86_64
-#   - httpd-manual:2.2.26-38.ep6.el5.x86_64
-#   - mod_ssl:2.2.26-38.ep6.el5.x86_64
+#   - httpd:2.2.26-41.ep6.el5.x86_64
+#   - httpd-debuginfo:2.2.26-41.ep6.el5.x86_64
+#   - httpd-devel:2.2.26-41.ep6.el5.x86_64
+#   - httpd-manual:2.2.26-41.ep6.el5.x86_64
+#   - mod_ssl:2.2.26-41.ep6.el5.x86_64
+#   - httpd:2.2.26-41.ep6.el5.x86_64
+#   - httpd-debuginfo:2.2.26-41.ep6.el5.x86_64
+#   - httpd-devel:2.2.26-41.ep6.el5.x86_64
+#   - httpd-manual:2.2.26-41.ep6.el5.x86_64
+#   - mod_ssl:2.2.26-41.ep6.el5.x86_64
 #
 # CVE List:
 #   - CVE-2011-3192

@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0751
 #
 # Security announcement date: 2013-04-17 19:04:26 UTC
-# Script generation date:     2016-01-06 19:11:39 UTC
+# Script generation date:     2016-01-21 19:10:38 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - java-1.7.0-openjdk-src:1.7.0.19-2.3.9.1.el6_4.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-openjdk:1.7.0.91-2.6.2.2.el6_7.x86_64
-#   - java-1.7.0-openjdk-debuginfo:1.7.0.91-2.6.2.2.el6_7.x86_64
-#   - java-1.7.0-openjdk-javadoc:1.7.0.91-2.6.2.2.el6_7.noarch
-#   - java-1.7.0-openjdk-demo:1.7.0.91-2.6.2.2.el6_7.x86_64
-#   - java-1.7.0-openjdk-devel:1.7.0.91-2.6.2.2.el6_7.x86_64
-#   - java-1.7.0-openjdk-src:1.7.0.91-2.6.2.2.el6_7.x86_64
+#   - java-1.7.0-openjdk:1.7.0.95-2.6.4.0.el6_7.x86_64
+#   - java-1.7.0-openjdk-debuginfo:1.7.0.95-2.6.4.0.el6_7.x86_64
+#   - java-1.7.0-openjdk-javadoc:1.7.0.95-2.6.4.0.el6_7.noarch
+#   - java-1.7.0-openjdk-demo:1.7.0.95-2.6.4.0.el6_7.x86_64
+#   - java-1.7.0-openjdk-devel:1.7.0.95-2.6.4.0.el6_7.x86_64
+#   - java-1.7.0-openjdk-src:1.7.0.95-2.6.4.0.el6_7.x86_64
 #
 # CVE List:
 #   - CVE-2013-0401
@@ -52,9 +52,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:0751
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.0-openjdk-1.7.0.91 -y 
-sudo yum install java-1.7.0-openjdk-debuginfo-1.7.0.91 -y 
-sudo yum install java-1.7.0-openjdk-javadoc-1.7.0.91 -y 
-sudo yum install java-1.7.0-openjdk-demo-1.7.0.91 -y 
-sudo yum install java-1.7.0-openjdk-devel-1.7.0.91 -y 
-sudo yum install java-1.7.0-openjdk-src-1.7.0.91 -y 
+sudo yum install java-1.7.0-openjdk-1.7.0.95 -y 
+sudo yum install java-1.7.0-openjdk-debuginfo-1.7.0.95 -y 
+sudo yum install java-1.7.0-openjdk-javadoc-1.7.0.95 -y 
+sudo yum install java-1.7.0-openjdk-demo-1.7.0.95 -y 
+sudo yum install java-1.7.0-openjdk-devel-1.7.0.95 -y 
+sudo yum install java-1.7.0-openjdk-src-1.7.0.95 -y 
