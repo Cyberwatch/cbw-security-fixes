@@ -4,7 +4,7 @@
 # Security fix for USN-2171-1
 #
 # Security announcement date: 2014-04-23 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:07 UTC
+# Script generation date:     2016-01-22 07:01:15 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - rsync:3.1.0-2ubuntu0.1
 #
 # Last versions recommanded by security team:
-#   - rsync:3.1.0-2ubuntu0.1
+#   - rsync:3.1.0-2ubuntu0.2
 #
 # CVE List:
 #   - CVE-2014-2855
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2171-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade rsync=3.1.0-2ubuntu0.1 -y
+sudo apt-get install --only-upgrade rsync=3.1.0-2ubuntu0.2 -y
