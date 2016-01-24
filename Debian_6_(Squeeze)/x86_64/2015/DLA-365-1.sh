@@ -4,7 +4,7 @@
 # Security fix for DLA-365-1
 #
 # Security announcement date: 2015-12-09 00:00:00 UTC
-# Script generation date:     2016-01-21 07:11:47 UTC
+# Script generation date:     2016-01-24 07:12:00 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - foomatic-filters:4.0.5-6+squeeze2+deb6u11
 #
 # Last versions recommanded by security team:
-#   - foomatic-filters:4.0.5-6+squeeze2+deb6u12
+#   - foomatic-filters:4.0.5-6+squeeze2+deb6u13
 #
 # CVE List:
 #   - CVE-2015-8327
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-365-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade foomatic-filters=4.0.5-6+squeeze2+deb6u12 -y
+sudo apt-get install --only-upgrade foomatic-filters=4.0.5-6+squeeze2+deb6u13 -y
