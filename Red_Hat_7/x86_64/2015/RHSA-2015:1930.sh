@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1930
 #
 # Security announcement date: 2015-10-26 21:28:44 UTC
-# Script generation date:     2016-01-11 19:17:05 UTC
+# Script generation date:     2016-01-25 19:13:34 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -19,14 +19,14 @@
 #   - ntp-perl:4.2.6p5-19.ael7b_1.3.noarch
 #
 # Last versions recommanded by security team:
-#   - ntp:4.2.6p5-22.el7.x86_64
-#   - ntp-debuginfo:4.2.6p5-22.el7.x86_64
-#   - ntpdate:4.2.6p5-22.el7.x86_64
-#   - ntp-doc:4.2.6p5-22.el7.noarch
-#   - ntp-perl:4.2.6p5-22.el7.noarch
-#   - sntp:4.2.6p5-22.el7.x86_64
-#   - ntp-doc:4.2.6p5-22.el7.noarch
-#   - ntp-perl:4.2.6p5-22.el7.noarch
+#   - ntp:4.2.6p5-22.el7_2.1.x86_64
+#   - ntp-debuginfo:4.2.6p5-22.el7_2.1.x86_64
+#   - ntpdate:4.2.6p5-22.el7_2.1.x86_64
+#   - ntp-doc:4.2.6p5-22.el7_2.1.noarch
+#   - ntp-perl:4.2.6p5-22.el7_2.1.noarch
+#   - sntp:4.2.6p5-22.el7_2.1.x86_64
+#   - ntp-doc:4.2.6p5-22.el7_2.1.noarch
+#   - ntp-perl:4.2.6p5-22.el7_2.1.noarch
 #
 # CVE List:
 #   - CVE-2015-5300
