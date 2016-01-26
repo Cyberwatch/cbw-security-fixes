@@ -3,7 +3,7 @@
 # Security fix for USN-2781-1
 #
 # Security announcement date: 2015-10-26 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:20 UTC
+# Script generation date:     2016-01-26 19:02:30 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -12,7 +12,7 @@
 #   - mysql-server-5.6:5.6.27-0ubuntu1
 #
 # Last versions recommanded by security team:
-#   - mysql-server-5.6:5.6.27-0ubuntu1
+#   - mysql-server-5.6:5.6.28-0ubuntu0.15.10.1
 #
 # CVE List:
 #   - CVE-2015-4730

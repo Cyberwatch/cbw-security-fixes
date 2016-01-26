@@ -4,7 +4,7 @@
 # Security fix for USN-2674-1
 #
 # Security announcement date: 2015-07-21 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:05 UTC
+# Script generation date:     2016-01-26 19:02:16 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - mysql-server-5.5:5.5.44-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - mysql-server-5.5:5.5.46-0ubuntu0.12.04.2
+#   - mysql-server-5.5:5.5.47-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2015-2582
@@ -38,4 +38,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2674-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mysql-server-5.5=5.5.46-0ubuntu0.12.04.2 -y
+sudo apt-get install --only-upgrade mysql-server-5.5=5.5.47-0ubuntu0.12.04.1 -y

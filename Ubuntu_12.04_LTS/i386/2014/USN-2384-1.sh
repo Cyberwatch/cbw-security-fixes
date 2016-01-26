@@ -4,7 +4,7 @@
 # Security fix for USN-2384-1
 #
 # Security announcement date: 2014-10-15 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:23 UTC
+# Script generation date:     2016-01-26 19:01:33 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - mysql-server-5.5:5.5.40-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - mysql-server-5.5:5.5.46-0ubuntu0.12.04.2
+#   - mysql-server-5.5:5.5.47-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2012-5615
@@ -41,4 +41,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2384-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mysql-server-5.5=5.5.46-0ubuntu0.12.04.2 -y
+sudo apt-get install --only-upgrade mysql-server-5.5=5.5.47-0ubuntu0.12.04.1 -y
