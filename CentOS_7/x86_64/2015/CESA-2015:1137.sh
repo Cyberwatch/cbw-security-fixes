@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1137
 #
 # Security announcement date: 2015-06-24 03:36:55 UTC
-# Script generation date:     2016-01-06 19:08:14 UTC
+# Script generation date:     2016-01-26 07:11:54 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -23,18 +23,18 @@
 #   - python-perf:3.10.0-229.7.2.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - kernel:3.10.0-327.el7.x86_64
-#   - kernel-abi-whitelists:3.10.0-327.el7.noarch
-#   - kernel-debug:3.10.0-327.el7.x86_64
-#   - kernel-debug-devel:3.10.0-327.el7.x86_64
-#   - kernel-devel:3.10.0-327.el7.x86_64
-#   - kernel-doc:3.10.0-327.el7.noarch
-#   - kernel-headers:3.10.0-327.el7.x86_64
-#   - kernel-tools:3.10.0-327.el7.x86_64
-#   - kernel-tools-libs:3.10.0-327.el7.x86_64
-#   - kernel-tools-libs-devel:3.10.0-327.el7.x86_64
-#   - perf:3.10.0-327.el7.x86_64
-#   - python-perf:3.10.0-327.el7.x86_64
+#   - kernel:3.10.0-327.4.5.el7.x86_64
+#   - kernel-abi-whitelists:3.10.0-327.4.5.el7.noarch
+#   - kernel-debug:3.10.0-327.4.5.el7.x86_64
+#   - kernel-debug-devel:3.10.0-327.4.5.el7.x86_64
+#   - kernel-devel:3.10.0-327.4.5.el7.x86_64
+#   - kernel-doc:3.10.0-327.4.5.el7.noarch
+#   - kernel-headers:3.10.0-327.4.5.el7.x86_64
+#   - kernel-tools:3.10.0-327.4.5.el7.x86_64
+#   - kernel-tools-libs:3.10.0-327.4.5.el7.x86_64
+#   - kernel-tools-libs-devel:3.10.0-327.4.5.el7.x86_64
+#   - perf:3.10.0-327.4.5.el7.x86_64
+#   - python-perf:3.10.0-327.4.5.el7.x86_64
 #
 # CVE List:
 #   - CVE-2014-9529

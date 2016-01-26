@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:2024
 #
 # Security announcement date: 2014-12-20 02:57:22 UTC
-# Script generation date:     2016-01-06 19:08:04 UTC
+# Script generation date:     2016-01-26 07:11:43 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - sntp:4.2.6p5-19.el7.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - ntp:4.2.6p5-22.el7.centos.x86_64
-#   - ntpdate:4.2.6p5-22.el7.centos.x86_64
-#   - ntp-doc:4.2.6p5-22.el7.centos.noarch
-#   - ntp-perl:4.2.6p5-22.el7.centos.noarch
-#   - sntp:4.2.6p5-22.el7.centos.x86_64
+#   - ntp:4.2.6p5-22.el7.centos.1.x86_64
+#   - ntpdate:4.2.6p5-22.el7.centos.1.x86_64
+#   - ntp-doc:4.2.6p5-22.el7.centos.1.noarch
+#   - ntp-perl:4.2.6p5-22.el7.centos.1.noarch
+#   - sntp:4.2.6p5-22.el7.centos.1.x86_64
 #
 # CVE List:
 #   - CVE-2014-9293
