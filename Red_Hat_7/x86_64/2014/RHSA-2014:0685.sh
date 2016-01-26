@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:0685
 #
 # Security announcement date: 2014-06-10 19:41:10 UTC
-# Script generation date:     2016-01-11 19:15:01 UTC
+# Script generation date:     2016-01-26 19:15:26 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - java-1.6.0-openjdk-src:1.6.0.0-6.1.13.3.el7_0.x86_64
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-openjdk:1.6.0.37-1.13.9.4.el7_1.x86_64
-#   - java-1.6.0-openjdk-debuginfo:1.6.0.37-1.13.9.4.el7_1.x86_64
-#   - java-1.6.0-openjdk-demo:1.6.0.37-1.13.9.4.el7_1.x86_64
-#   - java-1.6.0-openjdk-devel:1.6.0.37-1.13.9.4.el7_1.x86_64
-#   - java-1.6.0-openjdk-javadoc:1.6.0.37-1.13.9.4.el7_1.x86_64
-#   - java-1.6.0-openjdk-src:1.6.0.37-1.13.9.4.el7_1.x86_64
+#   - java-1.6.0-openjdk:1.6.0.38-1.13.10.0.el7_2.x86_64
+#   - java-1.6.0-openjdk-debuginfo:1.6.0.38-1.13.10.0.el7_2.x86_64
+#   - java-1.6.0-openjdk-demo:1.6.0.38-1.13.10.0.el7_2.x86_64
+#   - java-1.6.0-openjdk-devel:1.6.0.38-1.13.10.0.el7_2.x86_64
+#   - java-1.6.0-openjdk-javadoc:1.6.0.38-1.13.10.0.el7_2.x86_64
+#   - java-1.6.0-openjdk-src:1.6.0.38-1.13.10.0.el7_2.x86_64
 #
 # CVE List:
 #   - CVE-2014-0429
@@ -50,9 +50,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:0685
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-openjdk-1.6.0.37 -y 
-sudo yum install java-1.6.0-openjdk-debuginfo-1.6.0.37 -y 
-sudo yum install java-1.6.0-openjdk-demo-1.6.0.37 -y 
-sudo yum install java-1.6.0-openjdk-devel-1.6.0.37 -y 
-sudo yum install java-1.6.0-openjdk-javadoc-1.6.0.37 -y 
-sudo yum install java-1.6.0-openjdk-src-1.6.0.37 -y 
+sudo yum install java-1.6.0-openjdk-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-debuginfo-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-demo-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-devel-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-javadoc-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-src-1.6.0.38 -y 
