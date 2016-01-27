@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1705
 #
 # Security announcement date: 2015-09-03 04:56:57 UTC
-# Script generation date:     2016-01-11 19:16:56 UTC
+# Script generation date:     2016-01-27 19:21:15 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -23,18 +23,18 @@
 #   - bind-license:9.9.4-18.ael7b_1.5.noarch
 #
 # Last versions recommanded by security team:
-#   - bind-license:9.9.4-29.el7_2.1.noarch
-#   - bind-debuginfo:9.9.4-29.el7_2.1.x86_64
-#   - bind-libs:9.9.4-29.el7_2.1.x86_64
-#   - bind-libs-lite:9.9.4-29.el7_2.1.x86_64
-#   - bind-utils:9.9.4-29.el7_2.1.x86_64
-#   - bind:9.9.4-29.el7_2.1.x86_64
-#   - bind-chroot:9.9.4-29.el7_2.1.x86_64
-#   - bind-devel:9.9.4-29.el7_2.1.x86_64
-#   - bind-lite-devel:9.9.4-29.el7_2.1.x86_64
-#   - bind-sdb:9.9.4-29.el7_2.1.x86_64
-#   - bind-sdb-chroot:9.9.4-29.el7_2.1.x86_64
-#   - bind-license:9.9.4-29.el7_2.1.noarch
+#   - bind-license:9.9.4-29.el7_2.2.noarch
+#   - bind-debuginfo:9.9.4-29.el7_2.2.x86_64
+#   - bind-libs:9.9.4-29.el7_2.2.x86_64
+#   - bind-libs-lite:9.9.4-29.el7_2.2.x86_64
+#   - bind-utils:9.9.4-29.el7_2.2.x86_64
+#   - bind:9.9.4-29.el7_2.2.x86_64
+#   - bind-chroot:9.9.4-29.el7_2.2.x86_64
+#   - bind-devel:9.9.4-29.el7_2.2.x86_64
+#   - bind-lite-devel:9.9.4-29.el7_2.2.x86_64
+#   - bind-sdb:9.9.4-29.el7_2.2.x86_64
+#   - bind-sdb-chroot:9.9.4-29.el7_2.2.x86_64
+#   - bind-license:9.9.4-29.el7_2.2.noarch
 #
 # CVE List:
 #   - CVE-2015-5722
