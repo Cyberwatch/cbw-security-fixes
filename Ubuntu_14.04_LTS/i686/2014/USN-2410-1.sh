@@ -4,7 +4,7 @@
 # Security fix for USN-2410-1
 #
 # Security announcement date: 2014-11-19 00:00:00 UTC
-# Script generation date:     2016-01-12 07:01:21 UTC
+# Script generation date:     2016-01-27 19:01:33 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -15,9 +15,9 @@
 #   - oxideqt-codecs-extra:1.3.4-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - liboxideqtcore0:1.11.4-0ubuntu0.14.04.1
-#   - oxideqt-codecs:1.11.4-0ubuntu0.14.04.1
-#   - oxideqt-codecs-extra:1.11.4-0ubuntu0.14.04.1
+#   - liboxideqtcore0:1.12.5-0ubuntu0.14.04.1
+#   - oxideqt-codecs:1.12.5-0ubuntu0.14.04.1
+#   - oxideqt-codecs-extra:1.12.5-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2014-7904
@@ -30,6 +30,6 @@
 #   - https://www.cyberwatch.fr/notices/USN-2410-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade liboxideqtcore0=1.11.4-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade oxideqt-codecs=1.11.4-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade oxideqt-codecs-extra=1.11.4-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade liboxideqtcore0=1.12.5-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade oxideqt-codecs=1.12.5-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade oxideqt-codecs-extra=1.12.5-0ubuntu0.14.04.1 -y

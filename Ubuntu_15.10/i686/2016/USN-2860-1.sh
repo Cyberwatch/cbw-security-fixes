@@ -3,7 +3,7 @@
 # Security fix for USN-2860-1
 #
 # Security announcement date: 2016-01-11 00:00:00 UTC
-# Script generation date:     2016-01-13 07:02:26 UTC
+# Script generation date:     2016-01-27 19:02:41 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -12,7 +12,7 @@
 #   - liboxideqtcore0:1.11.4-0ubuntu0.15.10.1
 #
 # Last versions recommanded by security team:
-#   - liboxideqtcore0:1.11.4-0ubuntu0.15.10.1
+#   - liboxideqtcore0:1.12.5-0ubuntu0.15.10.1
 #
 # CVE List:
 #   - CVE-2015-6789

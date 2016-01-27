@@ -4,7 +4,7 @@
 # Security fix for USN-2652-1
 #
 # Security announcement date: 2015-06-30 00:00:00 UTC
-# Script generation date:     2016-01-12 07:01:57 UTC
+# Script generation date:     2016-01-27 19:02:10 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - liboxideqtcore0:1.7.9-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - liboxideqtcore0:1.11.4-0ubuntu0.14.04.1
+#   - liboxideqtcore0:1.12.5-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2015-1266
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2652-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade liboxideqtcore0=1.11.4-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade liboxideqtcore0=1.12.5-0ubuntu0.14.04.1 -y

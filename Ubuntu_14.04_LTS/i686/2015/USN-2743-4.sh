@@ -4,7 +4,7 @@
 # Security fix for USN-2743-4
 #
 # Security announcement date: 2015-10-05 00:00:00 UTC
-# Script generation date:     2016-01-09 07:02:09 UTC
+# Script generation date:     2016-01-27 19:02:24 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - firefox:41.0.1+build2-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:43.0.4+build3-0ubuntu0.14.04.1
+#   - firefox:44.0+build3-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2015-4500
@@ -42,4 +42,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2743-4
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=43.0.4+build3-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade firefox=44.0+build3-0ubuntu0.14.04.1 -y
