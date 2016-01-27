@@ -3,7 +3,7 @@
 # Security fix for RHSA-2009:0256
 #
 # Security announcement date: 2009-02-04 09:09:14 UTC
-# Script generation date:     2016-01-11 19:11:32 UTC
+# Script generation date:     2016-01-27 07:09:35 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -22,8 +22,8 @@
 #   - xulrunner-devel-unstable:1.9.0.6-1.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - firefox:38.5.0-2.el5_11.x86_64
-#   - firefox-debuginfo:38.5.0-2.el5_11.x86_64
+#   - firefox:38.6.0-1.el5_11.x86_64
+#   - firefox-debuginfo:38.6.0-1.el5_11.x86_64
 #   - nss:3.19.1-2.el5_11.x86_64
 #   - nss-debuginfo:3.19.1-2.el5_11.x86_64
 #   - nss-tools:3.19.1-2.el5_11.x86_64
@@ -47,8 +47,8 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2009:0256
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.5.0 -y 
-sudo yum install firefox-debuginfo-38.5.0 -y 
+sudo yum install firefox-38.6.0 -y 
+sudo yum install firefox-debuginfo-38.6.0 -y 
 sudo yum install nss-3.19.1 -y 
 sudo yum install nss-debuginfo-3.19.1 -y 
 sudo yum install nss-tools-3.19.1 -y 

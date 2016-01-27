@@ -3,7 +3,7 @@
 # Security fix for RHSA-2010:0681
 #
 # Security announcement date: 2010-09-08 01:24:21 UTC
-# Script generation date:     2016-01-11 19:12:06 UTC
+# Script generation date:     2016-01-27 07:10:25 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -24,8 +24,8 @@
 #   - xulrunner-devel:1.9.2.9-1.el5.x86_64
 #
 # Last versions recommanded by security team:
-#   - firefox:38.5.0-2.el5_11.x86_64
-#   - firefox-debuginfo:38.5.0-2.el5_11.x86_64
+#   - firefox:38.6.0-1.el5_11.x86_64
+#   - firefox-debuginfo:38.6.0-1.el5_11.x86_64
 #   - nspr:4.10.8-2.el5_11.x86_64
 #   - nspr-debuginfo:4.10.8-2.el5_11.x86_64
 #   - nss:3.19.1-2.el5_11.x86_64
@@ -56,8 +56,8 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2010:0681
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.5.0 -y 
-sudo yum install firefox-debuginfo-38.5.0 -y 
+sudo yum install firefox-38.6.0 -y 
+sudo yum install firefox-debuginfo-38.6.0 -y 
 sudo yum install nspr-4.10.8 -y 
 sudo yum install nspr-debuginfo-4.10.8 -y 
 sudo yum install nss-3.19.1 -y 

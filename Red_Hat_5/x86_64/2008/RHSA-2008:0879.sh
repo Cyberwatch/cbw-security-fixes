@@ -3,7 +3,7 @@
 # Security fix for RHSA-2008:0879
 #
 # Security announcement date: 2008-09-24 02:20:21 UTC
-# Script generation date:     2016-01-11 19:11:26 UTC
+# Script generation date:     2016-01-27 07:09:29 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -29,8 +29,8 @@
 # Last versions recommanded by security team:
 #   - devhelp:0.12-21.el5.x86_64
 #   - devhelp-debuginfo:0.12-21.el5.x86_64
-#   - firefox:38.5.0-2.el5_11.x86_64
-#   - firefox-debuginfo:38.5.0-2.el5_11.x86_64
+#   - firefox:38.6.0-1.el5_11.x86_64
+#   - firefox-debuginfo:38.6.0-1.el5_11.x86_64
 #   - nss:3.19.1-2.el5_11.x86_64
 #   - nss-debuginfo:3.19.1-2.el5_11.x86_64
 #   - nss-tools:3.19.1-2.el5_11.x86_64
@@ -62,8 +62,8 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install devhelp-0.12 -y 
 sudo yum install devhelp-debuginfo-0.12 -y 
-sudo yum install firefox-38.5.0 -y 
-sudo yum install firefox-debuginfo-38.5.0 -y 
+sudo yum install firefox-38.6.0 -y 
+sudo yum install firefox-debuginfo-38.6.0 -y 
 sudo yum install nss-3.19.1 -y 
 sudo yum install nss-debuginfo-3.19.1 -y 
 sudo yum install nss-tools-3.19.1 -y 

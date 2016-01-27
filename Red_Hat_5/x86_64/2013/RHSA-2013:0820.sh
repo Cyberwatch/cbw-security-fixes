@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0820
 #
 # Security announcement date: 2013-05-14 20:12:03 UTC
-# Script generation date:     2016-01-11 19:14:06 UTC
+# Script generation date:     2016-01-27 07:12:32 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -16,8 +16,8 @@
 #   - xulrunner-devel:17.0.6-1.el5_9.x86_64
 #
 # Last versions recommanded by security team:
-#   - firefox:38.5.0-2.el5_11.x86_64
-#   - firefox-debuginfo:38.5.0-2.el5_11.x86_64
+#   - firefox:38.6.0-1.el5_11.x86_64
+#   - firefox-debuginfo:38.6.0-1.el5_11.x86_64
 #   - xulrunner:17.0.10-1.el5_10.x86_64
 #   - xulrunner-debuginfo:17.0.10-1.el5_10.x86_64
 #   - xulrunner-devel:17.0.10-1.el5_10.x86_64
@@ -38,8 +38,8 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:0820
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.5.0 -y 
-sudo yum install firefox-debuginfo-38.5.0 -y 
+sudo yum install firefox-38.6.0 -y 
+sudo yum install firefox-debuginfo-38.6.0 -y 
 sudo yum install xulrunner-17.0.10 -y 
 sudo yum install xulrunner-debuginfo-17.0.10 -y 
 sudo yum install xulrunner-devel-17.0.10 -y 
