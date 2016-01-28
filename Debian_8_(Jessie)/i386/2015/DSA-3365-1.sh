@@ -4,7 +4,7 @@
 # Security fix for DSA-3365-1
 #
 # Security announcement date: 2015-09-23 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:02 UTC
+# Script generation date:     2016-01-28 07:07:18 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - iceweasel:38.3.0esr-1~deb8u1
 #
 # Last versions recommanded by security team:
-#   - iceweasel:38.5.0esr-1~deb8u2
+#   - iceweasel:38.6.0esr-1~deb8u1
 #
 # CVE List:
 #   - CVE-2015-4500
@@ -35,4 +35,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3365-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade iceweasel=38.5.0esr-1~deb8u2 -y
+sudo apt-get install --only-upgrade iceweasel=38.6.0esr-1~deb8u1 -y
