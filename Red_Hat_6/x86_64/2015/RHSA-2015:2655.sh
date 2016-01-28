@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:2655
 #
 # Security announcement date: 2015-12-16 18:22:49 UTC
-# Script generation date:     2016-01-27 19:21:38 UTC
+# Script generation date:     2016-01-28 19:17:40 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -18,13 +18,13 @@
 #   - bind-sdb:9.8.2-0.37.rc1.el6_7.5.x86_64
 #
 # Last versions recommanded by security team:
-#   - bind-debuginfo:9.8.2-0.37.rc1.el6_7.6.x86_64
-#   - bind-libs:9.8.2-0.37.rc1.el6_7.6.x86_64
-#   - bind-utils:9.8.2-0.37.rc1.el6_7.6.x86_64
-#   - bind:9.8.2-0.37.rc1.el6_7.6.x86_64
-#   - bind-chroot:9.8.2-0.37.rc1.el6_7.6.x86_64
-#   - bind-devel:9.8.2-0.37.rc1.el6_7.6.x86_64
-#   - bind-sdb:9.8.2-0.37.rc1.el6_7.6.x86_64
+#   - bind-debuginfo:9.8.2-0.30.rc1.el6_6.4.x86_64
+#   - bind-libs:9.8.2-0.30.rc1.el6_6.4.x86_64
+#   - bind-utils:9.8.2-0.30.rc1.el6_6.4.x86_64
+#   - bind:9.8.2-0.30.rc1.el6_6.4.x86_64
+#   - bind-chroot:9.8.2-0.30.rc1.el6_6.4.x86_64
+#   - bind-devel:9.8.2-0.30.rc1.el6_6.4.x86_64
+#   - bind-sdb:9.8.2-0.30.rc1.el6_6.4.x86_64
 #
 # CVE List:
 #   - CVE-2015-8000

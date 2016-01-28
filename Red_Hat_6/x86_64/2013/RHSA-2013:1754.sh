@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:1754
 #
 # Security announcement date: 2013-11-21 05:56:19 UTC
-# Script generation date:     2016-01-11 19:14:33 UTC
+# Script generation date:     2016-01-28 19:14:54 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - qemu-kvm-rhev-tools:0.12.1.2-2.415.el6.x86_64
 #
 # Last versions recommanded by security team:
-#   - qemu-img-rhev:0.12.1.2-2.479.el6_7.3.x86_64
-#   - qemu-kvm-rhev:0.12.1.2-2.479.el6_7.3.x86_64
-#   - qemu-kvm-rhev-debuginfo:0.12.1.2-2.479.el6_7.3.x86_64
-#   - qemu-kvm-rhev-tools:0.12.1.2-2.479.el6_7.3.x86_64
+#   - qemu-img-rhev:0.12.1.2-2.479.el6_7.4.x86_64
+#   - qemu-kvm-rhev:0.12.1.2-2.479.el6_7.4.x86_64
+#   - qemu-kvm-rhev-debuginfo:0.12.1.2-2.479.el6_7.4.x86_64
+#   - qemu-kvm-rhev-tools:0.12.1.2-2.479.el6_7.4.x86_64
 #
 # CVE List:
 #   - CVE-2013-4344

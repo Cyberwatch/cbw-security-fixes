@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1076
 #
 # Security announcement date: 2014-08-19 09:33:01 UTC
-# Script generation date:     2016-01-11 19:15:21 UTC
+# Script generation date:     2016-01-28 19:15:45 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - qemu-kvm-rhev-tools:0.12.1.2-2.415.el6_5.14.x86_64
 #
 # Last versions recommanded by security team:
-#   - qemu-img-rhev:0.12.1.2-2.479.el6_7.3.x86_64
-#   - qemu-kvm-rhev:0.12.1.2-2.479.el6_7.3.x86_64
-#   - qemu-kvm-rhev-debuginfo:0.12.1.2-2.479.el6_7.3.x86_64
-#   - qemu-kvm-rhev-tools:0.12.1.2-2.479.el6_7.3.x86_64
+#   - qemu-img-rhev:0.12.1.2-2.479.el6_7.4.x86_64
+#   - qemu-kvm-rhev:0.12.1.2-2.479.el6_7.4.x86_64
+#   - qemu-kvm-rhev-debuginfo:0.12.1.2-2.479.el6_7.4.x86_64
+#   - qemu-kvm-rhev-tools:0.12.1.2-2.479.el6_7.4.x86_64
 #
 # CVE List:
 #   - CVE-2014-0222
