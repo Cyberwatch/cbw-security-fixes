@@ -3,7 +3,7 @@
 # Security fix for USN-2830-1
 #
 # Security announcement date: 2015-12-07 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:28 UTC
+# Script generation date:     2016-01-28 19:02:35 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - libssl1.0.0:1.0.2d-0ubuntu1.2
 #
 # Last versions recommanded by security team:
-#   - libssl1.0.0:1.0.2d-0ubuntu1.2
+#   - libssl1.0.0:1.0.2d-0ubuntu1.3
 #
 # CVE List:
 #   - CVE-2015-1794
