@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:1140
 #
 # Security announcement date: 2013-08-07 12:23:59 UTC
-# Script generation date:     2016-01-06 19:07:35 UTC
+# Script generation date:     2016-01-28 07:13:17 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -14,7 +14,7 @@
 #   - xulrunner-devel:17.0.8-3.el6.centos.x86_64
 #
 # Last versions recommanded by security team:
-#   - firefox:38.5.0-2.el6.centos.x86_64
+#   - firefox:38.6.0-1.el6.centos.x86_64
 #   - xulrunner:17.0.10-1.el6.centos.x86_64
 #   - xulrunner-devel:17.0.10-1.el6.centos.x86_64
 #
@@ -30,6 +30,6 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2013:1140
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.5.0 -y 
+sudo yum install firefox-38.6.0 -y 
 sudo yum install xulrunner-17.0.10 -y 
 sudo yum install xulrunner-devel-17.0.10 -y 

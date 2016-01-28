@@ -3,7 +3,7 @@
 # Security fix for CESA-2010:0501
 #
 # Security announcement date: 2010-06-24 16:14:17 UTC
-# Script generation date:     2016-01-06 19:06:38 UTC
+# Script generation date:     2016-01-28 07:12:19 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -29,7 +29,7 @@
 #   - devhelp:0.12-23.el5_9.x86_64
 #   - devhelp-devel:0.12-23.el5_9.x86_64
 #   - esc:1.1.0-12.el5.x86_64
-#   - firefox:38.5.0-2.el5.centos.x86_64
+#   - firefox:38.6.0-1.el5.centos.x86_64
 #   - gnome-python2-extras:2.14.2-6.el5.x86_64
 #   - gnome-python2-gtkhtml2:2.14.2-6.el5.x86_64
 #   - gnome-python2-gtkmozembed:2.14.2-6.el5.x86_64
@@ -62,7 +62,7 @@
 sudo yum install devhelp-0.12 -y 
 sudo yum install devhelp-devel-0.12 -y 
 sudo yum install esc-1.1.0 -y 
-sudo yum install firefox-38.5.0 -y 
+sudo yum install firefox-38.6.0 -y 
 sudo yum install gnome-python2-extras-2.14.2 -y 
 sudo yum install gnome-python2-gtkhtml2-2.14.2 -y 
 sudo yum install gnome-python2-gtkmozembed-2.14.2 -y 

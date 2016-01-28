@@ -3,7 +3,7 @@
 # Security fix for CESA-2010:0062
 #
 # Security announcement date: 2010-01-20 17:59:57 UTC
-# Script generation date:     2016-01-06 19:06:33 UTC
+# Script generation date:     2016-01-28 07:12:14 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -19,14 +19,14 @@
 #   - caching-nameserver:9.3.6-4.P1.el5_4.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - bind:9.3.6-25.P1.el5_11.5.x86_64
-#   - bind-chroot:9.3.6-25.P1.el5_11.5.x86_64
-#   - bind-devel:9.3.6-25.P1.el5_11.5.x86_64
-#   - bind-libbind-devel:9.3.6-25.P1.el5_11.5.x86_64
-#   - bind-libs:9.3.6-25.P1.el5_11.5.x86_64
-#   - bind-sdb:9.3.6-25.P1.el5_11.5.x86_64
-#   - bind-utils:9.3.6-25.P1.el5_11.5.x86_64
-#   - caching-nameserver:9.3.6-25.P1.el5_11.5.x86_64
+#   - bind:9.3.6-25.P1.el5_11.6.x86_64
+#   - bind-chroot:9.3.6-25.P1.el5_11.6.x86_64
+#   - bind-devel:9.3.6-25.P1.el5_11.6.x86_64
+#   - bind-libbind-devel:9.3.6-25.P1.el5_11.6.x86_64
+#   - bind-libs:9.3.6-25.P1.el5_11.6.x86_64
+#   - bind-sdb:9.3.6-25.P1.el5_11.6.x86_64
+#   - bind-utils:9.3.6-25.P1.el5_11.6.x86_64
+#   - caching-nameserver:9.3.6-25.P1.el5_11.6.x86_64
 #
 # CVE List:
 #   - CVE-2010-0097

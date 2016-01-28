@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:1984
 #
 # Security announcement date: 2014-12-12 11:07:42 UTC
-# Script generation date:     2016-01-06 19:08:03 UTC
+# Script generation date:     2016-01-28 07:13:47 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - bind-utils:9.8.2-0.30.rc1.el6_6.1.x86_64
 #
 # Last versions recommanded by security team:
-#   - bind:9.8.2-0.37.rc1.el6_7.5.x86_64
-#   - bind-chroot:9.8.2-0.37.rc1.el6_7.5.x86_64
-#   - bind-devel:9.8.2-0.37.rc1.el6_7.5.x86_64
-#   - bind-libs:9.8.2-0.37.rc1.el6_7.5.x86_64
-#   - bind-sdb:9.8.2-0.37.rc1.el6_7.5.x86_64
-#   - bind-utils:9.8.2-0.37.rc1.el6_7.5.x86_64
+#   - bind:9.8.2-0.37.rc1.el6_7.6.x86_64
+#   - bind-chroot:9.8.2-0.37.rc1.el6_7.6.x86_64
+#   - bind-devel:9.8.2-0.37.rc1.el6_7.6.x86_64
+#   - bind-libs:9.8.2-0.37.rc1.el6_7.6.x86_64
+#   - bind-sdb:9.8.2-0.37.rc1.el6_7.6.x86_64
+#   - bind-utils:9.8.2-0.37.rc1.el6_7.6.x86_64
 #
 # CVE List:
 #   - CVE-2014-8500

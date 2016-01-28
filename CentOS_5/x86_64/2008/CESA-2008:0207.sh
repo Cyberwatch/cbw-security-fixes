@@ -3,7 +3,7 @@
 # Security fix for CESA-2008:0207
 #
 # Security announcement date: 2008-03-27 23:06:04 UTC
-# Script generation date:     2016-01-06 19:06:12 UTC
+# Script generation date:     2016-01-28 07:11:52 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -23,7 +23,7 @@
 #   - seamonkey-nss-devel:1.0.9-0.16.el3.centos3.x86_64
 #
 # Last versions recommanded by security team:
-#   - firefox:38.5.0-2.el5.centos.x86_64
+#   - firefox:38.6.0-1.el5.centos.x86_64
 #   - firefox-devel:1.5.0.12-15.el5.centos.x86_64
 #   - seamonkey:1.0.9-0.16.el3.centos3.x86_64
 #   - seamonkey-chat:1.0.9-0.16.el3.centos3.x86_64
@@ -49,7 +49,7 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2008:0207
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.5.0 -y 
+sudo yum install firefox-38.6.0 -y 
 sudo yum install firefox-devel-1.5.0.12 -y 
 sudo yum install seamonkey-1.0.9 -y 
 sudo yum install seamonkey-chat-1.0.9 -y 

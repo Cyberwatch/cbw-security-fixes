@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:0672
 #
 # Security announcement date: 2015-03-11 11:18:31 UTC
-# Script generation date:     2016-01-06 19:08:07 UTC
+# Script generation date:     2016-01-28 07:13:51 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - bind-utils:9.8.2-0.30.rc1.el6_6.2.x86_64
 #
 # Last versions recommanded by security team:
-#   - bind:9.8.2-0.37.rc1.el6_7.5.x86_64
-#   - bind-chroot:9.8.2-0.37.rc1.el6_7.5.x86_64
-#   - bind-devel:9.8.2-0.37.rc1.el6_7.5.x86_64
-#   - bind-libs:9.8.2-0.37.rc1.el6_7.5.x86_64
-#   - bind-sdb:9.8.2-0.37.rc1.el6_7.5.x86_64
-#   - bind-utils:9.8.2-0.37.rc1.el6_7.5.x86_64
+#   - bind:9.8.2-0.37.rc1.el6_7.6.x86_64
+#   - bind-chroot:9.8.2-0.37.rc1.el6_7.6.x86_64
+#   - bind-devel:9.8.2-0.37.rc1.el6_7.6.x86_64
+#   - bind-libs:9.8.2-0.37.rc1.el6_7.6.x86_64
+#   - bind-sdb:9.8.2-0.37.rc1.el6_7.6.x86_64
+#   - bind-utils:9.8.2-0.37.rc1.el6_7.6.x86_64
 #
 # CVE List:
 #   - CVE-2015-1349
