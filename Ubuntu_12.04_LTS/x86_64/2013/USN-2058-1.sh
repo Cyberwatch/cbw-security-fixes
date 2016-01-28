@@ -4,7 +4,7 @@
 # Security fix for USN-2058-1
 #
 # Security announcement date: 2013-12-18 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:00 UTC
+# Script generation date:     2016-01-28 07:01:08 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libcurl3-gnutls:7.22.0-3ubuntu4.6
 #
 # Last versions recommanded by security team:
-#   - libcurl3-gnutls:7.22.0-3ubuntu4.14
+#   - libcurl3-gnutls:7.22.0-3ubuntu4.15
 #
 # CVE List:
 #   - CVE-2013-6422
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2058-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libcurl3-gnutls=7.22.0-3ubuntu4.14 -y
+sudo apt-get install --only-upgrade libcurl3-gnutls=7.22.0-3ubuntu4.15 -y

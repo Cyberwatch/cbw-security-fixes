@@ -4,7 +4,7 @@
 # Security fix for USN-2591-1
 #
 # Security announcement date: 2015-04-30 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:52 UTC
+# Script generation date:     2016-01-28 07:01:58 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -15,9 +15,9 @@
 #   - libcurl3:7.35.0-1ubuntu2.5
 #
 # Last versions recommanded by security team:
-#   - libcurl3-nss:7.35.0-1ubuntu2.5
-#   - libcurl3-gnutls:7.35.0-1ubuntu2.5
-#   - libcurl3:7.35.0-1ubuntu2.5
+#   - libcurl3-nss:7.35.0-1ubuntu2.6
+#   - libcurl3-gnutls:7.35.0-1ubuntu2.6
+#   - libcurl3:7.35.0-1ubuntu2.6
 #
 # CVE List:
 #   - CVE-2015-3143
@@ -30,6 +30,6 @@
 #   - https://www.cyberwatch.fr/notices/USN-2591-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libcurl3-nss=7.35.0-1ubuntu2.5 -y
-sudo apt-get install --only-upgrade libcurl3-gnutls=7.35.0-1ubuntu2.5 -y
-sudo apt-get install --only-upgrade libcurl3=7.35.0-1ubuntu2.5 -y
+sudo apt-get install --only-upgrade libcurl3-nss=7.35.0-1ubuntu2.6 -y
+sudo apt-get install --only-upgrade libcurl3-gnutls=7.35.0-1ubuntu2.6 -y
+sudo apt-get install --only-upgrade libcurl3=7.35.0-1ubuntu2.6 -y
