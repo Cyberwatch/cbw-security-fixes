@@ -4,7 +4,7 @@
 # Security fix for DSA-2447-1
 #
 # Security announcement date: 2012-04-04 00:00:00 UTC
-# Script generation date:     2016-01-26 07:03:01 UTC
+# Script generation date:     2016-01-30 19:06:08 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - tiff:3.9.4-5+squeeze4
 #
 # Last versions recommanded by security team:
-#   - tiff:3.9.4-5+squeeze13
+#   - tiff:3.9.4-5+squeeze14
 #
 # CVE List:
 #   - CVE-2012-1173
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2447-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tiff=3.9.4-5+squeeze13 -y
+sudo apt-get install --only-upgrade tiff=3.9.4-5+squeeze14 -y

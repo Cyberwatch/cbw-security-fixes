@@ -4,7 +4,7 @@
 # Security fix for DSA-2744-1
 #
 # Security announcement date: 2013-08-27 00:00:00 UTC
-# Script generation date:     2016-01-26 07:03:20 UTC
+# Script generation date:     2016-01-30 19:06:25 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - tiff:3.9.4-5+squeeze10
 #
 # Last versions recommanded by security team:
-#   - tiff:3.9.4-5+squeeze13
+#   - tiff:3.9.4-5+squeeze14
 #
 # CVE List:
 #   - CVE-2013-4231
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2744-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tiff=3.9.4-5+squeeze13 -y
+sudo apt-get install --only-upgrade tiff=3.9.4-5+squeeze14 -y
