@@ -4,7 +4,7 @@
 # Security fix for DLA-391-1
 #
 # Security announcement date: 2016-01-16 00:00:00 UTC
-# Script generation date:     2016-01-18 07:10:36 UTC
+# Script generation date:     2016-01-31 07:07:52 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - prosody:0.7.0-1squeeze1+deb6u1
 #
 # Last versions recommanded by security team:
-#   - prosody:0.7.0-1squeeze1+deb6u1
+#   - prosody:0.7.0-1squeeze1+deb6u2
 #
 # CVE List:
 #   - CVE-2016-1232
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-391-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade prosody=0.7.0-1squeeze1+deb6u1 -y
+sudo apt-get install --only-upgrade prosody=0.7.0-1squeeze1+deb6u2 -y
