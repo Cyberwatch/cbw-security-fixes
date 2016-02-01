@@ -4,7 +4,7 @@
 # Security fix for DLA-359-1
 #
 # Security announcement date: 2015-12-04 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:36 UTC
+# Script generation date:     2016-02-01 07:07:50 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - mysql-5.5:5.5.46-0+deb6u1
 #
 # Last versions recommanded by security team:
-#   - mysql-5.5:5.5.46-0+deb6u1
+#   - mysql-5.5:5.5.47-0+deb6u1
 #
 # CVE List:
 #   - CVE-2015-0499
@@ -46,4 +46,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-359-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mysql-5.5=5.5.46-0+deb6u1 -y
+sudo apt-get install --only-upgrade mysql-5.5=5.5.47-0+deb6u1 -y
