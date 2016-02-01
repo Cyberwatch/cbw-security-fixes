@@ -4,7 +4,7 @@
 # Security fix for USN-2516-2
 #
 # Security announcement date: 2015-02-28 00:00:00 UTC
-# Script generation date:     2016-01-31 19:01:48 UTC
+# Script generation date:     2016-02-01 19:01:48 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -350,7 +350,7 @@
 #   - linux-image-3.13.0-46-powerpc64-emb:3.13.0-46.76
 #   - ppp-modules-3.13.0-46-powerpc64-smp-di:3.13.0-46.76
 #   - serial-modules-3.13.0-46-powerpc-smp-di:3.13.0-46.76
-#   - linux-libc-dev:3.13.0-76.120
+#   - linux-libc-dev:3.13.0-77.121
 #   - linux-headers-3.13.0-46-generic-lpae:3.13.0-46.76
 #   - virtio-modules-3.13.0-46-generic-di:3.13.0-46.76
 #   - linux-udebs-lowlatency:3.13.0-46.76
@@ -631,7 +631,7 @@ sudo apt-get install --only-upgrade kernel-image-3.13.0-46-powerpc-e500-di=3.13.
 sudo apt-get install --only-upgrade linux-image-3.13.0-46-powerpc64-emb=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade ppp-modules-3.13.0-46-powerpc64-smp-di=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade serial-modules-3.13.0-46-powerpc-smp-di=3.13.0-46.76 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-76.120 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-77.121 -y
 sudo apt-get install --only-upgrade linux-headers-3.13.0-46-generic-lpae=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade virtio-modules-3.13.0-46-generic-di=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade linux-udebs-lowlatency=3.13.0-46.76 -y
