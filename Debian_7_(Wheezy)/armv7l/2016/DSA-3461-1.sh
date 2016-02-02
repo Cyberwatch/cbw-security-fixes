@@ -3,8 +3,8 @@
 #
 # Security fix for DSA-3461-1
 #
-# Security announcement date: 2016-01-30 00:00:00 UTC
-# Script generation date:     2016-02-01 07:04:04 UTC
+# Security announcement date: 2016-01-31 00:00:00 UTC
+# Script generation date:     2016-02-02 07:07:22 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
