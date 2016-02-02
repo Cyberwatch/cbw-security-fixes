@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:0033
 #
 # Security announcement date: 2015-01-12 17:42:12 UTC
-# Script generation date:     2016-01-21 19:12:29 UTC
+# Script generation date:     2016-02-02 19:12:33 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -127,8 +127,8 @@
 #   - xalan-j2:2.7.0-9.8.el6.noarch
 #   - PyYAML:3.10-3.1.el6.x86_64
 #   - PyYAML-debuginfo:3.10-3.1.el6.x86_64
-#   - java-1.6.0-ibm:1.6.0.16.15-1jpp.1.el6_7.x86_64
-#   - java-1.6.0-ibm-devel:1.6.0.16.15-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm:1.6.0.16.20-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm-devel:1.6.0.16.20-1jpp.1.el6_7.x86_64
 #   - libreadline-java:0.8.0-24.3.el6.x86_64
 #   - libreadline-java-debuginfo:0.8.0-24.3.el6.x86_64
 #   - libyaml:0.1.3-4.el6_6.x86_64
@@ -197,8 +197,8 @@ sudo yum install struts-taglib-1.3.10 -y
 sudo yum install xalan-j2-2.7.0 -y 
 sudo yum install PyYAML-3.10 -y 
 sudo yum install PyYAML-debuginfo-3.10 -y 
-sudo yum install java-1.6.0-ibm-1.6.0.16.15 -y 
-sudo yum install java-1.6.0-ibm-devel-1.6.0.16.15 -y 
+sudo yum install java-1.6.0-ibm-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm-devel-1.6.0.16.20 -y 
 sudo yum install libreadline-java-0.8.0 -y 
 sudo yum install libreadline-java-debuginfo-0.8.0 -y 
 sudo yum install libyaml-0.1.3 -y 
