@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1943
 #
 # Security announcement date: 2015-10-28 09:28:27 UTC
-# Script generation date:     2016-01-06 19:08:22 UTC
+# Script generation date:     2016-02-02 07:14:02 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -18,13 +18,13 @@
 #   - qemu-kvm-tools:1.5.3-86.el7_1.8.x86_64
 #
 # Last versions recommanded by security team:
-#   - libcacard:1.5.3-86.el7_1.8.x86_64
-#   - libcacard-devel:1.5.3-86.el7_1.8.x86_64
-#   - libcacard-tools:1.5.3-86.el7_1.8.x86_64
-#   - qemu-img:1.5.3-86.el7_1.8.x86_64
-#   - qemu-kvm:1.5.3-86.el7_1.8.x86_64
-#   - qemu-kvm-common:1.5.3-86.el7_1.8.x86_64
-#   - qemu-kvm-tools:1.5.3-86.el7_1.8.x86_64
+#   - libcacard:1.5.3-105.el7_2.3.x86_64
+#   - libcacard-devel:1.5.3-105.el7_2.3.x86_64
+#   - libcacard-tools:1.5.3-105.el7_2.3.x86_64
+#   - qemu-img:1.5.3-105.el7_2.3.x86_64
+#   - qemu-kvm:1.5.3-105.el7_2.3.x86_64
+#   - qemu-kvm-common:1.5.3-105.el7_2.3.x86_64
+#   - qemu-kvm-tools:1.5.3-105.el7_2.3.x86_64
 #
 # CVE List:
 #   - CVE-2015-1779

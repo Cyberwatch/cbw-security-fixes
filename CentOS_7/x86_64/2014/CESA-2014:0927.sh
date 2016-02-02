@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0927
 #
 # Security announcement date: 2014-07-25 13:23:24 UTC
-# Script generation date:     2016-01-06 19:07:52 UTC
+# Script generation date:     2016-02-02 07:13:31 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -19,14 +19,14 @@
 #   - qemu-kvm-tools:1.5.3-60.el7_0.5.x86_64
 #
 # Last versions recommanded by security team:
-#   - libcacard:1.5.3-86.el7_1.8.x86_64
-#   - libcacard-devel:1.5.3-86.el7_1.8.x86_64
-#   - libcacard-tools:1.5.3-86.el7_1.8.x86_64
+#   - libcacard:1.5.3-105.el7_2.3.x86_64
+#   - libcacard-devel:1.5.3-105.el7_2.3.x86_64
+#   - libcacard-tools:1.5.3-105.el7_2.3.x86_64
 #   - qemu-guest-agent:1.5.3-60.el7_0.10.x86_64
-#   - qemu-img:1.5.3-86.el7_1.8.x86_64
-#   - qemu-kvm:1.5.3-86.el7_1.8.x86_64
-#   - qemu-kvm-common:1.5.3-86.el7_1.8.x86_64
-#   - qemu-kvm-tools:1.5.3-86.el7_1.8.x86_64
+#   - qemu-img:1.5.3-105.el7_2.3.x86_64
+#   - qemu-kvm:1.5.3-105.el7_2.3.x86_64
+#   - qemu-kvm-common:1.5.3-105.el7_2.3.x86_64
+#   - qemu-kvm-tools:1.5.3-105.el7_2.3.x86_64
 #
 # CVE List:
 #   - CVE-2013-4527
