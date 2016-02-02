@@ -4,7 +4,7 @@
 # Security fix for USN-2033-1
 #
 # Security announcement date: 2013-11-21 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:59 UTC
+# Script generation date:     2016-02-02 07:01:08 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -18,12 +18,12 @@
 #   - openjdk-6-jre-lib:6b27-1.12.6-1ubuntu0.12.04.4
 #
 # Last versions recommanded by security team:
-#   - icedtea-6-jre-cacao:6b37-1.13.9-1ubuntu0.12.04.1
-#   - icedtea-6-jre-jamvm:6b37-1.13.9-1ubuntu0.12.04.1
-#   - openjdk-6-jre:6b37-1.13.9-1ubuntu0.12.04.1
-#   - openjdk-6-jre-headless:6b37-1.13.9-1ubuntu0.12.04.1
+#   - icedtea-6-jre-cacao:6b38-1.13.10-0ubuntu0.12.04.1
+#   - icedtea-6-jre-jamvm:6b38-1.13.10-0ubuntu0.12.04.1
+#   - openjdk-6-jre:6b38-1.13.10-0ubuntu0.12.04.1
+#   - openjdk-6-jre-headless:6b38-1.13.10-0ubuntu0.12.04.1
 #   - openjdk-6-jre-zero:6b27-1.12.6-1ubuntu0.12.04.4
-#   - openjdk-6-jre-lib:6b37-1.13.9-1ubuntu0.12.04.1
+#   - openjdk-6-jre-lib:6b38-1.13.10-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2013-3829
@@ -58,9 +58,9 @@
 #   - https://www.cyberwatch.fr/notices/USN-2033-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedtea-6-jre-cacao=6b37-1.13.9-1ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade icedtea-6-jre-jamvm=6b37-1.13.9-1ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade openjdk-6-jre=6b37-1.13.9-1ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade openjdk-6-jre-headless=6b37-1.13.9-1ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade icedtea-6-jre-cacao=6b38-1.13.10-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade icedtea-6-jre-jamvm=6b38-1.13.10-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jre=6b38-1.13.10-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jre-headless=6b38-1.13.10-0ubuntu0.12.04.1 -y
 sudo apt-get install --only-upgrade openjdk-6-jre-zero=6b27-1.12.6-1ubuntu0.12.04.4 -y
-sudo apt-get install --only-upgrade openjdk-6-jre-lib=6b37-1.13.9-1ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jre-lib=6b38-1.13.10-0ubuntu0.12.04.1 -y
