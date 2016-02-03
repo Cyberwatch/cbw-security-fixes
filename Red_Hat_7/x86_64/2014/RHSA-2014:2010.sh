@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:2010
 #
 # Security announcement date: 2014-12-18 08:38:17 UTC
-# Script generation date:     2016-01-26 07:18:47 UTC
+# Script generation date:     2016-02-03 07:15:47 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -29,24 +29,24 @@
 #   - python-perf:3.10.0-123.13.2.el7.x86_64
 #
 # Last versions recommanded by security team:
-#   - kernel-abi-whitelists:3.10.0-327.4.5.el7.noarch
-#   - kernel:3.10.0-327.4.5.el7.x86_64
-#   - kernel-debug:3.10.0-327.4.5.el7.x86_64
-#   - kernel-debug-debuginfo:3.10.0-327.4.5.el7.x86_64
-#   - kernel-debug-devel:3.10.0-327.4.5.el7.x86_64
-#   - kernel-debuginfo:3.10.0-327.4.5.el7.x86_64
-#   - kernel-debuginfo-common-x86_64:3.10.0-327.4.5.el7.x86_64
-#   - kernel-devel:3.10.0-327.4.5.el7.x86_64
-#   - kernel-headers:3.10.0-327.4.5.el7.x86_64
-#   - kernel-tools:3.10.0-327.4.5.el7.x86_64
-#   - kernel-tools-debuginfo:3.10.0-327.4.5.el7.x86_64
-#   - kernel-tools-libs:3.10.0-327.4.5.el7.x86_64
-#   - perf:3.10.0-327.4.5.el7.x86_64
-#   - perf-debuginfo:3.10.0-327.4.5.el7.x86_64
-#   - python-perf-debuginfo:3.10.0-327.4.5.el7.x86_64
-#   - kernel-doc:3.10.0-327.4.5.el7.noarch
-#   - kernel-tools-libs-devel:3.10.0-327.4.5.el7.x86_64
-#   - python-perf:3.10.0-327.4.5.el7.x86_64
+#   - kernel-abi-whitelists:3.10.0-229.26.2.ael7b.noarch
+#   - kernel:3.10.0-229.26.2.el7.x86_64
+#   - kernel-debug:3.10.0-229.26.2.el7.x86_64
+#   - kernel-debug-debuginfo:3.10.0-229.26.2.el7.x86_64
+#   - kernel-debug-devel:3.10.0-229.26.2.el7.x86_64
+#   - kernel-debuginfo:3.10.0-229.26.2.el7.x86_64
+#   - kernel-debuginfo-common-x86_64:3.10.0-229.26.2.el7.x86_64
+#   - kernel-devel:3.10.0-229.26.2.el7.x86_64
+#   - kernel-headers:3.10.0-229.26.2.el7.x86_64
+#   - kernel-tools:3.10.0-229.26.2.el7.x86_64
+#   - kernel-tools-debuginfo:3.10.0-229.26.2.el7.x86_64
+#   - kernel-tools-libs:3.10.0-229.26.2.el7.x86_64
+#   - perf:3.10.0-229.26.2.el7.x86_64
+#   - perf-debuginfo:3.10.0-229.26.2.el7.x86_64
+#   - python-perf-debuginfo:3.10.0-229.26.2.el7.x86_64
+#   - kernel-doc:3.10.0-229.26.2.ael7b.noarch
+#   - kernel-tools-libs-devel:3.10.0-229.26.2.el7.x86_64
+#   - python-perf:3.10.0-229.26.2.el7.x86_64
 #
 # CVE List:
 #   - CVE-2014-9322
