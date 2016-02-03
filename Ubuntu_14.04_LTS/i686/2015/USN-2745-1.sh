@@ -4,7 +4,7 @@
 # Security fix for USN-2745-1
 #
 # Security announcement date: 2015-09-24 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:14 UTC
+# Script generation date:     2016-02-03 19:02:26 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -20,14 +20,14 @@
 #   - qemu-system-mips:2.0.0+dfsg-2ubuntu1.19
 #
 # Last versions recommanded by security team:
-#   - qemu-system-misc:2.0.0+dfsg-2ubuntu1.21
-#   - qemu-system:2.0.0+dfsg-2ubuntu1.21
+#   - qemu-system-misc:2.0.0+dfsg-2ubuntu1.22
+#   - qemu-system:2.0.0+dfsg-2ubuntu1.22
 #   - qemu-system-aarch64:2.0.0+dfsg-2ubuntu1.19
-#   - qemu-system-x86:2.0.0+dfsg-2ubuntu1.21
-#   - qemu-system-sparc:2.0.0+dfsg-2ubuntu1.21
-#   - qemu-system-arm:2.0.0+dfsg-2ubuntu1.21
-#   - qemu-system-ppc:2.0.0+dfsg-2ubuntu1.21
-#   - qemu-system-mips:2.0.0+dfsg-2ubuntu1.21
+#   - qemu-system-x86:2.0.0+dfsg-2ubuntu1.22
+#   - qemu-system-sparc:2.0.0+dfsg-2ubuntu1.22
+#   - qemu-system-arm:2.0.0+dfsg-2ubuntu1.22
+#   - qemu-system-ppc:2.0.0+dfsg-2ubuntu1.22
+#   - qemu-system-mips:2.0.0+dfsg-2ubuntu1.22
 #
 # CVE List:
 #   - CVE-2015-5239
@@ -40,11 +40,11 @@
 #   - https://www.cyberwatch.fr/notices/USN-2745-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu-system-misc=2.0.0+dfsg-2ubuntu1.21 -y
-sudo apt-get install --only-upgrade qemu-system=2.0.0+dfsg-2ubuntu1.21 -y
+sudo apt-get install --only-upgrade qemu-system-misc=2.0.0+dfsg-2ubuntu1.22 -y
+sudo apt-get install --only-upgrade qemu-system=2.0.0+dfsg-2ubuntu1.22 -y
 sudo apt-get install --only-upgrade qemu-system-aarch64=2.0.0+dfsg-2ubuntu1.19 -y
-sudo apt-get install --only-upgrade qemu-system-x86=2.0.0+dfsg-2ubuntu1.21 -y
-sudo apt-get install --only-upgrade qemu-system-sparc=2.0.0+dfsg-2ubuntu1.21 -y
-sudo apt-get install --only-upgrade qemu-system-arm=2.0.0+dfsg-2ubuntu1.21 -y
-sudo apt-get install --only-upgrade qemu-system-ppc=2.0.0+dfsg-2ubuntu1.21 -y
-sudo apt-get install --only-upgrade qemu-system-mips=2.0.0+dfsg-2ubuntu1.21 -y
+sudo apt-get install --only-upgrade qemu-system-x86=2.0.0+dfsg-2ubuntu1.22 -y
+sudo apt-get install --only-upgrade qemu-system-sparc=2.0.0+dfsg-2ubuntu1.22 -y
+sudo apt-get install --only-upgrade qemu-system-arm=2.0.0+dfsg-2ubuntu1.22 -y
+sudo apt-get install --only-upgrade qemu-system-ppc=2.0.0+dfsg-2ubuntu1.22 -y
+sudo apt-get install --only-upgrade qemu-system-mips=2.0.0+dfsg-2ubuntu1.22 -y
