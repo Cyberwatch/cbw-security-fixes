@@ -4,7 +4,7 @@
 # Security fix for DLA-96-1
 #
 # Security announcement date: 2014-11-28 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:21 UTC
+# Script generation date:     2016-02-04 19:09:00 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - openjdk-6:6b33-1.13.5-2~deb6u1
 #
 # Last versions recommanded by security team:
-#   - openjdk-6:6b37-1.13.9-1~deb6u1
+#   - openjdk-6:6b38-1.13.10-1~deb6u1
 #
 # CVE List:
 #   - CVE-2014-2490
@@ -42,4 +42,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-96-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openjdk-6=6b37-1.13.9-1~deb6u1 -y
+sudo apt-get install --only-upgrade openjdk-6=6b38-1.13.10-1~deb6u1 -y
