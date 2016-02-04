@@ -3,18 +3,20 @@
 # Security fix for CESA-2007:0395
 #
 # Security announcement date: 2007-06-14 15:29:57 UTC
-# Script generation date:     2016-01-06 19:06:01 UTC
+# Script generation date:     2016-02-04 19:09:55 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mod_perl:2.0.2-6.3.el5.x86_64
-#   - mod_perl-devel:2.0.2-6.3.el5.x86_64
+#   - mod_perl.x86_64:2.0.2-6.3.el5
+#   - mod_perl-devel.x86_64:2.0.2-6.3.el5
+#   - mod_perl-devel.i386:2.0.2-6.3.el5
 #
 # Last versions recommanded by security team:
-#   - mod_perl:2.0.2-6.3.el5.x86_64
-#   - mod_perl-devel:2.0.2-6.3.el5.x86_64
+#   - mod_perl.x86_64:2.0.2-6.3.el5
+#   - mod_perl-devel.x86_64:2.0.2-6.3.el5
+#   - mod_perl-devel.i386:2.0.2-6.3.el5
 #
 # CVE List:
 #
@@ -22,5 +24,6 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2007:0395
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install mod_perl-2.0.2 -y 
-sudo yum install mod_perl-devel-2.0.2 -y 
+sudo yum install mod_perl.x86_64-2.0.2 -y 
+sudo yum install mod_perl-devel.x86_64-2.0.2 -y 
+sudo yum install mod_perl-devel.i386-2.0.2 -y 

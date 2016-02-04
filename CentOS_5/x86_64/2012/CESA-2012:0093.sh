@@ -3,52 +3,52 @@
 # Security fix for CESA-2012:0093
 #
 # Security announcement date: 2012-02-03 01:41:17 UTC
-# Script generation date:     2016-01-06 19:06:59 UTC
+# Script generation date:     2016-02-04 19:11:28 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - php:5.1.6-27.el5_7.5.x86_64
-#   - php-bcmath:5.1.6-27.el5_7.5.x86_64
-#   - php-cli:5.1.6-27.el5_7.5.x86_64
-#   - php-common:5.1.6-27.el5_7.5.x86_64
-#   - php-dba:5.1.6-27.el5_7.5.x86_64
-#   - php-devel:5.1.6-27.el5_7.5.x86_64
-#   - php-gd:5.1.6-27.el5_7.5.x86_64
-#   - php-imap:5.1.6-27.el5_7.5.x86_64
-#   - php-ldap:5.1.6-27.el5_7.5.x86_64
-#   - php-mbstring:5.1.6-27.el5_7.5.x86_64
-#   - php-mysql:5.1.6-27.el5_7.5.x86_64
-#   - php-ncurses:5.1.6-27.el5_7.5.x86_64
-#   - php-odbc:5.1.6-27.el5_7.5.x86_64
-#   - php-pdo:5.1.6-27.el5_7.5.x86_64
-#   - php-pgsql:5.1.6-27.el5_7.5.x86_64
-#   - php-snmp:5.1.6-27.el5_7.5.x86_64
-#   - php-soap:5.1.6-27.el5_7.5.x86_64
-#   - php-xml:5.1.6-27.el5_7.5.x86_64
-#   - php-xmlrpc:5.1.6-27.el5_7.5.x86_64
+#   - php.x86_64:5.1.6-27.el5_7.5
+#   - php-bcmath.x86_64:5.1.6-27.el5_7.5
+#   - php-cli.x86_64:5.1.6-27.el5_7.5
+#   - php-common.x86_64:5.1.6-27.el5_7.5
+#   - php-dba.x86_64:5.1.6-27.el5_7.5
+#   - php-devel.x86_64:5.1.6-27.el5_7.5
+#   - php-gd.x86_64:5.1.6-27.el5_7.5
+#   - php-imap.x86_64:5.1.6-27.el5_7.5
+#   - php-ldap.x86_64:5.1.6-27.el5_7.5
+#   - php-mbstring.x86_64:5.1.6-27.el5_7.5
+#   - php-mysql.x86_64:5.1.6-27.el5_7.5
+#   - php-ncurses.x86_64:5.1.6-27.el5_7.5
+#   - php-odbc.x86_64:5.1.6-27.el5_7.5
+#   - php-pdo.x86_64:5.1.6-27.el5_7.5
+#   - php-pgsql.x86_64:5.1.6-27.el5_7.5
+#   - php-snmp.x86_64:5.1.6-27.el5_7.5
+#   - php-soap.x86_64:5.1.6-27.el5_7.5
+#   - php-xml.x86_64:5.1.6-27.el5_7.5
+#   - php-xmlrpc.x86_64:5.1.6-27.el5_7.5
 #
 # Last versions recommanded by security team:
-#   - php:5.1.6-45.el5_11.x86_64
-#   - php-bcmath:5.1.6-45.el5_11.x86_64
-#   - php-cli:5.1.6-45.el5_11.x86_64
-#   - php-common:5.1.6-45.el5_11.x86_64
-#   - php-dba:5.1.6-45.el5_11.x86_64
-#   - php-devel:5.1.6-45.el5_11.x86_64
-#   - php-gd:5.1.6-45.el5_11.x86_64
-#   - php-imap:5.1.6-45.el5_11.x86_64
-#   - php-ldap:5.1.6-45.el5_11.x86_64
-#   - php-mbstring:5.1.6-45.el5_11.x86_64
-#   - php-mysql:5.1.6-45.el5_11.x86_64
-#   - php-ncurses:5.1.6-45.el5_11.x86_64
-#   - php-odbc:5.1.6-45.el5_11.x86_64
-#   - php-pdo:5.1.6-45.el5_11.x86_64
-#   - php-pgsql:5.1.6-45.el5_11.x86_64
-#   - php-snmp:5.1.6-45.el5_11.x86_64
-#   - php-soap:5.1.6-45.el5_11.x86_64
-#   - php-xml:5.1.6-45.el5_11.x86_64
-#   - php-xmlrpc:5.1.6-45.el5_11.x86_64
+#   - php.x86_64:5.1.6-45.el5_11
+#   - php-bcmath.x86_64:5.1.6-45.el5_11
+#   - php-cli.x86_64:5.1.6-45.el5_11
+#   - php-common.x86_64:5.1.6-45.el5_11
+#   - php-dba.x86_64:5.1.6-45.el5_11
+#   - php-devel.x86_64:5.1.6-45.el5_11
+#   - php-gd.x86_64:5.1.6-45.el5_11
+#   - php-imap.x86_64:5.1.6-45.el5_11
+#   - php-ldap.x86_64:5.1.6-45.el5_11
+#   - php-mbstring.x86_64:5.1.6-45.el5_11
+#   - php-mysql.x86_64:5.1.6-45.el5_11
+#   - php-ncurses.x86_64:5.1.6-45.el5_11
+#   - php-odbc.x86_64:5.1.6-45.el5_11
+#   - php-pdo.x86_64:5.1.6-45.el5_11
+#   - php-pgsql.x86_64:5.1.6-45.el5_11
+#   - php-snmp.x86_64:5.1.6-45.el5_11
+#   - php-soap.x86_64:5.1.6-45.el5_11
+#   - php-xml.x86_64:5.1.6-45.el5_11
+#   - php-xmlrpc.x86_64:5.1.6-45.el5_11
 #
 # CVE List:
 #   - CVE-2011-4885
@@ -58,22 +58,22 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2012:0093
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install php-5.1.6 -y 
-sudo yum install php-bcmath-5.1.6 -y 
-sudo yum install php-cli-5.1.6 -y 
-sudo yum install php-common-5.1.6 -y 
-sudo yum install php-dba-5.1.6 -y 
-sudo yum install php-devel-5.1.6 -y 
-sudo yum install php-gd-5.1.6 -y 
-sudo yum install php-imap-5.1.6 -y 
-sudo yum install php-ldap-5.1.6 -y 
-sudo yum install php-mbstring-5.1.6 -y 
-sudo yum install php-mysql-5.1.6 -y 
-sudo yum install php-ncurses-5.1.6 -y 
-sudo yum install php-odbc-5.1.6 -y 
-sudo yum install php-pdo-5.1.6 -y 
-sudo yum install php-pgsql-5.1.6 -y 
-sudo yum install php-snmp-5.1.6 -y 
-sudo yum install php-soap-5.1.6 -y 
-sudo yum install php-xml-5.1.6 -y 
-sudo yum install php-xmlrpc-5.1.6 -y 
+sudo yum install php.x86_64-5.1.6 -y 
+sudo yum install php-bcmath.x86_64-5.1.6 -y 
+sudo yum install php-cli.x86_64-5.1.6 -y 
+sudo yum install php-common.x86_64-5.1.6 -y 
+sudo yum install php-dba.x86_64-5.1.6 -y 
+sudo yum install php-devel.x86_64-5.1.6 -y 
+sudo yum install php-gd.x86_64-5.1.6 -y 
+sudo yum install php-imap.x86_64-5.1.6 -y 
+sudo yum install php-ldap.x86_64-5.1.6 -y 
+sudo yum install php-mbstring.x86_64-5.1.6 -y 
+sudo yum install php-mysql.x86_64-5.1.6 -y 
+sudo yum install php-ncurses.x86_64-5.1.6 -y 
+sudo yum install php-odbc.x86_64-5.1.6 -y 
+sudo yum install php-pdo.x86_64-5.1.6 -y 
+sudo yum install php-pgsql.x86_64-5.1.6 -y 
+sudo yum install php-snmp.x86_64-5.1.6 -y 
+sudo yum install php-soap.x86_64-5.1.6 -y 
+sudo yum install php-xml.x86_64-5.1.6 -y 
+sudo yum install php-xmlrpc.x86_64-5.1.6 -y 

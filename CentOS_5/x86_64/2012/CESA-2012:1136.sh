@@ -3,168 +3,168 @@
 # Security fix for CESA-2012:1136
 #
 # Security announcement date: 2012-08-02 03:27:53 UTC
-# Script generation date:     2016-01-06 19:07:12 UTC
+# Script generation date:     2016-02-04 19:11:43 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openoffice.org-base:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-calc:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-core:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-draw:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-emailmerge:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-graphicfilter:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-headless:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-impress:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-javafilter:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-af_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ar:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-as_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-bg_BG:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-bn:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ca_ES:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-cs_CZ:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-cy_GB:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-da_DK:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-de:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-el_GR:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-es:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-et_EE:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-eu_ES:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-fi_FI:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-fr:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ga_IE:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-gl_ES:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-gu_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-he_IL:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-hi_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-hr_HR:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-hu_HU:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-it:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ja_JP:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-kn_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ko_KR:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-lt_LT:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ml_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-mr_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ms_MY:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-nb_NO:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-nl:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-nn_NO:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-nr_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-nso_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-or_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-pa_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-pl_PL:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-pt_BR:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-pt_PT:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ru:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-sk_SK:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-sl_SI:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-sr_CS:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ss_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-st_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-sv:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ta_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-te_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-th_TH:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-tn_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-tr_TR:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ts_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ur:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ve_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-xh_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-zh_CN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-zh_TW:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-zu_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-math:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-pyuno:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-sdk:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-sdk-doc:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-testtools:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-ure:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-writer:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-xsltfilter:3.1.1-19.10.el5_8.4.x86_64
+#   - openoffice.org-base.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-calc.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-core.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-draw.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-emailmerge.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-graphicfilter.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-headless.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-impress.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-javafilter.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-af_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ar.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-as_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-bg_BG.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-bn.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ca_ES.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-cs_CZ.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-cy_GB.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-da_DK.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-de.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-el_GR.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-es.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-et_EE.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-eu_ES.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-fi_FI.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-fr.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ga_IE.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-gl_ES.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-gu_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-he_IL.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-hi_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-hr_HR.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-hu_HU.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-it.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ja_JP.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-kn_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ko_KR.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-lt_LT.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ml_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-mr_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ms_MY.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-nb_NO.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-nl.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-nn_NO.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-nr_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-nso_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-or_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-pa_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-pl_PL.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-pt_BR.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-pt_PT.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ru.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-sk_SK.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-sl_SI.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-sr_CS.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ss_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-st_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-sv.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ta_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-te_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-th_TH.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-tn_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-tr_TR.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ts_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ur.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ve_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-xh_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-zh_CN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-zh_TW.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-zu_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-math.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-pyuno.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-sdk.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-sdk-doc.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-testtools.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-ure.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-writer.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-xsltfilter.x86_64:3.1.1-19.10.el5_8.4
 #
 # Last versions recommanded by security team:
-#   - openoffice.org-base:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-calc:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-core:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-draw:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-emailmerge:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-graphicfilter:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-headless:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-impress:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-javafilter:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-af_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ar:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-as_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-bg_BG:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-bn:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ca_ES:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-cs_CZ:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-cy_GB:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-da_DK:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-de:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-el_GR:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-es:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-et_EE:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-eu_ES:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-fi_FI:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-fr:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ga_IE:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-gl_ES:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-gu_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-he_IL:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-hi_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-hr_HR:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-hu_HU:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-it:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ja_JP:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-kn_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ko_KR:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-lt_LT:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ml_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-mr_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ms_MY:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-nb_NO:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-nl:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-nn_NO:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-nr_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-nso_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-or_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-pa_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-pl_PL:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-pt_BR:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-pt_PT:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ru:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-sk_SK:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-sl_SI:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-sr_CS:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ss_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-st_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-sv:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ta_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-te_IN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-th_TH:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-tn_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-tr_TR:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ts_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ur:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-ve_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-xh_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-zh_CN:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-zh_TW:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-langpack-zu_ZA:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-math:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-pyuno:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-sdk:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-sdk-doc:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-testtools:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-ure:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-writer:3.1.1-19.10.el5_8.4.x86_64
-#   - openoffice.org-xsltfilter:3.1.1-19.10.el5_8.4.x86_64
+#   - openoffice.org-base.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-calc.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-core.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-draw.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-emailmerge.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-graphicfilter.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-headless.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-impress.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-javafilter.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-af_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ar.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-as_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-bg_BG.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-bn.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ca_ES.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-cs_CZ.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-cy_GB.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-da_DK.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-de.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-el_GR.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-es.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-et_EE.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-eu_ES.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-fi_FI.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-fr.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ga_IE.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-gl_ES.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-gu_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-he_IL.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-hi_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-hr_HR.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-hu_HU.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-it.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ja_JP.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-kn_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ko_KR.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-lt_LT.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ml_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-mr_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ms_MY.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-nb_NO.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-nl.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-nn_NO.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-nr_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-nso_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-or_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-pa_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-pl_PL.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-pt_BR.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-pt_PT.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ru.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-sk_SK.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-sl_SI.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-sr_CS.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ss_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-st_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-sv.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ta_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-te_IN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-th_TH.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-tn_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-tr_TR.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ts_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ur.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-ve_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-xh_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-zh_CN.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-zh_TW.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-langpack-zu_ZA.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-math.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-pyuno.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-sdk.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-sdk-doc.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-testtools.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-ure.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-writer.x86_64:3.1.1-19.10.el5_8.4
+#   - openoffice.org-xsltfilter.x86_64:3.1.1-19.10.el5_8.4
 #
 # CVE List:
 #   - CVE-2012-2665
@@ -173,80 +173,80 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2012:1136
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install openoffice.org-base-3.1.1 -y 
-sudo yum install openoffice.org-calc-3.1.1 -y 
-sudo yum install openoffice.org-core-3.1.1 -y 
-sudo yum install openoffice.org-draw-3.1.1 -y 
-sudo yum install openoffice.org-emailmerge-3.1.1 -y 
-sudo yum install openoffice.org-graphicfilter-3.1.1 -y 
-sudo yum install openoffice.org-headless-3.1.1 -y 
-sudo yum install openoffice.org-impress-3.1.1 -y 
-sudo yum install openoffice.org-javafilter-3.1.1 -y 
-sudo yum install openoffice.org-langpack-af_ZA-3.1.1 -y 
-sudo yum install openoffice.org-langpack-ar-3.1.1 -y 
-sudo yum install openoffice.org-langpack-as_IN-3.1.1 -y 
-sudo yum install openoffice.org-langpack-bg_BG-3.1.1 -y 
-sudo yum install openoffice.org-langpack-bn-3.1.1 -y 
-sudo yum install openoffice.org-langpack-ca_ES-3.1.1 -y 
-sudo yum install openoffice.org-langpack-cs_CZ-3.1.1 -y 
-sudo yum install openoffice.org-langpack-cy_GB-3.1.1 -y 
-sudo yum install openoffice.org-langpack-da_DK-3.1.1 -y 
-sudo yum install openoffice.org-langpack-de-3.1.1 -y 
-sudo yum install openoffice.org-langpack-el_GR-3.1.1 -y 
-sudo yum install openoffice.org-langpack-es-3.1.1 -y 
-sudo yum install openoffice.org-langpack-et_EE-3.1.1 -y 
-sudo yum install openoffice.org-langpack-eu_ES-3.1.1 -y 
-sudo yum install openoffice.org-langpack-fi_FI-3.1.1 -y 
-sudo yum install openoffice.org-langpack-fr-3.1.1 -y 
-sudo yum install openoffice.org-langpack-ga_IE-3.1.1 -y 
-sudo yum install openoffice.org-langpack-gl_ES-3.1.1 -y 
-sudo yum install openoffice.org-langpack-gu_IN-3.1.1 -y 
-sudo yum install openoffice.org-langpack-he_IL-3.1.1 -y 
-sudo yum install openoffice.org-langpack-hi_IN-3.1.1 -y 
-sudo yum install openoffice.org-langpack-hr_HR-3.1.1 -y 
-sudo yum install openoffice.org-langpack-hu_HU-3.1.1 -y 
-sudo yum install openoffice.org-langpack-it-3.1.1 -y 
-sudo yum install openoffice.org-langpack-ja_JP-3.1.1 -y 
-sudo yum install openoffice.org-langpack-kn_IN-3.1.1 -y 
-sudo yum install openoffice.org-langpack-ko_KR-3.1.1 -y 
-sudo yum install openoffice.org-langpack-lt_LT-3.1.1 -y 
-sudo yum install openoffice.org-langpack-ml_IN-3.1.1 -y 
-sudo yum install openoffice.org-langpack-mr_IN-3.1.1 -y 
-sudo yum install openoffice.org-langpack-ms_MY-3.1.1 -y 
-sudo yum install openoffice.org-langpack-nb_NO-3.1.1 -y 
-sudo yum install openoffice.org-langpack-nl-3.1.1 -y 
-sudo yum install openoffice.org-langpack-nn_NO-3.1.1 -y 
-sudo yum install openoffice.org-langpack-nr_ZA-3.1.1 -y 
-sudo yum install openoffice.org-langpack-nso_ZA-3.1.1 -y 
-sudo yum install openoffice.org-langpack-or_IN-3.1.1 -y 
-sudo yum install openoffice.org-langpack-pa_IN-3.1.1 -y 
-sudo yum install openoffice.org-langpack-pl_PL-3.1.1 -y 
-sudo yum install openoffice.org-langpack-pt_BR-3.1.1 -y 
-sudo yum install openoffice.org-langpack-pt_PT-3.1.1 -y 
-sudo yum install openoffice.org-langpack-ru-3.1.1 -y 
-sudo yum install openoffice.org-langpack-sk_SK-3.1.1 -y 
-sudo yum install openoffice.org-langpack-sl_SI-3.1.1 -y 
-sudo yum install openoffice.org-langpack-sr_CS-3.1.1 -y 
-sudo yum install openoffice.org-langpack-ss_ZA-3.1.1 -y 
-sudo yum install openoffice.org-langpack-st_ZA-3.1.1 -y 
-sudo yum install openoffice.org-langpack-sv-3.1.1 -y 
-sudo yum install openoffice.org-langpack-ta_IN-3.1.1 -y 
-sudo yum install openoffice.org-langpack-te_IN-3.1.1 -y 
-sudo yum install openoffice.org-langpack-th_TH-3.1.1 -y 
-sudo yum install openoffice.org-langpack-tn_ZA-3.1.1 -y 
-sudo yum install openoffice.org-langpack-tr_TR-3.1.1 -y 
-sudo yum install openoffice.org-langpack-ts_ZA-3.1.1 -y 
-sudo yum install openoffice.org-langpack-ur-3.1.1 -y 
-sudo yum install openoffice.org-langpack-ve_ZA-3.1.1 -y 
-sudo yum install openoffice.org-langpack-xh_ZA-3.1.1 -y 
-sudo yum install openoffice.org-langpack-zh_CN-3.1.1 -y 
-sudo yum install openoffice.org-langpack-zh_TW-3.1.1 -y 
-sudo yum install openoffice.org-langpack-zu_ZA-3.1.1 -y 
-sudo yum install openoffice.org-math-3.1.1 -y 
-sudo yum install openoffice.org-pyuno-3.1.1 -y 
-sudo yum install openoffice.org-sdk-3.1.1 -y 
-sudo yum install openoffice.org-sdk-doc-3.1.1 -y 
-sudo yum install openoffice.org-testtools-3.1.1 -y 
-sudo yum install openoffice.org-ure-3.1.1 -y 
-sudo yum install openoffice.org-writer-3.1.1 -y 
-sudo yum install openoffice.org-xsltfilter-3.1.1 -y 
+sudo yum install openoffice.org-base.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-calc.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-core.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-draw.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-emailmerge.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-graphicfilter.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-headless.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-impress.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-javafilter.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-af_ZA.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-ar.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-as_IN.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-bg_BG.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-bn.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-ca_ES.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-cs_CZ.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-cy_GB.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-da_DK.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-de.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-el_GR.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-es.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-et_EE.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-eu_ES.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-fi_FI.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-fr.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-ga_IE.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-gl_ES.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-gu_IN.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-he_IL.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-hi_IN.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-hr_HR.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-hu_HU.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-it.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-ja_JP.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-kn_IN.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-ko_KR.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-lt_LT.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-ml_IN.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-mr_IN.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-ms_MY.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-nb_NO.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-nl.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-nn_NO.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-nr_ZA.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-nso_ZA.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-or_IN.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-pa_IN.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-pl_PL.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-pt_BR.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-pt_PT.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-ru.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-sk_SK.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-sl_SI.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-sr_CS.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-ss_ZA.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-st_ZA.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-sv.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-ta_IN.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-te_IN.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-th_TH.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-tn_ZA.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-tr_TR.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-ts_ZA.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-ur.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-ve_ZA.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-xh_ZA.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-zh_CN.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-zh_TW.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-langpack-zu_ZA.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-math.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-pyuno.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-sdk.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-sdk-doc.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-testtools.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-ure.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-writer.x86_64-3.1.1 -y 
+sudo yum install openoffice.org-xsltfilter.x86_64-3.1.1 -y 

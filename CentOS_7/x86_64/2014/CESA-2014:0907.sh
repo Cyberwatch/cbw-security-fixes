@@ -3,24 +3,24 @@
 # Security fix for CESA-2014:0907
 #
 # Security announcement date: 2014-07-21 23:09:02 UTC
-# Script generation date:     2016-01-27 07:06:55 UTC
+# Script generation date:     2016-02-04 19:12:26 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.6.0-openjdk:1.6.0.0-6.1.13.4.el7_0.x86_64
-#   - java-1.6.0-openjdk-demo:1.6.0.0-6.1.13.4.el7_0.x86_64
-#   - java-1.6.0-openjdk-devel:1.6.0.0-6.1.13.4.el7_0.x86_64
-#   - java-1.6.0-openjdk-javadoc:1.6.0.0-6.1.13.4.el7_0.x86_64
-#   - java-1.6.0-openjdk-src:1.6.0.0-6.1.13.4.el7_0.x86_64
+#   - java-1.6.0-openjdk.x86_64:1.6.0.0-6.1.13.4.el7_0
+#   - java-1.6.0-openjdk-demo.x86_64:1.6.0.0-6.1.13.4.el7_0
+#   - java-1.6.0-openjdk-devel.x86_64:1.6.0.0-6.1.13.4.el7_0
+#   - java-1.6.0-openjdk-javadoc.x86_64:1.6.0.0-6.1.13.4.el7_0
+#   - java-1.6.0-openjdk-src.x86_64:1.6.0.0-6.1.13.4.el7_0
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-openjdk:1.6.0.38-1.13.10.0.el7_2.x86_64
-#   - java-1.6.0-openjdk-demo:1.6.0.38-1.13.10.0.el7_2.x86_64
-#   - java-1.6.0-openjdk-devel:1.6.0.38-1.13.10.0.el7_2.x86_64
-#   - java-1.6.0-openjdk-javadoc:1.6.0.38-1.13.10.0.el7_2.x86_64
-#   - java-1.6.0-openjdk-src:1.6.0.38-1.13.10.0.el7_2.x86_64
+#   - java-1.6.0-openjdk.x86_64:1.6.0.38-1.13.10.0.el7_2
+#   - java-1.6.0-openjdk-demo.x86_64:1.6.0.38-1.13.10.0.el7_2
+#   - java-1.6.0-openjdk-devel.x86_64:1.6.0.38-1.13.10.0.el7_2
+#   - java-1.6.0-openjdk-javadoc.x86_64:1.6.0.38-1.13.10.0.el7_2
+#   - java-1.6.0-openjdk-src.x86_64:1.6.0.38-1.13.10.0.el7_2
 #
 # CVE List:
 #   - CVE-2014-4209
@@ -38,8 +38,8 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2014:0907
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-openjdk-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-demo-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-devel-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-javadoc-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-src-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk.x86_64-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-demo.x86_64-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-devel.x86_64-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-javadoc.x86_64-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-src.x86_64-1.6.0.38 -y 

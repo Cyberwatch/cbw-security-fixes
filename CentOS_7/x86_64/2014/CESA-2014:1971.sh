@@ -3,38 +3,38 @@
 # Security fix for CESA-2014:1971
 #
 # Security announcement date: 2014-12-10 12:48:13 UTC
-# Script generation date:     2016-01-26 07:11:42 UTC
+# Script generation date:     2016-02-04 19:12:41 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - kernel:3.10.0-123.13.1.el7.x86_64
-#   - kernel-abi-whitelists:3.10.0-123.13.1.el7.noarch
-#   - kernel-debug:3.10.0-123.13.1.el7.x86_64
-#   - kernel-debug-devel:3.10.0-123.13.1.el7.x86_64
-#   - kernel-devel:3.10.0-123.13.1.el7.x86_64
-#   - kernel-doc:3.10.0-123.13.1.el7.noarch
-#   - kernel-headers:3.10.0-123.13.1.el7.x86_64
-#   - kernel-tools:3.10.0-123.13.1.el7.x86_64
-#   - kernel-tools-libs:3.10.0-123.13.1.el7.x86_64
-#   - kernel-tools-libs-devel:3.10.0-123.13.1.el7.x86_64
-#   - perf:3.10.0-123.13.1.el7.x86_64
-#   - python-perf:3.10.0-123.13.1.el7.x86_64
+#   - kernel.x86_64:3.10.0-123.13.1.el7
+#   - kernel-abi-whitelists.noarch:3.10.0-123.13.1.el7
+#   - kernel-debug.x86_64:3.10.0-123.13.1.el7
+#   - kernel-debug-devel.x86_64:3.10.0-123.13.1.el7
+#   - kernel-devel.x86_64:3.10.0-123.13.1.el7
+#   - kernel-doc.noarch:3.10.0-123.13.1.el7
+#   - kernel-headers.x86_64:3.10.0-123.13.1.el7
+#   - kernel-tools.x86_64:3.10.0-123.13.1.el7
+#   - kernel-tools-libs.x86_64:3.10.0-123.13.1.el7
+#   - kernel-tools-libs-devel.x86_64:3.10.0-123.13.1.el7
+#   - perf.x86_64:3.10.0-123.13.1.el7
+#   - python-perf.x86_64:3.10.0-123.13.1.el7
 #
 # Last versions recommanded by security team:
-#   - kernel:3.10.0-327.4.5.el7.x86_64
-#   - kernel-abi-whitelists:3.10.0-327.4.5.el7.noarch
-#   - kernel-debug:3.10.0-327.4.5.el7.x86_64
-#   - kernel-debug-devel:3.10.0-327.4.5.el7.x86_64
-#   - kernel-devel:3.10.0-327.4.5.el7.x86_64
-#   - kernel-doc:3.10.0-327.4.5.el7.noarch
-#   - kernel-headers:3.10.0-327.4.5.el7.x86_64
-#   - kernel-tools:3.10.0-327.4.5.el7.x86_64
-#   - kernel-tools-libs:3.10.0-327.4.5.el7.x86_64
-#   - kernel-tools-libs-devel:3.10.0-327.4.5.el7.x86_64
-#   - perf:3.10.0-327.4.5.el7.x86_64
-#   - python-perf:3.10.0-327.4.5.el7.x86_64
+#   - kernel.x86_64:3.10.0-327.4.5.el7
+#   - kernel-abi-whitelists.noarch:3.10.0-327.4.5.el7
+#   - kernel-debug.x86_64:3.10.0-327.4.5.el7
+#   - kernel-debug-devel.x86_64:3.10.0-327.4.5.el7
+#   - kernel-devel.x86_64:3.10.0-327.4.5.el7
+#   - kernel-doc.noarch:3.10.0-327.4.5.el7
+#   - kernel-headers.x86_64:3.10.0-327.4.5.el7
+#   - kernel-tools.x86_64:3.10.0-327.4.5.el7
+#   - kernel-tools-libs.x86_64:3.10.0-327.4.5.el7
+#   - kernel-tools-libs-devel.x86_64:3.10.0-327.4.5.el7
+#   - perf.x86_64:3.10.0-327.4.5.el7
+#   - python-perf.x86_64:3.10.0-327.4.5.el7
 #
 # CVE List:
 #   - CVE-2013-2929
@@ -60,15 +60,15 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2014:1971
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install kernel-3.10.0 -y 
-sudo yum install kernel-abi-whitelists-3.10.0 -y 
-sudo yum install kernel-debug-3.10.0 -y 
-sudo yum install kernel-debug-devel-3.10.0 -y 
-sudo yum install kernel-devel-3.10.0 -y 
-sudo yum install kernel-doc-3.10.0 -y 
-sudo yum install kernel-headers-3.10.0 -y 
-sudo yum install kernel-tools-3.10.0 -y 
-sudo yum install kernel-tools-libs-3.10.0 -y 
-sudo yum install kernel-tools-libs-devel-3.10.0 -y 
-sudo yum install perf-3.10.0 -y 
-sudo yum install python-perf-3.10.0 -y 
+sudo yum install kernel.x86_64-3.10.0 -y 
+sudo yum install kernel-abi-whitelists.noarch-3.10.0 -y 
+sudo yum install kernel-debug.x86_64-3.10.0 -y 
+sudo yum install kernel-debug-devel.x86_64-3.10.0 -y 
+sudo yum install kernel-devel.x86_64-3.10.0 -y 
+sudo yum install kernel-doc.noarch-3.10.0 -y 
+sudo yum install kernel-headers.x86_64-3.10.0 -y 
+sudo yum install kernel-tools.x86_64-3.10.0 -y 
+sudo yum install kernel-tools-libs.x86_64-3.10.0 -y 
+sudo yum install kernel-tools-libs-devel.x86_64-3.10.0 -y 
+sudo yum install perf.x86_64-3.10.0 -y 
+sudo yum install python-perf.x86_64-3.10.0 -y 

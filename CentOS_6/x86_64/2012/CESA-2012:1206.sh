@@ -3,16 +3,16 @@
 # Security fix for CESA-2012:1206
 #
 # Security announcement date: 2012-08-27 19:18:21 UTC
-# Script generation date:     2016-01-06 19:07:14 UTC
+# Script generation date:     2016-02-04 19:11:45 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - python-paste-script:1.7.3-5.el6_3.noarch
+#   - python-paste-script.noarch:1.7.3-5.el6_3
 #
 # Last versions recommanded by security team:
-#   - python-paste-script:1.7.3-5.el6_3.noarch
+#   - python-paste-script.noarch:1.7.3-5.el6_3
 #
 # CVE List:
 #   - CVE-2012-0878
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2012:1206
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install python-paste-script-1.7.3 -y 
+sudo yum install python-paste-script.noarch-1.7.3 -y 

@@ -3,20 +3,24 @@
 # Security fix for CESA-2015:2393
 #
 # Security announcement date: 2015-11-30 19:55:40 UTC
-# Script generation date:     2016-01-06 19:08:29 UTC
+# Script generation date:     2016-02-04 19:13:14 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - wireshark:1.10.14-7.el7.x86_64
-#   - wireshark-devel:1.10.14-7.el7.x86_64
-#   - wireshark-gnome:1.10.14-7.el7.x86_64
+#   - wireshark.x86_64:1.10.14-7.el7
+#   - wireshark-devel.x86_64:1.10.14-7.el7
+#   - wireshark-gnome.x86_64:1.10.14-7.el7
+#   - wireshark.i686:1.10.14-7.el7
+#   - wireshark-devel.i686:1.10.14-7.el7
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.10.14-7.el7.x86_64
-#   - wireshark-devel:1.10.14-7.el7.x86_64
-#   - wireshark-gnome:1.10.14-7.el7.x86_64
+#   - wireshark.x86_64:1.10.14-7.el7
+#   - wireshark-devel.x86_64:1.10.14-7.el7
+#   - wireshark-gnome.x86_64:1.10.14-7.el7
+#   - wireshark.i686:1.10.14-7.el7
+#   - wireshark-devel.i686:1.10.14-7.el7
 #
 # CVE List:
 #   - CVE-2015-2189
@@ -45,6 +49,8 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2015:2393
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install wireshark-1.10.14 -y 
-sudo yum install wireshark-devel-1.10.14 -y 
-sudo yum install wireshark-gnome-1.10.14 -y 
+sudo yum install wireshark.x86_64-1.10.14 -y 
+sudo yum install wireshark-devel.x86_64-1.10.14 -y 
+sudo yum install wireshark-gnome.x86_64-1.10.14 -y 
+sudo yum install wireshark.i686-1.10.14 -y 
+sudo yum install wireshark-devel.i686-1.10.14 -y 

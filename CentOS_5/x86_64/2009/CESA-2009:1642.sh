@@ -3,16 +3,16 @@
 # Security fix for CESA-2009:1642
 #
 # Security announcement date: 2009-12-18 01:36:56 UTC
-# Script generation date:     2016-01-06 19:06:32 UTC
+# Script generation date:     2016-02-04 19:10:55 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - acpid:1.0.4-9.el5_4.1.x86_64
+#   - acpid.x86_64:1.0.4-9.el5_4.1
 #
 # Last versions recommanded by security team:
-#   - acpid:1.0.4-9.el5_4.1.x86_64
+#   - acpid.x86_64:1.0.4-9.el5_4.1
 #
 # CVE List:
 #   - CVE-2009-4033
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2009:1642
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install acpid-1.0.4 -y 
+sudo yum install acpid.x86_64-1.0.4 -y 

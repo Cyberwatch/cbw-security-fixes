@@ -3,62 +3,74 @@
 # Security fix for CESA-2015:2505
 #
 # Security announcement date: 2015-12-01 18:46:37 UTC
-# Script generation date:     2016-01-06 19:08:24 UTC
+# Script generation date:     2016-02-04 19:13:06 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libreport:2.1.11-32.el7.centos.x86_64
-#   - libreport-anaconda:2.1.11-32.el7.centos.x86_64
-#   - libreport-centos:2.1.11-32.el7.centos.x86_64
-#   - libreport-cli:2.1.11-32.el7.centos.x86_64
-#   - libreport-compat:2.1.11-32.el7.centos.x86_64
-#   - libreport-devel:2.1.11-32.el7.centos.x86_64
-#   - libreport-filesystem:2.1.11-32.el7.centos.x86_64
-#   - libreport-gtk:2.1.11-32.el7.centos.x86_64
-#   - libreport-gtk-devel:2.1.11-32.el7.centos.x86_64
-#   - libreport-newt:2.1.11-32.el7.centos.x86_64
-#   - libreport-plugin-bugzilla:2.1.11-32.el7.centos.x86_64
-#   - libreport-plugin-kerneloops:2.1.11-32.el7.centos.x86_64
-#   - libreport-plugin-logger:2.1.11-32.el7.centos.x86_64
-#   - libreport-plugin-mailx:2.1.11-32.el7.centos.x86_64
-#   - libreport-plugin-mantisbt:2.1.11-32.el7.centos.x86_64
-#   - libreport-plugin-reportuploader:2.1.11-32.el7.centos.x86_64
-#   - libreport-plugin-rhtsupport:2.1.11-32.el7.centos.x86_64
-#   - libreport-plugin-ureport:2.1.11-32.el7.centos.x86_64
-#   - libreport-python:2.1.11-32.el7.centos.x86_64
-#   - libreport-rhel:2.1.11-32.el7.centos.x86_64
-#   - libreport-rhel-anaconda-bugzilla:2.1.11-32.el7.centos.x86_64
-#   - libreport-rhel-bugzilla:2.1.11-32.el7.centos.x86_64
-#   - libreport-web:2.1.11-32.el7.centos.x86_64
-#   - libreport-web-devel:2.1.11-32.el7.centos.x86_64
+#   - libreport.x86_64:2.1.11-32.el7.centos
+#   - libreport-anaconda.x86_64:2.1.11-32.el7.centos
+#   - libreport-centos.x86_64:2.1.11-32.el7.centos
+#   - libreport-cli.x86_64:2.1.11-32.el7.centos
+#   - libreport-compat.x86_64:2.1.11-32.el7.centos
+#   - libreport-devel.x86_64:2.1.11-32.el7.centos
+#   - libreport-filesystem.x86_64:2.1.11-32.el7.centos
+#   - libreport-gtk.x86_64:2.1.11-32.el7.centos
+#   - libreport-gtk-devel.x86_64:2.1.11-32.el7.centos
+#   - libreport-newt.x86_64:2.1.11-32.el7.centos
+#   - libreport-plugin-bugzilla.x86_64:2.1.11-32.el7.centos
+#   - libreport-plugin-kerneloops.x86_64:2.1.11-32.el7.centos
+#   - libreport-plugin-logger.x86_64:2.1.11-32.el7.centos
+#   - libreport-plugin-mailx.x86_64:2.1.11-32.el7.centos
+#   - libreport-plugin-mantisbt.x86_64:2.1.11-32.el7.centos
+#   - libreport-plugin-reportuploader.x86_64:2.1.11-32.el7.centos
+#   - libreport-plugin-rhtsupport.x86_64:2.1.11-32.el7.centos
+#   - libreport-plugin-ureport.x86_64:2.1.11-32.el7.centos
+#   - libreport-python.x86_64:2.1.11-32.el7.centos
+#   - libreport-rhel.x86_64:2.1.11-32.el7.centos
+#   - libreport-rhel-anaconda-bugzilla.x86_64:2.1.11-32.el7.centos
+#   - libreport-rhel-bugzilla.x86_64:2.1.11-32.el7.centos
+#   - libreport-web.x86_64:2.1.11-32.el7.centos
+#   - libreport-web-devel.x86_64:2.1.11-32.el7.centos
+#   - libreport.i686:2.1.11-32.el7.centos
+#   - libreport-devel.i686:2.1.11-32.el7.centos
+#   - libreport-gtk.i686:2.1.11-32.el7.centos
+#   - libreport-gtk-devel.i686:2.1.11-32.el7.centos
+#   - libreport-web.i686:2.1.11-32.el7.centos
+#   - libreport-web-devel.i686:2.1.11-32.el7.centos
 #
 # Last versions recommanded by security team:
-#   - libreport:2.1.11-32.el7.centos.x86_64
-#   - libreport-anaconda:2.1.11-32.el7.centos.x86_64
-#   - libreport-centos:2.1.11-32.el7.centos.x86_64
-#   - libreport-cli:2.1.11-32.el7.centos.x86_64
-#   - libreport-compat:2.1.11-32.el7.centos.x86_64
-#   - libreport-devel:2.1.11-32.el7.centos.x86_64
-#   - libreport-filesystem:2.1.11-32.el7.centos.x86_64
-#   - libreport-gtk:2.1.11-32.el7.centos.x86_64
-#   - libreport-gtk-devel:2.1.11-32.el7.centos.x86_64
-#   - libreport-newt:2.1.11-32.el7.centos.x86_64
-#   - libreport-plugin-bugzilla:2.1.11-32.el7.centos.x86_64
-#   - libreport-plugin-kerneloops:2.1.11-32.el7.centos.x86_64
-#   - libreport-plugin-logger:2.1.11-32.el7.centos.x86_64
-#   - libreport-plugin-mailx:2.1.11-32.el7.centos.x86_64
-#   - libreport-plugin-mantisbt:2.1.11-32.el7.centos.x86_64
-#   - libreport-plugin-reportuploader:2.1.11-32.el7.centos.x86_64
-#   - libreport-plugin-rhtsupport:2.1.11-32.el7.centos.x86_64
-#   - libreport-plugin-ureport:2.1.11-32.el7.centos.x86_64
-#   - libreport-python:2.1.11-32.el7.centos.x86_64
-#   - libreport-rhel:2.1.11-32.el7.centos.x86_64
-#   - libreport-rhel-anaconda-bugzilla:2.1.11-32.el7.centos.x86_64
-#   - libreport-rhel-bugzilla:2.1.11-32.el7.centos.x86_64
-#   - libreport-web:2.1.11-32.el7.centos.x86_64
-#   - libreport-web-devel:2.1.11-32.el7.centos.x86_64
+#   - libreport.x86_64:2.1.11-32.el7.centos
+#   - libreport-anaconda.x86_64:2.1.11-32.el7.centos
+#   - libreport-centos.x86_64:2.1.11-32.el7.centos
+#   - libreport-cli.x86_64:2.1.11-32.el7.centos
+#   - libreport-compat.x86_64:2.1.11-32.el7.centos
+#   - libreport-devel.x86_64:2.1.11-32.el7.centos
+#   - libreport-filesystem.x86_64:2.1.11-32.el7.centos
+#   - libreport-gtk.x86_64:2.1.11-32.el7.centos
+#   - libreport-gtk-devel.x86_64:2.1.11-32.el7.centos
+#   - libreport-newt.x86_64:2.1.11-32.el7.centos
+#   - libreport-plugin-bugzilla.x86_64:2.1.11-32.el7.centos
+#   - libreport-plugin-kerneloops.x86_64:2.1.11-32.el7.centos
+#   - libreport-plugin-logger.x86_64:2.1.11-32.el7.centos
+#   - libreport-plugin-mailx.x86_64:2.1.11-32.el7.centos
+#   - libreport-plugin-mantisbt.x86_64:2.1.11-32.el7.centos
+#   - libreport-plugin-reportuploader.x86_64:2.1.11-32.el7.centos
+#   - libreport-plugin-rhtsupport.x86_64:2.1.11-32.el7.centos
+#   - libreport-plugin-ureport.x86_64:2.1.11-32.el7.centos
+#   - libreport-python.x86_64:2.1.11-32.el7.centos
+#   - libreport-rhel.x86_64:2.1.11-32.el7.centos
+#   - libreport-rhel-anaconda-bugzilla.x86_64:2.1.11-32.el7.centos
+#   - libreport-rhel-bugzilla.x86_64:2.1.11-32.el7.centos
+#   - libreport-web.x86_64:2.1.11-32.el7.centos
+#   - libreport-web-devel.x86_64:2.1.11-32.el7.centos
+#   - libreport.i686:2.1.11-32.el7.centos
+#   - libreport-devel.i686:2.1.11-32.el7.centos
+#   - libreport-gtk.i686:2.1.11-32.el7.centos
+#   - libreport-gtk-devel.i686:2.1.11-32.el7.centos
+#   - libreport-web.i686:2.1.11-32.el7.centos
+#   - libreport-web-devel.i686:2.1.11-32.el7.centos
 #
 # CVE List:
 #   - CVE-2015-5302
@@ -69,27 +81,33 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2015:2505
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install libreport-2.1.11 -y 
-sudo yum install libreport-anaconda-2.1.11 -y 
-sudo yum install libreport-centos-2.1.11 -y 
-sudo yum install libreport-cli-2.1.11 -y 
-sudo yum install libreport-compat-2.1.11 -y 
-sudo yum install libreport-devel-2.1.11 -y 
-sudo yum install libreport-filesystem-2.1.11 -y 
-sudo yum install libreport-gtk-2.1.11 -y 
-sudo yum install libreport-gtk-devel-2.1.11 -y 
-sudo yum install libreport-newt-2.1.11 -y 
-sudo yum install libreport-plugin-bugzilla-2.1.11 -y 
-sudo yum install libreport-plugin-kerneloops-2.1.11 -y 
-sudo yum install libreport-plugin-logger-2.1.11 -y 
-sudo yum install libreport-plugin-mailx-2.1.11 -y 
-sudo yum install libreport-plugin-mantisbt-2.1.11 -y 
-sudo yum install libreport-plugin-reportuploader-2.1.11 -y 
-sudo yum install libreport-plugin-rhtsupport-2.1.11 -y 
-sudo yum install libreport-plugin-ureport-2.1.11 -y 
-sudo yum install libreport-python-2.1.11 -y 
-sudo yum install libreport-rhel-2.1.11 -y 
-sudo yum install libreport-rhel-anaconda-bugzilla-2.1.11 -y 
-sudo yum install libreport-rhel-bugzilla-2.1.11 -y 
-sudo yum install libreport-web-2.1.11 -y 
-sudo yum install libreport-web-devel-2.1.11 -y 
+sudo yum install libreport.x86_64-2.1.11 -y 
+sudo yum install libreport-anaconda.x86_64-2.1.11 -y 
+sudo yum install libreport-centos.x86_64-2.1.11 -y 
+sudo yum install libreport-cli.x86_64-2.1.11 -y 
+sudo yum install libreport-compat.x86_64-2.1.11 -y 
+sudo yum install libreport-devel.x86_64-2.1.11 -y 
+sudo yum install libreport-filesystem.x86_64-2.1.11 -y 
+sudo yum install libreport-gtk.x86_64-2.1.11 -y 
+sudo yum install libreport-gtk-devel.x86_64-2.1.11 -y 
+sudo yum install libreport-newt.x86_64-2.1.11 -y 
+sudo yum install libreport-plugin-bugzilla.x86_64-2.1.11 -y 
+sudo yum install libreport-plugin-kerneloops.x86_64-2.1.11 -y 
+sudo yum install libreport-plugin-logger.x86_64-2.1.11 -y 
+sudo yum install libreport-plugin-mailx.x86_64-2.1.11 -y 
+sudo yum install libreport-plugin-mantisbt.x86_64-2.1.11 -y 
+sudo yum install libreport-plugin-reportuploader.x86_64-2.1.11 -y 
+sudo yum install libreport-plugin-rhtsupport.x86_64-2.1.11 -y 
+sudo yum install libreport-plugin-ureport.x86_64-2.1.11 -y 
+sudo yum install libreport-python.x86_64-2.1.11 -y 
+sudo yum install libreport-rhel.x86_64-2.1.11 -y 
+sudo yum install libreport-rhel-anaconda-bugzilla.x86_64-2.1.11 -y 
+sudo yum install libreport-rhel-bugzilla.x86_64-2.1.11 -y 
+sudo yum install libreport-web.x86_64-2.1.11 -y 
+sudo yum install libreport-web-devel.x86_64-2.1.11 -y 
+sudo yum install libreport.i686-2.1.11 -y 
+sudo yum install libreport-devel.i686-2.1.11 -y 
+sudo yum install libreport-gtk.i686-2.1.11 -y 
+sudo yum install libreport-gtk-devel.i686-2.1.11 -y 
+sudo yum install libreport-web.i686-2.1.11 -y 
+sudo yum install libreport-web-devel.i686-2.1.11 -y 

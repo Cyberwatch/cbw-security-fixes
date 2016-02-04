@@ -3,60 +3,78 @@
 # Security fix for CESA-2015:2019
 #
 # Security announcement date: 2015-11-10 13:43:26 UTC
-# Script generation date:     2016-01-06 19:08:23 UTC
+# Script generation date:     2016-02-04 19:13:05 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - python-sssdconfig:1.12.4-47.el6_7.4.noarch
-#   - libipa_hbac:1.12.4-47.el6_7.4.x86_64
-#   - libipa_hbac-devel:1.12.4-47.el6_7.4.x86_64
-#   - libipa_hbac-python:1.12.4-47.el6_7.4.x86_64
-#   - libsss_idmap:1.12.4-47.el6_7.4.x86_64
-#   - libsss_idmap-devel:1.12.4-47.el6_7.4.x86_64
-#   - libsss_nss_idmap:1.12.4-47.el6_7.4.x86_64
-#   - libsss_nss_idmap-devel:1.12.4-47.el6_7.4.x86_64
-#   - libsss_nss_idmap-python:1.12.4-47.el6_7.4.x86_64
-#   - libsss_simpleifp:1.12.4-47.el6_7.4.x86_64
-#   - libsss_simpleifp-devel:1.12.4-47.el6_7.4.x86_64
-#   - sssd:1.12.4-47.el6_7.4.x86_64
-#   - sssd-ad:1.12.4-47.el6_7.4.x86_64
-#   - sssd-client:1.12.4-47.el6_7.4.x86_64
-#   - sssd-common:1.12.4-47.el6_7.4.x86_64
-#   - sssd-common-pac:1.12.4-47.el6_7.4.x86_64
-#   - sssd-dbus:1.12.4-47.el6_7.4.x86_64
-#   - sssd-ipa:1.12.4-47.el6_7.4.x86_64
-#   - sssd-krb5:1.12.4-47.el6_7.4.x86_64
-#   - sssd-krb5-common:1.12.4-47.el6_7.4.x86_64
-#   - sssd-ldap:1.12.4-47.el6_7.4.x86_64
-#   - sssd-proxy:1.12.4-47.el6_7.4.x86_64
-#   - sssd-tools:1.12.4-47.el6_7.4.x86_64
+#   - python-sssdconfig.noarch:1.12.4-47.el6_7.4
+#   - libipa_hbac.x86_64:1.12.4-47.el6_7.4
+#   - libipa_hbac-devel.x86_64:1.12.4-47.el6_7.4
+#   - libipa_hbac-python.x86_64:1.12.4-47.el6_7.4
+#   - libsss_idmap.x86_64:1.12.4-47.el6_7.4
+#   - libsss_idmap-devel.x86_64:1.12.4-47.el6_7.4
+#   - libsss_nss_idmap.x86_64:1.12.4-47.el6_7.4
+#   - libsss_nss_idmap-devel.x86_64:1.12.4-47.el6_7.4
+#   - libsss_nss_idmap-python.x86_64:1.12.4-47.el6_7.4
+#   - libsss_simpleifp.x86_64:1.12.4-47.el6_7.4
+#   - libsss_simpleifp-devel.x86_64:1.12.4-47.el6_7.4
+#   - sssd.x86_64:1.12.4-47.el6_7.4
+#   - sssd-ad.x86_64:1.12.4-47.el6_7.4
+#   - sssd-client.x86_64:1.12.4-47.el6_7.4
+#   - sssd-common.x86_64:1.12.4-47.el6_7.4
+#   - sssd-common-pac.x86_64:1.12.4-47.el6_7.4
+#   - sssd-dbus.x86_64:1.12.4-47.el6_7.4
+#   - sssd-ipa.x86_64:1.12.4-47.el6_7.4
+#   - sssd-krb5.x86_64:1.12.4-47.el6_7.4
+#   - sssd-krb5-common.x86_64:1.12.4-47.el6_7.4
+#   - sssd-ldap.x86_64:1.12.4-47.el6_7.4
+#   - sssd-proxy.x86_64:1.12.4-47.el6_7.4
+#   - sssd-tools.x86_64:1.12.4-47.el6_7.4
+#   - libipa_hbac.i686:1.12.4-47.el6_7.4
+#   - libipa_hbac-devel.i686:1.12.4-47.el6_7.4
+#   - libsss_idmap.i686:1.12.4-47.el6_7.4
+#   - libsss_idmap-devel.i686:1.12.4-47.el6_7.4
+#   - libsss_nss_idmap.i686:1.12.4-47.el6_7.4
+#   - libsss_nss_idmap-devel.i686:1.12.4-47.el6_7.4
+#   - libsss_simpleifp.i686:1.12.4-47.el6_7.4
+#   - libsss_simpleifp-devel.i686:1.12.4-47.el6_7.4
+#   - sssd-client.i686:1.12.4-47.el6_7.4
 #
 # Last versions recommanded by security team:
-#   - python-sssdconfig:1.12.4-47.el6_7.4.noarch
-#   - libipa_hbac:1.12.4-47.el6_7.4.x86_64
-#   - libipa_hbac-devel:1.12.4-47.el6_7.4.x86_64
-#   - libipa_hbac-python:1.12.4-47.el6_7.4.x86_64
-#   - libsss_idmap:1.12.4-47.el6_7.4.x86_64
-#   - libsss_idmap-devel:1.12.4-47.el6_7.4.x86_64
-#   - libsss_nss_idmap:1.12.4-47.el6_7.4.x86_64
-#   - libsss_nss_idmap-devel:1.12.4-47.el6_7.4.x86_64
-#   - libsss_nss_idmap-python:1.12.4-47.el6_7.4.x86_64
-#   - libsss_simpleifp:1.12.4-47.el6_7.4.x86_64
-#   - libsss_simpleifp-devel:1.12.4-47.el6_7.4.x86_64
-#   - sssd:1.12.4-47.el6_7.4.x86_64
-#   - sssd-ad:1.12.4-47.el6_7.4.x86_64
-#   - sssd-client:1.12.4-47.el6_7.4.x86_64
-#   - sssd-common:1.12.4-47.el6_7.4.x86_64
-#   - sssd-common-pac:1.12.4-47.el6_7.4.x86_64
-#   - sssd-dbus:1.12.4-47.el6_7.4.x86_64
-#   - sssd-ipa:1.12.4-47.el6_7.4.x86_64
-#   - sssd-krb5:1.12.4-47.el6_7.4.x86_64
-#   - sssd-krb5-common:1.12.4-47.el6_7.4.x86_64
-#   - sssd-ldap:1.12.4-47.el6_7.4.x86_64
-#   - sssd-proxy:1.12.4-47.el6_7.4.x86_64
-#   - sssd-tools:1.12.4-47.el6_7.4.x86_64
+#   - python-sssdconfig.noarch:1.12.4-47.el6_7.4
+#   - libipa_hbac.x86_64:1.12.4-47.el6_7.4
+#   - libipa_hbac-devel.x86_64:1.12.4-47.el6_7.4
+#   - libipa_hbac-python.x86_64:1.12.4-47.el6_7.4
+#   - libsss_idmap.x86_64:1.12.4-47.el6_7.4
+#   - libsss_idmap-devel.x86_64:1.12.4-47.el6_7.4
+#   - libsss_nss_idmap.x86_64:1.12.4-47.el6_7.4
+#   - libsss_nss_idmap-devel.x86_64:1.12.4-47.el6_7.4
+#   - libsss_nss_idmap-python.x86_64:1.12.4-47.el6_7.4
+#   - libsss_simpleifp.x86_64:1.12.4-47.el6_7.4
+#   - libsss_simpleifp-devel.x86_64:1.12.4-47.el6_7.4
+#   - sssd.x86_64:1.12.4-47.el6_7.4
+#   - sssd-ad.x86_64:1.12.4-47.el6_7.4
+#   - sssd-client.x86_64:1.12.4-47.el6_7.4
+#   - sssd-common.x86_64:1.12.4-47.el6_7.4
+#   - sssd-common-pac.x86_64:1.12.4-47.el6_7.4
+#   - sssd-dbus.x86_64:1.12.4-47.el6_7.4
+#   - sssd-ipa.x86_64:1.12.4-47.el6_7.4
+#   - sssd-krb5.x86_64:1.12.4-47.el6_7.4
+#   - sssd-krb5-common.x86_64:1.12.4-47.el6_7.4
+#   - sssd-ldap.x86_64:1.12.4-47.el6_7.4
+#   - sssd-proxy.x86_64:1.12.4-47.el6_7.4
+#   - sssd-tools.x86_64:1.12.4-47.el6_7.4
+#   - libipa_hbac.i686:1.12.4-47.el6_7.4
+#   - libipa_hbac-devel.i686:1.12.4-47.el6_7.4
+#   - libsss_idmap.i686:1.12.4-47.el6_7.4
+#   - libsss_idmap-devel.i686:1.12.4-47.el6_7.4
+#   - libsss_nss_idmap.i686:1.12.4-47.el6_7.4
+#   - libsss_nss_idmap-devel.i686:1.12.4-47.el6_7.4
+#   - libsss_simpleifp.i686:1.12.4-47.el6_7.4
+#   - libsss_simpleifp-devel.i686:1.12.4-47.el6_7.4
+#   - sssd-client.i686:1.12.4-47.el6_7.4
 #
 # CVE List:
 #   - CVE-2015-5292
@@ -65,26 +83,35 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2015:2019
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install python-sssdconfig-1.12.4 -y 
-sudo yum install libipa_hbac-1.12.4 -y 
-sudo yum install libipa_hbac-devel-1.12.4 -y 
-sudo yum install libipa_hbac-python-1.12.4 -y 
-sudo yum install libsss_idmap-1.12.4 -y 
-sudo yum install libsss_idmap-devel-1.12.4 -y 
-sudo yum install libsss_nss_idmap-1.12.4 -y 
-sudo yum install libsss_nss_idmap-devel-1.12.4 -y 
-sudo yum install libsss_nss_idmap-python-1.12.4 -y 
-sudo yum install libsss_simpleifp-1.12.4 -y 
-sudo yum install libsss_simpleifp-devel-1.12.4 -y 
-sudo yum install sssd-1.12.4 -y 
-sudo yum install sssd-ad-1.12.4 -y 
-sudo yum install sssd-client-1.12.4 -y 
-sudo yum install sssd-common-1.12.4 -y 
-sudo yum install sssd-common-pac-1.12.4 -y 
-sudo yum install sssd-dbus-1.12.4 -y 
-sudo yum install sssd-ipa-1.12.4 -y 
-sudo yum install sssd-krb5-1.12.4 -y 
-sudo yum install sssd-krb5-common-1.12.4 -y 
-sudo yum install sssd-ldap-1.12.4 -y 
-sudo yum install sssd-proxy-1.12.4 -y 
-sudo yum install sssd-tools-1.12.4 -y 
+sudo yum install python-sssdconfig.noarch-1.12.4 -y 
+sudo yum install libipa_hbac.x86_64-1.12.4 -y 
+sudo yum install libipa_hbac-devel.x86_64-1.12.4 -y 
+sudo yum install libipa_hbac-python.x86_64-1.12.4 -y 
+sudo yum install libsss_idmap.x86_64-1.12.4 -y 
+sudo yum install libsss_idmap-devel.x86_64-1.12.4 -y 
+sudo yum install libsss_nss_idmap.x86_64-1.12.4 -y 
+sudo yum install libsss_nss_idmap-devel.x86_64-1.12.4 -y 
+sudo yum install libsss_nss_idmap-python.x86_64-1.12.4 -y 
+sudo yum install libsss_simpleifp.x86_64-1.12.4 -y 
+sudo yum install libsss_simpleifp-devel.x86_64-1.12.4 -y 
+sudo yum install sssd.x86_64-1.12.4 -y 
+sudo yum install sssd-ad.x86_64-1.12.4 -y 
+sudo yum install sssd-client.x86_64-1.12.4 -y 
+sudo yum install sssd-common.x86_64-1.12.4 -y 
+sudo yum install sssd-common-pac.x86_64-1.12.4 -y 
+sudo yum install sssd-dbus.x86_64-1.12.4 -y 
+sudo yum install sssd-ipa.x86_64-1.12.4 -y 
+sudo yum install sssd-krb5.x86_64-1.12.4 -y 
+sudo yum install sssd-krb5-common.x86_64-1.12.4 -y 
+sudo yum install sssd-ldap.x86_64-1.12.4 -y 
+sudo yum install sssd-proxy.x86_64-1.12.4 -y 
+sudo yum install sssd-tools.x86_64-1.12.4 -y 
+sudo yum install libipa_hbac.i686-1.12.4 -y 
+sudo yum install libipa_hbac-devel.i686-1.12.4 -y 
+sudo yum install libsss_idmap.i686-1.12.4 -y 
+sudo yum install libsss_idmap-devel.i686-1.12.4 -y 
+sudo yum install libsss_nss_idmap.i686-1.12.4 -y 
+sudo yum install libsss_nss_idmap-devel.i686-1.12.4 -y 
+sudo yum install libsss_simpleifp.i686-1.12.4 -y 
+sudo yum install libsss_simpleifp-devel.i686-1.12.4 -y 
+sudo yum install sssd-client.i686-1.12.4 -y 

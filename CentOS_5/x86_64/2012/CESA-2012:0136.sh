@@ -3,18 +3,22 @@
 # Security fix for CESA-2012:0136
 #
 # Security announcement date: 2012-02-15 09:08:27 UTC
-# Script generation date:     2016-01-06 19:07:00 UTC
+# Script generation date:     2016-02-04 19:11:29 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libvorbis:1.1.2-3.el5_7.6.x86_64
-#   - libvorbis-devel:1.1.2-3.el5_7.6.x86_64
+#   - libvorbis.x86_64:1.1.2-3.el5_7.6
+#   - libvorbis-devel.x86_64:1.1.2-3.el5_7.6
+#   - libvorbis.i386:1.1.2-3.el5_7.6
+#   - libvorbis-devel.i386:1.1.2-3.el5_7.6
 #
 # Last versions recommanded by security team:
-#   - libvorbis:1.1.2-3.el5_7.6.x86_64
-#   - libvorbis-devel:1.1.2-3.el5_7.6.x86_64
+#   - libvorbis.x86_64:1.1.2-3.el5_7.6
+#   - libvorbis-devel.x86_64:1.1.2-3.el5_7.6
+#   - libvorbis.i386:1.1.2-3.el5_7.6
+#   - libvorbis-devel.i386:1.1.2-3.el5_7.6
 #
 # CVE List:
 #   - CVE-2012-0444
@@ -23,5 +27,7 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2012:0136
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install libvorbis-1.1.2 -y 
-sudo yum install libvorbis-devel-1.1.2 -y 
+sudo yum install libvorbis.x86_64-1.1.2 -y 
+sudo yum install libvorbis-devel.x86_64-1.1.2 -y 
+sudo yum install libvorbis.i386-1.1.2 -y 
+sudo yum install libvorbis-devel.i386-1.1.2 -y 

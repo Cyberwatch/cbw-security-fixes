@@ -3,24 +3,24 @@
 # Security fix for CESA-2014:0348
 #
 # Security announcement date: 2014-04-02 12:17:13 UTC
-# Script generation date:     2016-01-06 19:07:46 UTC
+# Script generation date:     2016-02-04 19:12:22 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - xalan-j2:2.7.0-6jpp.2.x86_64
-#   - xalan-j2-demo:2.7.0-6jpp.2.x86_64
-#   - xalan-j2-javadoc:2.7.0-6jpp.2.x86_64
-#   - xalan-j2-manual:2.7.0-6jpp.2.x86_64
-#   - xalan-j2-xsltc:2.7.0-6jpp.2.x86_64
+#   - xalan-j2.x86_64:2.7.0-6jpp.2
+#   - xalan-j2-demo.x86_64:2.7.0-6jpp.2
+#   - xalan-j2-javadoc.x86_64:2.7.0-6jpp.2
+#   - xalan-j2-manual.x86_64:2.7.0-6jpp.2
+#   - xalan-j2-xsltc.x86_64:2.7.0-6jpp.2
 #
 # Last versions recommanded by security team:
-#   - xalan-j2:2.7.0-6jpp.2.x86_64
-#   - xalan-j2-demo:2.7.0-6jpp.2.x86_64
-#   - xalan-j2-javadoc:2.7.0-6jpp.2.x86_64
-#   - xalan-j2-manual:2.7.0-6jpp.2.x86_64
-#   - xalan-j2-xsltc:2.7.0-6jpp.2.x86_64
+#   - xalan-j2.x86_64:2.7.0-6jpp.2
+#   - xalan-j2-demo.x86_64:2.7.0-6jpp.2
+#   - xalan-j2-javadoc.x86_64:2.7.0-6jpp.2
+#   - xalan-j2-manual.x86_64:2.7.0-6jpp.2
+#   - xalan-j2-xsltc.x86_64:2.7.0-6jpp.2
 #
 # CVE List:
 #   - CVE-2014-0107
@@ -29,8 +29,8 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2014:0348
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install xalan-j2-2.7.0 -y 
-sudo yum install xalan-j2-demo-2.7.0 -y 
-sudo yum install xalan-j2-javadoc-2.7.0 -y 
-sudo yum install xalan-j2-manual-2.7.0 -y 
-sudo yum install xalan-j2-xsltc-2.7.0 -y 
+sudo yum install xalan-j2.x86_64-2.7.0 -y 
+sudo yum install xalan-j2-demo.x86_64-2.7.0 -y 
+sudo yum install xalan-j2-javadoc.x86_64-2.7.0 -y 
+sudo yum install xalan-j2-manual.x86_64-2.7.0 -y 
+sudo yum install xalan-j2-xsltc.x86_64-2.7.0 -y 

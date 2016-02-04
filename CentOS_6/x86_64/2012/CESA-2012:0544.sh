@@ -3,26 +3,34 @@
 # Security fix for CESA-2012:0544
 #
 # Security announcement date: 2012-05-07 22:49:25 UTC
-# Script generation date:     2016-01-06 19:07:04 UTC
+# Script generation date:     2016-02-04 19:11:34 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ImageMagick:6.5.4.7-6.el6_2.x86_64
-#   - :6.5.4.7-6.el6_2.x86_64
-#   - -devel:6.5.4.7-6.el6_2.x86_64
-#   - ImageMagick-devel:6.5.4.7-6.el6_2.x86_64
-#   - ImageMagick-doc:6.5.4.7-6.el6_2.x86_64
-#   - ImageMagick-perl:6.5.4.7-6.el6_2.x86_64
+#   - ImageMagick.x86_64:6.5.4.7-6.el6_2
+#   - .x86_64:6.5.4.7-6.el6_2
+#   - -devel.x86_64:6.5.4.7-6.el6_2
+#   - ImageMagick-devel.x86_64:6.5.4.7-6.el6_2
+#   - ImageMagick-doc.x86_64:6.5.4.7-6.el6_2
+#   - ImageMagick-perl.x86_64:6.5.4.7-6.el6_2
+#   - ImageMagick.i686:6.5.4.7-6.el6_2
+#   - .i686:6.5.4.7-6.el6_2
+#   - -devel.i686:6.5.4.7-6.el6_2
+#   - ImageMagick-devel.i686:6.5.4.7-6.el6_2
 #
 # Last versions recommanded by security team:
-#   - ImageMagick:6.5.4.7-6.el6_2.x86_64
-#   - :6.5.4.7-6.el6_2.x86_64
-#   - -devel:6.5.4.7-6.el6_2.x86_64
-#   - ImageMagick-devel:6.5.4.7-6.el6_2.x86_64
-#   - ImageMagick-doc:6.5.4.7-6.el6_2.x86_64
-#   - ImageMagick-perl:6.5.4.7-6.el6_2.x86_64
+#   - ImageMagick.x86_64:6.5.4.7-6.el6_2
+#   - .x86_64:6.5.4.7-6.el6_2
+#   - -devel.x86_64:6.5.4.7-6.el6_2
+#   - ImageMagick-devel.x86_64:6.5.4.7-6.el6_2
+#   - ImageMagick-doc.x86_64:6.5.4.7-6.el6_2
+#   - ImageMagick-perl.x86_64:6.5.4.7-6.el6_2
+#   - ImageMagick.i686:6.5.4.7-6.el6_2
+#   - .i686:6.5.4.7-6.el6_2
+#   - -devel.i686:6.5.4.7-6.el6_2
+#   - ImageMagick-devel.i686:6.5.4.7-6.el6_2
 #
 # CVE List:
 #   - CVE-2012-0247
@@ -36,9 +44,13 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2012:0544
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install ImageMagick-6.5.4.7 -y 
-sudo yum install -6.5.4.7 -y 
-sudo yum install -devel-6.5.4.7 -y 
-sudo yum install ImageMagick-devel-6.5.4.7 -y 
-sudo yum install ImageMagick-doc-6.5.4.7 -y 
-sudo yum install ImageMagick-perl-6.5.4.7 -y 
+sudo yum install ImageMagick.x86_64-6.5.4.7 -y 
+sudo yum install .x86_64-6.5.4.7 -y 
+sudo yum install -devel.x86_64-6.5.4.7 -y 
+sudo yum install ImageMagick-devel.x86_64-6.5.4.7 -y 
+sudo yum install ImageMagick-doc.x86_64-6.5.4.7 -y 
+sudo yum install ImageMagick-perl.x86_64-6.5.4.7 -y 
+sudo yum install ImageMagick.i686-6.5.4.7 -y 
+sudo yum install .i686-6.5.4.7 -y 
+sudo yum install -devel.i686-6.5.4.7 -y 
+sudo yum install ImageMagick-devel.i686-6.5.4.7 -y 

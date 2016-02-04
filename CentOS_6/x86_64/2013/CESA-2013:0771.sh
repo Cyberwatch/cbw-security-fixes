@@ -3,20 +3,24 @@
 # Security fix for CESA-2013:0771
 #
 # Security announcement date: 2013-04-24 21:39:40 UTC
-# Script generation date:     2016-01-06 19:07:31 UTC
+# Script generation date:     2016-02-04 19:12:05 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - curl:7.19.7-36.el6_4.x86_64
-#   - libcurl:7.19.7-36.el6_4.x86_64
-#   - libcurl-devel:7.19.7-36.el6_4.x86_64
+#   - curl.x86_64:7.19.7-36.el6_4
+#   - libcurl.x86_64:7.19.7-36.el6_4
+#   - libcurl-devel.x86_64:7.19.7-36.el6_4
+#   - libcurl.i686:7.19.7-36.el6_4
+#   - libcurl-devel.i686:7.19.7-36.el6_4
 #
 # Last versions recommanded by security team:
-#   - curl:7.19.7-46.el6.x86_64
-#   - libcurl:7.19.7-46.el6.x86_64
-#   - libcurl-devel:7.19.7-46.el6.x86_64
+#   - curl.x86_64:7.19.7-46.el6
+#   - libcurl.x86_64:7.19.7-46.el6
+#   - libcurl-devel.x86_64:7.19.7-46.el6
+#   - libcurl.i686:7.19.7-46.el6
+#   - libcurl-devel.i686:7.19.7-46.el6
 #
 # CVE List:
 #   - CVE-2013-1944
@@ -25,6 +29,8 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2013:0771
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install curl-7.19.7 -y 
-sudo yum install libcurl-7.19.7 -y 
-sudo yum install libcurl-devel-7.19.7 -y 
+sudo yum install curl.x86_64-7.19.7 -y 
+sudo yum install libcurl.x86_64-7.19.7 -y 
+sudo yum install libcurl-devel.x86_64-7.19.7 -y 
+sudo yum install libcurl.i686-7.19.7 -y 
+sudo yum install libcurl-devel.i686-7.19.7 -y 

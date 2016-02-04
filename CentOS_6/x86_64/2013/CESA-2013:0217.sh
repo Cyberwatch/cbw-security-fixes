@@ -3,18 +3,18 @@
 # Security fix for CESA-2013:0217
 #
 # Security announcement date: 2013-02-01 00:53:30 UTC
-# Script generation date:     2016-01-06 19:07:21 UTC
+# Script generation date:     2016-02-04 19:11:52 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mingw32-libxml2:2.7.6-6.el6_3.noarch
-#   - mingw32-libxml2-static:2.7.6-6.el6_3.noarch
+#   - mingw32-libxml2.noarch:2.7.6-6.el6_3
+#   - mingw32-libxml2-static.noarch:2.7.6-6.el6_3
 #
 # Last versions recommanded by security team:
-#   - mingw32-libxml2:2.7.6-6.el6_3.noarch
-#   - mingw32-libxml2-static:2.7.6-6.el6_3.noarch
+#   - mingw32-libxml2.noarch:2.7.6-6.el6_3
+#   - mingw32-libxml2-static.noarch:2.7.6-6.el6_3
 #
 # CVE List:
 #   - CVE-2011-3102
@@ -33,5 +33,5 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2013:0217
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install mingw32-libxml2-2.7.6 -y 
-sudo yum install mingw32-libxml2-static-2.7.6 -y 
+sudo yum install mingw32-libxml2.noarch-2.7.6 -y 
+sudo yum install mingw32-libxml2-static.noarch-2.7.6 -y 

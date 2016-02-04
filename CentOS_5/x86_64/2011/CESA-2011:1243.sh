@@ -3,16 +3,16 @@
 # Security fix for CESA-2011:1243
 #
 # Security announcement date: 2011-09-01 16:12:41 UTC
-# Script generation date:     2016-01-07 07:05:18 UTC
+# Script generation date:     2016-02-04 19:11:19 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - thunderbird:2.0.0.24-24.el5.centos.x86_64
+#   - thunderbird.x86_64:2.0.0.24-24.el5.centos
 #
 # Last versions recommanded by security team:
-#   - thunderbird:38.5.0-1.el5.centos.x86_64
+#   - thunderbird.x86_64:38.5.0-1.el5.centos
 #
 # CVE List:
 #
@@ -20,4 +20,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2011:1243
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird-38.5.0 -y 
+sudo yum install thunderbird.x86_64-38.5.0 -y 

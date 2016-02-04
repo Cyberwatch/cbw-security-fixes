@@ -3,18 +3,20 @@
 # Security fix for CESA-2007:0966
 #
 # Security announcement date: 2007-11-08 17:30:38 UTC
-# Script generation date:     2016-01-06 19:06:07 UTC
+# Script generation date:     2016-02-04 19:10:05 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - perl:5.8.8-10.el5_0.2.x86_64
-#   - perl-suidperl:5.8.8-10.el5_0.2.x86_64
+#   - perl.x86_64:5.8.8-10.el5_0.2
+#   - perl-suidperl.x86_64:5.8.8-10.el5_0.2
+#   - perl.i386:5.8.8-10.el5_0.2
 #
 # Last versions recommanded by security team:
-#   - perl:5.8.8-40.el5_9.x86_64
-#   - perl-suidperl:5.8.8-40.el5_9.x86_64
+#   - perl.x86_64:5.8.8-40.el5_9
+#   - perl-suidperl.x86_64:5.8.8-40.el5_9
+#   - perl.i386:5.8.8-10.el5_0.2
 #
 # CVE List:
 #
@@ -22,5 +24,6 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2007:0966
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install perl-5.8.8 -y 
-sudo yum install perl-suidperl-5.8.8 -y 
+sudo yum install perl.x86_64-5.8.8 -y 
+sudo yum install perl-suidperl.x86_64-5.8.8 -y 
+sudo yum install perl.i386-5.8.8 -y 

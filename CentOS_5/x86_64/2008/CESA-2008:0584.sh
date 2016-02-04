@@ -3,32 +3,44 @@
 # Security fix for CESA-2008:0584
 #
 # Security announcement date: 2008-07-10 07:51:51 UTC
-# Script generation date:     2016-01-06 19:06:16 UTC
+# Script generation date:     2016-02-04 19:10:35 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - finch:2.3.1-2.el5_2.x86_64
-#   - finch-devel:2.3.1-2.el5_2.x86_64
-#   - libpurple:2.3.1-2.el5_2.x86_64
-#   - libpurple-devel:2.3.1-2.el5_2.x86_64
-#   - libpurple-perl:2.3.1-2.el5_2.x86_64
-#   - libpurple-tcl:2.3.1-2.el5_2.x86_64
-#   - pidgin:2.3.1-2.el5_2.x86_64
-#   - pidgin-devel:2.3.1-2.el5_2.x86_64
-#   - pidgin-perl:2.3.1-2.el5_2.x86_64
+#   - finch.x86_64:2.3.1-2.el5_2
+#   - finch-devel.x86_64:2.3.1-2.el5_2
+#   - libpurple.x86_64:2.3.1-2.el5_2
+#   - libpurple-devel.x86_64:2.3.1-2.el5_2
+#   - libpurple-perl.x86_64:2.3.1-2.el5_2
+#   - libpurple-tcl.x86_64:2.3.1-2.el5_2
+#   - pidgin.x86_64:2.3.1-2.el5_2
+#   - pidgin-devel.x86_64:2.3.1-2.el5_2
+#   - pidgin-perl.x86_64:2.3.1-2.el5_2
+#   - finch.i386:2.3.1-2.el5_2
+#   - finch-devel.i386:2.3.1-2.el5_2
+#   - libpurple.i386:2.3.1-2.el5_2
+#   - libpurple-devel.i386:2.3.1-2.el5_2
+#   - pidgin.i386:2.3.1-2.el5_2
+#   - pidgin-devel.i386:2.3.1-2.el5_2
 #
 # Last versions recommanded by security team:
-#   - finch:2.6.6-32.el5.x86_64
-#   - finch-devel:2.6.6-32.el5.x86_64
-#   - libpurple:2.6.6-32.el5.x86_64
-#   - libpurple-devel:2.6.6-32.el5.x86_64
-#   - libpurple-perl:2.6.6-32.el5.x86_64
-#   - libpurple-tcl:2.6.6-32.el5.x86_64
-#   - pidgin:2.6.6-32.el5.x86_64
-#   - pidgin-devel:2.6.6-32.el5.x86_64
-#   - pidgin-perl:2.6.6-32.el5.x86_64
+#   - finch.x86_64:2.6.6-32.el5
+#   - finch-devel.x86_64:2.6.6-32.el5
+#   - libpurple.x86_64:2.6.6-32.el5
+#   - libpurple-devel.x86_64:2.6.6-32.el5
+#   - libpurple-perl.x86_64:2.6.6-32.el5
+#   - libpurple-tcl.x86_64:2.6.6-32.el5
+#   - pidgin.x86_64:2.6.6-32.el5
+#   - pidgin-devel.x86_64:2.6.6-32.el5
+#   - pidgin-perl.x86_64:2.6.6-32.el5
+#   - finch.i386:2.6.6-32.el5
+#   - finch-devel.i386:2.6.6-32.el5
+#   - libpurple.i386:2.6.6-32.el5
+#   - libpurple-devel.i386:2.6.6-32.el5
+#   - pidgin.i386:2.6.6-32.el5
+#   - pidgin-devel.i386:2.6.6-32.el5
 #
 # CVE List:
 #   - CVE-2008-2927
@@ -37,12 +49,18 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2008:0584
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install finch-2.6.6 -y 
-sudo yum install finch-devel-2.6.6 -y 
-sudo yum install libpurple-2.6.6 -y 
-sudo yum install libpurple-devel-2.6.6 -y 
-sudo yum install libpurple-perl-2.6.6 -y 
-sudo yum install libpurple-tcl-2.6.6 -y 
-sudo yum install pidgin-2.6.6 -y 
-sudo yum install pidgin-devel-2.6.6 -y 
-sudo yum install pidgin-perl-2.6.6 -y 
+sudo yum install finch.x86_64-2.6.6 -y 
+sudo yum install finch-devel.x86_64-2.6.6 -y 
+sudo yum install libpurple.x86_64-2.6.6 -y 
+sudo yum install libpurple-devel.x86_64-2.6.6 -y 
+sudo yum install libpurple-perl.x86_64-2.6.6 -y 
+sudo yum install libpurple-tcl.x86_64-2.6.6 -y 
+sudo yum install pidgin.x86_64-2.6.6 -y 
+sudo yum install pidgin-devel.x86_64-2.6.6 -y 
+sudo yum install pidgin-perl.x86_64-2.6.6 -y 
+sudo yum install finch.i386-2.6.6 -y 
+sudo yum install finch-devel.i386-2.6.6 -y 
+sudo yum install libpurple.i386-2.6.6 -y 
+sudo yum install libpurple-devel.i386-2.6.6 -y 
+sudo yum install pidgin.i386-2.6.6 -y 
+sudo yum install pidgin-devel.i386-2.6.6 -y 

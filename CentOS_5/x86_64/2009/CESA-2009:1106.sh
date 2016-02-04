@@ -3,30 +3,30 @@
 # Security fix for CESA-2009:1106
 #
 # Security announcement date: 2009-06-19 09:44:16 UTC
-# Script generation date:     2016-01-20 07:12:24 UTC
+# Script generation date:     2016-02-04 19:10:47 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - kernel:2.6.18-128.1.14.el5.x86_64
-#   - kernel-debug:2.6.18-128.1.14.el5.x86_64
-#   - kernel-debug-devel:2.6.18-128.1.14.el5.x86_64
-#   - kernel-devel:2.6.18-128.1.14.el5.x86_64
-#   - kernel-doc:2.6.18-128.1.14.el5.noarch
-#   - kernel-headers:2.6.18-128.1.14.el5.x86_64
-#   - kernel-xen:2.6.18-128.1.14.el5.x86_64
-#   - kernel-xen-devel:2.6.18-128.1.14.el5.x86_64
+#   - kernel.x86_64:2.6.18-128.1.14.el5
+#   - kernel-debug.x86_64:2.6.18-128.1.14.el5
+#   - kernel-debug-devel.x86_64:2.6.18-128.1.14.el5
+#   - kernel-devel.x86_64:2.6.18-128.1.14.el5
+#   - kernel-doc.noarch:2.6.18-128.1.14.el5
+#   - kernel-headers.x86_64:2.6.18-128.1.14.el5
+#   - kernel-xen.x86_64:2.6.18-128.1.14.el5
+#   - kernel-xen-devel.x86_64:2.6.18-128.1.14.el5
 #
 # Last versions recommanded by security team:
-#   - kernel:2.6.18-408.el5.x86_64
-#   - kernel-debug:2.6.18-408.el5.x86_64
-#   - kernel-debug-devel:2.6.18-408.el5.x86_64
-#   - kernel-devel:2.6.18-408.el5.x86_64
-#   - kernel-doc:2.6.18-408.el5.noarch
-#   - kernel-headers:2.6.18-408.el5.x86_64
-#   - kernel-xen:2.6.18-408.el5.x86_64
-#   - kernel-xen-devel:2.6.18-408.el5.x86_64
+#   - kernel.x86_64:2.6.18-408.el5
+#   - kernel-debug.x86_64:2.6.18-408.el5
+#   - kernel-debug-devel.x86_64:2.6.18-408.el5
+#   - kernel-devel.x86_64:2.6.18-408.el5
+#   - kernel-doc.noarch:2.6.18-408.el5
+#   - kernel-headers.x86_64:2.6.18-408.el5
+#   - kernel-xen.x86_64:2.6.18-408.el5
+#   - kernel-xen-devel.x86_64:2.6.18-408.el5
 #
 # CVE List:
 #   - CVE-2009-1072
@@ -40,11 +40,11 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2009:1106
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install kernel-2.6.18 -y 
-sudo yum install kernel-debug-2.6.18 -y 
-sudo yum install kernel-debug-devel-2.6.18 -y 
-sudo yum install kernel-devel-2.6.18 -y 
-sudo yum install kernel-doc-2.6.18 -y 
-sudo yum install kernel-headers-2.6.18 -y 
-sudo yum install kernel-xen-2.6.18 -y 
-sudo yum install kernel-xen-devel-2.6.18 -y 
+sudo yum install kernel.x86_64-2.6.18 -y 
+sudo yum install kernel-debug.x86_64-2.6.18 -y 
+sudo yum install kernel-debug-devel.x86_64-2.6.18 -y 
+sudo yum install kernel-devel.x86_64-2.6.18 -y 
+sudo yum install kernel-doc.noarch-2.6.18 -y 
+sudo yum install kernel-headers.x86_64-2.6.18 -y 
+sudo yum install kernel-xen.x86_64-2.6.18 -y 
+sudo yum install kernel-xen-devel.x86_64-2.6.18 -y 

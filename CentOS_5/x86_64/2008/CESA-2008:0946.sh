@@ -3,16 +3,16 @@
 # Security fix for CESA-2008:0946
 #
 # Security announcement date: 2008-10-24 00:00:51 UTC
-# Script generation date:     2016-01-06 19:06:19 UTC
+# Script generation date:     2016-02-04 19:10:38 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ed:0.2-39.el5_2.x86_64
+#   - ed.x86_64:0.2-39.el5_2
 #
 # Last versions recommanded by security team:
-#   - ed:0.2-39.el5_2.x86_64
+#   - ed.x86_64:0.2-39.el5_2
 #
 # CVE List:
 #   - CVE-2008-3916
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2008:0946
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install ed-0.2 -y 
+sudo yum install ed.x86_64-0.2 -y 

@@ -3,32 +3,38 @@
 # Security fix for CESA-2015:1636
 #
 # Security announcement date: 2015-08-17 16:54:59 UTC
-# Script generation date:     2016-01-06 19:08:19 UTC
+# Script generation date:     2016-02-04 19:13:00 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - net-snmp:5.7.2-20.el7_1.1.x86_64
-#   - net-snmp-agent-libs:5.7.2-20.el7_1.1.x86_64
-#   - net-snmp-devel:5.7.2-20.el7_1.1.x86_64
-#   - net-snmp-gui:5.7.2-20.el7_1.1.x86_64
-#   - net-snmp-libs:5.7.2-20.el7_1.1.x86_64
-#   - net-snmp-perl:5.7.2-20.el7_1.1.x86_64
-#   - net-snmp-python:5.7.2-20.el7_1.1.x86_64
-#   - net-snmp-sysvinit:5.7.2-20.el7_1.1.x86_64
-#   - net-snmp-utils:5.7.2-20.el7_1.1.x86_64
+#   - net-snmp.x86_64:5.7.2-20.el7_1.1
+#   - net-snmp-agent-libs.x86_64:5.7.2-20.el7_1.1
+#   - net-snmp-devel.x86_64:5.7.2-20.el7_1.1
+#   - net-snmp-gui.x86_64:5.7.2-20.el7_1.1
+#   - net-snmp-libs.x86_64:5.7.2-20.el7_1.1
+#   - net-snmp-perl.x86_64:5.7.2-20.el7_1.1
+#   - net-snmp-python.x86_64:5.7.2-20.el7_1.1
+#   - net-snmp-sysvinit.x86_64:5.7.2-20.el7_1.1
+#   - net-snmp-utils.x86_64:5.7.2-20.el7_1.1
+#   - net-snmp-agent-libs.i686:5.7.2-20.el7_1.1
+#   - net-snmp-devel.i686:5.7.2-20.el7_1.1
+#   - net-snmp-libs.i686:5.7.2-20.el7_1.1
 #
 # Last versions recommanded by security team:
-#   - net-snmp:5.7.2-24.el7.x86_64
-#   - net-snmp-agent-libs:5.7.2-24.el7.x86_64
-#   - net-snmp-devel:5.7.2-24.el7.x86_64
-#   - net-snmp-gui:5.7.2-24.el7.x86_64
-#   - net-snmp-libs:5.7.2-24.el7.x86_64
-#   - net-snmp-perl:5.7.2-24.el7.x86_64
-#   - net-snmp-python:5.7.2-24.el7.x86_64
-#   - net-snmp-sysvinit:5.7.2-24.el7.x86_64
-#   - net-snmp-utils:5.7.2-24.el7.x86_64
+#   - net-snmp.x86_64:5.7.2-24.el7
+#   - net-snmp-agent-libs.x86_64:5.7.2-24.el7
+#   - net-snmp-devel.x86_64:5.7.2-24.el7
+#   - net-snmp-gui.x86_64:5.7.2-24.el7
+#   - net-snmp-libs.x86_64:5.7.2-24.el7
+#   - net-snmp-perl.x86_64:5.7.2-24.el7
+#   - net-snmp-python.x86_64:5.7.2-24.el7
+#   - net-snmp-sysvinit.x86_64:5.7.2-24.el7
+#   - net-snmp-utils.x86_64:5.7.2-24.el7
+#   - net-snmp-agent-libs.i686:5.7.2-24.el7
+#   - net-snmp-devel.i686:5.7.2-24.el7
+#   - net-snmp-libs.i686:5.7.2-24.el7
 #
 # CVE List:
 #   - CVE-2015-5621
@@ -37,12 +43,15 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2015:1636
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install net-snmp-5.7.2 -y 
-sudo yum install net-snmp-agent-libs-5.7.2 -y 
-sudo yum install net-snmp-devel-5.7.2 -y 
-sudo yum install net-snmp-gui-5.7.2 -y 
-sudo yum install net-snmp-libs-5.7.2 -y 
-sudo yum install net-snmp-perl-5.7.2 -y 
-sudo yum install net-snmp-python-5.7.2 -y 
-sudo yum install net-snmp-sysvinit-5.7.2 -y 
-sudo yum install net-snmp-utils-5.7.2 -y 
+sudo yum install net-snmp.x86_64-5.7.2 -y 
+sudo yum install net-snmp-agent-libs.x86_64-5.7.2 -y 
+sudo yum install net-snmp-devel.x86_64-5.7.2 -y 
+sudo yum install net-snmp-gui.x86_64-5.7.2 -y 
+sudo yum install net-snmp-libs.x86_64-5.7.2 -y 
+sudo yum install net-snmp-perl.x86_64-5.7.2 -y 
+sudo yum install net-snmp-python.x86_64-5.7.2 -y 
+sudo yum install net-snmp-sysvinit.x86_64-5.7.2 -y 
+sudo yum install net-snmp-utils.x86_64-5.7.2 -y 
+sudo yum install net-snmp-agent-libs.i686-5.7.2 -y 
+sudo yum install net-snmp-devel.i686-5.7.2 -y 
+sudo yum install net-snmp-libs.i686-5.7.2 -y 

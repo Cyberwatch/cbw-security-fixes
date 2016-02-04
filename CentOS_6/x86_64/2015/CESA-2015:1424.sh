@@ -3,30 +3,36 @@
 # Security fix for CESA-2015:1424
 #
 # Security announcement date: 2015-07-26 14:12:39 UTC
-# Script generation date:     2016-01-06 19:08:17 UTC
+# Script generation date:     2016-02-04 19:12:58 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - pacemaker:1.1.12-8.el6.x86_64
-#   - pacemaker-cli:1.1.12-8.el6.x86_64
-#   - pacemaker-cluster-libs:1.1.12-8.el6.x86_64
-#   - pacemaker-cts:1.1.12-8.el6.x86_64
-#   - pacemaker-doc:1.1.12-8.el6.x86_64
-#   - pacemaker-libs:1.1.12-8.el6.x86_64
-#   - pacemaker-libs-devel:1.1.12-8.el6.x86_64
-#   - pacemaker-remote:1.1.12-8.el6.x86_64
+#   - pacemaker.x86_64:1.1.12-8.el6
+#   - pacemaker-cli.x86_64:1.1.12-8.el6
+#   - pacemaker-cluster-libs.x86_64:1.1.12-8.el6
+#   - pacemaker-cts.x86_64:1.1.12-8.el6
+#   - pacemaker-doc.x86_64:1.1.12-8.el6
+#   - pacemaker-libs.x86_64:1.1.12-8.el6
+#   - pacemaker-libs-devel.x86_64:1.1.12-8.el6
+#   - pacemaker-remote.x86_64:1.1.12-8.el6
+#   - pacemaker-cluster-libs.i686:1.1.12-8.el6
+#   - pacemaker-libs.i686:1.1.12-8.el6
+#   - pacemaker-libs-devel.i686:1.1.12-8.el6
 #
 # Last versions recommanded by security team:
-#   - pacemaker:1.1.12-8.el6.x86_64
-#   - pacemaker-cli:1.1.12-8.el6.x86_64
-#   - pacemaker-cluster-libs:1.1.12-8.el6.x86_64
-#   - pacemaker-cts:1.1.12-8.el6.x86_64
-#   - pacemaker-doc:1.1.12-8.el6.x86_64
-#   - pacemaker-libs:1.1.12-8.el6.x86_64
-#   - pacemaker-libs-devel:1.1.12-8.el6.x86_64
-#   - pacemaker-remote:1.1.12-8.el6.x86_64
+#   - pacemaker.x86_64:1.1.12-8.el6
+#   - pacemaker-cli.x86_64:1.1.12-8.el6
+#   - pacemaker-cluster-libs.x86_64:1.1.12-8.el6
+#   - pacemaker-cts.x86_64:1.1.12-8.el6
+#   - pacemaker-doc.x86_64:1.1.12-8.el6
+#   - pacemaker-libs.x86_64:1.1.12-8.el6
+#   - pacemaker-libs-devel.x86_64:1.1.12-8.el6
+#   - pacemaker-remote.x86_64:1.1.12-8.el6
+#   - pacemaker-cluster-libs.i686:1.1.12-8.el6
+#   - pacemaker-libs.i686:1.1.12-8.el6
+#   - pacemaker-libs-devel.i686:1.1.12-8.el6
 #
 # CVE List:
 #   - CVE-2015-1867
@@ -35,11 +41,14 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2015:1424
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install pacemaker-1.1.12 -y 
-sudo yum install pacemaker-cli-1.1.12 -y 
-sudo yum install pacemaker-cluster-libs-1.1.12 -y 
-sudo yum install pacemaker-cts-1.1.12 -y 
-sudo yum install pacemaker-doc-1.1.12 -y 
-sudo yum install pacemaker-libs-1.1.12 -y 
-sudo yum install pacemaker-libs-devel-1.1.12 -y 
-sudo yum install pacemaker-remote-1.1.12 -y 
+sudo yum install pacemaker.x86_64-1.1.12 -y 
+sudo yum install pacemaker-cli.x86_64-1.1.12 -y 
+sudo yum install pacemaker-cluster-libs.x86_64-1.1.12 -y 
+sudo yum install pacemaker-cts.x86_64-1.1.12 -y 
+sudo yum install pacemaker-doc.x86_64-1.1.12 -y 
+sudo yum install pacemaker-libs.x86_64-1.1.12 -y 
+sudo yum install pacemaker-libs-devel.x86_64-1.1.12 -y 
+sudo yum install pacemaker-remote.x86_64-1.1.12 -y 
+sudo yum install pacemaker-cluster-libs.i686-1.1.12 -y 
+sudo yum install pacemaker-libs.i686-1.1.12 -y 
+sudo yum install pacemaker-libs-devel.i686-1.1.12 -y 

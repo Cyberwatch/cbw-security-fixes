@@ -3,24 +3,24 @@
 # Security fix for CESA-2013:0896
 #
 # Security announcement date: 2013-06-03 23:30:45 UTC
-# Script generation date:     2016-02-02 07:13:11 UTC
+# Script generation date:     2016-02-04 19:12:07 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - qemu-guest-agent:0.12.1.2-2.355.0.1.el6.centos.5.x86_64
-#   - qemu-guest-agent-win32:0.12.1.2-2.355.0.1.el6.centos.5.x86_64
-#   - qemu-img:0.12.1.2-2.355.0.1.el6.centos.5.x86_64
-#   - qemu-kvm:0.12.1.2-2.355.0.1.el6.centos.5.x86_64
-#   - qemu-kvm-tools:0.12.1.2-2.355.0.1.el6.centos.5.x86_64
+#   - qemu-guest-agent.x86_64:0.12.1.2-2.355.0.1.el6.centos.5
+#   - qemu-guest-agent-win32.x86_64:0.12.1.2-2.355.0.1.el6.centos.5
+#   - qemu-img.x86_64:0.12.1.2-2.355.0.1.el6.centos.5
+#   - qemu-kvm.x86_64:0.12.1.2-2.355.0.1.el6.centos.5
+#   - qemu-kvm-tools.x86_64:0.12.1.2-2.355.0.1.el6.centos.5
 #
 # Last versions recommanded by security team:
-#   - qemu-guest-agent:0.12.1.2-2.479.el6_7.4.x86_64
-#   - qemu-guest-agent-win32:0.12.1.2-2.355.0.1.el6.centos.6.x86_64
-#   - qemu-img:0.12.1.2-2.479.el6_7.4.x86_64
-#   - qemu-kvm:0.12.1.2-2.479.el6_7.4.x86_64
-#   - qemu-kvm-tools:0.12.1.2-2.479.el6_7.4.x86_64
+#   - qemu-guest-agent.x86_64:0.12.1.2-2.479.el6_7.4
+#   - qemu-guest-agent-win32.x86_64:0.12.1.2-2.355.0.1.el6.centos.6
+#   - qemu-img.x86_64:0.12.1.2-2.479.el6_7.4
+#   - qemu-kvm.x86_64:0.12.1.2-2.479.el6_7.4
+#   - qemu-kvm-tools.x86_64:0.12.1.2-2.479.el6_7.4
 #
 # CVE List:
 #   - CVE-2013-2007
@@ -29,8 +29,8 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2013:0896
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install qemu-guest-agent-0.12.1.2 -y 
-sudo yum install qemu-guest-agent-win32-0.12.1.2 -y 
-sudo yum install qemu-img-0.12.1.2 -y 
-sudo yum install qemu-kvm-0.12.1.2 -y 
-sudo yum install qemu-kvm-tools-0.12.1.2 -y 
+sudo yum install qemu-guest-agent.x86_64-0.12.1.2 -y 
+sudo yum install qemu-guest-agent-win32.x86_64-0.12.1.2 -y 
+sudo yum install qemu-img.x86_64-0.12.1.2 -y 
+sudo yum install qemu-kvm.x86_64-0.12.1.2 -y 
+sudo yum install qemu-kvm-tools.x86_64-0.12.1.2 -y 

@@ -3,18 +3,18 @@
 # Security fix for CESA-2014:0341
 #
 # Security announcement date: 2014-03-31 17:51:37 UTC
-# Script generation date:     2016-01-06 19:07:46 UTC
+# Script generation date:     2016-02-04 19:12:22 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - wireshark:1.0.15-6.el5_10.x86_64
-#   - wireshark-gnome:1.0.15-6.el5_10.x86_64
+#   - wireshark.x86_64:1.0.15-6.el5_10
+#   - wireshark-gnome.x86_64:1.0.15-6.el5_10
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.0.15-7.el5_11.x86_64
-#   - wireshark-gnome:1.0.15-7.el5_11.x86_64
+#   - wireshark.x86_64:1.0.15-7.el5_11
+#   - wireshark-gnome.x86_64:1.0.15-7.el5_11
 #
 # CVE List:
 #   - CVE-2013-5721
@@ -44,5 +44,5 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2014:0341
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install wireshark-1.0.15 -y 
-sudo yum install wireshark-gnome-1.0.15 -y 
+sudo yum install wireshark.x86_64-1.0.15 -y 
+sudo yum install wireshark-gnome.x86_64-1.0.15 -y 

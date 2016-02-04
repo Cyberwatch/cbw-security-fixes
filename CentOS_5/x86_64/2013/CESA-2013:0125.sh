@@ -3,18 +3,18 @@
 # Security fix for CESA-2013:0125
 #
 # Security announcement date: 2013-01-11 13:19:17 UTC
-# Script generation date:     2016-01-06 19:07:20 UTC
+# Script generation date:     2016-02-04 19:11:52 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - wireshark:1.0.15-5.el5.x86_64
-#   - wireshark-gnome:1.0.15-5.el5.x86_64
+#   - wireshark.x86_64:1.0.15-5.el5
+#   - wireshark-gnome.x86_64:1.0.15-5.el5
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.0.15-7.el5_11.x86_64
-#   - wireshark-gnome:1.0.15-7.el5_11.x86_64
+#   - wireshark.x86_64:1.0.15-7.el5_11
+#   - wireshark-gnome.x86_64:1.0.15-7.el5_11
 #
 # CVE List:
 #   - CVE-2011-1958
@@ -35,5 +35,5 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2013:0125
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install wireshark-1.0.15 -y 
-sudo yum install wireshark-gnome-1.0.15 -y 
+sudo yum install wireshark.x86_64-1.0.15 -y 
+sudo yum install wireshark-gnome.x86_64-1.0.15 -y 

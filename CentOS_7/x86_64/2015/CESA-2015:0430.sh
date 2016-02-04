@@ -3,16 +3,16 @@
 # Security fix for CESA-2015:0430
 #
 # Security announcement date: 2015-03-17 13:30:09 UTC
-# Script generation date:     2016-01-06 19:08:10 UTC
+# Script generation date:     2016-02-04 19:12:49 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - virt-who:0.11-5.el7.noarch
+#   - virt-who.noarch:0.11-5.el7
 #
 # Last versions recommanded by security team:
-#   - virt-who:0.11-5.el7.noarch
+#   - virt-who.noarch:0.11-5.el7
 #
 # CVE List:
 #   - CVE-2014-0189
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2015:0430
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install virt-who-0.11 -y 
+sudo yum install virt-who.noarch-0.11 -y 

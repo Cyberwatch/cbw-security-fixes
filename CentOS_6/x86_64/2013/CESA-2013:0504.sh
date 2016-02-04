@@ -3,22 +3,24 @@
 # Security fix for CESA-2013:0504
 #
 # Security announcement date: 2013-03-09 00:40:01 UTC
-# Script generation date:     2016-01-06 19:07:26 UTC
+# Script generation date:     2016-02-04 19:11:58 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - dhclient:4.1.1-34.P1.el6.centos.x86_64
-#   - dhcp:4.1.1-34.P1.el6.centos.x86_64
-#   - dhcp-common:4.1.1-34.P1.el6.centos.x86_64
-#   - dhcp-devel:4.1.1-34.P1.el6.centos.x86_64
+#   - dhclient.x86_64:4.1.1-34.P1.el6.centos
+#   - dhcp.x86_64:4.1.1-34.P1.el6.centos
+#   - dhcp-common.x86_64:4.1.1-34.P1.el6.centos
+#   - dhcp-devel.x86_64:4.1.1-34.P1.el6.centos
+#   - dhcp-devel.i686:4.1.1-34.P1.el6.centos
 #
 # Last versions recommanded by security team:
-#   - dhclient:4.1.1-34.P1.el6.centos.x86_64
-#   - dhcp:4.1.1-34.P1.el6.centos.x86_64
-#   - dhcp-common:4.1.1-34.P1.el6.centos.x86_64
-#   - dhcp-devel:4.1.1-34.P1.el6.centos.x86_64
+#   - dhclient.x86_64:4.1.1-34.P1.el6.centos
+#   - dhcp.x86_64:4.1.1-34.P1.el6.centos
+#   - dhcp-common.x86_64:4.1.1-34.P1.el6.centos
+#   - dhcp-devel.x86_64:4.1.1-34.P1.el6.centos
+#   - dhcp-devel.i686:4.1.1-34.P1.el6.centos
 #
 # CVE List:
 #
@@ -26,7 +28,8 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2013:0504
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install dhclient-4.1.1 -y 
-sudo yum install dhcp-4.1.1 -y 
-sudo yum install dhcp-common-4.1.1 -y 
-sudo yum install dhcp-devel-4.1.1 -y 
+sudo yum install dhclient.x86_64-4.1.1 -y 
+sudo yum install dhcp.x86_64-4.1.1 -y 
+sudo yum install dhcp-common.x86_64-4.1.1 -y 
+sudo yum install dhcp-devel.x86_64-4.1.1 -y 
+sudo yum install dhcp-devel.i686-4.1.1 -y 

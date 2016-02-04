@@ -3,28 +3,34 @@
 # Security fix for CESA-2013:0516
 #
 # Security announcement date: 2013-03-09 00:40:13 UTC
-# Script generation date:     2016-01-06 19:07:25 UTC
+# Script generation date:     2016-02-04 19:11:58 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - evolution-help:2.28.3-30.el6.noarch
-#   - evolution:2.28.3-30.el6.x86_64
-#   - evolution-conduits:2.28.3-30.el6.x86_64
-#   - evolution-devel:2.28.3-30.el6.x86_64
-#   - evolution-perl:2.28.3-30.el6.x86_64
-#   - evolution-pst:2.28.3-30.el6.x86_64
-#   - evolution-spamassassin:2.28.3-30.el6.x86_64
+#   - evolution-help.noarch:2.28.3-30.el6
+#   - evolution.x86_64:2.28.3-30.el6
+#   - evolution-conduits.x86_64:2.28.3-30.el6
+#   - evolution-devel.x86_64:2.28.3-30.el6
+#   - evolution-perl.x86_64:2.28.3-30.el6
+#   - evolution-pst.x86_64:2.28.3-30.el6
+#   - evolution-spamassassin.x86_64:2.28.3-30.el6
+#   - evolution.i686:2.28.3-30.el6
+#   - evolution-conduits.i686:2.28.3-30.el6
+#   - evolution-devel.i686:2.28.3-30.el6
 #
 # Last versions recommanded by security team:
-#   - evolution-help:2.32.3-30.el6.noarch
-#   - evolution:2.32.3-30.el6.x86_64
-#   - evolution-conduits:2.28.3-30.el6.x86_64
-#   - evolution-devel:2.32.3-30.el6.x86_64
-#   - evolution-perl:2.32.3-30.el6.x86_64
-#   - evolution-pst:2.32.3-30.el6.x86_64
-#   - evolution-spamassassin:2.32.3-30.el6.x86_64
+#   - evolution-help.noarch:2.32.3-30.el6
+#   - evolution.x86_64:2.32.3-30.el6
+#   - evolution-conduits.x86_64:2.28.3-30.el6
+#   - evolution-devel.x86_64:2.32.3-30.el6
+#   - evolution-perl.x86_64:2.32.3-30.el6
+#   - evolution-pst.x86_64:2.32.3-30.el6
+#   - evolution-spamassassin.x86_64:2.32.3-30.el6
+#   - evolution.i686:2.32.3-30.el6
+#   - evolution-conduits.i686:2.28.3-30.el6
+#   - evolution-devel.i686:2.32.3-30.el6
 #
 # CVE List:
 #
@@ -32,10 +38,13 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2013:0516
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install evolution-help-2.32.3 -y 
-sudo yum install evolution-2.32.3 -y 
-sudo yum install evolution-conduits-2.28.3 -y 
-sudo yum install evolution-devel-2.32.3 -y 
-sudo yum install evolution-perl-2.32.3 -y 
-sudo yum install evolution-pst-2.32.3 -y 
-sudo yum install evolution-spamassassin-2.32.3 -y 
+sudo yum install evolution-help.noarch-2.32.3 -y 
+sudo yum install evolution.x86_64-2.32.3 -y 
+sudo yum install evolution-conduits.x86_64-2.28.3 -y 
+sudo yum install evolution-devel.x86_64-2.32.3 -y 
+sudo yum install evolution-perl.x86_64-2.32.3 -y 
+sudo yum install evolution-pst.x86_64-2.32.3 -y 
+sudo yum install evolution-spamassassin.x86_64-2.32.3 -y 
+sudo yum install evolution.i686-2.32.3 -y 
+sudo yum install evolution-conduits.i686-2.28.3 -y 
+sudo yum install evolution-devel.i686-2.32.3 -y 

@@ -3,38 +3,68 @@
 # Security fix for CESA-2008:0207
 #
 # Security announcement date: 2008-03-27 23:06:04 UTC
-# Script generation date:     2016-01-28 07:11:52 UTC
+# Script generation date:     2016-02-04 19:10:21 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:1.5.0.12-14.el5.centos.x86_64
-#   - firefox-devel:1.5.0.12-14.el5.centos.x86_64
-#   - seamonkey:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-chat:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-devel:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-dom-inspector:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-js-debugger:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-mail:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-nspr:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-nspr-devel:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-nss:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-nss-devel:1.0.9-0.16.el3.centos3.x86_64
+#   - firefox.x86_64:1.5.0.12-14.el5.centos
+#   - firefox-devel.x86_64:1.5.0.12-14.el5.centos
+#   - seamonkey.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-chat.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-devel.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-dom-inspector.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-js-debugger.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-mail.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-nspr.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-nspr-devel.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-nss.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-nss-devel.x86_64:1.0.9-0.16.el3.centos3
+#   - firefox.i386:1.5.0.12-14.el5.centos
+#   - firefox-devel.i386:1.5.0.12-14.el5.centos
+#   - seamonkey.i386:1.0.9-0.14.el2.c2.1
+#   - seamonkey-chat.i386:1.0.9-0.14.el2.c2.1
+#   - seamonkey-devel.i386:1.0.9-0.14.el2.c2.1
+#   - seamonkey-dom-inspector.i386:1.0.9-0.14.el2.c2.1
+#   - seamonkey-js-debugger.i386:1.0.9-0.14.el2.c2.1
+#   - seamonkey-mail.i386:1.0.9-0.14.el2.c2.1
+#   - seamonkey-nspr.i386:1.0.9-0.14.el2.c2.1
+#   - seamonkey-nspr-devel.i386:1.0.9-0.14.el2.c2.1
+#   - seamonkey-nss.i386:1.0.9-0.14.el2.c2.1
+#   - seamonkey-nss-devel.i386:1.0.9-0.14.el2.c2.1
+#   - seamonkey.i386:1.0.9-0.16.el3.centos3
+#   - seamonkey-nspr.i386:1.0.9-0.16.el3.centos3
+#   - seamonkey-nss.i386:1.0.9-0.16.el3.centos3
 #
 # Last versions recommanded by security team:
-#   - firefox:38.6.0-1.el5.centos.x86_64
-#   - firefox-devel:1.5.0.12-15.el5.centos.x86_64
-#   - seamonkey:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-chat:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-devel:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-dom-inspector:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-js-debugger:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-mail:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-nspr:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-nspr-devel:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-nss:1.0.9-0.16.el3.centos3.x86_64
-#   - seamonkey-nss-devel:1.0.9-0.16.el3.centos3.x86_64
+#   - firefox.x86_64:38.6.0-1.el5.centos
+#   - firefox-devel.x86_64:1.5.0.12-15.el5.centos
+#   - seamonkey.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-chat.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-devel.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-dom-inspector.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-js-debugger.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-mail.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-nspr.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-nspr-devel.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-nss.x86_64:1.0.9-0.16.el3.centos3
+#   - seamonkey-nss-devel.x86_64:1.0.9-0.16.el3.centos3
+#   - firefox.i386:38.6.0-1.el5.centos
+#   - firefox-devel.i386:1.5.0.12-15.el5.centos
+#   - seamonkey.i386:1.0.9-0.33.el2.c2.1
+#   - seamonkey-chat.i386:1.0.9-0.33.el2.c2.1
+#   - seamonkey-devel.i386:1.0.9-0.33.el2.c2.1
+#   - seamonkey-dom-inspector.i386:1.0.9-0.33.el2.c2.1
+#   - seamonkey-js-debugger.i386:1.0.9-0.33.el2.c2.1
+#   - seamonkey-mail.i386:1.0.9-0.33.el2.c2.1
+#   - seamonkey-nspr.i386:1.0.9-0.33.el2.c2.1
+#   - seamonkey-nspr-devel.i386:1.0.9-0.33.el2.c2.1
+#   - seamonkey-nss.i386:1.0.9-0.33.el2.c2.1
+#   - seamonkey-nss-devel.i386:1.0.9-0.33.el2.c2.1
+#   - seamonkey.i386:1.0.9-0.33.el2.c2.1
+#   - seamonkey-nspr.i386:1.0.9-0.33.el2.c2.1
+#   - seamonkey-nss.i386:1.0.9-0.33.el2.c2.1
 #
 # CVE List:
 #   - CVE-2008-1235
@@ -49,15 +79,30 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2008:0207
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.6.0 -y 
-sudo yum install firefox-devel-1.5.0.12 -y 
-sudo yum install seamonkey-1.0.9 -y 
-sudo yum install seamonkey-chat-1.0.9 -y 
-sudo yum install seamonkey-devel-1.0.9 -y 
-sudo yum install seamonkey-dom-inspector-1.0.9 -y 
-sudo yum install seamonkey-js-debugger-1.0.9 -y 
-sudo yum install seamonkey-mail-1.0.9 -y 
-sudo yum install seamonkey-nspr-1.0.9 -y 
-sudo yum install seamonkey-nspr-devel-1.0.9 -y 
-sudo yum install seamonkey-nss-1.0.9 -y 
-sudo yum install seamonkey-nss-devel-1.0.9 -y 
+sudo yum install firefox.x86_64-38.6.0 -y 
+sudo yum install firefox-devel.x86_64-1.5.0.12 -y 
+sudo yum install seamonkey.x86_64-1.0.9 -y 
+sudo yum install seamonkey-chat.x86_64-1.0.9 -y 
+sudo yum install seamonkey-devel.x86_64-1.0.9 -y 
+sudo yum install seamonkey-dom-inspector.x86_64-1.0.9 -y 
+sudo yum install seamonkey-js-debugger.x86_64-1.0.9 -y 
+sudo yum install seamonkey-mail.x86_64-1.0.9 -y 
+sudo yum install seamonkey-nspr.x86_64-1.0.9 -y 
+sudo yum install seamonkey-nspr-devel.x86_64-1.0.9 -y 
+sudo yum install seamonkey-nss.x86_64-1.0.9 -y 
+sudo yum install seamonkey-nss-devel.x86_64-1.0.9 -y 
+sudo yum install firefox.i386-38.6.0 -y 
+sudo yum install firefox-devel.i386-1.5.0.12 -y 
+sudo yum install seamonkey.i386-1.0.9 -y 
+sudo yum install seamonkey-chat.i386-1.0.9 -y 
+sudo yum install seamonkey-devel.i386-1.0.9 -y 
+sudo yum install seamonkey-dom-inspector.i386-1.0.9 -y 
+sudo yum install seamonkey-js-debugger.i386-1.0.9 -y 
+sudo yum install seamonkey-mail.i386-1.0.9 -y 
+sudo yum install seamonkey-nspr.i386-1.0.9 -y 
+sudo yum install seamonkey-nspr-devel.i386-1.0.9 -y 
+sudo yum install seamonkey-nss.i386-1.0.9 -y 
+sudo yum install seamonkey-nss-devel.i386-1.0.9 -y 
+sudo yum install seamonkey.i386-1.0.9 -y 
+sudo yum install seamonkey-nspr.i386-1.0.9 -y 
+sudo yum install seamonkey-nss.i386-1.0.9 -y 

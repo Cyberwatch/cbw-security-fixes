@@ -3,18 +3,22 @@
 # Security fix for CESA-2009:1452
 #
 # Security announcement date: 2009-10-30 14:43:55 UTC
-# Script generation date:     2016-01-06 19:06:30 UTC
+# Script generation date:     2016-02-04 19:10:53 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - neon:0.25.5-10.el5_4.1.x86_64
-#   - neon-devel:0.25.5-10.el5_4.1.x86_64
+#   - neon.x86_64:0.25.5-10.el5_4.1
+#   - neon-devel.x86_64:0.25.5-10.el5_4.1
+#   - neon.i386:0.25.5-10.el5_4.1
+#   - neon-devel.i386:0.25.5-10.el5_4.1
 #
 # Last versions recommanded by security team:
-#   - neon:0.25.5-10.el5_4.1.x86_64
-#   - neon-devel:0.25.5-10.el5_4.1.x86_64
+#   - neon.x86_64:0.25.5-10.el5_4.1
+#   - neon-devel.x86_64:0.25.5-10.el5_4.1
+#   - neon.i386:0.25.5-10.el5_4.1
+#   - neon-devel.i386:0.25.5-10.el5_4.1
 #
 # CVE List:
 #   - CVE-2009-2474
@@ -24,5 +28,7 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2009:1452
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install neon-0.25.5 -y 
-sudo yum install neon-devel-0.25.5 -y 
+sudo yum install neon.x86_64-0.25.5 -y 
+sudo yum install neon-devel.x86_64-0.25.5 -y 
+sudo yum install neon.i386-0.25.5 -y 
+sudo yum install neon-devel.i386-0.25.5 -y 

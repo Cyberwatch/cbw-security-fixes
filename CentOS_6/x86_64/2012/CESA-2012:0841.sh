@@ -3,68 +3,84 @@
 # Security fix for CESA-2012:0841
 #
 # Security announcement date: 2012-07-10 17:16:48 UTC
-# Script generation date:     2016-01-06 19:07:09 UTC
+# Script generation date:     2016-02-04 19:11:39 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - abrt:2.0.8-6.el6.centos.x86_64
-#   - abrt-addon-ccpp:2.0.8-6.el6.centos.x86_64
-#   - abrt-addon-kerneloops:2.0.8-6.el6.centos.x86_64
-#   - abrt-addon-python:2.0.8-6.el6.centos.x86_64
-#   - abrt-addon-vmcore:2.0.8-6.el6.centos.x86_64
-#   - abrt-cli:2.0.8-6.el6.centos.x86_64
-#   - abrt-desktop:2.0.8-6.el6.centos.x86_64
-#   - abrt-devel:2.0.8-6.el6.centos.x86_64
-#   - abrt-gui:2.0.8-6.el6.centos.x86_64
-#   - abrt-libs:2.0.8-6.el6.centos.x86_64
-#   - abrt-tui:2.0.8-6.el6.centos.x86_64
-#   - btparser:0.16-3.el6.x86_64
-#   - btparser-devel:0.16-3.el6.x86_64
-#   - btparser-python:0.16-3.el6.x86_64
-#   - libreport:2.0.9-5.el6.centos.x86_64
-#   - libreport-cli:2.0.9-5.el6.centos.x86_64
-#   - libreport-devel:2.0.9-5.el6.centos.x86_64
-#   - libreport-gtk:2.0.9-5.el6.centos.x86_64
-#   - libreport-gtk-devel:2.0.9-5.el6.centos.x86_64
-#   - libreport-newt:2.0.9-5.el6.centos.x86_64
-#   - libreport-plugin-bugzilla:2.0.9-5.el6.centos.x86_64
-#   - libreport-plugin-kerneloops:2.0.9-5.el6.centos.x86_64
-#   - libreport-plugin-logger:2.0.9-5.el6.centos.x86_64
-#   - libreport-plugin-mailx:2.0.9-5.el6.centos.x86_64
-#   - libreport-plugin-reportuploader:2.0.9-5.el6.centos.x86_64
-#   - libreport-plugin-rhtsupport:2.0.9-5.el6.centos.x86_64
-#   - libreport-python:2.0.9-5.el6.centos.x86_64
+#   - abrt.x86_64:2.0.8-6.el6.centos
+#   - abrt-addon-ccpp.x86_64:2.0.8-6.el6.centos
+#   - abrt-addon-kerneloops.x86_64:2.0.8-6.el6.centos
+#   - abrt-addon-python.x86_64:2.0.8-6.el6.centos
+#   - abrt-addon-vmcore.x86_64:2.0.8-6.el6.centos
+#   - abrt-cli.x86_64:2.0.8-6.el6.centos
+#   - abrt-desktop.x86_64:2.0.8-6.el6.centos
+#   - abrt-devel.x86_64:2.0.8-6.el6.centos
+#   - abrt-gui.x86_64:2.0.8-6.el6.centos
+#   - abrt-libs.x86_64:2.0.8-6.el6.centos
+#   - abrt-tui.x86_64:2.0.8-6.el6.centos
+#   - btparser.x86_64:0.16-3.el6
+#   - btparser-devel.x86_64:0.16-3.el6
+#   - btparser-python.x86_64:0.16-3.el6
+#   - libreport.x86_64:2.0.9-5.el6.centos
+#   - libreport-cli.x86_64:2.0.9-5.el6.centos
+#   - libreport-devel.x86_64:2.0.9-5.el6.centos
+#   - libreport-gtk.x86_64:2.0.9-5.el6.centos
+#   - libreport-gtk-devel.x86_64:2.0.9-5.el6.centos
+#   - libreport-newt.x86_64:2.0.9-5.el6.centos
+#   - libreport-plugin-bugzilla.x86_64:2.0.9-5.el6.centos
+#   - libreport-plugin-kerneloops.x86_64:2.0.9-5.el6.centos
+#   - libreport-plugin-logger.x86_64:2.0.9-5.el6.centos
+#   - libreport-plugin-mailx.x86_64:2.0.9-5.el6.centos
+#   - libreport-plugin-reportuploader.x86_64:2.0.9-5.el6.centos
+#   - libreport-plugin-rhtsupport.x86_64:2.0.9-5.el6.centos
+#   - libreport-python.x86_64:2.0.9-5.el6.centos
+#   - abrt-devel.i686:2.0.8-6.el6.centos
+#   - abrt-libs.i686:2.0.8-6.el6.centos
+#   - btparser.i686:0.16-3.el6
+#   - btparser-devel.i686:0.16-3.el6
+#   - libreport.i686:2.0.9-5.el6.centos
+#   - libreport-devel.i686:2.0.9-5.el6.centos
+#   - libreport-gtk.i686:2.0.9-5.el6.centos
+#   - libreport-gtk-devel.i686:2.0.9-5.el6.centos
 #
 # Last versions recommanded by security team:
-#   - abrt:2.0.8-6.el6.centos.2.x86_64
-#   - abrt-addon-ccpp:2.0.8-6.el6.centos.2.x86_64
-#   - abrt-addon-kerneloops:2.0.8-6.el6.centos.2.x86_64
-#   - abrt-addon-python:2.0.8-6.el6.centos.2.x86_64
-#   - abrt-addon-vmcore:2.0.8-6.el6.centos.2.x86_64
-#   - abrt-cli:2.0.8-6.el6.centos.2.x86_64
-#   - abrt-desktop:2.0.8-6.el6.centos.2.x86_64
-#   - abrt-devel:2.0.8-6.el6.centos.2.x86_64
-#   - abrt-gui:2.0.8-6.el6.centos.2.x86_64
-#   - abrt-libs:2.0.8-6.el6.centos.2.x86_64
-#   - abrt-tui:2.0.8-6.el6.centos.2.x86_64
-#   - btparser:0.16-3.el6.x86_64
-#   - btparser-devel:0.16-3.el6.x86_64
-#   - btparser-python:0.16-3.el6.x86_64
-#   - libreport:2.0.9-25.el6.centos.x86_64
-#   - libreport-cli:2.0.9-25.el6.centos.x86_64
-#   - libreport-devel:2.0.9-25.el6.centos.x86_64
-#   - libreport-gtk:2.0.9-25.el6.centos.x86_64
-#   - libreport-gtk-devel:2.0.9-25.el6.centos.x86_64
-#   - libreport-newt:2.0.9-25.el6.centos.x86_64
-#   - libreport-plugin-bugzilla:2.0.9-25.el6.centos.x86_64
-#   - libreport-plugin-kerneloops:2.0.9-25.el6.centos.x86_64
-#   - libreport-plugin-logger:2.0.9-25.el6.centos.x86_64
-#   - libreport-plugin-mailx:2.0.9-25.el6.centos.x86_64
-#   - libreport-plugin-reportuploader:2.0.9-25.el6.centos.x86_64
-#   - libreport-plugin-rhtsupport:2.0.9-25.el6.centos.x86_64
-#   - libreport-python:2.0.9-25.el6.centos.x86_64
+#   - abrt.x86_64:2.0.8-6.el6.centos.2
+#   - abrt-addon-ccpp.x86_64:2.0.8-6.el6.centos.2
+#   - abrt-addon-kerneloops.x86_64:2.0.8-6.el6.centos.2
+#   - abrt-addon-python.x86_64:2.0.8-6.el6.centos.2
+#   - abrt-addon-vmcore.x86_64:2.0.8-6.el6.centos.2
+#   - abrt-cli.x86_64:2.0.8-6.el6.centos.2
+#   - abrt-desktop.x86_64:2.0.8-6.el6.centos.2
+#   - abrt-devel.x86_64:2.0.8-6.el6.centos.2
+#   - abrt-gui.x86_64:2.0.8-6.el6.centos.2
+#   - abrt-libs.x86_64:2.0.8-6.el6.centos.2
+#   - abrt-tui.x86_64:2.0.8-6.el6.centos.2
+#   - btparser.x86_64:0.16-3.el6
+#   - btparser-devel.x86_64:0.16-3.el6
+#   - btparser-python.x86_64:0.16-3.el6
+#   - libreport.x86_64:2.0.9-25.el6.centos
+#   - libreport-cli.x86_64:2.0.9-25.el6.centos
+#   - libreport-devel.x86_64:2.0.9-25.el6.centos
+#   - libreport-gtk.x86_64:2.0.9-25.el6.centos
+#   - libreport-gtk-devel.x86_64:2.0.9-25.el6.centos
+#   - libreport-newt.x86_64:2.0.9-25.el6.centos
+#   - libreport-plugin-bugzilla.x86_64:2.0.9-25.el6.centos
+#   - libreport-plugin-kerneloops.x86_64:2.0.9-25.el6.centos
+#   - libreport-plugin-logger.x86_64:2.0.9-25.el6.centos
+#   - libreport-plugin-mailx.x86_64:2.0.9-25.el6.centos
+#   - libreport-plugin-reportuploader.x86_64:2.0.9-25.el6.centos
+#   - libreport-plugin-rhtsupport.x86_64:2.0.9-25.el6.centos
+#   - libreport-python.x86_64:2.0.9-25.el6.centos
+#   - abrt-devel.i686:2.0.8-6.el6.centos.2
+#   - abrt-libs.i686:2.0.8-6.el6.centos.2
+#   - btparser.i686:0.16-3.el6
+#   - btparser-devel.i686:0.16-3.el6
+#   - libreport.i686:2.0.9-25.el6.centos
+#   - libreport-devel.i686:2.0.9-25.el6.centos
+#   - libreport-gtk.i686:2.0.9-25.el6.centos
+#   - libreport-gtk-devel.i686:2.0.9-25.el6.centos
 #
 # CVE List:
 #   - CVE-2012-1106
@@ -74,30 +90,38 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2012:0841
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install abrt-2.0.8 -y 
-sudo yum install abrt-addon-ccpp-2.0.8 -y 
-sudo yum install abrt-addon-kerneloops-2.0.8 -y 
-sudo yum install abrt-addon-python-2.0.8 -y 
-sudo yum install abrt-addon-vmcore-2.0.8 -y 
-sudo yum install abrt-cli-2.0.8 -y 
-sudo yum install abrt-desktop-2.0.8 -y 
-sudo yum install abrt-devel-2.0.8 -y 
-sudo yum install abrt-gui-2.0.8 -y 
-sudo yum install abrt-libs-2.0.8 -y 
-sudo yum install abrt-tui-2.0.8 -y 
-sudo yum install btparser-0.16 -y 
-sudo yum install btparser-devel-0.16 -y 
-sudo yum install btparser-python-0.16 -y 
-sudo yum install libreport-2.0.9 -y 
-sudo yum install libreport-cli-2.0.9 -y 
-sudo yum install libreport-devel-2.0.9 -y 
-sudo yum install libreport-gtk-2.0.9 -y 
-sudo yum install libreport-gtk-devel-2.0.9 -y 
-sudo yum install libreport-newt-2.0.9 -y 
-sudo yum install libreport-plugin-bugzilla-2.0.9 -y 
-sudo yum install libreport-plugin-kerneloops-2.0.9 -y 
-sudo yum install libreport-plugin-logger-2.0.9 -y 
-sudo yum install libreport-plugin-mailx-2.0.9 -y 
-sudo yum install libreport-plugin-reportuploader-2.0.9 -y 
-sudo yum install libreport-plugin-rhtsupport-2.0.9 -y 
-sudo yum install libreport-python-2.0.9 -y 
+sudo yum install abrt.x86_64-2.0.8 -y 
+sudo yum install abrt-addon-ccpp.x86_64-2.0.8 -y 
+sudo yum install abrt-addon-kerneloops.x86_64-2.0.8 -y 
+sudo yum install abrt-addon-python.x86_64-2.0.8 -y 
+sudo yum install abrt-addon-vmcore.x86_64-2.0.8 -y 
+sudo yum install abrt-cli.x86_64-2.0.8 -y 
+sudo yum install abrt-desktop.x86_64-2.0.8 -y 
+sudo yum install abrt-devel.x86_64-2.0.8 -y 
+sudo yum install abrt-gui.x86_64-2.0.8 -y 
+sudo yum install abrt-libs.x86_64-2.0.8 -y 
+sudo yum install abrt-tui.x86_64-2.0.8 -y 
+sudo yum install btparser.x86_64-0.16 -y 
+sudo yum install btparser-devel.x86_64-0.16 -y 
+sudo yum install btparser-python.x86_64-0.16 -y 
+sudo yum install libreport.x86_64-2.0.9 -y 
+sudo yum install libreport-cli.x86_64-2.0.9 -y 
+sudo yum install libreport-devel.x86_64-2.0.9 -y 
+sudo yum install libreport-gtk.x86_64-2.0.9 -y 
+sudo yum install libreport-gtk-devel.x86_64-2.0.9 -y 
+sudo yum install libreport-newt.x86_64-2.0.9 -y 
+sudo yum install libreport-plugin-bugzilla.x86_64-2.0.9 -y 
+sudo yum install libreport-plugin-kerneloops.x86_64-2.0.9 -y 
+sudo yum install libreport-plugin-logger.x86_64-2.0.9 -y 
+sudo yum install libreport-plugin-mailx.x86_64-2.0.9 -y 
+sudo yum install libreport-plugin-reportuploader.x86_64-2.0.9 -y 
+sudo yum install libreport-plugin-rhtsupport.x86_64-2.0.9 -y 
+sudo yum install libreport-python.x86_64-2.0.9 -y 
+sudo yum install abrt-devel.i686-2.0.8 -y 
+sudo yum install abrt-libs.i686-2.0.8 -y 
+sudo yum install btparser.i686-0.16 -y 
+sudo yum install btparser-devel.i686-0.16 -y 
+sudo yum install libreport.i686-2.0.9 -y 
+sudo yum install libreport-devel.i686-2.0.9 -y 
+sudo yum install libreport-gtk.i686-2.0.9 -y 
+sudo yum install libreport-gtk-devel.i686-2.0.9 -y 

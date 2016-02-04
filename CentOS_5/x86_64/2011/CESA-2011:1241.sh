@@ -3,20 +3,24 @@
 # Security fix for CESA-2011:1241
 #
 # Security announcement date: 2011-09-01 16:11:04 UTC
-# Script generation date:     2016-01-06 19:06:51 UTC
+# Script generation date:     2016-02-04 19:11:19 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ecryptfs-utils:75-5.el5_7.2.x86_64
-#   - ecryptfs-utils-devel:75-5.el5_7.2.x86_64
-#   - ecryptfs-utils-gui:75-5.el5_7.2.x86_64
+#   - ecryptfs-utils.x86_64:75-5.el5_7.2
+#   - ecryptfs-utils-devel.x86_64:75-5.el5_7.2
+#   - ecryptfs-utils-gui.x86_64:75-5.el5_7.2
+#   - ecryptfs-utils.i386:75-5.el5_7.2
+#   - ecryptfs-utils-devel.i386:75-5.el5_7.2
 #
 # Last versions recommanded by security team:
-#   - ecryptfs-utils:75-5.el5_7.2.x86_64
-#   - ecryptfs-utils-devel:75-5.el5_7.2.x86_64
-#   - ecryptfs-utils-gui:75-5.el5_7.2.x86_64
+#   - ecryptfs-utils.x86_64:75-5.el5_7.2
+#   - ecryptfs-utils-devel.x86_64:75-5.el5_7.2
+#   - ecryptfs-utils-gui.x86_64:75-5.el5_7.2
+#   - ecryptfs-utils.i386:75-5.el5_7.2
+#   - ecryptfs-utils-devel.i386:75-5.el5_7.2
 #
 # CVE List:
 #   - CVE-2011-1833
@@ -31,6 +35,8 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2011:1241
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install ecryptfs-utils-75 -y 
-sudo yum install ecryptfs-utils-devel-75 -y 
-sudo yum install ecryptfs-utils-gui-75 -y 
+sudo yum install ecryptfs-utils.x86_64-75 -y 
+sudo yum install ecryptfs-utils-devel.x86_64-75 -y 
+sudo yum install ecryptfs-utils-gui.x86_64-75 -y 
+sudo yum install ecryptfs-utils.i386-75 -y 
+sudo yum install ecryptfs-utils-devel.i386-75 -y 

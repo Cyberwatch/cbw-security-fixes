@@ -3,18 +3,22 @@
 # Security fix for CESA-2013:0614
 #
 # Security announcement date: 2013-03-09 00:47:32 UTC
-# Script generation date:     2016-01-06 19:07:28 UTC
+# Script generation date:     2016-02-04 19:12:01 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - xulrunner:17.0.3-2.el6.centos.x86_64
-#   - xulrunner-devel:17.0.3-2.el6.centos.x86_64
+#   - xulrunner.x86_64:17.0.3-2.el6.centos
+#   - xulrunner-devel.x86_64:17.0.3-2.el6.centos
+#   - xulrunner.i686:17.0.3-2.el6.centos
+#   - xulrunner-devel.i686:17.0.3-2.el6.centos
 #
 # Last versions recommanded by security team:
-#   - xulrunner:17.0.10-1.el6.centos.x86_64
-#   - xulrunner-devel:17.0.10-1.el6.centos.x86_64
+#   - xulrunner.x86_64:17.0.10-1.el6.centos
+#   - xulrunner-devel.x86_64:17.0.10-1.el6.centos
+#   - xulrunner.i686:17.0.10-1.el6.centos
+#   - xulrunner-devel.i686:17.0.10-1.el6.centos
 #
 # CVE List:
 #   - CVE-2013-0787
@@ -23,5 +27,7 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2013:0614
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install xulrunner-17.0.10 -y 
-sudo yum install xulrunner-devel-17.0.10 -y 
+sudo yum install xulrunner.x86_64-17.0.10 -y 
+sudo yum install xulrunner-devel.x86_64-17.0.10 -y 
+sudo yum install xulrunner.i686-17.0.10 -y 
+sudo yum install xulrunner-devel.i686-17.0.10 -y 

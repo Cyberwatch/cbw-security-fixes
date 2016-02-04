@@ -3,16 +3,16 @@
 # Security fix for CESA-2015:1852
 #
 # Security announcement date: 2015-10-01 21:53:42 UTC
-# Script generation date:     2016-01-07 07:06:57 UTC
+# Script generation date:     2016-02-04 19:13:03 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - thunderbird:38.3.0-1.el5.centos.x86_64
+#   - thunderbird.x86_64:38.3.0-1.el5.centos
 #
 # Last versions recommanded by security team:
-#   - thunderbird:38.5.0-1.el5.centos.x86_64
+#   - thunderbird.x86_64:38.5.0-1.el5.centos
 #
 # CVE List:
 #   - CVE-2015-4500
@@ -32,4 +32,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2015:1852
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird-38.5.0 -y 
+sudo yum install thunderbird.x86_64-38.5.0 -y 

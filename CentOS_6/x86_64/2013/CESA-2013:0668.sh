@@ -3,66 +3,104 @@
 # Security fix for CESA-2013:0668
 #
 # Security announcement date: 2013-03-21 22:37:55 UTC
-# Script generation date:     2016-01-06 19:07:29 UTC
+# Script generation date:     2016-02-04 19:12:02 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - boost:1.41.0-15.el6_4.x86_64
-#   - boost-date-time:1.41.0-15.el6_4.x86_64
-#   - boost-devel:1.41.0-15.el6_4.x86_64
-#   - boost-doc:1.41.0-15.el6_4.x86_64
-#   - boost-filesystem:1.41.0-15.el6_4.x86_64
-#   - boost-graph:1.41.0-15.el6_4.x86_64
-#   - boost-graph-mpich2:1.41.0-15.el6_4.x86_64
-#   - boost-graph-openmpi:1.41.0-15.el6_4.x86_64
-#   - boost-iostreams:1.41.0-15.el6_4.x86_64
-#   - boost-math:1.41.0-15.el6_4.x86_64
-#   - boost-mpich2:1.41.0-15.el6_4.x86_64
-#   - boost-mpich2-devel:1.41.0-15.el6_4.x86_64
-#   - boost-mpich2-python:1.41.0-15.el6_4.x86_64
-#   - boost-openmpi:1.41.0-15.el6_4.x86_64
-#   - boost-openmpi-devel:1.41.0-15.el6_4.x86_64
-#   - boost-openmpi-python:1.41.0-15.el6_4.x86_64
-#   - boost-program-options:1.41.0-15.el6_4.x86_64
-#   - boost-python:1.41.0-15.el6_4.x86_64
-#   - boost-regex:1.41.0-15.el6_4.x86_64
-#   - boost-serialization:1.41.0-15.el6_4.x86_64
-#   - boost-signals:1.41.0-15.el6_4.x86_64
-#   - boost-static:1.41.0-15.el6_4.x86_64
-#   - boost-system:1.41.0-15.el6_4.x86_64
-#   - boost-test:1.41.0-15.el6_4.x86_64
-#   - boost-thread:1.41.0-15.el6_4.x86_64
-#   - boost-wave:1.41.0-15.el6_4.x86_64
+#   - boost.x86_64:1.41.0-15.el6_4
+#   - boost-date-time.x86_64:1.41.0-15.el6_4
+#   - boost-devel.x86_64:1.41.0-15.el6_4
+#   - boost-doc.x86_64:1.41.0-15.el6_4
+#   - boost-filesystem.x86_64:1.41.0-15.el6_4
+#   - boost-graph.x86_64:1.41.0-15.el6_4
+#   - boost-graph-mpich2.x86_64:1.41.0-15.el6_4
+#   - boost-graph-openmpi.x86_64:1.41.0-15.el6_4
+#   - boost-iostreams.x86_64:1.41.0-15.el6_4
+#   - boost-math.x86_64:1.41.0-15.el6_4
+#   - boost-mpich2.x86_64:1.41.0-15.el6_4
+#   - boost-mpich2-devel.x86_64:1.41.0-15.el6_4
+#   - boost-mpich2-python.x86_64:1.41.0-15.el6_4
+#   - boost-openmpi.x86_64:1.41.0-15.el6_4
+#   - boost-openmpi-devel.x86_64:1.41.0-15.el6_4
+#   - boost-openmpi-python.x86_64:1.41.0-15.el6_4
+#   - boost-program-options.x86_64:1.41.0-15.el6_4
+#   - boost-python.x86_64:1.41.0-15.el6_4
+#   - boost-regex.x86_64:1.41.0-15.el6_4
+#   - boost-serialization.x86_64:1.41.0-15.el6_4
+#   - boost-signals.x86_64:1.41.0-15.el6_4
+#   - boost-static.x86_64:1.41.0-15.el6_4
+#   - boost-system.x86_64:1.41.0-15.el6_4
+#   - boost-test.x86_64:1.41.0-15.el6_4
+#   - boost-thread.x86_64:1.41.0-15.el6_4
+#   - boost-wave.x86_64:1.41.0-15.el6_4
+#   - boost-date-time.i686:1.41.0-15.el6_4
+#   - boost-devel.i686:1.41.0-15.el6_4
+#   - boost-filesystem.i686:1.41.0-15.el6_4
+#   - boost-graph.i686:1.41.0-15.el6_4
+#   - boost-graph-mpich2.i686:1.41.0-15.el6_4
+#   - boost-iostreams.i686:1.41.0-15.el6_4
+#   - boost-mpich2.i686:1.41.0-15.el6_4
+#   - boost-mpich2-devel.i686:1.41.0-15.el6_4
+#   - boost-mpich2-python.i686:1.41.0-15.el6_4
+#   - boost-openmpi-devel.i686:1.41.0-15.el6_4
+#   - boost-program-options.i686:1.41.0-15.el6_4
+#   - boost-python.i686:1.41.0-15.el6_4
+#   - boost-regex.i686:1.41.0-15.el6_4
+#   - boost-serialization.i686:1.41.0-15.el6_4
+#   - boost-signals.i686:1.41.0-15.el6_4
+#   - boost-system.i686:1.41.0-15.el6_4
+#   - boost-test.i686:1.41.0-15.el6_4
+#   - boost-thread.i686:1.41.0-15.el6_4
+#   - boost-wave.i686:1.41.0-15.el6_4
 #
 # Last versions recommanded by security team:
-#   - boost:1.41.0-15.el6_4.x86_64
-#   - boost-date-time:1.41.0-15.el6_4.x86_64
-#   - boost-devel:1.41.0-15.el6_4.x86_64
-#   - boost-doc:1.41.0-15.el6_4.x86_64
-#   - boost-filesystem:1.41.0-15.el6_4.x86_64
-#   - boost-graph:1.41.0-15.el6_4.x86_64
-#   - boost-graph-mpich2:1.41.0-15.el6_4.x86_64
-#   - boost-graph-openmpi:1.41.0-15.el6_4.x86_64
-#   - boost-iostreams:1.41.0-15.el6_4.x86_64
-#   - boost-math:1.41.0-15.el6_4.x86_64
-#   - boost-mpich2:1.41.0-15.el6_4.x86_64
-#   - boost-mpich2-devel:1.41.0-15.el6_4.x86_64
-#   - boost-mpich2-python:1.41.0-15.el6_4.x86_64
-#   - boost-openmpi:1.41.0-15.el6_4.x86_64
-#   - boost-openmpi-devel:1.41.0-15.el6_4.x86_64
-#   - boost-openmpi-python:1.41.0-15.el6_4.x86_64
-#   - boost-program-options:1.41.0-15.el6_4.x86_64
-#   - boost-python:1.41.0-15.el6_4.x86_64
-#   - boost-regex:1.41.0-15.el6_4.x86_64
-#   - boost-serialization:1.41.0-15.el6_4.x86_64
-#   - boost-signals:1.41.0-15.el6_4.x86_64
-#   - boost-static:1.41.0-15.el6_4.x86_64
-#   - boost-system:1.41.0-15.el6_4.x86_64
-#   - boost-test:1.41.0-15.el6_4.x86_64
-#   - boost-thread:1.41.0-15.el6_4.x86_64
-#   - boost-wave:1.41.0-15.el6_4.x86_64
+#   - boost.x86_64:1.41.0-15.el6_4
+#   - boost-date-time.x86_64:1.41.0-15.el6_4
+#   - boost-devel.x86_64:1.41.0-15.el6_4
+#   - boost-doc.x86_64:1.41.0-15.el6_4
+#   - boost-filesystem.x86_64:1.41.0-15.el6_4
+#   - boost-graph.x86_64:1.41.0-15.el6_4
+#   - boost-graph-mpich2.x86_64:1.41.0-15.el6_4
+#   - boost-graph-openmpi.x86_64:1.41.0-15.el6_4
+#   - boost-iostreams.x86_64:1.41.0-15.el6_4
+#   - boost-math.x86_64:1.41.0-15.el6_4
+#   - boost-mpich2.x86_64:1.41.0-15.el6_4
+#   - boost-mpich2-devel.x86_64:1.41.0-15.el6_4
+#   - boost-mpich2-python.x86_64:1.41.0-15.el6_4
+#   - boost-openmpi.x86_64:1.41.0-15.el6_4
+#   - boost-openmpi-devel.x86_64:1.41.0-15.el6_4
+#   - boost-openmpi-python.x86_64:1.41.0-15.el6_4
+#   - boost-program-options.x86_64:1.41.0-15.el6_4
+#   - boost-python.x86_64:1.41.0-15.el6_4
+#   - boost-regex.x86_64:1.41.0-15.el6_4
+#   - boost-serialization.x86_64:1.41.0-15.el6_4
+#   - boost-signals.x86_64:1.41.0-15.el6_4
+#   - boost-static.x86_64:1.41.0-15.el6_4
+#   - boost-system.x86_64:1.41.0-15.el6_4
+#   - boost-test.x86_64:1.41.0-15.el6_4
+#   - boost-thread.x86_64:1.41.0-15.el6_4
+#   - boost-wave.x86_64:1.41.0-15.el6_4
+#   - boost-date-time.i686:1.41.0-15.el6_4
+#   - boost-devel.i686:1.41.0-15.el6_4
+#   - boost-filesystem.i686:1.41.0-15.el6_4
+#   - boost-graph.i686:1.41.0-15.el6_4
+#   - boost-graph-mpich2.i686:1.41.0-15.el6_4
+#   - boost-iostreams.i686:1.41.0-15.el6_4
+#   - boost-mpich2.i686:1.41.0-15.el6_4
+#   - boost-mpich2-devel.i686:1.41.0-15.el6_4
+#   - boost-mpich2-python.i686:1.41.0-15.el6_4
+#   - boost-openmpi-devel.i686:1.41.0-15.el6_4
+#   - boost-program-options.i686:1.41.0-15.el6_4
+#   - boost-python.i686:1.41.0-15.el6_4
+#   - boost-regex.i686:1.41.0-15.el6_4
+#   - boost-serialization.i686:1.41.0-15.el6_4
+#   - boost-signals.i686:1.41.0-15.el6_4
+#   - boost-system.i686:1.41.0-15.el6_4
+#   - boost-test.i686:1.41.0-15.el6_4
+#   - boost-thread.i686:1.41.0-15.el6_4
+#   - boost-wave.i686:1.41.0-15.el6_4
 #
 # CVE List:
 #   - CVE-2012-2677
@@ -71,29 +109,48 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2013:0668
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install boost-1.41.0 -y 
-sudo yum install boost-date-time-1.41.0 -y 
-sudo yum install boost-devel-1.41.0 -y 
-sudo yum install boost-doc-1.41.0 -y 
-sudo yum install boost-filesystem-1.41.0 -y 
-sudo yum install boost-graph-1.41.0 -y 
-sudo yum install boost-graph-mpich2-1.41.0 -y 
-sudo yum install boost-graph-openmpi-1.41.0 -y 
-sudo yum install boost-iostreams-1.41.0 -y 
-sudo yum install boost-math-1.41.0 -y 
-sudo yum install boost-mpich2-1.41.0 -y 
-sudo yum install boost-mpich2-devel-1.41.0 -y 
-sudo yum install boost-mpich2-python-1.41.0 -y 
-sudo yum install boost-openmpi-1.41.0 -y 
-sudo yum install boost-openmpi-devel-1.41.0 -y 
-sudo yum install boost-openmpi-python-1.41.0 -y 
-sudo yum install boost-program-options-1.41.0 -y 
-sudo yum install boost-python-1.41.0 -y 
-sudo yum install boost-regex-1.41.0 -y 
-sudo yum install boost-serialization-1.41.0 -y 
-sudo yum install boost-signals-1.41.0 -y 
-sudo yum install boost-static-1.41.0 -y 
-sudo yum install boost-system-1.41.0 -y 
-sudo yum install boost-test-1.41.0 -y 
-sudo yum install boost-thread-1.41.0 -y 
-sudo yum install boost-wave-1.41.0 -y 
+sudo yum install boost.x86_64-1.41.0 -y 
+sudo yum install boost-date-time.x86_64-1.41.0 -y 
+sudo yum install boost-devel.x86_64-1.41.0 -y 
+sudo yum install boost-doc.x86_64-1.41.0 -y 
+sudo yum install boost-filesystem.x86_64-1.41.0 -y 
+sudo yum install boost-graph.x86_64-1.41.0 -y 
+sudo yum install boost-graph-mpich2.x86_64-1.41.0 -y 
+sudo yum install boost-graph-openmpi.x86_64-1.41.0 -y 
+sudo yum install boost-iostreams.x86_64-1.41.0 -y 
+sudo yum install boost-math.x86_64-1.41.0 -y 
+sudo yum install boost-mpich2.x86_64-1.41.0 -y 
+sudo yum install boost-mpich2-devel.x86_64-1.41.0 -y 
+sudo yum install boost-mpich2-python.x86_64-1.41.0 -y 
+sudo yum install boost-openmpi.x86_64-1.41.0 -y 
+sudo yum install boost-openmpi-devel.x86_64-1.41.0 -y 
+sudo yum install boost-openmpi-python.x86_64-1.41.0 -y 
+sudo yum install boost-program-options.x86_64-1.41.0 -y 
+sudo yum install boost-python.x86_64-1.41.0 -y 
+sudo yum install boost-regex.x86_64-1.41.0 -y 
+sudo yum install boost-serialization.x86_64-1.41.0 -y 
+sudo yum install boost-signals.x86_64-1.41.0 -y 
+sudo yum install boost-static.x86_64-1.41.0 -y 
+sudo yum install boost-system.x86_64-1.41.0 -y 
+sudo yum install boost-test.x86_64-1.41.0 -y 
+sudo yum install boost-thread.x86_64-1.41.0 -y 
+sudo yum install boost-wave.x86_64-1.41.0 -y 
+sudo yum install boost-date-time.i686-1.41.0 -y 
+sudo yum install boost-devel.i686-1.41.0 -y 
+sudo yum install boost-filesystem.i686-1.41.0 -y 
+sudo yum install boost-graph.i686-1.41.0 -y 
+sudo yum install boost-graph-mpich2.i686-1.41.0 -y 
+sudo yum install boost-iostreams.i686-1.41.0 -y 
+sudo yum install boost-mpich2.i686-1.41.0 -y 
+sudo yum install boost-mpich2-devel.i686-1.41.0 -y 
+sudo yum install boost-mpich2-python.i686-1.41.0 -y 
+sudo yum install boost-openmpi-devel.i686-1.41.0 -y 
+sudo yum install boost-program-options.i686-1.41.0 -y 
+sudo yum install boost-python.i686-1.41.0 -y 
+sudo yum install boost-regex.i686-1.41.0 -y 
+sudo yum install boost-serialization.i686-1.41.0 -y 
+sudo yum install boost-signals.i686-1.41.0 -y 
+sudo yum install boost-system.i686-1.41.0 -y 
+sudo yum install boost-test.i686-1.41.0 -y 
+sudo yum install boost-thread.i686-1.41.0 -y 
+sudo yum install boost-wave.i686-1.41.0 -y 

@@ -3,20 +3,22 @@
 # Security fix for CESA-2012:1258
 #
 # Security announcement date: 2012-09-12 21:45:33 UTC
-# Script generation date:     2016-01-06 19:07:15 UTC
+# Script generation date:     2016-02-04 19:11:46 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - quagga:0.98.6-7.el5_8.1.x86_64
-#   - quagga-contrib:0.98.6-7.el5_8.1.x86_64
-#   - quagga-devel:0.98.6-7.el5_8.1.x86_64
+#   - quagga.x86_64:0.98.6-7.el5_8.1
+#   - quagga-contrib.x86_64:0.98.6-7.el5_8.1
+#   - quagga-devel.x86_64:0.98.6-7.el5_8.1
+#   - quagga-devel.i386:0.98.6-7.el5_8.1
 #
 # Last versions recommanded by security team:
-#   - quagga:0.98.6-7.el5_8.1.x86_64
-#   - quagga-contrib:0.98.6-7.el5_8.1.x86_64
-#   - quagga-devel:0.98.6-7.el5_8.1.x86_64
+#   - quagga.x86_64:0.98.6-7.el5_8.1
+#   - quagga-contrib.x86_64:0.98.6-7.el5_8.1
+#   - quagga-devel.x86_64:0.98.6-7.el5_8.1
+#   - quagga-devel.i386:0.98.6-7.el5_8.1
 #
 # CVE List:
 #   - CVE-2010-1674
@@ -32,6 +34,7 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2012:1258
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install quagga-0.98.6 -y 
-sudo yum install quagga-contrib-0.98.6 -y 
-sudo yum install quagga-devel-0.98.6 -y 
+sudo yum install quagga.x86_64-0.98.6 -y 
+sudo yum install quagga-contrib.x86_64-0.98.6 -y 
+sudo yum install quagga-devel.x86_64-0.98.6 -y 
+sudo yum install quagga-devel.i386-0.98.6 -y 

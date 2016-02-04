@@ -3,16 +3,16 @@
 # Security fix for CESA-2009:0479
 #
 # Security announcement date: 2009-05-19 15:03:41 UTC
-# Script generation date:     2016-01-06 19:06:25 UTC
+# Script generation date:     2016-02-04 19:10:46 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - perl-DBD-Pg:1.49-2.el5_3.1.x86_64
+#   - perl-DBD-Pg.x86_64:1.49-2.el5_3.1
 #
 # Last versions recommanded by security team:
-#   - perl-DBD-Pg:1.49-4.el5_8.x86_64
+#   - perl-DBD-Pg.x86_64:1.49-4.el5_8
 #
 # CVE List:
 #   - CVE-2009-0663
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2009:0479
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install perl-DBD-Pg-1.49 -y 
+sudo yum install perl-DBD-Pg.x86_64-1.49 -y 

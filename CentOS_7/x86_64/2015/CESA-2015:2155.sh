@@ -3,24 +3,30 @@
 # Security fix for CESA-2015:2155
 #
 # Security announcement date: 2015-11-30 19:28:42 UTC
-# Script generation date:     2016-01-06 19:08:27 UTC
+# Script generation date:     2016-02-04 19:13:11 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - file:5.11-31.el7.x86_64
-#   - file-devel:5.11-31.el7.x86_64
-#   - file-libs:5.11-31.el7.x86_64
-#   - file-static:5.11-31.el7.x86_64
-#   - python-magic:5.11-31.el7.noarch
+#   - file.x86_64:5.11-31.el7
+#   - file-devel.x86_64:5.11-31.el7
+#   - file-libs.x86_64:5.11-31.el7
+#   - file-static.x86_64:5.11-31.el7
+#   - python-magic.noarch:5.11-31.el7
+#   - file-devel.i686:5.11-31.el7
+#   - file-libs.i686:5.11-31.el7
+#   - file-static.i686:5.11-31.el7
 #
 # Last versions recommanded by security team:
-#   - file:5.11-31.el7.x86_64
-#   - file-devel:5.11-31.el7.x86_64
-#   - file-libs:5.11-31.el7.x86_64
-#   - file-static:5.11-31.el7.x86_64
-#   - python-magic:5.11-31.el7.noarch
+#   - file.x86_64:5.11-31.el7
+#   - file-devel.x86_64:5.11-31.el7
+#   - file-libs.x86_64:5.11-31.el7
+#   - file-static.x86_64:5.11-31.el7
+#   - python-magic.noarch:5.11-31.el7
+#   - file-devel.i686:5.11-31.el7
+#   - file-libs.i686:5.11-31.el7
+#   - file-static.i686:5.11-31.el7
 #
 # CVE List:
 #   - CVE-2014-0207
@@ -43,8 +49,11 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2015:2155
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install file-5.11 -y 
-sudo yum install file-devel-5.11 -y 
-sudo yum install file-libs-5.11 -y 
-sudo yum install file-static-5.11 -y 
-sudo yum install python-magic-5.11 -y 
+sudo yum install file.x86_64-5.11 -y 
+sudo yum install file-devel.x86_64-5.11 -y 
+sudo yum install file-libs.x86_64-5.11 -y 
+sudo yum install file-static.x86_64-5.11 -y 
+sudo yum install python-magic.noarch-5.11 -y 
+sudo yum install file-devel.i686-5.11 -y 
+sudo yum install file-libs.i686-5.11 -y 
+sudo yum install file-static.i686-5.11 -y 

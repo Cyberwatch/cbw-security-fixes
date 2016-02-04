@@ -3,24 +3,32 @@
 # Security fix for CESA-2012:0545
 #
 # Security announcement date: 2012-05-07 21:07:07 UTC
-# Script generation date:     2016-01-06 19:07:04 UTC
+# Script generation date:     2016-02-04 19:11:34 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ImageMagick:6.2.8.0-15.el5_8.x86_64
-#   - :6.2.8.0-15.el5_8.x86_64
-#   - -devel:6.2.8.0-15.el5_8.x86_64
-#   - ImageMagick-devel:6.2.8.0-15.el5_8.x86_64
-#   - ImageMagick-perl:6.2.8.0-15.el5_8.x86_64
+#   - ImageMagick.x86_64:6.2.8.0-15.el5_8
+#   - .x86_64:6.2.8.0-15.el5_8
+#   - -devel.x86_64:6.2.8.0-15.el5_8
+#   - ImageMagick-devel.x86_64:6.2.8.0-15.el5_8
+#   - ImageMagick-perl.x86_64:6.2.8.0-15.el5_8
+#   - ImageMagick.i386:6.2.8.0-15.el5_8
+#   - .i386:6.2.8.0-15.el5_8
+#   - -devel.i386:6.2.8.0-15.el5_8
+#   - ImageMagick-devel.i386:6.2.8.0-15.el5_8
 #
 # Last versions recommanded by security team:
-#   - ImageMagick:6.2.8.0-15.el5_8.x86_64
-#   - :6.2.8.0-15.el5_8.x86_64
-#   - -devel:6.2.8.0-15.el5_8.x86_64
-#   - ImageMagick-devel:6.2.8.0-15.el5_8.x86_64
-#   - ImageMagick-perl:6.2.8.0-15.el5_8.x86_64
+#   - ImageMagick.x86_64:6.2.8.0-15.el5_8
+#   - .x86_64:6.2.8.0-15.el5_8
+#   - -devel.x86_64:6.2.8.0-15.el5_8
+#   - ImageMagick-devel.x86_64:6.2.8.0-15.el5_8
+#   - ImageMagick-perl.x86_64:6.2.8.0-15.el5_8
+#   - ImageMagick.i386:6.2.8.0-15.el5_8
+#   - .i386:6.2.8.0-15.el5_8
+#   - -devel.i386:6.2.8.0-15.el5_8
+#   - ImageMagick-devel.i386:6.2.8.0-15.el5_8
 #
 # CVE List:
 #   - CVE-2012-0247
@@ -31,8 +39,12 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2012:0545
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install ImageMagick-6.2.8.0 -y 
-sudo yum install -6.2.8.0 -y 
-sudo yum install -devel-6.2.8.0 -y 
-sudo yum install ImageMagick-devel-6.2.8.0 -y 
-sudo yum install ImageMagick-perl-6.2.8.0 -y 
+sudo yum install ImageMagick.x86_64-6.2.8.0 -y 
+sudo yum install .x86_64-6.2.8.0 -y 
+sudo yum install -devel.x86_64-6.2.8.0 -y 
+sudo yum install ImageMagick-devel.x86_64-6.2.8.0 -y 
+sudo yum install ImageMagick-perl.x86_64-6.2.8.0 -y 
+sudo yum install ImageMagick.i386-6.2.8.0 -y 
+sudo yum install .i386-6.2.8.0 -y 
+sudo yum install -devel.i386-6.2.8.0 -y 
+sudo yum install ImageMagick-devel.i386-6.2.8.0 -y 

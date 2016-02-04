@@ -3,20 +3,24 @@
 # Security fix for CESA-2011:1811
 #
 # Security announcement date: 2011-12-12 22:16:23 UTC
-# Script generation date:     2016-01-06 19:06:55 UTC
+# Script generation date:     2016-02-04 19:11:23 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - netpbm:10.35.58-8.el5_7.3.x86_64
-#   - netpbm-devel:10.35.58-8.el5_7.3.x86_64
-#   - netpbm-progs:10.35.58-8.el5_7.3.x86_64
+#   - netpbm.x86_64:10.35.58-8.el5_7.3
+#   - netpbm-devel.x86_64:10.35.58-8.el5_7.3
+#   - netpbm-progs.x86_64:10.35.58-8.el5_7.3
+#   - netpbm.i386:10.35.58-8.el5_7.3
+#   - netpbm-devel.i386:10.35.58-8.el5_7.3
 #
 # Last versions recommanded by security team:
-#   - netpbm:10.35.58-8.el5_7.3.x86_64
-#   - netpbm-devel:10.35.58-8.el5_7.3.x86_64
-#   - netpbm-progs:10.35.58-8.el5_7.3.x86_64
+#   - netpbm.x86_64:10.35.58-8.el5_7.3
+#   - netpbm-devel.x86_64:10.35.58-8.el5_7.3
+#   - netpbm-progs.x86_64:10.35.58-8.el5_7.3
+#   - netpbm.i386:10.35.58-8.el5_7.3
+#   - netpbm-devel.i386:10.35.58-8.el5_7.3
 #
 # CVE List:
 #   - CVE-2009-4274
@@ -27,6 +31,8 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2011:1811
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install netpbm-10.35.58 -y 
-sudo yum install netpbm-devel-10.35.58 -y 
-sudo yum install netpbm-progs-10.35.58 -y 
+sudo yum install netpbm.x86_64-10.35.58 -y 
+sudo yum install netpbm-devel.x86_64-10.35.58 -y 
+sudo yum install netpbm-progs.x86_64-10.35.58 -y 
+sudo yum install netpbm.i386-10.35.58 -y 
+sudo yum install netpbm-devel.i386-10.35.58 -y 

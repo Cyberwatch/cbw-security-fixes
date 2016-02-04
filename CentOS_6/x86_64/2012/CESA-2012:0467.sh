@@ -3,20 +3,24 @@
 # Security fix for CESA-2012:0467
 #
 # Security announcement date: 2012-04-10 23:57:59 UTC
-# Script generation date:     2016-01-06 19:07:02 UTC
+# Script generation date:     2016-02-04 19:11:32 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - freetype:2.3.11-6.el6_2.9.x86_64
-#   - freetype-demos:2.3.11-6.el6_2.9.x86_64
-#   - freetype-devel:2.3.11-6.el6_2.9.x86_64
+#   - freetype.x86_64:2.3.11-6.el6_2.9
+#   - freetype-demos.x86_64:2.3.11-6.el6_2.9
+#   - freetype-devel.x86_64:2.3.11-6.el6_2.9
+#   - freetype.i686:2.3.11-6.el6_2.9
+#   - freetype-devel.i686:2.3.11-6.el6_2.9
 #
 # Last versions recommanded by security team:
-#   - freetype:2.3.11-15.el6_6.1.x86_64
-#   - freetype-demos:2.3.11-15.el6_6.1.x86_64
-#   - freetype-devel:2.3.11-15.el6_6.1.x86_64
+#   - freetype.x86_64:2.3.11-15.el6_6.1
+#   - freetype-demos.x86_64:2.3.11-15.el6_6.1
+#   - freetype-devel.x86_64:2.3.11-15.el6_6.1
+#   - freetype.i686:2.3.11-15.el6_6.1
+#   - freetype-devel.i686:2.3.11-15.el6_6.1
 #
 # CVE List:
 #   - CVE-2012-1126
@@ -38,6 +42,8 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2012:0467
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install freetype-2.3.11 -y 
-sudo yum install freetype-demos-2.3.11 -y 
-sudo yum install freetype-devel-2.3.11 -y 
+sudo yum install freetype.x86_64-2.3.11 -y 
+sudo yum install freetype-demos.x86_64-2.3.11 -y 
+sudo yum install freetype-devel.x86_64-2.3.11 -y 
+sudo yum install freetype.i686-2.3.11 -y 
+sudo yum install freetype-devel.i686-2.3.11 -y 

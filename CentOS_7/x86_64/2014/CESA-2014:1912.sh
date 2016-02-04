@@ -3,44 +3,46 @@
 # Security fix for CESA-2014:1912
 #
 # Security announcement date: 2014-12-01 13:45:48 UTC
-# Script generation date:     2016-01-06 19:08:02 UTC
+# Script generation date:     2016-02-04 19:12:40 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ruby:2.0.0.353-22.el7_0.x86_64
-#   - ruby-devel:2.0.0.353-22.el7_0.x86_64
-#   - ruby-doc:2.0.0.353-22.el7_0.noarch
-#   - rubygem-bigdecimal:1.2.0-22.el7_0.x86_64
-#   - rubygem-io-console:0.4.2-22.el7_0.x86_64
-#   - rubygem-json:1.7.7-22.el7_0.x86_64
-#   - rubygem-minitest:4.3.2-22.el7_0.noarch
-#   - rubygem-psych:2.0.0-22.el7_0.x86_64
-#   - rubygem-rake:0.9.6-22.el7_0.noarch
-#   - rubygem-rdoc:4.0.0-22.el7_0.noarch
-#   - rubygems:2.0.14-22.el7_0.noarch
-#   - rubygems-devel:2.0.14-22.el7_0.noarch
-#   - ruby-irb:2.0.0.353-22.el7_0.noarch
-#   - ruby-libs:2.0.0.353-22.el7_0.x86_64
-#   - ruby-tcltk:2.0.0.353-22.el7_0.x86_64
+#   - ruby.x86_64:2.0.0.353-22.el7_0
+#   - ruby-devel.x86_64:2.0.0.353-22.el7_0
+#   - ruby-doc.noarch:2.0.0.353-22.el7_0
+#   - rubygem-bigdecimal.x86_64:1.2.0-22.el7_0
+#   - rubygem-io-console.x86_64:0.4.2-22.el7_0
+#   - rubygem-json.x86_64:1.7.7-22.el7_0
+#   - rubygem-minitest.noarch:4.3.2-22.el7_0
+#   - rubygem-psych.x86_64:2.0.0-22.el7_0
+#   - rubygem-rake.noarch:0.9.6-22.el7_0
+#   - rubygem-rdoc.noarch:4.0.0-22.el7_0
+#   - rubygems.noarch:2.0.14-22.el7_0
+#   - rubygems-devel.noarch:2.0.14-22.el7_0
+#   - ruby-irb.noarch:2.0.0.353-22.el7_0
+#   - ruby-libs.x86_64:2.0.0.353-22.el7_0
+#   - ruby-tcltk.x86_64:2.0.0.353-22.el7_0
+#   - ruby-libs.i686:2.0.0.353-22.el7_0
 #
 # Last versions recommanded by security team:
-#   - ruby:2.0.0.353-22.el7_0.x86_64
-#   - ruby-devel:2.0.0.353-22.el7_0.x86_64
-#   - ruby-doc:2.0.0.353-22.el7_0.noarch
-#   - rubygem-bigdecimal:1.2.0-22.el7_0.x86_64
-#   - rubygem-io-console:0.4.2-22.el7_0.x86_64
-#   - rubygem-json:1.7.7-22.el7_0.x86_64
-#   - rubygem-minitest:4.3.2-22.el7_0.noarch
-#   - rubygem-psych:2.0.0-22.el7_0.x86_64
-#   - rubygem-rake:0.9.6-22.el7_0.noarch
-#   - rubygem-rdoc:4.0.0-22.el7_0.noarch
-#   - rubygems:2.0.14-22.el7_0.noarch
-#   - rubygems-devel:2.0.14-22.el7_0.noarch
-#   - ruby-irb:2.0.0.353-22.el7_0.noarch
-#   - ruby-libs:2.0.0.353-22.el7_0.x86_64
-#   - ruby-tcltk:2.0.0.353-22.el7_0.x86_64
+#   - ruby.x86_64:2.0.0.353-22.el7_0
+#   - ruby-devel.x86_64:2.0.0.353-22.el7_0
+#   - ruby-doc.noarch:2.0.0.353-22.el7_0
+#   - rubygem-bigdecimal.x86_64:1.2.0-22.el7_0
+#   - rubygem-io-console.x86_64:0.4.2-22.el7_0
+#   - rubygem-json.x86_64:1.7.7-22.el7_0
+#   - rubygem-minitest.noarch:4.3.2-22.el7_0
+#   - rubygem-psych.x86_64:2.0.0-22.el7_0
+#   - rubygem-rake.noarch:0.9.6-22.el7_0
+#   - rubygem-rdoc.noarch:4.0.0-22.el7_0
+#   - rubygems.noarch:2.0.14-22.el7_0
+#   - rubygems-devel.noarch:2.0.14-22.el7_0
+#   - ruby-irb.noarch:2.0.0.353-22.el7_0
+#   - ruby-libs.x86_64:2.0.0.353-22.el7_0
+#   - ruby-tcltk.x86_64:2.0.0.353-22.el7_0
+#   - ruby-libs.i686:2.0.0.353-22.el7_0
 #
 # CVE List:
 #   - CVE-2014-8080
@@ -51,18 +53,19 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2014:1912
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install ruby-2.0.0.353 -y 
-sudo yum install ruby-devel-2.0.0.353 -y 
-sudo yum install ruby-doc-2.0.0.353 -y 
-sudo yum install rubygem-bigdecimal-1.2.0 -y 
-sudo yum install rubygem-io-console-0.4.2 -y 
-sudo yum install rubygem-json-1.7.7 -y 
-sudo yum install rubygem-minitest-4.3.2 -y 
-sudo yum install rubygem-psych-2.0.0 -y 
-sudo yum install rubygem-rake-0.9.6 -y 
-sudo yum install rubygem-rdoc-4.0.0 -y 
-sudo yum install rubygems-2.0.14 -y 
-sudo yum install rubygems-devel-2.0.14 -y 
-sudo yum install ruby-irb-2.0.0.353 -y 
-sudo yum install ruby-libs-2.0.0.353 -y 
-sudo yum install ruby-tcltk-2.0.0.353 -y 
+sudo yum install ruby.x86_64-2.0.0.353 -y 
+sudo yum install ruby-devel.x86_64-2.0.0.353 -y 
+sudo yum install ruby-doc.noarch-2.0.0.353 -y 
+sudo yum install rubygem-bigdecimal.x86_64-1.2.0 -y 
+sudo yum install rubygem-io-console.x86_64-0.4.2 -y 
+sudo yum install rubygem-json.x86_64-1.7.7 -y 
+sudo yum install rubygem-minitest.noarch-4.3.2 -y 
+sudo yum install rubygem-psych.x86_64-2.0.0 -y 
+sudo yum install rubygem-rake.noarch-0.9.6 -y 
+sudo yum install rubygem-rdoc.noarch-4.0.0 -y 
+sudo yum install rubygems.noarch-2.0.14 -y 
+sudo yum install rubygems-devel.noarch-2.0.14 -y 
+sudo yum install ruby-irb.noarch-2.0.0.353 -y 
+sudo yum install ruby-libs.x86_64-2.0.0.353 -y 
+sudo yum install ruby-tcltk.x86_64-2.0.0.353 -y 
+sudo yum install ruby-libs.i686-2.0.0.353 -y 

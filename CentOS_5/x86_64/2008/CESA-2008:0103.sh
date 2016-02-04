@@ -3,18 +3,22 @@
 # Security fix for CESA-2008:0103
 #
 # Security announcement date: 2008-02-09 13:43:22 UTC
-# Script generation date:     2016-01-28 07:11:50 UTC
+# Script generation date:     2016-02-04 19:10:16 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:1.5.0.12-9.el5.centos.x86_64
-#   - firefox-devel:1.5.0.12-9.el5.centos.x86_64
+#   - firefox.x86_64:1.5.0.12-9.el5.centos
+#   - firefox-devel.x86_64:1.5.0.12-9.el5.centos
+#   - firefox.i386:1.5.0.12-9.el5.centos
+#   - firefox-devel.i386:1.5.0.12-9.el5.centos
 #
 # Last versions recommanded by security team:
-#   - firefox:38.6.0-1.el5.centos.x86_64
-#   - firefox-devel:1.5.0.12-15.el5.centos.x86_64
+#   - firefox.x86_64:38.6.0-1.el5.centos
+#   - firefox-devel.x86_64:1.5.0.12-15.el5.centos
+#   - firefox.i386:38.6.0-1.el5.centos
+#   - firefox-devel.i386:1.5.0.12-15.el5.centos
 #
 # CVE List:
 #   - CVE-2008-0593
@@ -31,5 +35,7 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2008:0103
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.6.0 -y 
-sudo yum install firefox-devel-1.5.0.12 -y 
+sudo yum install firefox.x86_64-38.6.0 -y 
+sudo yum install firefox-devel.x86_64-1.5.0.12 -y 
+sudo yum install firefox.i386-38.6.0 -y 
+sudo yum install firefox-devel.i386-1.5.0.12 -y 

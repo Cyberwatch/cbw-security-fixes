@@ -3,26 +3,34 @@
 # Security fix for CESA-2009:1204
 #
 # Security announcement date: 2009-08-11 21:20:30 UTC
-# Script generation date:     2016-01-06 19:06:28 UTC
+# Script generation date:     2016-02-04 19:10:50 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - apr:1.2.7-11.el5_3.1.x86_64
-#   - apr-devel:1.2.7-11.el5_3.1.x86_64
-#   - apr-docs:1.2.7-11.el5_3.1.x86_64
-#   - apr-util:1.2.7-7.el5_3.2.x86_64
-#   - apr-util-devel:1.2.7-7.el5_3.2.x86_64
-#   - apr-util-docs:1.2.7-7.el5_3.2.x86_64
+#   - apr.x86_64:1.2.7-11.el5_3.1
+#   - apr-devel.x86_64:1.2.7-11.el5_3.1
+#   - apr-docs.x86_64:1.2.7-11.el5_3.1
+#   - apr-util.x86_64:1.2.7-7.el5_3.2
+#   - apr-util-devel.x86_64:1.2.7-7.el5_3.2
+#   - apr-util-docs.x86_64:1.2.7-7.el5_3.2
+#   - apr.i386:1.2.7-11.el5_3.1
+#   - apr-devel.i386:1.2.7-11.el5_3.1
+#   - apr-util.i386:1.2.7-7.el5_3.2
+#   - apr-util-devel.i386:1.2.7-7.el5_3.2
 #
 # Last versions recommanded by security team:
-#   - apr:1.2.7-11.el5_6.5.x86_64
-#   - apr-devel:1.2.7-11.el5_6.5.x86_64
-#   - apr-docs:1.2.7-11.el5_6.5.x86_64
-#   - apr-util:1.2.7-7.el5_3.2.x86_64
-#   - apr-util-devel:1.2.7-7.el5_3.2.x86_64
-#   - apr-util-docs:1.2.7-7.el5_3.2.x86_64
+#   - apr.x86_64:1.2.7-11.el5_6.5
+#   - apr-devel.x86_64:1.2.7-11.el5_6.5
+#   - apr-docs.x86_64:1.2.7-11.el5_6.5
+#   - apr-util.x86_64:1.2.7-7.el5_3.2
+#   - apr-util-devel.x86_64:1.2.7-7.el5_3.2
+#   - apr-util-docs.x86_64:1.2.7-7.el5_3.2
+#   - apr.i386:1.2.7-11.el5_6.5
+#   - apr-devel.i386:1.2.7-11.el5_6.5
+#   - apr-util.i386:1.2.7-7.el5_3.2
+#   - apr-util-devel.i386:1.2.7-7.el5_3.2
 #
 # CVE List:
 #   - CVE-2009-2412
@@ -31,9 +39,13 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2009:1204
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install apr-1.2.7 -y 
-sudo yum install apr-devel-1.2.7 -y 
-sudo yum install apr-docs-1.2.7 -y 
-sudo yum install apr-util-1.2.7 -y 
-sudo yum install apr-util-devel-1.2.7 -y 
-sudo yum install apr-util-docs-1.2.7 -y 
+sudo yum install apr.x86_64-1.2.7 -y 
+sudo yum install apr-devel.x86_64-1.2.7 -y 
+sudo yum install apr-docs.x86_64-1.2.7 -y 
+sudo yum install apr-util.x86_64-1.2.7 -y 
+sudo yum install apr-util-devel.x86_64-1.2.7 -y 
+sudo yum install apr-util-docs.x86_64-1.2.7 -y 
+sudo yum install apr.i386-1.2.7 -y 
+sudo yum install apr-devel.i386-1.2.7 -y 
+sudo yum install apr-util.i386-1.2.7 -y 
+sudo yum install apr-util-devel.i386-1.2.7 -y 

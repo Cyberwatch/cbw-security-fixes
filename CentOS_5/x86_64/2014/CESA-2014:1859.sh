@@ -3,26 +3,28 @@
 # Security fix for CESA-2014:1859
 #
 # Security announcement date: 2014-11-17 17:35:05 UTC
-# Script generation date:     2016-01-06 19:08:02 UTC
+# Script generation date:     2016-02-04 19:12:40 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mysql55-mysql:5.5.40-2.el5.x86_64
-#   - mysql55-mysql-bench:5.5.40-2.el5.x86_64
-#   - mysql55-mysql-devel:5.5.40-2.el5.x86_64
-#   - mysql55-mysql-libs:5.5.40-2.el5.x86_64
-#   - mysql55-mysql-server:5.5.40-2.el5.x86_64
-#   - mysql55-mysql-test:5.5.40-2.el5.x86_64
+#   - mysql55-mysql.x86_64:5.5.40-2.el5
+#   - mysql55-mysql-bench.x86_64:5.5.40-2.el5
+#   - mysql55-mysql-devel.x86_64:5.5.40-2.el5
+#   - mysql55-mysql-libs.x86_64:5.5.40-2.el5
+#   - mysql55-mysql-server.x86_64:5.5.40-2.el5
+#   - mysql55-mysql-test.x86_64:5.5.40-2.el5
+#   - mysql55-mysql-devel.i386:5.5.40-2.el5
 #
 # Last versions recommanded by security team:
-#   - mysql55-mysql:5.5.45-1.el5.x86_64
-#   - mysql55-mysql-bench:5.5.45-1.el5.x86_64
-#   - mysql55-mysql-devel:5.5.45-1.el5.x86_64
-#   - mysql55-mysql-libs:5.5.45-1.el5.x86_64
-#   - mysql55-mysql-server:5.5.45-1.el5.x86_64
-#   - mysql55-mysql-test:5.5.45-1.el5.x86_64
+#   - mysql55-mysql.x86_64:5.5.45-1.el5
+#   - mysql55-mysql-bench.x86_64:5.5.45-1.el5
+#   - mysql55-mysql-devel.x86_64:5.5.45-1.el5
+#   - mysql55-mysql-libs.x86_64:5.5.45-1.el5
+#   - mysql55-mysql-server.x86_64:5.5.45-1.el5
+#   - mysql55-mysql-test.x86_64:5.5.45-1.el5
+#   - mysql55-mysql-devel.i386:5.5.45-1.el5
 #
 # CVE List:
 #   - CVE-2014-4243
@@ -48,9 +50,10 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2014:1859
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install mysql55-mysql-5.5.45 -y 
-sudo yum install mysql55-mysql-bench-5.5.45 -y 
-sudo yum install mysql55-mysql-devel-5.5.45 -y 
-sudo yum install mysql55-mysql-libs-5.5.45 -y 
-sudo yum install mysql55-mysql-server-5.5.45 -y 
-sudo yum install mysql55-mysql-test-5.5.45 -y 
+sudo yum install mysql55-mysql.x86_64-5.5.45 -y 
+sudo yum install mysql55-mysql-bench.x86_64-5.5.45 -y 
+sudo yum install mysql55-mysql-devel.x86_64-5.5.45 -y 
+sudo yum install mysql55-mysql-libs.x86_64-5.5.45 -y 
+sudo yum install mysql55-mysql-server.x86_64-5.5.45 -y 
+sudo yum install mysql55-mysql-test.x86_64-5.5.45 -y 
+sudo yum install mysql55-mysql-devel.i386-5.5.45 -y 

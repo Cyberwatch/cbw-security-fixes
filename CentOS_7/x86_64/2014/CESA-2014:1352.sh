@@ -3,54 +3,58 @@
 # Security fix for CESA-2014:1352
 #
 # Security announcement date: 2014-10-03 18:13:17 UTC
-# Script generation date:     2016-01-06 19:07:57 UTC
+# Script generation date:     2016-02-04 19:12:34 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libvirt:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-client:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-daemon:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-daemon-config-network:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-daemon-config-nwfilter:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-daemon-driver-interface:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-daemon-driver-lxc:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-daemon-driver-network:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-daemon-driver-nodedev:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-daemon-driver-nwfilter:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-daemon-driver-qemu:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-daemon-driver-secret:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-daemon-driver-storage:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-daemon-kvm:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-daemon-lxc:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-devel:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-docs:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-lock-sanlock:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-login-shell:1.1.1-29.el7_0.3.x86_64
-#   - libvirt-python:1.1.1-29.el7_0.3.x86_64
+#   - libvirt.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-client.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-daemon.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-daemon-config-network.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-daemon-config-nwfilter.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-daemon-driver-interface.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-daemon-driver-lxc.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-daemon-driver-network.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-daemon-driver-nodedev.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-daemon-driver-nwfilter.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-daemon-driver-qemu.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-daemon-driver-secret.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-daemon-driver-storage.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-daemon-kvm.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-daemon-lxc.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-devel.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-docs.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-lock-sanlock.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-login-shell.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-python.x86_64:1.1.1-29.el7_0.3
+#   - libvirt-client.i686:1.1.1-29.el7_0.3
+#   - libvirt-devel.i686:1.1.1-29.el7_0.3
 #
 # Last versions recommanded by security team:
-#   - libvirt:1.2.8-16.el7.x86_64
-#   - libvirt-client:1.2.8-16.el7.x86_64
-#   - libvirt-daemon:1.2.8-16.el7.x86_64
-#   - libvirt-daemon-config-network:1.2.8-16.el7.x86_64
-#   - libvirt-daemon-config-nwfilter:1.2.8-16.el7.x86_64
-#   - libvirt-daemon-driver-interface:1.2.8-16.el7.x86_64
-#   - libvirt-daemon-driver-lxc:1.2.8-16.el7.x86_64
-#   - libvirt-daemon-driver-network:1.2.8-16.el7.x86_64
-#   - libvirt-daemon-driver-nodedev:1.2.8-16.el7.x86_64
-#   - libvirt-daemon-driver-nwfilter:1.2.8-16.el7.x86_64
-#   - libvirt-daemon-driver-qemu:1.2.8-16.el7.x86_64
-#   - libvirt-daemon-driver-secret:1.2.8-16.el7.x86_64
-#   - libvirt-daemon-driver-storage:1.2.8-16.el7.x86_64
-#   - libvirt-daemon-kvm:1.2.8-16.el7.x86_64
-#   - libvirt-daemon-lxc:1.2.8-16.el7.x86_64
-#   - libvirt-devel:1.2.8-16.el7.x86_64
-#   - libvirt-docs:1.2.8-16.el7.x86_64
-#   - libvirt-lock-sanlock:1.2.8-16.el7.x86_64
-#   - libvirt-login-shell:1.2.8-16.el7.x86_64
-#   - libvirt-python:1.1.1-29.el7_0.4.x86_64
+#   - libvirt.x86_64:1.2.8-16.el7
+#   - libvirt-client.x86_64:1.2.8-16.el7
+#   - libvirt-daemon.x86_64:1.2.8-16.el7
+#   - libvirt-daemon-config-network.x86_64:1.2.8-16.el7
+#   - libvirt-daemon-config-nwfilter.x86_64:1.2.8-16.el7
+#   - libvirt-daemon-driver-interface.x86_64:1.2.8-16.el7
+#   - libvirt-daemon-driver-lxc.x86_64:1.2.8-16.el7
+#   - libvirt-daemon-driver-network.x86_64:1.2.8-16.el7
+#   - libvirt-daemon-driver-nodedev.x86_64:1.2.8-16.el7
+#   - libvirt-daemon-driver-nwfilter.x86_64:1.2.8-16.el7
+#   - libvirt-daemon-driver-qemu.x86_64:1.2.8-16.el7
+#   - libvirt-daemon-driver-secret.x86_64:1.2.8-16.el7
+#   - libvirt-daemon-driver-storage.x86_64:1.2.8-16.el7
+#   - libvirt-daemon-kvm.x86_64:1.2.8-16.el7
+#   - libvirt-daemon-lxc.x86_64:1.2.8-16.el7
+#   - libvirt-devel.x86_64:1.2.8-16.el7
+#   - libvirt-docs.x86_64:1.2.8-16.el7
+#   - libvirt-lock-sanlock.x86_64:1.2.8-16.el7
+#   - libvirt-login-shell.x86_64:1.2.8-16.el7
+#   - libvirt-python.x86_64:1.1.1-29.el7_0.4
+#   - libvirt-client.i686:1.2.8-16.el7
+#   - libvirt-devel.i686:1.2.8-16.el7
 #
 # CVE List:
 #   - CVE-2014-3633
@@ -60,23 +64,25 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2014:1352
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install libvirt-1.2.8 -y 
-sudo yum install libvirt-client-1.2.8 -y 
-sudo yum install libvirt-daemon-1.2.8 -y 
-sudo yum install libvirt-daemon-config-network-1.2.8 -y 
-sudo yum install libvirt-daemon-config-nwfilter-1.2.8 -y 
-sudo yum install libvirt-daemon-driver-interface-1.2.8 -y 
-sudo yum install libvirt-daemon-driver-lxc-1.2.8 -y 
-sudo yum install libvirt-daemon-driver-network-1.2.8 -y 
-sudo yum install libvirt-daemon-driver-nodedev-1.2.8 -y 
-sudo yum install libvirt-daemon-driver-nwfilter-1.2.8 -y 
-sudo yum install libvirt-daemon-driver-qemu-1.2.8 -y 
-sudo yum install libvirt-daemon-driver-secret-1.2.8 -y 
-sudo yum install libvirt-daemon-driver-storage-1.2.8 -y 
-sudo yum install libvirt-daemon-kvm-1.2.8 -y 
-sudo yum install libvirt-daemon-lxc-1.2.8 -y 
-sudo yum install libvirt-devel-1.2.8 -y 
-sudo yum install libvirt-docs-1.2.8 -y 
-sudo yum install libvirt-lock-sanlock-1.2.8 -y 
-sudo yum install libvirt-login-shell-1.2.8 -y 
-sudo yum install libvirt-python-1.1.1 -y 
+sudo yum install libvirt.x86_64-1.2.8 -y 
+sudo yum install libvirt-client.x86_64-1.2.8 -y 
+sudo yum install libvirt-daemon.x86_64-1.2.8 -y 
+sudo yum install libvirt-daemon-config-network.x86_64-1.2.8 -y 
+sudo yum install libvirt-daemon-config-nwfilter.x86_64-1.2.8 -y 
+sudo yum install libvirt-daemon-driver-interface.x86_64-1.2.8 -y 
+sudo yum install libvirt-daemon-driver-lxc.x86_64-1.2.8 -y 
+sudo yum install libvirt-daemon-driver-network.x86_64-1.2.8 -y 
+sudo yum install libvirt-daemon-driver-nodedev.x86_64-1.2.8 -y 
+sudo yum install libvirt-daemon-driver-nwfilter.x86_64-1.2.8 -y 
+sudo yum install libvirt-daemon-driver-qemu.x86_64-1.2.8 -y 
+sudo yum install libvirt-daemon-driver-secret.x86_64-1.2.8 -y 
+sudo yum install libvirt-daemon-driver-storage.x86_64-1.2.8 -y 
+sudo yum install libvirt-daemon-kvm.x86_64-1.2.8 -y 
+sudo yum install libvirt-daemon-lxc.x86_64-1.2.8 -y 
+sudo yum install libvirt-devel.x86_64-1.2.8 -y 
+sudo yum install libvirt-docs.x86_64-1.2.8 -y 
+sudo yum install libvirt-lock-sanlock.x86_64-1.2.8 -y 
+sudo yum install libvirt-login-shell.x86_64-1.2.8 -y 
+sudo yum install libvirt-python.x86_64-1.1.1 -y 
+sudo yum install libvirt-client.i686-1.2.8 -y 
+sudo yum install libvirt-devel.i686-1.2.8 -y 

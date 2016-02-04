@@ -3,18 +3,22 @@
 # Security fix for CESA-2008:0064
 #
 # Security announcement date: 2008-01-18 23:25:11 UTC
-# Script generation date:     2016-01-06 19:06:09 UTC
+# Script generation date:     2016-02-04 19:10:11 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libXfont:1.2.2-1.0.3.el5_1.x86_64
-#   - libXfont-devel:1.2.2-1.0.3.el5_1.x86_64
+#   - libXfont.x86_64:1.2.2-1.0.3.el5_1
+#   - libXfont-devel.x86_64:1.2.2-1.0.3.el5_1
+#   - libXfont.i386:1.2.2-1.0.3.el5_1
+#   - libXfont-devel.i386:1.2.2-1.0.3.el5_1
 #
 # Last versions recommanded by security team:
-#   - libXfont:1.2.2-1.0.6.el5_11.x86_64
-#   - libXfont-devel:1.2.2-1.0.6.el5_11.x86_64
+#   - libXfont.x86_64:1.2.2-1.0.6.el5_11
+#   - libXfont-devel.x86_64:1.2.2-1.0.6.el5_11
+#   - libXfont.i386:1.2.2-1.0.6.el5_11
+#   - libXfont-devel.i386:1.2.2-1.0.6.el5_11
 #
 # CVE List:
 #   - CVE-2008-0006
@@ -23,5 +27,7 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2008:0064
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install libXfont-1.2.2 -y 
-sudo yum install libXfont-devel-1.2.2 -y 
+sudo yum install libXfont.x86_64-1.2.2 -y 
+sudo yum install libXfont-devel.x86_64-1.2.2 -y 
+sudo yum install libXfont.i386-1.2.2 -y 
+sudo yum install libXfont-devel.i386-1.2.2 -y 

@@ -3,16 +3,16 @@
 # Security fix for CESA-2007:0391
 #
 # Security announcement date: 2007-05-31 10:11:39 UTC
-# Script generation date:     2016-01-06 19:06:00 UTC
+# Script generation date:     2016-02-04 19:09:54 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - file:4.17-9.0.1.el5.x86_64
+#   - file.x86_64:4.17-9.0.1.el5
 #
 # Last versions recommanded by security team:
-#   - file:4.17-9.0.1.el5.x86_64
+#   - file.x86_64:4.17-9.0.1.el5
 #
 # CVE List:
 #
@@ -20,4 +20,4 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2007:0391
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install file-4.17 -y 
+sudo yum install file.x86_64-4.17 -y 

@@ -3,28 +3,32 @@
 # Security fix for CESA-2015:1793
 #
 # Security announcement date: 2015-09-16 12:50:23 UTC
-# Script generation date:     2016-02-02 07:14:01 UTC
+# Script generation date:     2016-02-04 19:13:02 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libcacard:1.5.3-86.el7_1.6.x86_64
-#   - libcacard-devel:1.5.3-86.el7_1.6.x86_64
-#   - libcacard-tools:1.5.3-86.el7_1.6.x86_64
-#   - qemu-img:1.5.3-86.el7_1.6.x86_64
-#   - qemu-kvm:1.5.3-86.el7_1.6.x86_64
-#   - qemu-kvm-common:1.5.3-86.el7_1.6.x86_64
-#   - qemu-kvm-tools:1.5.3-86.el7_1.6.x86_64
+#   - libcacard.x86_64:1.5.3-86.el7_1.6
+#   - libcacard-devel.x86_64:1.5.3-86.el7_1.6
+#   - libcacard-tools.x86_64:1.5.3-86.el7_1.6
+#   - qemu-img.x86_64:1.5.3-86.el7_1.6
+#   - qemu-kvm.x86_64:1.5.3-86.el7_1.6
+#   - qemu-kvm-common.x86_64:1.5.3-86.el7_1.6
+#   - qemu-kvm-tools.x86_64:1.5.3-86.el7_1.6
+#   - libcacard.i686:1.5.3-86.el7_1.6
+#   - libcacard-devel.i686:1.5.3-86.el7_1.6
 #
 # Last versions recommanded by security team:
-#   - libcacard:1.5.3-105.el7_2.3.x86_64
-#   - libcacard-devel:1.5.3-105.el7_2.3.x86_64
-#   - libcacard-tools:1.5.3-105.el7_2.3.x86_64
-#   - qemu-img:1.5.3-105.el7_2.3.x86_64
-#   - qemu-kvm:1.5.3-105.el7_2.3.x86_64
-#   - qemu-kvm-common:1.5.3-105.el7_2.3.x86_64
-#   - qemu-kvm-tools:1.5.3-105.el7_2.3.x86_64
+#   - libcacard.x86_64:1.5.3-105.el7_2.3
+#   - libcacard-devel.x86_64:1.5.3-105.el7_2.3
+#   - libcacard-tools.x86_64:1.5.3-105.el7_2.3
+#   - qemu-img.x86_64:1.5.3-105.el7_2.3
+#   - qemu-kvm.x86_64:1.5.3-105.el7_2.3
+#   - qemu-kvm-common.x86_64:1.5.3-105.el7_2.3
+#   - qemu-kvm-tools.x86_64:1.5.3-105.el7_2.3
+#   - libcacard.i686:1.5.3-105.el7_2.3
+#   - libcacard-devel.i686:1.5.3-105.el7_2.3
 #
 # CVE List:
 #   - CVE-2015-5165
@@ -33,10 +37,12 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2015:1793
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install libcacard-1.5.3 -y 
-sudo yum install libcacard-devel-1.5.3 -y 
-sudo yum install libcacard-tools-1.5.3 -y 
-sudo yum install qemu-img-1.5.3 -y 
-sudo yum install qemu-kvm-1.5.3 -y 
-sudo yum install qemu-kvm-common-1.5.3 -y 
-sudo yum install qemu-kvm-tools-1.5.3 -y 
+sudo yum install libcacard.x86_64-1.5.3 -y 
+sudo yum install libcacard-devel.x86_64-1.5.3 -y 
+sudo yum install libcacard-tools.x86_64-1.5.3 -y 
+sudo yum install qemu-img.x86_64-1.5.3 -y 
+sudo yum install qemu-kvm.x86_64-1.5.3 -y 
+sudo yum install qemu-kvm-common.x86_64-1.5.3 -y 
+sudo yum install qemu-kvm-tools.x86_64-1.5.3 -y 
+sudo yum install libcacard.i686-1.5.3 -y 
+sudo yum install libcacard-devel.i686-1.5.3 -y 
