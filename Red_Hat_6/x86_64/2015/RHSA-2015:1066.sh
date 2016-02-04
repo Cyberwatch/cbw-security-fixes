@@ -3,76 +3,76 @@
 # Security fix for RHSA-2015:1066
 #
 # Security announcement date: 2015-06-04 09:11:40 UTC
-# Script generation date:     2016-01-06 19:13:54 UTC
+# Script generation date:     2016-02-04 19:19:18 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - php54:2.0-1.el6.x86_64
-#   - php54-php:5.4.40-1.el6.x86_64
-#   - php54-php-bcmath:5.4.40-1.el6.x86_64
-#   - php54-php-cli:5.4.40-1.el6.x86_64
-#   - php54-php-common:5.4.40-1.el6.x86_64
-#   - php54-php-dba:5.4.40-1.el6.x86_64
-#   - php54-php-debuginfo:5.4.40-1.el6.x86_64
-#   - php54-php-devel:5.4.40-1.el6.x86_64
-#   - php54-php-enchant:5.4.40-1.el6.x86_64
-#   - php54-php-fpm:5.4.40-1.el6.x86_64
-#   - php54-php-gd:5.4.40-1.el6.x86_64
-#   - php54-php-imap:5.4.40-1.el6.x86_64
-#   - php54-php-intl:5.4.40-1.el6.x86_64
-#   - php54-php-ldap:5.4.40-1.el6.x86_64
-#   - php54-php-mbstring:5.4.40-1.el6.x86_64
-#   - php54-php-mysqlnd:5.4.40-1.el6.x86_64
-#   - php54-php-odbc:5.4.40-1.el6.x86_64
-#   - php54-php-pdo:5.4.40-1.el6.x86_64
-#   - php54-php-pecl-zendopcache:7.0.4-3.el6.x86_64
-#   - php54-php-pecl-zendopcache-debuginfo:7.0.4-3.el6.x86_64
-#   - php54-php-pgsql:5.4.40-1.el6.x86_64
-#   - php54-php-process:5.4.40-1.el6.x86_64
-#   - php54-php-pspell:5.4.40-1.el6.x86_64
-#   - php54-php-recode:5.4.40-1.el6.x86_64
-#   - php54-php-snmp:5.4.40-1.el6.x86_64
-#   - php54-php-soap:5.4.40-1.el6.x86_64
-#   - php54-php-tidy:5.4.40-1.el6.x86_64
-#   - php54-php-xml:5.4.40-1.el6.x86_64
-#   - php54-php-xmlrpc:5.4.40-1.el6.x86_64
-#   - php54-runtime:2.0-1.el6.x86_64
-#   - php54-scldevel:2.0-1.el6.x86_64
+#   - php54.x86_64:2.0-1.el6
+#   - php54-php.x86_64:5.4.40-1.el6
+#   - php54-php-bcmath.x86_64:5.4.40-1.el6
+#   - php54-php-cli.x86_64:5.4.40-1.el6
+#   - php54-php-common.x86_64:5.4.40-1.el6
+#   - php54-php-dba.x86_64:5.4.40-1.el6
+#   - php54-php-debuginfo.x86_64:5.4.40-1.el6
+#   - php54-php-devel.x86_64:5.4.40-1.el6
+#   - php54-php-enchant.x86_64:5.4.40-1.el6
+#   - php54-php-fpm.x86_64:5.4.40-1.el6
+#   - php54-php-gd.x86_64:5.4.40-1.el6
+#   - php54-php-imap.x86_64:5.4.40-1.el6
+#   - php54-php-intl.x86_64:5.4.40-1.el6
+#   - php54-php-ldap.x86_64:5.4.40-1.el6
+#   - php54-php-mbstring.x86_64:5.4.40-1.el6
+#   - php54-php-mysqlnd.x86_64:5.4.40-1.el6
+#   - php54-php-odbc.x86_64:5.4.40-1.el6
+#   - php54-php-pdo.x86_64:5.4.40-1.el6
+#   - php54-php-pecl-zendopcache.x86_64:7.0.4-3.el6
+#   - php54-php-pecl-zendopcache-debuginfo.x86_64:7.0.4-3.el6
+#   - php54-php-pgsql.x86_64:5.4.40-1.el6
+#   - php54-php-process.x86_64:5.4.40-1.el6
+#   - php54-php-pspell.x86_64:5.4.40-1.el6
+#   - php54-php-recode.x86_64:5.4.40-1.el6
+#   - php54-php-snmp.x86_64:5.4.40-1.el6
+#   - php54-php-soap.x86_64:5.4.40-1.el6
+#   - php54-php-tidy.x86_64:5.4.40-1.el6
+#   - php54-php-xml.x86_64:5.4.40-1.el6
+#   - php54-php-xmlrpc.x86_64:5.4.40-1.el6
+#   - php54-runtime.x86_64:2.0-1.el6
+#   - php54-scldevel.x86_64:2.0-1.el6
 #
 # Last versions recommanded by security team:
-#   - php54:2.0-1.el6.x86_64
-#   - php54-php:5.4.40-3.el6.x86_64
-#   - php54-php-bcmath:5.4.40-3.el6.x86_64
-#   - php54-php-cli:5.4.40-3.el6.x86_64
-#   - php54-php-common:5.4.40-3.el6.x86_64
-#   - php54-php-dba:5.4.40-3.el6.x86_64
-#   - php54-php-debuginfo:5.4.40-3.el6.x86_64
-#   - php54-php-devel:5.4.40-3.el6.x86_64
-#   - php54-php-enchant:5.4.40-3.el6.x86_64
-#   - php54-php-fpm:5.4.40-3.el6.x86_64
-#   - php54-php-gd:5.4.40-3.el6.x86_64
-#   - php54-php-imap:5.4.40-3.el6.x86_64
-#   - php54-php-intl:5.4.40-3.el6.x86_64
-#   - php54-php-ldap:5.4.40-3.el6.x86_64
-#   - php54-php-mbstring:5.4.40-3.el6.x86_64
-#   - php54-php-mysqlnd:5.4.40-3.el6.x86_64
-#   - php54-php-odbc:5.4.40-3.el6.x86_64
-#   - php54-php-pdo:5.4.40-3.el6.x86_64
-#   - php54-php-pecl-zendopcache:7.0.4-3.el6.x86_64
-#   - php54-php-pecl-zendopcache-debuginfo:7.0.4-3.el6.x86_64
-#   - php54-php-pgsql:5.4.40-3.el6.x86_64
-#   - php54-php-process:5.4.40-3.el6.x86_64
-#   - php54-php-pspell:5.4.40-3.el6.x86_64
-#   - php54-php-recode:5.4.40-3.el6.x86_64
-#   - php54-php-snmp:5.4.40-3.el6.x86_64
-#   - php54-php-soap:5.4.40-3.el6.x86_64
-#   - php54-php-tidy:5.4.40-3.el6.x86_64
-#   - php54-php-xml:5.4.40-3.el6.x86_64
-#   - php54-php-xmlrpc:5.4.40-3.el6.x86_64
-#   - php54-runtime:2.0-1.el6.x86_64
-#   - php54-scldevel:2.0-1.el6.x86_64
+#   - php54.x86_64:2.0-1.el6
+#   - php54-php.x86_64:5.4.40-3.el6
+#   - php54-php-bcmath.x86_64:5.4.40-3.el6
+#   - php54-php-cli.x86_64:5.4.40-3.el6
+#   - php54-php-common.x86_64:5.4.40-3.el6
+#   - php54-php-dba.x86_64:5.4.40-3.el6
+#   - php54-php-debuginfo.x86_64:5.4.40-3.el6
+#   - php54-php-devel.x86_64:5.4.40-3.el6
+#   - php54-php-enchant.x86_64:5.4.40-3.el6
+#   - php54-php-fpm.x86_64:5.4.40-3.el6
+#   - php54-php-gd.x86_64:5.4.40-3.el6
+#   - php54-php-imap.x86_64:5.4.40-3.el6
+#   - php54-php-intl.x86_64:5.4.40-3.el6
+#   - php54-php-ldap.x86_64:5.4.40-3.el6
+#   - php54-php-mbstring.x86_64:5.4.40-3.el6
+#   - php54-php-mysqlnd.x86_64:5.4.40-3.el6
+#   - php54-php-odbc.x86_64:5.4.40-3.el6
+#   - php54-php-pdo.x86_64:5.4.40-3.el6
+#   - php54-php-pecl-zendopcache.x86_64:7.0.4-3.el6
+#   - php54-php-pecl-zendopcache-debuginfo.x86_64:7.0.4-3.el6
+#   - php54-php-pgsql.x86_64:5.4.40-3.el6
+#   - php54-php-process.x86_64:5.4.40-3.el6
+#   - php54-php-pspell.x86_64:5.4.40-3.el6
+#   - php54-php-recode.x86_64:5.4.40-3.el6
+#   - php54-php-snmp.x86_64:5.4.40-3.el6
+#   - php54-php-soap.x86_64:5.4.40-3.el6
+#   - php54-php-tidy.x86_64:5.4.40-3.el6
+#   - php54-php-xml.x86_64:5.4.40-3.el6
+#   - php54-php-xmlrpc.x86_64:5.4.40-3.el6
+#   - php54-runtime.x86_64:2.0-1.el6
+#   - php54-scldevel.x86_64:2.0-1.el6
 #
 # CVE List:
 #   - CVE-2014-8142
@@ -95,34 +95,34 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1066
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install php54-2.0 -y 
-sudo yum install php54-php-5.4.40 -y 
-sudo yum install php54-php-bcmath-5.4.40 -y 
-sudo yum install php54-php-cli-5.4.40 -y 
-sudo yum install php54-php-common-5.4.40 -y 
-sudo yum install php54-php-dba-5.4.40 -y 
-sudo yum install php54-php-debuginfo-5.4.40 -y 
-sudo yum install php54-php-devel-5.4.40 -y 
-sudo yum install php54-php-enchant-5.4.40 -y 
-sudo yum install php54-php-fpm-5.4.40 -y 
-sudo yum install php54-php-gd-5.4.40 -y 
-sudo yum install php54-php-imap-5.4.40 -y 
-sudo yum install php54-php-intl-5.4.40 -y 
-sudo yum install php54-php-ldap-5.4.40 -y 
-sudo yum install php54-php-mbstring-5.4.40 -y 
-sudo yum install php54-php-mysqlnd-5.4.40 -y 
-sudo yum install php54-php-odbc-5.4.40 -y 
-sudo yum install php54-php-pdo-5.4.40 -y 
-sudo yum install php54-php-pecl-zendopcache-7.0.4 -y 
-sudo yum install php54-php-pecl-zendopcache-debuginfo-7.0.4 -y 
-sudo yum install php54-php-pgsql-5.4.40 -y 
-sudo yum install php54-php-process-5.4.40 -y 
-sudo yum install php54-php-pspell-5.4.40 -y 
-sudo yum install php54-php-recode-5.4.40 -y 
-sudo yum install php54-php-snmp-5.4.40 -y 
-sudo yum install php54-php-soap-5.4.40 -y 
-sudo yum install php54-php-tidy-5.4.40 -y 
-sudo yum install php54-php-xml-5.4.40 -y 
-sudo yum install php54-php-xmlrpc-5.4.40 -y 
-sudo yum install php54-runtime-2.0 -y 
-sudo yum install php54-scldevel-2.0 -y 
+sudo yum install php54.x86_64-2.0 -y 
+sudo yum install php54-php.x86_64-5.4.40 -y 
+sudo yum install php54-php-bcmath.x86_64-5.4.40 -y 
+sudo yum install php54-php-cli.x86_64-5.4.40 -y 
+sudo yum install php54-php-common.x86_64-5.4.40 -y 
+sudo yum install php54-php-dba.x86_64-5.4.40 -y 
+sudo yum install php54-php-debuginfo.x86_64-5.4.40 -y 
+sudo yum install php54-php-devel.x86_64-5.4.40 -y 
+sudo yum install php54-php-enchant.x86_64-5.4.40 -y 
+sudo yum install php54-php-fpm.x86_64-5.4.40 -y 
+sudo yum install php54-php-gd.x86_64-5.4.40 -y 
+sudo yum install php54-php-imap.x86_64-5.4.40 -y 
+sudo yum install php54-php-intl.x86_64-5.4.40 -y 
+sudo yum install php54-php-ldap.x86_64-5.4.40 -y 
+sudo yum install php54-php-mbstring.x86_64-5.4.40 -y 
+sudo yum install php54-php-mysqlnd.x86_64-5.4.40 -y 
+sudo yum install php54-php-odbc.x86_64-5.4.40 -y 
+sudo yum install php54-php-pdo.x86_64-5.4.40 -y 
+sudo yum install php54-php-pecl-zendopcache.x86_64-7.0.4 -y 
+sudo yum install php54-php-pecl-zendopcache-debuginfo.x86_64-7.0.4 -y 
+sudo yum install php54-php-pgsql.x86_64-5.4.40 -y 
+sudo yum install php54-php-process.x86_64-5.4.40 -y 
+sudo yum install php54-php-pspell.x86_64-5.4.40 -y 
+sudo yum install php54-php-recode.x86_64-5.4.40 -y 
+sudo yum install php54-php-snmp.x86_64-5.4.40 -y 
+sudo yum install php54-php-soap.x86_64-5.4.40 -y 
+sudo yum install php54-php-tidy.x86_64-5.4.40 -y 
+sudo yum install php54-php-xml.x86_64-5.4.40 -y 
+sudo yum install php54-php-xmlrpc.x86_64-5.4.40 -y 
+sudo yum install php54-runtime.x86_64-2.0 -y 
+sudo yum install php54-scldevel.x86_64-2.0 -y 

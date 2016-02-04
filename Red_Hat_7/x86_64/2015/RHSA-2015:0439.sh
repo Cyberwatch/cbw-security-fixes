@@ -3,28 +3,34 @@
 # Security fix for RHSA-2015:0439
 #
 # Security announcement date: 2015-03-05 14:38:10 UTC
-# Script generation date:     2016-01-11 19:16:10 UTC
+# Script generation date:     2016-02-04 19:18:58 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - krb5-debuginfo:1.12.2-14.el7.x86_64
-#   - krb5-libs:1.12.2-14.el7.x86_64
-#   - krb5-pkinit:1.12.2-14.el7.x86_64
-#   - krb5-workstation:1.12.2-14.el7.x86_64
-#   - krb5-devel:1.12.2-14.el7.x86_64
-#   - krb5-server:1.12.2-14.el7.x86_64
-#   - krb5-server-ldap:1.12.2-14.el7.x86_64
+#   - krb5-debuginfo.x86_64:1.12.2-14.el7
+#   - krb5-libs.x86_64:1.12.2-14.el7
+#   - krb5-pkinit.x86_64:1.12.2-14.el7
+#   - krb5-workstation.x86_64:1.12.2-14.el7
+#   - krb5-devel.x86_64:1.12.2-14.el7
+#   - krb5-server.x86_64:1.12.2-14.el7
+#   - krb5-server-ldap.x86_64:1.12.2-14.el7
+#   - krb5-debuginfo.i686:1.12.2-14.el7
+#   - krb5-libs.i686:1.12.2-14.el7
+#   - krb5-devel.i686:1.12.2-14.el7
 #
 # Last versions recommanded by security team:
-#   - krb5-debuginfo:1.13.2-10.el7.x86_64
-#   - krb5-libs:1.13.2-10.el7.x86_64
-#   - krb5-pkinit:1.13.2-10.el7.x86_64
-#   - krb5-workstation:1.13.2-10.el7.x86_64
-#   - krb5-devel:1.13.2-10.el7.x86_64
-#   - krb5-server:1.13.2-10.el7.x86_64
-#   - krb5-server-ldap:1.13.2-10.el7.x86_64
+#   - krb5-debuginfo.x86_64:1.13.2-10.el7
+#   - krb5-libs.x86_64:1.13.2-10.el7
+#   - krb5-pkinit.x86_64:1.13.2-10.el7
+#   - krb5-workstation.x86_64:1.13.2-10.el7
+#   - krb5-devel.x86_64:1.13.2-10.el7
+#   - krb5-server.x86_64:1.13.2-10.el7
+#   - krb5-server-ldap.x86_64:1.13.2-10.el7
+#   - krb5-debuginfo.i686:1.13.2-10.el7
+#   - krb5-libs.i686:1.13.2-10.el7
+#   - krb5-devel.i686:1.13.2-10.el7
 #
 # CVE List:
 #   - CVE-2014-4341
@@ -42,10 +48,13 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:0439
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install krb5-debuginfo-1.13.2 -y 
-sudo yum install krb5-libs-1.13.2 -y 
-sudo yum install krb5-pkinit-1.13.2 -y 
-sudo yum install krb5-workstation-1.13.2 -y 
-sudo yum install krb5-devel-1.13.2 -y 
-sudo yum install krb5-server-1.13.2 -y 
-sudo yum install krb5-server-ldap-1.13.2 -y 
+sudo yum install krb5-debuginfo.x86_64-1.13.2 -y 
+sudo yum install krb5-libs.x86_64-1.13.2 -y 
+sudo yum install krb5-pkinit.x86_64-1.13.2 -y 
+sudo yum install krb5-workstation.x86_64-1.13.2 -y 
+sudo yum install krb5-devel.x86_64-1.13.2 -y 
+sudo yum install krb5-server.x86_64-1.13.2 -y 
+sudo yum install krb5-server-ldap.x86_64-1.13.2 -y 
+sudo yum install krb5-debuginfo.i686-1.13.2 -y 
+sudo yum install krb5-libs.i686-1.13.2 -y 
+sudo yum install krb5-devel.i686-1.13.2 -y 

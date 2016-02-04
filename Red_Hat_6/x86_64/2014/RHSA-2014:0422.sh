@@ -3,18 +3,18 @@
 # Security fix for RHSA-2014:0422
 #
 # Security announcement date: 2014-04-23 06:49:15 UTC
-# Script generation date:     2016-01-06 19:12:26 UTC
+# Script generation date:     2016-02-04 19:17:37 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openshift-origin-broker:1.5.9-1.el6op.noarch
-#   - rubygem-openshift-origin-auth-remote-user:1.8.4-1.el6op.noarch
+#   - openshift-origin-broker.noarch:1.5.9-1.el6op
+#   - rubygem-openshift-origin-auth-remote-user.noarch:1.8.4-1.el6op
 #
 # Last versions recommanded by security team:
-#   - openshift-origin-broker:1.16.2.10-1.el6op.noarch
-#   - rubygem-openshift-origin-auth-remote-user:1.21.1.0-1.el6op.noarch
+#   - openshift-origin-broker.noarch:1.16.2.10-1.el6op
+#   - rubygem-openshift-origin-auth-remote-user.noarch:1.21.1.0-1.el6op
 #
 # CVE List:
 #   - CVE-2014-0188
@@ -23,5 +23,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:0422
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install openshift-origin-broker-1.16.2.10 -y 
-sudo yum install rubygem-openshift-origin-auth-remote-user-1.21.1.0 -y 
+sudo yum install openshift-origin-broker.noarch-1.16.2.10 -y 
+sudo yum install rubygem-openshift-origin-auth-remote-user.noarch-1.21.1.0 -y 

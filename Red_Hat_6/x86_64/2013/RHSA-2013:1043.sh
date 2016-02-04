@@ -3,24 +3,24 @@
 # Security fix for RHSA-2013:1043
 #
 # Security announcement date: 2013-07-11 01:46:42 UTC
-# Script generation date:     2016-01-06 19:11:50 UTC
+# Script generation date:     2016-02-04 19:16:54 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - richfaces:3.3.1-3.SP3_patch_01.ep5.el6.noarch
-#   - richfaces-demo:3.3.1-3.SP3_patch_01.ep5.el6.noarch
-#   - richfaces-framework:3.3.1-3.SP3_patch_01.ep5.el6.noarch
-#   - richfaces-root:3.3.1-3.SP3_patch_01.ep5.el6.noarch
-#   - richfaces-ui:3.3.1-3.SP3_patch_01.ep5.el6.noarch
+#   - richfaces.noarch:3.3.1-3.SP3_patch_01.ep5.el6
+#   - richfaces-demo.noarch:3.3.1-3.SP3_patch_01.ep5.el6
+#   - richfaces-framework.noarch:3.3.1-3.SP3_patch_01.ep5.el6
+#   - richfaces-root.noarch:3.3.1-3.SP3_patch_01.ep5.el6
+#   - richfaces-ui.noarch:3.3.1-3.SP3_patch_01.ep5.el6
 #
 # Last versions recommanded by security team:
-#   - richfaces:3.3.1-3.SP3_patch_01.ep5.el6.noarch
-#   - richfaces-demo:3.3.1-3.SP3_patch_01.ep5.el6.noarch
-#   - richfaces-framework:3.3.1-3.SP3_patch_01.ep5.el6.noarch
-#   - richfaces-root:3.3.1-3.SP3_patch_01.ep5.el6.noarch
-#   - richfaces-ui:3.3.1-3.SP3_patch_01.ep5.el6.noarch
+#   - richfaces.noarch:3.3.1-3.SP3_patch_01.ep5.el6
+#   - richfaces-demo.noarch:3.3.1-3.SP3_patch_01.ep5.el6
+#   - richfaces-framework.noarch:3.3.1-3.SP3_patch_01.ep5.el6
+#   - richfaces-root.noarch:3.3.1-3.SP3_patch_01.ep5.el6
+#   - richfaces-ui.noarch:3.3.1-3.SP3_patch_01.ep5.el6
 #
 # CVE List:
 #   - CVE-2013-2165
@@ -29,8 +29,8 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:1043
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install richfaces-3.3.1 -y 
-sudo yum install richfaces-demo-3.3.1 -y 
-sudo yum install richfaces-framework-3.3.1 -y 
-sudo yum install richfaces-root-3.3.1 -y 
-sudo yum install richfaces-ui-3.3.1 -y 
+sudo yum install richfaces.noarch-3.3.1 -y 
+sudo yum install richfaces-demo.noarch-3.3.1 -y 
+sudo yum install richfaces-framework.noarch-3.3.1 -y 
+sudo yum install richfaces-root.noarch-3.3.1 -y 
+sudo yum install richfaces-ui.noarch-3.3.1 -y 

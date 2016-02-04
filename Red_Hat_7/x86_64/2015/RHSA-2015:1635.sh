@@ -3,28 +3,34 @@
 # Security fix for RHSA-2015:1635
 #
 # Security announcement date: 2015-08-17 12:07:28 UTC
-# Script generation date:     2016-01-06 19:14:12 UTC
+# Script generation date:     2016-02-04 19:19:39 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - sqlite:3.7.17-6.el7_1.1.x86_64
-#   - sqlite-debuginfo:3.7.17-6.el7_1.1.x86_64
-#   - sqlite-doc:3.7.17-6.el7_1.1.noarch
-#   - lemon:3.7.17-6.el7_1.1.x86_64
-#   - sqlite-devel:3.7.17-6.el7_1.1.x86_64
-#   - sqlite-tcl:3.7.17-6.el7_1.1.x86_64
-#   - sqlite-doc:3.7.17-6.ael7b_1.1.noarch
+#   - sqlite.x86_64:3.7.17-6.el7_1.1
+#   - sqlite-debuginfo.x86_64:3.7.17-6.el7_1.1
+#   - sqlite-doc.noarch:3.7.17-6.el7_1.1
+#   - lemon.x86_64:3.7.17-6.el7_1.1
+#   - sqlite-devel.x86_64:3.7.17-6.el7_1.1
+#   - sqlite-tcl.x86_64:3.7.17-6.el7_1.1
+#   - sqlite-doc.noarch:3.7.17-6.ael7b_1.1
+#   - sqlite.i686:3.7.17-6.el7_1.1
+#   - sqlite-debuginfo.i686:3.7.17-6.el7_1.1
+#   - sqlite-devel.i686:3.7.17-6.el7_1.1
 #
 # Last versions recommanded by security team:
-#   - sqlite:3.7.17-6.el7_1.1.x86_64
-#   - sqlite-debuginfo:3.7.17-6.el7_1.1.x86_64
-#   - sqlite-doc:3.7.17-6.ael7b_1.1.noarch
-#   - lemon:3.7.17-6.el7_1.1.x86_64
-#   - sqlite-devel:3.7.17-6.el7_1.1.x86_64
-#   - sqlite-tcl:3.7.17-6.el7_1.1.x86_64
-#   - sqlite-doc:3.7.17-6.ael7b_1.1.noarch
+#   - sqlite.x86_64:3.7.17-6.el7_1.1
+#   - sqlite-debuginfo.x86_64:3.7.17-6.el7_1.1
+#   - sqlite-doc.noarch:3.7.17-6.ael7b_1.1
+#   - lemon.x86_64:3.7.17-6.el7_1.1
+#   - sqlite-devel.x86_64:3.7.17-6.el7_1.1
+#   - sqlite-tcl.x86_64:3.7.17-6.el7_1.1
+#   - sqlite-doc.noarch:3.7.17-6.ael7b_1.1
+#   - sqlite.i686:3.7.17-6.el7_1.1
+#   - sqlite-debuginfo.i686:3.7.17-6.el7_1.1
+#   - sqlite-devel.i686:3.7.17-6.el7_1.1
 #
 # CVE List:
 #   - CVE-2015-3414
@@ -35,10 +41,13 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1635
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install sqlite-3.7.17 -y 
-sudo yum install sqlite-debuginfo-3.7.17 -y 
-sudo yum install sqlite-doc-3.7.17 -y 
-sudo yum install lemon-3.7.17 -y 
-sudo yum install sqlite-devel-3.7.17 -y 
-sudo yum install sqlite-tcl-3.7.17 -y 
-sudo yum install sqlite-doc-3.7.17 -y 
+sudo yum install sqlite.x86_64-3.7.17 -y 
+sudo yum install sqlite-debuginfo.x86_64-3.7.17 -y 
+sudo yum install sqlite-doc.noarch-3.7.17 -y 
+sudo yum install lemon.x86_64-3.7.17 -y 
+sudo yum install sqlite-devel.x86_64-3.7.17 -y 
+sudo yum install sqlite-tcl.x86_64-3.7.17 -y 
+sudo yum install sqlite-doc.noarch-3.7.17 -y 
+sudo yum install sqlite.i686-3.7.17 -y 
+sudo yum install sqlite-debuginfo.i686-3.7.17 -y 
+sudo yum install sqlite-devel.i686-3.7.17 -y 

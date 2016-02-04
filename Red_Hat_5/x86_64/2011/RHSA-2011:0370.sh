@@ -3,20 +3,20 @@
 # Security fix for RHSA-2011:0370
 #
 # Security announcement date: 2011-03-21 19:54:50 UTC
-# Script generation date:     2016-01-06 19:09:53 UTC
+# Script generation date:     2016-02-04 19:14:52 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - wireshark:1.0.15-1.el5_6.4.x86_64
-#   - wireshark-debuginfo:1.0.15-1.el5_6.4.x86_64
-#   - wireshark-gnome:1.0.15-1.el5_6.4.x86_64
+#   - wireshark.x86_64:1.0.15-1.el5_6.4
+#   - wireshark-debuginfo.x86_64:1.0.15-1.el5_6.4
+#   - wireshark-gnome.x86_64:1.0.15-1.el5_6.4
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.0.15-7.el5_11.x86_64
-#   - wireshark-debuginfo:1.0.15-7.el5_11.x86_64
-#   - wireshark-gnome:1.0.15-7.el5_11.x86_64
+#   - wireshark.x86_64:1.0.15-7.el5_11
+#   - wireshark-debuginfo.x86_64:1.0.15-7.el5_11
+#   - wireshark-gnome.x86_64:1.0.15-7.el5_11
 #
 # CVE List:
 #   - CVE-2010-3445
@@ -31,6 +31,6 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:0370
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install wireshark-1.0.15 -y 
-sudo yum install wireshark-debuginfo-1.0.15 -y 
-sudo yum install wireshark-gnome-1.0.15 -y 
+sudo yum install wireshark.x86_64-1.0.15 -y 
+sudo yum install wireshark-debuginfo.x86_64-1.0.15 -y 
+sudo yum install wireshark-gnome.x86_64-1.0.15 -y 

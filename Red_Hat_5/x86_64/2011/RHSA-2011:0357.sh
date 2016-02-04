@@ -3,30 +3,44 @@
 # Security fix for RHSA-2011:0357
 #
 # Security announcement date: 2011-03-16 12:43:51 UTC
-# Script generation date:     2016-02-02 19:08:46 UTC
+# Script generation date:     2016-02-04 19:14:51 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.6.0-ibm:1.6.0.9.1-1jpp.1.el5.x86_64
-#   - java-1.6.0-ibm-accessibility:1.6.0.9.1-1jpp.1.el5.x86_64
-#   - java-1.6.0-ibm-demo:1.6.0.9.1-1jpp.1.el5.x86_64
-#   - java-1.6.0-ibm-devel:1.6.0.9.1-1jpp.1.el5.x86_64
-#   - java-1.6.0-ibm-javacomm:1.6.0.9.1-1jpp.1.el5.x86_64
-#   - java-1.6.0-ibm-jdbc:1.6.0.9.1-1jpp.1.el5.x86_64
-#   - java-1.6.0-ibm-plugin:1.6.0.9.1-1jpp.1.el5.x86_64
-#   - java-1.6.0-ibm-src:1.6.0.9.1-1jpp.1.el5.x86_64
+#   - java-1.6.0-ibm.x86_64:1.6.0.9.1-1jpp.1.el5
+#   - java-1.6.0-ibm-accessibility.x86_64:1.6.0.9.1-1jpp.1.el5
+#   - java-1.6.0-ibm-demo.x86_64:1.6.0.9.1-1jpp.1.el5
+#   - java-1.6.0-ibm-devel.x86_64:1.6.0.9.1-1jpp.1.el5
+#   - java-1.6.0-ibm-javacomm.x86_64:1.6.0.9.1-1jpp.1.el5
+#   - java-1.6.0-ibm-jdbc.x86_64:1.6.0.9.1-1jpp.1.el5
+#   - java-1.6.0-ibm-plugin.x86_64:1.6.0.9.1-1jpp.1.el5
+#   - java-1.6.0-ibm-src.x86_64:1.6.0.9.1-1jpp.1.el5
+#   - java-1.6.0-ibm.i386:1.6.0.9.1-1jpp.1.el5
+#   - java-1.6.0-ibm-demo.i386:1.6.0.9.1-1jpp.1.el5
+#   - java-1.6.0-ibm-devel.i386:1.6.0.9.1-1jpp.1.el5
+#   - java-1.6.0-ibm-javacomm.i386:1.6.0.9.1-1jpp.1.el5
+#   - java-1.6.0-ibm-jdbc.i386:1.6.0.9.1-1jpp.1.el5
+#   - java-1.6.0-ibm-plugin.i386:1.6.0.9.1-1jpp.1.el5
+#   - java-1.6.0-ibm-src.i386:1.6.0.9.1-1jpp.1.el5
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-ibm:1.6.0.16.20-1jpp.1.el5.x86_64
-#   - java-1.6.0-ibm-accessibility:1.6.0.16.20-1jpp.1.el5.x86_64
-#   - java-1.6.0-ibm-demo:1.6.0.16.20-1jpp.1.el5.x86_64
-#   - java-1.6.0-ibm-devel:1.6.0.16.20-1jpp.1.el5.x86_64
-#   - java-1.6.0-ibm-javacomm:1.6.0.16.20-1jpp.1.el5.x86_64
-#   - java-1.6.0-ibm-jdbc:1.6.0.16.20-1jpp.1.el5.x86_64
-#   - java-1.6.0-ibm-plugin:1.6.0.16.20-1jpp.1.el5.x86_64
-#   - java-1.6.0-ibm-src:1.6.0.16.20-1jpp.1.el5.x86_64
+#   - java-1.6.0-ibm.x86_64:1.6.0.16.20-1jpp.1.el5
+#   - java-1.6.0-ibm-accessibility.x86_64:1.6.0.16.20-1jpp.1.el5
+#   - java-1.6.0-ibm-demo.x86_64:1.6.0.16.20-1jpp.1.el5
+#   - java-1.6.0-ibm-devel.x86_64:1.6.0.16.20-1jpp.1.el5
+#   - java-1.6.0-ibm-javacomm.x86_64:1.6.0.16.20-1jpp.1.el5
+#   - java-1.6.0-ibm-jdbc.x86_64:1.6.0.16.20-1jpp.1.el5
+#   - java-1.6.0-ibm-plugin.x86_64:1.6.0.16.20-1jpp.1.el5
+#   - java-1.6.0-ibm-src.x86_64:1.6.0.16.20-1jpp.1.el5
+#   - java-1.6.0-ibm.i386:1.6.0.16.20-1jpp.1.el5
+#   - java-1.6.0-ibm-demo.i386:1.6.0.16.20-1jpp.1.el5
+#   - java-1.6.0-ibm-devel.i386:1.6.0.16.20-1jpp.1.el5
+#   - java-1.6.0-ibm-javacomm.i386:1.6.0.16.20-1jpp.1.el5
+#   - java-1.6.0-ibm-jdbc.i386:1.6.0.16.20-1jpp.1.el5
+#   - java-1.6.0-ibm-plugin.i386:1.6.0.16.20-1jpp.1.el5
+#   - java-1.6.0-ibm-src.i386:1.6.0.16.20-1jpp.1.el5
 #
 # CVE List:
 #   - CVE-2010-4422
@@ -48,11 +62,18 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:0357
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-ibm-1.6.0.16.20 -y 
-sudo yum install java-1.6.0-ibm-accessibility-1.6.0.16.20 -y 
-sudo yum install java-1.6.0-ibm-demo-1.6.0.16.20 -y 
-sudo yum install java-1.6.0-ibm-devel-1.6.0.16.20 -y 
-sudo yum install java-1.6.0-ibm-javacomm-1.6.0.16.20 -y 
-sudo yum install java-1.6.0-ibm-jdbc-1.6.0.16.20 -y 
-sudo yum install java-1.6.0-ibm-plugin-1.6.0.16.20 -y 
-sudo yum install java-1.6.0-ibm-src-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm.x86_64-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm-accessibility.x86_64-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm-demo.x86_64-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm-devel.x86_64-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm-javacomm.x86_64-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm-jdbc.x86_64-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm-plugin.x86_64-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm-src.x86_64-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm.i386-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm-demo.i386-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm-devel.i386-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm-javacomm.i386-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm-jdbc.i386-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm-plugin.i386-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm-src.i386-1.6.0.16.20 -y 

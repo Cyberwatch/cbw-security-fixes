@@ -3,170 +3,170 @@
 # Security fix for RHSA-2015:1670
 #
 # Security announcement date: 2015-08-24 18:49:25 UTC
-# Script generation date:     2016-01-11 19:16:53 UTC
+# Script generation date:     2016-02-04 19:19:42 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - glassfish-jsf-eap6:2.1.28-9.redhat_10.1.ep6.el6.noarch
-#   - hibernate4-core-eap6:4.2.20-1.Final_redhat_1.1.ep6.el6.noarch
-#   - hibernate4-eap6:4.2.20-1.Final_redhat_1.1.ep6.el6.noarch
-#   - hibernate4-entitymanager-eap6:4.2.20-1.Final_redhat_1.1.ep6.el6.noarch
-#   - hibernate4-envers-eap6:4.2.20-1.Final_redhat_1.1.ep6.el6.noarch
-#   - hibernate4-infinispan-eap6:4.2.20-1.Final_redhat_1.1.ep6.el6.noarch
-#   - hornetq:2.3.25-4.SP3_redhat_1.1.ep6.el6.noarch
-#   - jboss-as-appclient:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-cli:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-client-all:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-clustering:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-cmp:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-configadmin:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-connector:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-console:2.5.6-2.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-controller:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-controller-client:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-core-security:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-deployment-repository:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-deployment-scanner:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-domain-http:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-domain-management:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-ee:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-ee-deployment:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-ejb3:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-embedded:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-host-controller:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-jacorb:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-jaxr:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-jaxrs:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-jdr:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-jmx:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-jpa:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-jsf:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-jsr77:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-logging:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-mail:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-management-client-content:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-messaging:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-modcluster:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-naming:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-network:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-osgi:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-osgi-configadmin:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-osgi-service:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-picketlink:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-platform-mbean:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-pojo:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-process-controller:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-protocol:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-remoting:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-sar:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-security:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-server:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-system-jmx:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-threads:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-transactions:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-version:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-web:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-webservices:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-weld:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-as-xts:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-hal:2.5.6-2.Final_redhat_2.1.ep6.el6.noarch
-#   - jboss-modules:1.3.7-1.Final_redhat_1.1.ep6.el6.noarch
-#   - jbossas-appclient:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jbossas-bundles:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jbossas-core:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jbossas-domain:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jbossas-javadocs:7.5.3-2.Final_redhat_2.1.ep6.el6.noarch
-#   - jbossas-modules-eap:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jbossas-product-eap:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jbossas-standalone:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jbossas-welcome-content-eap:7.5.3-1.Final_redhat_2.1.ep6.el6.noarch
-#   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el6.noarch
-#   - jbossweb:7.5.10-1.Final_redhat_1.1.ep6.el6.noarch
-#   - picketlink-bindings:2.5.4-8.SP7_redhat_1.1.ep6.el6.noarch
-#   - picketlink-federation:2.5.4-8.SP7_redhat_1.1.ep6.el6.noarch
-#   - resteasy:2.3.12-1.Final_redhat_1.1.ep6.el6.noarch
+#   - glassfish-jsf-eap6.noarch:2.1.28-9.redhat_10.1.ep6.el6
+#   - hibernate4-core-eap6.noarch:4.2.20-1.Final_redhat_1.1.ep6.el6
+#   - hibernate4-eap6.noarch:4.2.20-1.Final_redhat_1.1.ep6.el6
+#   - hibernate4-entitymanager-eap6.noarch:4.2.20-1.Final_redhat_1.1.ep6.el6
+#   - hibernate4-envers-eap6.noarch:4.2.20-1.Final_redhat_1.1.ep6.el6
+#   - hibernate4-infinispan-eap6.noarch:4.2.20-1.Final_redhat_1.1.ep6.el6
+#   - hornetq.noarch:2.3.25-4.SP3_redhat_1.1.ep6.el6
+#   - jboss-as-appclient.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-cli.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-client-all.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-clustering.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-cmp.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-configadmin.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-connector.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-console.noarch:2.5.6-2.Final_redhat_2.1.ep6.el6
+#   - jboss-as-controller.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-controller-client.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-core-security.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-deployment-repository.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-deployment-scanner.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-domain-http.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-domain-management.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-ee.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-ee-deployment.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-ejb3.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-embedded.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-host-controller.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-jacorb.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-jaxr.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-jaxrs.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-jdr.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-jmx.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-jpa.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-jsf.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-jsr77.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-logging.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-mail.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-management-client-content.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-messaging.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-modcluster.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-naming.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-network.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-osgi.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-osgi-configadmin.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-osgi-service.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-picketlink.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-platform-mbean.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-pojo.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-process-controller.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-protocol.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-remoting.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-sar.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-security.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-server.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-system-jmx.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-threads.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-transactions.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-version.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-web.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-webservices.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-weld.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-as-xts.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jboss-hal.noarch:2.5.6-2.Final_redhat_2.1.ep6.el6
+#   - jboss-modules.noarch:1.3.7-1.Final_redhat_1.1.ep6.el6
+#   - jbossas-appclient.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jbossas-bundles.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jbossas-core.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jbossas-domain.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jbossas-javadocs.noarch:7.5.3-2.Final_redhat_2.1.ep6.el6
+#   - jbossas-modules-eap.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jbossas-product-eap.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jbossas-standalone.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jbossas-welcome-content-eap.noarch:7.5.3-1.Final_redhat_2.1.ep6.el6
+#   - jbossts.noarch:4.17.30-1.Final_redhat_1.1.ep6.el6
+#   - jbossweb.noarch:7.5.10-1.Final_redhat_1.1.ep6.el6
+#   - picketlink-bindings.noarch:2.5.4-8.SP7_redhat_1.1.ep6.el6
+#   - picketlink-federation.noarch:2.5.4-8.SP7_redhat_1.1.ep6.el6
+#   - resteasy.noarch:2.3.12-1.Final_redhat_1.1.ep6.el6
 #
 # Last versions recommanded by security team:
-#   - glassfish-jsf-eap6:2.1.28-9.redhat_10.1.ep6.el6.noarch
-#   - hibernate4-core-eap6:4.2.21-1.Final_redhat_1.1.ep6.el6.noarch
-#   - hibernate4-eap6:4.2.21-1.Final_redhat_1.1.ep6.el6.noarch
-#   - hibernate4-entitymanager-eap6:4.2.21-1.Final_redhat_1.1.ep6.el6.noarch
-#   - hibernate4-envers-eap6:4.2.21-1.Final_redhat_1.1.ep6.el6.noarch
-#   - hibernate4-infinispan-eap6:4.2.21-1.Final_redhat_1.1.ep6.el6.noarch
-#   - hornetq:2.3.25-7.SP6_redhat_1.1.ep6.el6.noarch
-#   - jboss-as-appclient:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-cli:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-client-all:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-clustering:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-cmp:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-configadmin:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-connector:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-console:2.5.11-1.Final_redhat_1.1.ep6.el6.noarch
-#   - jboss-as-controller:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-controller-client:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-core-security:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-deployment-repository:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-deployment-scanner:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-domain-http:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-domain-management:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-ee:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-ee-deployment:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-ejb3:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-embedded:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-host-controller:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-jacorb:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-jaxr:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-jaxrs:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-jdr:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-jmx:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-jpa:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-jsf:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-jsr77:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-logging:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-mail:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-management-client-content:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-messaging:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-modcluster:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-naming:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-network:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-osgi:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-osgi-configadmin:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-osgi-service:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-picketlink:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-platform-mbean:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-pojo:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-process-controller:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-protocol:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-remoting:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-sar:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-security:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-server:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-system-jmx:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-threads:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-transactions:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-version:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-web:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-webservices:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-weld:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-as-xts:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jboss-hal:2.5.11-1.Final_redhat_1.1.ep6.el6.noarch
-#   - jboss-modules:1.3.7-1.Final_redhat_1.1.ep6.el6.noarch
-#   - jbossas-appclient:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jbossas-bundles:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jbossas-core:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jbossas-domain:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jbossas-javadocs:7.5.5-3.Final_redhat_3.1.ep6.el6.noarch
-#   - jbossas-modules-eap:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jbossas-product-eap:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jbossas-standalone:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jbossas-welcome-content-eap:7.5.5-2.Final_redhat_3.1.ep6.el6.noarch
-#   - jbossts:4.17.30-1.Final_redhat_1.1.ep6.el6.noarch
-#   - jbossweb:7.5.12-1.Final_redhat_1.1.ep6.el6.noarch
-#   - picketlink-bindings:2.5.4-8.SP7_redhat_1.1.ep6.el6.noarch
-#   - picketlink-federation:2.5.4-8.SP7_redhat_1.1.ep6.el6.noarch
-#   - resteasy:2.3.12-1.Final_redhat_1.1.ep6.el6.noarch
+#   - glassfish-jsf-eap6.noarch:2.1.28-9.redhat_10.1.ep6.el6
+#   - hibernate4-core-eap6.noarch:4.2.21-1.Final_redhat_1.1.ep6.el6
+#   - hibernate4-eap6.noarch:4.2.21-1.Final_redhat_1.1.ep6.el6
+#   - hibernate4-entitymanager-eap6.noarch:4.2.21-1.Final_redhat_1.1.ep6.el6
+#   - hibernate4-envers-eap6.noarch:4.2.21-1.Final_redhat_1.1.ep6.el6
+#   - hibernate4-infinispan-eap6.noarch:4.2.21-1.Final_redhat_1.1.ep6.el6
+#   - hornetq.noarch:2.3.25-7.SP6_redhat_1.1.ep6.el6
+#   - jboss-as-appclient.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-cli.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-client-all.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-clustering.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-cmp.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-configadmin.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-connector.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-console.noarch:2.5.11-1.Final_redhat_1.1.ep6.el6
+#   - jboss-as-controller.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-controller-client.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-core-security.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-deployment-repository.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-deployment-scanner.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-domain-http.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-domain-management.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-ee.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-ee-deployment.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-ejb3.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-embedded.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-host-controller.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-jacorb.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-jaxr.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-jaxrs.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-jdr.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-jmx.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-jpa.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-jsf.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-jsr77.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-logging.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-mail.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-management-client-content.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-messaging.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-modcluster.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-naming.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-network.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-osgi.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-osgi-configadmin.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-osgi-service.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-picketlink.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-platform-mbean.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-pojo.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-process-controller.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-protocol.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-remoting.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-sar.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-security.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-server.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-system-jmx.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-threads.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-transactions.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-version.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-web.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-webservices.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-weld.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-as-xts.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jboss-hal.noarch:2.5.11-1.Final_redhat_1.1.ep6.el6
+#   - jboss-modules.noarch:1.3.7-1.Final_redhat_1.1.ep6.el6
+#   - jbossas-appclient.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jbossas-bundles.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jbossas-core.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jbossas-domain.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jbossas-javadocs.noarch:7.5.5-3.Final_redhat_3.1.ep6.el6
+#   - jbossas-modules-eap.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jbossas-product-eap.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jbossas-standalone.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jbossas-welcome-content-eap.noarch:7.5.5-2.Final_redhat_3.1.ep6.el6
+#   - jbossts.noarch:4.17.30-1.Final_redhat_1.1.ep6.el6
+#   - jbossweb.noarch:7.5.12-1.Final_redhat_1.1.ep6.el6
+#   - picketlink-bindings.noarch:2.5.4-8.SP7_redhat_1.1.ep6.el6
+#   - picketlink-federation.noarch:2.5.4-8.SP7_redhat_1.1.ep6.el6
+#   - resteasy.noarch:2.3.12-1.Final_redhat_1.1.ep6.el6
 #
 # CVE List:
 #   - CVE-2015-3158
@@ -175,81 +175,81 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1670
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install glassfish-jsf-eap6-2.1.28 -y 
-sudo yum install hibernate4-core-eap6-4.2.21 -y 
-sudo yum install hibernate4-eap6-4.2.21 -y 
-sudo yum install hibernate4-entitymanager-eap6-4.2.21 -y 
-sudo yum install hibernate4-envers-eap6-4.2.21 -y 
-sudo yum install hibernate4-infinispan-eap6-4.2.21 -y 
-sudo yum install hornetq-2.3.25 -y 
-sudo yum install jboss-as-appclient-7.5.5 -y 
-sudo yum install jboss-as-cli-7.5.5 -y 
-sudo yum install jboss-as-client-all-7.5.5 -y 
-sudo yum install jboss-as-clustering-7.5.5 -y 
-sudo yum install jboss-as-cmp-7.5.5 -y 
-sudo yum install jboss-as-configadmin-7.5.5 -y 
-sudo yum install jboss-as-connector-7.5.5 -y 
-sudo yum install jboss-as-console-2.5.11 -y 
-sudo yum install jboss-as-controller-7.5.5 -y 
-sudo yum install jboss-as-controller-client-7.5.5 -y 
-sudo yum install jboss-as-core-security-7.5.5 -y 
-sudo yum install jboss-as-deployment-repository-7.5.5 -y 
-sudo yum install jboss-as-deployment-scanner-7.5.5 -y 
-sudo yum install jboss-as-domain-http-7.5.5 -y 
-sudo yum install jboss-as-domain-management-7.5.5 -y 
-sudo yum install jboss-as-ee-7.5.5 -y 
-sudo yum install jboss-as-ee-deployment-7.5.5 -y 
-sudo yum install jboss-as-ejb3-7.5.5 -y 
-sudo yum install jboss-as-embedded-7.5.5 -y 
-sudo yum install jboss-as-host-controller-7.5.5 -y 
-sudo yum install jboss-as-jacorb-7.5.5 -y 
-sudo yum install jboss-as-jaxr-7.5.5 -y 
-sudo yum install jboss-as-jaxrs-7.5.5 -y 
-sudo yum install jboss-as-jdr-7.5.5 -y 
-sudo yum install jboss-as-jmx-7.5.5 -y 
-sudo yum install jboss-as-jpa-7.5.5 -y 
-sudo yum install jboss-as-jsf-7.5.5 -y 
-sudo yum install jboss-as-jsr77-7.5.5 -y 
-sudo yum install jboss-as-logging-7.5.5 -y 
-sudo yum install jboss-as-mail-7.5.5 -y 
-sudo yum install jboss-as-management-client-content-7.5.5 -y 
-sudo yum install jboss-as-messaging-7.5.5 -y 
-sudo yum install jboss-as-modcluster-7.5.5 -y 
-sudo yum install jboss-as-naming-7.5.5 -y 
-sudo yum install jboss-as-network-7.5.5 -y 
-sudo yum install jboss-as-osgi-7.5.5 -y 
-sudo yum install jboss-as-osgi-configadmin-7.5.5 -y 
-sudo yum install jboss-as-osgi-service-7.5.5 -y 
-sudo yum install jboss-as-picketlink-7.5.5 -y 
-sudo yum install jboss-as-platform-mbean-7.5.5 -y 
-sudo yum install jboss-as-pojo-7.5.5 -y 
-sudo yum install jboss-as-process-controller-7.5.5 -y 
-sudo yum install jboss-as-protocol-7.5.5 -y 
-sudo yum install jboss-as-remoting-7.5.5 -y 
-sudo yum install jboss-as-sar-7.5.5 -y 
-sudo yum install jboss-as-security-7.5.5 -y 
-sudo yum install jboss-as-server-7.5.5 -y 
-sudo yum install jboss-as-system-jmx-7.5.5 -y 
-sudo yum install jboss-as-threads-7.5.5 -y 
-sudo yum install jboss-as-transactions-7.5.5 -y 
-sudo yum install jboss-as-version-7.5.5 -y 
-sudo yum install jboss-as-web-7.5.5 -y 
-sudo yum install jboss-as-webservices-7.5.5 -y 
-sudo yum install jboss-as-weld-7.5.5 -y 
-sudo yum install jboss-as-xts-7.5.5 -y 
-sudo yum install jboss-hal-2.5.11 -y 
-sudo yum install jboss-modules-1.3.7 -y 
-sudo yum install jbossas-appclient-7.5.5 -y 
-sudo yum install jbossas-bundles-7.5.5 -y 
-sudo yum install jbossas-core-7.5.5 -y 
-sudo yum install jbossas-domain-7.5.5 -y 
-sudo yum install jbossas-javadocs-7.5.5 -y 
-sudo yum install jbossas-modules-eap-7.5.5 -y 
-sudo yum install jbossas-product-eap-7.5.5 -y 
-sudo yum install jbossas-standalone-7.5.5 -y 
-sudo yum install jbossas-welcome-content-eap-7.5.5 -y 
-sudo yum install jbossts-4.17.30 -y 
-sudo yum install jbossweb-7.5.12 -y 
-sudo yum install picketlink-bindings-2.5.4 -y 
-sudo yum install picketlink-federation-2.5.4 -y 
-sudo yum install resteasy-2.3.12 -y 
+sudo yum install glassfish-jsf-eap6.noarch-2.1.28 -y 
+sudo yum install hibernate4-core-eap6.noarch-4.2.21 -y 
+sudo yum install hibernate4-eap6.noarch-4.2.21 -y 
+sudo yum install hibernate4-entitymanager-eap6.noarch-4.2.21 -y 
+sudo yum install hibernate4-envers-eap6.noarch-4.2.21 -y 
+sudo yum install hibernate4-infinispan-eap6.noarch-4.2.21 -y 
+sudo yum install hornetq.noarch-2.3.25 -y 
+sudo yum install jboss-as-appclient.noarch-7.5.5 -y 
+sudo yum install jboss-as-cli.noarch-7.5.5 -y 
+sudo yum install jboss-as-client-all.noarch-7.5.5 -y 
+sudo yum install jboss-as-clustering.noarch-7.5.5 -y 
+sudo yum install jboss-as-cmp.noarch-7.5.5 -y 
+sudo yum install jboss-as-configadmin.noarch-7.5.5 -y 
+sudo yum install jboss-as-connector.noarch-7.5.5 -y 
+sudo yum install jboss-as-console.noarch-2.5.11 -y 
+sudo yum install jboss-as-controller.noarch-7.5.5 -y 
+sudo yum install jboss-as-controller-client.noarch-7.5.5 -y 
+sudo yum install jboss-as-core-security.noarch-7.5.5 -y 
+sudo yum install jboss-as-deployment-repository.noarch-7.5.5 -y 
+sudo yum install jboss-as-deployment-scanner.noarch-7.5.5 -y 
+sudo yum install jboss-as-domain-http.noarch-7.5.5 -y 
+sudo yum install jboss-as-domain-management.noarch-7.5.5 -y 
+sudo yum install jboss-as-ee.noarch-7.5.5 -y 
+sudo yum install jboss-as-ee-deployment.noarch-7.5.5 -y 
+sudo yum install jboss-as-ejb3.noarch-7.5.5 -y 
+sudo yum install jboss-as-embedded.noarch-7.5.5 -y 
+sudo yum install jboss-as-host-controller.noarch-7.5.5 -y 
+sudo yum install jboss-as-jacorb.noarch-7.5.5 -y 
+sudo yum install jboss-as-jaxr.noarch-7.5.5 -y 
+sudo yum install jboss-as-jaxrs.noarch-7.5.5 -y 
+sudo yum install jboss-as-jdr.noarch-7.5.5 -y 
+sudo yum install jboss-as-jmx.noarch-7.5.5 -y 
+sudo yum install jboss-as-jpa.noarch-7.5.5 -y 
+sudo yum install jboss-as-jsf.noarch-7.5.5 -y 
+sudo yum install jboss-as-jsr77.noarch-7.5.5 -y 
+sudo yum install jboss-as-logging.noarch-7.5.5 -y 
+sudo yum install jboss-as-mail.noarch-7.5.5 -y 
+sudo yum install jboss-as-management-client-content.noarch-7.5.5 -y 
+sudo yum install jboss-as-messaging.noarch-7.5.5 -y 
+sudo yum install jboss-as-modcluster.noarch-7.5.5 -y 
+sudo yum install jboss-as-naming.noarch-7.5.5 -y 
+sudo yum install jboss-as-network.noarch-7.5.5 -y 
+sudo yum install jboss-as-osgi.noarch-7.5.5 -y 
+sudo yum install jboss-as-osgi-configadmin.noarch-7.5.5 -y 
+sudo yum install jboss-as-osgi-service.noarch-7.5.5 -y 
+sudo yum install jboss-as-picketlink.noarch-7.5.5 -y 
+sudo yum install jboss-as-platform-mbean.noarch-7.5.5 -y 
+sudo yum install jboss-as-pojo.noarch-7.5.5 -y 
+sudo yum install jboss-as-process-controller.noarch-7.5.5 -y 
+sudo yum install jboss-as-protocol.noarch-7.5.5 -y 
+sudo yum install jboss-as-remoting.noarch-7.5.5 -y 
+sudo yum install jboss-as-sar.noarch-7.5.5 -y 
+sudo yum install jboss-as-security.noarch-7.5.5 -y 
+sudo yum install jboss-as-server.noarch-7.5.5 -y 
+sudo yum install jboss-as-system-jmx.noarch-7.5.5 -y 
+sudo yum install jboss-as-threads.noarch-7.5.5 -y 
+sudo yum install jboss-as-transactions.noarch-7.5.5 -y 
+sudo yum install jboss-as-version.noarch-7.5.5 -y 
+sudo yum install jboss-as-web.noarch-7.5.5 -y 
+sudo yum install jboss-as-webservices.noarch-7.5.5 -y 
+sudo yum install jboss-as-weld.noarch-7.5.5 -y 
+sudo yum install jboss-as-xts.noarch-7.5.5 -y 
+sudo yum install jboss-hal.noarch-2.5.11 -y 
+sudo yum install jboss-modules.noarch-1.3.7 -y 
+sudo yum install jbossas-appclient.noarch-7.5.5 -y 
+sudo yum install jbossas-bundles.noarch-7.5.5 -y 
+sudo yum install jbossas-core.noarch-7.5.5 -y 
+sudo yum install jbossas-domain.noarch-7.5.5 -y 
+sudo yum install jbossas-javadocs.noarch-7.5.5 -y 
+sudo yum install jbossas-modules-eap.noarch-7.5.5 -y 
+sudo yum install jbossas-product-eap.noarch-7.5.5 -y 
+sudo yum install jbossas-standalone.noarch-7.5.5 -y 
+sudo yum install jbossas-welcome-content-eap.noarch-7.5.5 -y 
+sudo yum install jbossts.noarch-4.17.30 -y 
+sudo yum install jbossweb.noarch-7.5.12 -y 
+sudo yum install picketlink-bindings.noarch-2.5.4 -y 
+sudo yum install picketlink-federation.noarch-2.5.4 -y 
+sudo yum install resteasy.noarch-2.3.12 -y 

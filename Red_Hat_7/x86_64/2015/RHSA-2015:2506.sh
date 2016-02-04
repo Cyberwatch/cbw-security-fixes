@@ -3,26 +3,30 @@
 # Security fix for RHSA-2015:2506
 #
 # Security announcement date: 2015-11-23 13:00:24 UTC
-# Script generation date:     2016-02-02 19:13:38 UTC
+# Script generation date:     2016-02-04 19:20:04 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.7.1-ibm:1.7.1.3.20-1jpp.1.el7.x86_64
-#   - java-1.7.1-ibm-demo:1.7.1.3.20-1jpp.1.el7.x86_64
-#   - java-1.7.1-ibm-devel:1.7.1.3.20-1jpp.1.el7.x86_64
-#   - java-1.7.1-ibm-jdbc:1.7.1.3.20-1jpp.1.el7.x86_64
-#   - java-1.7.1-ibm-plugin:1.7.1.3.20-1jpp.1.el7.x86_64
-#   - java-1.7.1-ibm-src:1.7.1.3.20-1jpp.1.el7.x86_64
+#   - java-1.7.1-ibm.x86_64:1.7.1.3.20-1jpp.1.el7
+#   - java-1.7.1-ibm-demo.x86_64:1.7.1.3.20-1jpp.1.el7
+#   - java-1.7.1-ibm-devel.x86_64:1.7.1.3.20-1jpp.1.el7
+#   - java-1.7.1-ibm-jdbc.x86_64:1.7.1.3.20-1jpp.1.el7
+#   - java-1.7.1-ibm-plugin.x86_64:1.7.1.3.20-1jpp.1.el7
+#   - java-1.7.1-ibm-src.x86_64:1.7.1.3.20-1jpp.1.el7
+#   - java-1.7.1-ibm.i686:1.7.1.3.20-1jpp.1.el7
+#   - java-1.7.1-ibm-devel.i686:1.7.1.3.20-1jpp.1.el7
 #
 # Last versions recommanded by security team:
-#   - java-1.7.1-ibm:1.7.1.3.30-1jpp.1.el7.x86_64
-#   - java-1.7.1-ibm-demo:1.7.1.3.30-1jpp.1.el7.x86_64
-#   - java-1.7.1-ibm-devel:1.7.1.3.30-1jpp.1.el7.x86_64
-#   - java-1.7.1-ibm-jdbc:1.7.1.3.30-1jpp.1.el7.x86_64
-#   - java-1.7.1-ibm-plugin:1.7.1.3.30-1jpp.1.el7.x86_64
-#   - java-1.7.1-ibm-src:1.7.1.3.30-1jpp.1.el7.x86_64
+#   - java-1.7.1-ibm.x86_64:1.7.1.3.30-1jpp.1.el7
+#   - java-1.7.1-ibm-demo.x86_64:1.7.1.3.30-1jpp.1.el7
+#   - java-1.7.1-ibm-devel.x86_64:1.7.1.3.30-1jpp.1.el7
+#   - java-1.7.1-ibm-jdbc.x86_64:1.7.1.3.30-1jpp.1.el7
+#   - java-1.7.1-ibm-plugin.x86_64:1.7.1.3.30-1jpp.1.el7
+#   - java-1.7.1-ibm-src.x86_64:1.7.1.3.30-1jpp.1.el7
+#   - java-1.7.1-ibm.i686:1.7.1.3.30-1jpp.1.el7
+#   - java-1.7.1-ibm-devel.i686:1.7.1.3.30-1jpp.1.el7
 #
 # CVE List:
 #   - CVE-2015-4734
@@ -49,9 +53,11 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:2506
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.1-ibm-1.7.1.3.30 -y 
-sudo yum install java-1.7.1-ibm-demo-1.7.1.3.30 -y 
-sudo yum install java-1.7.1-ibm-devel-1.7.1.3.30 -y 
-sudo yum install java-1.7.1-ibm-jdbc-1.7.1.3.30 -y 
-sudo yum install java-1.7.1-ibm-plugin-1.7.1.3.30 -y 
-sudo yum install java-1.7.1-ibm-src-1.7.1.3.30 -y 
+sudo yum install java-1.7.1-ibm.x86_64-1.7.1.3.30 -y 
+sudo yum install java-1.7.1-ibm-demo.x86_64-1.7.1.3.30 -y 
+sudo yum install java-1.7.1-ibm-devel.x86_64-1.7.1.3.30 -y 
+sudo yum install java-1.7.1-ibm-jdbc.x86_64-1.7.1.3.30 -y 
+sudo yum install java-1.7.1-ibm-plugin.x86_64-1.7.1.3.30 -y 
+sudo yum install java-1.7.1-ibm-src.x86_64-1.7.1.3.30 -y 
+sudo yum install java-1.7.1-ibm.i686-1.7.1.3.30 -y 
+sudo yum install java-1.7.1-ibm-devel.i686-1.7.1.3.30 -y 

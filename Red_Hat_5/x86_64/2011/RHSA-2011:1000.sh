@@ -3,18 +3,18 @@
 # Security fix for RHSA-2011:1000
 #
 # Security announcement date: 2011-07-21 13:31:05 UTC
-# Script generation date:     2016-01-06 19:10:23 UTC
+# Script generation date:     2016-02-04 19:15:19 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rgmanager:2.0.52-21.el5.x86_64
-#   - rgmanager-debuginfo:2.0.52-21.el5.x86_64
+#   - rgmanager.x86_64:2.0.52-21.el5
+#   - rgmanager-debuginfo.x86_64:2.0.52-21.el5
 #
 # Last versions recommanded by security team:
-#   - rgmanager:2.0.52-21.el5.x86_64
-#   - rgmanager-debuginfo:2.0.52-21.el5.x86_64
+#   - rgmanager.x86_64:2.0.52-21.el5
+#   - rgmanager-debuginfo.x86_64:2.0.52-21.el5
 #
 # CVE List:
 #   - CVE-2010-3389
@@ -23,5 +23,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:1000
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install rgmanager-2.0.52 -y 
-sudo yum install rgmanager-debuginfo-2.0.52 -y 
+sudo yum install rgmanager.x86_64-2.0.52 -y 
+sudo yum install rgmanager-debuginfo.x86_64-2.0.52 -y 

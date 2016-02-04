@@ -3,26 +3,32 @@
 # Security fix for RHSA-2011:0376
 #
 # Security announcement date: 2011-03-22 21:40:44 UTC
-# Script generation date:     2016-01-06 19:09:53 UTC
+# Script generation date:     2016-02-04 19:14:52 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - dbus:1.2.24-4.el6_0.x86_64
-#   - dbus-debuginfo:1.2.24-4.el6_0.x86_64
-#   - dbus-libs:1.2.24-4.el6_0.x86_64
-#   - dbus-x11:1.2.24-4.el6_0.x86_64
-#   - dbus-doc:1.2.24-4.el6_0.noarch
-#   - dbus-devel:1.2.24-4.el6_0.x86_64
+#   - dbus.x86_64:1.2.24-4.el6_0
+#   - dbus-debuginfo.x86_64:1.2.24-4.el6_0
+#   - dbus-libs.x86_64:1.2.24-4.el6_0
+#   - dbus-x11.x86_64:1.2.24-4.el6_0
+#   - dbus-doc.noarch:1.2.24-4.el6_0
+#   - dbus-devel.x86_64:1.2.24-4.el6_0
+#   - dbus-debuginfo.i686:1.2.24-4.el6_0
+#   - dbus-libs.i686:1.2.24-4.el6_0
+#   - dbus-devel.i686:1.2.24-4.el6_0
 #
 # Last versions recommanded by security team:
-#   - dbus:1.2.24-7.el6_3.x86_64
-#   - dbus-debuginfo:1.2.24-7.el6_3.x86_64
-#   - dbus-libs:1.2.24-7.el6_3.x86_64
-#   - dbus-x11:1.2.24-7.el6_3.x86_64
-#   - dbus-doc:1.2.24-7.el6_3.noarch
-#   - dbus-devel:1.2.24-7.el6_3.x86_64
+#   - dbus.x86_64:1.2.24-7.el6_3
+#   - dbus-debuginfo.x86_64:1.2.24-7.el6_3
+#   - dbus-libs.x86_64:1.2.24-7.el6_3
+#   - dbus-x11.x86_64:1.2.24-7.el6_3
+#   - dbus-doc.noarch:1.2.24-7.el6_3
+#   - dbus-devel.x86_64:1.2.24-7.el6_3
+#   - dbus-debuginfo.i686:1.2.24-7.el6_3
+#   - dbus-libs.i686:1.2.24-7.el6_3
+#   - dbus-devel.i686:1.2.24-7.el6_3
 #
 # CVE List:
 #   - CVE-2010-4352
@@ -31,9 +37,12 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:0376
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install dbus-1.2.24 -y 
-sudo yum install dbus-debuginfo-1.2.24 -y 
-sudo yum install dbus-libs-1.2.24 -y 
-sudo yum install dbus-x11-1.2.24 -y 
-sudo yum install dbus-doc-1.2.24 -y 
-sudo yum install dbus-devel-1.2.24 -y 
+sudo yum install dbus.x86_64-1.2.24 -y 
+sudo yum install dbus-debuginfo.x86_64-1.2.24 -y 
+sudo yum install dbus-libs.x86_64-1.2.24 -y 
+sudo yum install dbus-x11.x86_64-1.2.24 -y 
+sudo yum install dbus-doc.noarch-1.2.24 -y 
+sudo yum install dbus-devel.x86_64-1.2.24 -y 
+sudo yum install dbus-debuginfo.i686-1.2.24 -y 
+sudo yum install dbus-libs.i686-1.2.24 -y 
+sudo yum install dbus-devel.i686-1.2.24 -y 

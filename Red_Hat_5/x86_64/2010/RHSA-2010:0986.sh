@@ -3,24 +3,24 @@
 # Security fix for RHSA-2010:0986
 #
 # Security announcement date: 2010-12-15 23:42:28 UTC
-# Script generation date:     2016-01-06 19:09:44 UTC
+# Script generation date:     2016-02-04 19:14:40 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.4.2-ibm-sap:1.4.2.13.6.sap-1jpp.1.el5.x86_64
-#   - java-1.4.2-ibm-sap-demo:1.4.2.13.6.sap-1jpp.1.el5.x86_64
-#   - java-1.4.2-ibm-sap-devel:1.4.2.13.6.sap-1jpp.1.el5.x86_64
-#   - java-1.4.2-ibm-sap-javacomm:1.4.2.13.6.sap-1jpp.1.el5.x86_64
-#   - java-1.4.2-ibm-sap-src:1.4.2.13.6.sap-1jpp.1.el5.x86_64
+#   - java-1.4.2-ibm-sap.x86_64:1.4.2.13.6.sap-1jpp.1.el5
+#   - java-1.4.2-ibm-sap-demo.x86_64:1.4.2.13.6.sap-1jpp.1.el5
+#   - java-1.4.2-ibm-sap-devel.x86_64:1.4.2.13.6.sap-1jpp.1.el5
+#   - java-1.4.2-ibm-sap-javacomm.x86_64:1.4.2.13.6.sap-1jpp.1.el5
+#   - java-1.4.2-ibm-sap-src.x86_64:1.4.2.13.6.sap-1jpp.1.el5
 #
 # Last versions recommanded by security team:
-#   - java-1.4.2-ibm-sap:1.4.2.13.13.sap-1jpp.4.el5.x86_64
-#   - java-1.4.2-ibm-sap-demo:1.4.2.13.13.sap-1jpp.4.el5.x86_64
-#   - java-1.4.2-ibm-sap-devel:1.4.2.13.13.sap-1jpp.4.el5.x86_64
-#   - java-1.4.2-ibm-sap-javacomm:1.4.2.13.13.sap-1jpp.4.el5.x86_64
-#   - java-1.4.2-ibm-sap-src:1.4.2.13.13.sap-1jpp.4.el5.x86_64
+#   - java-1.4.2-ibm-sap.x86_64:1.4.2.13.13.sap-1jpp.4.el5
+#   - java-1.4.2-ibm-sap-demo.x86_64:1.4.2.13.13.sap-1jpp.4.el5
+#   - java-1.4.2-ibm-sap-devel.x86_64:1.4.2.13.13.sap-1jpp.4.el5
+#   - java-1.4.2-ibm-sap-javacomm.x86_64:1.4.2.13.13.sap-1jpp.4.el5
+#   - java-1.4.2-ibm-sap-src.x86_64:1.4.2.13.13.sap-1jpp.4.el5
 #
 # CVE List:
 #   - CVE-2009-3555
@@ -43,8 +43,8 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2010:0986
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.4.2-ibm-sap-1.4.2.13.13.sap -y 
-sudo yum install java-1.4.2-ibm-sap-demo-1.4.2.13.13.sap -y 
-sudo yum install java-1.4.2-ibm-sap-devel-1.4.2.13.13.sap -y 
-sudo yum install java-1.4.2-ibm-sap-javacomm-1.4.2.13.13.sap -y 
-sudo yum install java-1.4.2-ibm-sap-src-1.4.2.13.13.sap -y 
+sudo yum install java-1.4.2-ibm-sap.x86_64-1.4.2.13.13.sap -y 
+sudo yum install java-1.4.2-ibm-sap-demo.x86_64-1.4.2.13.13.sap -y 
+sudo yum install java-1.4.2-ibm-sap-devel.x86_64-1.4.2.13.13.sap -y 
+sudo yum install java-1.4.2-ibm-sap-javacomm.x86_64-1.4.2.13.13.sap -y 
+sudo yum install java-1.4.2-ibm-sap-src.x86_64-1.4.2.13.13.sap -y 

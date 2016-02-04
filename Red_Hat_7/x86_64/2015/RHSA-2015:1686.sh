@@ -3,20 +3,20 @@
 # Security fix for RHSA-2015:1686
 #
 # Security announcement date: 2015-08-25 06:10:14 UTC
-# Script generation date:     2016-01-06 19:14:17 UTC
+# Script generation date:     2016-02-04 19:19:44 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - python-django:1.6.11-2.el7ost.noarch
-#   - python-django-bash-completion:1.6.11-2.el7ost.noarch
-#   - python-django-doc:1.6.11-2.el7ost.noarch
+#   - python-django.noarch:1.6.11-2.el7ost
+#   - python-django-bash-completion.noarch:1.6.11-2.el7ost
+#   - python-django-doc.noarch:1.6.11-2.el7ost
 #
 # Last versions recommanded by security team:
-#   - python-django:1.8.4-1.el7.noarch
-#   - python-django-bash-completion:1.8.4-1.el7.noarch
-#   - python-django-doc:1.8.4-1.el7.noarch
+#   - python-django.noarch:1.8.4-1.el7
+#   - python-django-bash-completion.noarch:1.8.4-1.el7
+#   - python-django-doc.noarch:1.8.4-1.el7
 #
 # CVE List:
 #   - CVE-2015-5143
@@ -25,6 +25,6 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1686
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install python-django-1.8.4 -y 
-sudo yum install python-django-bash-completion-1.8.4 -y 
-sudo yum install python-django-doc-1.8.4 -y 
+sudo yum install python-django.noarch-1.8.4 -y 
+sudo yum install python-django-bash-completion.noarch-1.8.4 -y 
+sudo yum install python-django-doc.noarch-1.8.4 -y 

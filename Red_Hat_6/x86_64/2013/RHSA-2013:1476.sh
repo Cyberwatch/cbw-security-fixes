@@ -3,24 +3,34 @@
 # Security fix for RHSA-2013:1476
 #
 # Security announcement date: 2013-10-29 21:21:12 UTC
-# Script generation date:     2016-01-27 07:12:53 UTC
+# Script generation date:     2016-02-04 19:17:08 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:17.0.10-1.el6_4.x86_64
-#   - firefox-debuginfo:17.0.10-1.el6_4.x86_64
-#   - xulrunner:17.0.10-1.el6_4.x86_64
-#   - xulrunner-debuginfo:17.0.10-1.el6_4.x86_64
-#   - xulrunner-devel:17.0.10-1.el6_4.x86_64
+#   - firefox.x86_64:17.0.10-1.el6_4
+#   - firefox-debuginfo.x86_64:17.0.10-1.el6_4
+#   - xulrunner.x86_64:17.0.10-1.el6_4
+#   - xulrunner-debuginfo.x86_64:17.0.10-1.el6_4
+#   - xulrunner-devel.x86_64:17.0.10-1.el6_4
+#   - firefox.i686:17.0.10-1.el6_4
+#   - firefox-debuginfo.i686:17.0.10-1.el6_4
+#   - xulrunner.i686:17.0.10-1.el6_4
+#   - xulrunner-debuginfo.i686:17.0.10-1.el6_4
+#   - xulrunner-devel.i686:17.0.10-1.el6_4
 #
 # Last versions recommanded by security team:
-#   - firefox:38.6.0-1.el6_7.x86_64
-#   - firefox-debuginfo:38.6.0-1.el6_7.x86_64
-#   - xulrunner:17.0.10-1.el6_4.x86_64
-#   - xulrunner-debuginfo:17.0.10-1.el6_4.x86_64
-#   - xulrunner-devel:17.0.10-1.el6_4.x86_64
+#   - firefox.x86_64:38.6.0-1.el6_7
+#   - firefox-debuginfo.x86_64:38.6.0-1.el6_7
+#   - xulrunner.x86_64:17.0.10-1.el6_4
+#   - xulrunner-debuginfo.x86_64:17.0.10-1.el6_4
+#   - xulrunner-devel.x86_64:17.0.10-1.el6_4
+#   - firefox.i686:38.6.0-1.el6_7
+#   - firefox-debuginfo.i686:38.6.0-1.el6_7
+#   - xulrunner.i686:17.0.10-1.el6_4
+#   - xulrunner-debuginfo.i686:17.0.10-1.el6_4
+#   - xulrunner-devel.i686:17.0.10-1.el6_4
 #
 # CVE List:
 #   - CVE-2013-5590
@@ -36,8 +46,13 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:1476
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.6.0 -y 
-sudo yum install firefox-debuginfo-38.6.0 -y 
-sudo yum install xulrunner-17.0.10 -y 
-sudo yum install xulrunner-debuginfo-17.0.10 -y 
-sudo yum install xulrunner-devel-17.0.10 -y 
+sudo yum install firefox.x86_64-38.6.0 -y 
+sudo yum install firefox-debuginfo.x86_64-38.6.0 -y 
+sudo yum install xulrunner.x86_64-17.0.10 -y 
+sudo yum install xulrunner-debuginfo.x86_64-17.0.10 -y 
+sudo yum install xulrunner-devel.x86_64-17.0.10 -y 
+sudo yum install firefox.i686-38.6.0 -y 
+sudo yum install firefox-debuginfo.i686-38.6.0 -y 
+sudo yum install xulrunner.i686-17.0.10 -y 
+sudo yum install xulrunner-debuginfo.i686-17.0.10 -y 
+sudo yum install xulrunner-devel.i686-17.0.10 -y 

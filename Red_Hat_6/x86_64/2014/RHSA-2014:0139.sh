@@ -3,36 +3,48 @@
 # Security fix for RHSA-2014:0139
 #
 # Security announcement date: 2014-02-05 17:48:40 UTC
-# Script generation date:     2016-01-06 19:12:18 UTC
+# Script generation date:     2016-02-04 19:17:27 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libpurple:2.7.9-27.el6.x86_64
-#   - pidgin:2.7.9-27.el6.x86_64
-#   - pidgin-debuginfo:2.7.9-27.el6.x86_64
-#   - finch:2.7.9-27.el6.x86_64
-#   - finch-devel:2.7.9-27.el6.x86_64
-#   - libpurple-devel:2.7.9-27.el6.x86_64
-#   - libpurple-perl:2.7.9-27.el6.x86_64
-#   - libpurple-tcl:2.7.9-27.el6.x86_64
-#   - pidgin-devel:2.7.9-27.el6.x86_64
-#   - pidgin-docs:2.7.9-27.el6.x86_64
-#   - pidgin-perl:2.7.9-27.el6.x86_64
+#   - libpurple.x86_64:2.7.9-27.el6
+#   - pidgin.x86_64:2.7.9-27.el6
+#   - pidgin-debuginfo.x86_64:2.7.9-27.el6
+#   - finch.x86_64:2.7.9-27.el6
+#   - finch-devel.x86_64:2.7.9-27.el6
+#   - libpurple-devel.x86_64:2.7.9-27.el6
+#   - libpurple-perl.x86_64:2.7.9-27.el6
+#   - libpurple-tcl.x86_64:2.7.9-27.el6
+#   - pidgin-devel.x86_64:2.7.9-27.el6
+#   - pidgin-docs.x86_64:2.7.9-27.el6
+#   - pidgin-perl.x86_64:2.7.9-27.el6
+#   - libpurple.i686:2.7.9-27.el6
+#   - pidgin-debuginfo.i686:2.7.9-27.el6
+#   - finch.i686:2.7.9-27.el6
+#   - finch-devel.i686:2.7.9-27.el6
+#   - libpurple-devel.i686:2.7.9-27.el6
+#   - pidgin-devel.i686:2.7.9-27.el6
 #
 # Last versions recommanded by security team:
-#   - libpurple:2.7.9-27.el6.x86_64
-#   - pidgin:2.7.9-27.el6.x86_64
-#   - pidgin-debuginfo:2.7.9-27.el6.x86_64
-#   - finch:2.7.9-27.el6.x86_64
-#   - finch-devel:2.7.9-27.el6.x86_64
-#   - libpurple-devel:2.7.9-27.el6.x86_64
-#   - libpurple-perl:2.7.9-27.el6.x86_64
-#   - libpurple-tcl:2.7.9-27.el6.x86_64
-#   - pidgin-devel:2.7.9-27.el6.x86_64
-#   - pidgin-docs:2.7.9-27.el6.x86_64
-#   - pidgin-perl:2.7.9-27.el6.x86_64
+#   - libpurple.x86_64:2.7.9-27.el6
+#   - pidgin.x86_64:2.7.9-27.el6
+#   - pidgin-debuginfo.x86_64:2.7.9-27.el6
+#   - finch.x86_64:2.7.9-27.el6
+#   - finch-devel.x86_64:2.7.9-27.el6
+#   - libpurple-devel.x86_64:2.7.9-27.el6
+#   - libpurple-perl.x86_64:2.7.9-27.el6
+#   - libpurple-tcl.x86_64:2.7.9-27.el6
+#   - pidgin-devel.x86_64:2.7.9-27.el6
+#   - pidgin-docs.x86_64:2.7.9-27.el6
+#   - pidgin-perl.x86_64:2.7.9-27.el6
+#   - libpurple.i686:2.7.9-27.el6
+#   - pidgin-debuginfo.i686:2.7.9-27.el6
+#   - finch.i686:2.7.9-27.el6
+#   - finch-devel.i686:2.7.9-27.el6
+#   - libpurple-devel.i686:2.7.9-27.el6
+#   - pidgin-devel.i686:2.7.9-27.el6
 #
 # CVE List:
 #   - CVE-2012-6152
@@ -53,14 +65,20 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:0139
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install libpurple-2.7.9 -y 
-sudo yum install pidgin-2.7.9 -y 
-sudo yum install pidgin-debuginfo-2.7.9 -y 
-sudo yum install finch-2.7.9 -y 
-sudo yum install finch-devel-2.7.9 -y 
-sudo yum install libpurple-devel-2.7.9 -y 
-sudo yum install libpurple-perl-2.7.9 -y 
-sudo yum install libpurple-tcl-2.7.9 -y 
-sudo yum install pidgin-devel-2.7.9 -y 
-sudo yum install pidgin-docs-2.7.9 -y 
-sudo yum install pidgin-perl-2.7.9 -y 
+sudo yum install libpurple.x86_64-2.7.9 -y 
+sudo yum install pidgin.x86_64-2.7.9 -y 
+sudo yum install pidgin-debuginfo.x86_64-2.7.9 -y 
+sudo yum install finch.x86_64-2.7.9 -y 
+sudo yum install finch-devel.x86_64-2.7.9 -y 
+sudo yum install libpurple-devel.x86_64-2.7.9 -y 
+sudo yum install libpurple-perl.x86_64-2.7.9 -y 
+sudo yum install libpurple-tcl.x86_64-2.7.9 -y 
+sudo yum install pidgin-devel.x86_64-2.7.9 -y 
+sudo yum install pidgin-docs.x86_64-2.7.9 -y 
+sudo yum install pidgin-perl.x86_64-2.7.9 -y 
+sudo yum install libpurple.i686-2.7.9 -y 
+sudo yum install pidgin-debuginfo.i686-2.7.9 -y 
+sudo yum install finch.i686-2.7.9 -y 
+sudo yum install finch-devel.i686-2.7.9 -y 
+sudo yum install libpurple-devel.i686-2.7.9 -y 
+sudo yum install pidgin-devel.i686-2.7.9 -y 

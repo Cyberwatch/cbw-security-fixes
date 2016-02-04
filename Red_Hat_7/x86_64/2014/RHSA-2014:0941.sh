@@ -3,30 +3,30 @@
 # Security fix for RHSA-2014:0941
 #
 # Security announcement date: 2014-07-24 17:47:35 UTC
-# Script generation date:     2016-01-06 19:12:42 UTC
+# Script generation date:     2016-02-04 19:17:57 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openstack-swift:1.13.1-3.el7ost.noarch
-#   - openstack-swift-account:1.13.1-3.el7ost.noarch
-#   - openstack-swift-container:1.13.1-3.el7ost.noarch
-#   - openstack-swift-doc:1.13.1-3.el7ost.noarch
-#   - openstack-swift-object:1.13.1-3.el7ost.noarch
-#   - openstack-swift-proxy:1.13.1-3.el7ost.noarch
-#   - python-swiftclient:2.1.0-2.el7ost.noarch
-#   - python-swiftclient-doc:2.1.0-2.el7ost.noarch
+#   - openstack-swift.noarch:1.13.1-3.el7ost
+#   - openstack-swift-account.noarch:1.13.1-3.el7ost
+#   - openstack-swift-container.noarch:1.13.1-3.el7ost
+#   - openstack-swift-doc.noarch:1.13.1-3.el7ost
+#   - openstack-swift-object.noarch:1.13.1-3.el7ost
+#   - openstack-swift-proxy.noarch:1.13.1-3.el7ost
+#   - python-swiftclient.noarch:2.1.0-2.el7ost
+#   - python-swiftclient-doc.noarch:2.1.0-2.el7ost
 #
 # Last versions recommanded by security team:
-#   - openstack-swift:2.3.0-2.el7ost.noarch
-#   - openstack-swift-account:2.3.0-2.el7ost.noarch
-#   - openstack-swift-container:2.3.0-2.el7ost.noarch
-#   - openstack-swift-doc:2.3.0-2.el7ost.noarch
-#   - openstack-swift-object:2.3.0-2.el7ost.noarch
-#   - openstack-swift-proxy:2.3.0-2.el7ost.noarch
-#   - python-swiftclient:2.1.0-2.el7ost.noarch
-#   - python-swiftclient-doc:2.1.0-2.el7ost.noarch
+#   - openstack-swift.noarch:2.3.0-2.el7ost
+#   - openstack-swift-account.noarch:2.3.0-2.el7ost
+#   - openstack-swift-container.noarch:2.3.0-2.el7ost
+#   - openstack-swift-doc.noarch:2.3.0-2.el7ost
+#   - openstack-swift-object.noarch:2.3.0-2.el7ost
+#   - openstack-swift-proxy.noarch:2.3.0-2.el7ost
+#   - python-swiftclient.noarch:2.1.0-2.el7ost
+#   - python-swiftclient-doc.noarch:2.1.0-2.el7ost
 #
 # CVE List:
 #   - CVE-2014-3497
@@ -35,11 +35,11 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:0941
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install openstack-swift-2.3.0 -y 
-sudo yum install openstack-swift-account-2.3.0 -y 
-sudo yum install openstack-swift-container-2.3.0 -y 
-sudo yum install openstack-swift-doc-2.3.0 -y 
-sudo yum install openstack-swift-object-2.3.0 -y 
-sudo yum install openstack-swift-proxy-2.3.0 -y 
-sudo yum install python-swiftclient-2.1.0 -y 
-sudo yum install python-swiftclient-doc-2.1.0 -y 
+sudo yum install openstack-swift.noarch-2.3.0 -y 
+sudo yum install openstack-swift-account.noarch-2.3.0 -y 
+sudo yum install openstack-swift-container.noarch-2.3.0 -y 
+sudo yum install openstack-swift-doc.noarch-2.3.0 -y 
+sudo yum install openstack-swift-object.noarch-2.3.0 -y 
+sudo yum install openstack-swift-proxy.noarch-2.3.0 -y 
+sudo yum install python-swiftclient.noarch-2.1.0 -y 
+sudo yum install python-swiftclient-doc.noarch-2.1.0 -y 

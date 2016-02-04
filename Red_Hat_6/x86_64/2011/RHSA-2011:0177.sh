@@ -3,22 +3,28 @@
 # Security fix for RHSA-2011:0177
 #
 # Security announcement date: 2011-01-25 17:12:53 UTC
-# Script generation date:     2016-01-06 19:09:46 UTC
+# Script generation date:     2016-02-04 19:14:42 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - webkitgtk:1.2.6-2.el6_0.x86_64
-#   - webkitgtk-debuginfo:1.2.6-2.el6_0.x86_64
-#   - webkitgtk-devel:1.2.6-2.el6_0.x86_64
-#   - webkitgtk-doc:1.2.6-2.el6_0.x86_64
+#   - webkitgtk.x86_64:1.2.6-2.el6_0
+#   - webkitgtk-debuginfo.x86_64:1.2.6-2.el6_0
+#   - webkitgtk-devel.x86_64:1.2.6-2.el6_0
+#   - webkitgtk-doc.x86_64:1.2.6-2.el6_0
+#   - webkitgtk.i686:1.2.6-2.el6_0
+#   - webkitgtk-debuginfo.i686:1.2.6-2.el6_0
+#   - webkitgtk-devel.i686:1.2.6-2.el6_0
 #
 # Last versions recommanded by security team:
-#   - webkitgtk:1.2.6-2.el6_0.x86_64
-#   - webkitgtk-debuginfo:1.2.6-2.el6_0.x86_64
-#   - webkitgtk-devel:1.2.6-2.el6_0.x86_64
-#   - webkitgtk-doc:1.2.6-2.el6_0.x86_64
+#   - webkitgtk.x86_64:1.2.6-2.el6_0
+#   - webkitgtk-debuginfo.x86_64:1.2.6-2.el6_0
+#   - webkitgtk-devel.x86_64:1.2.6-2.el6_0
+#   - webkitgtk-doc.x86_64:1.2.6-2.el6_0
+#   - webkitgtk.i686:1.2.6-2.el6_0
+#   - webkitgtk-debuginfo.i686:1.2.6-2.el6_0
+#   - webkitgtk-devel.i686:1.2.6-2.el6_0
 #
 # CVE List:
 #   - CVE-2010-1780
@@ -56,7 +62,10 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:0177
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install webkitgtk-1.2.6 -y 
-sudo yum install webkitgtk-debuginfo-1.2.6 -y 
-sudo yum install webkitgtk-devel-1.2.6 -y 
-sudo yum install webkitgtk-doc-1.2.6 -y 
+sudo yum install webkitgtk.x86_64-1.2.6 -y 
+sudo yum install webkitgtk-debuginfo.x86_64-1.2.6 -y 
+sudo yum install webkitgtk-devel.x86_64-1.2.6 -y 
+sudo yum install webkitgtk-doc.x86_64-1.2.6 -y 
+sudo yum install webkitgtk.i686-1.2.6 -y 
+sudo yum install webkitgtk-debuginfo.i686-1.2.6 -y 
+sudo yum install webkitgtk-devel.i686-1.2.6 -y 

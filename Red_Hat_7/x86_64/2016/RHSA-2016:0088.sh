@@ -3,28 +3,28 @@
 # Security fix for RHSA-2016:0088
 #
 # Security announcement date: 2016-01-28 20:22:45 UTC
-# Script generation date:     2016-01-31 07:17:42 UTC
+# Script generation date:     2016-02-04 19:20:47 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libcacard-rhev:2.3.0-31.el7_2.7.x86_64
-#   - libcacard-tools-rhev:2.3.0-31.el7_2.7.x86_64
-#   - qemu-img-rhev:2.3.0-31.el7_2.7.x86_64
-#   - qemu-kvm-common-rhev:2.3.0-31.el7_2.7.x86_64
-#   - qemu-kvm-rhev:2.3.0-31.el7_2.7.x86_64
-#   - qemu-kvm-rhev-debuginfo:2.3.0-31.el7_2.7.x86_64
-#   - qemu-kvm-tools-rhev:2.3.0-31.el7_2.7.x86_64
+#   - libcacard-rhev.x86_64:2.3.0-31.el7_2.7
+#   - libcacard-tools-rhev.x86_64:2.3.0-31.el7_2.7
+#   - qemu-img-rhev.x86_64:2.3.0-31.el7_2.7
+#   - qemu-kvm-common-rhev.x86_64:2.3.0-31.el7_2.7
+#   - qemu-kvm-rhev.x86_64:2.3.0-31.el7_2.7
+#   - qemu-kvm-rhev-debuginfo.x86_64:2.3.0-31.el7_2.7
+#   - qemu-kvm-tools-rhev.x86_64:2.3.0-31.el7_2.7
 #
 # Last versions recommanded by security team:
-#   - libcacard-rhev:2.3.0-31.el7_2.7.x86_64
-#   - libcacard-tools-rhev:2.3.0-31.el7_2.7.x86_64
-#   - qemu-img-rhev:2.3.0-31.el7_2.7.x86_64
-#   - qemu-kvm-common-rhev:2.3.0-31.el7_2.7.x86_64
-#   - qemu-kvm-rhev:2.3.0-31.el7_2.7.x86_64
-#   - qemu-kvm-rhev-debuginfo:2.3.0-31.el7_2.7.x86_64
-#   - qemu-kvm-tools-rhev:2.3.0-31.el7_2.7.x86_64
+#   - libcacard-rhev.x86_64:2.3.0-31.el7_2.7
+#   - libcacard-tools-rhev.x86_64:2.3.0-31.el7_2.7
+#   - qemu-img-rhev.x86_64:2.3.0-31.el7_2.7
+#   - qemu-kvm-common-rhev.x86_64:2.3.0-31.el7_2.7
+#   - qemu-kvm-rhev.x86_64:2.3.0-31.el7_2.7
+#   - qemu-kvm-rhev-debuginfo.x86_64:2.3.0-31.el7_2.7
+#   - qemu-kvm-tools-rhev.x86_64:2.3.0-31.el7_2.7
 #
 # CVE List:
 #   - CVE-2016-1568
@@ -34,10 +34,10 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2016:0088
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install libcacard-rhev-2.3.0 -y 
-sudo yum install libcacard-tools-rhev-2.3.0 -y 
-sudo yum install qemu-img-rhev-2.3.0 -y 
-sudo yum install qemu-kvm-common-rhev-2.3.0 -y 
-sudo yum install qemu-kvm-rhev-2.3.0 -y 
-sudo yum install qemu-kvm-rhev-debuginfo-2.3.0 -y 
-sudo yum install qemu-kvm-tools-rhev-2.3.0 -y 
+sudo yum install libcacard-rhev.x86_64-2.3.0 -y 
+sudo yum install libcacard-tools-rhev.x86_64-2.3.0 -y 
+sudo yum install qemu-img-rhev.x86_64-2.3.0 -y 
+sudo yum install qemu-kvm-common-rhev.x86_64-2.3.0 -y 
+sudo yum install qemu-kvm-rhev.x86_64-2.3.0 -y 
+sudo yum install qemu-kvm-rhev-debuginfo.x86_64-2.3.0 -y 
+sudo yum install qemu-kvm-tools-rhev.x86_64-2.3.0 -y 

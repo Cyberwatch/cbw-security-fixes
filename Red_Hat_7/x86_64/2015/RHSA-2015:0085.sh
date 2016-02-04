@@ -3,26 +3,26 @@
 # Security fix for RHSA-2015:0085
 #
 # Security announcement date: 2015-01-26 18:40:42 UTC
-# Script generation date:     2016-01-26 19:16:20 UTC
+# Script generation date:     2016-02-04 19:18:48 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.6.0-openjdk:1.6.0.34-1.13.6.1.el7_0.x86_64
-#   - java-1.6.0-openjdk-debuginfo:1.6.0.34-1.13.6.1.el7_0.x86_64
-#   - java-1.6.0-openjdk-demo:1.6.0.34-1.13.6.1.el7_0.x86_64
-#   - java-1.6.0-openjdk-devel:1.6.0.34-1.13.6.1.el7_0.x86_64
-#   - java-1.6.0-openjdk-javadoc:1.6.0.34-1.13.6.1.el7_0.x86_64
-#   - java-1.6.0-openjdk-src:1.6.0.34-1.13.6.1.el7_0.x86_64
+#   - java-1.6.0-openjdk.x86_64:1.6.0.34-1.13.6.1.el7_0
+#   - java-1.6.0-openjdk-debuginfo.x86_64:1.6.0.34-1.13.6.1.el7_0
+#   - java-1.6.0-openjdk-demo.x86_64:1.6.0.34-1.13.6.1.el7_0
+#   - java-1.6.0-openjdk-devel.x86_64:1.6.0.34-1.13.6.1.el7_0
+#   - java-1.6.0-openjdk-javadoc.x86_64:1.6.0.34-1.13.6.1.el7_0
+#   - java-1.6.0-openjdk-src.x86_64:1.6.0.34-1.13.6.1.el7_0
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-openjdk:1.6.0.38-1.13.10.0.el7_2.x86_64
-#   - java-1.6.0-openjdk-debuginfo:1.6.0.38-1.13.10.0.el7_2.x86_64
-#   - java-1.6.0-openjdk-demo:1.6.0.38-1.13.10.0.el7_2.x86_64
-#   - java-1.6.0-openjdk-devel:1.6.0.38-1.13.10.0.el7_2.x86_64
-#   - java-1.6.0-openjdk-javadoc:1.6.0.38-1.13.10.0.el7_2.x86_64
-#   - java-1.6.0-openjdk-src:1.6.0.38-1.13.10.0.el7_2.x86_64
+#   - java-1.6.0-openjdk.x86_64:1.6.0.38-1.13.10.0.el7_2
+#   - java-1.6.0-openjdk-debuginfo.x86_64:1.6.0.38-1.13.10.0.el7_2
+#   - java-1.6.0-openjdk-demo.x86_64:1.6.0.38-1.13.10.0.el7_2
+#   - java-1.6.0-openjdk-devel.x86_64:1.6.0.38-1.13.10.0.el7_2
+#   - java-1.6.0-openjdk-javadoc.x86_64:1.6.0.38-1.13.10.0.el7_2
+#   - java-1.6.0-openjdk-src.x86_64:1.6.0.38-1.13.10.0.el7_2
 #
 # CVE List:
 #   - CVE-2014-3566
@@ -42,9 +42,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:0085
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-openjdk-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-debuginfo-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-demo-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-devel-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-javadoc-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-src-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk.x86_64-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-debuginfo.x86_64-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-demo.x86_64-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-devel.x86_64-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-javadoc.x86_64-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-src.x86_64-1.6.0.38 -y 

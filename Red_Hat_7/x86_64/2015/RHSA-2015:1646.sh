@@ -3,34 +3,34 @@
 # Security fix for RHSA-2015:1646
 #
 # Security announcement date: 2015-08-20 09:04:47 UTC
-# Script generation date:     2016-01-06 19:14:13 UTC
+# Script generation date:     2016-02-04 19:19:40 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rh-mariadb100-mariadb:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-bench:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-common:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-config:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-debuginfo:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-devel:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-errmsg:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-oqgraph-engine:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-server:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-test:10.0.20-1.el7.x86_64
+#   - rh-mariadb100-mariadb.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-bench.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-common.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-config.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-debuginfo.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-devel.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-errmsg.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-oqgraph-engine.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-server.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-test.x86_64:10.0.20-1.el7
 #
 # Last versions recommanded by security team:
-#   - rh-mariadb100-mariadb:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-bench:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-common:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-config:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-debuginfo:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-devel:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-errmsg:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-oqgraph-engine:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-server:10.0.20-1.el7.x86_64
-#   - rh-mariadb100-mariadb-test:10.0.20-1.el7.x86_64
+#   - rh-mariadb100-mariadb.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-bench.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-common.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-config.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-debuginfo.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-devel.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-errmsg.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-oqgraph-engine.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-server.x86_64:10.0.20-1.el7
+#   - rh-mariadb100-mariadb-test.x86_64:10.0.20-1.el7
 #
 # CVE List:
 #   - CVE-2015-2582
@@ -57,13 +57,13 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1646
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install rh-mariadb100-mariadb-10.0.20 -y 
-sudo yum install rh-mariadb100-mariadb-bench-10.0.20 -y 
-sudo yum install rh-mariadb100-mariadb-common-10.0.20 -y 
-sudo yum install rh-mariadb100-mariadb-config-10.0.20 -y 
-sudo yum install rh-mariadb100-mariadb-debuginfo-10.0.20 -y 
-sudo yum install rh-mariadb100-mariadb-devel-10.0.20 -y 
-sudo yum install rh-mariadb100-mariadb-errmsg-10.0.20 -y 
-sudo yum install rh-mariadb100-mariadb-oqgraph-engine-10.0.20 -y 
-sudo yum install rh-mariadb100-mariadb-server-10.0.20 -y 
-sudo yum install rh-mariadb100-mariadb-test-10.0.20 -y 
+sudo yum install rh-mariadb100-mariadb.x86_64-10.0.20 -y 
+sudo yum install rh-mariadb100-mariadb-bench.x86_64-10.0.20 -y 
+sudo yum install rh-mariadb100-mariadb-common.x86_64-10.0.20 -y 
+sudo yum install rh-mariadb100-mariadb-config.x86_64-10.0.20 -y 
+sudo yum install rh-mariadb100-mariadb-debuginfo.x86_64-10.0.20 -y 
+sudo yum install rh-mariadb100-mariadb-devel.x86_64-10.0.20 -y 
+sudo yum install rh-mariadb100-mariadb-errmsg.x86_64-10.0.20 -y 
+sudo yum install rh-mariadb100-mariadb-oqgraph-engine.x86_64-10.0.20 -y 
+sudo yum install rh-mariadb100-mariadb-server.x86_64-10.0.20 -y 
+sudo yum install rh-mariadb100-mariadb-test.x86_64-10.0.20 -y 

@@ -3,16 +3,16 @@
 # Security fix for RHSA-2010:0338
 #
 # Security announcement date: 2010-04-01 03:16:33 UTC
-# Script generation date:     2016-01-06 19:09:25 UTC
+# Script generation date:     2016-02-04 19:14:19 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.5.0-sun-uninstall:1.5.0.22-1jpp.3.el5.x86_64
+#   - java-1.5.0-sun-uninstall.x86_64:1.5.0.22-1jpp.3.el5
 #
 # Last versions recommanded by security team:
-#   - java-1.5.0-sun-uninstall:1.5.0.22-1jpp.3.el5.x86_64
+#   - java-1.5.0-sun-uninstall.x86_64:1.5.0.22-1jpp.3.el5
 #
 # CVE List:
 #   - CVE-2009-3555
@@ -45,4 +45,4 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2010:0338
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.5.0-sun-uninstall-1.5.0.22 -y 
+sudo yum install java-1.5.0-sun-uninstall.x86_64-1.5.0.22 -y 

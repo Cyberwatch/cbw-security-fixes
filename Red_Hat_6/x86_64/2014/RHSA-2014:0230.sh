@@ -3,22 +3,22 @@
 # Security fix for RHSA-2014:0230
 #
 # Security announcement date: 2014-03-04 19:32:22 UTC
-# Script generation date:     2016-01-21 19:11:20 UTC
+# Script generation date:     2016-02-04 19:17:30 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libmongodb:2.2.4-4.el6ost.x86_64
-#   - mongodb:2.2.4-4.el6ost.x86_64
-#   - mongodb-debuginfo:2.2.4-4.el6ost.x86_64
-#   - mongodb-server:2.2.4-4.el6ost.x86_64
+#   - libmongodb.x86_64:2.2.4-4.el6ost
+#   - mongodb.x86_64:2.2.4-4.el6ost
+#   - mongodb-debuginfo.x86_64:2.2.4-4.el6ost
+#   - mongodb-server.x86_64:2.2.4-4.el6ost
 #
 # Last versions recommanded by security team:
-#   - libmongodb:2.4.6-2.el6op.x86_64
-#   - mongodb:2.4.6-2.el6op.x86_64
-#   - mongodb-debuginfo:2.4.6-2.el6op.x86_64
-#   - mongodb-server:2.4.6-2.el6op.x86_64
+#   - libmongodb.x86_64:2.4.6-2.el6op
+#   - mongodb.x86_64:2.4.6-2.el6op
+#   - mongodb-debuginfo.x86_64:2.4.6-2.el6op
+#   - mongodb-server.x86_64:2.4.6-2.el6op
 #
 # CVE List:
 #   - CVE-2012-6619
@@ -27,7 +27,7 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:0230
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install libmongodb-2.4.6 -y 
-sudo yum install mongodb-2.4.6 -y 
-sudo yum install mongodb-debuginfo-2.4.6 -y 
-sudo yum install mongodb-server-2.4.6 -y 
+sudo yum install libmongodb.x86_64-2.4.6 -y 
+sudo yum install mongodb.x86_64-2.4.6 -y 
+sudo yum install mongodb-debuginfo.x86_64-2.4.6 -y 
+sudo yum install mongodb-server.x86_64-2.4.6 -y 

@@ -3,16 +3,16 @@
 # Security fix for RHSA-2014:0858
 #
 # Security announcement date: 2014-07-09 09:29:34 UTC
-# Script generation date:     2016-01-06 19:12:38 UTC
+# Script generation date:     2016-02-04 19:17:51 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - cumin:0.1.5797-3.el6.noarch
+#   - cumin.noarch:0.1.5797-3.el6
 #
 # Last versions recommanded by security team:
-#   - cumin:0.1.5797-3.el6.noarch
+#   - cumin.noarch:0.1.5797-3.el6
 #
 # CVE List:
 #   - CVE-2012-2682
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:0858
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install cumin-0.1.5797 -y 
+sudo yum install cumin.noarch-0.1.5797 -y 

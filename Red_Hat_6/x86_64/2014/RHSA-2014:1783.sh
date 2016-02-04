@@ -3,18 +3,18 @@
 # Security fix for RHSA-2014:1783
 #
 # Security announcement date: 2014-11-03 09:05:42 UTC
-# Script generation date:     2016-01-06 19:13:08 UTC
+# Script generation date:     2016-02-04 19:18:27 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - python-keystoneclient:0.9.0-5.el6ost.noarch
-#   - python-keystoneclient-doc:0.9.0-5.el6ost.noarch
+#   - python-keystoneclient.noarch:0.9.0-5.el6ost
+#   - python-keystoneclient-doc.noarch:0.9.0-5.el6ost
 #
 # Last versions recommanded by security team:
-#   - python-keystoneclient:0.9.0-6.el6ost.noarch
-#   - python-keystoneclient-doc:0.9.0-6.el6ost.noarch
+#   - python-keystoneclient.noarch:0.9.0-6.el6ost
+#   - python-keystoneclient-doc.noarch:0.9.0-6.el6ost
 #
 # CVE List:
 #   - CVE-2014-7144
@@ -23,5 +23,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:1783
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install python-keystoneclient-0.9.0 -y 
-sudo yum install python-keystoneclient-doc-0.9.0 -y 
+sudo yum install python-keystoneclient.noarch-0.9.0 -y 
+sudo yum install python-keystoneclient-doc.noarch-0.9.0 -y 

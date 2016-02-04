@@ -3,26 +3,34 @@
 # Security fix for RHSA-2015:2155
 #
 # Security announcement date: 2015-11-19 21:35:48 UTC
-# Script generation date:     2016-01-06 19:14:29 UTC
+# Script generation date:     2016-02-04 19:19:58 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - python-magic:5.11-31.el7.noarch
-#   - file:5.11-31.el7.x86_64
-#   - file-debuginfo:5.11-31.el7.x86_64
-#   - file-libs:5.11-31.el7.x86_64
-#   - file-devel:5.11-31.el7.x86_64
-#   - file-static:5.11-31.el7.x86_64
+#   - python-magic.noarch:5.11-31.el7
+#   - file.x86_64:5.11-31.el7
+#   - file-debuginfo.x86_64:5.11-31.el7
+#   - file-libs.x86_64:5.11-31.el7
+#   - file-devel.x86_64:5.11-31.el7
+#   - file-static.x86_64:5.11-31.el7
+#   - file-debuginfo.i686:5.11-31.el7
+#   - file-libs.i686:5.11-31.el7
+#   - file-devel.i686:5.11-31.el7
+#   - file-static.i686:5.11-31.el7
 #
 # Last versions recommanded by security team:
-#   - python-magic:5.11-31.el7.noarch
-#   - file:5.11-31.el7.x86_64
-#   - file-debuginfo:5.11-31.el7.x86_64
-#   - file-libs:5.11-31.el7.x86_64
-#   - file-devel:5.11-31.el7.x86_64
-#   - file-static:5.11-31.el7.x86_64
+#   - python-magic.noarch:5.11-31.el7
+#   - file.x86_64:5.11-31.el7
+#   - file-debuginfo.x86_64:5.11-31.el7
+#   - file-libs.x86_64:5.11-31.el7
+#   - file-devel.x86_64:5.11-31.el7
+#   - file-static.x86_64:5.11-31.el7
+#   - file-debuginfo.i686:5.11-31.el7
+#   - file-libs.i686:5.11-31.el7
+#   - file-devel.i686:5.11-31.el7
+#   - file-static.i686:5.11-31.el7
 #
 # CVE List:
 #   - CVE-2014-0207
@@ -45,9 +53,13 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:2155
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install python-magic-5.11 -y 
-sudo yum install file-5.11 -y 
-sudo yum install file-debuginfo-5.11 -y 
-sudo yum install file-libs-5.11 -y 
-sudo yum install file-devel-5.11 -y 
-sudo yum install file-static-5.11 -y 
+sudo yum install python-magic.noarch-5.11 -y 
+sudo yum install file.x86_64-5.11 -y 
+sudo yum install file-debuginfo.x86_64-5.11 -y 
+sudo yum install file-libs.x86_64-5.11 -y 
+sudo yum install file-devel.x86_64-5.11 -y 
+sudo yum install file-static.x86_64-5.11 -y 
+sudo yum install file-debuginfo.i686-5.11 -y 
+sudo yum install file-libs.i686-5.11 -y 
+sudo yum install file-devel.i686-5.11 -y 
+sudo yum install file-static.i686-5.11 -y 

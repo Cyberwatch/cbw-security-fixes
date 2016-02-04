@@ -3,72 +3,100 @@
 # Security fix for RHSA-2015:2315
 #
 # Security announcement date: 2015-11-19 21:41:18 UTC
-# Script generation date:     2016-01-06 19:14:30 UTC
+# Script generation date:     2016-02-04 19:19:59 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ModemManager:1.1.0-8.git20130913.el7.x86_64
-#   - ModemManager-debuginfo:1.1.0-8.git20130913.el7.x86_64
-#   - ModemManager-glib:1.1.0-8.git20130913.el7.x86_64
-#   - NetworkManager:1.0.6-27.el7.x86_64
-#   - NetworkManager-adsl:1.0.6-27.el7.x86_64
-#   - NetworkManager-bluetooth:1.0.6-27.el7.x86_64
-#   - NetworkManager-debuginfo:1.0.6-27.el7.x86_64
-#   - NetworkManager-glib:1.0.6-27.el7.x86_64
-#   - NetworkManager-libnm:1.0.6-27.el7.x86_64
-#   - NetworkManager-libreswan:1.0.6-3.el7.x86_64
-#   - NetworkManager-libreswan-debuginfo:1.0.6-3.el7.x86_64
-#   - NetworkManager-libreswan-gnome:1.0.6-3.el7.x86_64
-#   - NetworkManager-team:1.0.6-27.el7.x86_64
-#   - NetworkManager-tui:1.0.6-27.el7.x86_64
-#   - NetworkManager-wifi:1.0.6-27.el7.x86_64
-#   - NetworkManager-wwan:1.0.6-27.el7.x86_64
-#   - libnm-gtk:1.0.6-2.el7.x86_64
-#   - network-manager-applet-debuginfo:1.0.6-2.el7.x86_64
-#   - nm-connection-editor:1.0.6-2.el7.x86_64
-#   - ModemManager-devel:1.1.0-8.git20130913.el7.x86_64
-#   - ModemManager-glib-devel:1.1.0-8.git20130913.el7.x86_64
-#   - ModemManager-vala:1.1.0-8.git20130913.el7.x86_64
-#   - NetworkManager-config-routing-rules:1.0.6-27.el7.x86_64
-#   - NetworkManager-config-server:1.0.6-27.el7.x86_64
-#   - NetworkManager-devel:1.0.6-27.el7.x86_64
-#   - NetworkManager-glib-devel:1.0.6-27.el7.x86_64
-#   - NetworkManager-libnm-devel:1.0.6-27.el7.x86_64
-#   - libnm-gtk-devel:1.0.6-2.el7.x86_64
-#   - network-manager-applet:1.0.6-2.el7.x86_64
+#   - ModemManager.x86_64:1.1.0-8.git20130913.el7
+#   - ModemManager-debuginfo.x86_64:1.1.0-8.git20130913.el7
+#   - ModemManager-glib.x86_64:1.1.0-8.git20130913.el7
+#   - NetworkManager.x86_64:1.0.6-27.el7
+#   - NetworkManager-adsl.x86_64:1.0.6-27.el7
+#   - NetworkManager-bluetooth.x86_64:1.0.6-27.el7
+#   - NetworkManager-debuginfo.x86_64:1.0.6-27.el7
+#   - NetworkManager-glib.x86_64:1.0.6-27.el7
+#   - NetworkManager-libnm.x86_64:1.0.6-27.el7
+#   - NetworkManager-libreswan.x86_64:1.0.6-3.el7
+#   - NetworkManager-libreswan-debuginfo.x86_64:1.0.6-3.el7
+#   - NetworkManager-libreswan-gnome.x86_64:1.0.6-3.el7
+#   - NetworkManager-team.x86_64:1.0.6-27.el7
+#   - NetworkManager-tui.x86_64:1.0.6-27.el7
+#   - NetworkManager-wifi.x86_64:1.0.6-27.el7
+#   - NetworkManager-wwan.x86_64:1.0.6-27.el7
+#   - libnm-gtk.x86_64:1.0.6-2.el7
+#   - network-manager-applet-debuginfo.x86_64:1.0.6-2.el7
+#   - nm-connection-editor.x86_64:1.0.6-2.el7
+#   - ModemManager-devel.x86_64:1.1.0-8.git20130913.el7
+#   - ModemManager-glib-devel.x86_64:1.1.0-8.git20130913.el7
+#   - ModemManager-vala.x86_64:1.1.0-8.git20130913.el7
+#   - NetworkManager-config-routing-rules.x86_64:1.0.6-27.el7
+#   - NetworkManager-config-server.x86_64:1.0.6-27.el7
+#   - NetworkManager-devel.x86_64:1.0.6-27.el7
+#   - NetworkManager-glib-devel.x86_64:1.0.6-27.el7
+#   - NetworkManager-libnm-devel.x86_64:1.0.6-27.el7
+#   - libnm-gtk-devel.x86_64:1.0.6-2.el7
+#   - network-manager-applet.x86_64:1.0.6-2.el7
+#   - ModemManager-debuginfo.i686:1.1.0-8.git20130913.el7
+#   - ModemManager-glib.i686:1.1.0-8.git20130913.el7
+#   - NetworkManager-debuginfo.i686:1.0.6-27.el7
+#   - NetworkManager-glib.i686:1.0.6-27.el7
+#   - NetworkManager-libnm.i686:1.0.6-27.el7
+#   - libnm-gtk.i686:1.0.6-2.el7
+#   - network-manager-applet-debuginfo.i686:1.0.6-2.el7
+#   - ModemManager.i686:1.1.0-8.git20130913.el7
+#   - ModemManager-devel.i686:1.1.0-8.git20130913.el7
+#   - ModemManager-glib-devel.i686:1.1.0-8.git20130913.el7
+#   - NetworkManager-devel.i686:1.0.6-27.el7
+#   - NetworkManager-glib-devel.i686:1.0.6-27.el7
+#   - NetworkManager-libnm-devel.i686:1.0.6-27.el7
+#   - libnm-gtk-devel.i686:1.0.6-2.el7
 #
 # Last versions recommanded by security team:
-#   - ModemManager:1.1.0-8.git20130913.el7.x86_64
-#   - ModemManager-debuginfo:1.1.0-8.git20130913.el7.x86_64
-#   - ModemManager-glib:1.1.0-8.git20130913.el7.x86_64
-#   - NetworkManager:1.0.6-27.el7.x86_64
-#   - NetworkManager-adsl:1.0.6-27.el7.x86_64
-#   - NetworkManager-bluetooth:1.0.6-27.el7.x86_64
-#   - NetworkManager-debuginfo:1.0.6-27.el7.x86_64
-#   - NetworkManager-glib:1.0.6-27.el7.x86_64
-#   - NetworkManager-libnm:1.0.6-27.el7.x86_64
-#   - NetworkManager-libreswan:1.0.6-3.el7.x86_64
-#   - NetworkManager-libreswan-debuginfo:1.0.6-3.el7.x86_64
-#   - NetworkManager-libreswan-gnome:1.0.6-3.el7.x86_64
-#   - NetworkManager-team:1.0.6-27.el7.x86_64
-#   - NetworkManager-tui:1.0.6-27.el7.x86_64
-#   - NetworkManager-wifi:1.0.6-27.el7.x86_64
-#   - NetworkManager-wwan:1.0.6-27.el7.x86_64
-#   - libnm-gtk:1.0.6-2.el7.x86_64
-#   - network-manager-applet-debuginfo:1.0.6-2.el7.x86_64
-#   - nm-connection-editor:1.0.6-2.el7.x86_64
-#   - ModemManager-devel:1.1.0-8.git20130913.el7.x86_64
-#   - ModemManager-glib-devel:1.1.0-8.git20130913.el7.x86_64
-#   - ModemManager-vala:1.1.0-8.git20130913.el7.x86_64
-#   - NetworkManager-config-routing-rules:1.0.6-27.el7.x86_64
-#   - NetworkManager-config-server:1.0.6-27.el7.x86_64
-#   - NetworkManager-devel:1.0.6-27.el7.x86_64
-#   - NetworkManager-glib-devel:1.0.6-27.el7.x86_64
-#   - NetworkManager-libnm-devel:1.0.6-27.el7.x86_64
-#   - libnm-gtk-devel:1.0.6-2.el7.x86_64
-#   - network-manager-applet:1.0.6-2.el7.x86_64
+#   - ModemManager.x86_64:1.1.0-8.git20130913.el7
+#   - ModemManager-debuginfo.x86_64:1.1.0-8.git20130913.el7
+#   - ModemManager-glib.x86_64:1.1.0-8.git20130913.el7
+#   - NetworkManager.x86_64:1.0.6-27.el7
+#   - NetworkManager-adsl.x86_64:1.0.6-27.el7
+#   - NetworkManager-bluetooth.x86_64:1.0.6-27.el7
+#   - NetworkManager-debuginfo.x86_64:1.0.6-27.el7
+#   - NetworkManager-glib.x86_64:1.0.6-27.el7
+#   - NetworkManager-libnm.x86_64:1.0.6-27.el7
+#   - NetworkManager-libreswan.x86_64:1.0.6-3.el7
+#   - NetworkManager-libreswan-debuginfo.x86_64:1.0.6-3.el7
+#   - NetworkManager-libreswan-gnome.x86_64:1.0.6-3.el7
+#   - NetworkManager-team.x86_64:1.0.6-27.el7
+#   - NetworkManager-tui.x86_64:1.0.6-27.el7
+#   - NetworkManager-wifi.x86_64:1.0.6-27.el7
+#   - NetworkManager-wwan.x86_64:1.0.6-27.el7
+#   - libnm-gtk.x86_64:1.0.6-2.el7
+#   - network-manager-applet-debuginfo.x86_64:1.0.6-2.el7
+#   - nm-connection-editor.x86_64:1.0.6-2.el7
+#   - ModemManager-devel.x86_64:1.1.0-8.git20130913.el7
+#   - ModemManager-glib-devel.x86_64:1.1.0-8.git20130913.el7
+#   - ModemManager-vala.x86_64:1.1.0-8.git20130913.el7
+#   - NetworkManager-config-routing-rules.x86_64:1.0.6-27.el7
+#   - NetworkManager-config-server.x86_64:1.0.6-27.el7
+#   - NetworkManager-devel.x86_64:1.0.6-27.el7
+#   - NetworkManager-glib-devel.x86_64:1.0.6-27.el7
+#   - NetworkManager-libnm-devel.x86_64:1.0.6-27.el7
+#   - libnm-gtk-devel.x86_64:1.0.6-2.el7
+#   - network-manager-applet.x86_64:1.0.6-2.el7
+#   - ModemManager-debuginfo.i686:1.1.0-8.git20130913.el7
+#   - ModemManager-glib.i686:1.1.0-8.git20130913.el7
+#   - NetworkManager-debuginfo.i686:1.0.6-27.el7
+#   - NetworkManager-glib.i686:1.0.6-27.el7
+#   - NetworkManager-libnm.i686:1.0.6-27.el7
+#   - libnm-gtk.i686:1.0.6-2.el7
+#   - network-manager-applet-debuginfo.i686:1.0.6-2.el7
+#   - ModemManager.i686:1.1.0-8.git20130913.el7
+#   - ModemManager-devel.i686:1.1.0-8.git20130913.el7
+#   - ModemManager-glib-devel.i686:1.1.0-8.git20130913.el7
+#   - NetworkManager-devel.i686:1.0.6-27.el7
+#   - NetworkManager-glib-devel.i686:1.0.6-27.el7
+#   - NetworkManager-libnm-devel.i686:1.0.6-27.el7
+#   - libnm-gtk-devel.i686:1.0.6-2.el7
 #
 # CVE List:
 #   - CVE-2015-0272
@@ -78,32 +106,46 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:2315
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install ModemManager-1.1.0 -y 
-sudo yum install ModemManager-debuginfo-1.1.0 -y 
-sudo yum install ModemManager-glib-1.1.0 -y 
-sudo yum install NetworkManager-1.0.6 -y 
-sudo yum install NetworkManager-adsl-1.0.6 -y 
-sudo yum install NetworkManager-bluetooth-1.0.6 -y 
-sudo yum install NetworkManager-debuginfo-1.0.6 -y 
-sudo yum install NetworkManager-glib-1.0.6 -y 
-sudo yum install NetworkManager-libnm-1.0.6 -y 
-sudo yum install NetworkManager-libreswan-1.0.6 -y 
-sudo yum install NetworkManager-libreswan-debuginfo-1.0.6 -y 
-sudo yum install NetworkManager-libreswan-gnome-1.0.6 -y 
-sudo yum install NetworkManager-team-1.0.6 -y 
-sudo yum install NetworkManager-tui-1.0.6 -y 
-sudo yum install NetworkManager-wifi-1.0.6 -y 
-sudo yum install NetworkManager-wwan-1.0.6 -y 
-sudo yum install libnm-gtk-1.0.6 -y 
-sudo yum install network-manager-applet-debuginfo-1.0.6 -y 
-sudo yum install nm-connection-editor-1.0.6 -y 
-sudo yum install ModemManager-devel-1.1.0 -y 
-sudo yum install ModemManager-glib-devel-1.1.0 -y 
-sudo yum install ModemManager-vala-1.1.0 -y 
-sudo yum install NetworkManager-config-routing-rules-1.0.6 -y 
-sudo yum install NetworkManager-config-server-1.0.6 -y 
-sudo yum install NetworkManager-devel-1.0.6 -y 
-sudo yum install NetworkManager-glib-devel-1.0.6 -y 
-sudo yum install NetworkManager-libnm-devel-1.0.6 -y 
-sudo yum install libnm-gtk-devel-1.0.6 -y 
-sudo yum install network-manager-applet-1.0.6 -y 
+sudo yum install ModemManager.x86_64-1.1.0 -y 
+sudo yum install ModemManager-debuginfo.x86_64-1.1.0 -y 
+sudo yum install ModemManager-glib.x86_64-1.1.0 -y 
+sudo yum install NetworkManager.x86_64-1.0.6 -y 
+sudo yum install NetworkManager-adsl.x86_64-1.0.6 -y 
+sudo yum install NetworkManager-bluetooth.x86_64-1.0.6 -y 
+sudo yum install NetworkManager-debuginfo.x86_64-1.0.6 -y 
+sudo yum install NetworkManager-glib.x86_64-1.0.6 -y 
+sudo yum install NetworkManager-libnm.x86_64-1.0.6 -y 
+sudo yum install NetworkManager-libreswan.x86_64-1.0.6 -y 
+sudo yum install NetworkManager-libreswan-debuginfo.x86_64-1.0.6 -y 
+sudo yum install NetworkManager-libreswan-gnome.x86_64-1.0.6 -y 
+sudo yum install NetworkManager-team.x86_64-1.0.6 -y 
+sudo yum install NetworkManager-tui.x86_64-1.0.6 -y 
+sudo yum install NetworkManager-wifi.x86_64-1.0.6 -y 
+sudo yum install NetworkManager-wwan.x86_64-1.0.6 -y 
+sudo yum install libnm-gtk.x86_64-1.0.6 -y 
+sudo yum install network-manager-applet-debuginfo.x86_64-1.0.6 -y 
+sudo yum install nm-connection-editor.x86_64-1.0.6 -y 
+sudo yum install ModemManager-devel.x86_64-1.1.0 -y 
+sudo yum install ModemManager-glib-devel.x86_64-1.1.0 -y 
+sudo yum install ModemManager-vala.x86_64-1.1.0 -y 
+sudo yum install NetworkManager-config-routing-rules.x86_64-1.0.6 -y 
+sudo yum install NetworkManager-config-server.x86_64-1.0.6 -y 
+sudo yum install NetworkManager-devel.x86_64-1.0.6 -y 
+sudo yum install NetworkManager-glib-devel.x86_64-1.0.6 -y 
+sudo yum install NetworkManager-libnm-devel.x86_64-1.0.6 -y 
+sudo yum install libnm-gtk-devel.x86_64-1.0.6 -y 
+sudo yum install network-manager-applet.x86_64-1.0.6 -y 
+sudo yum install ModemManager-debuginfo.i686-1.1.0 -y 
+sudo yum install ModemManager-glib.i686-1.1.0 -y 
+sudo yum install NetworkManager-debuginfo.i686-1.0.6 -y 
+sudo yum install NetworkManager-glib.i686-1.0.6 -y 
+sudo yum install NetworkManager-libnm.i686-1.0.6 -y 
+sudo yum install libnm-gtk.i686-1.0.6 -y 
+sudo yum install network-manager-applet-debuginfo.i686-1.0.6 -y 
+sudo yum install ModemManager.i686-1.1.0 -y 
+sudo yum install ModemManager-devel.i686-1.1.0 -y 
+sudo yum install ModemManager-glib-devel.i686-1.1.0 -y 
+sudo yum install NetworkManager-devel.i686-1.0.6 -y 
+sudo yum install NetworkManager-glib-devel.i686-1.0.6 -y 
+sudo yum install NetworkManager-libnm-devel.i686-1.0.6 -y 
+sudo yum install libnm-gtk-devel.i686-1.0.6 -y 

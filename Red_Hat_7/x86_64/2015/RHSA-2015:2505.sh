@@ -3,104 +3,128 @@
 # Security fix for RHSA-2015:2505
 #
 # Security announcement date: 2015-11-23 14:32:18 UTC
-# Script generation date:     2016-01-11 19:17:11 UTC
+# Script generation date:     2016-02-04 19:20:06 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - abrt:2.1.11-35.el7.x86_64
-#   - abrt-addon-ccpp:2.1.11-35.el7.x86_64
-#   - abrt-addon-kerneloops:2.1.11-35.el7.x86_64
-#   - abrt-addon-pstoreoops:2.1.11-35.el7.x86_64
-#   - abrt-addon-python:2.1.11-35.el7.x86_64
-#   - abrt-addon-vmcore:2.1.11-35.el7.x86_64
-#   - abrt-addon-xorg:2.1.11-35.el7.x86_64
-#   - abrt-cli:2.1.11-35.el7.x86_64
-#   - abrt-console-notification:2.1.11-35.el7.x86_64
-#   - abrt-dbus:2.1.11-35.el7.x86_64
-#   - abrt-debuginfo:2.1.11-35.el7.x86_64
-#   - abrt-desktop:2.1.11-35.el7.x86_64
-#   - abrt-gui:2.1.11-35.el7.x86_64
-#   - abrt-gui-libs:2.1.11-35.el7.x86_64
-#   - abrt-libs:2.1.11-35.el7.x86_64
-#   - abrt-python:2.1.11-35.el7.x86_64
-#   - abrt-tui:2.1.11-35.el7.x86_64
-#   - libreport:2.1.11-31.el7.x86_64
-#   - libreport-anaconda:2.1.11-31.el7.x86_64
-#   - libreport-cli:2.1.11-31.el7.x86_64
-#   - libreport-debuginfo:2.1.11-31.el7.x86_64
-#   - libreport-filesystem:2.1.11-31.el7.x86_64
-#   - libreport-gtk:2.1.11-31.el7.x86_64
-#   - libreport-plugin-bugzilla:2.1.11-31.el7.x86_64
-#   - libreport-plugin-mailx:2.1.11-31.el7.x86_64
-#   - libreport-plugin-reportuploader:2.1.11-31.el7.x86_64
-#   - libreport-plugin-rhtsupport:2.1.11-31.el7.x86_64
-#   - libreport-plugin-ureport:2.1.11-31.el7.x86_64
-#   - libreport-python:2.1.11-31.el7.x86_64
-#   - libreport-rhel:2.1.11-31.el7.x86_64
-#   - libreport-rhel-anaconda-bugzilla:2.1.11-31.el7.x86_64
-#   - libreport-web:2.1.11-31.el7.x86_64
-#   - abrt-python-doc:2.1.11-35.el7.noarch
-#   - abrt-addon-upload-watch:2.1.11-35.el7.x86_64
-#   - abrt-devel:2.1.11-35.el7.x86_64
-#   - abrt-gui-devel:2.1.11-35.el7.x86_64
-#   - abrt-retrace-client:2.1.11-35.el7.x86_64
-#   - libreport-compat:2.1.11-31.el7.x86_64
-#   - libreport-devel:2.1.11-31.el7.x86_64
-#   - libreport-gtk-devel:2.1.11-31.el7.x86_64
-#   - libreport-newt:2.1.11-31.el7.x86_64
-#   - libreport-plugin-kerneloops:2.1.11-31.el7.x86_64
-#   - libreport-plugin-logger:2.1.11-31.el7.x86_64
-#   - libreport-rhel-bugzilla:2.1.11-31.el7.x86_64
-#   - libreport-web-devel:2.1.11-31.el7.x86_64
+#   - abrt.x86_64:2.1.11-35.el7
+#   - abrt-addon-ccpp.x86_64:2.1.11-35.el7
+#   - abrt-addon-kerneloops.x86_64:2.1.11-35.el7
+#   - abrt-addon-pstoreoops.x86_64:2.1.11-35.el7
+#   - abrt-addon-python.x86_64:2.1.11-35.el7
+#   - abrt-addon-vmcore.x86_64:2.1.11-35.el7
+#   - abrt-addon-xorg.x86_64:2.1.11-35.el7
+#   - abrt-cli.x86_64:2.1.11-35.el7
+#   - abrt-console-notification.x86_64:2.1.11-35.el7
+#   - abrt-dbus.x86_64:2.1.11-35.el7
+#   - abrt-debuginfo.x86_64:2.1.11-35.el7
+#   - abrt-desktop.x86_64:2.1.11-35.el7
+#   - abrt-gui.x86_64:2.1.11-35.el7
+#   - abrt-gui-libs.x86_64:2.1.11-35.el7
+#   - abrt-libs.x86_64:2.1.11-35.el7
+#   - abrt-python.x86_64:2.1.11-35.el7
+#   - abrt-tui.x86_64:2.1.11-35.el7
+#   - libreport.x86_64:2.1.11-31.el7
+#   - libreport-anaconda.x86_64:2.1.11-31.el7
+#   - libreport-cli.x86_64:2.1.11-31.el7
+#   - libreport-debuginfo.x86_64:2.1.11-31.el7
+#   - libreport-filesystem.x86_64:2.1.11-31.el7
+#   - libreport-gtk.x86_64:2.1.11-31.el7
+#   - libreport-plugin-bugzilla.x86_64:2.1.11-31.el7
+#   - libreport-plugin-mailx.x86_64:2.1.11-31.el7
+#   - libreport-plugin-reportuploader.x86_64:2.1.11-31.el7
+#   - libreport-plugin-rhtsupport.x86_64:2.1.11-31.el7
+#   - libreport-plugin-ureport.x86_64:2.1.11-31.el7
+#   - libreport-python.x86_64:2.1.11-31.el7
+#   - libreport-rhel.x86_64:2.1.11-31.el7
+#   - libreport-rhel-anaconda-bugzilla.x86_64:2.1.11-31.el7
+#   - libreport-web.x86_64:2.1.11-31.el7
+#   - abrt-python-doc.noarch:2.1.11-35.el7
+#   - abrt-addon-upload-watch.x86_64:2.1.11-35.el7
+#   - abrt-devel.x86_64:2.1.11-35.el7
+#   - abrt-gui-devel.x86_64:2.1.11-35.el7
+#   - abrt-retrace-client.x86_64:2.1.11-35.el7
+#   - libreport-compat.x86_64:2.1.11-31.el7
+#   - libreport-devel.x86_64:2.1.11-31.el7
+#   - libreport-gtk-devel.x86_64:2.1.11-31.el7
+#   - libreport-newt.x86_64:2.1.11-31.el7
+#   - libreport-plugin-kerneloops.x86_64:2.1.11-31.el7
+#   - libreport-plugin-logger.x86_64:2.1.11-31.el7
+#   - libreport-rhel-bugzilla.x86_64:2.1.11-31.el7
+#   - libreport-web-devel.x86_64:2.1.11-31.el7
+#   - abrt-debuginfo.i686:2.1.11-35.el7
+#   - abrt-gui-libs.i686:2.1.11-35.el7
+#   - abrt-libs.i686:2.1.11-35.el7
+#   - libreport.i686:2.1.11-31.el7
+#   - libreport-debuginfo.i686:2.1.11-31.el7
+#   - libreport-gtk.i686:2.1.11-31.el7
+#   - libreport-web.i686:2.1.11-31.el7
+#   - abrt-devel.i686:2.1.11-35.el7
+#   - abrt-gui-devel.i686:2.1.11-35.el7
+#   - libreport-devel.i686:2.1.11-31.el7
+#   - libreport-gtk-devel.i686:2.1.11-31.el7
+#   - libreport-web-devel.i686:2.1.11-31.el7
 #
 # Last versions recommanded by security team:
-#   - abrt:2.1.11-35.el7.x86_64
-#   - abrt-addon-ccpp:2.1.11-35.el7.x86_64
-#   - abrt-addon-kerneloops:2.1.11-35.el7.x86_64
-#   - abrt-addon-pstoreoops:2.1.11-35.el7.x86_64
-#   - abrt-addon-python:2.1.11-35.el7.x86_64
-#   - abrt-addon-vmcore:2.1.11-35.el7.x86_64
-#   - abrt-addon-xorg:2.1.11-35.el7.x86_64
-#   - abrt-cli:2.1.11-35.el7.x86_64
-#   - abrt-console-notification:2.1.11-35.el7.x86_64
-#   - abrt-dbus:2.1.11-35.el7.x86_64
-#   - abrt-debuginfo:2.1.11-35.el7.x86_64
-#   - abrt-desktop:2.1.11-35.el7.x86_64
-#   - abrt-gui:2.1.11-35.el7.x86_64
-#   - abrt-gui-libs:2.1.11-35.el7.x86_64
-#   - abrt-libs:2.1.11-35.el7.x86_64
-#   - abrt-python:2.1.11-35.el7.x86_64
-#   - abrt-tui:2.1.11-35.el7.x86_64
-#   - libreport:2.1.11-31.el7.x86_64
-#   - libreport-anaconda:2.1.11-31.el7.x86_64
-#   - libreport-cli:2.1.11-31.el7.x86_64
-#   - libreport-debuginfo:2.1.11-31.el7.x86_64
-#   - libreport-filesystem:2.1.11-31.el7.x86_64
-#   - libreport-gtk:2.1.11-31.el7.x86_64
-#   - libreport-plugin-bugzilla:2.1.11-31.el7.x86_64
-#   - libreport-plugin-mailx:2.1.11-31.el7.x86_64
-#   - libreport-plugin-reportuploader:2.1.11-31.el7.x86_64
-#   - libreport-plugin-rhtsupport:2.1.11-31.el7.x86_64
-#   - libreport-plugin-ureport:2.1.11-31.el7.x86_64
-#   - libreport-python:2.1.11-31.el7.x86_64
-#   - libreport-rhel:2.1.11-31.el7.x86_64
-#   - libreport-rhel-anaconda-bugzilla:2.1.11-31.el7.x86_64
-#   - libreport-web:2.1.11-31.el7.x86_64
-#   - abrt-python-doc:2.1.11-35.el7.noarch
-#   - abrt-addon-upload-watch:2.1.11-35.el7.x86_64
-#   - abrt-devel:2.1.11-35.el7.x86_64
-#   - abrt-gui-devel:2.1.11-35.el7.x86_64
-#   - abrt-retrace-client:2.1.11-35.el7.x86_64
-#   - libreport-compat:2.1.11-31.el7.x86_64
-#   - libreport-devel:2.1.11-31.el7.x86_64
-#   - libreport-gtk-devel:2.1.11-31.el7.x86_64
-#   - libreport-newt:2.1.11-31.el7.x86_64
-#   - libreport-plugin-kerneloops:2.1.11-31.el7.x86_64
-#   - libreport-plugin-logger:2.1.11-31.el7.x86_64
-#   - libreport-rhel-bugzilla:2.1.11-31.el7.x86_64
-#   - libreport-web-devel:2.1.11-31.el7.x86_64
+#   - abrt.x86_64:2.1.11-35.el7
+#   - abrt-addon-ccpp.x86_64:2.1.11-35.el7
+#   - abrt-addon-kerneloops.x86_64:2.1.11-35.el7
+#   - abrt-addon-pstoreoops.x86_64:2.1.11-35.el7
+#   - abrt-addon-python.x86_64:2.1.11-35.el7
+#   - abrt-addon-vmcore.x86_64:2.1.11-35.el7
+#   - abrt-addon-xorg.x86_64:2.1.11-35.el7
+#   - abrt-cli.x86_64:2.1.11-35.el7
+#   - abrt-console-notification.x86_64:2.1.11-35.el7
+#   - abrt-dbus.x86_64:2.1.11-35.el7
+#   - abrt-debuginfo.x86_64:2.1.11-35.el7
+#   - abrt-desktop.x86_64:2.1.11-35.el7
+#   - abrt-gui.x86_64:2.1.11-35.el7
+#   - abrt-gui-libs.x86_64:2.1.11-35.el7
+#   - abrt-libs.x86_64:2.1.11-35.el7
+#   - abrt-python.x86_64:2.1.11-35.el7
+#   - abrt-tui.x86_64:2.1.11-35.el7
+#   - libreport.x86_64:2.1.11-31.el7
+#   - libreport-anaconda.x86_64:2.1.11-31.el7
+#   - libreport-cli.x86_64:2.1.11-31.el7
+#   - libreport-debuginfo.x86_64:2.1.11-31.el7
+#   - libreport-filesystem.x86_64:2.1.11-31.el7
+#   - libreport-gtk.x86_64:2.1.11-31.el7
+#   - libreport-plugin-bugzilla.x86_64:2.1.11-31.el7
+#   - libreport-plugin-mailx.x86_64:2.1.11-31.el7
+#   - libreport-plugin-reportuploader.x86_64:2.1.11-31.el7
+#   - libreport-plugin-rhtsupport.x86_64:2.1.11-31.el7
+#   - libreport-plugin-ureport.x86_64:2.1.11-31.el7
+#   - libreport-python.x86_64:2.1.11-31.el7
+#   - libreport-rhel.x86_64:2.1.11-31.el7
+#   - libreport-rhel-anaconda-bugzilla.x86_64:2.1.11-31.el7
+#   - libreport-web.x86_64:2.1.11-31.el7
+#   - abrt-python-doc.noarch:2.1.11-35.el7
+#   - abrt-addon-upload-watch.x86_64:2.1.11-35.el7
+#   - abrt-devel.x86_64:2.1.11-35.el7
+#   - abrt-gui-devel.x86_64:2.1.11-35.el7
+#   - abrt-retrace-client.x86_64:2.1.11-35.el7
+#   - libreport-compat.x86_64:2.1.11-31.el7
+#   - libreport-devel.x86_64:2.1.11-31.el7
+#   - libreport-gtk-devel.x86_64:2.1.11-31.el7
+#   - libreport-newt.x86_64:2.1.11-31.el7
+#   - libreport-plugin-kerneloops.x86_64:2.1.11-31.el7
+#   - libreport-plugin-logger.x86_64:2.1.11-31.el7
+#   - libreport-rhel-bugzilla.x86_64:2.1.11-31.el7
+#   - libreport-web-devel.x86_64:2.1.11-31.el7
+#   - abrt-debuginfo.i686:2.1.11-35.el7
+#   - abrt-gui-libs.i686:2.1.11-35.el7
+#   - abrt-libs.i686:2.1.11-35.el7
+#   - libreport.i686:2.1.11-31.el7
+#   - libreport-debuginfo.i686:2.1.11-31.el7
+#   - libreport-gtk.i686:2.1.11-31.el7
+#   - libreport-web.i686:2.1.11-31.el7
+#   - abrt-devel.i686:2.1.11-35.el7
+#   - abrt-gui-devel.i686:2.1.11-35.el7
+#   - libreport-devel.i686:2.1.11-31.el7
+#   - libreport-gtk-devel.i686:2.1.11-31.el7
+#   - libreport-web-devel.i686:2.1.11-31.el7
 #
 # CVE List:
 #   - CVE-2015-5273
@@ -111,48 +135,60 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:2505
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install abrt-2.1.11 -y 
-sudo yum install abrt-addon-ccpp-2.1.11 -y 
-sudo yum install abrt-addon-kerneloops-2.1.11 -y 
-sudo yum install abrt-addon-pstoreoops-2.1.11 -y 
-sudo yum install abrt-addon-python-2.1.11 -y 
-sudo yum install abrt-addon-vmcore-2.1.11 -y 
-sudo yum install abrt-addon-xorg-2.1.11 -y 
-sudo yum install abrt-cli-2.1.11 -y 
-sudo yum install abrt-console-notification-2.1.11 -y 
-sudo yum install abrt-dbus-2.1.11 -y 
-sudo yum install abrt-debuginfo-2.1.11 -y 
-sudo yum install abrt-desktop-2.1.11 -y 
-sudo yum install abrt-gui-2.1.11 -y 
-sudo yum install abrt-gui-libs-2.1.11 -y 
-sudo yum install abrt-libs-2.1.11 -y 
-sudo yum install abrt-python-2.1.11 -y 
-sudo yum install abrt-tui-2.1.11 -y 
-sudo yum install libreport-2.1.11 -y 
-sudo yum install libreport-anaconda-2.1.11 -y 
-sudo yum install libreport-cli-2.1.11 -y 
-sudo yum install libreport-debuginfo-2.1.11 -y 
-sudo yum install libreport-filesystem-2.1.11 -y 
-sudo yum install libreport-gtk-2.1.11 -y 
-sudo yum install libreport-plugin-bugzilla-2.1.11 -y 
-sudo yum install libreport-plugin-mailx-2.1.11 -y 
-sudo yum install libreport-plugin-reportuploader-2.1.11 -y 
-sudo yum install libreport-plugin-rhtsupport-2.1.11 -y 
-sudo yum install libreport-plugin-ureport-2.1.11 -y 
-sudo yum install libreport-python-2.1.11 -y 
-sudo yum install libreport-rhel-2.1.11 -y 
-sudo yum install libreport-rhel-anaconda-bugzilla-2.1.11 -y 
-sudo yum install libreport-web-2.1.11 -y 
-sudo yum install abrt-python-doc-2.1.11 -y 
-sudo yum install abrt-addon-upload-watch-2.1.11 -y 
-sudo yum install abrt-devel-2.1.11 -y 
-sudo yum install abrt-gui-devel-2.1.11 -y 
-sudo yum install abrt-retrace-client-2.1.11 -y 
-sudo yum install libreport-compat-2.1.11 -y 
-sudo yum install libreport-devel-2.1.11 -y 
-sudo yum install libreport-gtk-devel-2.1.11 -y 
-sudo yum install libreport-newt-2.1.11 -y 
-sudo yum install libreport-plugin-kerneloops-2.1.11 -y 
-sudo yum install libreport-plugin-logger-2.1.11 -y 
-sudo yum install libreport-rhel-bugzilla-2.1.11 -y 
-sudo yum install libreport-web-devel-2.1.11 -y 
+sudo yum install abrt.x86_64-2.1.11 -y 
+sudo yum install abrt-addon-ccpp.x86_64-2.1.11 -y 
+sudo yum install abrt-addon-kerneloops.x86_64-2.1.11 -y 
+sudo yum install abrt-addon-pstoreoops.x86_64-2.1.11 -y 
+sudo yum install abrt-addon-python.x86_64-2.1.11 -y 
+sudo yum install abrt-addon-vmcore.x86_64-2.1.11 -y 
+sudo yum install abrt-addon-xorg.x86_64-2.1.11 -y 
+sudo yum install abrt-cli.x86_64-2.1.11 -y 
+sudo yum install abrt-console-notification.x86_64-2.1.11 -y 
+sudo yum install abrt-dbus.x86_64-2.1.11 -y 
+sudo yum install abrt-debuginfo.x86_64-2.1.11 -y 
+sudo yum install abrt-desktop.x86_64-2.1.11 -y 
+sudo yum install abrt-gui.x86_64-2.1.11 -y 
+sudo yum install abrt-gui-libs.x86_64-2.1.11 -y 
+sudo yum install abrt-libs.x86_64-2.1.11 -y 
+sudo yum install abrt-python.x86_64-2.1.11 -y 
+sudo yum install abrt-tui.x86_64-2.1.11 -y 
+sudo yum install libreport.x86_64-2.1.11 -y 
+sudo yum install libreport-anaconda.x86_64-2.1.11 -y 
+sudo yum install libreport-cli.x86_64-2.1.11 -y 
+sudo yum install libreport-debuginfo.x86_64-2.1.11 -y 
+sudo yum install libreport-filesystem.x86_64-2.1.11 -y 
+sudo yum install libreport-gtk.x86_64-2.1.11 -y 
+sudo yum install libreport-plugin-bugzilla.x86_64-2.1.11 -y 
+sudo yum install libreport-plugin-mailx.x86_64-2.1.11 -y 
+sudo yum install libreport-plugin-reportuploader.x86_64-2.1.11 -y 
+sudo yum install libreport-plugin-rhtsupport.x86_64-2.1.11 -y 
+sudo yum install libreport-plugin-ureport.x86_64-2.1.11 -y 
+sudo yum install libreport-python.x86_64-2.1.11 -y 
+sudo yum install libreport-rhel.x86_64-2.1.11 -y 
+sudo yum install libreport-rhel-anaconda-bugzilla.x86_64-2.1.11 -y 
+sudo yum install libreport-web.x86_64-2.1.11 -y 
+sudo yum install abrt-python-doc.noarch-2.1.11 -y 
+sudo yum install abrt-addon-upload-watch.x86_64-2.1.11 -y 
+sudo yum install abrt-devel.x86_64-2.1.11 -y 
+sudo yum install abrt-gui-devel.x86_64-2.1.11 -y 
+sudo yum install abrt-retrace-client.x86_64-2.1.11 -y 
+sudo yum install libreport-compat.x86_64-2.1.11 -y 
+sudo yum install libreport-devel.x86_64-2.1.11 -y 
+sudo yum install libreport-gtk-devel.x86_64-2.1.11 -y 
+sudo yum install libreport-newt.x86_64-2.1.11 -y 
+sudo yum install libreport-plugin-kerneloops.x86_64-2.1.11 -y 
+sudo yum install libreport-plugin-logger.x86_64-2.1.11 -y 
+sudo yum install libreport-rhel-bugzilla.x86_64-2.1.11 -y 
+sudo yum install libreport-web-devel.x86_64-2.1.11 -y 
+sudo yum install abrt-debuginfo.i686-2.1.11 -y 
+sudo yum install abrt-gui-libs.i686-2.1.11 -y 
+sudo yum install abrt-libs.i686-2.1.11 -y 
+sudo yum install libreport.i686-2.1.11 -y 
+sudo yum install libreport-debuginfo.i686-2.1.11 -y 
+sudo yum install libreport-gtk.i686-2.1.11 -y 
+sudo yum install libreport-web.i686-2.1.11 -y 
+sudo yum install abrt-devel.i686-2.1.11 -y 
+sudo yum install abrt-gui-devel.i686-2.1.11 -y 
+sudo yum install libreport-devel.i686-2.1.11 -y 
+sudo yum install libreport-gtk-devel.i686-2.1.11 -y 
+sudo yum install libreport-web-devel.i686-2.1.11 -y 

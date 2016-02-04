@@ -3,32 +3,36 @@
 # Security fix for RHSA-2013:1868
 #
 # Security announcement date: 2013-12-20 11:05:37 UTC
-# Script generation date:     2016-01-06 19:12:15 UTC
+# Script generation date:     2016-02-04 19:17:23 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - xorg-x11-server-Xephyr:1.13.0-23.1.el6_5.x86_64
-#   - xorg-x11-server-Xorg:1.13.0-23.1.el6_5.x86_64
-#   - xorg-x11-server-common:1.13.0-23.1.el6_5.x86_64
-#   - xorg-x11-server-debuginfo:1.13.0-23.1.el6_5.x86_64
-#   - xorg-x11-server-source:1.13.0-23.1.el6_5.noarch
-#   - xorg-x11-server-Xdmx:1.13.0-23.1.el6_5.x86_64
-#   - xorg-x11-server-Xnest:1.13.0-23.1.el6_5.x86_64
-#   - xorg-x11-server-Xvfb:1.13.0-23.1.el6_5.x86_64
-#   - xorg-x11-server-devel:1.13.0-23.1.el6_5.x86_64
+#   - xorg-x11-server-Xephyr.x86_64:1.13.0-23.1.el6_5
+#   - xorg-x11-server-Xorg.x86_64:1.13.0-23.1.el6_5
+#   - xorg-x11-server-common.x86_64:1.13.0-23.1.el6_5
+#   - xorg-x11-server-debuginfo.x86_64:1.13.0-23.1.el6_5
+#   - xorg-x11-server-source.noarch:1.13.0-23.1.el6_5
+#   - xorg-x11-server-Xdmx.x86_64:1.13.0-23.1.el6_5
+#   - xorg-x11-server-Xnest.x86_64:1.13.0-23.1.el6_5
+#   - xorg-x11-server-Xvfb.x86_64:1.13.0-23.1.el6_5
+#   - xorg-x11-server-devel.x86_64:1.13.0-23.1.el6_5
+#   - xorg-x11-server-debuginfo.i686:1.13.0-23.1.el6_5
+#   - xorg-x11-server-devel.i686:1.13.0-23.1.el6_5
 #
 # Last versions recommanded by security team:
-#   - xorg-x11-server-Xephyr:1.15.0-26.el6_6.x86_64
-#   - xorg-x11-server-Xorg:1.15.0-26.el6_6.x86_64
-#   - xorg-x11-server-common:1.15.0-26.el6_6.x86_64
-#   - xorg-x11-server-debuginfo:1.15.0-26.el6_6.x86_64
-#   - xorg-x11-server-source:1.15.0-26.el6_6.noarch
-#   - xorg-x11-server-Xdmx:1.15.0-26.el6_6.x86_64
-#   - xorg-x11-server-Xnest:1.15.0-26.el6_6.x86_64
-#   - xorg-x11-server-Xvfb:1.15.0-26.el6_6.x86_64
-#   - xorg-x11-server-devel:1.15.0-26.el6_6.x86_64
+#   - xorg-x11-server-Xephyr.x86_64:1.15.0-26.el6_6
+#   - xorg-x11-server-Xorg.x86_64:1.15.0-26.el6_6
+#   - xorg-x11-server-common.x86_64:1.15.0-26.el6_6
+#   - xorg-x11-server-debuginfo.x86_64:1.15.0-26.el6_6
+#   - xorg-x11-server-source.noarch:1.15.0-26.el6_6
+#   - xorg-x11-server-Xdmx.x86_64:1.15.0-26.el6_6
+#   - xorg-x11-server-Xnest.x86_64:1.15.0-26.el6_6
+#   - xorg-x11-server-Xvfb.x86_64:1.15.0-26.el6_6
+#   - xorg-x11-server-devel.x86_64:1.15.0-26.el6_6
+#   - xorg-x11-server-debuginfo.i686:1.15.0-26.el6_6
+#   - xorg-x11-server-devel.i686:1.15.0-26.el6_6
 #
 # CVE List:
 #   - CVE-2013-6424
@@ -37,12 +41,14 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:1868
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install xorg-x11-server-Xephyr-1.15.0 -y 
-sudo yum install xorg-x11-server-Xorg-1.15.0 -y 
-sudo yum install xorg-x11-server-common-1.15.0 -y 
-sudo yum install xorg-x11-server-debuginfo-1.15.0 -y 
-sudo yum install xorg-x11-server-source-1.15.0 -y 
-sudo yum install xorg-x11-server-Xdmx-1.15.0 -y 
-sudo yum install xorg-x11-server-Xnest-1.15.0 -y 
-sudo yum install xorg-x11-server-Xvfb-1.15.0 -y 
-sudo yum install xorg-x11-server-devel-1.15.0 -y 
+sudo yum install xorg-x11-server-Xephyr.x86_64-1.15.0 -y 
+sudo yum install xorg-x11-server-Xorg.x86_64-1.15.0 -y 
+sudo yum install xorg-x11-server-common.x86_64-1.15.0 -y 
+sudo yum install xorg-x11-server-debuginfo.x86_64-1.15.0 -y 
+sudo yum install xorg-x11-server-source.noarch-1.15.0 -y 
+sudo yum install xorg-x11-server-Xdmx.x86_64-1.15.0 -y 
+sudo yum install xorg-x11-server-Xnest.x86_64-1.15.0 -y 
+sudo yum install xorg-x11-server-Xvfb.x86_64-1.15.0 -y 
+sudo yum install xorg-x11-server-devel.x86_64-1.15.0 -y 
+sudo yum install xorg-x11-server-debuginfo.i686-1.15.0 -y 
+sudo yum install xorg-x11-server-devel.i686-1.15.0 -y 

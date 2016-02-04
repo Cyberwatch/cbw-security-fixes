@@ -3,22 +3,28 @@
 # Security fix for RHSA-2009:0008
 #
 # Security announcement date: 2009-01-07 14:09:16 UTC
-# Script generation date:     2016-01-06 19:08:59 UTC
+# Script generation date:     2016-02-04 19:13:50 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - dbus:1.0.0-7.el5_2.1.x86_64
-#   - dbus-debuginfo:1.0.0-7.el5_2.1.x86_64
-#   - dbus-x11:1.0.0-7.el5_2.1.x86_64
-#   - dbus-devel:1.0.0-7.el5_2.1.x86_64
+#   - dbus.x86_64:1.0.0-7.el5_2.1
+#   - dbus-debuginfo.x86_64:1.0.0-7.el5_2.1
+#   - dbus-x11.x86_64:1.0.0-7.el5_2.1
+#   - dbus-devel.x86_64:1.0.0-7.el5_2.1
+#   - dbus.i386:1.0.0-7.el5_2.1
+#   - dbus-debuginfo.i386:1.0.0-7.el5_2.1
+#   - dbus-devel.i386:1.0.0-7.el5_2.1
 #
 # Last versions recommanded by security team:
-#   - dbus:1.1.2-16.el5_7.x86_64
-#   - dbus-debuginfo:1.1.2-16.el5_7.x86_64
-#   - dbus-x11:1.1.2-16.el5_7.x86_64
-#   - dbus-devel:1.1.2-16.el5_7.x86_64
+#   - dbus.x86_64:1.1.2-16.el5_7
+#   - dbus-debuginfo.x86_64:1.1.2-16.el5_7
+#   - dbus-x11.x86_64:1.1.2-16.el5_7
+#   - dbus-devel.x86_64:1.1.2-16.el5_7
+#   - dbus.i386:1.1.2-16.el5_7
+#   - dbus-debuginfo.i386:1.1.2-16.el5_7
+#   - dbus-devel.i386:1.1.2-16.el5_7
 #
 # CVE List:
 #   - CVE-2008-3834
@@ -27,7 +33,10 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2009:0008
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install dbus-1.1.2 -y 
-sudo yum install dbus-debuginfo-1.1.2 -y 
-sudo yum install dbus-x11-1.1.2 -y 
-sudo yum install dbus-devel-1.1.2 -y 
+sudo yum install dbus.x86_64-1.1.2 -y 
+sudo yum install dbus-debuginfo.x86_64-1.1.2 -y 
+sudo yum install dbus-x11.x86_64-1.1.2 -y 
+sudo yum install dbus-devel.x86_64-1.1.2 -y 
+sudo yum install dbus.i386-1.1.2 -y 
+sudo yum install dbus-debuginfo.i386-1.1.2 -y 
+sudo yum install dbus-devel.i386-1.1.2 -y 

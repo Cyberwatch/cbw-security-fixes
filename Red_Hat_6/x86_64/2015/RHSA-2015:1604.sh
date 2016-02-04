@@ -3,18 +3,18 @@
 # Security fix for RHSA-2015:1604
 #
 # Security announcement date: 2015-08-12 16:48:42 UTC
-# Script generation date:     2016-02-02 19:13:17 UTC
+# Script generation date:     2016-02-04 19:19:37 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.6.0-ibm:1.6.0.16.7-1jpp.1.el6_7.x86_64
-#   - java-1.6.0-ibm-devel:1.6.0.16.7-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm.x86_64:1.6.0.16.7-1jpp.1.el6_7
+#   - java-1.6.0-ibm-devel.x86_64:1.6.0.16.7-1jpp.1.el6_7
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-ibm:1.6.0.16.20-1jpp.1.el6_7.x86_64
-#   - java-1.6.0-ibm-devel:1.6.0.16.20-1jpp.1.el6_7.x86_64
+#   - java-1.6.0-ibm.x86_64:1.6.0.16.20-1jpp.1.el6_7
+#   - java-1.6.0-ibm-devel.x86_64:1.6.0.16.20-1jpp.1.el6_7
 #
 # CVE List:
 #   - CVE-2015-1931
@@ -38,5 +38,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1604
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-ibm-1.6.0.16.20 -y 
-sudo yum install java-1.6.0-ibm-devel-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm.x86_64-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm-devel.x86_64-1.6.0.16.20 -y 

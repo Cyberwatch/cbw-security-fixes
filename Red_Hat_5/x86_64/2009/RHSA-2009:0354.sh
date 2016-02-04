@@ -3,28 +3,40 @@
 # Security fix for RHSA-2009:0354
 #
 # Security announcement date: 2009-03-16 15:00:25 UTC
-# Script generation date:     2016-01-06 19:09:02 UTC
+# Script generation date:     2016-02-04 19:13:53 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libsoup:2.2.98-2.el5_3.1.x86_64
-#   - libsoup-debuginfo:2.2.98-2.el5_3.1.x86_64
-#   - libsoup-devel:2.2.98-2.el5_3.1.x86_64
-#   - evolution-data-server:1.12.3-10.el5_3.3.x86_64
-#   - evolution-data-server-debuginfo:1.12.3-10.el5_3.3.x86_64
-#   - evolution-data-server-doc:1.12.3-10.el5_3.3.x86_64
-#   - evolution-data-server-devel:1.12.3-10.el5_3.3.x86_64
+#   - libsoup.x86_64:2.2.98-2.el5_3.1
+#   - libsoup-debuginfo.x86_64:2.2.98-2.el5_3.1
+#   - libsoup-devel.x86_64:2.2.98-2.el5_3.1
+#   - evolution-data-server.x86_64:1.12.3-10.el5_3.3
+#   - evolution-data-server-debuginfo.x86_64:1.12.3-10.el5_3.3
+#   - evolution-data-server-doc.x86_64:1.12.3-10.el5_3.3
+#   - evolution-data-server-devel.x86_64:1.12.3-10.el5_3.3
+#   - libsoup.i386:2.2.98-2.el5_3.1
+#   - libsoup-debuginfo.i386:2.2.98-2.el5_3.1
+#   - libsoup-devel.i386:2.2.98-2.el5_3.1
+#   - evolution-data-server.i386:1.12.3-10.el5_3.3
+#   - evolution-data-server-debuginfo.i386:1.12.3-10.el5_3.3
+#   - evolution-data-server-devel.i386:1.12.3-10.el5_3.3
 #
 # Last versions recommanded by security team:
-#   - libsoup:2.2.98-2.el5_3.1.x86_64
-#   - libsoup-debuginfo:2.2.98-2.el5_3.1.x86_64
-#   - libsoup-devel:2.2.98-2.el5_3.1.x86_64
-#   - evolution-data-server:1.12.3-10.el5_3.3.x86_64
-#   - evolution-data-server-debuginfo:1.12.3-10.el5_3.3.x86_64
-#   - evolution-data-server-doc:1.12.3-10.el5_3.3.x86_64
-#   - evolution-data-server-devel:1.12.3-10.el5_3.3.x86_64
+#   - libsoup.x86_64:2.2.98-2.el5_3.1
+#   - libsoup-debuginfo.x86_64:2.2.98-2.el5_3.1
+#   - libsoup-devel.x86_64:2.2.98-2.el5_3.1
+#   - evolution-data-server.x86_64:1.12.3-10.el5_3.3
+#   - evolution-data-server-debuginfo.x86_64:1.12.3-10.el5_3.3
+#   - evolution-data-server-doc.x86_64:1.12.3-10.el5_3.3
+#   - evolution-data-server-devel.x86_64:1.12.3-10.el5_3.3
+#   - libsoup.i386:2.2.98-2.el5_3.1
+#   - libsoup-debuginfo.i386:2.2.98-2.el5_3.1
+#   - libsoup-devel.i386:2.2.98-2.el5_3.1
+#   - evolution-data-server.i386:1.12.3-10.el5_3.3
+#   - evolution-data-server-debuginfo.i386:1.12.3-10.el5_3.3
+#   - evolution-data-server-devel.i386:1.12.3-10.el5_3.3
 #
 # CVE List:
 #   - CVE-2009-0585
@@ -36,10 +48,16 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2009:0354
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install libsoup-2.2.98 -y 
-sudo yum install libsoup-debuginfo-2.2.98 -y 
-sudo yum install libsoup-devel-2.2.98 -y 
-sudo yum install evolution-data-server-1.12.3 -y 
-sudo yum install evolution-data-server-debuginfo-1.12.3 -y 
-sudo yum install evolution-data-server-doc-1.12.3 -y 
-sudo yum install evolution-data-server-devel-1.12.3 -y 
+sudo yum install libsoup.x86_64-2.2.98 -y 
+sudo yum install libsoup-debuginfo.x86_64-2.2.98 -y 
+sudo yum install libsoup-devel.x86_64-2.2.98 -y 
+sudo yum install evolution-data-server.x86_64-1.12.3 -y 
+sudo yum install evolution-data-server-debuginfo.x86_64-1.12.3 -y 
+sudo yum install evolution-data-server-doc.x86_64-1.12.3 -y 
+sudo yum install evolution-data-server-devel.x86_64-1.12.3 -y 
+sudo yum install libsoup.i386-2.2.98 -y 
+sudo yum install libsoup-debuginfo.i386-2.2.98 -y 
+sudo yum install libsoup-devel.i386-2.2.98 -y 
+sudo yum install evolution-data-server.i386-1.12.3 -y 
+sudo yum install evolution-data-server-debuginfo.i386-1.12.3 -y 
+sudo yum install evolution-data-server-devel.i386-1.12.3 -y 

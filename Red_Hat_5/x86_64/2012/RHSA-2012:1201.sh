@@ -3,30 +3,30 @@
 # Security fix for RHSA-2012:1201
 #
 # Security announcement date: 2012-08-23 15:11:37 UTC
-# Script generation date:     2016-01-06 19:11:06 UTC
+# Script generation date:     2016-02-04 19:16:09 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - tetex:3.0-33.15.el5_8.1.x86_64
-#   - tetex-afm:3.0-33.15.el5_8.1.x86_64
-#   - tetex-debuginfo:3.0-33.15.el5_8.1.x86_64
-#   - tetex-doc:3.0-33.15.el5_8.1.x86_64
-#   - tetex-dvips:3.0-33.15.el5_8.1.x86_64
-#   - tetex-fonts:3.0-33.15.el5_8.1.x86_64
-#   - tetex-latex:3.0-33.15.el5_8.1.x86_64
-#   - tetex-xdvi:3.0-33.15.el5_8.1.x86_64
+#   - tetex.x86_64:3.0-33.15.el5_8.1
+#   - tetex-afm.x86_64:3.0-33.15.el5_8.1
+#   - tetex-debuginfo.x86_64:3.0-33.15.el5_8.1
+#   - tetex-doc.x86_64:3.0-33.15.el5_8.1
+#   - tetex-dvips.x86_64:3.0-33.15.el5_8.1
+#   - tetex-fonts.x86_64:3.0-33.15.el5_8.1
+#   - tetex-latex.x86_64:3.0-33.15.el5_8.1
+#   - tetex-xdvi.x86_64:3.0-33.15.el5_8.1
 #
 # Last versions recommanded by security team:
-#   - tetex:3.0-33.15.el5_8.1.x86_64
-#   - tetex-afm:3.0-33.15.el5_8.1.x86_64
-#   - tetex-debuginfo:3.0-33.15.el5_8.1.x86_64
-#   - tetex-doc:3.0-33.15.el5_8.1.x86_64
-#   - tetex-dvips:3.0-33.15.el5_8.1.x86_64
-#   - tetex-fonts:3.0-33.15.el5_8.1.x86_64
-#   - tetex-latex:3.0-33.15.el5_8.1.x86_64
-#   - tetex-xdvi:3.0-33.15.el5_8.1.x86_64
+#   - tetex.x86_64:3.0-33.15.el5_8.1
+#   - tetex-afm.x86_64:3.0-33.15.el5_8.1
+#   - tetex-debuginfo.x86_64:3.0-33.15.el5_8.1
+#   - tetex-doc.x86_64:3.0-33.15.el5_8.1
+#   - tetex-dvips.x86_64:3.0-33.15.el5_8.1
+#   - tetex-fonts.x86_64:3.0-33.15.el5_8.1
+#   - tetex-latex.x86_64:3.0-33.15.el5_8.1
+#   - tetex-xdvi.x86_64:3.0-33.15.el5_8.1
 #
 # CVE List:
 #   - CVE-2010-2642
@@ -42,11 +42,11 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2012:1201
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install tetex-3.0 -y 
-sudo yum install tetex-afm-3.0 -y 
-sudo yum install tetex-debuginfo-3.0 -y 
-sudo yum install tetex-doc-3.0 -y 
-sudo yum install tetex-dvips-3.0 -y 
-sudo yum install tetex-fonts-3.0 -y 
-sudo yum install tetex-latex-3.0 -y 
-sudo yum install tetex-xdvi-3.0 -y 
+sudo yum install tetex.x86_64-3.0 -y 
+sudo yum install tetex-afm.x86_64-3.0 -y 
+sudo yum install tetex-debuginfo.x86_64-3.0 -y 
+sudo yum install tetex-doc.x86_64-3.0 -y 
+sudo yum install tetex-dvips.x86_64-3.0 -y 
+sudo yum install tetex-fonts.x86_64-3.0 -y 
+sudo yum install tetex-latex.x86_64-3.0 -y 
+sudo yum install tetex-xdvi.x86_64-3.0 -y 

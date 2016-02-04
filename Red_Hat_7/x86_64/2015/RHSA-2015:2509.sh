@@ -3,26 +3,30 @@
 # Security fix for RHSA-2015:2509
 #
 # Security announcement date: 2015-11-23 13:17:26 UTC
-# Script generation date:     2016-02-02 19:13:38 UTC
+# Script generation date:     2016-02-04 19:20:05 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.8.0-ibm:1.8.0.2.0-1jpp.1.el7.x86_64
-#   - java-1.8.0-ibm-demo:1.8.0.2.0-1jpp.1.el7.x86_64
-#   - java-1.8.0-ibm-devel:1.8.0.2.0-1jpp.1.el7.x86_64
-#   - java-1.8.0-ibm-jdbc:1.8.0.2.0-1jpp.1.el7.x86_64
-#   - java-1.8.0-ibm-plugin:1.8.0.2.0-1jpp.1.el7.x86_64
-#   - java-1.8.0-ibm-src:1.8.0.2.0-1jpp.1.el7.x86_64
+#   - java-1.8.0-ibm.x86_64:1.8.0.2.0-1jpp.1.el7
+#   - java-1.8.0-ibm-demo.x86_64:1.8.0.2.0-1jpp.1.el7
+#   - java-1.8.0-ibm-devel.x86_64:1.8.0.2.0-1jpp.1.el7
+#   - java-1.8.0-ibm-jdbc.x86_64:1.8.0.2.0-1jpp.1.el7
+#   - java-1.8.0-ibm-plugin.x86_64:1.8.0.2.0-1jpp.1.el7
+#   - java-1.8.0-ibm-src.x86_64:1.8.0.2.0-1jpp.1.el7
+#   - java-1.8.0-ibm.i686:1.8.0.2.0-1jpp.1.el7
+#   - java-1.8.0-ibm-devel.i686:1.8.0.2.0-1jpp.1.el7
 #
 # Last versions recommanded by security team:
-#   - java-1.8.0-ibm:1.8.0.2.10-1jpp.1.el7.x86_64
-#   - java-1.8.0-ibm-demo:1.8.0.2.10-1jpp.1.el7.x86_64
-#   - java-1.8.0-ibm-devel:1.8.0.2.10-1jpp.1.el7.x86_64
-#   - java-1.8.0-ibm-jdbc:1.8.0.2.10-1jpp.1.el7.x86_64
-#   - java-1.8.0-ibm-plugin:1.8.0.2.10-1jpp.1.el7.x86_64
-#   - java-1.8.0-ibm-src:1.8.0.2.10-1jpp.1.el7.x86_64
+#   - java-1.8.0-ibm.x86_64:1.8.0.2.10-1jpp.1.el7
+#   - java-1.8.0-ibm-demo.x86_64:1.8.0.2.10-1jpp.1.el7
+#   - java-1.8.0-ibm-devel.x86_64:1.8.0.2.10-1jpp.1.el7
+#   - java-1.8.0-ibm-jdbc.x86_64:1.8.0.2.10-1jpp.1.el7
+#   - java-1.8.0-ibm-plugin.x86_64:1.8.0.2.10-1jpp.1.el7
+#   - java-1.8.0-ibm-src.x86_64:1.8.0.2.10-1jpp.1.el7
+#   - java-1.8.0-ibm.i686:1.8.0.2.10-1jpp.1.el7
+#   - java-1.8.0-ibm-devel.i686:1.8.0.2.10-1jpp.1.el7
 #
 # CVE List:
 #   - CVE-2015-4734
@@ -49,9 +53,11 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:2509
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.8.0-ibm-1.8.0.2.10 -y 
-sudo yum install java-1.8.0-ibm-demo-1.8.0.2.10 -y 
-sudo yum install java-1.8.0-ibm-devel-1.8.0.2.10 -y 
-sudo yum install java-1.8.0-ibm-jdbc-1.8.0.2.10 -y 
-sudo yum install java-1.8.0-ibm-plugin-1.8.0.2.10 -y 
-sudo yum install java-1.8.0-ibm-src-1.8.0.2.10 -y 
+sudo yum install java-1.8.0-ibm.x86_64-1.8.0.2.10 -y 
+sudo yum install java-1.8.0-ibm-demo.x86_64-1.8.0.2.10 -y 
+sudo yum install java-1.8.0-ibm-devel.x86_64-1.8.0.2.10 -y 
+sudo yum install java-1.8.0-ibm-jdbc.x86_64-1.8.0.2.10 -y 
+sudo yum install java-1.8.0-ibm-plugin.x86_64-1.8.0.2.10 -y 
+sudo yum install java-1.8.0-ibm-src.x86_64-1.8.0.2.10 -y 
+sudo yum install java-1.8.0-ibm.i686-1.8.0.2.10 -y 
+sudo yum install java-1.8.0-ibm-devel.i686-1.8.0.2.10 -y 

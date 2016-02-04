@@ -3,24 +3,30 @@
 # Security fix for RHSA-2015:2617
 #
 # Security announcement date: 2015-12-14 05:57:00 UTC
-# Script generation date:     2016-01-08 07:16:31 UTC
+# Script generation date:     2016-02-04 19:20:28 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - openssl:1.0.1e-42.el6_7.1.x86_64
-#   - openssl-debuginfo:1.0.1e-42.el6_7.1.x86_64
-#   - openssl-devel:1.0.1e-42.el6_7.1.x86_64
-#   - openssl-perl:1.0.1e-42.el6_7.1.x86_64
-#   - openssl-static:1.0.1e-42.el6_7.1.x86_64
+#   - openssl.x86_64:1.0.1e-42.el6_7.1
+#   - openssl-debuginfo.x86_64:1.0.1e-42.el6_7.1
+#   - openssl-devel.x86_64:1.0.1e-42.el6_7.1
+#   - openssl-perl.x86_64:1.0.1e-42.el6_7.1
+#   - openssl-static.x86_64:1.0.1e-42.el6_7.1
+#   - openssl.i686:1.0.1e-42.el6_7.1
+#   - openssl-debuginfo.i686:1.0.1e-42.el6_7.1
+#   - openssl-devel.i686:1.0.1e-42.el6_7.1
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-42.el6_7.2.x86_64
-#   - openssl-debuginfo:1.0.1e-42.el6_7.2.x86_64
-#   - openssl-devel:1.0.1e-42.el6_7.2.x86_64
-#   - openssl-perl:1.0.1e-42.el6_7.2.x86_64
-#   - openssl-static:1.0.1e-42.el6_7.2.x86_64
+#   - openssl.x86_64:1.0.1e-42.el6_7.2
+#   - openssl-debuginfo.x86_64:1.0.1e-42.el6_7.2
+#   - openssl-devel.x86_64:1.0.1e-42.el6_7.2
+#   - openssl-perl.x86_64:1.0.1e-42.el6_7.2
+#   - openssl-static.x86_64:1.0.1e-42.el6_7.2
+#   - openssl.i686:1.0.1e-42.el6_7.2
+#   - openssl-debuginfo.i686:1.0.1e-42.el6_7.2
+#   - openssl-devel.i686:1.0.1e-42.el6_7.2
 #
 # CVE List:
 #   - CVE-2015-3194
@@ -31,8 +37,11 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:2617
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install openssl-1.0.1e -y 
-sudo yum install openssl-debuginfo-1.0.1e -y 
-sudo yum install openssl-devel-1.0.1e -y 
-sudo yum install openssl-perl-1.0.1e -y 
-sudo yum install openssl-static-1.0.1e -y 
+sudo yum install openssl.x86_64-1.0.1e -y 
+sudo yum install openssl-debuginfo.x86_64-1.0.1e -y 
+sudo yum install openssl-devel.x86_64-1.0.1e -y 
+sudo yum install openssl-perl.x86_64-1.0.1e -y 
+sudo yum install openssl-static.x86_64-1.0.1e -y 
+sudo yum install openssl.i686-1.0.1e -y 
+sudo yum install openssl-debuginfo.i686-1.0.1e -y 
+sudo yum install openssl-devel.i686-1.0.1e -y 

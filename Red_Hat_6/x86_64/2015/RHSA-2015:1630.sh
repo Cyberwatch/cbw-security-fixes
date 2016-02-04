@@ -3,32 +3,32 @@
 # Security fix for RHSA-2015:1630
 #
 # Security announcement date: 2015-08-17 06:50:10 UTC
-# Script generation date:     2016-01-06 19:14:12 UTC
+# Script generation date:     2016-02-04 19:19:38 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rh-mysql56-mysql:5.6.26-1.el6.x86_64
-#   - rh-mysql56-mysql-bench:5.6.26-1.el6.x86_64
-#   - rh-mysql56-mysql-common:5.6.26-1.el6.x86_64
-#   - rh-mysql56-mysql-config:5.6.26-1.el6.x86_64
-#   - rh-mysql56-mysql-debuginfo:5.6.26-1.el6.x86_64
-#   - rh-mysql56-mysql-devel:5.6.26-1.el6.x86_64
-#   - rh-mysql56-mysql-errmsg:5.6.26-1.el6.x86_64
-#   - rh-mysql56-mysql-server:5.6.26-1.el6.x86_64
-#   - rh-mysql56-mysql-test:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql.x86_64:5.6.26-1.el6
+#   - rh-mysql56-mysql-bench.x86_64:5.6.26-1.el6
+#   - rh-mysql56-mysql-common.x86_64:5.6.26-1.el6
+#   - rh-mysql56-mysql-config.x86_64:5.6.26-1.el6
+#   - rh-mysql56-mysql-debuginfo.x86_64:5.6.26-1.el6
+#   - rh-mysql56-mysql-devel.x86_64:5.6.26-1.el6
+#   - rh-mysql56-mysql-errmsg.x86_64:5.6.26-1.el6
+#   - rh-mysql56-mysql-server.x86_64:5.6.26-1.el6
+#   - rh-mysql56-mysql-test.x86_64:5.6.26-1.el6
 #
 # Last versions recommanded by security team:
-#   - rh-mysql56-mysql:5.6.26-1.el6.x86_64
-#   - rh-mysql56-mysql-bench:5.6.26-1.el6.x86_64
-#   - rh-mysql56-mysql-common:5.6.26-1.el6.x86_64
-#   - rh-mysql56-mysql-config:5.6.26-1.el6.x86_64
-#   - rh-mysql56-mysql-debuginfo:5.6.26-1.el6.x86_64
-#   - rh-mysql56-mysql-devel:5.6.26-1.el6.x86_64
-#   - rh-mysql56-mysql-errmsg:5.6.26-1.el6.x86_64
-#   - rh-mysql56-mysql-server:5.6.26-1.el6.x86_64
-#   - rh-mysql56-mysql-test:5.6.26-1.el6.x86_64
+#   - rh-mysql56-mysql.x86_64:5.6.26-1.el6
+#   - rh-mysql56-mysql-bench.x86_64:5.6.26-1.el6
+#   - rh-mysql56-mysql-common.x86_64:5.6.26-1.el6
+#   - rh-mysql56-mysql-config.x86_64:5.6.26-1.el6
+#   - rh-mysql56-mysql-debuginfo.x86_64:5.6.26-1.el6
+#   - rh-mysql56-mysql-devel.x86_64:5.6.26-1.el6
+#   - rh-mysql56-mysql-errmsg.x86_64:5.6.26-1.el6
+#   - rh-mysql56-mysql-server.x86_64:5.6.26-1.el6
+#   - rh-mysql56-mysql-test.x86_64:5.6.26-1.el6
 #
 # CVE List:
 #   - CVE-2015-2582
@@ -54,12 +54,12 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1630
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install rh-mysql56-mysql-5.6.26 -y 
-sudo yum install rh-mysql56-mysql-bench-5.6.26 -y 
-sudo yum install rh-mysql56-mysql-common-5.6.26 -y 
-sudo yum install rh-mysql56-mysql-config-5.6.26 -y 
-sudo yum install rh-mysql56-mysql-debuginfo-5.6.26 -y 
-sudo yum install rh-mysql56-mysql-devel-5.6.26 -y 
-sudo yum install rh-mysql56-mysql-errmsg-5.6.26 -y 
-sudo yum install rh-mysql56-mysql-server-5.6.26 -y 
-sudo yum install rh-mysql56-mysql-test-5.6.26 -y 
+sudo yum install rh-mysql56-mysql.x86_64-5.6.26 -y 
+sudo yum install rh-mysql56-mysql-bench.x86_64-5.6.26 -y 
+sudo yum install rh-mysql56-mysql-common.x86_64-5.6.26 -y 
+sudo yum install rh-mysql56-mysql-config.x86_64-5.6.26 -y 
+sudo yum install rh-mysql56-mysql-debuginfo.x86_64-5.6.26 -y 
+sudo yum install rh-mysql56-mysql-devel.x86_64-5.6.26 -y 
+sudo yum install rh-mysql56-mysql-errmsg.x86_64-5.6.26 -y 
+sudo yum install rh-mysql56-mysql-server.x86_64-5.6.26 -y 
+sudo yum install rh-mysql56-mysql-test.x86_64-5.6.26 -y 

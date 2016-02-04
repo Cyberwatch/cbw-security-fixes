@@ -3,36 +3,42 @@
 # Security fix for RHSA-2012:1264
 #
 # Security announcement date: 2012-09-13 17:25:05 UTC
-# Script generation date:     2016-01-06 19:11:08 UTC
+# Script generation date:     2016-02-04 19:16:11 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - postgresql:8.1.23-6.el5_8.x86_64
-#   - postgresql-contrib:8.1.23-6.el5_8.x86_64
-#   - postgresql-debuginfo:8.1.23-6.el5_8.x86_64
-#   - postgresql-docs:8.1.23-6.el5_8.x86_64
-#   - postgresql-libs:8.1.23-6.el5_8.x86_64
-#   - postgresql-python:8.1.23-6.el5_8.x86_64
-#   - postgresql-tcl:8.1.23-6.el5_8.x86_64
-#   - postgresql-devel:8.1.23-6.el5_8.x86_64
-#   - postgresql-pl:8.1.23-6.el5_8.x86_64
-#   - postgresql-server:8.1.23-6.el5_8.x86_64
-#   - postgresql-test:8.1.23-6.el5_8.x86_64
+#   - postgresql.x86_64:8.1.23-6.el5_8
+#   - postgresql-contrib.x86_64:8.1.23-6.el5_8
+#   - postgresql-debuginfo.x86_64:8.1.23-6.el5_8
+#   - postgresql-docs.x86_64:8.1.23-6.el5_8
+#   - postgresql-libs.x86_64:8.1.23-6.el5_8
+#   - postgresql-python.x86_64:8.1.23-6.el5_8
+#   - postgresql-tcl.x86_64:8.1.23-6.el5_8
+#   - postgresql-devel.x86_64:8.1.23-6.el5_8
+#   - postgresql-pl.x86_64:8.1.23-6.el5_8
+#   - postgresql-server.x86_64:8.1.23-6.el5_8
+#   - postgresql-test.x86_64:8.1.23-6.el5_8
+#   - postgresql-debuginfo.i386:8.1.23-6.el5_8
+#   - postgresql-libs.i386:8.1.23-6.el5_8
+#   - postgresql-devel.i386:8.1.23-6.el5_8
 #
 # Last versions recommanded by security team:
-#   - postgresql:8.1.23-10.el5_10.x86_64
-#   - postgresql-contrib:8.1.23-10.el5_10.x86_64
-#   - postgresql-debuginfo:8.1.23-10.el5_10.x86_64
-#   - postgresql-docs:8.1.23-10.el5_10.x86_64
-#   - postgresql-libs:8.1.23-10.el5_10.x86_64
-#   - postgresql-python:8.1.23-10.el5_10.x86_64
-#   - postgresql-tcl:8.1.23-10.el5_10.x86_64
-#   - postgresql-devel:8.1.23-10.el5_10.x86_64
-#   - postgresql-pl:8.1.23-10.el5_10.x86_64
-#   - postgresql-server:8.1.23-10.el5_10.x86_64
-#   - postgresql-test:8.1.23-10.el5_10.x86_64
+#   - postgresql.x86_64:8.1.23-10.el5_10
+#   - postgresql-contrib.x86_64:8.1.23-10.el5_10
+#   - postgresql-debuginfo.x86_64:8.1.23-10.el5_10
+#   - postgresql-docs.x86_64:8.1.23-10.el5_10
+#   - postgresql-libs.x86_64:8.1.23-10.el5_10
+#   - postgresql-python.x86_64:8.1.23-10.el5_10
+#   - postgresql-tcl.x86_64:8.1.23-10.el5_10
+#   - postgresql-devel.x86_64:8.1.23-10.el5_10
+#   - postgresql-pl.x86_64:8.1.23-10.el5_10
+#   - postgresql-server.x86_64:8.1.23-10.el5_10
+#   - postgresql-test.x86_64:8.1.23-10.el5_10
+#   - postgresql-debuginfo.i386:8.1.23-10.el5_10
+#   - postgresql-libs.i386:8.1.23-10.el5_10
+#   - postgresql-devel.i386:8.1.23-10.el5_10
 #
 # CVE List:
 #   - CVE-2012-3488
@@ -41,14 +47,17 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2012:1264
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install postgresql-8.1.23 -y 
-sudo yum install postgresql-contrib-8.1.23 -y 
-sudo yum install postgresql-debuginfo-8.1.23 -y 
-sudo yum install postgresql-docs-8.1.23 -y 
-sudo yum install postgresql-libs-8.1.23 -y 
-sudo yum install postgresql-python-8.1.23 -y 
-sudo yum install postgresql-tcl-8.1.23 -y 
-sudo yum install postgresql-devel-8.1.23 -y 
-sudo yum install postgresql-pl-8.1.23 -y 
-sudo yum install postgresql-server-8.1.23 -y 
-sudo yum install postgresql-test-8.1.23 -y 
+sudo yum install postgresql.x86_64-8.1.23 -y 
+sudo yum install postgresql-contrib.x86_64-8.1.23 -y 
+sudo yum install postgresql-debuginfo.x86_64-8.1.23 -y 
+sudo yum install postgresql-docs.x86_64-8.1.23 -y 
+sudo yum install postgresql-libs.x86_64-8.1.23 -y 
+sudo yum install postgresql-python.x86_64-8.1.23 -y 
+sudo yum install postgresql-tcl.x86_64-8.1.23 -y 
+sudo yum install postgresql-devel.x86_64-8.1.23 -y 
+sudo yum install postgresql-pl.x86_64-8.1.23 -y 
+sudo yum install postgresql-server.x86_64-8.1.23 -y 
+sudo yum install postgresql-test.x86_64-8.1.23 -y 
+sudo yum install postgresql-debuginfo.i386-8.1.23 -y 
+sudo yum install postgresql-libs.i386-8.1.23 -y 
+sudo yum install postgresql-devel.i386-8.1.23 -y 

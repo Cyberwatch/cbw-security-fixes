@@ -3,26 +3,26 @@
 # Security fix for RHSA-2014:0902
 #
 # Security announcement date: 2014-07-18 01:50:49 UTC
-# Script generation date:     2016-01-21 19:11:41 UTC
+# Script generation date:     2016-02-04 19:17:53 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.7.0-oracle:1.7.0.65-1jpp.2.el5_10.x86_64
-#   - java-1.7.0-oracle-devel:1.7.0.65-1jpp.2.el5_10.x86_64
-#   - java-1.7.0-oracle-javafx:1.7.0.65-1jpp.2.el5_10.x86_64
-#   - java-1.7.0-oracle-jdbc:1.7.0.65-1jpp.2.el5_10.x86_64
-#   - java-1.7.0-oracle-plugin:1.7.0.65-1jpp.2.el5_10.x86_64
-#   - java-1.7.0-oracle-src:1.7.0.65-1jpp.2.el5_10.x86_64
+#   - java-1.7.0-oracle.x86_64:1.7.0.65-1jpp.2.el5_10
+#   - java-1.7.0-oracle-devel.x86_64:1.7.0.65-1jpp.2.el5_10
+#   - java-1.7.0-oracle-javafx.x86_64:1.7.0.65-1jpp.2.el5_10
+#   - java-1.7.0-oracle-jdbc.x86_64:1.7.0.65-1jpp.2.el5_10
+#   - java-1.7.0-oracle-plugin.x86_64:1.7.0.65-1jpp.2.el5_10
+#   - java-1.7.0-oracle-src.x86_64:1.7.0.65-1jpp.2.el5_10
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-oracle:1.7.0.95-1jpp.1.el5_11.x86_64
-#   - java-1.7.0-oracle-devel:1.7.0.95-1jpp.1.el5_11.x86_64
-#   - java-1.7.0-oracle-javafx:1.7.0.95-1jpp.1.el5_11.x86_64
-#   - java-1.7.0-oracle-jdbc:1.7.0.95-1jpp.1.el5_11.x86_64
-#   - java-1.7.0-oracle-plugin:1.7.0.95-1jpp.1.el5_11.x86_64
-#   - java-1.7.0-oracle-src:1.7.0.95-1jpp.1.el5_11.x86_64
+#   - java-1.7.0-oracle.x86_64:1.7.0.95-1jpp.1.el5_11
+#   - java-1.7.0-oracle-devel.x86_64:1.7.0.95-1jpp.1.el5_11
+#   - java-1.7.0-oracle-javafx.x86_64:1.7.0.95-1jpp.1.el5_11
+#   - java-1.7.0-oracle-jdbc.x86_64:1.7.0.95-1jpp.1.el5_11
+#   - java-1.7.0-oracle-plugin.x86_64:1.7.0.95-1jpp.1.el5_11
+#   - java-1.7.0-oracle-src.x86_64:1.7.0.95-1jpp.1.el5_11
 #
 # CVE List:
 #   - CVE-2014-2483
@@ -48,9 +48,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:0902
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.0-oracle-1.7.0.95 -y 
-sudo yum install java-1.7.0-oracle-devel-1.7.0.95 -y 
-sudo yum install java-1.7.0-oracle-javafx-1.7.0.95 -y 
-sudo yum install java-1.7.0-oracle-jdbc-1.7.0.95 -y 
-sudo yum install java-1.7.0-oracle-plugin-1.7.0.95 -y 
-sudo yum install java-1.7.0-oracle-src-1.7.0.95 -y 
+sudo yum install java-1.7.0-oracle.x86_64-1.7.0.95 -y 
+sudo yum install java-1.7.0-oracle-devel.x86_64-1.7.0.95 -y 
+sudo yum install java-1.7.0-oracle-javafx.x86_64-1.7.0.95 -y 
+sudo yum install java-1.7.0-oracle-jdbc.x86_64-1.7.0.95 -y 
+sudo yum install java-1.7.0-oracle-plugin.x86_64-1.7.0.95 -y 
+sudo yum install java-1.7.0-oracle-src.x86_64-1.7.0.95 -y 

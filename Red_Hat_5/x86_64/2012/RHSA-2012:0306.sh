@@ -3,26 +3,32 @@
 # Security fix for RHSA-2012:0306
 #
 # Security announcement date: 2012-02-21 04:54:10 UTC
-# Script generation date:     2016-01-06 19:10:45 UTC
+# Script generation date:     2016-02-04 19:15:45 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - krb5-debuginfo:1.6.1-70.el5.x86_64
-#   - krb5-libs:1.6.1-70.el5.x86_64
-#   - krb5-workstation:1.6.1-70.el5.x86_64
-#   - krb5-devel:1.6.1-70.el5.x86_64
-#   - krb5-server:1.6.1-70.el5.x86_64
-#   - krb5-server-ldap:1.6.1-70.el5.x86_64
+#   - krb5-debuginfo.x86_64:1.6.1-70.el5
+#   - krb5-libs.x86_64:1.6.1-70.el5
+#   - krb5-workstation.x86_64:1.6.1-70.el5
+#   - krb5-devel.x86_64:1.6.1-70.el5
+#   - krb5-server.x86_64:1.6.1-70.el5
+#   - krb5-server-ldap.x86_64:1.6.1-70.el5
+#   - krb5-debuginfo.i386:1.6.1-70.el5
+#   - krb5-libs.i386:1.6.1-70.el5
+#   - krb5-devel.i386:1.6.1-70.el5
 #
 # Last versions recommanded by security team:
-#   - krb5-debuginfo:1.6.1-80.el5_11.x86_64
-#   - krb5-libs:1.6.1-80.el5_11.x86_64
-#   - krb5-workstation:1.6.1-80.el5_11.x86_64
-#   - krb5-devel:1.6.1-80.el5_11.x86_64
-#   - krb5-server:1.6.1-80.el5_11.x86_64
-#   - krb5-server-ldap:1.6.1-80.el5_11.x86_64
+#   - krb5-debuginfo.x86_64:1.6.1-80.el5_11
+#   - krb5-libs.x86_64:1.6.1-80.el5_11
+#   - krb5-workstation.x86_64:1.6.1-80.el5_11
+#   - krb5-devel.x86_64:1.6.1-80.el5_11
+#   - krb5-server.x86_64:1.6.1-80.el5_11
+#   - krb5-server-ldap.x86_64:1.6.1-80.el5_11
+#   - krb5-debuginfo.i386:1.6.1-80.el5_11
+#   - krb5-libs.i386:1.6.1-80.el5_11
+#   - krb5-devel.i386:1.6.1-80.el5_11
 #
 # CVE List:
 #   - CVE-2011-1526
@@ -31,9 +37,12 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2012:0306
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install krb5-debuginfo-1.6.1 -y 
-sudo yum install krb5-libs-1.6.1 -y 
-sudo yum install krb5-workstation-1.6.1 -y 
-sudo yum install krb5-devel-1.6.1 -y 
-sudo yum install krb5-server-1.6.1 -y 
-sudo yum install krb5-server-ldap-1.6.1 -y 
+sudo yum install krb5-debuginfo.x86_64-1.6.1 -y 
+sudo yum install krb5-libs.x86_64-1.6.1 -y 
+sudo yum install krb5-workstation.x86_64-1.6.1 -y 
+sudo yum install krb5-devel.x86_64-1.6.1 -y 
+sudo yum install krb5-server.x86_64-1.6.1 -y 
+sudo yum install krb5-server-ldap.x86_64-1.6.1 -y 
+sudo yum install krb5-debuginfo.i386-1.6.1 -y 
+sudo yum install krb5-libs.i386-1.6.1 -y 
+sudo yum install krb5-devel.i386-1.6.1 -y 

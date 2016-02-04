@@ -3,32 +3,48 @@
 # Security fix for RHSA-2010:0616
 #
 # Security announcement date: 2010-08-10 21:33:12 UTC
-# Script generation date:     2016-01-06 19:09:31 UTC
+# Script generation date:     2016-02-04 19:14:26 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - NetworkManager:0.7.0-10.el5_5.1.x86_64
-#   - NetworkManager-debuginfo:0.7.0-10.el5_5.1.x86_64
-#   - NetworkManager-glib:0.7.0-10.el5_5.1.x86_64
-#   - NetworkManager-gnome:0.7.0-10.el5_5.1.x86_64
-#   - dbus-glib:0.73-10.el5_5.x86_64
-#   - dbus-glib-debuginfo:0.73-10.el5_5.x86_64
-#   - NetworkManager-devel:0.7.0-10.el5_5.1.x86_64
-#   - NetworkManager-glib-devel:0.7.0-10.el5_5.1.x86_64
-#   - dbus-glib-devel:0.73-10.el5_5.x86_64
+#   - NetworkManager.x86_64:0.7.0-10.el5_5.1
+#   - NetworkManager-debuginfo.x86_64:0.7.0-10.el5_5.1
+#   - NetworkManager-glib.x86_64:0.7.0-10.el5_5.1
+#   - NetworkManager-gnome.x86_64:0.7.0-10.el5_5.1
+#   - dbus-glib.x86_64:0.73-10.el5_5
+#   - dbus-glib-debuginfo.x86_64:0.73-10.el5_5
+#   - NetworkManager-devel.x86_64:0.7.0-10.el5_5.1
+#   - NetworkManager-glib-devel.x86_64:0.7.0-10.el5_5.1
+#   - dbus-glib-devel.x86_64:0.73-10.el5_5
+#   - NetworkManager.i386:0.7.0-10.el5_5.1
+#   - NetworkManager-debuginfo.i386:0.7.0-10.el5_5.1
+#   - NetworkManager-glib.i386:0.7.0-10.el5_5.1
+#   - dbus-glib.i386:0.73-10.el5_5
+#   - dbus-glib-debuginfo.i386:0.73-10.el5_5
+#   - NetworkManager-devel.i386:0.7.0-10.el5_5.1
+#   - NetworkManager-glib-devel.i386:0.7.0-10.el5_5.1
+#   - dbus-glib-devel.i386:0.73-10.el5_5
 #
 # Last versions recommanded by security team:
-#   - NetworkManager:0.7.0-10.el5_5.1.x86_64
-#   - NetworkManager-debuginfo:0.7.0-10.el5_5.1.x86_64
-#   - NetworkManager-glib:0.7.0-10.el5_5.1.x86_64
-#   - NetworkManager-gnome:0.7.0-10.el5_5.1.x86_64
-#   - dbus-glib:0.73-10.el5_5.x86_64
-#   - dbus-glib-debuginfo:0.73-10.el5_5.x86_64
-#   - NetworkManager-devel:0.7.0-10.el5_5.1.x86_64
-#   - NetworkManager-glib-devel:0.7.0-10.el5_5.1.x86_64
-#   - dbus-glib-devel:0.73-10.el5_5.x86_64
+#   - NetworkManager.x86_64:0.7.0-10.el5_5.1
+#   - NetworkManager-debuginfo.x86_64:0.7.0-10.el5_5.1
+#   - NetworkManager-glib.x86_64:0.7.0-10.el5_5.1
+#   - NetworkManager-gnome.x86_64:0.7.0-10.el5_5.1
+#   - dbus-glib.x86_64:0.73-10.el5_5
+#   - dbus-glib-debuginfo.x86_64:0.73-10.el5_5
+#   - NetworkManager-devel.x86_64:0.7.0-10.el5_5.1
+#   - NetworkManager-glib-devel.x86_64:0.7.0-10.el5_5.1
+#   - dbus-glib-devel.x86_64:0.73-10.el5_5
+#   - NetworkManager.i386:0.7.0-10.el5_5.1
+#   - NetworkManager-debuginfo.i386:0.7.0-10.el5_5.1
+#   - NetworkManager-glib.i386:0.7.0-10.el5_5.1
+#   - dbus-glib.i386:0.73-10.el5_5
+#   - dbus-glib-debuginfo.i386:0.73-10.el5_5
+#   - NetworkManager-devel.i386:0.7.0-10.el5_5.1
+#   - NetworkManager-glib-devel.i386:0.7.0-10.el5_5.1
+#   - dbus-glib-devel.i386:0.73-10.el5_5
 #
 # CVE List:
 #   - CVE-2010-1172
@@ -37,12 +53,20 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2010:0616
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install NetworkManager-0.7.0 -y 
-sudo yum install NetworkManager-debuginfo-0.7.0 -y 
-sudo yum install NetworkManager-glib-0.7.0 -y 
-sudo yum install NetworkManager-gnome-0.7.0 -y 
-sudo yum install dbus-glib-0.73 -y 
-sudo yum install dbus-glib-debuginfo-0.73 -y 
-sudo yum install NetworkManager-devel-0.7.0 -y 
-sudo yum install NetworkManager-glib-devel-0.7.0 -y 
-sudo yum install dbus-glib-devel-0.73 -y 
+sudo yum install NetworkManager.x86_64-0.7.0 -y 
+sudo yum install NetworkManager-debuginfo.x86_64-0.7.0 -y 
+sudo yum install NetworkManager-glib.x86_64-0.7.0 -y 
+sudo yum install NetworkManager-gnome.x86_64-0.7.0 -y 
+sudo yum install dbus-glib.x86_64-0.73 -y 
+sudo yum install dbus-glib-debuginfo.x86_64-0.73 -y 
+sudo yum install NetworkManager-devel.x86_64-0.7.0 -y 
+sudo yum install NetworkManager-glib-devel.x86_64-0.7.0 -y 
+sudo yum install dbus-glib-devel.x86_64-0.73 -y 
+sudo yum install NetworkManager.i386-0.7.0 -y 
+sudo yum install NetworkManager-debuginfo.i386-0.7.0 -y 
+sudo yum install NetworkManager-glib.i386-0.7.0 -y 
+sudo yum install dbus-glib.i386-0.73 -y 
+sudo yum install dbus-glib-debuginfo.i386-0.73 -y 
+sudo yum install NetworkManager-devel.i386-0.7.0 -y 
+sudo yum install NetworkManager-glib-devel.i386-0.7.0 -y 
+sudo yum install dbus-glib-devel.i386-0.73 -y 

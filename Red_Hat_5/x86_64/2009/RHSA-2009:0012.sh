@@ -3,22 +3,28 @@
 # Security fix for RHSA-2009:0012
 #
 # Security announcement date: 2009-02-11 16:53:29 UTC
-# Script generation date:     2016-01-06 19:09:00 UTC
+# Script generation date:     2016-02-04 19:13:52 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - netpbm:10.35-6.1.el5_3.1.x86_64
-#   - netpbm-debuginfo:10.35-6.1.el5_3.1.x86_64
-#   - netpbm-progs:10.35-6.1.el5_3.1.x86_64
-#   - netpbm-devel:10.35-6.1.el5_3.1.x86_64
+#   - netpbm.x86_64:10.35-6.1.el5_3.1
+#   - netpbm-debuginfo.x86_64:10.35-6.1.el5_3.1
+#   - netpbm-progs.x86_64:10.35-6.1.el5_3.1
+#   - netpbm-devel.x86_64:10.35-6.1.el5_3.1
+#   - netpbm.i386:10.35-6.1.el5_3.1
+#   - netpbm-debuginfo.i386:10.35-6.1.el5_3.1
+#   - netpbm-devel.i386:10.35-6.1.el5_3.1
 #
 # Last versions recommanded by security team:
-#   - netpbm:10.35.58-8.el5_7.3.x86_64
-#   - netpbm-debuginfo:10.35.58-8.el5_7.3.x86_64
-#   - netpbm-progs:10.35.58-8.el5_7.3.x86_64
-#   - netpbm-devel:10.35.58-8.el5_7.3.x86_64
+#   - netpbm.x86_64:10.35.58-8.el5_7.3
+#   - netpbm-debuginfo.x86_64:10.35.58-8.el5_7.3
+#   - netpbm-progs.x86_64:10.35.58-8.el5_7.3
+#   - netpbm-devel.x86_64:10.35.58-8.el5_7.3
+#   - netpbm.i386:10.35.58-8.el5_7.3
+#   - netpbm-debuginfo.i386:10.35.58-8.el5_7.3
+#   - netpbm-devel.i386:10.35.58-8.el5_7.3
 #
 # CVE List:
 #   - CVE-2007-2721
@@ -28,7 +34,10 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2009:0012
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install netpbm-10.35.58 -y 
-sudo yum install netpbm-debuginfo-10.35.58 -y 
-sudo yum install netpbm-progs-10.35.58 -y 
-sudo yum install netpbm-devel-10.35.58 -y 
+sudo yum install netpbm.x86_64-10.35.58 -y 
+sudo yum install netpbm-debuginfo.x86_64-10.35.58 -y 
+sudo yum install netpbm-progs.x86_64-10.35.58 -y 
+sudo yum install netpbm-devel.x86_64-10.35.58 -y 
+sudo yum install netpbm.i386-10.35.58 -y 
+sudo yum install netpbm-debuginfo.i386-10.35.58 -y 
+sudo yum install netpbm-devel.i386-10.35.58 -y 

@@ -3,66 +3,66 @@
 # Security fix for RHSA-2015:1186
 #
 # Security announcement date: 2015-06-25 08:55:45 UTC
-# Script generation date:     2016-01-06 19:13:57 UTC
+# Script generation date:     2016-02-04 19:19:21 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - php55-php:5.5.21-4.el7.x86_64
-#   - php55-php-bcmath:5.5.21-4.el7.x86_64
-#   - php55-php-cli:5.5.21-4.el7.x86_64
-#   - php55-php-common:5.5.21-4.el7.x86_64
-#   - php55-php-dba:5.5.21-4.el7.x86_64
-#   - php55-php-debuginfo:5.5.21-4.el7.x86_64
-#   - php55-php-devel:5.5.21-4.el7.x86_64
-#   - php55-php-enchant:5.5.21-4.el7.x86_64
-#   - php55-php-fpm:5.5.21-4.el7.x86_64
-#   - php55-php-gd:5.5.21-4.el7.x86_64
-#   - php55-php-gmp:5.5.21-4.el7.x86_64
-#   - php55-php-intl:5.5.21-4.el7.x86_64
-#   - php55-php-ldap:5.5.21-4.el7.x86_64
-#   - php55-php-mbstring:5.5.21-4.el7.x86_64
-#   - php55-php-mysqlnd:5.5.21-4.el7.x86_64
-#   - php55-php-odbc:5.5.21-4.el7.x86_64
-#   - php55-php-opcache:5.5.21-4.el7.x86_64
-#   - php55-php-pdo:5.5.21-4.el7.x86_64
-#   - php55-php-pgsql:5.5.21-4.el7.x86_64
-#   - php55-php-process:5.5.21-4.el7.x86_64
-#   - php55-php-pspell:5.5.21-4.el7.x86_64
-#   - php55-php-recode:5.5.21-4.el7.x86_64
-#   - php55-php-snmp:5.5.21-4.el7.x86_64
-#   - php55-php-soap:5.5.21-4.el7.x86_64
-#   - php55-php-xml:5.5.21-4.el7.x86_64
-#   - php55-php-xmlrpc:5.5.21-4.el7.x86_64
+#   - php55-php.x86_64:5.5.21-4.el7
+#   - php55-php-bcmath.x86_64:5.5.21-4.el7
+#   - php55-php-cli.x86_64:5.5.21-4.el7
+#   - php55-php-common.x86_64:5.5.21-4.el7
+#   - php55-php-dba.x86_64:5.5.21-4.el7
+#   - php55-php-debuginfo.x86_64:5.5.21-4.el7
+#   - php55-php-devel.x86_64:5.5.21-4.el7
+#   - php55-php-enchant.x86_64:5.5.21-4.el7
+#   - php55-php-fpm.x86_64:5.5.21-4.el7
+#   - php55-php-gd.x86_64:5.5.21-4.el7
+#   - php55-php-gmp.x86_64:5.5.21-4.el7
+#   - php55-php-intl.x86_64:5.5.21-4.el7
+#   - php55-php-ldap.x86_64:5.5.21-4.el7
+#   - php55-php-mbstring.x86_64:5.5.21-4.el7
+#   - php55-php-mysqlnd.x86_64:5.5.21-4.el7
+#   - php55-php-odbc.x86_64:5.5.21-4.el7
+#   - php55-php-opcache.x86_64:5.5.21-4.el7
+#   - php55-php-pdo.x86_64:5.5.21-4.el7
+#   - php55-php-pgsql.x86_64:5.5.21-4.el7
+#   - php55-php-process.x86_64:5.5.21-4.el7
+#   - php55-php-pspell.x86_64:5.5.21-4.el7
+#   - php55-php-recode.x86_64:5.5.21-4.el7
+#   - php55-php-snmp.x86_64:5.5.21-4.el7
+#   - php55-php-soap.x86_64:5.5.21-4.el7
+#   - php55-php-xml.x86_64:5.5.21-4.el7
+#   - php55-php-xmlrpc.x86_64:5.5.21-4.el7
 #
 # Last versions recommanded by security team:
-#   - php55-php:5.5.21-4.el7.x86_64
-#   - php55-php-bcmath:5.5.21-4.el7.x86_64
-#   - php55-php-cli:5.5.21-4.el7.x86_64
-#   - php55-php-common:5.5.21-4.el7.x86_64
-#   - php55-php-dba:5.5.21-4.el7.x86_64
-#   - php55-php-debuginfo:5.5.21-4.el7.x86_64
-#   - php55-php-devel:5.5.21-4.el7.x86_64
-#   - php55-php-enchant:5.5.21-4.el7.x86_64
-#   - php55-php-fpm:5.5.21-4.el7.x86_64
-#   - php55-php-gd:5.5.21-4.el7.x86_64
-#   - php55-php-gmp:5.5.21-4.el7.x86_64
-#   - php55-php-intl:5.5.21-4.el7.x86_64
-#   - php55-php-ldap:5.5.21-4.el7.x86_64
-#   - php55-php-mbstring:5.5.21-4.el7.x86_64
-#   - php55-php-mysqlnd:5.5.21-4.el7.x86_64
-#   - php55-php-odbc:5.5.21-4.el7.x86_64
-#   - php55-php-opcache:5.5.21-4.el7.x86_64
-#   - php55-php-pdo:5.5.21-4.el7.x86_64
-#   - php55-php-pgsql:5.5.21-4.el7.x86_64
-#   - php55-php-process:5.5.21-4.el7.x86_64
-#   - php55-php-pspell:5.5.21-4.el7.x86_64
-#   - php55-php-recode:5.5.21-4.el7.x86_64
-#   - php55-php-snmp:5.5.21-4.el7.x86_64
-#   - php55-php-soap:5.5.21-4.el7.x86_64
-#   - php55-php-xml:5.5.21-4.el7.x86_64
-#   - php55-php-xmlrpc:5.5.21-4.el7.x86_64
+#   - php55-php.x86_64:5.5.21-4.el7
+#   - php55-php-bcmath.x86_64:5.5.21-4.el7
+#   - php55-php-cli.x86_64:5.5.21-4.el7
+#   - php55-php-common.x86_64:5.5.21-4.el7
+#   - php55-php-dba.x86_64:5.5.21-4.el7
+#   - php55-php-debuginfo.x86_64:5.5.21-4.el7
+#   - php55-php-devel.x86_64:5.5.21-4.el7
+#   - php55-php-enchant.x86_64:5.5.21-4.el7
+#   - php55-php-fpm.x86_64:5.5.21-4.el7
+#   - php55-php-gd.x86_64:5.5.21-4.el7
+#   - php55-php-gmp.x86_64:5.5.21-4.el7
+#   - php55-php-intl.x86_64:5.5.21-4.el7
+#   - php55-php-ldap.x86_64:5.5.21-4.el7
+#   - php55-php-mbstring.x86_64:5.5.21-4.el7
+#   - php55-php-mysqlnd.x86_64:5.5.21-4.el7
+#   - php55-php-odbc.x86_64:5.5.21-4.el7
+#   - php55-php-opcache.x86_64:5.5.21-4.el7
+#   - php55-php-pdo.x86_64:5.5.21-4.el7
+#   - php55-php-pgsql.x86_64:5.5.21-4.el7
+#   - php55-php-process.x86_64:5.5.21-4.el7
+#   - php55-php-pspell.x86_64:5.5.21-4.el7
+#   - php55-php-recode.x86_64:5.5.21-4.el7
+#   - php55-php-snmp.x86_64:5.5.21-4.el7
+#   - php55-php-soap.x86_64:5.5.21-4.el7
+#   - php55-php-xml.x86_64:5.5.21-4.el7
+#   - php55-php-xmlrpc.x86_64:5.5.21-4.el7
 #
 # CVE List:
 #   - CVE-2015-2783
@@ -87,29 +87,29 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1186
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install php55-php-5.5.21 -y 
-sudo yum install php55-php-bcmath-5.5.21 -y 
-sudo yum install php55-php-cli-5.5.21 -y 
-sudo yum install php55-php-common-5.5.21 -y 
-sudo yum install php55-php-dba-5.5.21 -y 
-sudo yum install php55-php-debuginfo-5.5.21 -y 
-sudo yum install php55-php-devel-5.5.21 -y 
-sudo yum install php55-php-enchant-5.5.21 -y 
-sudo yum install php55-php-fpm-5.5.21 -y 
-sudo yum install php55-php-gd-5.5.21 -y 
-sudo yum install php55-php-gmp-5.5.21 -y 
-sudo yum install php55-php-intl-5.5.21 -y 
-sudo yum install php55-php-ldap-5.5.21 -y 
-sudo yum install php55-php-mbstring-5.5.21 -y 
-sudo yum install php55-php-mysqlnd-5.5.21 -y 
-sudo yum install php55-php-odbc-5.5.21 -y 
-sudo yum install php55-php-opcache-5.5.21 -y 
-sudo yum install php55-php-pdo-5.5.21 -y 
-sudo yum install php55-php-pgsql-5.5.21 -y 
-sudo yum install php55-php-process-5.5.21 -y 
-sudo yum install php55-php-pspell-5.5.21 -y 
-sudo yum install php55-php-recode-5.5.21 -y 
-sudo yum install php55-php-snmp-5.5.21 -y 
-sudo yum install php55-php-soap-5.5.21 -y 
-sudo yum install php55-php-xml-5.5.21 -y 
-sudo yum install php55-php-xmlrpc-5.5.21 -y 
+sudo yum install php55-php.x86_64-5.5.21 -y 
+sudo yum install php55-php-bcmath.x86_64-5.5.21 -y 
+sudo yum install php55-php-cli.x86_64-5.5.21 -y 
+sudo yum install php55-php-common.x86_64-5.5.21 -y 
+sudo yum install php55-php-dba.x86_64-5.5.21 -y 
+sudo yum install php55-php-debuginfo.x86_64-5.5.21 -y 
+sudo yum install php55-php-devel.x86_64-5.5.21 -y 
+sudo yum install php55-php-enchant.x86_64-5.5.21 -y 
+sudo yum install php55-php-fpm.x86_64-5.5.21 -y 
+sudo yum install php55-php-gd.x86_64-5.5.21 -y 
+sudo yum install php55-php-gmp.x86_64-5.5.21 -y 
+sudo yum install php55-php-intl.x86_64-5.5.21 -y 
+sudo yum install php55-php-ldap.x86_64-5.5.21 -y 
+sudo yum install php55-php-mbstring.x86_64-5.5.21 -y 
+sudo yum install php55-php-mysqlnd.x86_64-5.5.21 -y 
+sudo yum install php55-php-odbc.x86_64-5.5.21 -y 
+sudo yum install php55-php-opcache.x86_64-5.5.21 -y 
+sudo yum install php55-php-pdo.x86_64-5.5.21 -y 
+sudo yum install php55-php-pgsql.x86_64-5.5.21 -y 
+sudo yum install php55-php-process.x86_64-5.5.21 -y 
+sudo yum install php55-php-pspell.x86_64-5.5.21 -y 
+sudo yum install php55-php-recode.x86_64-5.5.21 -y 
+sudo yum install php55-php-snmp.x86_64-5.5.21 -y 
+sudo yum install php55-php-soap.x86_64-5.5.21 -y 
+sudo yum install php55-php-xml.x86_64-5.5.21 -y 
+sudo yum install php55-php-xmlrpc.x86_64-5.5.21 -y 

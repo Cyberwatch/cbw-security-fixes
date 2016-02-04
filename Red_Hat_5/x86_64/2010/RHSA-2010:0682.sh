@@ -3,18 +3,18 @@
 # Security fix for RHSA-2010:0682
 #
 # Security announcement date: 2010-09-08 01:24:44 UTC
-# Script generation date:     2016-01-11 19:12:06 UTC
+# Script generation date:     2016-02-04 19:14:29 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - thunderbird:2.0.0.24-8.el5.x86_64
-#   - thunderbird-debuginfo:2.0.0.24-8.el5.x86_64
+#   - thunderbird.x86_64:2.0.0.24-8.el5
+#   - thunderbird-debuginfo.x86_64:2.0.0.24-8.el5
 #
 # Last versions recommanded by security team:
-#   - thunderbird:38.5.0-1.el5_11.x86_64
-#   - thunderbird-debuginfo:38.5.0-1.el5_11.x86_64
+#   - thunderbird.x86_64:38.5.0-1.el5_11
+#   - thunderbird-debuginfo.x86_64:38.5.0-1.el5_11
 #
 # CVE List:
 #   - CVE-2010-2760
@@ -29,5 +29,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2010:0682
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird-38.5.0 -y 
-sudo yum install thunderbird-debuginfo-38.5.0 -y 
+sudo yum install thunderbird.x86_64-38.5.0 -y 
+sudo yum install thunderbird-debuginfo.x86_64-38.5.0 -y 

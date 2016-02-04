@@ -3,32 +3,42 @@
 # Security fix for RHSA-2013:0219
 #
 # Security announcement date: 2013-01-31 21:59:36 UTC
-# Script generation date:     2016-01-06 19:11:29 UTC
+# Script generation date:     2016-02-04 19:16:32 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - mysql:5.1.67-1.el6_3.x86_64
-#   - mysql-debuginfo:5.1.67-1.el6_3.x86_64
-#   - mysql-libs:5.1.67-1.el6_3.x86_64
-#   - mysql-server:5.1.67-1.el6_3.x86_64
-#   - mysql-bench:5.1.67-1.el6_3.x86_64
-#   - mysql-devel:5.1.67-1.el6_3.x86_64
-#   - mysql-embedded:5.1.67-1.el6_3.x86_64
-#   - mysql-embedded-devel:5.1.67-1.el6_3.x86_64
-#   - mysql-test:5.1.67-1.el6_3.x86_64
+#   - mysql.x86_64:5.1.67-1.el6_3
+#   - mysql-debuginfo.x86_64:5.1.67-1.el6_3
+#   - mysql-libs.x86_64:5.1.67-1.el6_3
+#   - mysql-server.x86_64:5.1.67-1.el6_3
+#   - mysql-bench.x86_64:5.1.67-1.el6_3
+#   - mysql-devel.x86_64:5.1.67-1.el6_3
+#   - mysql-embedded.x86_64:5.1.67-1.el6_3
+#   - mysql-embedded-devel.x86_64:5.1.67-1.el6_3
+#   - mysql-test.x86_64:5.1.67-1.el6_3
+#   - mysql-debuginfo.i686:5.1.67-1.el6_3
+#   - mysql-libs.i686:5.1.67-1.el6_3
+#   - mysql-devel.i686:5.1.67-1.el6_3
+#   - mysql-embedded.i686:5.1.67-1.el6_3
+#   - mysql-embedded-devel.i686:5.1.67-1.el6_3
 #
 # Last versions recommanded by security team:
-#   - mysql:5.1.73-3.el6_5.x86_64
-#   - mysql-debuginfo:5.1.73-3.el6_5.x86_64
-#   - mysql-libs:5.1.73-3.el6_5.x86_64
-#   - mysql-server:5.1.73-3.el6_5.x86_64
-#   - mysql-bench:5.1.73-3.el6_5.x86_64
-#   - mysql-devel:5.1.73-3.el6_5.x86_64
-#   - mysql-embedded:5.1.73-3.el6_5.x86_64
-#   - mysql-embedded-devel:5.1.73-3.el6_5.x86_64
-#   - mysql-test:5.1.73-3.el6_5.x86_64
+#   - mysql.x86_64:5.1.73-3.el6_5
+#   - mysql-debuginfo.x86_64:5.1.73-3.el6_5
+#   - mysql-libs.x86_64:5.1.73-3.el6_5
+#   - mysql-server.x86_64:5.1.73-3.el6_5
+#   - mysql-bench.x86_64:5.1.73-3.el6_5
+#   - mysql-devel.x86_64:5.1.73-3.el6_5
+#   - mysql-embedded.x86_64:5.1.73-3.el6_5
+#   - mysql-embedded-devel.x86_64:5.1.73-3.el6_5
+#   - mysql-test.x86_64:5.1.73-3.el6_5
+#   - mysql-debuginfo.i686:5.1.73-3.el6_5
+#   - mysql-libs.i686:5.1.73-3.el6_5
+#   - mysql-devel.i686:5.1.73-3.el6_5
+#   - mysql-embedded.i686:5.1.73-3.el6_5
+#   - mysql-embedded-devel.i686:5.1.73-3.el6_5
 #
 # CVE List:
 #   - CVE-2012-0572
@@ -45,12 +55,17 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:0219
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install mysql-5.1.73 -y 
-sudo yum install mysql-debuginfo-5.1.73 -y 
-sudo yum install mysql-libs-5.1.73 -y 
-sudo yum install mysql-server-5.1.73 -y 
-sudo yum install mysql-bench-5.1.73 -y 
-sudo yum install mysql-devel-5.1.73 -y 
-sudo yum install mysql-embedded-5.1.73 -y 
-sudo yum install mysql-embedded-devel-5.1.73 -y 
-sudo yum install mysql-test-5.1.73 -y 
+sudo yum install mysql.x86_64-5.1.73 -y 
+sudo yum install mysql-debuginfo.x86_64-5.1.73 -y 
+sudo yum install mysql-libs.x86_64-5.1.73 -y 
+sudo yum install mysql-server.x86_64-5.1.73 -y 
+sudo yum install mysql-bench.x86_64-5.1.73 -y 
+sudo yum install mysql-devel.x86_64-5.1.73 -y 
+sudo yum install mysql-embedded.x86_64-5.1.73 -y 
+sudo yum install mysql-embedded-devel.x86_64-5.1.73 -y 
+sudo yum install mysql-test.x86_64-5.1.73 -y 
+sudo yum install mysql-debuginfo.i686-5.1.73 -y 
+sudo yum install mysql-libs.i686-5.1.73 -y 
+sudo yum install mysql-devel.i686-5.1.73 -y 
+sudo yum install mysql-embedded.i686-5.1.73 -y 
+sudo yum install mysql-embedded-devel.i686-5.1.73 -y 

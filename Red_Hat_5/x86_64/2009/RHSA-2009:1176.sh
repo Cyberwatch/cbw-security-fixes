@@ -3,24 +3,28 @@
 # Security fix for RHSA-2009:1176
 #
 # Security announcement date: 2009-07-27 11:15:22 UTC
-# Script generation date:     2016-01-06 19:09:09 UTC
+# Script generation date:     2016-02-04 19:14:01 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - python:2.4.3-24.el5_3.6.x86_64
-#   - python-debuginfo:2.4.3-24.el5_3.6.x86_64
-#   - python-tools:2.4.3-24.el5_3.6.x86_64
-#   - tkinter:2.4.3-24.el5_3.6.x86_64
-#   - python-devel:2.4.3-24.el5_3.6.x86_64
+#   - python.x86_64:2.4.3-24.el5_3.6
+#   - python-debuginfo.x86_64:2.4.3-24.el5_3.6
+#   - python-tools.x86_64:2.4.3-24.el5_3.6
+#   - tkinter.x86_64:2.4.3-24.el5_3.6
+#   - python-devel.x86_64:2.4.3-24.el5_3.6
+#   - python-debuginfo.i386:2.4.3-24.el5_3.6
+#   - python-devel.i386:2.4.3-24.el5_3.6
 #
 # Last versions recommanded by security team:
-#   - python:2.4.3-46.el5_8.2.x86_64
-#   - python-debuginfo:2.4.3-46.el5_8.2.x86_64
-#   - python-tools:2.4.3-46.el5_8.2.x86_64
-#   - tkinter:2.4.3-46.el5_8.2.x86_64
-#   - python-devel:2.4.3-46.el5_8.2.x86_64
+#   - python.x86_64:2.4.3-46.el5_8.2
+#   - python-debuginfo.x86_64:2.4.3-46.el5_8.2
+#   - python-tools.x86_64:2.4.3-46.el5_8.2
+#   - tkinter.x86_64:2.4.3-46.el5_8.2
+#   - python-devel.x86_64:2.4.3-46.el5_8.2
+#   - python-debuginfo.i386:2.4.3-46.el5_8.2
+#   - python-devel.i386:2.4.3-46.el5_8.2
 #
 # CVE List:
 #   - CVE-2007-2052
@@ -38,8 +42,10 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2009:1176
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install python-2.4.3 -y 
-sudo yum install python-debuginfo-2.4.3 -y 
-sudo yum install python-tools-2.4.3 -y 
-sudo yum install tkinter-2.4.3 -y 
-sudo yum install python-devel-2.4.3 -y 
+sudo yum install python.x86_64-2.4.3 -y 
+sudo yum install python-debuginfo.x86_64-2.4.3 -y 
+sudo yum install python-tools.x86_64-2.4.3 -y 
+sudo yum install tkinter.x86_64-2.4.3 -y 
+sudo yum install python-devel.x86_64-2.4.3 -y 
+sudo yum install python-debuginfo.i386-2.4.3 -y 
+sudo yum install python-devel.i386-2.4.3 -y 

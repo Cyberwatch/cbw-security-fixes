@@ -3,32 +3,38 @@
 # Security fix for RHSA-2014:0927
 #
 # Security announcement date: 2014-07-23 17:33:26 UTC
-# Script generation date:     2016-01-28 19:15:39 UTC
+# Script generation date:     2016-02-04 19:17:56 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libcacard:1.5.3-60.el7_0.5.x86_64
-#   - qemu-guest-agent:1.5.3-60.el7_0.5.x86_64
-#   - qemu-img:1.5.3-60.el7_0.5.x86_64
-#   - qemu-kvm:1.5.3-60.el7_0.5.x86_64
-#   - qemu-kvm-common:1.5.3-60.el7_0.5.x86_64
-#   - qemu-kvm-debuginfo:1.5.3-60.el7_0.5.x86_64
-#   - qemu-kvm-tools:1.5.3-60.el7_0.5.x86_64
-#   - libcacard-devel:1.5.3-60.el7_0.5.x86_64
-#   - libcacard-tools:1.5.3-60.el7_0.5.x86_64
+#   - libcacard.x86_64:1.5.3-60.el7_0.5
+#   - qemu-guest-agent.x86_64:1.5.3-60.el7_0.5
+#   - qemu-img.x86_64:1.5.3-60.el7_0.5
+#   - qemu-kvm.x86_64:1.5.3-60.el7_0.5
+#   - qemu-kvm-common.x86_64:1.5.3-60.el7_0.5
+#   - qemu-kvm-debuginfo.x86_64:1.5.3-60.el7_0.5
+#   - qemu-kvm-tools.x86_64:1.5.3-60.el7_0.5
+#   - libcacard-devel.x86_64:1.5.3-60.el7_0.5
+#   - libcacard-tools.x86_64:1.5.3-60.el7_0.5
+#   - libcacard.i686:1.5.3-60.el7_0.5
+#   - qemu-kvm-debuginfo.i686:1.5.3-60.el7_0.5
+#   - libcacard-devel.i686:1.5.3-60.el7_0.5
 #
 # Last versions recommanded by security team:
-#   - libcacard:1.5.3-105.el7_2.3.x86_64
-#   - qemu-guest-agent:1.5.3-60.el7_0.10.x86_64
-#   - qemu-img:1.5.3-105.el7_2.3.x86_64
-#   - qemu-kvm:1.5.3-105.el7_2.3.x86_64
-#   - qemu-kvm-common:1.5.3-105.el7_2.3.x86_64
-#   - qemu-kvm-debuginfo:1.5.3-105.el7_2.3.x86_64
-#   - qemu-kvm-tools:1.5.3-105.el7_2.3.x86_64
-#   - libcacard-devel:1.5.3-105.el7_2.3.x86_64
-#   - libcacard-tools:1.5.3-105.el7_2.3.x86_64
+#   - libcacard.x86_64:1.5.3-105.el7_2.3
+#   - qemu-guest-agent.x86_64:1.5.3-60.el7_0.10
+#   - qemu-img.x86_64:1.5.3-105.el7_2.3
+#   - qemu-kvm.x86_64:1.5.3-105.el7_2.3
+#   - qemu-kvm-common.x86_64:1.5.3-105.el7_2.3
+#   - qemu-kvm-debuginfo.x86_64:1.5.3-105.el7_2.3
+#   - qemu-kvm-tools.x86_64:1.5.3-105.el7_2.3
+#   - libcacard-devel.x86_64:1.5.3-105.el7_2.3
+#   - libcacard-tools.x86_64:1.5.3-105.el7_2.3
+#   - libcacard.i686:1.5.3-105.el7_2.3
+#   - qemu-kvm-debuginfo.i686:1.5.3-105.el7_2.3
+#   - libcacard-devel.i686:1.5.3-105.el7_2.3
 #
 # CVE List:
 #   - CVE-2013-4148
@@ -51,12 +57,15 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:0927
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install libcacard-1.5.3 -y 
-sudo yum install qemu-guest-agent-1.5.3 -y 
-sudo yum install qemu-img-1.5.3 -y 
-sudo yum install qemu-kvm-1.5.3 -y 
-sudo yum install qemu-kvm-common-1.5.3 -y 
-sudo yum install qemu-kvm-debuginfo-1.5.3 -y 
-sudo yum install qemu-kvm-tools-1.5.3 -y 
-sudo yum install libcacard-devel-1.5.3 -y 
-sudo yum install libcacard-tools-1.5.3 -y 
+sudo yum install libcacard.x86_64-1.5.3 -y 
+sudo yum install qemu-guest-agent.x86_64-1.5.3 -y 
+sudo yum install qemu-img.x86_64-1.5.3 -y 
+sudo yum install qemu-kvm.x86_64-1.5.3 -y 
+sudo yum install qemu-kvm-common.x86_64-1.5.3 -y 
+sudo yum install qemu-kvm-debuginfo.x86_64-1.5.3 -y 
+sudo yum install qemu-kvm-tools.x86_64-1.5.3 -y 
+sudo yum install libcacard-devel.x86_64-1.5.3 -y 
+sudo yum install libcacard-tools.x86_64-1.5.3 -y 
+sudo yum install libcacard.i686-1.5.3 -y 
+sudo yum install qemu-kvm-debuginfo.i686-1.5.3 -y 
+sudo yum install libcacard-devel.i686-1.5.3 -y 

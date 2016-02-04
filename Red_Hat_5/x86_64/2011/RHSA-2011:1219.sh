@@ -3,28 +3,36 @@
 # Security fix for RHSA-2011:1219
 #
 # Security announcement date: 2011-08-29 17:48:25 UTC
-# Script generation date:     2016-01-06 19:10:26 UTC
+# Script generation date:     2016-02-04 19:15:22 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libsmbclient:3.0.33-3.29.el5_7.4.x86_64
-#   - samba:3.0.33-3.29.el5_7.4.x86_64
-#   - samba-client:3.0.33-3.29.el5_7.4.x86_64
-#   - samba-common:3.0.33-3.29.el5_7.4.x86_64
-#   - samba-debuginfo:3.0.33-3.29.el5_7.4.x86_64
-#   - samba-swat:3.0.33-3.29.el5_7.4.x86_64
-#   - libsmbclient-devel:3.0.33-3.29.el5_7.4.x86_64
+#   - libsmbclient.x86_64:3.0.33-3.29.el5_7.4
+#   - samba.x86_64:3.0.33-3.29.el5_7.4
+#   - samba-client.x86_64:3.0.33-3.29.el5_7.4
+#   - samba-common.x86_64:3.0.33-3.29.el5_7.4
+#   - samba-debuginfo.x86_64:3.0.33-3.29.el5_7.4
+#   - samba-swat.x86_64:3.0.33-3.29.el5_7.4
+#   - libsmbclient-devel.x86_64:3.0.33-3.29.el5_7.4
+#   - libsmbclient.i386:3.0.33-3.29.el5_7.4
+#   - samba-common.i386:3.0.33-3.29.el5_7.4
+#   - samba-debuginfo.i386:3.0.33-3.29.el5_7.4
+#   - libsmbclient-devel.i386:3.0.33-3.29.el5_7.4
 #
 # Last versions recommanded by security team:
-#   - libsmbclient:3.0.33-3.40.el5_10.x86_64
-#   - samba:3.0.33-3.40.el5_10.x86_64
-#   - samba-client:3.0.33-3.40.el5_10.x86_64
-#   - samba-common:3.0.33-3.40.el5_10.x86_64
-#   - samba-debuginfo:3.0.33-3.40.el5_10.x86_64
-#   - samba-swat:3.0.33-3.40.el5_10.x86_64
-#   - libsmbclient-devel:3.0.33-3.40.el5_10.x86_64
+#   - libsmbclient.x86_64:3.0.33-3.40.el5_10
+#   - samba.x86_64:3.0.33-3.40.el5_10
+#   - samba-client.x86_64:3.0.33-3.40.el5_10
+#   - samba-common.x86_64:3.0.33-3.40.el5_10
+#   - samba-debuginfo.x86_64:3.0.33-3.40.el5_10
+#   - samba-swat.x86_64:3.0.33-3.40.el5_10
+#   - libsmbclient-devel.x86_64:3.0.33-3.40.el5_10
+#   - libsmbclient.i386:3.0.33-3.40.el5_10
+#   - samba-common.i386:3.0.33-3.40.el5_10
+#   - samba-debuginfo.i386:3.0.33-3.40.el5_10
+#   - libsmbclient-devel.i386:3.0.33-3.40.el5_10
 #
 # CVE List:
 #   - CVE-2010-0547
@@ -37,10 +45,14 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:1219
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install libsmbclient-3.0.33 -y 
-sudo yum install samba-3.0.33 -y 
-sudo yum install samba-client-3.0.33 -y 
-sudo yum install samba-common-3.0.33 -y 
-sudo yum install samba-debuginfo-3.0.33 -y 
-sudo yum install samba-swat-3.0.33 -y 
-sudo yum install libsmbclient-devel-3.0.33 -y 
+sudo yum install libsmbclient.x86_64-3.0.33 -y 
+sudo yum install samba.x86_64-3.0.33 -y 
+sudo yum install samba-client.x86_64-3.0.33 -y 
+sudo yum install samba-common.x86_64-3.0.33 -y 
+sudo yum install samba-debuginfo.x86_64-3.0.33 -y 
+sudo yum install samba-swat.x86_64-3.0.33 -y 
+sudo yum install libsmbclient-devel.x86_64-3.0.33 -y 
+sudo yum install libsmbclient.i386-3.0.33 -y 
+sudo yum install samba-common.i386-3.0.33 -y 
+sudo yum install samba-debuginfo.i386-3.0.33 -y 
+sudo yum install libsmbclient-devel.i386-3.0.33 -y 

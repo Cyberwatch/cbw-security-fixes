@@ -3,20 +3,26 @@
 # Security fix for RHSA-2013:1500
 #
 # Security announcement date: 2013-11-04 18:21:22 UTC
-# Script generation date:     2016-01-06 19:12:03 UTC
+# Script generation date:     2016-02-04 19:17:08 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - gc:7.1-12.el6_4.x86_64
-#   - gc-debuginfo:7.1-12.el6_4.x86_64
-#   - gc-devel:7.1-12.el6_4.x86_64
+#   - gc.x86_64:7.1-12.el6_4
+#   - gc-debuginfo.x86_64:7.1-12.el6_4
+#   - gc-devel.x86_64:7.1-12.el6_4
+#   - gc.i686:7.1-12.el6_4
+#   - gc-debuginfo.i686:7.1-12.el6_4
+#   - gc-devel.i686:7.1-12.el6_4
 #
 # Last versions recommanded by security team:
-#   - gc:7.1-12.el6_4.x86_64
-#   - gc-debuginfo:7.1-12.el6_4.x86_64
-#   - gc-devel:7.1-12.el6_4.x86_64
+#   - gc.x86_64:7.1-12.el6_4
+#   - gc-debuginfo.x86_64:7.1-12.el6_4
+#   - gc-devel.x86_64:7.1-12.el6_4
+#   - gc.i686:7.1-12.el6_4
+#   - gc-debuginfo.i686:7.1-12.el6_4
+#   - gc-devel.i686:7.1-12.el6_4
 #
 # CVE List:
 #   - CVE-2012-2673
@@ -25,6 +31,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:1500
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install gc-7.1 -y 
-sudo yum install gc-debuginfo-7.1 -y 
-sudo yum install gc-devel-7.1 -y 
+sudo yum install gc.x86_64-7.1 -y 
+sudo yum install gc-debuginfo.x86_64-7.1 -y 
+sudo yum install gc-devel.x86_64-7.1 -y 
+sudo yum install gc.i686-7.1 -y 
+sudo yum install gc-debuginfo.i686-7.1 -y 
+sudo yum install gc-devel.i686-7.1 -y 

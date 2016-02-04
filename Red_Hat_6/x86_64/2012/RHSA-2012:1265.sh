@@ -3,22 +3,28 @@
 # Security fix for RHSA-2012:1265
 #
 # Security announcement date: 2012-09-13 17:59:24 UTC
-# Script generation date:     2016-01-06 19:11:08 UTC
+# Script generation date:     2016-02-04 19:16:11 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libxslt:1.1.26-2.el6_3.1.x86_64
-#   - libxslt-debuginfo:1.1.26-2.el6_3.1.x86_64
-#   - libxslt-devel:1.1.26-2.el6_3.1.x86_64
-#   - libxslt-python:1.1.26-2.el6_3.1.x86_64
+#   - libxslt.x86_64:1.1.26-2.el6_3.1
+#   - libxslt-debuginfo.x86_64:1.1.26-2.el6_3.1
+#   - libxslt-devel.x86_64:1.1.26-2.el6_3.1
+#   - libxslt-python.x86_64:1.1.26-2.el6_3.1
+#   - libxslt.i686:1.1.26-2.el6_3.1
+#   - libxslt-debuginfo.i686:1.1.26-2.el6_3.1
+#   - libxslt-devel.i686:1.1.26-2.el6_3.1
 #
 # Last versions recommanded by security team:
-#   - libxslt:1.1.26-2.el6_3.1.x86_64
-#   - libxslt-debuginfo:1.1.26-2.el6_3.1.x86_64
-#   - libxslt-devel:1.1.26-2.el6_3.1.x86_64
-#   - libxslt-python:1.1.26-2.el6_3.1.x86_64
+#   - libxslt.x86_64:1.1.26-2.el6_3.1
+#   - libxslt-debuginfo.x86_64:1.1.26-2.el6_3.1
+#   - libxslt-devel.x86_64:1.1.26-2.el6_3.1
+#   - libxslt-python.x86_64:1.1.26-2.el6_3.1
+#   - libxslt.i686:1.1.26-2.el6_3.1
+#   - libxslt-debuginfo.i686:1.1.26-2.el6_3.1
+#   - libxslt-devel.i686:1.1.26-2.el6_3.1
 #
 # CVE List:
 #   - CVE-2011-1202
@@ -31,7 +37,10 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2012:1265
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install libxslt-1.1.26 -y 
-sudo yum install libxslt-debuginfo-1.1.26 -y 
-sudo yum install libxslt-devel-1.1.26 -y 
-sudo yum install libxslt-python-1.1.26 -y 
+sudo yum install libxslt.x86_64-1.1.26 -y 
+sudo yum install libxslt-debuginfo.x86_64-1.1.26 -y 
+sudo yum install libxslt-devel.x86_64-1.1.26 -y 
+sudo yum install libxslt-python.x86_64-1.1.26 -y 
+sudo yum install libxslt.i686-1.1.26 -y 
+sudo yum install libxslt-debuginfo.i686-1.1.26 -y 
+sudo yum install libxslt-devel.i686-1.1.26 -y 

@@ -3,24 +3,30 @@
 # Security fix for RHSA-2011:1807
 #
 # Security announcement date: 2011-12-09 05:37:20 UTC
-# Script generation date:     2016-01-06 19:10:38 UTC
+# Script generation date:     2016-02-04 19:15:36 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - jasper:1.900.1-15.el6_1.1.x86_64
-#   - jasper-debuginfo:1.900.1-15.el6_1.1.x86_64
-#   - jasper-libs:1.900.1-15.el6_1.1.x86_64
-#   - jasper-devel:1.900.1-15.el6_1.1.x86_64
-#   - jasper-utils:1.900.1-15.el6_1.1.x86_64
+#   - jasper.x86_64:1.900.1-15.el6_1.1
+#   - jasper-debuginfo.x86_64:1.900.1-15.el6_1.1
+#   - jasper-libs.x86_64:1.900.1-15.el6_1.1
+#   - jasper-devel.x86_64:1.900.1-15.el6_1.1
+#   - jasper-utils.x86_64:1.900.1-15.el6_1.1
+#   - jasper-debuginfo.i686:1.900.1-15.el6_1.1
+#   - jasper-libs.i686:1.900.1-15.el6_1.1
+#   - jasper-devel.i686:1.900.1-15.el6_1.1
 #
 # Last versions recommanded by security team:
-#   - jasper:1.900.1-16.el6_6.3.x86_64
-#   - jasper-debuginfo:1.900.1-16.el6_6.3.x86_64
-#   - jasper-libs:1.900.1-16.el6_6.3.x86_64
-#   - jasper-devel:1.900.1-16.el6_6.3.x86_64
-#   - jasper-utils:1.900.1-16.el6_6.3.x86_64
+#   - jasper.x86_64:1.900.1-16.el6_6.3
+#   - jasper-debuginfo.x86_64:1.900.1-16.el6_6.3
+#   - jasper-libs.x86_64:1.900.1-16.el6_6.3
+#   - jasper-devel.x86_64:1.900.1-16.el6_6.3
+#   - jasper-utils.x86_64:1.900.1-16.el6_6.3
+#   - jasper-debuginfo.i686:1.900.1-16.el6_6.3
+#   - jasper-libs.i686:1.900.1-16.el6_6.3
+#   - jasper-devel.i686:1.900.1-16.el6_6.3
 #
 # CVE List:
 #   - CVE-2011-4516
@@ -30,8 +36,11 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:1807
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install jasper-1.900.1 -y 
-sudo yum install jasper-debuginfo-1.900.1 -y 
-sudo yum install jasper-libs-1.900.1 -y 
-sudo yum install jasper-devel-1.900.1 -y 
-sudo yum install jasper-utils-1.900.1 -y 
+sudo yum install jasper.x86_64-1.900.1 -y 
+sudo yum install jasper-debuginfo.x86_64-1.900.1 -y 
+sudo yum install jasper-libs.x86_64-1.900.1 -y 
+sudo yum install jasper-devel.x86_64-1.900.1 -y 
+sudo yum install jasper-utils.x86_64-1.900.1 -y 
+sudo yum install jasper-debuginfo.i686-1.900.1 -y 
+sudo yum install jasper-libs.i686-1.900.1 -y 
+sudo yum install jasper-devel.i686-1.900.1 -y 

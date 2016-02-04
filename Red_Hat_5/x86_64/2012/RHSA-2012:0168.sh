@@ -3,18 +3,18 @@
 # Security fix for RHSA-2012:0168
 #
 # Security announcement date: 2012-02-21 08:58:00 UTC
-# Script generation date:     2016-01-06 19:10:45 UTC
+# Script generation date:     2016-02-04 19:15:45 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rhev-hypervisor5:5.8-20120202.0.el5.noarch
-#   - rhev-hypervisor5-tools:5.8-20120202.0.el5.noarch
+#   - rhev-hypervisor5.noarch:5.8-20120202.0.el5
+#   - rhev-hypervisor5-tools.noarch:5.8-20120202.0.el5
 #
 # Last versions recommanded by security team:
-#   - rhev-hypervisor5:5.8-20120919.0.el5_8.noarch
-#   - rhev-hypervisor5-tools:5.8-20120919.0.el5_8.noarch
+#   - rhev-hypervisor5.noarch:5.8-20120919.0.el5_8
+#   - rhev-hypervisor5-tools.noarch:5.8-20120919.0.el5_8
 #
 # CVE List:
 #   - CVE-2011-4109
@@ -52,5 +52,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2012:0168
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install rhev-hypervisor5-5.8 -y 
-sudo yum install rhev-hypervisor5-tools-5.8 -y 
+sudo yum install rhev-hypervisor5.noarch-5.8 -y 
+sudo yum install rhev-hypervisor5-tools.noarch-5.8 -y 

@@ -3,22 +3,28 @@
 # Security fix for RHSA-2009:0011
 #
 # Security announcement date: 2009-01-07 14:09:29 UTC
-# Script generation date:     2016-01-06 19:08:59 UTC
+# Script generation date:     2016-02-04 19:13:50 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - lcms:1.15-1.2.2.el5_2.2.x86_64
-#   - lcms-debuginfo:1.15-1.2.2.el5_2.2.x86_64
-#   - python-lcms:1.15-1.2.2.el5_2.2.x86_64
-#   - lcms-devel:1.15-1.2.2.el5_2.2.x86_64
+#   - lcms.x86_64:1.15-1.2.2.el5_2.2
+#   - lcms-debuginfo.x86_64:1.15-1.2.2.el5_2.2
+#   - python-lcms.x86_64:1.15-1.2.2.el5_2.2
+#   - lcms-devel.x86_64:1.15-1.2.2.el5_2.2
+#   - lcms.i386:1.15-1.2.2.el5_2.2
+#   - lcms-debuginfo.i386:1.15-1.2.2.el5_2.2
+#   - lcms-devel.i386:1.15-1.2.2.el5_2.2
 #
 # Last versions recommanded by security team:
-#   - lcms:1.18-0.1.beta1.el5_3.2.x86_64
-#   - lcms-debuginfo:1.18-0.1.beta1.el5_3.2.x86_64
-#   - python-lcms:1.18-0.1.beta1.el5_3.2.x86_64
-#   - lcms-devel:1.18-0.1.beta1.el5_3.2.x86_64
+#   - lcms.x86_64:1.18-0.1.beta1.el5_3.2
+#   - lcms-debuginfo.x86_64:1.18-0.1.beta1.el5_3.2
+#   - python-lcms.x86_64:1.18-0.1.beta1.el5_3.2
+#   - lcms-devel.x86_64:1.18-0.1.beta1.el5_3.2
+#   - lcms.i386:1.18-0.1.beta1.el5_3.2
+#   - lcms-debuginfo.i386:1.18-0.1.beta1.el5_3.2
+#   - lcms-devel.i386:1.18-0.1.beta1.el5_3.2
 #
 # CVE List:
 #   - CVE-2008-5316
@@ -28,7 +34,10 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2009:0011
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install lcms-1.18 -y 
-sudo yum install lcms-debuginfo-1.18 -y 
-sudo yum install python-lcms-1.18 -y 
-sudo yum install lcms-devel-1.18 -y 
+sudo yum install lcms.x86_64-1.18 -y 
+sudo yum install lcms-debuginfo.x86_64-1.18 -y 
+sudo yum install python-lcms.x86_64-1.18 -y 
+sudo yum install lcms-devel.x86_64-1.18 -y 
+sudo yum install lcms.i386-1.18 -y 
+sudo yum install lcms-debuginfo.i386-1.18 -y 
+sudo yum install lcms-devel.i386-1.18 -y 

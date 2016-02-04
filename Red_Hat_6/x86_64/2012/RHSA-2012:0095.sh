@@ -3,24 +3,30 @@
 # Security fix for RHSA-2012:0095
 #
 # Security announcement date: 2012-02-02 22:54:35 UTC
-# Script generation date:     2016-01-06 19:10:42 UTC
+# Script generation date:     2016-02-04 19:15:41 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ghostscript:8.70-11.el6_2.6.x86_64
-#   - ghostscript-debuginfo:8.70-11.el6_2.6.x86_64
-#   - ghostscript-devel:8.70-11.el6_2.6.x86_64
-#   - ghostscript-doc:8.70-11.el6_2.6.x86_64
-#   - ghostscript-gtk:8.70-11.el6_2.6.x86_64
+#   - ghostscript.x86_64:8.70-11.el6_2.6
+#   - ghostscript-debuginfo.x86_64:8.70-11.el6_2.6
+#   - ghostscript-devel.x86_64:8.70-11.el6_2.6
+#   - ghostscript-doc.x86_64:8.70-11.el6_2.6
+#   - ghostscript-gtk.x86_64:8.70-11.el6_2.6
+#   - ghostscript.i686:8.70-11.el6_2.6
+#   - ghostscript-debuginfo.i686:8.70-11.el6_2.6
+#   - ghostscript-devel.i686:8.70-11.el6_2.6
 #
 # Last versions recommanded by security team:
-#   - ghostscript:8.70-14.el6_3.1.x86_64
-#   - ghostscript-debuginfo:8.70-19.el6.x86_64
-#   - ghostscript-devel:8.70-19.el6.x86_64
-#   - ghostscript-doc:8.70-19.el6.x86_64
-#   - ghostscript-gtk:8.70-14.el6_3.1.x86_64
+#   - ghostscript.x86_64:8.70-14.el6_3.1
+#   - ghostscript-debuginfo.x86_64:8.70-19.el6
+#   - ghostscript-devel.x86_64:8.70-19.el6
+#   - ghostscript-doc.x86_64:8.70-19.el6
+#   - ghostscript-gtk.x86_64:8.70-14.el6_3.1
+#   - ghostscript.i686:8.70-14.el6_3.1
+#   - ghostscript-debuginfo.i686:8.70-14.el6_3.1
+#   - ghostscript-devel.i686:8.70-14.el6_3.1
 #
 # CVE List:
 #   - CVE-2009-3743
@@ -32,8 +38,11 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2012:0095
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install ghostscript-8.70 -y 
-sudo yum install ghostscript-debuginfo-8.70 -y 
-sudo yum install ghostscript-devel-8.70 -y 
-sudo yum install ghostscript-doc-8.70 -y 
-sudo yum install ghostscript-gtk-8.70 -y 
+sudo yum install ghostscript.x86_64-8.70 -y 
+sudo yum install ghostscript-debuginfo.x86_64-8.70 -y 
+sudo yum install ghostscript-devel.x86_64-8.70 -y 
+sudo yum install ghostscript-doc.x86_64-8.70 -y 
+sudo yum install ghostscript-gtk.x86_64-8.70 -y 
+sudo yum install ghostscript.i686-8.70 -y 
+sudo yum install ghostscript-debuginfo.i686-8.70 -y 
+sudo yum install ghostscript-devel.i686-8.70 -y 

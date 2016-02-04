@@ -3,18 +3,18 @@
 # Security fix for RHSA-2014:1626
 #
 # Security announcement date: 2014-10-14 08:04:41 UTC
-# Script generation date:     2016-01-27 19:19:39 UTC
+# Script generation date:     2016-02-04 19:18:22 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - chromium-browser:38.0.2125.101-2.el6_6.x86_64
-#   - chromium-browser-debuginfo:38.0.2125.101-2.el6_6.x86_64
+#   - chromium-browser.x86_64:38.0.2125.101-2.el6_6
+#   - chromium-browser-debuginfo.x86_64:38.0.2125.101-2.el6_6
 #
 # Last versions recommanded by security team:
-#   - chromium-browser:48.0.2564.82-1.el6.x86_64
-#   - chromium-browser-debuginfo:48.0.2564.82-1.el6.x86_64
+#   - chromium-browser.x86_64:48.0.2564.82-1.el6
+#   - chromium-browser-debuginfo.x86_64:48.0.2564.82-1.el6
 #
 # CVE List:
 #   - CVE-2014-3188
@@ -34,5 +34,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:1626
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install chromium-browser-48.0.2564.82 -y 
-sudo yum install chromium-browser-debuginfo-48.0.2564.82 -y 
+sudo yum install chromium-browser.x86_64-48.0.2564.82 -y 
+sudo yum install chromium-browser-debuginfo.x86_64-48.0.2564.82 -y 

@@ -3,26 +3,26 @@
 # Security fix for RHSA-2009:1201
 #
 # Security announcement date: 2009-08-06 21:25:19 UTC
-# Script generation date:     2016-01-26 19:11:57 UTC
+# Script generation date:     2016-02-04 19:14:02 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.6.0-openjdk:1.6.0.0-1.2.b09.el5.x86_64
-#   - java-1.6.0-openjdk-debuginfo:1.6.0.0-1.2.b09.el5.x86_64
-#   - java-1.6.0-openjdk-demo:1.6.0.0-1.2.b09.el5.x86_64
-#   - java-1.6.0-openjdk-devel:1.6.0.0-1.2.b09.el5.x86_64
-#   - java-1.6.0-openjdk-javadoc:1.6.0.0-1.2.b09.el5.x86_64
-#   - java-1.6.0-openjdk-src:1.6.0.0-1.2.b09.el5.x86_64
+#   - java-1.6.0-openjdk.x86_64:1.6.0.0-1.2.b09.el5
+#   - java-1.6.0-openjdk-debuginfo.x86_64:1.6.0.0-1.2.b09.el5
+#   - java-1.6.0-openjdk-demo.x86_64:1.6.0.0-1.2.b09.el5
+#   - java-1.6.0-openjdk-devel.x86_64:1.6.0.0-1.2.b09.el5
+#   - java-1.6.0-openjdk-javadoc.x86_64:1.6.0.0-1.2.b09.el5
+#   - java-1.6.0-openjdk-src.x86_64:1.6.0.0-1.2.b09.el5
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-openjdk:1.6.0.38-1.13.10.0.el5_11.x86_64
-#   - java-1.6.0-openjdk-debuginfo:1.6.0.38-1.13.10.0.el5_11.x86_64
-#   - java-1.6.0-openjdk-demo:1.6.0.38-1.13.10.0.el5_11.x86_64
-#   - java-1.6.0-openjdk-devel:1.6.0.38-1.13.10.0.el5_11.x86_64
-#   - java-1.6.0-openjdk-javadoc:1.6.0.38-1.13.10.0.el5_11.x86_64
-#   - java-1.6.0-openjdk-src:1.6.0.38-1.13.10.0.el5_11.x86_64
+#   - java-1.6.0-openjdk.x86_64:1.6.0.38-1.13.10.0.el5_11
+#   - java-1.6.0-openjdk-debuginfo.x86_64:1.6.0.38-1.13.10.0.el5_11
+#   - java-1.6.0-openjdk-demo.x86_64:1.6.0.38-1.13.10.0.el5_11
+#   - java-1.6.0-openjdk-devel.x86_64:1.6.0.38-1.13.10.0.el5_11
+#   - java-1.6.0-openjdk-javadoc.x86_64:1.6.0.38-1.13.10.0.el5_11
+#   - java-1.6.0-openjdk-src.x86_64:1.6.0.38-1.13.10.0.el5_11
 #
 # CVE List:
 #   - CVE-2009-0217
@@ -42,9 +42,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2009:1201
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-openjdk-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-debuginfo-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-demo-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-devel-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-javadoc-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-src-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk.x86_64-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-debuginfo.x86_64-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-demo.x86_64-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-devel.x86_64-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-javadoc.x86_64-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk-src.x86_64-1.6.0.38 -y 

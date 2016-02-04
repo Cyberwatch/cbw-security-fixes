@@ -3,18 +3,22 @@
 # Security fix for RHSA-2015:1207
 #
 # Security announcement date: 2015-07-03 05:54:14 UTC
-# Script generation date:     2016-01-27 07:14:54 UTC
+# Script generation date:     2016-02-04 19:19:23 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:38.1.0-1.el6_6.x86_64
-#   - firefox-debuginfo:38.1.0-1.el6_6.x86_64
+#   - firefox.x86_64:38.1.0-1.el6_6
+#   - firefox-debuginfo.x86_64:38.1.0-1.el6_6
+#   - firefox.i686:38.1.0-1.el6_6
+#   - firefox-debuginfo.i686:38.1.0-1.el6_6
 #
 # Last versions recommanded by security team:
-#   - firefox:38.6.0-1.el6_7.x86_64
-#   - firefox-debuginfo:38.6.0-1.el6_7.x86_64
+#   - firefox.x86_64:38.6.0-1.el6_7
+#   - firefox-debuginfo.x86_64:38.6.0-1.el6_7
+#   - firefox.i686:38.6.0-1.el6_7
+#   - firefox-debuginfo.i686:38.6.0-1.el6_7
 #
 # CVE List:
 #   - CVE-2015-2722
@@ -39,5 +43,7 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1207
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.6.0 -y 
-sudo yum install firefox-debuginfo-38.6.0 -y 
+sudo yum install firefox.x86_64-38.6.0 -y 
+sudo yum install firefox-debuginfo.x86_64-38.6.0 -y 
+sudo yum install firefox.i686-38.6.0 -y 
+sudo yum install firefox-debuginfo.i686-38.6.0 -y 

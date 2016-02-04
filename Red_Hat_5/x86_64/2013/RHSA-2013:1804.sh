@@ -3,20 +3,26 @@
 # Security fix for RHSA-2013:1804
 #
 # Security announcement date: 2013-12-10 00:25:08 UTC
-# Script generation date:     2016-01-06 19:12:11 UTC
+# Script generation date:     2016-02-04 19:17:18 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libjpeg:6b-38.x86_64
-#   - libjpeg-debuginfo:6b-38.x86_64
-#   - libjpeg-devel:6b-38.x86_64
+#   - libjpeg.x86_64:6b-38
+#   - libjpeg-debuginfo.x86_64:6b-38
+#   - libjpeg-devel.x86_64:6b-38
+#   - libjpeg.i386:6b-38
+#   - libjpeg-debuginfo.i386:6b-38
+#   - libjpeg-devel.i386:6b-38
 #
 # Last versions recommanded by security team:
-#   - libjpeg:6b-38.x86_64
-#   - libjpeg-debuginfo:6b-38.x86_64
-#   - libjpeg-devel:6b-38.x86_64
+#   - libjpeg.x86_64:6b-38
+#   - libjpeg-debuginfo.x86_64:6b-38
+#   - libjpeg-devel.x86_64:6b-38
+#   - libjpeg.i386:6b-38
+#   - libjpeg-debuginfo.i386:6b-38
+#   - libjpeg-devel.i386:6b-38
 #
 # CVE List:
 #   - CVE-2013-6629
@@ -25,6 +31,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:1804
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install libjpeg-6b -y 
-sudo yum install libjpeg-debuginfo-6b -y 
-sudo yum install libjpeg-devel-6b -y 
+sudo yum install libjpeg.x86_64-6b -y 
+sudo yum install libjpeg-debuginfo.x86_64-6b -y 
+sudo yum install libjpeg-devel.x86_64-6b -y 
+sudo yum install libjpeg.i386-6b -y 
+sudo yum install libjpeg-debuginfo.i386-6b -y 
+sudo yum install libjpeg-devel.i386-6b -y 

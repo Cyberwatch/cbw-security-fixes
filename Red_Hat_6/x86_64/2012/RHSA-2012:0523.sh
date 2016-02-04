@@ -3,22 +3,28 @@
 # Security fix for RHSA-2012:0523
 #
 # Security announcement date: 2012-04-25 12:49:40 UTC
-# Script generation date:     2016-01-11 19:13:16 UTC
+# Script generation date:     2016-02-04 19:15:52 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libpng:1.2.49-1.el6_2.x86_64
-#   - libpng-debuginfo:1.2.49-1.el6_2.x86_64
-#   - libpng-devel:1.2.49-1.el6_2.x86_64
-#   - libpng-static:1.2.49-1.el6_2.x86_64
+#   - libpng.x86_64:1.2.49-1.el6_2
+#   - libpng-debuginfo.x86_64:1.2.49-1.el6_2
+#   - libpng-devel.x86_64:1.2.49-1.el6_2
+#   - libpng-static.x86_64:1.2.49-1.el6_2
+#   - libpng.i686:1.2.49-1.el6_2
+#   - libpng-debuginfo.i686:1.2.49-1.el6_2
+#   - libpng-devel.i686:1.2.49-1.el6_2
 #
 # Last versions recommanded by security team:
-#   - libpng:1.2.49-2.el6_7.x86_64
-#   - libpng-debuginfo:1.2.49-2.el6_7.x86_64
-#   - libpng-devel:1.2.49-2.el6_7.x86_64
-#   - libpng-static:1.2.49-2.el6_7.x86_64
+#   - libpng.x86_64:1.2.49-2.el6_7
+#   - libpng-debuginfo.x86_64:1.2.49-2.el6_7
+#   - libpng-devel.x86_64:1.2.49-2.el6_7
+#   - libpng-static.x86_64:1.2.49-2.el6_7
+#   - libpng.i686:1.2.49-2.el6_7
+#   - libpng-debuginfo.i686:1.2.49-2.el6_7
+#   - libpng-devel.i686:1.2.49-2.el6_7
 #
 # CVE List:
 #   - CVE-2011-3048
@@ -27,7 +33,10 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2012:0523
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install libpng-1.2.49 -y 
-sudo yum install libpng-debuginfo-1.2.49 -y 
-sudo yum install libpng-devel-1.2.49 -y 
-sudo yum install libpng-static-1.2.49 -y 
+sudo yum install libpng.x86_64-1.2.49 -y 
+sudo yum install libpng-debuginfo.x86_64-1.2.49 -y 
+sudo yum install libpng-devel.x86_64-1.2.49 -y 
+sudo yum install libpng-static.x86_64-1.2.49 -y 
+sudo yum install libpng.i686-1.2.49 -y 
+sudo yum install libpng-debuginfo.i686-1.2.49 -y 
+sudo yum install libpng-devel.i686-1.2.49 -y 

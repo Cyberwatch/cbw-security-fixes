@@ -3,32 +3,36 @@
 # Security fix for RHSA-2011:1088
 #
 # Security announcement date: 2011-07-25 22:44:19 UTC
-# Script generation date:     2016-01-06 19:10:24 UTC
+# Script generation date:     2016-02-04 19:15:20 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - systemtap:1.4-6.el6_1.2.x86_64
-#   - systemtap-client:1.4-6.el6_1.2.x86_64
-#   - systemtap-debuginfo:1.4-6.el6_1.2.x86_64
-#   - systemtap-grapher:1.4-6.el6_1.2.x86_64
-#   - systemtap-initscript:1.4-6.el6_1.2.x86_64
-#   - systemtap-runtime:1.4-6.el6_1.2.x86_64
-#   - systemtap-sdt-devel:1.4-6.el6_1.2.x86_64
-#   - systemtap-server:1.4-6.el6_1.2.x86_64
-#   - systemtap-testsuite:1.4-6.el6_1.2.x86_64
+#   - systemtap.x86_64:1.4-6.el6_1.2
+#   - systemtap-client.x86_64:1.4-6.el6_1.2
+#   - systemtap-debuginfo.x86_64:1.4-6.el6_1.2
+#   - systemtap-grapher.x86_64:1.4-6.el6_1.2
+#   - systemtap-initscript.x86_64:1.4-6.el6_1.2
+#   - systemtap-runtime.x86_64:1.4-6.el6_1.2
+#   - systemtap-sdt-devel.x86_64:1.4-6.el6_1.2
+#   - systemtap-server.x86_64:1.4-6.el6_1.2
+#   - systemtap-testsuite.x86_64:1.4-6.el6_1.2
+#   - systemtap-debuginfo.i686:1.4-6.el6_1.2
+#   - systemtap-sdt-devel.i686:1.4-6.el6_1.2
 #
 # Last versions recommanded by security team:
-#   - systemtap:1.6-5.el6_2.x86_64
-#   - systemtap-client:1.4-6.el6_1.2.x86_64
-#   - systemtap-debuginfo:1.6-5.el6_2.x86_64
-#   - systemtap-grapher:1.6-5.el6_2.x86_64
-#   - systemtap-initscript:1.6-5.el6_2.x86_64
-#   - systemtap-runtime:1.6-5.el6_2.x86_64
-#   - systemtap-sdt-devel:1.6-5.el6_2.x86_64
-#   - systemtap-server:1.6-5.el6_2.x86_64
-#   - systemtap-testsuite:1.6-5.el6_2.x86_64
+#   - systemtap.x86_64:1.6-5.el6_2
+#   - systemtap-client.x86_64:1.4-6.el6_1.2
+#   - systemtap-debuginfo.x86_64:1.6-5.el6_2
+#   - systemtap-grapher.x86_64:1.6-5.el6_2
+#   - systemtap-initscript.x86_64:1.6-5.el6_2
+#   - systemtap-runtime.x86_64:1.6-5.el6_2
+#   - systemtap-sdt-devel.x86_64:1.6-5.el6_2
+#   - systemtap-server.x86_64:1.6-5.el6_2
+#   - systemtap-testsuite.x86_64:1.6-5.el6_2
+#   - systemtap-debuginfo.i686:1.6-5.el6_2
+#   - systemtap-sdt-devel.i686:1.6-5.el6_2
 #
 # CVE List:
 #   - CVE-2011-2502
@@ -38,12 +42,14 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:1088
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install systemtap-1.6 -y 
-sudo yum install systemtap-client-1.4 -y 
-sudo yum install systemtap-debuginfo-1.6 -y 
-sudo yum install systemtap-grapher-1.6 -y 
-sudo yum install systemtap-initscript-1.6 -y 
-sudo yum install systemtap-runtime-1.6 -y 
-sudo yum install systemtap-sdt-devel-1.6 -y 
-sudo yum install systemtap-server-1.6 -y 
-sudo yum install systemtap-testsuite-1.6 -y 
+sudo yum install systemtap.x86_64-1.6 -y 
+sudo yum install systemtap-client.x86_64-1.4 -y 
+sudo yum install systemtap-debuginfo.x86_64-1.6 -y 
+sudo yum install systemtap-grapher.x86_64-1.6 -y 
+sudo yum install systemtap-initscript.x86_64-1.6 -y 
+sudo yum install systemtap-runtime.x86_64-1.6 -y 
+sudo yum install systemtap-sdt-devel.x86_64-1.6 -y 
+sudo yum install systemtap-server.x86_64-1.6 -y 
+sudo yum install systemtap-testsuite.x86_64-1.6 -y 
+sudo yum install systemtap-debuginfo.i686-1.6 -y 
+sudo yum install systemtap-sdt-devel.i686-1.6 -y 

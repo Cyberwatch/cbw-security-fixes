@@ -3,24 +3,24 @@
 # Security fix for RHSA-2012:1543
 #
 # Security announcement date: 2012-12-04 20:57:36 UTC
-# Script generation date:     2016-01-06 19:11:15 UTC
+# Script generation date:     2016-02-04 19:16:19 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - gofer:0.66.1-2.el5.noarch
-#   - gofer-package:0.66.1-2.el5.noarch
-#   - gofer-watchdog:0.66.1-2.el5.noarch
-#   - katello-agent:1.1.2-1.el5.noarch
-#   - python-gofer:0.66.1-2.el5.noarch
+#   - gofer.noarch:0.66.1-2.el5
+#   - gofer-package.noarch:0.66.1-2.el5
+#   - gofer-watchdog.noarch:0.66.1-2.el5
+#   - katello-agent.noarch:1.1.2-1.el5
+#   - python-gofer.noarch:0.66.1-2.el5
 #
 # Last versions recommanded by security team:
-#   - gofer:0.66.1-2.el5.noarch
-#   - gofer-package:0.66.1-2.el5.noarch
-#   - gofer-watchdog:0.66.1-2.el5.noarch
-#   - katello-agent:1.1.2-1.el5.noarch
-#   - python-gofer:0.66.1-2.el5.noarch
+#   - gofer.noarch:0.66.1-2.el5
+#   - gofer-package.noarch:0.66.1-2.el5
+#   - gofer-watchdog.noarch:0.66.1-2.el5
+#   - katello-agent.noarch:1.1.2-1.el5
+#   - python-gofer.noarch:0.66.1-2.el5
 #
 # CVE List:
 #   - CVE-2012-3538
@@ -32,8 +32,8 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2012:1543
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install gofer-0.66.1 -y 
-sudo yum install gofer-package-0.66.1 -y 
-sudo yum install gofer-watchdog-0.66.1 -y 
-sudo yum install katello-agent-1.1.2 -y 
-sudo yum install python-gofer-0.66.1 -y 
+sudo yum install gofer.noarch-0.66.1 -y 
+sudo yum install gofer-package.noarch-0.66.1 -y 
+sudo yum install gofer-watchdog.noarch-0.66.1 -y 
+sudo yum install katello-agent.noarch-1.1.2 -y 
+sudo yum install python-gofer.noarch-0.66.1 -y 

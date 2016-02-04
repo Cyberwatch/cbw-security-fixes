@@ -3,26 +3,36 @@
 # Security fix for RHSA-2010:0108
 #
 # Security announcement date: 2010-02-16 17:06:46 UTC
-# Script generation date:     2016-01-06 19:09:21 UTC
+# Script generation date:     2016-02-04 19:14:15 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - NetworkManager:0.7.0-9.el5_4.x86_64
-#   - NetworkManager-debuginfo:0.7.0-9.el5_4.x86_64
-#   - NetworkManager-glib:0.7.0-9.el5_4.x86_64
-#   - NetworkManager-gnome:0.7.0-9.el5_4.x86_64
-#   - NetworkManager-devel:0.7.0-9.el5_4.x86_64
-#   - NetworkManager-glib-devel:0.7.0-9.el5_4.x86_64
+#   - NetworkManager.x86_64:0.7.0-9.el5_4
+#   - NetworkManager-debuginfo.x86_64:0.7.0-9.el5_4
+#   - NetworkManager-glib.x86_64:0.7.0-9.el5_4
+#   - NetworkManager-gnome.x86_64:0.7.0-9.el5_4
+#   - NetworkManager-devel.x86_64:0.7.0-9.el5_4
+#   - NetworkManager-glib-devel.x86_64:0.7.0-9.el5_4
+#   - NetworkManager.i386:0.7.0-9.el5_4
+#   - NetworkManager-debuginfo.i386:0.7.0-9.el5_4
+#   - NetworkManager-glib.i386:0.7.0-9.el5_4
+#   - NetworkManager-devel.i386:0.7.0-9.el5_4
+#   - NetworkManager-glib-devel.i386:0.7.0-9.el5_4
 #
 # Last versions recommanded by security team:
-#   - NetworkManager:0.7.0-10.el5_5.1.x86_64
-#   - NetworkManager-debuginfo:0.7.0-10.el5_5.1.x86_64
-#   - NetworkManager-glib:0.7.0-10.el5_5.1.x86_64
-#   - NetworkManager-gnome:0.7.0-10.el5_5.1.x86_64
-#   - NetworkManager-devel:0.7.0-10.el5_5.1.x86_64
-#   - NetworkManager-glib-devel:0.7.0-10.el5_5.1.x86_64
+#   - NetworkManager.x86_64:0.7.0-10.el5_5.1
+#   - NetworkManager-debuginfo.x86_64:0.7.0-10.el5_5.1
+#   - NetworkManager-glib.x86_64:0.7.0-10.el5_5.1
+#   - NetworkManager-gnome.x86_64:0.7.0-10.el5_5.1
+#   - NetworkManager-devel.x86_64:0.7.0-10.el5_5.1
+#   - NetworkManager-glib-devel.x86_64:0.7.0-10.el5_5.1
+#   - NetworkManager.i386:0.7.0-10.el5_5.1
+#   - NetworkManager-debuginfo.i386:0.7.0-10.el5_5.1
+#   - NetworkManager-glib.i386:0.7.0-10.el5_5.1
+#   - NetworkManager-devel.i386:0.7.0-10.el5_5.1
+#   - NetworkManager-glib-devel.i386:0.7.0-10.el5_5.1
 #
 # CVE List:
 #   - CVE-2009-4144
@@ -32,9 +42,14 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2010:0108
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install NetworkManager-0.7.0 -y 
-sudo yum install NetworkManager-debuginfo-0.7.0 -y 
-sudo yum install NetworkManager-glib-0.7.0 -y 
-sudo yum install NetworkManager-gnome-0.7.0 -y 
-sudo yum install NetworkManager-devel-0.7.0 -y 
-sudo yum install NetworkManager-glib-devel-0.7.0 -y 
+sudo yum install NetworkManager.x86_64-0.7.0 -y 
+sudo yum install NetworkManager-debuginfo.x86_64-0.7.0 -y 
+sudo yum install NetworkManager-glib.x86_64-0.7.0 -y 
+sudo yum install NetworkManager-gnome.x86_64-0.7.0 -y 
+sudo yum install NetworkManager-devel.x86_64-0.7.0 -y 
+sudo yum install NetworkManager-glib-devel.x86_64-0.7.0 -y 
+sudo yum install NetworkManager.i386-0.7.0 -y 
+sudo yum install NetworkManager-debuginfo.i386-0.7.0 -y 
+sudo yum install NetworkManager-glib.i386-0.7.0 -y 
+sudo yum install NetworkManager-devel.i386-0.7.0 -y 
+sudo yum install NetworkManager-glib-devel.i386-0.7.0 -y 

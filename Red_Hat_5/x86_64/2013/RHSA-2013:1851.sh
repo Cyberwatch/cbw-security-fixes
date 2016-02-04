@@ -3,16 +3,16 @@
 # Security fix for RHSA-2013:1851
 #
 # Security announcement date: 2013-12-17 18:42:48 UTC
-# Script generation date:     2016-01-06 19:12:14 UTC
+# Script generation date:     2016-02-04 19:17:23 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - cumin:0.1.5787-4.el5.noarch
+#   - cumin.noarch:0.1.5787-4.el5
 #
 # Last versions recommanded by security team:
-#   - cumin:0.1.5796-4.el5_9.noarch
+#   - cumin.noarch:0.1.5796-4.el5_9
 #
 # CVE List:
 #   - CVE-2012-2125
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:1851
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install cumin-0.1.5796 -y 
+sudo yum install cumin.noarch-0.1.5796 -y 

@@ -3,16 +3,16 @@
 # Security fix for RHSA-2015:1092
 #
 # Security announcement date: 2015-06-11 16:34:35 UTC
-# Script generation date:     2016-01-06 19:13:55 UTC
+# Script generation date:     2016-02-04 19:19:19 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ceph-deploy:1.5.22-0.4.rc1.el6cp.noarch
+#   - ceph-deploy.noarch:1.5.22-0.4.rc1.el6cp
 #
 # Last versions recommanded by security team:
-#   - ceph-deploy:1.5.22-0.4.rc1.el6cp.noarch
+#   - ceph-deploy.noarch:1.5.22-0.4.rc1.el6cp
 #
 # CVE List:
 #   - CVE-2015-3010
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1092
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install ceph-deploy-1.5.22 -y 
+sudo yum install ceph-deploy.noarch-1.5.22 -y 

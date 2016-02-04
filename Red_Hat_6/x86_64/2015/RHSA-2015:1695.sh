@@ -3,18 +3,18 @@
 # Security fix for RHSA-2015:1695
 #
 # Security announcement date: 2015-08-31 09:20:22 UTC
-# Script generation date:     2016-01-06 19:14:17 UTC
+# Script generation date:     2016-02-04 19:19:44 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - jakarta-taglibs-standard:1.1.1-11.7.el6_7.noarch
-#   - jakarta-taglibs-standard-javadoc:1.1.1-11.7.el6_7.noarch
+#   - jakarta-taglibs-standard.noarch:1.1.1-11.7.el6_7
+#   - jakarta-taglibs-standard-javadoc.noarch:1.1.1-11.7.el6_7
 #
 # Last versions recommanded by security team:
-#   - jakarta-taglibs-standard:1.1.1-11.7.el6_7.noarch
-#   - jakarta-taglibs-standard-javadoc:1.1.1-11.7.el6_7.noarch
+#   - jakarta-taglibs-standard.noarch:1.1.1-11.7.el6_7
+#   - jakarta-taglibs-standard-javadoc.noarch:1.1.1-11.7.el6_7
 #
 # CVE List:
 #   - CVE-2015-0254
@@ -23,5 +23,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1695
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install jakarta-taglibs-standard-1.1.1 -y 
-sudo yum install jakarta-taglibs-standard-javadoc-1.1.1 -y 
+sudo yum install jakarta-taglibs-standard.noarch-1.1.1 -y 
+sudo yum install jakarta-taglibs-standard-javadoc.noarch-1.1.1 -y 

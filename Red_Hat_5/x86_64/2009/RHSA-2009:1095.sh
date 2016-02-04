@@ -3,26 +3,36 @@
 # Security fix for RHSA-2009:1095
 #
 # Security announcement date: 2009-06-11 23:22:12 UTC
-# Script generation date:     2016-01-27 07:09:41 UTC
+# Script generation date:     2016-02-04 19:13:58 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - firefox:3.0.11-2.el5_3.x86_64
-#   - firefox-debuginfo:3.0.11-2.el5_3.x86_64
-#   - xulrunner:1.9.0.11-3.el5_3.x86_64
-#   - xulrunner-debuginfo:1.9.0.11-3.el5_3.x86_64
-#   - xulrunner-devel:1.9.0.11-3.el5_3.x86_64
-#   - xulrunner-devel-unstable:1.9.0.11-3.el5_3.x86_64
+#   - firefox.x86_64:3.0.11-2.el5_3
+#   - firefox-debuginfo.x86_64:3.0.11-2.el5_3
+#   - xulrunner.x86_64:1.9.0.11-3.el5_3
+#   - xulrunner-debuginfo.x86_64:1.9.0.11-3.el5_3
+#   - xulrunner-devel.x86_64:1.9.0.11-3.el5_3
+#   - xulrunner-devel-unstable.x86_64:1.9.0.11-3.el5_3
+#   - firefox.i386:3.0.11-2.el5_3
+#   - firefox-debuginfo.i386:3.0.11-2.el5_3
+#   - xulrunner.i386:1.9.0.11-3.el5_3
+#   - xulrunner-debuginfo.i386:1.9.0.11-3.el5_3
+#   - xulrunner-devel.i386:1.9.0.11-3.el5_3
 #
 # Last versions recommanded by security team:
-#   - firefox:38.6.0-1.el5_11.x86_64
-#   - firefox-debuginfo:38.6.0-1.el5_11.x86_64
-#   - xulrunner:17.0.10-1.el5_10.x86_64
-#   - xulrunner-debuginfo:17.0.10-1.el5_10.x86_64
-#   - xulrunner-devel:17.0.10-1.el5_10.x86_64
-#   - xulrunner-devel-unstable:1.9.0.19-1.el5_5.x86_64
+#   - firefox.x86_64:38.6.0-1.el5_11
+#   - firefox-debuginfo.x86_64:38.6.0-1.el5_11
+#   - xulrunner.x86_64:17.0.10-1.el5_10
+#   - xulrunner-debuginfo.x86_64:17.0.10-1.el5_10
+#   - xulrunner-devel.x86_64:17.0.10-1.el5_10
+#   - xulrunner-devel-unstable.x86_64:1.9.0.19-1.el5_5
+#   - firefox.i386:38.6.0-1.el5_11
+#   - firefox-debuginfo.i386:38.6.0-1.el5_11
+#   - xulrunner.i386:17.0.10-1.el5_10
+#   - xulrunner-debuginfo.i386:17.0.10-1.el5_10
+#   - xulrunner-devel.i386:17.0.10-1.el5_10
 #
 # CVE List:
 #   - CVE-2009-1392
@@ -41,9 +51,14 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2009:1095
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox-38.6.0 -y 
-sudo yum install firefox-debuginfo-38.6.0 -y 
-sudo yum install xulrunner-17.0.10 -y 
-sudo yum install xulrunner-debuginfo-17.0.10 -y 
-sudo yum install xulrunner-devel-17.0.10 -y 
-sudo yum install xulrunner-devel-unstable-1.9.0.19 -y 
+sudo yum install firefox.x86_64-38.6.0 -y 
+sudo yum install firefox-debuginfo.x86_64-38.6.0 -y 
+sudo yum install xulrunner.x86_64-17.0.10 -y 
+sudo yum install xulrunner-debuginfo.x86_64-17.0.10 -y 
+sudo yum install xulrunner-devel.x86_64-17.0.10 -y 
+sudo yum install xulrunner-devel-unstable.x86_64-1.9.0.19 -y 
+sudo yum install firefox.i386-38.6.0 -y 
+sudo yum install firefox-debuginfo.i386-38.6.0 -y 
+sudo yum install xulrunner.i386-17.0.10 -y 
+sudo yum install xulrunner-debuginfo.i386-17.0.10 -y 
+sudo yum install xulrunner-devel.i386-17.0.10 -y 

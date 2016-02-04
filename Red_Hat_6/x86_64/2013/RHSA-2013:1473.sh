@@ -3,20 +3,20 @@
 # Security fix for RHSA-2013:1473
 #
 # Security announcement date: 2013-10-29 21:18:27 UTC
-# Script generation date:     2016-01-06 19:12:02 UTC
+# Script generation date:     2016-02-04 19:17:07 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - spice-server:0.12.0-12.el6_4.5.x86_64
-#   - spice-server-debuginfo:0.12.0-12.el6_4.5.x86_64
-#   - spice-server-devel:0.12.0-12.el6_4.5.x86_64
+#   - spice-server.x86_64:0.12.0-12.el6_4.5
+#   - spice-server-debuginfo.x86_64:0.12.0-12.el6_4.5
+#   - spice-server-devel.x86_64:0.12.0-12.el6_4.5
 #
 # Last versions recommanded by security team:
-#   - spice-server:0.12.4-12.el6_7.3.x86_64
-#   - spice-server-debuginfo:0.12.4-12.el6_7.3.x86_64
-#   - spice-server-devel:0.12.4-12.el6_7.3.x86_64
+#   - spice-server.x86_64:0.12.4-12.el6_7.3
+#   - spice-server-debuginfo.x86_64:0.12.4-12.el6_7.3
+#   - spice-server-devel.x86_64:0.12.4-12.el6_7.3
 #
 # CVE List:
 #   - CVE-2013-4282
@@ -25,6 +25,6 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:1473
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install spice-server-0.12.4 -y 
-sudo yum install spice-server-debuginfo-0.12.4 -y 
-sudo yum install spice-server-devel-0.12.4 -y 
+sudo yum install spice-server.x86_64-0.12.4 -y 
+sudo yum install spice-server-debuginfo.x86_64-0.12.4 -y 
+sudo yum install spice-server-devel.x86_64-0.12.4 -y 

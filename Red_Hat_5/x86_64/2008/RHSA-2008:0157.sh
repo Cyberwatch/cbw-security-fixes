@@ -3,24 +3,30 @@
 # Security fix for RHSA-2008:0157
 #
 # Security announcement date: 2008-02-21 21:32:36 UTC
-# Script generation date:     2016-01-06 19:08:40 UTC
+# Script generation date:     2016-02-04 19:13:29 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - cups:1.2.4-11.14.el5_1.4.x86_64
-#   - cups-debuginfo:1.2.4-11.14.el5_1.4.x86_64
-#   - cups-libs:1.2.4-11.14.el5_1.4.x86_64
-#   - cups-lpd:1.2.4-11.14.el5_1.4.x86_64
-#   - cups-devel:1.2.4-11.14.el5_1.4.x86_64
+#   - cups.x86_64:1.2.4-11.14.el5_1.4
+#   - cups-debuginfo.x86_64:1.2.4-11.14.el5_1.4
+#   - cups-libs.x86_64:1.2.4-11.14.el5_1.4
+#   - cups-lpd.x86_64:1.2.4-11.14.el5_1.4
+#   - cups-devel.x86_64:1.2.4-11.14.el5_1.4
+#   - cups-debuginfo.i386:1.2.4-11.14.el5_1.4
+#   - cups-libs.i386:1.2.4-11.14.el5_1.4
+#   - cups-devel.i386:1.2.4-11.14.el5_1.4
 #
 # Last versions recommanded by security team:
-#   - cups:1.3.7-30.el5.x86_64
-#   - cups-debuginfo:1.3.7-30.el5.x86_64
-#   - cups-libs:1.3.7-30.el5.x86_64
-#   - cups-lpd:1.3.7-30.el5.x86_64
-#   - cups-devel:1.3.7-30.el5.x86_64
+#   - cups.x86_64:1.3.7-30.el5
+#   - cups-debuginfo.x86_64:1.3.7-30.el5
+#   - cups-libs.x86_64:1.3.7-30.el5
+#   - cups-lpd.x86_64:1.3.7-30.el5
+#   - cups-devel.x86_64:1.3.7-30.el5
+#   - cups-debuginfo.i386:1.3.7-30.el5
+#   - cups-libs.i386:1.3.7-30.el5
+#   - cups-devel.i386:1.3.7-30.el5
 #
 # CVE List:
 #   - CVE-2008-0882
@@ -29,8 +35,11 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2008:0157
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install cups-1.3.7 -y 
-sudo yum install cups-debuginfo-1.3.7 -y 
-sudo yum install cups-libs-1.3.7 -y 
-sudo yum install cups-lpd-1.3.7 -y 
-sudo yum install cups-devel-1.3.7 -y 
+sudo yum install cups.x86_64-1.3.7 -y 
+sudo yum install cups-debuginfo.x86_64-1.3.7 -y 
+sudo yum install cups-libs.x86_64-1.3.7 -y 
+sudo yum install cups-lpd.x86_64-1.3.7 -y 
+sudo yum install cups-devel.x86_64-1.3.7 -y 
+sudo yum install cups-debuginfo.i386-1.3.7 -y 
+sudo yum install cups-libs.i386-1.3.7 -y 
+sudo yum install cups-devel.i386-1.3.7 -y 

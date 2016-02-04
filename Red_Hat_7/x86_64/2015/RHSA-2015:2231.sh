@@ -3,26 +3,26 @@
 # Security fix for RHSA-2015:2231
 #
 # Security announcement date: 2015-11-19 21:38:21 UTC
-# Script generation date:     2016-01-25 19:13:37 UTC
+# Script generation date:     2016-02-04 19:19:59 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ntp:4.2.6p5-22.el7.x86_64
-#   - ntp-debuginfo:4.2.6p5-22.el7.x86_64
-#   - ntpdate:4.2.6p5-22.el7.x86_64
-#   - ntp-doc:4.2.6p5-22.el7.noarch
-#   - ntp-perl:4.2.6p5-22.el7.noarch
-#   - sntp:4.2.6p5-22.el7.x86_64
+#   - ntp.x86_64:4.2.6p5-22.el7
+#   - ntp-debuginfo.x86_64:4.2.6p5-22.el7
+#   - ntpdate.x86_64:4.2.6p5-22.el7
+#   - ntp-doc.noarch:4.2.6p5-22.el7
+#   - ntp-perl.noarch:4.2.6p5-22.el7
+#   - sntp.x86_64:4.2.6p5-22.el7
 #
 # Last versions recommanded by security team:
-#   - ntp:4.2.6p5-22.el7_2.1.x86_64
-#   - ntp-debuginfo:4.2.6p5-22.el7_2.1.x86_64
-#   - ntpdate:4.2.6p5-22.el7_2.1.x86_64
-#   - ntp-doc:4.2.6p5-22.el7_2.1.noarch
-#   - ntp-perl:4.2.6p5-22.el7_2.1.noarch
-#   - sntp:4.2.6p5-22.el7_2.1.x86_64
+#   - ntp.x86_64:4.2.6p5-22.el7_2.1
+#   - ntp-debuginfo.x86_64:4.2.6p5-22.el7_2.1
+#   - ntpdate.x86_64:4.2.6p5-22.el7_2.1
+#   - ntp-doc.noarch:4.2.6p5-22.el7_2.1
+#   - ntp-perl.noarch:4.2.6p5-22.el7_2.1
+#   - sntp.x86_64:4.2.6p5-22.el7_2.1
 #
 # CVE List:
 #   - CVE-2014-9297
@@ -37,9 +37,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:2231
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install ntp-4.2.6p5 -y 
-sudo yum install ntp-debuginfo-4.2.6p5 -y 
-sudo yum install ntpdate-4.2.6p5 -y 
-sudo yum install ntp-doc-4.2.6p5 -y 
-sudo yum install ntp-perl-4.2.6p5 -y 
-sudo yum install sntp-4.2.6p5 -y 
+sudo yum install ntp.x86_64-4.2.6p5 -y 
+sudo yum install ntp-debuginfo.x86_64-4.2.6p5 -y 
+sudo yum install ntpdate.x86_64-4.2.6p5 -y 
+sudo yum install ntp-doc.noarch-4.2.6p5 -y 
+sudo yum install ntp-perl.noarch-4.2.6p5 -y 
+sudo yum install sntp.x86_64-4.2.6p5 -y 

@@ -3,26 +3,30 @@
 # Security fix for RHSA-2016:0056
 #
 # Security announcement date: 2016-01-21 12:40:50 UTC
-# Script generation date:     2016-01-23 19:17:39 UTC
+# Script generation date:     2016-02-04 19:20:43 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - java-1.7.0-oracle:1.7.0.95-1jpp.2.el7.x86_64
-#   - java-1.7.0-oracle-devel:1.7.0.95-1jpp.2.el7.x86_64
-#   - java-1.7.0-oracle-javafx:1.7.0.95-1jpp.2.el7.x86_64
-#   - java-1.7.0-oracle-jdbc:1.7.0.95-1jpp.2.el7.x86_64
-#   - java-1.7.0-oracle-plugin:1.7.0.95-1jpp.2.el7.x86_64
-#   - java-1.7.0-oracle-src:1.7.0.95-1jpp.2.el7.x86_64
+#   - java-1.7.0-oracle.x86_64:1.7.0.95-1jpp.2.el7
+#   - java-1.7.0-oracle-devel.x86_64:1.7.0.95-1jpp.2.el7
+#   - java-1.7.0-oracle-javafx.x86_64:1.7.0.95-1jpp.2.el7
+#   - java-1.7.0-oracle-jdbc.x86_64:1.7.0.95-1jpp.2.el7
+#   - java-1.7.0-oracle-plugin.x86_64:1.7.0.95-1jpp.2.el7
+#   - java-1.7.0-oracle-src.x86_64:1.7.0.95-1jpp.2.el7
+#   - java-1.7.0-oracle.i686:1.7.0.95-1jpp.2.el7
+#   - java-1.7.0-oracle-devel.i686:1.7.0.95-1jpp.2.el7
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-oracle:1.7.0.95-1jpp.2.el7.x86_64
-#   - java-1.7.0-oracle-devel:1.7.0.95-1jpp.2.el7.x86_64
-#   - java-1.7.0-oracle-javafx:1.7.0.95-1jpp.2.el7.x86_64
-#   - java-1.7.0-oracle-jdbc:1.7.0.95-1jpp.2.el7.x86_64
-#   - java-1.7.0-oracle-plugin:1.7.0.95-1jpp.2.el7.x86_64
-#   - java-1.7.0-oracle-src:1.7.0.95-1jpp.2.el7.x86_64
+#   - java-1.7.0-oracle.x86_64:1.7.0.95-1jpp.2.el7
+#   - java-1.7.0-oracle-devel.x86_64:1.7.0.95-1jpp.2.el7
+#   - java-1.7.0-oracle-javafx.x86_64:1.7.0.95-1jpp.2.el7
+#   - java-1.7.0-oracle-jdbc.x86_64:1.7.0.95-1jpp.2.el7
+#   - java-1.7.0-oracle-plugin.x86_64:1.7.0.95-1jpp.2.el7
+#   - java-1.7.0-oracle-src.x86_64:1.7.0.95-1jpp.2.el7
+#   - java-1.7.0-oracle.i686:1.7.0.95-1jpp.2.el7
+#   - java-1.7.0-oracle-devel.i686:1.7.0.95-1jpp.2.el7
 #
 # CVE List:
 #   - CVE-2015-7575
@@ -38,9 +42,11 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2016:0056
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.0-oracle-1.7.0.95 -y 
-sudo yum install java-1.7.0-oracle-devel-1.7.0.95 -y 
-sudo yum install java-1.7.0-oracle-javafx-1.7.0.95 -y 
-sudo yum install java-1.7.0-oracle-jdbc-1.7.0.95 -y 
-sudo yum install java-1.7.0-oracle-plugin-1.7.0.95 -y 
-sudo yum install java-1.7.0-oracle-src-1.7.0.95 -y 
+sudo yum install java-1.7.0-oracle.x86_64-1.7.0.95 -y 
+sudo yum install java-1.7.0-oracle-devel.x86_64-1.7.0.95 -y 
+sudo yum install java-1.7.0-oracle-javafx.x86_64-1.7.0.95 -y 
+sudo yum install java-1.7.0-oracle-jdbc.x86_64-1.7.0.95 -y 
+sudo yum install java-1.7.0-oracle-plugin.x86_64-1.7.0.95 -y 
+sudo yum install java-1.7.0-oracle-src.x86_64-1.7.0.95 -y 
+sudo yum install java-1.7.0-oracle.i686-1.7.0.95 -y 
+sudo yum install java-1.7.0-oracle-devel.i686-1.7.0.95 -y 

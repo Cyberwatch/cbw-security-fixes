@@ -3,22 +3,30 @@
 # Security fix for RHSA-2015:2151
 #
 # Security announcement date: 2015-11-19 21:34:02 UTC
-# Script generation date:     2016-01-06 19:14:29 UTC
+# Script generation date:     2016-02-04 19:19:58 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - xfsprogs:3.2.2-2.el7.x86_64
-#   - xfsprogs-debuginfo:3.2.2-2.el7.x86_64
-#   - xfsprogs-devel:3.2.2-2.el7.x86_64
-#   - xfsprogs-qa-devel:3.2.2-2.el7.x86_64
+#   - xfsprogs.x86_64:3.2.2-2.el7
+#   - xfsprogs-debuginfo.x86_64:3.2.2-2.el7
+#   - xfsprogs-devel.x86_64:3.2.2-2.el7
+#   - xfsprogs-qa-devel.x86_64:3.2.2-2.el7
+#   - xfsprogs.i686:3.2.2-2.el7
+#   - xfsprogs-debuginfo.i686:3.2.2-2.el7
+#   - xfsprogs-devel.i686:3.2.2-2.el7
+#   - xfsprogs-qa-devel.i686:3.2.2-2.el7
 #
 # Last versions recommanded by security team:
-#   - xfsprogs:3.2.2-2.el7.x86_64
-#   - xfsprogs-debuginfo:3.2.2-2.el7.x86_64
-#   - xfsprogs-devel:3.2.2-2.el7.x86_64
-#   - xfsprogs-qa-devel:3.2.2-2.el7.x86_64
+#   - xfsprogs.x86_64:3.2.2-2.el7
+#   - xfsprogs-debuginfo.x86_64:3.2.2-2.el7
+#   - xfsprogs-devel.x86_64:3.2.2-2.el7
+#   - xfsprogs-qa-devel.x86_64:3.2.2-2.el7
+#   - xfsprogs.i686:3.2.2-2.el7
+#   - xfsprogs-debuginfo.i686:3.2.2-2.el7
+#   - xfsprogs-devel.i686:3.2.2-2.el7
+#   - xfsprogs-qa-devel.i686:3.2.2-2.el7
 #
 # CVE List:
 #   - CVE-2012-2150
@@ -27,7 +35,11 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:2151
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install xfsprogs-3.2.2 -y 
-sudo yum install xfsprogs-debuginfo-3.2.2 -y 
-sudo yum install xfsprogs-devel-3.2.2 -y 
-sudo yum install xfsprogs-qa-devel-3.2.2 -y 
+sudo yum install xfsprogs.x86_64-3.2.2 -y 
+sudo yum install xfsprogs-debuginfo.x86_64-3.2.2 -y 
+sudo yum install xfsprogs-devel.x86_64-3.2.2 -y 
+sudo yum install xfsprogs-qa-devel.x86_64-3.2.2 -y 
+sudo yum install xfsprogs.i686-3.2.2 -y 
+sudo yum install xfsprogs-debuginfo.i686-3.2.2 -y 
+sudo yum install xfsprogs-devel.i686-3.2.2 -y 
+sudo yum install xfsprogs-qa-devel.i686-3.2.2 -y 

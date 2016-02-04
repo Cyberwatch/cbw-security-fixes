@@ -3,32 +3,32 @@
 # Security fix for RHSA-2012:1169
 #
 # Security announcement date: 2012-08-14 18:15:46 UTC
-# Script generation date:     2016-01-06 19:11:06 UTC
+# Script generation date:     2016-02-04 19:16:08 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - condor:7.6.5-0.14.2.el6_3.x86_64
-#   - condor-classads:7.6.5-0.14.2.el6_3.x86_64
-#   - condor-debuginfo:7.6.5-0.14.2.el6_3.x86_64
-#   - condor-kbdd:7.6.5-0.14.2.el6_3.x86_64
-#   - condor-qmf:7.6.5-0.14.2.el6_3.x86_64
-#   - condor-vm-gahp:7.6.5-0.14.2.el6_3.x86_64
-#   - condor-aviary:7.6.5-0.14.2.el6_3.x86_64
-#   - condor-deltacloud-gahp:7.6.5-0.14.2.el6_3.x86_64
-#   - condor-plumage:7.6.5-0.14.2.el6_3.x86_64
+#   - condor.x86_64:7.6.5-0.14.2.el6_3
+#   - condor-classads.x86_64:7.6.5-0.14.2.el6_3
+#   - condor-debuginfo.x86_64:7.6.5-0.14.2.el6_3
+#   - condor-kbdd.x86_64:7.6.5-0.14.2.el6_3
+#   - condor-qmf.x86_64:7.6.5-0.14.2.el6_3
+#   - condor-vm-gahp.x86_64:7.6.5-0.14.2.el6_3
+#   - condor-aviary.x86_64:7.6.5-0.14.2.el6_3
+#   - condor-deltacloud-gahp.x86_64:7.6.5-0.14.2.el6_3
+#   - condor-plumage.x86_64:7.6.5-0.14.2.el6_3
 #
 # Last versions recommanded by security team:
-#   - condor:7.8.10-0.2.el6.x86_64
-#   - condor-classads:7.8.10-0.2.el6.x86_64
-#   - condor-debuginfo:7.8.10-0.2.el6.x86_64
-#   - condor-kbdd:7.8.10-0.2.el6.x86_64
-#   - condor-qmf:7.8.10-0.2.el6.x86_64
-#   - condor-vm-gahp:7.8.10-0.2.el6.x86_64
-#   - condor-aviary:7.8.10-0.2.el6.x86_64
-#   - condor-deltacloud-gahp:7.8.10-0.2.el6.x86_64
-#   - condor-plumage:7.8.10-0.2.el6.x86_64
+#   - condor.x86_64:7.8.10-0.2.el6
+#   - condor-classads.x86_64:7.8.10-0.2.el6
+#   - condor-debuginfo.x86_64:7.8.10-0.2.el6
+#   - condor-kbdd.x86_64:7.8.10-0.2.el6
+#   - condor-qmf.x86_64:7.8.10-0.2.el6
+#   - condor-vm-gahp.x86_64:7.8.10-0.2.el6
+#   - condor-aviary.x86_64:7.8.10-0.2.el6
+#   - condor-deltacloud-gahp.x86_64:7.8.10-0.2.el6
+#   - condor-plumage.x86_64:7.8.10-0.2.el6
 #
 # CVE List:
 #   - CVE-2012-3416
@@ -37,12 +37,12 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2012:1169
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install condor-7.8.10 -y 
-sudo yum install condor-classads-7.8.10 -y 
-sudo yum install condor-debuginfo-7.8.10 -y 
-sudo yum install condor-kbdd-7.8.10 -y 
-sudo yum install condor-qmf-7.8.10 -y 
-sudo yum install condor-vm-gahp-7.8.10 -y 
-sudo yum install condor-aviary-7.8.10 -y 
-sudo yum install condor-deltacloud-gahp-7.8.10 -y 
-sudo yum install condor-plumage-7.8.10 -y 
+sudo yum install condor.x86_64-7.8.10 -y 
+sudo yum install condor-classads.x86_64-7.8.10 -y 
+sudo yum install condor-debuginfo.x86_64-7.8.10 -y 
+sudo yum install condor-kbdd.x86_64-7.8.10 -y 
+sudo yum install condor-qmf.x86_64-7.8.10 -y 
+sudo yum install condor-vm-gahp.x86_64-7.8.10 -y 
+sudo yum install condor-aviary.x86_64-7.8.10 -y 
+sudo yum install condor-deltacloud-gahp.x86_64-7.8.10 -y 
+sudo yum install condor-plumage.x86_64-7.8.10 -y 

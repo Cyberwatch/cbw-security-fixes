@@ -3,24 +3,24 @@
 # Security fix for RHSA-2015:0104
 #
 # Security announcement date: 2015-01-28 19:18:04 UTC
-# Script generation date:     2016-01-25 19:12:38 UTC
+# Script generation date:     2016-02-04 19:18:50 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ntp:4.2.6p5-2.el6_5.x86_64
-#   - ntp-debuginfo:4.2.6p5-2.el6_5.x86_64
-#   - ntpdate:4.2.6p5-2.el6_5.x86_64
-#   - ntp-doc:4.2.6p5-2.el6_5.noarch
-#   - ntp-perl:4.2.6p5-2.el6_5.x86_64
+#   - ntp.x86_64:4.2.6p5-2.el6_5
+#   - ntp-debuginfo.x86_64:4.2.6p5-2.el6_5
+#   - ntpdate.x86_64:4.2.6p5-2.el6_5
+#   - ntp-doc.noarch:4.2.6p5-2.el6_5
+#   - ntp-perl.x86_64:4.2.6p5-2.el6_5
 #
 # Last versions recommanded by security team:
-#   - ntp:4.2.6p5-5.el6_7.4.x86_64
-#   - ntp-debuginfo:4.2.6p5-5.el6_7.4.x86_64
-#   - ntpdate:4.2.6p5-5.el6_7.4.x86_64
-#   - ntp-doc:4.2.6p5-5.el6_7.4.noarch
-#   - ntp-perl:4.2.6p5-5.el6_7.4.x86_64
+#   - ntp.x86_64:4.2.6p5-5.el6_7.4
+#   - ntp-debuginfo.x86_64:4.2.6p5-5.el6_7.4
+#   - ntpdate.x86_64:4.2.6p5-5.el6_7.4
+#   - ntp-doc.noarch:4.2.6p5-5.el6_7.4
+#   - ntp-perl.x86_64:4.2.6p5-5.el6_7.4
 #
 # CVE List:
 #   - CVE-2014-9293
@@ -32,8 +32,8 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:0104
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install ntp-4.2.6p5 -y 
-sudo yum install ntp-debuginfo-4.2.6p5 -y 
-sudo yum install ntpdate-4.2.6p5 -y 
-sudo yum install ntp-doc-4.2.6p5 -y 
-sudo yum install ntp-perl-4.2.6p5 -y 
+sudo yum install ntp.x86_64-4.2.6p5 -y 
+sudo yum install ntp-debuginfo.x86_64-4.2.6p5 -y 
+sudo yum install ntpdate.x86_64-4.2.6p5 -y 
+sudo yum install ntp-doc.noarch-4.2.6p5 -y 
+sudo yum install ntp-perl.x86_64-4.2.6p5 -y 

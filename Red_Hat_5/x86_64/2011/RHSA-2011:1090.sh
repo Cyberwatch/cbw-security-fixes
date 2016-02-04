@@ -3,16 +3,16 @@
 # Security fix for RHSA-2011:1090
 #
 # Security announcement date: 2011-07-27 14:51:51 UTC
-# Script generation date:     2016-01-06 19:10:24 UTC
+# Script generation date:     2016-02-04 19:15:20 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rhev-hypervisor:5.7-20110725.1.el5.noarch
+#   - rhev-hypervisor.noarch:5.7-20110725.1.el5
 #
 # Last versions recommanded by security team:
-#   - rhev-hypervisor:5.7-20111018.1.el5_7.noarch
+#   - rhev-hypervisor.noarch:5.7-20111018.1.el5_7
 #
 # CVE List:
 #   - CVE-2011-1576
@@ -42,4 +42,4 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:1090
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install rhev-hypervisor-5.7 -y 
+sudo yum install rhev-hypervisor.noarch-5.7 -y 

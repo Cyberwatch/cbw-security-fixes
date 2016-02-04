@@ -3,30 +3,30 @@
 # Security fix for RHSA-2015:0728
 #
 # Security announcement date: 2015-03-26 17:08:51 UTC
-# Script generation date:     2016-01-06 19:13:38 UTC
+# Script generation date:     2016-02-04 19:19:03 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ipa-client:4.1.0-18.el7_1.3.x86_64
-#   - ipa-debuginfo:4.1.0-18.el7_1.3.x86_64
-#   - ipa-python:4.1.0-18.el7_1.3.x86_64
-#   - ipa-admintools:4.1.0-18.el7_1.3.x86_64
-#   - ipa-server:4.1.0-18.el7_1.3.x86_64
-#   - ipa-server-trust-ad:4.1.0-18.el7_1.3.x86_64
-#   - slapi-nis:0.54-3.el7_1.x86_64
-#   - slapi-nis-debuginfo:0.54-3.el7_1.x86_64
+#   - ipa-client.x86_64:4.1.0-18.el7_1.3
+#   - ipa-debuginfo.x86_64:4.1.0-18.el7_1.3
+#   - ipa-python.x86_64:4.1.0-18.el7_1.3
+#   - ipa-admintools.x86_64:4.1.0-18.el7_1.3
+#   - ipa-server.x86_64:4.1.0-18.el7_1.3
+#   - ipa-server-trust-ad.x86_64:4.1.0-18.el7_1.3
+#   - slapi-nis.x86_64:0.54-3.el7_1
+#   - slapi-nis-debuginfo.x86_64:0.54-3.el7_1
 #
 # Last versions recommanded by security team:
-#   - ipa-client:4.1.0-18.el7_1.3.x86_64
-#   - ipa-debuginfo:4.1.0-18.el7_1.3.x86_64
-#   - ipa-python:4.1.0-18.el7_1.3.x86_64
-#   - ipa-admintools:4.1.0-18.el7_1.3.x86_64
-#   - ipa-server:4.1.0-18.el7_1.3.x86_64
-#   - ipa-server-trust-ad:4.1.0-18.el7_1.3.x86_64
-#   - slapi-nis:0.54-3.el7_1.x86_64
-#   - slapi-nis-debuginfo:0.54-3.el7_1.x86_64
+#   - ipa-client.x86_64:4.1.0-18.el7_1.3
+#   - ipa-debuginfo.x86_64:4.1.0-18.el7_1.3
+#   - ipa-python.x86_64:4.1.0-18.el7_1.3
+#   - ipa-admintools.x86_64:4.1.0-18.el7_1.3
+#   - ipa-server.x86_64:4.1.0-18.el7_1.3
+#   - ipa-server-trust-ad.x86_64:4.1.0-18.el7_1.3
+#   - slapi-nis.x86_64:0.54-3.el7_1
+#   - slapi-nis-debuginfo.x86_64:0.54-3.el7_1
 #
 # CVE List:
 #   - CVE-2015-0283
@@ -36,11 +36,11 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:0728
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install ipa-client-4.1.0 -y 
-sudo yum install ipa-debuginfo-4.1.0 -y 
-sudo yum install ipa-python-4.1.0 -y 
-sudo yum install ipa-admintools-4.1.0 -y 
-sudo yum install ipa-server-4.1.0 -y 
-sudo yum install ipa-server-trust-ad-4.1.0 -y 
-sudo yum install slapi-nis-0.54 -y 
-sudo yum install slapi-nis-debuginfo-0.54 -y 
+sudo yum install ipa-client.x86_64-4.1.0 -y 
+sudo yum install ipa-debuginfo.x86_64-4.1.0 -y 
+sudo yum install ipa-python.x86_64-4.1.0 -y 
+sudo yum install ipa-admintools.x86_64-4.1.0 -y 
+sudo yum install ipa-server.x86_64-4.1.0 -y 
+sudo yum install ipa-server-trust-ad.x86_64-4.1.0 -y 
+sudo yum install slapi-nis.x86_64-0.54 -y 
+sudo yum install slapi-nis-debuginfo.x86_64-0.54 -y 

@@ -3,18 +3,18 @@
 # Security fix for RHSA-2013:1196
 #
 # Security announcement date: 2013-09-03 20:42:50 UTC
-# Script generation date:     2016-01-06 19:11:56 UTC
+# Script generation date:     2016-02-04 19:17:00 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ruby193-foreman:1.1.10014-1.2.el6ost.noarch
-#   - ruby193-foreman-mysql:1.1.10014-1.2.el6ost.noarch
+#   - ruby193-foreman.noarch:1.1.10014-1.2.el6ost
+#   - ruby193-foreman-mysql.noarch:1.1.10014-1.2.el6ost
 #
 # Last versions recommanded by security team:
-#   - ruby193-foreman:1.1.10014-1.3.el6ost.noarch
-#   - ruby193-foreman-mysql:1.1.10014-1.3.el6ost.noarch
+#   - ruby193-foreman.noarch:1.1.10014-1.3.el6ost
+#   - ruby193-foreman-mysql.noarch:1.1.10014-1.3.el6ost
 #
 # CVE List:
 #   - CVE-2013-4180
@@ -24,5 +24,5 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:1196
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install ruby193-foreman-1.1.10014 -y 
-sudo yum install ruby193-foreman-mysql-1.1.10014 -y 
+sudo yum install ruby193-foreman.noarch-1.1.10014 -y 
+sudo yum install ruby193-foreman-mysql.noarch-1.1.10014 -y 

@@ -3,24 +3,34 @@
 # Security fix for RHSA-2015:1699
 #
 # Security announcement date: 2015-09-01 07:47:44 UTC
-# Script generation date:     2016-01-06 19:14:17 UTC
+# Script generation date:     2016-02-04 19:19:45 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - nss-softokn:3.16.2.3-13.el7_1.x86_64
-#   - nss-softokn-debuginfo:3.16.2.3-13.el7_1.x86_64
-#   - nss-softokn-freebl:3.16.2.3-13.el7_1.x86_64
-#   - nss-softokn-devel:3.16.2.3-13.el7_1.x86_64
-#   - nss-softokn-freebl-devel:3.16.2.3-13.el7_1.x86_64
+#   - nss-softokn.x86_64:3.16.2.3-13.el7_1
+#   - nss-softokn-debuginfo.x86_64:3.16.2.3-13.el7_1
+#   - nss-softokn-freebl.x86_64:3.16.2.3-13.el7_1
+#   - nss-softokn-devel.x86_64:3.16.2.3-13.el7_1
+#   - nss-softokn-freebl-devel.x86_64:3.16.2.3-13.el7_1
+#   - nss-softokn.i686:3.16.2.3-13.el7_1
+#   - nss-softokn-debuginfo.i686:3.16.2.3-13.el7_1
+#   - nss-softokn-freebl.i686:3.16.2.3-13.el7_1
+#   - nss-softokn-devel.i686:3.16.2.3-13.el7_1
+#   - nss-softokn-freebl-devel.i686:3.16.2.3-13.el7_1
 #
 # Last versions recommanded by security team:
-#   - nss-softokn:3.16.2.3-13.el7_1.x86_64
-#   - nss-softokn-debuginfo:3.16.2.3-13.el7_1.x86_64
-#   - nss-softokn-freebl:3.16.2.3-13.el7_1.x86_64
-#   - nss-softokn-devel:3.16.2.3-13.el7_1.x86_64
-#   - nss-softokn-freebl-devel:3.16.2.3-13.el7_1.x86_64
+#   - nss-softokn.x86_64:3.16.2.3-13.el7_1
+#   - nss-softokn-debuginfo.x86_64:3.16.2.3-13.el7_1
+#   - nss-softokn-freebl.x86_64:3.16.2.3-13.el7_1
+#   - nss-softokn-devel.x86_64:3.16.2.3-13.el7_1
+#   - nss-softokn-freebl-devel.x86_64:3.16.2.3-13.el7_1
+#   - nss-softokn.i686:3.16.2.3-13.el7_1
+#   - nss-softokn-debuginfo.i686:3.16.2.3-13.el7_1
+#   - nss-softokn-freebl.i686:3.16.2.3-13.el7_1
+#   - nss-softokn-devel.i686:3.16.2.3-13.el7_1
+#   - nss-softokn-freebl-devel.i686:3.16.2.3-13.el7_1
 #
 # CVE List:
 #   - CVE-2015-2730
@@ -29,8 +39,13 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1699
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install nss-softokn-3.16.2.3 -y 
-sudo yum install nss-softokn-debuginfo-3.16.2.3 -y 
-sudo yum install nss-softokn-freebl-3.16.2.3 -y 
-sudo yum install nss-softokn-devel-3.16.2.3 -y 
-sudo yum install nss-softokn-freebl-devel-3.16.2.3 -y 
+sudo yum install nss-softokn.x86_64-3.16.2.3 -y 
+sudo yum install nss-softokn-debuginfo.x86_64-3.16.2.3 -y 
+sudo yum install nss-softokn-freebl.x86_64-3.16.2.3 -y 
+sudo yum install nss-softokn-devel.x86_64-3.16.2.3 -y 
+sudo yum install nss-softokn-freebl-devel.x86_64-3.16.2.3 -y 
+sudo yum install nss-softokn.i686-3.16.2.3 -y 
+sudo yum install nss-softokn-debuginfo.i686-3.16.2.3 -y 
+sudo yum install nss-softokn-freebl.i686-3.16.2.3 -y 
+sudo yum install nss-softokn-devel.i686-3.16.2.3 -y 
+sudo yum install nss-softokn-freebl-devel.i686-3.16.2.3 -y 

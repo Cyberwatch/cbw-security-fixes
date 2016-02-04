@@ -3,16 +3,16 @@
 # Security fix for RHSA-2014:1168
 #
 # Security announcement date: 2014-09-09 19:13:23 UTC
-# Script generation date:     2016-01-06 19:12:52 UTC
+# Script generation date:     2016-02-04 19:18:08 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - rhev-hypervisor6:6.5-20140821.1.el6ev.noarch
+#   - rhev-hypervisor6.noarch:6.5-20140821.1.el6ev
 #
 # Last versions recommanded by security team:
-#   - rhev-hypervisor6:6.7-20150828.0.el6ev.noarch
+#   - rhev-hypervisor6.noarch:6.7-20150828.0.el6ev
 #
 # CVE List:
 #   - CVE-2014-0222
@@ -34,4 +34,4 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:1168
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install rhev-hypervisor6-6.7 -y 
+sudo yum install rhev-hypervisor6.noarch-6.7 -y 

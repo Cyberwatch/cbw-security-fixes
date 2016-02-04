@@ -3,68 +3,68 @@
 # Security fix for RHSA-2011:1423
 #
 # Security announcement date: 2011-11-02 22:32:38 UTC
-# Script generation date:     2016-01-06 19:10:32 UTC
+# Script generation date:     2016-02-04 19:15:29 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - php:5.3.3-3.el6_1.3.x86_64
-#   - php-bcmath:5.3.3-3.el6_1.3.x86_64
-#   - php-cli:5.3.3-3.el6_1.3.x86_64
-#   - php-common:5.3.3-3.el6_1.3.x86_64
-#   - php-dba:5.3.3-3.el6_1.3.x86_64
-#   - php-debuginfo:5.3.3-3.el6_1.3.x86_64
-#   - php-devel:5.3.3-3.el6_1.3.x86_64
-#   - php-embedded:5.3.3-3.el6_1.3.x86_64
-#   - php-enchant:5.3.3-3.el6_1.3.x86_64
-#   - php-gd:5.3.3-3.el6_1.3.x86_64
-#   - php-imap:5.3.3-3.el6_1.3.x86_64
-#   - php-intl:5.3.3-3.el6_1.3.x86_64
-#   - php-ldap:5.3.3-3.el6_1.3.x86_64
-#   - php-mbstring:5.3.3-3.el6_1.3.x86_64
-#   - php-mysql:5.3.3-3.el6_1.3.x86_64
-#   - php-odbc:5.3.3-3.el6_1.3.x86_64
-#   - php-pdo:5.3.3-3.el6_1.3.x86_64
-#   - php-pgsql:5.3.3-3.el6_1.3.x86_64
-#   - php-process:5.3.3-3.el6_1.3.x86_64
-#   - php-pspell:5.3.3-3.el6_1.3.x86_64
-#   - php-recode:5.3.3-3.el6_1.3.x86_64
-#   - php-snmp:5.3.3-3.el6_1.3.x86_64
-#   - php-soap:5.3.3-3.el6_1.3.x86_64
-#   - php-tidy:5.3.3-3.el6_1.3.x86_64
-#   - php-xml:5.3.3-3.el6_1.3.x86_64
-#   - php-xmlrpc:5.3.3-3.el6_1.3.x86_64
-#   - php-zts:5.3.3-3.el6_1.3.x86_64
+#   - php.x86_64:5.3.3-3.el6_1.3
+#   - php-bcmath.x86_64:5.3.3-3.el6_1.3
+#   - php-cli.x86_64:5.3.3-3.el6_1.3
+#   - php-common.x86_64:5.3.3-3.el6_1.3
+#   - php-dba.x86_64:5.3.3-3.el6_1.3
+#   - php-debuginfo.x86_64:5.3.3-3.el6_1.3
+#   - php-devel.x86_64:5.3.3-3.el6_1.3
+#   - php-embedded.x86_64:5.3.3-3.el6_1.3
+#   - php-enchant.x86_64:5.3.3-3.el6_1.3
+#   - php-gd.x86_64:5.3.3-3.el6_1.3
+#   - php-imap.x86_64:5.3.3-3.el6_1.3
+#   - php-intl.x86_64:5.3.3-3.el6_1.3
+#   - php-ldap.x86_64:5.3.3-3.el6_1.3
+#   - php-mbstring.x86_64:5.3.3-3.el6_1.3
+#   - php-mysql.x86_64:5.3.3-3.el6_1.3
+#   - php-odbc.x86_64:5.3.3-3.el6_1.3
+#   - php-pdo.x86_64:5.3.3-3.el6_1.3
+#   - php-pgsql.x86_64:5.3.3-3.el6_1.3
+#   - php-process.x86_64:5.3.3-3.el6_1.3
+#   - php-pspell.x86_64:5.3.3-3.el6_1.3
+#   - php-recode.x86_64:5.3.3-3.el6_1.3
+#   - php-snmp.x86_64:5.3.3-3.el6_1.3
+#   - php-soap.x86_64:5.3.3-3.el6_1.3
+#   - php-tidy.x86_64:5.3.3-3.el6_1.3
+#   - php-xml.x86_64:5.3.3-3.el6_1.3
+#   - php-xmlrpc.x86_64:5.3.3-3.el6_1.3
+#   - php-zts.x86_64:5.3.3-3.el6_1.3
 #
 # Last versions recommanded by security team:
-#   - php:5.3.3-46.el6_6.x86_64
-#   - php-bcmath:5.3.3-46.el6_6.x86_64
-#   - php-cli:5.3.3-46.el6_6.x86_64
-#   - php-common:5.3.3-46.el6_6.x86_64
-#   - php-dba:5.3.3-46.el6_6.x86_64
-#   - php-debuginfo:5.3.3-46.el6_6.x86_64
-#   - php-devel:5.3.3-46.el6_6.x86_64
-#   - php-embedded:5.3.3-46.el6_6.x86_64
-#   - php-enchant:5.3.3-46.el6_6.x86_64
-#   - php-gd:5.3.3-46.el6_6.x86_64
-#   - php-imap:5.3.3-46.el6_6.x86_64
-#   - php-intl:5.3.3-46.el6_6.x86_64
-#   - php-ldap:5.3.3-46.el6_6.x86_64
-#   - php-mbstring:5.3.3-46.el6_6.x86_64
-#   - php-mysql:5.3.3-46.el6_6.x86_64
-#   - php-odbc:5.3.3-46.el6_6.x86_64
-#   - php-pdo:5.3.3-46.el6_6.x86_64
-#   - php-pgsql:5.3.3-46.el6_6.x86_64
-#   - php-process:5.3.3-46.el6_6.x86_64
-#   - php-pspell:5.3.3-46.el6_6.x86_64
-#   - php-recode:5.3.3-46.el6_6.x86_64
-#   - php-snmp:5.3.3-46.el6_6.x86_64
-#   - php-soap:5.3.3-46.el6_6.x86_64
-#   - php-tidy:5.3.3-46.el6_6.x86_64
-#   - php-xml:5.3.3-46.el6_6.x86_64
-#   - php-xmlrpc:5.3.3-46.el6_6.x86_64
-#   - php-zts:5.3.3-46.el6_6.x86_64
+#   - php.x86_64:5.3.3-46.el6_6
+#   - php-bcmath.x86_64:5.3.3-46.el6_6
+#   - php-cli.x86_64:5.3.3-46.el6_6
+#   - php-common.x86_64:5.3.3-46.el6_6
+#   - php-dba.x86_64:5.3.3-46.el6_6
+#   - php-debuginfo.x86_64:5.3.3-46.el6_6
+#   - php-devel.x86_64:5.3.3-46.el6_6
+#   - php-embedded.x86_64:5.3.3-46.el6_6
+#   - php-enchant.x86_64:5.3.3-46.el6_6
+#   - php-gd.x86_64:5.3.3-46.el6_6
+#   - php-imap.x86_64:5.3.3-46.el6_6
+#   - php-intl.x86_64:5.3.3-46.el6_6
+#   - php-ldap.x86_64:5.3.3-46.el6_6
+#   - php-mbstring.x86_64:5.3.3-46.el6_6
+#   - php-mysql.x86_64:5.3.3-46.el6_6
+#   - php-odbc.x86_64:5.3.3-46.el6_6
+#   - php-pdo.x86_64:5.3.3-46.el6_6
+#   - php-pgsql.x86_64:5.3.3-46.el6_6
+#   - php-process.x86_64:5.3.3-46.el6_6
+#   - php-pspell.x86_64:5.3.3-46.el6_6
+#   - php-recode.x86_64:5.3.3-46.el6_6
+#   - php-snmp.x86_64:5.3.3-46.el6_6
+#   - php-soap.x86_64:5.3.3-46.el6_6
+#   - php-tidy.x86_64:5.3.3-46.el6_6
+#   - php-xml.x86_64:5.3.3-46.el6_6
+#   - php-xmlrpc.x86_64:5.3.3-46.el6_6
+#   - php-zts.x86_64:5.3.3-46.el6_6
 #
 # CVE List:
 #   - CVE-2011-0708
@@ -81,30 +81,30 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:1423
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install php-5.3.3 -y 
-sudo yum install php-bcmath-5.3.3 -y 
-sudo yum install php-cli-5.3.3 -y 
-sudo yum install php-common-5.3.3 -y 
-sudo yum install php-dba-5.3.3 -y 
-sudo yum install php-debuginfo-5.3.3 -y 
-sudo yum install php-devel-5.3.3 -y 
-sudo yum install php-embedded-5.3.3 -y 
-sudo yum install php-enchant-5.3.3 -y 
-sudo yum install php-gd-5.3.3 -y 
-sudo yum install php-imap-5.3.3 -y 
-sudo yum install php-intl-5.3.3 -y 
-sudo yum install php-ldap-5.3.3 -y 
-sudo yum install php-mbstring-5.3.3 -y 
-sudo yum install php-mysql-5.3.3 -y 
-sudo yum install php-odbc-5.3.3 -y 
-sudo yum install php-pdo-5.3.3 -y 
-sudo yum install php-pgsql-5.3.3 -y 
-sudo yum install php-process-5.3.3 -y 
-sudo yum install php-pspell-5.3.3 -y 
-sudo yum install php-recode-5.3.3 -y 
-sudo yum install php-snmp-5.3.3 -y 
-sudo yum install php-soap-5.3.3 -y 
-sudo yum install php-tidy-5.3.3 -y 
-sudo yum install php-xml-5.3.3 -y 
-sudo yum install php-xmlrpc-5.3.3 -y 
-sudo yum install php-zts-5.3.3 -y 
+sudo yum install php.x86_64-5.3.3 -y 
+sudo yum install php-bcmath.x86_64-5.3.3 -y 
+sudo yum install php-cli.x86_64-5.3.3 -y 
+sudo yum install php-common.x86_64-5.3.3 -y 
+sudo yum install php-dba.x86_64-5.3.3 -y 
+sudo yum install php-debuginfo.x86_64-5.3.3 -y 
+sudo yum install php-devel.x86_64-5.3.3 -y 
+sudo yum install php-embedded.x86_64-5.3.3 -y 
+sudo yum install php-enchant.x86_64-5.3.3 -y 
+sudo yum install php-gd.x86_64-5.3.3 -y 
+sudo yum install php-imap.x86_64-5.3.3 -y 
+sudo yum install php-intl.x86_64-5.3.3 -y 
+sudo yum install php-ldap.x86_64-5.3.3 -y 
+sudo yum install php-mbstring.x86_64-5.3.3 -y 
+sudo yum install php-mysql.x86_64-5.3.3 -y 
+sudo yum install php-odbc.x86_64-5.3.3 -y 
+sudo yum install php-pdo.x86_64-5.3.3 -y 
+sudo yum install php-pgsql.x86_64-5.3.3 -y 
+sudo yum install php-process.x86_64-5.3.3 -y 
+sudo yum install php-pspell.x86_64-5.3.3 -y 
+sudo yum install php-recode.x86_64-5.3.3 -y 
+sudo yum install php-snmp.x86_64-5.3.3 -y 
+sudo yum install php-soap.x86_64-5.3.3 -y 
+sudo yum install php-tidy.x86_64-5.3.3 -y 
+sudo yum install php-xml.x86_64-5.3.3 -y 
+sudo yum install php-xmlrpc.x86_64-5.3.3 -y 
+sudo yum install php-zts.x86_64-5.3.3 -y 

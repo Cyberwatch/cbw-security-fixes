@@ -3,104 +3,110 @@
 # Security fix for RHSA-2011:0558
 #
 # Security announcement date: 2011-05-19 12:19:58 UTC
-# Script generation date:     2016-01-06 19:09:57 UTC
+# Script generation date:     2016-02-04 19:14:57 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - perl:5.10.1-119.el6.x86_64
-#   - perl-Archive-Extract:0.38-119.el6.x86_64
-#   - perl-Archive-Tar:1.58-119.el6.x86_64
-#   - perl-CGI:3.51-119.el6.x86_64
-#   - perl-CPAN:1.9402-119.el6.x86_64
-#   - perl-CPANPLUS:0.88-119.el6.x86_64
-#   - perl-Compress-Raw-Zlib:2.023-119.el6.x86_64
-#   - perl-Compress-Zlib:2.020-119.el6.x86_64
-#   - perl-Digest-SHA:5.47-119.el6.x86_64
-#   - perl-ExtUtils-CBuilder:0.27-119.el6.x86_64
-#   - perl-ExtUtils-Embed:1.28-119.el6.x86_64
-#   - perl-ExtUtils-MakeMaker:6.55-119.el6.x86_64
-#   - perl-ExtUtils-ParseXS:2.2003.0-119.el6.x86_64
-#   - perl-File-Fetch:0.26-119.el6.x86_64
-#   - perl-IO-Compress-Base:2.020-119.el6.x86_64
-#   - perl-IO-Compress-Zlib:2.020-119.el6.x86_64
-#   - perl-IO-Zlib:1.09-119.el6.x86_64
-#   - perl-IPC-Cmd:0.56-119.el6.x86_64
-#   - perl-Locale-Maketext-Simple:0.18-119.el6.x86_64
-#   - perl-Log-Message:0.02-119.el6.x86_64
-#   - perl-Log-Message-Simple:0.04-119.el6.x86_64
-#   - perl-Module-Build:0.3500-119.el6.x86_64
-#   - perl-Module-CoreList:2.18-119.el6.x86_64
-#   - perl-Module-Load:0.16-119.el6.x86_64
-#   - perl-Module-Load-Conditional:0.30-119.el6.x86_64
-#   - perl-Module-Loaded:0.02-119.el6.x86_64
-#   - perl-Module-Pluggable:3.90-119.el6.x86_64
-#   - perl-Object-Accessor:0.34-119.el6.x86_64
-#   - perl-Package-Constants:0.02-119.el6.x86_64
-#   - perl-Params-Check:0.26-119.el6.x86_64
-#   - perl-Parse-CPAN-Meta:1.40-119.el6.x86_64
-#   - perl-Pod-Escapes:1.04-119.el6.x86_64
-#   - perl-Pod-Simple:3.13-119.el6.x86_64
-#   - perl-Term-UI:0.20-119.el6.x86_64
-#   - perl-Test-Harness:3.17-119.el6.x86_64
-#   - perl-Test-Simple:0.92-119.el6.x86_64
-#   - perl-Time-HiRes:1.9721-119.el6.x86_64
-#   - perl-Time-Piece:1.15-119.el6.x86_64
-#   - perl-core:5.10.1-119.el6.x86_64
-#   - perl-debuginfo:5.10.1-119.el6.x86_64
-#   - perl-devel:5.10.1-119.el6.x86_64
-#   - perl-libs:5.10.1-119.el6.x86_64
-#   - perl-parent:0.221-119.el6.x86_64
-#   - perl-suidperl:5.10.1-119.el6.x86_64
-#   - perl-version:0.77-119.el6.x86_64
+#   - perl.x86_64:5.10.1-119.el6
+#   - perl-Archive-Extract.x86_64:0.38-119.el6
+#   - perl-Archive-Tar.x86_64:1.58-119.el6
+#   - perl-CGI.x86_64:3.51-119.el6
+#   - perl-CPAN.x86_64:1.9402-119.el6
+#   - perl-CPANPLUS.x86_64:0.88-119.el6
+#   - perl-Compress-Raw-Zlib.x86_64:2.023-119.el6
+#   - perl-Compress-Zlib.x86_64:2.020-119.el6
+#   - perl-Digest-SHA.x86_64:5.47-119.el6
+#   - perl-ExtUtils-CBuilder.x86_64:0.27-119.el6
+#   - perl-ExtUtils-Embed.x86_64:1.28-119.el6
+#   - perl-ExtUtils-MakeMaker.x86_64:6.55-119.el6
+#   - perl-ExtUtils-ParseXS.x86_64:2.2003.0-119.el6
+#   - perl-File-Fetch.x86_64:0.26-119.el6
+#   - perl-IO-Compress-Base.x86_64:2.020-119.el6
+#   - perl-IO-Compress-Zlib.x86_64:2.020-119.el6
+#   - perl-IO-Zlib.x86_64:1.09-119.el6
+#   - perl-IPC-Cmd.x86_64:0.56-119.el6
+#   - perl-Locale-Maketext-Simple.x86_64:0.18-119.el6
+#   - perl-Log-Message.x86_64:0.02-119.el6
+#   - perl-Log-Message-Simple.x86_64:0.04-119.el6
+#   - perl-Module-Build.x86_64:0.3500-119.el6
+#   - perl-Module-CoreList.x86_64:2.18-119.el6
+#   - perl-Module-Load.x86_64:0.16-119.el6
+#   - perl-Module-Load-Conditional.x86_64:0.30-119.el6
+#   - perl-Module-Loaded.x86_64:0.02-119.el6
+#   - perl-Module-Pluggable.x86_64:3.90-119.el6
+#   - perl-Object-Accessor.x86_64:0.34-119.el6
+#   - perl-Package-Constants.x86_64:0.02-119.el6
+#   - perl-Params-Check.x86_64:0.26-119.el6
+#   - perl-Parse-CPAN-Meta.x86_64:1.40-119.el6
+#   - perl-Pod-Escapes.x86_64:1.04-119.el6
+#   - perl-Pod-Simple.x86_64:3.13-119.el6
+#   - perl-Term-UI.x86_64:0.20-119.el6
+#   - perl-Test-Harness.x86_64:3.17-119.el6
+#   - perl-Test-Simple.x86_64:0.92-119.el6
+#   - perl-Time-HiRes.x86_64:1.9721-119.el6
+#   - perl-Time-Piece.x86_64:1.15-119.el6
+#   - perl-core.x86_64:5.10.1-119.el6
+#   - perl-debuginfo.x86_64:5.10.1-119.el6
+#   - perl-devel.x86_64:5.10.1-119.el6
+#   - perl-libs.x86_64:5.10.1-119.el6
+#   - perl-parent.x86_64:0.221-119.el6
+#   - perl-suidperl.x86_64:5.10.1-119.el6
+#   - perl-version.x86_64:0.77-119.el6
+#   - perl-debuginfo.i686:5.10.1-119.el6
+#   - perl-devel.i686:5.10.1-119.el6
+#   - perl-libs.i686:5.10.1-119.el6
 #
 # Last versions recommanded by security team:
-#   - perl:5.10.1-130.el6_4.x86_64
-#   - perl-Archive-Extract:0.38-130.el6_4.x86_64
-#   - perl-Archive-Tar:1.58-130.el6_4.x86_64
-#   - perl-CGI:3.51-130.el6_4.x86_64
-#   - perl-CPAN:1.9402-130.el6_4.x86_64
-#   - perl-CPANPLUS:0.88-130.el6_4.x86_64
-#   - perl-Compress-Raw-Zlib:2.020-130.el6_4.x86_64
-#   - perl-Compress-Zlib:2.020-130.el6_4.x86_64
-#   - perl-Digest-SHA:5.47-130.el6_4.x86_64
-#   - perl-ExtUtils-CBuilder:0.27-130.el6_4.x86_64
-#   - perl-ExtUtils-Embed:1.28-130.el6_4.x86_64
-#   - perl-ExtUtils-MakeMaker:6.55-130.el6_4.x86_64
-#   - perl-ExtUtils-ParseXS:2.2003.0-130.el6_4.x86_64
-#   - perl-File-Fetch:0.26-130.el6_4.x86_64
-#   - perl-IO-Compress-Base:2.020-130.el6_4.x86_64
-#   - perl-IO-Compress-Zlib:2.020-130.el6_4.x86_64
-#   - perl-IO-Zlib:1.09-130.el6_4.x86_64
-#   - perl-IPC-Cmd:0.56-130.el6_4.x86_64
-#   - perl-Locale-Maketext-Simple:0.18-130.el6_4.x86_64
-#   - perl-Log-Message:0.02-130.el6_4.x86_64
-#   - perl-Log-Message-Simple:0.04-130.el6_4.x86_64
-#   - perl-Module-Build:0.3500-130.el6_4.x86_64
-#   - perl-Module-CoreList:2.18-130.el6_4.x86_64
-#   - perl-Module-Load:0.16-130.el6_4.x86_64
-#   - perl-Module-Load-Conditional:0.30-130.el6_4.x86_64
-#   - perl-Module-Loaded:0.02-130.el6_4.x86_64
-#   - perl-Module-Pluggable:3.90-130.el6_4.x86_64
-#   - perl-Object-Accessor:0.34-130.el6_4.x86_64
-#   - perl-Package-Constants:0.02-130.el6_4.x86_64
-#   - perl-Params-Check:0.26-130.el6_4.x86_64
-#   - perl-Parse-CPAN-Meta:1.40-130.el6_4.x86_64
-#   - perl-Pod-Escapes:1.04-130.el6_4.x86_64
-#   - perl-Pod-Simple:3.13-130.el6_4.x86_64
-#   - perl-Term-UI:0.20-130.el6_4.x86_64
-#   - perl-Test-Harness:3.17-130.el6_4.x86_64
-#   - perl-Test-Simple:0.92-130.el6_4.x86_64
-#   - perl-Time-HiRes:1.9721-130.el6_4.x86_64
-#   - perl-Time-Piece:1.15-130.el6_4.x86_64
-#   - perl-core:5.10.1-130.el6_4.x86_64
-#   - perl-debuginfo:5.10.1-130.el6_4.x86_64
-#   - perl-devel:5.10.1-130.el6_4.x86_64
-#   - perl-libs:5.10.1-130.el6_4.x86_64
-#   - perl-parent:0.221-130.el6_4.x86_64
-#   - perl-suidperl:5.10.1-130.el6_4.x86_64
-#   - perl-version:0.77-130.el6_4.x86_64
+#   - perl.x86_64:5.10.1-130.el6_4
+#   - perl-Archive-Extract.x86_64:0.38-130.el6_4
+#   - perl-Archive-Tar.x86_64:1.58-130.el6_4
+#   - perl-CGI.x86_64:3.51-130.el6_4
+#   - perl-CPAN.x86_64:1.9402-130.el6_4
+#   - perl-CPANPLUS.x86_64:0.88-130.el6_4
+#   - perl-Compress-Raw-Zlib.x86_64:2.020-130.el6_4
+#   - perl-Compress-Zlib.x86_64:2.020-130.el6_4
+#   - perl-Digest-SHA.x86_64:5.47-130.el6_4
+#   - perl-ExtUtils-CBuilder.x86_64:0.27-130.el6_4
+#   - perl-ExtUtils-Embed.x86_64:1.28-130.el6_4
+#   - perl-ExtUtils-MakeMaker.x86_64:6.55-130.el6_4
+#   - perl-ExtUtils-ParseXS.x86_64:2.2003.0-130.el6_4
+#   - perl-File-Fetch.x86_64:0.26-130.el6_4
+#   - perl-IO-Compress-Base.x86_64:2.020-130.el6_4
+#   - perl-IO-Compress-Zlib.x86_64:2.020-130.el6_4
+#   - perl-IO-Zlib.x86_64:1.09-130.el6_4
+#   - perl-IPC-Cmd.x86_64:0.56-130.el6_4
+#   - perl-Locale-Maketext-Simple.x86_64:0.18-130.el6_4
+#   - perl-Log-Message.x86_64:0.02-130.el6_4
+#   - perl-Log-Message-Simple.x86_64:0.04-130.el6_4
+#   - perl-Module-Build.x86_64:0.3500-130.el6_4
+#   - perl-Module-CoreList.x86_64:2.18-130.el6_4
+#   - perl-Module-Load.x86_64:0.16-130.el6_4
+#   - perl-Module-Load-Conditional.x86_64:0.30-130.el6_4
+#   - perl-Module-Loaded.x86_64:0.02-130.el6_4
+#   - perl-Module-Pluggable.x86_64:3.90-130.el6_4
+#   - perl-Object-Accessor.x86_64:0.34-130.el6_4
+#   - perl-Package-Constants.x86_64:0.02-130.el6_4
+#   - perl-Params-Check.x86_64:0.26-130.el6_4
+#   - perl-Parse-CPAN-Meta.x86_64:1.40-130.el6_4
+#   - perl-Pod-Escapes.x86_64:1.04-130.el6_4
+#   - perl-Pod-Simple.x86_64:3.13-130.el6_4
+#   - perl-Term-UI.x86_64:0.20-130.el6_4
+#   - perl-Test-Harness.x86_64:3.17-130.el6_4
+#   - perl-Test-Simple.x86_64:0.92-130.el6_4
+#   - perl-Time-HiRes.x86_64:1.9721-130.el6_4
+#   - perl-Time-Piece.x86_64:1.15-130.el6_4
+#   - perl-core.x86_64:5.10.1-130.el6_4
+#   - perl-debuginfo.x86_64:5.10.1-130.el6_4
+#   - perl-devel.x86_64:5.10.1-130.el6_4
+#   - perl-libs.x86_64:5.10.1-130.el6_4
+#   - perl-parent.x86_64:0.221-130.el6_4
+#   - perl-suidperl.x86_64:5.10.1-130.el6_4
+#   - perl-version.x86_64:0.77-130.el6_4
+#   - perl-debuginfo.i686:5.10.1-130.el6_4
+#   - perl-devel.i686:5.10.1-130.el6_4
+#   - perl-libs.i686:5.10.1-130.el6_4
 #
 # CVE List:
 #   - CVE-2010-2761
@@ -111,48 +117,51 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:0558
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install perl-5.10.1 -y 
-sudo yum install perl-Archive-Extract-0.38 -y 
-sudo yum install perl-Archive-Tar-1.58 -y 
-sudo yum install perl-CGI-3.51 -y 
-sudo yum install perl-CPAN-1.9402 -y 
-sudo yum install perl-CPANPLUS-0.88 -y 
-sudo yum install perl-Compress-Raw-Zlib-2.020 -y 
-sudo yum install perl-Compress-Zlib-2.020 -y 
-sudo yum install perl-Digest-SHA-5.47 -y 
-sudo yum install perl-ExtUtils-CBuilder-0.27 -y 
-sudo yum install perl-ExtUtils-Embed-1.28 -y 
-sudo yum install perl-ExtUtils-MakeMaker-6.55 -y 
-sudo yum install perl-ExtUtils-ParseXS-2.2003.0 -y 
-sudo yum install perl-File-Fetch-0.26 -y 
-sudo yum install perl-IO-Compress-Base-2.020 -y 
-sudo yum install perl-IO-Compress-Zlib-2.020 -y 
-sudo yum install perl-IO-Zlib-1.09 -y 
-sudo yum install perl-IPC-Cmd-0.56 -y 
-sudo yum install perl-Locale-Maketext-Simple-0.18 -y 
-sudo yum install perl-Log-Message-0.02 -y 
-sudo yum install perl-Log-Message-Simple-0.04 -y 
-sudo yum install perl-Module-Build-0.3500 -y 
-sudo yum install perl-Module-CoreList-2.18 -y 
-sudo yum install perl-Module-Load-0.16 -y 
-sudo yum install perl-Module-Load-Conditional-0.30 -y 
-sudo yum install perl-Module-Loaded-0.02 -y 
-sudo yum install perl-Module-Pluggable-3.90 -y 
-sudo yum install perl-Object-Accessor-0.34 -y 
-sudo yum install perl-Package-Constants-0.02 -y 
-sudo yum install perl-Params-Check-0.26 -y 
-sudo yum install perl-Parse-CPAN-Meta-1.40 -y 
-sudo yum install perl-Pod-Escapes-1.04 -y 
-sudo yum install perl-Pod-Simple-3.13 -y 
-sudo yum install perl-Term-UI-0.20 -y 
-sudo yum install perl-Test-Harness-3.17 -y 
-sudo yum install perl-Test-Simple-0.92 -y 
-sudo yum install perl-Time-HiRes-1.9721 -y 
-sudo yum install perl-Time-Piece-1.15 -y 
-sudo yum install perl-core-5.10.1 -y 
-sudo yum install perl-debuginfo-5.10.1 -y 
-sudo yum install perl-devel-5.10.1 -y 
-sudo yum install perl-libs-5.10.1 -y 
-sudo yum install perl-parent-0.221 -y 
-sudo yum install perl-suidperl-5.10.1 -y 
-sudo yum install perl-version-0.77 -y 
+sudo yum install perl.x86_64-5.10.1 -y 
+sudo yum install perl-Archive-Extract.x86_64-0.38 -y 
+sudo yum install perl-Archive-Tar.x86_64-1.58 -y 
+sudo yum install perl-CGI.x86_64-3.51 -y 
+sudo yum install perl-CPAN.x86_64-1.9402 -y 
+sudo yum install perl-CPANPLUS.x86_64-0.88 -y 
+sudo yum install perl-Compress-Raw-Zlib.x86_64-2.020 -y 
+sudo yum install perl-Compress-Zlib.x86_64-2.020 -y 
+sudo yum install perl-Digest-SHA.x86_64-5.47 -y 
+sudo yum install perl-ExtUtils-CBuilder.x86_64-0.27 -y 
+sudo yum install perl-ExtUtils-Embed.x86_64-1.28 -y 
+sudo yum install perl-ExtUtils-MakeMaker.x86_64-6.55 -y 
+sudo yum install perl-ExtUtils-ParseXS.x86_64-2.2003.0 -y 
+sudo yum install perl-File-Fetch.x86_64-0.26 -y 
+sudo yum install perl-IO-Compress-Base.x86_64-2.020 -y 
+sudo yum install perl-IO-Compress-Zlib.x86_64-2.020 -y 
+sudo yum install perl-IO-Zlib.x86_64-1.09 -y 
+sudo yum install perl-IPC-Cmd.x86_64-0.56 -y 
+sudo yum install perl-Locale-Maketext-Simple.x86_64-0.18 -y 
+sudo yum install perl-Log-Message.x86_64-0.02 -y 
+sudo yum install perl-Log-Message-Simple.x86_64-0.04 -y 
+sudo yum install perl-Module-Build.x86_64-0.3500 -y 
+sudo yum install perl-Module-CoreList.x86_64-2.18 -y 
+sudo yum install perl-Module-Load.x86_64-0.16 -y 
+sudo yum install perl-Module-Load-Conditional.x86_64-0.30 -y 
+sudo yum install perl-Module-Loaded.x86_64-0.02 -y 
+sudo yum install perl-Module-Pluggable.x86_64-3.90 -y 
+sudo yum install perl-Object-Accessor.x86_64-0.34 -y 
+sudo yum install perl-Package-Constants.x86_64-0.02 -y 
+sudo yum install perl-Params-Check.x86_64-0.26 -y 
+sudo yum install perl-Parse-CPAN-Meta.x86_64-1.40 -y 
+sudo yum install perl-Pod-Escapes.x86_64-1.04 -y 
+sudo yum install perl-Pod-Simple.x86_64-3.13 -y 
+sudo yum install perl-Term-UI.x86_64-0.20 -y 
+sudo yum install perl-Test-Harness.x86_64-3.17 -y 
+sudo yum install perl-Test-Simple.x86_64-0.92 -y 
+sudo yum install perl-Time-HiRes.x86_64-1.9721 -y 
+sudo yum install perl-Time-Piece.x86_64-1.15 -y 
+sudo yum install perl-core.x86_64-5.10.1 -y 
+sudo yum install perl-debuginfo.x86_64-5.10.1 -y 
+sudo yum install perl-devel.x86_64-5.10.1 -y 
+sudo yum install perl-libs.x86_64-5.10.1 -y 
+sudo yum install perl-parent.x86_64-0.221 -y 
+sudo yum install perl-suidperl.x86_64-5.10.1 -y 
+sudo yum install perl-version.x86_64-0.77 -y 
+sudo yum install perl-debuginfo.i686-5.10.1 -y 
+sudo yum install perl-devel.i686-5.10.1 -y 
+sudo yum install perl-libs.i686-5.10.1 -y 

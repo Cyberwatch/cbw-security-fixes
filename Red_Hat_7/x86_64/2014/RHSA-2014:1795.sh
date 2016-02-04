@@ -3,22 +3,28 @@
 # Security fix for RHSA-2014:1795
 #
 # Security announcement date: 2014-11-03 19:08:19 UTC
-# Script generation date:     2016-01-11 19:15:44 UTC
+# Script generation date:     2016-02-04 19:18:28 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - cups-filters:1.0.35-15.el7_0.1.x86_64
-#   - cups-filters-debuginfo:1.0.35-15.el7_0.1.x86_64
-#   - cups-filters-libs:1.0.35-15.el7_0.1.x86_64
-#   - cups-filters-devel:1.0.35-15.el7_0.1.x86_64
+#   - cups-filters.x86_64:1.0.35-15.el7_0.1
+#   - cups-filters-debuginfo.x86_64:1.0.35-15.el7_0.1
+#   - cups-filters-libs.x86_64:1.0.35-15.el7_0.1
+#   - cups-filters-devel.x86_64:1.0.35-15.el7_0.1
+#   - cups-filters-debuginfo.i686:1.0.35-15.el7_0.1
+#   - cups-filters-libs.i686:1.0.35-15.el7_0.1
+#   - cups-filters-devel.i686:1.0.35-15.el7_0.1
 #
 # Last versions recommanded by security team:
-#   - cups-filters:1.0.35-21.el7.x86_64
-#   - cups-filters-debuginfo:1.0.35-21.el7.x86_64
-#   - cups-filters-libs:1.0.35-21.el7.x86_64
-#   - cups-filters-devel:1.0.35-21.el7.x86_64
+#   - cups-filters.x86_64:1.0.35-21.el7
+#   - cups-filters-debuginfo.x86_64:1.0.35-21.el7
+#   - cups-filters-libs.x86_64:1.0.35-21.el7
+#   - cups-filters-devel.x86_64:1.0.35-21.el7
+#   - cups-filters-debuginfo.i686:1.0.35-21.el7
+#   - cups-filters-libs.i686:1.0.35-21.el7
+#   - cups-filters-devel.i686:1.0.35-21.el7
 #
 # CVE List:
 #   - CVE-2014-4337
@@ -28,7 +34,10 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:1795
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install cups-filters-1.0.35 -y 
-sudo yum install cups-filters-debuginfo-1.0.35 -y 
-sudo yum install cups-filters-libs-1.0.35 -y 
-sudo yum install cups-filters-devel-1.0.35 -y 
+sudo yum install cups-filters.x86_64-1.0.35 -y 
+sudo yum install cups-filters-debuginfo.x86_64-1.0.35 -y 
+sudo yum install cups-filters-libs.x86_64-1.0.35 -y 
+sudo yum install cups-filters-devel.x86_64-1.0.35 -y 
+sudo yum install cups-filters-debuginfo.i686-1.0.35 -y 
+sudo yum install cups-filters-libs.i686-1.0.35 -y 
+sudo yum install cups-filters-devel.i686-1.0.35 -y 

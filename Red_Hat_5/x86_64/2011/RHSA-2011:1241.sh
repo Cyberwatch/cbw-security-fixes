@@ -3,22 +3,28 @@
 # Security fix for RHSA-2011:1241
 #
 # Security announcement date: 2011-08-31 20:32:32 UTC
-# Script generation date:     2016-01-06 19:10:26 UTC
+# Script generation date:     2016-02-04 19:15:22 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ecryptfs-utils:75-5.el5_7.2.x86_64
-#   - ecryptfs-utils-debuginfo:75-5.el5_7.2.x86_64
-#   - ecryptfs-utils-gui:75-5.el5_7.2.x86_64
-#   - ecryptfs-utils-devel:75-5.el5_7.2.x86_64
+#   - ecryptfs-utils.x86_64:75-5.el5_7.2
+#   - ecryptfs-utils-debuginfo.x86_64:75-5.el5_7.2
+#   - ecryptfs-utils-gui.x86_64:75-5.el5_7.2
+#   - ecryptfs-utils-devel.x86_64:75-5.el5_7.2
+#   - ecryptfs-utils.i386:75-5.el5_7.2
+#   - ecryptfs-utils-debuginfo.i386:75-5.el5_7.2
+#   - ecryptfs-utils-devel.i386:75-5.el5_7.2
 #
 # Last versions recommanded by security team:
-#   - ecryptfs-utils:75-5.el5_7.2.x86_64
-#   - ecryptfs-utils-debuginfo:75-5.el5_7.2.x86_64
-#   - ecryptfs-utils-gui:75-5.el5_7.2.x86_64
-#   - ecryptfs-utils-devel:75-5.el5_7.2.x86_64
+#   - ecryptfs-utils.x86_64:75-5.el5_7.2
+#   - ecryptfs-utils-debuginfo.x86_64:75-5.el5_7.2
+#   - ecryptfs-utils-gui.x86_64:75-5.el5_7.2
+#   - ecryptfs-utils-devel.x86_64:75-5.el5_7.2
+#   - ecryptfs-utils.i386:75-5.el5_7.2
+#   - ecryptfs-utils-debuginfo.i386:75-5.el5_7.2
+#   - ecryptfs-utils-devel.i386:75-5.el5_7.2
 #
 # CVE List:
 #   - CVE-2011-1831
@@ -33,7 +39,10 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:1241
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install ecryptfs-utils-75 -y 
-sudo yum install ecryptfs-utils-debuginfo-75 -y 
-sudo yum install ecryptfs-utils-gui-75 -y 
-sudo yum install ecryptfs-utils-devel-75 -y 
+sudo yum install ecryptfs-utils.x86_64-75 -y 
+sudo yum install ecryptfs-utils-debuginfo.x86_64-75 -y 
+sudo yum install ecryptfs-utils-gui.x86_64-75 -y 
+sudo yum install ecryptfs-utils-devel.x86_64-75 -y 
+sudo yum install ecryptfs-utils.i386-75 -y 
+sudo yum install ecryptfs-utils-debuginfo.i386-75 -y 
+sudo yum install ecryptfs-utils-devel.i386-75 -y 

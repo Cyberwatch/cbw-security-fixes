@@ -3,22 +3,28 @@
 # Security fix for RHSA-2015:2159
 #
 # Security announcement date: 2015-11-19 21:36:36 UTC
-# Script generation date:     2016-01-06 19:14:29 UTC
+# Script generation date:     2016-02-04 19:19:59 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - curl:7.29.0-25.el7.x86_64
-#   - curl-debuginfo:7.29.0-25.el7.x86_64
-#   - libcurl:7.29.0-25.el7.x86_64
-#   - libcurl-devel:7.29.0-25.el7.x86_64
+#   - curl.x86_64:7.29.0-25.el7
+#   - curl-debuginfo.x86_64:7.29.0-25.el7
+#   - libcurl.x86_64:7.29.0-25.el7
+#   - libcurl-devel.x86_64:7.29.0-25.el7
+#   - curl-debuginfo.i686:7.29.0-25.el7
+#   - libcurl.i686:7.29.0-25.el7
+#   - libcurl-devel.i686:7.29.0-25.el7
 #
 # Last versions recommanded by security team:
-#   - curl:7.29.0-25.el7.x86_64
-#   - curl-debuginfo:7.29.0-25.el7.x86_64
-#   - libcurl:7.29.0-25.el7.x86_64
-#   - libcurl-devel:7.29.0-25.el7.x86_64
+#   - curl.x86_64:7.29.0-25.el7
+#   - curl-debuginfo.x86_64:7.29.0-25.el7
+#   - libcurl.x86_64:7.29.0-25.el7
+#   - libcurl-devel.x86_64:7.29.0-25.el7
+#   - curl-debuginfo.i686:7.29.0-25.el7
+#   - libcurl.i686:7.29.0-25.el7
+#   - libcurl-devel.i686:7.29.0-25.el7
 #
 # CVE List:
 #   - CVE-2014-3613
@@ -31,7 +37,10 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:2159
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install curl-7.29.0 -y 
-sudo yum install curl-debuginfo-7.29.0 -y 
-sudo yum install libcurl-7.29.0 -y 
-sudo yum install libcurl-devel-7.29.0 -y 
+sudo yum install curl.x86_64-7.29.0 -y 
+sudo yum install curl-debuginfo.x86_64-7.29.0 -y 
+sudo yum install libcurl.x86_64-7.29.0 -y 
+sudo yum install libcurl-devel.x86_64-7.29.0 -y 
+sudo yum install curl-debuginfo.i686-7.29.0 -y 
+sudo yum install libcurl.i686-7.29.0 -y 
+sudo yum install libcurl-devel.i686-7.29.0 -y 
