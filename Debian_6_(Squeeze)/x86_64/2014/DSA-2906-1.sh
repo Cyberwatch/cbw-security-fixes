@@ -4,7 +4,7 @@
 # Security fix for DSA-2906-1
 #
 # Security announcement date: 2014-04-24 00:00:00 UTC
-# Script generation date:     2016-01-02 19:07:27 UTC
+# Script generation date:     2016-02-05 19:03:39 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - linux-2.6:2.6.32-48squeeze5
 #
 # Last versions recommanded by security team:
-#   - linux-2.6:2.6.32-48squeeze18
+#   - linux-2.6:2.6.32-48squeeze19
 #
 # CVE List:
 #   - CVE-2013-0343
@@ -50,4 +50,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2906-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze18 -y
+sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze19 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-2766-1
 #
 # Security announcement date: 2013-09-27 00:00:00 UTC
-# Script generation date:     2016-01-02 19:07:15 UTC
+# Script generation date:     2016-02-05 19:03:28 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - linux-2.6:2.6.32-48squeeze4
 #
 # Last versions recommanded by security team:
-#   - linux-2.6:2.6.32-48squeeze18
+#   - linux-2.6:2.6.32-48squeeze19
 #
 # CVE List:
 #   - CVE-2013-2141
@@ -32,4 +32,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2766-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze18 -y
+sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze19 -y
