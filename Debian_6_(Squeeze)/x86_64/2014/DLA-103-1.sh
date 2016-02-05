@@ -4,7 +4,7 @@
 # Security fix for DLA-103-1
 #
 # Security announcement date: 2014-12-09 00:00:00 UTC
-# Script generation date:     2016-01-02 19:12:37 UTC
+# Script generation date:     2016-02-05 19:07:57 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - linux-2.6:2.6.32-48squeeze9
 #
 # Last versions recommanded by security team:
-#   - linux-2.6:2.6.32-48squeeze18
+#   - linux-2.6:2.6.32-48squeeze19
 #
 # CVE List:
 #   - CVE-2012-6657
@@ -34,4 +34,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-103-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze18 -y
+sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze19 -y
