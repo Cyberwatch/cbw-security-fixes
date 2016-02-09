@@ -3,7 +3,7 @@
 # Security fix for USN-2785-1
 #
 # Security announcement date: 2015-11-04 00:00:00 UTC
-# Script generation date:     2016-01-27 19:02:28 UTC
+# Script generation date:     2016-02-09 07:02:35 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - firefox:42.0+build2-0ubuntu0.15.10.1
 #
 # Last versions recommanded by security team:
-#   - firefox:44.0+build3-0ubuntu0.15.10.1
+#   - firefox:44.0.1+build2-0ubuntu0.15.10.1
 #
 # CVE List:
 #   - CVE-2015-4513
