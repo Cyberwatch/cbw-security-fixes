@@ -4,7 +4,7 @@
 # Security fix for DSA-2453-1
 #
 # Security announcement date: 2012-04-16 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:56 UTC
+# Script generation date:     2016-02-09 19:07:02 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - gajim:0.13.4-3+squeeze2
 #
 # Last versions recommanded by security team:
-#   - gajim:0.13.4-3+squeeze3
+#   - gajim:0.13.4-3+squeeze4
 #
 # CVE List:
 #   - CVE-2012-2093
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2453-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade gajim=0.13.4-3+squeeze3 -y
+sudo apt-get install --only-upgrade gajim=0.13.4-3+squeeze4 -y
