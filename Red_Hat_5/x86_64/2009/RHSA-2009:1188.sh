@@ -3,7 +3,7 @@
 # Security fix for RHSA-2009:1188
 #
 # Security announcement date: 2009-07-31 14:22:38 UTC
-# Script generation date:     2016-02-04 19:14:01 UTC
+# Script generation date:     2016-02-11 07:14:48 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - flash-plugin.i386:10.0.32.18-2.el5
 #
 # Last versions recommanded by security team:
-#   - flash-plugin.i386:11.2.202.559-1.el5
+#   - flash-plugin.i386:11.2.202.569-1.el5
 #
 # CVE List:
 #   - CVE-2009-1862
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2009:1188
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install flash-plugin.i386-11.2.202.559 -y 
+sudo yum install flash-plugin.i386-11.2.202.569 -y 
