@@ -4,7 +4,7 @@
 # Security fix for DLA-411-1
 #
 # Security announcement date: 2016-02-05 00:00:00 UTC
-# Script generation date:     2016-02-07 07:04:45 UTC
+# Script generation date:     2016-02-12 07:13:00 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - eglibc:2.11.3-4+deb6u9
 #
 # Last versions recommanded by security team:
-#   - eglibc:2.11.3-4+deb6u9
+#   - eglibc:2.11.3-4+deb6u10
 #
 # CVE List:
 #   - CVE-2014-9761
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-411-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade eglibc=2.11.3-4+deb6u9 -y
+sudo apt-get install --only-upgrade eglibc=2.11.3-4+deb6u10 -y
