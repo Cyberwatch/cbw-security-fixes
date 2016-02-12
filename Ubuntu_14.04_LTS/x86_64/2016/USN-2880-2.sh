@@ -4,7 +4,7 @@
 # Security fix for USN-2880-2
 #
 # Security announcement date: 2016-02-08 00:00:00 UTC
-# Script generation date:     2016-02-10 07:02:55 UTC
+# Script generation date:     2016-02-12 07:02:48 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - firefox:44.0.1+build2-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:44.0.1+build2-0ubuntu0.14.04.1
+#   - firefox:44.0.2+build1-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2016-1930
@@ -33,4 +33,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2880-2
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=44.0.1+build2-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade firefox=44.0.2+build1-0ubuntu0.14.04.1 -y

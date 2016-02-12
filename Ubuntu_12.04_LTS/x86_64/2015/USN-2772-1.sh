@@ -4,7 +4,7 @@
 # Security fix for USN-2772-1
 #
 # Security announcement date: 2015-10-16 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:18 UTC
+# Script generation date:     2016-02-12 07:02:28 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - postgresql-9.1:9.1.19-0ubuntu0.12.04
 #
 # Last versions recommanded by security team:
-#   - postgresql-9.1:9.1.19-0ubuntu0.12.04
+#   - postgresql-9.1:9.1.20-0ubuntu0.12.04
 #
 # CVE List:
 #   - CVE-2015-5288
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2772-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade postgresql-9.1=9.1.19-0ubuntu0.12.04 -y
+sudo apt-get install --only-upgrade postgresql-9.1=9.1.20-0ubuntu0.12.04 -y

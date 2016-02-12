@@ -4,7 +4,7 @@
 # Security fix for USN-2150-1
 #
 # Security announcement date: 2014-03-18 00:00:00 UTC
-# Script generation date:     2016-02-09 07:01:19 UTC
+# Script generation date:     2016-02-12 07:01:15 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox:28.0+build2-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:44.0.1+build2-0ubuntu0.12.04.1
+#   - firefox:44.0.2+build1-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2014-1493
@@ -37,4 +37,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2150-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=44.0.1+build2-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade firefox=44.0.2+build1-0ubuntu0.12.04.1 -y

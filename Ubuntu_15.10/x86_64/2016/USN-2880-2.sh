@@ -3,7 +3,7 @@
 # Security fix for USN-2880-2
 #
 # Security announcement date: 2016-02-08 00:00:00 UTC
-# Script generation date:     2016-02-10 07:02:55 UTC
+# Script generation date:     2016-02-12 07:02:48 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - firefox:44.0.1+build2-0ubuntu0.15.10.1
 #
 # Last versions recommanded by security team:
-#   - firefox:44.0.1+build2-0ubuntu0.15.10.1
+#   - firefox:44.0.2+build1-0ubuntu0.15.10.1
 #
 # CVE List:
 #   - CVE-2016-1930

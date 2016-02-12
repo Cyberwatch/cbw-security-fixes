@@ -4,7 +4,7 @@
 # Security fix for USN-1509-1
 #
 # Security announcement date: 2012-07-17 00:00:00 UTC
-# Script generation date:     2016-02-09 07:00:31 UTC
+# Script generation date:     2016-02-12 07:00:27 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - firefox:14.0.1+build1-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:44.0.1+build2-0ubuntu0.12.04.1
+#   - firefox:44.0.2+build1-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2012-1948
@@ -40,4 +40,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-1509-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=44.0.1+build2-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade firefox=44.0.2+build1-0ubuntu0.12.04.1 -y
