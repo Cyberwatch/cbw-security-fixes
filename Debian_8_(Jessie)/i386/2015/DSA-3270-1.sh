@@ -4,7 +4,7 @@
 # Security fix for DSA-3270-1
 #
 # Security announcement date: 2015-05-22 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:53 UTC
+# Script generation date:     2016-02-13 19:04:12 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - postgresql-9.4:9.4.2-0+deb8u1
 #
 # Last versions recommanded by security team:
-#   - postgresql-9.4:9.4.5-0+deb8u1
+#   - postgresql-9.4:9.4.6-0+deb8u1
 #
 # CVE List:
 #   - CVE-2015-3165
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3270-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade postgresql-9.4=9.4.5-0+deb8u1 -y
+sudo apt-get install --only-upgrade postgresql-9.4=9.4.6-0+deb8u1 -y
