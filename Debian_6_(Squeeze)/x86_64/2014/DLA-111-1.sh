@@ -4,7 +4,7 @@
 # Security fix for DLA-111-1
 #
 # Security announcement date: 2014-12-15 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:22 UTC
+# Script generation date:     2016-02-15 19:04:43 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - cpio:2.11-4+deb6u1
 #
 # Last versions recommanded by security team:
-#   - cpio:2.11-4+deb6u1
+#   - cpio:2.11-4+deb6u2
 #
 # CVE List:
 #   - CVE-2014-9112
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-111-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade cpio=2.11-4+deb6u1 -y
+sudo apt-get install --only-upgrade cpio=2.11-4+deb6u2 -y
