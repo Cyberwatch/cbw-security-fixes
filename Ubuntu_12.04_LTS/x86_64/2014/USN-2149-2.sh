@@ -4,7 +4,7 @@
 # Security fix for USN-2149-2
 #
 # Security announcement date: 2014-03-17 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:05 UTC
+# Script generation date:     2016-02-16 07:01:19 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libgtk-3-0:3.4.2-0ubuntu0.7
 #
 # Last versions recommanded by security team:
-#   - libgtk-3-0:3.4.2-0ubuntu0.7
+#   - libgtk-3-0:3.4.2-0ubuntu0.9
 #
 # CVE List:
 #   - CVE-2013-1881
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2149-2
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgtk-3-0=3.4.2-0ubuntu0.7 -y
+sudo apt-get install --only-upgrade libgtk-3-0=3.4.2-0ubuntu0.9 -y
