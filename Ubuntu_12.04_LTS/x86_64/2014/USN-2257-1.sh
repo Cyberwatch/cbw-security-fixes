@@ -4,7 +4,7 @@
 # Security fix for USN-2257-1
 #
 # Security announcement date: 2014-06-26 00:00:00 UTC
-# Script generation date:     2016-01-06 07:01:07 UTC
+# Script generation date:     2016-02-16 19:01:27 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - samba:2:3.6.3-2ubuntu2.11
 #
 # Last versions recommanded by security team:
-#   - samba:2:3.6.3-2ubuntu2.13
+#   - samba:2:3.6.3-2ubuntu2.14
 #
 # CVE List:
 #   - CVE-2014-0178
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2257-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade samba=2:3.6.3-2ubuntu2.13 -y
+sudo apt-get install --only-upgrade samba=2:3.6.3-2ubuntu2.14 -y

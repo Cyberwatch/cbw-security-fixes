@@ -4,7 +4,7 @@
 # Security fix for USN-2481-1
 #
 # Security announcement date: 2015-01-22 00:00:00 UTC
-# Script generation date:     2016-01-06 07:01:28 UTC
+# Script generation date:     2016-02-16 19:01:50 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - samba:2:4.1.6+dfsg-1ubuntu2.14.04.4
 #
 # Last versions recommanded by security team:
-#   - samba:2:4.1.6+dfsg-1ubuntu2.14.04.11
+#   - samba:2:4.1.6+dfsg-1ubuntu2.14.04.12
 #
 # CVE List:
 #   - CVE-2014-8143
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2481-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade samba=2:4.1.6+dfsg-1ubuntu2.14.04.11 -y
+sudo apt-get install --only-upgrade samba=2:4.1.6+dfsg-1ubuntu2.14.04.12 -y
