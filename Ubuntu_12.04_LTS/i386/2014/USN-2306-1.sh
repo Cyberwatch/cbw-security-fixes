@@ -4,7 +4,7 @@
 # Security fix for USN-2306-1
 #
 # Security announcement date: 2014-08-04 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:16 UTC
+# Script generation date:     2016-02-17 07:01:30 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libc6:2.15-0ubuntu10.6
 #
 # Last versions recommanded by security team:
-#   - libc6:2.15-0ubuntu10.11
+#   - libc6:2.15-0ubuntu10.13
 #
 # CVE List:
 #   - CVE-2013-4357
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2306-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libc6=2.15-0ubuntu10.11 -y
+sudo apt-get install --only-upgrade libc6=2.15-0ubuntu10.13 -y

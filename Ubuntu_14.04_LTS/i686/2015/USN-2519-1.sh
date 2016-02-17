@@ -4,7 +4,7 @@
 # Security fix for USN-2519-1
 #
 # Security announcement date: 2015-02-26 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:39 UTC
+# Script generation date:     2016-02-17 07:01:54 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - libc6:2.19-0ubuntu6.6
 #
 # Last versions recommanded by security team:
-#   - libc6:2.19-0ubuntu6.6
+#   - libc6:2.19-0ubuntu6.7
 #
 # CVE List:
 #   - CVE-2013-7423
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2519-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libc6=2.19-0ubuntu6.6 -y
+sudo apt-get install --only-upgrade libc6=2.19-0ubuntu6.7 -y
