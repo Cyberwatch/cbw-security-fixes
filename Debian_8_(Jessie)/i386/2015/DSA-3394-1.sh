@@ -4,7 +4,7 @@
 # Security fix for DSA-3394-1
 #
 # Security announcement date: 2015-11-05 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:04 UTC
+# Script generation date:     2016-02-17 19:04:24 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libreoffice:1:4.3.3-2+deb8u2
 #
 # Last versions recommanded by security team:
-#   - libreoffice:1:4.3.3-2+deb8u2
+#   - libreoffice:1:4.3.3-2+deb8u3
 #
 # CVE List:
 #   - CVE-2015-4551
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3394-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libreoffice=1:4.3.3-2+deb8u2 -y
+sudo apt-get install --only-upgrade libreoffice=1:4.3.3-2+deb8u3 -y
