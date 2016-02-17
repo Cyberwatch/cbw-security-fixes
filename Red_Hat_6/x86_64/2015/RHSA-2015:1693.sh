@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1693
 #
 # Security announcement date: 2015-08-27 21:19:25 UTC
-# Script generation date:     2016-02-04 19:19:44 UTC
+# Script generation date:     2016-02-17 07:21:51 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - firefox-debuginfo.i686:38.2.1-1.el6_7
 #
 # Last versions recommanded by security team:
-#   - firefox.x86_64:38.6.0-1.el6_7
-#   - firefox-debuginfo.x86_64:38.6.0-1.el6_7
-#   - firefox.i686:38.6.0-1.el6_7
-#   - firefox-debuginfo.i686:38.6.0-1.el6_7
+#   - firefox.x86_64:38.6.1-1.el6_7
+#   - firefox-debuginfo.x86_64:38.6.1-1.el6_7
+#   - firefox.i686:38.6.1-1.el6_7
+#   - firefox-debuginfo.i686:38.6.1-1.el6_7
 #
 # CVE List:
 #   - CVE-2015-4497
@@ -28,7 +28,7 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1693
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.x86_64-38.6.0 -y 
-sudo yum install firefox-debuginfo.x86_64-38.6.0 -y 
-sudo yum install firefox.i686-38.6.0 -y 
-sudo yum install firefox-debuginfo.i686-38.6.0 -y 
+sudo yum install firefox.x86_64-38.6.1 -y 
+sudo yum install firefox-debuginfo.x86_64-38.6.1 -y 
+sudo yum install firefox.i686-38.6.1 -y 
+sudo yum install firefox-debuginfo.i686-38.6.1 -y 

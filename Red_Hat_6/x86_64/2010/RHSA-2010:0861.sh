@@ -3,7 +3,7 @@
 # Security fix for RHSA-2010:0861
 #
 # Security announcement date: 2010-11-10 19:31:57 UTC
-# Script generation date:     2016-02-04 19:14:35 UTC
+# Script generation date:     2016-02-17 07:16:07 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -19,8 +19,8 @@
 #   - xulrunner-devel.i686:1.9.2.12-1.el6_0
 #
 # Last versions recommanded by security team:
-#   - firefox.x86_64:38.6.0-1.el6_7
-#   - firefox-debuginfo.x86_64:38.6.0-1.el6_7
+#   - firefox.x86_64:38.6.1-1.el6_7
+#   - firefox-debuginfo.x86_64:38.6.1-1.el6_7
 #   - xulrunner.x86_64:17.0.10-1.el6_4
 #   - xulrunner-debuginfo.x86_64:17.0.10-1.el6_4
 #   - xulrunner-devel.x86_64:17.0.10-1.el6_4
@@ -43,8 +43,8 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2010:0861
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.x86_64-38.6.0 -y 
-sudo yum install firefox-debuginfo.x86_64-38.6.0 -y 
+sudo yum install firefox.x86_64-38.6.1 -y 
+sudo yum install firefox-debuginfo.x86_64-38.6.1 -y 
 sudo yum install xulrunner.x86_64-17.0.10 -y 
 sudo yum install xulrunner-debuginfo.x86_64-17.0.10 -y 
 sudo yum install xulrunner-devel.x86_64-17.0.10 -y 

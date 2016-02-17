@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:2023
 #
 # Security announcement date: 2014-12-18 20:33:15 UTC
-# Script generation date:     2016-02-04 19:18:44 UTC
+# Script generation date:     2016-02-17 07:20:47 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -25,20 +25,20 @@
 #   - glibc-static.i686:2.17-55.el7_0.3
 #
 # Last versions recommanded by security team:
-#   - glibc.x86_64:2.17-79.el7_1
-#   - glibc-common.x86_64:2.17-79.el7_1
-#   - glibc-debuginfo.x86_64:2.17-79.el7_1
-#   - glibc-debuginfo-common.x86_64:2.17-79.el7_1
-#   - glibc-devel.x86_64:2.17-79.el7_1
-#   - glibc-headers.x86_64:2.17-79.el7_1
-#   - glibc-utils.x86_64:2.17-79.el7_1
-#   - nscd.x86_64:2.17-79.el7_1
-#   - glibc-static.x86_64:2.17-79.el7_1
-#   - glibc.i686:2.17-79.el7_1
-#   - glibc-debuginfo.i686:2.17-79.el7_1
-#   - glibc-debuginfo-common.i686:2.17-79.el7_1
-#   - glibc-devel.i686:2.17-79.el7_1
-#   - glibc-static.i686:2.17-79.el7_1
+#   - glibc.x86_64:2.17-79.el7_1.4
+#   - glibc-common.x86_64:2.17-79.el7_1.4
+#   - glibc-debuginfo.x86_64:2.17-79.el7_1.4
+#   - glibc-debuginfo-common.x86_64:2.17-79.el7_1.4
+#   - glibc-devel.x86_64:2.17-79.el7_1.4
+#   - glibc-headers.x86_64:2.17-79.el7_1.4
+#   - glibc-utils.x86_64:2.17-79.el7_1.4
+#   - nscd.x86_64:2.17-79.el7_1.4
+#   - glibc-static.x86_64:2.17-79.el7_1.4
+#   - glibc.i686:2.17-79.el7_1.4
+#   - glibc-debuginfo.i686:2.17-79.el7_1.4
+#   - glibc-debuginfo-common.i686:2.17-79.el7_1.4
+#   - glibc-devel.i686:2.17-79.el7_1.4
+#   - glibc-static.i686:2.17-79.el7_1.4
 #
 # CVE List:
 #   - CVE-2014-7817
