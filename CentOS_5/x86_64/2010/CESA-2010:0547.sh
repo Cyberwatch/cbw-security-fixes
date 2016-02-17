@@ -3,7 +3,7 @@
 # Security fix for CESA-2010:0547
 #
 # Security announcement date: 2010-07-22 15:29:06 UTC
-# Script generation date:     2016-02-04 19:11:03 UTC
+# Script generation date:     2016-02-17 07:10:24 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,10 +17,10 @@
 #   - xulrunner-devel.i386:1.9.2.7-2.el5
 #
 # Last versions recommanded by security team:
-#   - firefox.x86_64:38.6.0-1.el5.centos
+#   - firefox.x86_64:38.6.1-1.el5.centos
 #   - xulrunner.x86_64:17.0.10-1.el5_10
 #   - xulrunner-devel.x86_64:17.0.10-1.el5_10
-#   - firefox.i386:38.6.0-1.el5.centos
+#   - firefox.i386:38.6.1-1.el5.centos
 #   - xulrunner.i386:17.0.10-1.el5_10
 #   - xulrunner-devel.i386:17.0.10-1.el5_10
 #
@@ -46,9 +46,9 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2010:0547
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.x86_64-38.6.0 -y 
+sudo yum install firefox.x86_64-38.6.1 -y 
 sudo yum install xulrunner.x86_64-17.0.10 -y 
 sudo yum install xulrunner-devel.x86_64-17.0.10 -y 
-sudo yum install firefox.i386-38.6.0 -y 
+sudo yum install firefox.i386-38.6.1 -y 
 sudo yum install xulrunner.i386-17.0.10 -y 
 sudo yum install xulrunner-devel.i386-17.0.10 -y 

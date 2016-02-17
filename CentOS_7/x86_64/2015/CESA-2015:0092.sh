@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:0092
 #
 # Security announcement date: 2015-01-28 00:30:01 UTC
-# Script generation date:     2016-02-04 19:12:44 UTC
+# Script generation date:     2016-02-17 07:12:20 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -21,16 +21,16 @@
 #   - glibc-static.i686:2.17-55.el7_0.5
 #
 # Last versions recommanded by security team:
-#   - glibc.x86_64:2.17-105.el7
-#   - glibc-common.x86_64:2.17-105.el7
-#   - glibc-devel.x86_64:2.17-105.el7
-#   - glibc-headers.x86_64:2.17-105.el7
-#   - glibc-static.x86_64:2.17-105.el7
-#   - glibc-utils.x86_64:2.17-105.el7
-#   - nscd.x86_64:2.17-105.el7
-#   - glibc.i686:2.17-106.el7_2.1
-#   - glibc-devel.i686:2.17-106.el7_2.1
-#   - glibc-static.i686:2.17-106.el7_2.1
+#   - glibc.x86_64:2.17-106.el7_2.4
+#   - glibc-common.x86_64:2.17-106.el7_2.4
+#   - glibc-devel.x86_64:2.17-106.el7_2.4
+#   - glibc-headers.x86_64:2.17-106.el7_2.4
+#   - glibc-static.x86_64:2.17-106.el7_2.4
+#   - glibc-utils.x86_64:2.17-106.el7_2.4
+#   - nscd.x86_64:2.17-106.el7_2.4
+#   - glibc.i686:2.17-106.el7_2.4
+#   - glibc-devel.i686:2.17-106.el7_2.4
+#   - glibc-static.i686:2.17-106.el7_2.4
 #
 # CVE List:
 #   - CVE-2015-0235

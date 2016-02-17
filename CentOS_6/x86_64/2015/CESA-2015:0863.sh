@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:0863
 #
 # Security announcement date: 2015-04-21 13:07:39 UTC
-# Script generation date:     2016-02-04 19:12:52 UTC
+# Script generation date:     2016-02-17 07:12:28 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -21,16 +21,16 @@
 #   - glibc-static.i686:2.12-1.149.el6_6.7
 #
 # Last versions recommanded by security team:
-#   - glibc.x86_64:2.12-1.149.el6_6.7
-#   - glibc-common.x86_64:2.12-1.149.el6_6.7
-#   - glibc-devel.x86_64:2.12-1.149.el6_6.7
-#   - glibc-headers.x86_64:2.12-1.149.el6_6.7
-#   - glibc-static.x86_64:2.12-1.149.el6_6.7
-#   - glibc-utils.x86_64:2.12-1.149.el6_6.7
-#   - nscd.x86_64:2.12-1.149.el6_6.7
-#   - glibc.i686:2.12-1.149.el6_6.7
-#   - glibc-devel.i686:2.12-1.149.el6_6.7
-#   - glibc-static.i686:2.12-1.149.el6_6.7
+#   - glibc.x86_64:2.12-1.166.el6_7.7
+#   - glibc-common.x86_64:2.12-1.166.el6_7.7
+#   - glibc-devel.x86_64:2.12-1.166.el6_7.7
+#   - glibc-headers.x86_64:2.12-1.166.el6_7.7
+#   - glibc-static.x86_64:2.12-1.166.el6_7.7
+#   - glibc-utils.x86_64:2.12-1.166.el6_7.7
+#   - nscd.x86_64:2.12-1.166.el6_7.7
+#   - glibc.i686:2.12-1.166.el6_7.7
+#   - glibc-devel.i686:2.12-1.166.el6_7.7
+#   - glibc-static.i686:2.12-1.166.el6_7.7
 #
 # CVE List:
 #   - CVE-2013-7423

@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:1162
 #
 # Security announcement date: 2009-07-28 12:22:38 UTC
-# Script generation date:     2016-02-04 19:10:49 UTC
+# Script generation date:     2016-02-17 07:09:53 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -18,11 +18,11 @@
 #   - xulrunner-devel.i386:1.9.0.12-1.el5
 #
 # Last versions recommanded by security team:
-#   - firefox.x86_64:38.6.0-1.el5.centos
+#   - firefox.x86_64:38.6.1-1.el5.centos
 #   - xulrunner.x86_64:17.0.10-1.el5_10
 #   - xulrunner-devel.x86_64:17.0.10-1.el5_10
 #   - xulrunner-devel-unstable.x86_64:1.9.0.18-1.el5_4
-#   - firefox.i386:38.6.0-1.el5.centos
+#   - firefox.i386:38.6.1-1.el5.centos
 #   - xulrunner.i386:17.0.10-1.el5_10
 #   - xulrunner-devel.i386:17.0.10-1.el5_10
 #
@@ -41,10 +41,10 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2009:1162
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.x86_64-38.6.0 -y 
+sudo yum install firefox.x86_64-38.6.1 -y 
 sudo yum install xulrunner.x86_64-17.0.10 -y 
 sudo yum install xulrunner-devel.x86_64-17.0.10 -y 
 sudo yum install xulrunner-devel-unstable.x86_64-1.9.0.18 -y 
-sudo yum install firefox.i386-38.6.0 -y 
+sudo yum install firefox.i386-38.6.1 -y 
 sudo yum install xulrunner.i386-17.0.10 -y 
 sudo yum install xulrunner-devel.i386-17.0.10 -y 
