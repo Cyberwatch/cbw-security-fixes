@@ -1,7 +1,7 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-416-1
+# Security fix for DLA-417-1
 #
 # Security announcement date: 2016-02-16 00:00:00 UTC
 # Script generation date:     2016-02-18 07:09:01 UTC
@@ -10,16 +10,16 @@
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - eglibc:2.11.3-4+deb6u11
+#   - xdelta3:0y.dfsg-1+deb6u1
 #
 # Last versions recommanded by security team:
-#   - eglibc:2.11.3-4+deb6u11
+#   - xdelta3:0y.dfsg-1+deb6u1
 #
 # CVE List:
-#   - CVE-2015-7547
+#   - CVE-2014-9765
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-416-1
+#   - https://www.cyberwatch.fr/notices/DLA-417-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade eglibc=2.11.3-4+deb6u11 -y
+sudo apt-get install --only-upgrade xdelta3=0y.dfsg-1+deb6u1 -y

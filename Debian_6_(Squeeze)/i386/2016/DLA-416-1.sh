@@ -3,8 +3,8 @@
 #
 # Security fix for DLA-416-1
 #
-# Security announcement date: 2016-02-15 00:00:00 UTC
-# Script generation date:     2016-02-17 07:09:08 UTC
+# Security announcement date: 2016-02-16 00:00:00 UTC
+# Script generation date:     2016-02-18 07:09:01 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
