@@ -4,7 +4,7 @@
 # Security fix for USN-2030-1
 #
 # Security announcement date: 2013-11-18 00:00:00 UTC
-# Script generation date:     2016-01-08 07:00:53 UTC
+# Script generation date:     2016-02-18 07:01:11 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libnss3:3.15.3-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - libnss3:3.19.2.1-0ubuntu0.12.04.2
+#   - libnss3:2:3.21-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2013-1739
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2030-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libnss3=3.19.2.1-0ubuntu0.12.04.2 -y
+sudo apt-get install --only-upgrade libnss3=2:3.21-0ubuntu0.12.04.1 -y
