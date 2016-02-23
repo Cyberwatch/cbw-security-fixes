@@ -4,7 +4,7 @@
 # Security fix for USN-2495-1
 #
 # Security announcement date: 2015-02-10 00:00:00 UTC
-# Script generation date:     2016-02-19 07:01:58 UTC
+# Script generation date:     2016-02-23 19:01:56 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -15,9 +15,9 @@
 #   - oxideqt-codecs-extra:1.4.3-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - liboxideqtcore0:1.12.6-0ubuntu0.14.04.1
-#   - oxideqt-codecs:1.12.6-0ubuntu0.14.04.1
-#   - oxideqt-codecs-extra:1.12.6-0ubuntu0.14.04.1
+#   - liboxideqtcore0:1.12.7-0ubuntu0.14.04.1
+#   - oxideqt-codecs:1.12.7-0ubuntu0.14.04.1
+#   - oxideqt-codecs-extra:1.12.7-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2015-1209
@@ -29,6 +29,6 @@
 #   - https://www.cyberwatch.fr/notices/USN-2495-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade liboxideqtcore0=1.12.6-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade oxideqt-codecs=1.12.6-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade oxideqt-codecs-extra=1.12.6-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade liboxideqtcore0=1.12.7-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade oxideqt-codecs=1.12.7-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade oxideqt-codecs-extra=1.12.7-0ubuntu0.14.04.1 -y
