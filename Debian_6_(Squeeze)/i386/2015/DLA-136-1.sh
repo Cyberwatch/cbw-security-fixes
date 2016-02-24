@@ -4,7 +4,7 @@
 # Security fix for DLA-136-1
 #
 # Security announcement date: 2015-01-24 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:23 UTC
+# Script generation date:     2016-02-24 19:14:00 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - websvn:2.3.1-1+deb6u1
 #
 # Last versions recommanded by security team:
-#   - websvn:2.3.1-1+deb6u1
+#   - websvn:2.3.1-1+deb6u2
 #
 # CVE List:
 #   - CVE-2013-6892
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-136-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade websvn=2.3.1-1+deb6u1 -y
+sudo apt-get install --only-upgrade websvn=2.3.1-1+deb6u2 -y
