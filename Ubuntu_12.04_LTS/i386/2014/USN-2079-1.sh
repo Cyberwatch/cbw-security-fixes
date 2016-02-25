@@ -4,7 +4,7 @@
 # Security fix for USN-2079-1
 #
 # Security announcement date: 2014-01-09 00:00:00 UTC
-# Script generation date:     2016-01-08 07:00:55 UTC
+# Script generation date:     2016-02-25 07:01:29 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libssl1.0.0:1.0.1-4ubuntu5.11
 #
 # Last versions recommanded by security team:
-#   - libssl1.0.0:1.0.1-4ubuntu5.33
+#   - libssl1.0.0:1.0.1-4ubuntu5.34
 #
 # CVE List:
 #   - CVE-2013-4353
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2079-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.33 -y
+sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.34 -y

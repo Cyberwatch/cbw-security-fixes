@@ -4,7 +4,7 @@
 # Security fix for USN-2509-1
 #
 # Security announcement date: 2015-02-23 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:38 UTC
+# Script generation date:     2016-02-25 07:02:09 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - ca-certificates:20141019ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - ca-certificates:20141019ubuntu0.14.04.1
+#   - ca-certificates:20160104ubuntu0.14.04.1
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2509-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ca-certificates=20141019ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade ca-certificates=20160104ubuntu0.14.04.1 -y
