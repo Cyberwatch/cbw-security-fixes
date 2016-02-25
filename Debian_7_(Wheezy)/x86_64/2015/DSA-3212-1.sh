@@ -4,7 +4,7 @@
 # Security fix for DSA-3212-1
 #
 # Security announcement date: 2015-04-02 00:00:00 UTC
-# Script generation date:     2016-01-01 19:08:05 UTC
+# Script generation date:     2016-02-25 07:08:29 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - icedove:31.6.0-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - icedove:38.5.0-1~deb7u1
+#   - icedove:38.6.0-1~deb7u1
 #
 # CVE List:
 #   - CVE-2015-0801
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3212-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedove=38.5.0-1~deb7u1 -y
+sudo apt-get install --only-upgrade icedove=38.6.0-1~deb7u1 -y
