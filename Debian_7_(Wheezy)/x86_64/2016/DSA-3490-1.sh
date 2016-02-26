@@ -3,8 +3,8 @@
 #
 # Security fix for DSA-3490-1
 #
-# Security announcement date: 2016-02-23 00:00:00 UTC
-# Script generation date:     2016-02-25 07:08:53 UTC
+# Security announcement date: 2016-02-24 00:00:00 UTC
+# Script generation date:     2016-02-26 07:04:40 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
