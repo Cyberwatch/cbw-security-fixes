@@ -3,7 +3,7 @@
 # Security fix for USN-2908-1
 #
 # Security announcement date: 2016-02-22 00:00:00 UTC
-# Script generation date:     2016-02-24 07:03:10 UTC
+# Script generation date:     2016-02-27 07:03:11 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -20,11 +20,11 @@
 # Last versions recommanded by security team:
 #   - linux-image-4.2.0-30-powerpc-smp:4.2.0-30.35
 #   - linux-image-4.2.0-30-powerpc64-smp:4.2.0-30.35
-#   - linux-image-4.2.0-30-lowlatency:4.2.0-30.35
+#   - linux-image-4.2.0-30-lowlatency:4.2.0-30.36
 #   - linux-image-4.2.0-30-powerpc-e500mc:4.2.0-30.35
 #   - linux-image-4.2.0-30-powerpc64-emb:4.2.0-30.35
 #   - linux-image-4.2.0-30-generic-lpae:4.2.0-30.35
-#   - linux-image-4.2.0-30-generic:4.2.0-30.35
+#   - linux-image-4.2.0-30-generic:4.2.0-30.36
 #
 # CVE List:
 #   - CVE-2016-1576
