@@ -4,7 +4,7 @@
 # Security fix for USN-2909-1
 #
 # Security announcement date: 2016-02-22 00:00:00 UTC
-# Script generation date:     2016-02-24 07:03:10 UTC
+# Script generation date:     2016-02-27 19:03:04 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -20,11 +20,11 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.16.0-62-generic-lpae:3.16.0-62.82~14.04.1
-#   - linux-image-3.16.0-62-lowlatency:3.16.0-62.82~14.04.1
+#   - linux-image-3.16.0-62-lowlatency:3.16.0-62.83~14.04.1
 #   - linux-image-3.16.0-62-powerpc-e500mc:3.16.0-62.82~14.04.1
 #   - linux-image-3.16.0-62-powerpc-smp:3.16.0-62.82~14.04.1
 #   - linux-image-3.16.0-62-powerpc64-smp:3.16.0-62.82~14.04.1
-#   - linux-image-3.16.0-62-generic:3.16.0-62.82~14.04.1
+#   - linux-image-3.16.0-62-generic:3.16.0-62.83~14.04.1
 #   - linux-image-3.16.0-62-powerpc64-emb:3.16.0-62.82~14.04.1
 #
 # CVE List:
@@ -37,9 +37,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.16.0-62-generic-lpae=3.16.0-62.82~14.04.1 -y
-sudo apt-get install --only-upgrade linux-image-3.16.0-62-lowlatency=3.16.0-62.82~14.04.1 -y
+sudo apt-get install --only-upgrade linux-image-3.16.0-62-lowlatency=3.16.0-62.83~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.16.0-62-powerpc-e500mc=3.16.0-62.82~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.16.0-62-powerpc-smp=3.16.0-62.82~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.16.0-62-powerpc64-smp=3.16.0-62.82~14.04.1 -y
-sudo apt-get install --only-upgrade linux-image-3.16.0-62-generic=3.16.0-62.82~14.04.1 -y
+sudo apt-get install --only-upgrade linux-image-3.16.0-62-generic=3.16.0-62.83~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.16.0-62-powerpc64-emb=3.16.0-62.82~14.04.1 -y
