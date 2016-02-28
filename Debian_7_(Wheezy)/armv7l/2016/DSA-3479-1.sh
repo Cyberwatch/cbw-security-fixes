@@ -4,7 +4,7 @@
 # Security fix for DSA-3479-1
 #
 # Security announcement date: 2016-02-15 00:00:00 UTC
-# Script generation date:     2016-02-17 07:08:40 UTC
+# Script generation date:     2016-02-28 19:08:48 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -19,6 +19,7 @@
 #   - CVE-2016-1521
 #   - CVE-2016-1522
 #   - CVE-2016-1523
+#   - CVE-2016-1526
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/DSA-3479-1

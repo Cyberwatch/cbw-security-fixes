@@ -4,7 +4,7 @@
 # Security fix for DSA-3491-1
 #
 # Security announcement date: 2016-02-24 00:00:00 UTC
-# Script generation date:     2016-02-26 07:04:40 UTC
+# Script generation date:     2016-02-28 19:08:50 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -20,6 +20,7 @@
 #   - CVE-2016-1523
 #   - CVE-2016-1930
 #   - CVE-2016-1935
+#   - CVE-2016-1526
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/DSA-3491-1
