@@ -4,7 +4,7 @@
 # Security fix for DSA-3312-1
 #
 # Security announcement date: 2015-07-22 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:58 UTC
+# Script generation date:     2016-02-28 07:04:26 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - cacti:0.8.8b+dfsg-8+deb8u2
 #
 # Last versions recommanded by security team:
-#   - cacti:0.8.8b+dfsg-8+deb8u3
+#   - cacti:0.8.8b+dfsg-8+deb8u4
 #
 # CVE List:
 #   - CVE-2015-4634
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3312-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade cacti=0.8.8b+dfsg-8+deb8u3 -y
+sudo apt-get install --only-upgrade cacti=0.8.8b+dfsg-8+deb8u4 -y

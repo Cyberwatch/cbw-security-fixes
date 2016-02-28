@@ -4,7 +4,7 @@
 # Security fix for DSA-3423-1
 #
 # Security announcement date: 2015-12-16 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:07 UTC
+# Script generation date:     2016-02-28 07:04:36 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - cacti:0.8.8a+dfsg-5+deb7u7
 #
 # Last versions recommanded by security team:
-#   - cacti:0.8.8a+dfsg-5+deb7u7
+#   - cacti:0.8.8a+dfsg-5+deb7u8
 #
 # CVE List:
 #   - CVE-2015-8369
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3423-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade cacti=0.8.8a+dfsg-5+deb7u7 -y
+sudo apt-get install --only-upgrade cacti=0.8.8a+dfsg-5+deb7u8 -y
