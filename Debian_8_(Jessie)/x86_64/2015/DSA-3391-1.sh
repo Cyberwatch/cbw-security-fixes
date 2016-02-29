@@ -4,7 +4,7 @@
 # Security fix for DSA-3391-1
 #
 # Security announcement date: 2015-11-03 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:04 UTC
+# Script generation date:     2016-02-29 07:04:42 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - php-horde:5.2.1+debian0-2+deb8u2
 #
 # Last versions recommanded by security team:
-#   - php-horde:5.2.1+debian0-2+deb8u2
+#   - php-horde:5.2.1+debian0-2+deb8u3
 #
 # CVE List:
 #   - CVE-2015-7984
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3391-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php-horde=5.2.1+debian0-2+deb8u2 -y
+sudo apt-get install --only-upgrade php-horde=5.2.1+debian0-2+deb8u3 -y

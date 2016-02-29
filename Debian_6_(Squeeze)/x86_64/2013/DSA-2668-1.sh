@@ -4,7 +4,7 @@
 # Security fix for DSA-2668-1
 #
 # Security announcement date: 2013-05-14 00:00:00 UTC
-# Script generation date:     2016-02-05 19:03:19 UTC
+# Script generation date:     2016-02-29 07:03:46 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - linux-2.6:2.6.32-48squeeze3
 #
 # Last versions recommanded by security team:
-#   - linux-2.6:2.6.32-48squeeze19
+#   - linux-2.6:2.6.32-48squeeze20
 #
 # CVE List:
 #   - CVE-2012-2121
@@ -57,4 +57,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2668-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze19 -y
+sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze20 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-2389-1
 #
 # Security announcement date: 2012-01-15 00:00:00 UTC
-# Script generation date:     2016-02-05 19:03:06 UTC
+# Script generation date:     2016-02-29 07:03:30 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - linux-2.6:2.6.32-39squeeze1
 #
 # Last versions recommanded by security team:
-#   - linux-2.6:2.6.32-48squeeze19
+#   - linux-2.6:2.6.32-48squeeze20
 #
 # CVE List:
 #   - CVE-2011-2183
@@ -31,4 +31,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2389-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze19 -y
+sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze20 -y

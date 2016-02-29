@@ -4,7 +4,7 @@
 # Security fix for DSA-3346-1
 #
 # Security announcement date: 2015-08-31 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:01 UTC
+# Script generation date:     2016-02-29 07:04:39 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - drupal7:7.32-1+deb8u5
 #
 # Last versions recommanded by security team:
-#   - drupal7:7.32-1+deb8u5
+#   - drupal7:7.32-1+deb8u6
 #
 # CVE List:
 #   - CVE-2015-6658
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3346-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade drupal7=7.32-1+deb8u5 -y
+sudo apt-get install --only-upgrade drupal7=7.32-1+deb8u6 -y
