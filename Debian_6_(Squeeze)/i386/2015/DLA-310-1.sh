@@ -4,7 +4,7 @@
 # Security fix for DLA-310-1
 #
 # Security announcement date: 2015-09-19 00:00:00 UTC
-# Script generation date:     2016-02-05 19:08:07 UTC
+# Script generation date:     2016-02-29 07:09:16 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - linux-2.6:2.6.32-48squeeze14
 #
 # Last versions recommanded by security team:
-#   - linux-2.6:2.6.32-48squeeze19
+#   - linux-2.6:2.6.32-48squeeze20
 #
 # CVE List:
 #   - CVE-2015-0272
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-310-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze19 -y
+sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze20 -y

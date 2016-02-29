@@ -4,7 +4,7 @@
 # Security fix for DLA-378-1
 #
 # Security announcement date: 2016-01-02 00:00:00 UTC
-# Script generation date:     2016-02-05 19:08:13 UTC
+# Script generation date:     2016-02-29 07:09:22 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - linux-2.6:2.6.32-48squeeze18
 #
 # Last versions recommanded by security team:
-#   - linux-2.6:2.6.32-48squeeze19
+#   - linux-2.6:2.6.32-48squeeze20
 #
 # CVE List:
 #   - CVE-2015-7550
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DLA-378-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze19 -y
+sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze20 -y
