@@ -4,7 +4,7 @@
 # Security fix for USN-2165-1
 #
 # Security announcement date: 2014-04-07 00:00:00 UTC
-# Script generation date:     2016-02-25 07:01:34 UTC
+# Script generation date:     2016-03-01 19:01:34 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libssl1.0.0:1.0.1-4ubuntu5.12
 #
 # Last versions recommanded by security team:
-#   - libssl1.0.0:1.0.1-4ubuntu5.34
+#   - libssl1.0.0:1.0.1-4ubuntu5.35
 #
 # CVE List:
 #   - CVE-2014-0160
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2165-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.34 -y
+sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.35 -y

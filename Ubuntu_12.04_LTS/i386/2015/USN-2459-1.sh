@@ -4,7 +4,7 @@
 # Security fix for USN-2459-1
 #
 # Security announcement date: 2015-01-12 00:00:00 UTC
-# Script generation date:     2016-02-25 07:02:02 UTC
+# Script generation date:     2016-03-01 19:02:00 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libssl1.0.0:1.0.1-4ubuntu5.21
 #
 # Last versions recommanded by security team:
-#   - libssl1.0.0:1.0.1-4ubuntu5.34
+#   - libssl1.0.0:1.0.1-4ubuntu5.35
 #
 # CVE List:
 #   - CVE-2014-3570
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2459-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.34 -y
+sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.35 -y

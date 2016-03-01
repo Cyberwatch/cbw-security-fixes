@@ -4,7 +4,7 @@
 # Security fix for USN-1516-1
 #
 # Security announcement date: 2012-07-25 00:00:00 UTC
-# Script generation date:     2016-02-25 07:00:38 UTC
+# Script generation date:     2016-03-01 19:00:40 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libssl1.0.0:1.0.1-4ubuntu5.3
 #
 # Last versions recommanded by security team:
-#   - libssl1.0.0:1.0.1-4ubuntu5.34
+#   - libssl1.0.0:1.0.1-4ubuntu5.35
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-1516-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.34 -y
+sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.35 -y
