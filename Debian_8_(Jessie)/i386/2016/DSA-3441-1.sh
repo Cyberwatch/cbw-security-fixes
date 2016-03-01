@@ -4,7 +4,7 @@
 # Security fix for DSA-3441-1
 #
 # Security announcement date: 2016-01-11 00:00:00 UTC
-# Script generation date:     2016-01-13 07:06:43 UTC
+# Script generation date:     2016-03-01 19:08:37 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - perl:5.20.2-3+deb8u2
 #
 # Last versions recommanded by security team:
-#   - perl:5.20.2-3+deb8u2
+#   - perl:5.20.2-3+deb8u4
 #
 # CVE List:
 #   - CVE-2015-8607
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3441-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade perl=5.20.2-3+deb8u2 -y
+sudo apt-get install --only-upgrade perl=5.20.2-3+deb8u4 -y

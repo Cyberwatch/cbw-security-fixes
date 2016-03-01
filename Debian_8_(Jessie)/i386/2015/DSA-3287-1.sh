@@ -4,7 +4,7 @@
 # Security fix for DSA-3287-1
 #
 # Security announcement date: 2015-06-13 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:55 UTC
+# Script generation date:     2016-03-01 19:08:24 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - openssl:1.0.1k-3+deb8u1
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1k-3+deb8u2
+#   - openssl:1.0.1k-3+deb8u4
 #
 # CVE List:
 #   - CVE-2014-8176
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3287-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=1.0.1k-3+deb8u2 -y
+sudo apt-get install --only-upgrade openssl=1.0.1k-3+deb8u4 -y
