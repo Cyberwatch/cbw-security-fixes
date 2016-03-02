@@ -3,7 +3,7 @@
 # Security fix for USN-2878-1
 #
 # Security announcement date: 2016-01-21 00:00:00 UTC
-# Script generation date:     2016-01-23 07:02:39 UTC
+# Script generation date:     2016-03-02 19:03:06 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -12,7 +12,7 @@
 #   - perl:5.20.2-6ubuntu0.1
 #
 # Last versions recommanded by security team:
-#   - perl:5.20.2-6ubuntu0.1
+#   - perl:5.20.2-6ubuntu0.2
 #
 # CVE List:
 #   - CVE-2015-8607

@@ -4,7 +4,7 @@
 # Security fix for USN-2099-1
 #
 # Security announcement date: 2014-02-05 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:02 UTC
+# Script generation date:     2016-03-02 19:01:29 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - perl-modules:5.14.2-6ubuntu2.4
 #
 # Last versions recommanded by security team:
-#   - perl-modules:5.14.2-6ubuntu2.4
+#   - perl-modules:5.14.2-6ubuntu2.5
 #
 # CVE List:
 #   - CVE-2012-6329
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2099-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade perl-modules=5.14.2-6ubuntu2.4 -y
+sudo apt-get install --only-upgrade perl-modules=5.14.2-6ubuntu2.5 -y
