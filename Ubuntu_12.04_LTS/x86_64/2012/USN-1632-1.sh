@@ -4,7 +4,7 @@
 # Security fix for USN-1632-1
 #
 # Security announcement date: 2012-11-15 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:41 UTC
+# Script generation date:     2016-03-02 07:00:59 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - python-django:1.3.1-4ubuntu1.3
 #
 # Last versions recommanded by security team:
-#   - python-django:1.3.1-4ubuntu1.19
+#   - python-django:1.3.1-4ubuntu1.20
 #
 # CVE List:
 #   - CVE-2012-4520
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-1632-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.3.1-4ubuntu1.19 -y
+sudo apt-get install --only-upgrade python-django=1.3.1-4ubuntu1.20 -y
