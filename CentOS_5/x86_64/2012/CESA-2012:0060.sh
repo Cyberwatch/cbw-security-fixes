@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0060
 #
 # Security announcement date: 2012-02-07 12:39:01 UTC
-# Script generation date:     2016-02-04 19:11:28 UTC
+# Script generation date:     2016-03-02 07:11:16 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - openssl-devel.i386:0.9.8e-20.el5_7.1.0.1.centos
 #
 # Last versions recommanded by security team:
-#   - openssl.x86_64:0.9.8e-37.el5_11
-#   - openssl-devel.x86_64:0.9.8e-37.el5_11
-#   - openssl-perl.x86_64:0.9.8e-37.el5_11
-#   - openssl.i686:0.9.8e-37.el5_11
-#   - openssl-devel.i386:0.9.8e-37.el5_11
+#   - openssl.x86_64:0.9.8e-39.el5_11
+#   - openssl-devel.x86_64:0.9.8e-39.el5_11
+#   - openssl-perl.x86_64:0.9.8e-39.el5_11
+#   - openssl.i686:0.9.8e-39.el5_11
+#   - openssl-devel.i386:0.9.8e-39.el5_11
 #
 # CVE List:
 #   - CVE-2011-4108

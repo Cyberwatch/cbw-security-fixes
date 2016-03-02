@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:2617
 #
 # Security announcement date: 2015-12-14 23:41:45 UTC
-# Script generation date:     2016-02-04 19:13:10 UTC
+# Script generation date:     2016-03-02 07:13:01 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -19,14 +19,14 @@
 #   - openssl-static.i686:1.0.1e-51.el7_2.1
 #
 # Last versions recommanded by security team:
-#   - openssl.x86_64:1.0.1e-51.el7_2.2
-#   - openssl-devel.x86_64:1.0.1e-51.el7_2.2
-#   - openssl-libs.x86_64:1.0.1e-51.el7_2.2
-#   - openssl-perl.x86_64:1.0.1e-51.el7_2.2
-#   - openssl-static.x86_64:1.0.1e-51.el7_2.2
-#   - openssl-devel.i686:1.0.1e-51.el7_2.2
-#   - openssl-libs.i686:1.0.1e-51.el7_2.2
-#   - openssl-static.i686:1.0.1e-51.el7_2.2
+#   - openssl.x86_64:1.0.1e-51.el7_2.4
+#   - openssl-devel.x86_64:1.0.1e-51.el7_2.4
+#   - openssl-libs.x86_64:1.0.1e-51.el7_2.4
+#   - openssl-perl.x86_64:1.0.1e-51.el7_2.4
+#   - openssl-static.x86_64:1.0.1e-51.el7_2.4
+#   - openssl-devel.i686:1.0.1e-51.el7_2.4
+#   - openssl-libs.i686:1.0.1e-51.el7_2.4
+#   - openssl-static.i686:1.0.1e-51.el7_2.4
 #
 # CVE List:
 #   - CVE-2015-3195

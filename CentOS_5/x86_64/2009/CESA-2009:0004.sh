@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:0004
 #
 # Security announcement date: 2009-01-09 00:06:04 UTC
-# Script generation date:     2016-02-04 19:10:42 UTC
+# Script generation date:     2016-03-02 07:09:49 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - openssl.i686:0.9.8b-10.el5_2.1
 #
 # Last versions recommanded by security team:
-#   - openssl.i686:0.9.8e-37.el5_11
+#   - openssl.i686:0.9.8e-39.el5_11
 #
 # CVE List:
 #   - CVE-2008-5077

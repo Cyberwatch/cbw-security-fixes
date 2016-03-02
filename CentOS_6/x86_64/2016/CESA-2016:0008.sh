@@ -3,7 +3,7 @@
 # Security fix for CESA-2016:0008
 #
 # Security announcement date: 2016-01-07 22:09:26 UTC
-# Script generation date:     2016-02-04 19:13:14 UTC
+# Script generation date:     2016-03-02 07:13:05 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - openssl-devel.i686:1.0.1e-42.el6_7.2
 #
 # Last versions recommanded by security team:
-#   - openssl.x86_64:1.0.1e-42.el6_7.2
-#   - openssl-devel.x86_64:1.0.1e-42.el6_7.2
-#   - openssl-perl.x86_64:1.0.1e-42.el6_7.2
-#   - openssl-static.x86_64:1.0.1e-42.el6_7.2
-#   - openssl.i686:1.0.1e-42.el6_7.2
-#   - openssl-devel.i686:1.0.1e-42.el6_7.2
+#   - openssl.x86_64:1.0.1e-42.el6_7.4
+#   - openssl-devel.x86_64:1.0.1e-42.el6_7.4
+#   - openssl-perl.x86_64:1.0.1e-42.el6_7.4
+#   - openssl-static.x86_64:1.0.1e-42.el6_7.4
+#   - openssl.i686:1.0.1e-42.el6_7.4
+#   - openssl-devel.i686:1.0.1e-42.el6_7.4
 #
 # CVE List:
 #   - CVE-2015-7575

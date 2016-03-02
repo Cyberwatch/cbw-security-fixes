@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0624
 #
 # Security announcement date: 2014-06-06 02:05:41 UTC
-# Script generation date:     2016-02-04 19:12:25 UTC
+# Script generation date:     2016-03-02 07:12:16 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - openssl-devel.i386:0.9.8e-27.el5_10.3
 #
 # Last versions recommanded by security team:
-#   - openssl.x86_64:0.9.8e-37.el5_11
-#   - openssl-devel.x86_64:0.9.8e-37.el5_11
-#   - openssl-perl.x86_64:0.9.8e-37.el5_11
-#   - openssl.i686:0.9.8e-37.el5_11
-#   - openssl-devel.i386:0.9.8e-37.el5_11
+#   - openssl.x86_64:0.9.8e-39.el5_11
+#   - openssl-devel.x86_64:0.9.8e-39.el5_11
+#   - openssl-perl.x86_64:0.9.8e-39.el5_11
+#   - openssl.i686:0.9.8e-39.el5_11
+#   - openssl-devel.i386:0.9.8e-39.el5_11
 #
 # CVE List:
 #   - CVE-2014-0224

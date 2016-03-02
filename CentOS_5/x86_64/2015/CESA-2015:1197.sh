@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1197
 #
 # Security announcement date: 2015-07-02 12:10:41 UTC
-# Script generation date:     2016-02-04 19:12:55 UTC
+# Script generation date:     2016-03-02 07:12:47 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - openssl-devel.i386:0.9.8e-36.el5_11
 #
 # Last versions recommanded by security team:
-#   - openssl.x86_64:0.9.8e-37.el5_11
-#   - openssl-devel.x86_64:0.9.8e-37.el5_11
-#   - openssl-perl.x86_64:0.9.8e-37.el5_11
-#   - openssl.i686:0.9.8e-37.el5_11
-#   - openssl-devel.i386:0.9.8e-37.el5_11
+#   - openssl.x86_64:0.9.8e-39.el5_11
+#   - openssl-devel.x86_64:0.9.8e-39.el5_11
+#   - openssl-perl.x86_64:0.9.8e-39.el5_11
+#   - openssl.i686:0.9.8e-39.el5_11
+#   - openssl-devel.i386:0.9.8e-39.el5_11
 #
 # CVE List:
 #   - CVE-2015-4000
