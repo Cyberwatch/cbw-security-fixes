@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1650
 #
 # Security announcement date: 2015-08-20 19:26:33 UTC
-# Script generation date:     2016-02-04 19:19:40 UTC
+# Script generation date:     2016-03-03 19:18:07 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - tuned-profiles-openshift-node.x86_64:3.0.1.0-1.git.527.f8d5fed.el7ose
 #
 # Last versions recommanded by security team:
-#   - openshift.x86_64:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - openshift-clients.x86_64:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - openshift-master.x86_64:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - openshift-node.x86_64:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - openshift-sdn-ovs.x86_64:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - tuned-profiles-openshift-node.x86_64:3.0.2.0-0.git.38.7576bc5.el7ose
+#   - openshift.x86_64:3.0.2.0-0.git.45.423f434.el7ose
+#   - openshift-clients.x86_64:3.0.2.0-0.git.45.423f434.el7ose
+#   - openshift-master.x86_64:3.0.2.0-0.git.45.423f434.el7ose
+#   - openshift-node.x86_64:3.0.2.0-0.git.45.423f434.el7ose
+#   - openshift-sdn-ovs.x86_64:3.0.2.0-0.git.45.423f434.el7ose
+#   - tuned-profiles-openshift-node.x86_64:3.0.2.0-0.git.45.423f434.el7ose
 #
 # CVE List:
 #   - CVE-2015-5222

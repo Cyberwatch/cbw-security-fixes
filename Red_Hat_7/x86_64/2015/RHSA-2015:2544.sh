@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:2544
 #
 # Security announcement date: 2015-12-03 19:22:48 UTC
-# Script generation date:     2016-02-04 19:20:21 UTC
+# Script generation date:     2016-03-03 19:18:35 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -27,12 +27,12 @@
 #   - tuned-profiles-atomic-openshift-node.x86_64:3.1.0.4-1.git.15.5e061c3.el7aos
 #
 # Last versions recommanded by security team:
-#   - openshift.x86_64:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - openshift-clients.x86_64:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - openshift-master.x86_64:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - openshift-node.x86_64:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - openshift-sdn-ovs.x86_64:3.0.2.0-0.git.38.7576bc5.el7ose
-#   - tuned-profiles-openshift-node.x86_64:3.0.2.0-0.git.38.7576bc5.el7ose
+#   - openshift.x86_64:3.0.2.0-0.git.45.423f434.el7ose
+#   - openshift-clients.x86_64:3.0.2.0-0.git.45.423f434.el7ose
+#   - openshift-master.x86_64:3.0.2.0-0.git.45.423f434.el7ose
+#   - openshift-node.x86_64:3.0.2.0-0.git.45.423f434.el7ose
+#   - openshift-sdn-ovs.x86_64:3.0.2.0-0.git.45.423f434.el7ose
+#   - tuned-profiles-openshift-node.x86_64:3.0.2.0-0.git.45.423f434.el7ose
 #   - atomic-openshift.x86_64:3.1.1.6-1.git.0.b57e8bd.el7aos
 #   - atomic-openshift-clients.x86_64:3.1.1.6-1.git.0.b57e8bd.el7aos
 #   - atomic-openshift-clients-redistributable.x86_64:3.1.1.6-1.git.0.b57e8bd.el7aos
