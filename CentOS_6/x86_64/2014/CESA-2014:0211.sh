@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:0211
 #
 # Security announcement date: 2014-02-25 18:43:35 UTC
-# Script generation date:     2016-02-04 19:12:20 UTC
+# Script generation date:     2016-03-03 07:13:01 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -24,19 +24,19 @@
 #   - postgresql-libs.i686:8.4.20-1.el6_5
 #
 # Last versions recommanded by security team:
-#   - postgresql.x86_64:8.4.20-4.el6_7
-#   - postgresql-contrib.x86_64:8.4.20-4.el6_7
-#   - postgresql-devel.x86_64:8.4.20-4.el6_7
-#   - postgresql-docs.x86_64:8.4.20-4.el6_7
-#   - postgresql-libs.x86_64:8.4.20-4.el6_7
-#   - postgresql-plperl.x86_64:8.4.20-4.el6_7
-#   - postgresql-plpython.x86_64:8.4.20-4.el6_7
-#   - postgresql-pltcl.x86_64:8.4.20-4.el6_7
-#   - postgresql-server.x86_64:8.4.20-4.el6_7
-#   - postgresql-test.x86_64:8.4.20-4.el6_7
-#   - postgresql.i686:8.4.20-4.el6_7
-#   - postgresql-devel.i686:8.4.20-4.el6_7
-#   - postgresql-libs.i686:8.4.20-4.el6_7
+#   - postgresql.x86_64:8.4.20-5.el6_7
+#   - postgresql-contrib.x86_64:8.4.20-5.el6_7
+#   - postgresql-devel.x86_64:8.4.20-5.el6_7
+#   - postgresql-docs.x86_64:8.4.20-5.el6_7
+#   - postgresql-libs.x86_64:8.4.20-5.el6_7
+#   - postgresql-plperl.x86_64:8.4.20-5.el6_7
+#   - postgresql-plpython.x86_64:8.4.20-5.el6_7
+#   - postgresql-pltcl.x86_64:8.4.20-5.el6_7
+#   - postgresql-server.x86_64:8.4.20-5.el6_7
+#   - postgresql-test.x86_64:8.4.20-5.el6_7
+#   - postgresql.i686:8.4.20-5.el6_7
+#   - postgresql-devel.i686:8.4.20-5.el6_7
+#   - postgresql-libs.i686:8.4.20-5.el6_7
 #
 # CVE List:
 #   - CVE-2014-0060
