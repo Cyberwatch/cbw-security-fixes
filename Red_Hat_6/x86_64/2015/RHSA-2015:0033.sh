@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:0033
 #
 # Security announcement date: 2015-01-12 17:42:12 UTC
-# Script generation date:     2016-02-04 19:18:46 UTC
+# Script generation date:     2016-03-03 07:22:47 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -72,13 +72,13 @@
 #   - libyaml-debuginfo.x86_64:0.1.2-5.el6
 #
 # Last versions recommanded by security team:
-#   - postgresql92-postgresql.x86_64:9.2.14-1.el6
-#   - postgresql92-postgresql-contrib.x86_64:9.2.14-1.el6
-#   - postgresql92-postgresql-debuginfo.x86_64:9.2.14-1.el6
-#   - postgresql92-postgresql-libs.x86_64:9.2.14-1.el6
-#   - postgresql92-postgresql-pltcl.x86_64:9.2.14-1.el6
-#   - postgresql92-postgresql-server.x86_64:9.2.14-1.el6
-#   - postgresql92-postgresql-upgrade.x86_64:9.2.14-1.el6
+#   - postgresql92-postgresql.x86_64:9.2.15-1.el6
+#   - postgresql92-postgresql-contrib.x86_64:9.2.15-1.el6
+#   - postgresql92-postgresql-debuginfo.x86_64:9.2.15-1.el6
+#   - postgresql92-postgresql-libs.x86_64:9.2.15-1.el6
+#   - postgresql92-postgresql-pltcl.x86_64:9.2.15-1.el6
+#   - postgresql92-postgresql-server.x86_64:9.2.15-1.el6
+#   - postgresql92-postgresql-upgrade.x86_64:9.2.15-1.el6
 #   - postgresql92-runtime.x86_64:1.1-21.el6
 #   - scl-utils.x86_64:20120927-11.el6_5
 #   - scl-utils-debuginfo.x86_64:20120927-11.el6_5
@@ -142,13 +142,13 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:0033
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install postgresql92-postgresql.x86_64-9.2.14 -y 
-sudo yum install postgresql92-postgresql-contrib.x86_64-9.2.14 -y 
-sudo yum install postgresql92-postgresql-debuginfo.x86_64-9.2.14 -y 
-sudo yum install postgresql92-postgresql-libs.x86_64-9.2.14 -y 
-sudo yum install postgresql92-postgresql-pltcl.x86_64-9.2.14 -y 
-sudo yum install postgresql92-postgresql-server.x86_64-9.2.14 -y 
-sudo yum install postgresql92-postgresql-upgrade.x86_64-9.2.14 -y 
+sudo yum install postgresql92-postgresql.x86_64-9.2.15 -y 
+sudo yum install postgresql92-postgresql-contrib.x86_64-9.2.15 -y 
+sudo yum install postgresql92-postgresql-debuginfo.x86_64-9.2.15 -y 
+sudo yum install postgresql92-postgresql-libs.x86_64-9.2.15 -y 
+sudo yum install postgresql92-postgresql-pltcl.x86_64-9.2.15 -y 
+sudo yum install postgresql92-postgresql-server.x86_64-9.2.15 -y 
+sudo yum install postgresql92-postgresql-upgrade.x86_64-9.2.15 -y 
 sudo yum install postgresql92-runtime.x86_64-1.1 -y 
 sudo yum install scl-utils.x86_64-20120927 -y 
 sudo yum install scl-utils-debuginfo.x86_64-20120927 -y 
