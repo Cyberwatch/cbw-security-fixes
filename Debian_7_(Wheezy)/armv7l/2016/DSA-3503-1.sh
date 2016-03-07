@@ -4,7 +4,7 @@
 # Security fix for DSA-3503-1
 #
 # Security announcement date: 2016-03-03 00:00:00 UTC
-# Script generation date:     2016-03-05 07:04:39 UTC
+# Script generation date:     2016-03-07 07:04:34 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -30,6 +30,7 @@
 #   - CVE-2016-2548
 #   - CVE-2016-2549
 #   - CVE-2016-2550
+#   - CVE-2016-2847
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/DSA-3503-1
