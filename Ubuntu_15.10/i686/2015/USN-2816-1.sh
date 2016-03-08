@@ -3,7 +3,7 @@
 # Security fix for USN-2816-1
 #
 # Security announcement date: 2015-11-24 00:00:00 UTC
-# Script generation date:     2016-03-07 19:02:46 UTC
+# Script generation date:     2016-03-08 07:02:44 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -13,8 +13,8 @@
 #   - python-django:1.7.9-1ubuntu5.1
 #
 # Last versions recommanded by security team:
-#   - python3-django:1.7.9-1ubuntu5.3
-#   - python-django:1.7.9-1ubuntu5.3
+#   - python3-django:1.7.9-1ubuntu5.4
+#   - python-django:1.7.9-1ubuntu5.4
 #
 # CVE List:
 #   - CVE-2015-8213
