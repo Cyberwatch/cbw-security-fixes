@@ -3,7 +3,7 @@
 # Security fix for USN-2859-1
 #
 # Security announcement date: 2016-01-13 00:00:00 UTC
-# Script generation date:     2016-01-15 07:02:44 UTC
+# Script generation date:     2016-03-08 19:02:46 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - thunderbird:1:38.5.1+build2-0ubuntu0.15.10.1
 #
 # Last versions recommanded by security team:
-#   - thunderbird:1:38.5.1+build2-0ubuntu0.15.10.1
+#   - thunderbird:1:38.6.0+build1-0ubuntu0.15.10.1
 #
 # CVE List:
 #   - CVE-2015-7201

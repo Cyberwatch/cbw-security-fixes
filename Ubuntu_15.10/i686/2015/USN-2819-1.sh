@@ -3,7 +3,7 @@
 # Security fix for USN-2819-1
 #
 # Security announcement date: 2015-12-01 00:00:00 UTC
-# Script generation date:     2016-01-14 07:02:28 UTC
+# Script generation date:     2016-03-08 19:02:38 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -12,7 +12,7 @@
 #   - thunderbird:1:38.4.0+build3-0ubuntu0.15.10.1
 #
 # Last versions recommanded by security team:
-#   - thunderbird:1:38.5.1+build2-0ubuntu0.15.10.1
+#   - thunderbird:1:38.6.0+build1-0ubuntu0.15.10.1
 #
 # CVE List:
 #   - CVE-2015-4513

@@ -3,7 +3,7 @@
 # Security fix for USN-2855-1
 #
 # Security announcement date: 2016-01-05 00:00:00 UTC
-# Script generation date:     2016-02-16 19:02:50 UTC
+# Script generation date:     2016-03-08 19:02:44 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - samba:2:4.1.17+dfsg-4ubuntu3.1
 #
 # Last versions recommanded by security team:
-#   - samba:2:4.1.17+dfsg-4ubuntu3.2
+#   - samba:2:4.1.17+dfsg-4ubuntu3.3
 #
 # CVE List:
 #   - CVE-2015-3223

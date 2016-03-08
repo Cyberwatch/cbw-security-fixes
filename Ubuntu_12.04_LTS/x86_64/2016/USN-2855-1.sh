@@ -4,7 +4,7 @@
 # Security fix for USN-2855-1
 #
 # Security announcement date: 2016-01-05 00:00:00 UTC
-# Script generation date:     2016-02-16 19:02:49 UTC
+# Script generation date:     2016-03-08 19:02:44 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - samba:2:3.6.3-2ubuntu2.13
 #
 # Last versions recommanded by security team:
-#   - samba:2:3.6.3-2ubuntu2.14
+#   - samba:2:3.6.3-2ubuntu2.17
 #
 # CVE List:
 #   - CVE-2015-3223
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2855-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade samba=2:3.6.3-2ubuntu2.14 -y
+sudo apt-get install --only-upgrade samba=2:3.6.3-2ubuntu2.17 -y
