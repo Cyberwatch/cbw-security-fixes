@@ -4,7 +4,7 @@
 # Security fix for DSA-2806-1
 #
 # Security announcement date: 2013-11-29 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:19 UTC
+# Script generation date:     2016-03-09 07:07:44 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - nbd:1:2.9.16-8+squeeze1
 #
 # Last versions recommanded by security team:
-#   - nbd:2.9.16-8+squeeze2
+#   - nbd:1:2.9.16-8+squeeze2
 #
 # CVE List:
 #   - CVE-2013-6410
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2806-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade nbd=2.9.16-8+squeeze2 -y
+sudo apt-get install --only-upgrade nbd=1:2.9.16-8+squeeze2 -y
