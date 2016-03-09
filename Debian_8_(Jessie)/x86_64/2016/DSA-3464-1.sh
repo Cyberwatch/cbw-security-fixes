@@ -4,7 +4,7 @@
 # Security fix for DSA-3464-1
 #
 # Security announcement date: 2016-01-31 00:00:00 UTC
-# Script generation date:     2016-02-02 07:07:22 UTC
+# Script generation date:     2016-03-09 19:08:41 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - rails:2:4.1.8-1+deb8u1
 #
 # Last versions recommanded by security team:
-#   - rails:2:4.1.8-1+deb8u1
+#   - rails:2:4.1.8-1+deb8u2
 #
 # CVE List:
 #   - CVE-2015-3226
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3464-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade rails=2:4.1.8-1+deb8u1 -y
+sudo apt-get install --only-upgrade rails=2:4.1.8-1+deb8u2 -y
