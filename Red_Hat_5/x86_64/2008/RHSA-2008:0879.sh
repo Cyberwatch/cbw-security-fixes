@@ -3,7 +3,7 @@
 # Security fix for RHSA-2008:0879
 #
 # Security announcement date: 2008-09-24 02:20:21 UTC
-# Script generation date:     2016-02-17 07:15:00 UTC
+# Script generation date:     2016-03-09 07:18:44 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -43,29 +43,29 @@
 #   - devhelp-debuginfo.x86_64:0.12-21.el5
 #   - firefox.x86_64:38.6.1-1.el5_11
 #   - firefox-debuginfo.x86_64:38.6.1-1.el5_11
-#   - nss.x86_64:3.19.1-2.el5_11
-#   - nss-debuginfo.x86_64:3.19.1-2.el5_11
-#   - nss-tools.x86_64:3.19.1-2.el5_11
+#   - nss.x86_64:3.19.1-4.el5_11
+#   - nss-debuginfo.x86_64:3.19.1-4.el5_11
+#   - nss-tools.x86_64:3.19.1-4.el5_11
 #   - xulrunner.x86_64:17.0.10-1.el5_10
 #   - xulrunner-debuginfo.x86_64:17.0.10-1.el5_10
 #   - yelp.x86_64:2.16.0-26.el5
 #   - yelp-debuginfo.x86_64:2.16.0-26.el5
 #   - devhelp-devel.x86_64:0.12-21.el5
-#   - nss-devel.x86_64:3.19.1-2.el5_11
-#   - nss-pkcs11-devel.x86_64:3.19.1-2.el5_11
+#   - nss-devel.x86_64:3.19.1-4.el5_11
+#   - nss-pkcs11-devel.x86_64:3.19.1-4.el5_11
 #   - xulrunner-devel.x86_64:17.0.10-1.el5_10
 #   - xulrunner-devel-unstable.x86_64:1.9.0.19-1.el5_5
 #   - devhelp.i386:0.12-21.el5
 #   - devhelp-debuginfo.i386:0.12-21.el5
 #   - firefox.i386:38.6.1-1.el5_11
 #   - firefox-debuginfo.i386:38.6.1-1.el5_11
-#   - nss.i386:3.19.1-2.el5_11
-#   - nss-debuginfo.i386:3.19.1-2.el5_11
+#   - nss.i386:3.19.1-4.el5_11
+#   - nss-debuginfo.i386:3.19.1-4.el5_11
 #   - xulrunner.i386:17.0.10-1.el5_10
 #   - xulrunner-debuginfo.i386:17.0.10-1.el5_10
 #   - devhelp-devel.i386:0.12-21.el5
-#   - nss-devel.i386:3.19.1-2.el5_11
-#   - nss-pkcs11-devel.i386:3.19.1-2.el5_11
+#   - nss-devel.i386:3.19.1-4.el5_11
+#   - nss-pkcs11-devel.i386:3.19.1-4.el5_11
 #   - xulrunner-devel.i386:17.0.10-1.el5_10
 #
 # CVE List:

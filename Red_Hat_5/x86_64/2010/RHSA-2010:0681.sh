@@ -3,7 +3,7 @@
 # Security fix for RHSA-2010:0681
 #
 # Security announcement date: 2010-09-08 01:24:21 UTC
-# Script generation date:     2016-02-17 07:16:00 UTC
+# Script generation date:     2016-03-09 07:19:38 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -40,26 +40,26 @@
 #   - firefox-debuginfo.x86_64:38.6.1-1.el5_11
 #   - nspr.x86_64:4.10.8-2.el5_11
 #   - nspr-debuginfo.x86_64:4.10.8-2.el5_11
-#   - nss.x86_64:3.19.1-2.el5_11
-#   - nss-debuginfo.x86_64:3.19.1-2.el5_11
-#   - nss-tools.x86_64:3.19.1-2.el5_11
+#   - nss.x86_64:3.19.1-4.el5_11
+#   - nss-debuginfo.x86_64:3.19.1-4.el5_11
+#   - nss-tools.x86_64:3.19.1-4.el5_11
 #   - xulrunner.x86_64:17.0.10-1.el5_10
 #   - xulrunner-debuginfo.x86_64:17.0.10-1.el5_10
 #   - nspr-devel.x86_64:4.10.8-2.el5_11
-#   - nss-devel.x86_64:3.19.1-2.el5_11
-#   - nss-pkcs11-devel.x86_64:3.19.1-2.el5_11
+#   - nss-devel.x86_64:3.19.1-4.el5_11
+#   - nss-pkcs11-devel.x86_64:3.19.1-4.el5_11
 #   - xulrunner-devel.x86_64:17.0.10-1.el5_10
 #   - firefox.i386:38.6.1-1.el5_11
 #   - firefox-debuginfo.i386:38.6.1-1.el5_11
 #   - nspr.i386:4.10.8-2.el5_11
 #   - nspr-debuginfo.i386:4.10.8-2.el5_11
-#   - nss.i386:3.19.1-2.el5_11
-#   - nss-debuginfo.i386:3.19.1-2.el5_11
+#   - nss.i386:3.19.1-4.el5_11
+#   - nss-debuginfo.i386:3.19.1-4.el5_11
 #   - xulrunner.i386:17.0.10-1.el5_10
 #   - xulrunner-debuginfo.i386:17.0.10-1.el5_10
 #   - nspr-devel.i386:4.10.8-2.el5_11
-#   - nss-devel.i386:3.19.1-2.el5_11
-#   - nss-pkcs11-devel.i386:3.19.1-2.el5_11
+#   - nss-devel.i386:3.19.1-4.el5_11
+#   - nss-pkcs11-devel.i386:3.19.1-4.el5_11
 #   - xulrunner-devel.i386:17.0.10-1.el5_10
 #
 # CVE List:

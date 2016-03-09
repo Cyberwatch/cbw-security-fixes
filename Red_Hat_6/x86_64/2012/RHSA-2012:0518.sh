@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:0518
 #
 # Security announcement date: 2012-04-24 20:39:07 UTC
-# Script generation date:     2016-03-01 19:19:44 UTC
+# Script generation date:     2016-03-09 07:21:38 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -25,15 +25,15 @@
 # Last versions recommanded by security team:
 #   - openssl.x86_64:1.0.1e-30.el6_6.12
 #   - openssl-debuginfo.x86_64:1.0.1e-30.el6_6.12
-#   - openssl098e.x86_64:0.9.8e-18.el6_5.2
-#   - openssl098e-debuginfo.x86_64:0.9.8e-18.el6_5.2
+#   - openssl098e.x86_64:0.9.8e-20.el6_7.1
+#   - openssl098e-debuginfo.x86_64:0.9.8e-20.el6_7.1
 #   - openssl-devel.x86_64:1.0.1e-30.el6_6.12
 #   - openssl-perl.x86_64:1.0.1e-30.el6_6.12
 #   - openssl-static.x86_64:1.0.1e-30.el6_6.12
 #   - openssl.i686:1.0.1e-30.el6_6.12
 #   - openssl-debuginfo.i686:1.0.1e-30.el6_6.12
-#   - openssl098e.i686:0.9.8e-18.el6_5.2
-#   - openssl098e-debuginfo.i686:0.9.8e-18.el6_5.2
+#   - openssl098e.i686:0.9.8e-20.el6_7.1
+#   - openssl098e-debuginfo.i686:0.9.8e-20.el6_7.1
 #   - openssl-devel.i686:1.0.1e-30.el6_6.12
 #
 # CVE List:

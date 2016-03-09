@@ -3,7 +3,7 @@
 # Security fix for RHSA-2009:1207
 #
 # Security announcement date: 2009-08-12 14:32:37 UTC
-# Script generation date:     2016-02-04 19:14:02 UTC
+# Script generation date:     2016-03-09 07:19:06 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -29,18 +29,18 @@
 #   - nspr.x86_64:4.10.8-2.el5_11
 #   - nspr-debuginfo.x86_64:4.10.8-2.el5_11
 #   - nspr-devel.x86_64:4.10.8-2.el5_11
-#   - nss.x86_64:3.19.1-2.el5_11
-#   - nss-debuginfo.x86_64:3.19.1-2.el5_11
-#   - nss-devel.x86_64:3.19.1-2.el5_11
-#   - nss-pkcs11-devel.x86_64:3.19.1-2.el5_11
-#   - nss-tools.x86_64:3.19.1-2.el5_11
+#   - nss.x86_64:3.19.1-4.el5_11
+#   - nss-debuginfo.x86_64:3.19.1-4.el5_11
+#   - nss-devel.x86_64:3.19.1-4.el5_11
+#   - nss-pkcs11-devel.x86_64:3.19.1-4.el5_11
+#   - nss-tools.x86_64:3.19.1-4.el5_11
 #   - nspr.i386:4.10.8-2.el5_11
 #   - nspr-debuginfo.i386:4.10.8-2.el5_11
 #   - nspr-devel.i386:4.10.8-2.el5_11
-#   - nss.i386:3.19.1-2.el5_11
-#   - nss-debuginfo.i386:3.19.1-2.el5_11
-#   - nss-devel.i386:3.19.1-2.el5_11
-#   - nss-pkcs11-devel.i386:3.19.1-2.el5_11
+#   - nss.i386:3.19.1-4.el5_11
+#   - nss-debuginfo.i386:3.19.1-4.el5_11
+#   - nss-devel.i386:3.19.1-4.el5_11
+#   - nss-pkcs11-devel.i386:3.19.1-4.el5_11
 #
 # CVE List:
 #   - CVE-2009-2404

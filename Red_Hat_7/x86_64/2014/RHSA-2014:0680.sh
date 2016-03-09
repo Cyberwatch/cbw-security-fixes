@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:0680
 #
 # Security announcement date: 2014-06-10 19:39:27 UTC
-# Script generation date:     2016-02-04 19:17:45 UTC
+# Script generation date:     2016-03-09 07:23:47 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -15,10 +15,10 @@
 #   - openssl098e-debuginfo.i686:0.9.8e-29.el7_0.2
 #
 # Last versions recommanded by security team:
-#   - openssl098e.x86_64:0.9.8e-29.el7_0.2
-#   - openssl098e-debuginfo.x86_64:0.9.8e-29.el7_0.2
-#   - openssl098e.i686:0.9.8e-29.el7_0.2
-#   - openssl098e-debuginfo.i686:0.9.8e-29.el7_0.2
+#   - openssl098e.x86_64:0.9.8e-29.el7_2.3
+#   - openssl098e-debuginfo.x86_64:0.9.8e-29.el7_2.3
+#   - openssl098e.i686:0.9.8e-29.el7_2.3
+#   - openssl098e-debuginfo.i686:0.9.8e-29.el7_2.3
 #
 # CVE List:
 #   - CVE-2014-0224
