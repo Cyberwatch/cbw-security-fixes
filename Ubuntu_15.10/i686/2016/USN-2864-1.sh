@@ -3,7 +3,7 @@
 # Security fix for USN-2864-1
 #
 # Security announcement date: 2016-01-07 00:00:00 UTC
-# Script generation date:     2016-02-18 07:02:44 UTC
+# Script generation date:     2016-03-09 19:02:50 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -12,7 +12,7 @@
 #   - libnss3:2:3.19.2.1-0ubuntu0.15.10.2
 #
 # Last versions recommanded by security team:
-#   - libnss3:2:3.21-0ubuntu0.15.10.1
+#   - libnss3:2:3.21-0ubuntu0.15.10.2
 #
 # CVE List:
 #   - CVE-2015-7575
