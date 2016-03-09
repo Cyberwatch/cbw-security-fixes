@@ -3,7 +3,7 @@
 # Security fix for RHSA-2008:1036
 #
 # Security announcement date: 2008-12-17 02:00:18 UTC
-# Script generation date:     2016-03-09 07:18:50 UTC
+# Script generation date:     2016-03-09 19:17:57 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -37,8 +37,8 @@
 #   - xulrunner-devel.i386:1.9.0.5-1.el5_2
 #
 # Last versions recommanded by security team:
-#   - firefox.x86_64:38.6.1-1.el5_11
-#   - firefox-debuginfo.x86_64:38.6.1-1.el5_11
+#   - firefox.x86_64:38.7.0-1.el5_11
+#   - firefox-debuginfo.x86_64:38.7.0-1.el5_11
 #   - nspr.x86_64:4.10.8-2.el5_11
 #   - nspr-debuginfo.x86_64:4.10.8-2.el5_11
 #   - nss.x86_64:3.19.1-4.el5_11
@@ -51,8 +51,8 @@
 #   - nss-pkcs11-devel.x86_64:3.19.1-4.el5_11
 #   - xulrunner-devel.x86_64:17.0.10-1.el5_10
 #   - xulrunner-devel-unstable.x86_64:1.9.0.19-1.el5_5
-#   - firefox.i386:38.6.1-1.el5_11
-#   - firefox-debuginfo.i386:38.6.1-1.el5_11
+#   - firefox.i386:38.7.0-1.el5_11
+#   - firefox-debuginfo.i386:38.7.0-1.el5_11
 #   - nspr.i386:4.10.8-2.el5_11
 #   - nspr-debuginfo.i386:4.10.8-2.el5_11
 #   - nss.i386:3.19.1-4.el5_11
@@ -81,8 +81,8 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2008:1036
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.x86_64-38.6.1 -y 
-sudo yum install firefox-debuginfo.x86_64-38.6.1 -y 
+sudo yum install firefox.x86_64-38.7.0 -y 
+sudo yum install firefox-debuginfo.x86_64-38.7.0 -y 
 sudo yum install nspr.x86_64-4.10.8 -y 
 sudo yum install nspr-debuginfo.x86_64-4.10.8 -y 
 sudo yum install nss.x86_64-3.19.1 -y 
@@ -95,8 +95,8 @@ sudo yum install nss-devel.x86_64-3.19.1 -y
 sudo yum install nss-pkcs11-devel.x86_64-3.19.1 -y 
 sudo yum install xulrunner-devel.x86_64-17.0.10 -y 
 sudo yum install xulrunner-devel-unstable.x86_64-1.9.0.19 -y 
-sudo yum install firefox.i386-38.6.1 -y 
-sudo yum install firefox-debuginfo.i386-38.6.1 -y 
+sudo yum install firefox.i386-38.7.0 -y 
+sudo yum install firefox-debuginfo.i386-38.7.0 -y 
 sudo yum install nspr.i386-4.10.8 -y 
 sudo yum install nspr-debuginfo.i386-4.10.8 -y 
 sudo yum install nss.i386-3.19.1 -y 
