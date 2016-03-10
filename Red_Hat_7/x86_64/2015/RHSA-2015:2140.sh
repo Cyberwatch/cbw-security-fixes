@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:2140
 #
 # Security announcement date: 2015-11-19 21:33:46 UTC
-# Script generation date:     2016-02-04 19:19:58 UTC
+# Script generation date:     2016-03-10 19:20:52 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -18,13 +18,13 @@
 #   - libssh2-devel.i686:1.4.3-10.el7
 #
 # Last versions recommanded by security team:
-#   - libssh2.x86_64:1.4.3-10.el7
-#   - libssh2-debuginfo.x86_64:1.4.3-10.el7
-#   - libssh2-docs.noarch:1.4.3-10.el7
-#   - libssh2-devel.x86_64:1.4.3-10.el7
-#   - libssh2.i686:1.4.3-10.el7
-#   - libssh2-debuginfo.i686:1.4.3-10.el7
-#   - libssh2-devel.i686:1.4.3-10.el7
+#   - libssh2.x86_64:1.4.3-10.el7_2.1
+#   - libssh2-debuginfo.x86_64:1.4.3-10.el7_2.1
+#   - libssh2-docs.noarch:1.4.3-10.el7_2.1
+#   - libssh2-devel.x86_64:1.4.3-10.el7_2.1
+#   - libssh2.i686:1.4.3-10.el7_2.1
+#   - libssh2-debuginfo.i686:1.4.3-10.el7_2.1
+#   - libssh2-devel.i686:1.4.3-10.el7_2.1
 #
 # CVE List:
 #   - CVE-2015-1782
