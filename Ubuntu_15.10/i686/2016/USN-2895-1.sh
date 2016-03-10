@@ -3,7 +3,7 @@
 # Security fix for USN-2895-1
 #
 # Security announcement date: 2016-02-18 00:00:00 UTC
-# Script generation date:     2016-02-23 19:02:59 UTC
+# Script generation date:     2016-03-10 19:02:46 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -12,7 +12,7 @@
 #   - liboxideqtcore0:1.12.6-0ubuntu0.15.10.1
 #
 # Last versions recommanded by security team:
-#   - liboxideqtcore0:1.12.7-0ubuntu0.15.10.1
+#   - liboxideqtcore0:1.13.6-0ubuntu0.15.10.1
 #
 # CVE List:
 #   - CVE-2016-1623
