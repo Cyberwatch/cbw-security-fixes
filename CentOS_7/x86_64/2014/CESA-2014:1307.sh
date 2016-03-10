@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:1307
 #
 # Security announcement date: 2014-09-26 11:29:24 UTC
-# Script generation date:     2016-02-04 19:12:33 UTC
+# Script generation date:     2016-03-10 07:16:48 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -40,8 +40,8 @@
 #   - nss-softokn-freebl-devel.x86_64:3.16.2.3-13.el7_1
 #   - nss-sysinit.x86_64:3.19.1-19.el7_2
 #   - nss-tools.x86_64:3.19.1-19.el7_2
-#   - nss-util.x86_64:3.19.1-4.el7_1
-#   - nss-util-devel.x86_64:3.19.1-4.el7_1
+#   - nss-util.x86_64:3.19.1-9.el7_2
+#   - nss-util-devel.x86_64:3.19.1-9.el7_2
 #   - nss.i686:3.19.1-19.el7_2
 #   - nss-devel.i686:3.19.1-19.el7_2
 #   - nss-pkcs11-devel.i686:3.19.1-19.el7_2
@@ -49,8 +49,8 @@
 #   - nss-softokn-devel.i686:3.16.2.3-13.el7_1
 #   - nss-softokn-freebl.i686:3.16.2.3-13.el7_1
 #   - nss-softokn-freebl-devel.i686:3.16.2.3-13.el7_1
-#   - nss-util.i686:3.19.1-4.el7_1
-#   - nss-util-devel.i686:3.19.1-4.el7_1
+#   - nss-util.i686:3.19.1-9.el7_2
+#   - nss-util-devel.i686:3.19.1-9.el7_2
 #
 # CVE List:
 #   - CVE-2014-1568

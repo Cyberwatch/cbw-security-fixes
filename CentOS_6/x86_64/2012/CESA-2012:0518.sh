@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0518
 #
 # Security announcement date: 2012-04-25 03:48:26 UTC
-# Script generation date:     2016-03-02 07:11:21 UTC
+# Script generation date:     2016-03-10 07:15:41 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -19,12 +19,12 @@
 #   - openssl-devel.i686:1.0.0-20.el6_2.4
 #
 # Last versions recommanded by security team:
-#   - openssl098e.x86_64:0.9.8e-18.el6_5.2
+#   - openssl098e.x86_64:0.9.8e-20.el6.centos.1
 #   - openssl.x86_64:1.0.1e-42.el6_7.4
 #   - openssl-devel.x86_64:1.0.1e-42.el6_7.4
 #   - openssl-perl.x86_64:1.0.1e-42.el6_7.4
 #   - openssl-static.x86_64:1.0.1e-42.el6_7.4
-#   - openssl098e.i686:0.9.8e-18.el6_5.2
+#   - openssl098e.i686:0.9.8e-20.el6.centos.1
 #   - openssl.i686:1.0.1e-42.el6_7.4
 #   - openssl-devel.i686:1.0.1e-42.el6_7.4
 #

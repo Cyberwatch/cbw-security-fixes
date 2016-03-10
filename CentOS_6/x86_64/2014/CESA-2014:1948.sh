@@ -3,7 +3,7 @@
 # Security fix for CESA-2014:1948
 #
 # Security announcement date: 2014-12-04 00:11:59 UTC
-# Script generation date:     2016-02-04 19:12:41 UTC
+# Script generation date:     2016-03-10 07:16:56 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -28,13 +28,13 @@
 #   - nss-pkcs11-devel.x86_64:3.19.1-8.el6_7
 #   - nss-sysinit.x86_64:3.19.1-8.el6_7
 #   - nss-tools.x86_64:3.19.1-8.el6_7
-#   - nss-util.x86_64:3.19.1-2.el6_7
-#   - nss-util-devel.x86_64:3.19.1-2.el6_7
+#   - nss-util.x86_64:3.19.1-5.el6_7
+#   - nss-util-devel.x86_64:3.19.1-5.el6_7
 #   - nss.i686:3.19.1-8.el6_7
 #   - nss-devel.i686:3.19.1-8.el6_7
 #   - nss-pkcs11-devel.i686:3.19.1-8.el6_7
-#   - nss-util.i686:3.19.1-2.el6_7
-#   - nss-util-devel.i686:3.19.1-2.el6_7
+#   - nss-util.i686:3.19.1-5.el6_7
+#   - nss-util-devel.i686:3.19.1-5.el6_7
 #
 # CVE List:
 #   - CVE-2014-3566

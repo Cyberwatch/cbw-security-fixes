@@ -2,8 +2,8 @@
 #
 # Security fix for CESA-2016:0346
 #
-# Security announcement date: 2016-03-02 18:17:48 UTC
-# Script generation date:     2016-03-04 19:13:04 UTC
+# Security announcement date: 2016-03-02 18:06:35 UTC
+# Script generation date:     2016-03-10 07:17:34 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64

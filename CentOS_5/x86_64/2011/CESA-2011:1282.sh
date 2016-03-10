@@ -3,7 +3,7 @@
 # Security fix for CESA-2011:1282
 #
 # Security announcement date: 2011-09-13 15:39:53 UTC
-# Script generation date:     2016-02-04 19:11:20 UTC
+# Script generation date:     2016-03-10 07:15:28 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -18,13 +18,13 @@
 #   - nss-pkcs11-devel.i386:3.12.10-4.el5.centos
 #
 # Last versions recommanded by security team:
-#   - nss.x86_64:3.19.1-2.el5_11
-#   - nss-devel.x86_64:3.19.1-2.el5_11
-#   - nss-pkcs11-devel.x86_64:3.19.1-2.el5_11
-#   - nss-tools.x86_64:3.19.1-2.el5_11
-#   - nss.i386:3.19.1-2.el5_11
-#   - nss-devel.i386:3.19.1-2.el5_11
-#   - nss-pkcs11-devel.i386:3.19.1-2.el5_11
+#   - nss.x86_64:3.19.1-4.el5_11
+#   - nss-devel.x86_64:3.19.1-4.el5_11
+#   - nss-pkcs11-devel.x86_64:3.19.1-4.el5_11
+#   - nss-tools.x86_64:3.19.1-4.el5_11
+#   - nss.i386:3.19.1-4.el5_11
+#   - nss-devel.i386:3.19.1-4.el5_11
+#   - nss-pkcs11-devel.i386:3.19.1-4.el5_11
 #
 # CVE List:
 #

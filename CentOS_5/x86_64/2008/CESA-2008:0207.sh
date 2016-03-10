@@ -3,7 +3,7 @@
 # Security fix for CESA-2008:0207
 #
 # Security announcement date: 2008-03-27 23:06:04 UTC
-# Script generation date:     2016-02-17 07:09:33 UTC
+# Script generation date:     2016-03-10 07:14:31 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -38,7 +38,7 @@
 #   - seamonkey-nss.i386:1.0.9-0.16.el3.centos3
 #
 # Last versions recommanded by security team:
-#   - firefox.x86_64:38.6.1-1.el5.centos
+#   - firefox.x86_64:38.7.0-1.el5.centos
 #   - firefox-devel.x86_64:1.5.0.12-15.el5.centos
 #   - seamonkey.x86_64:1.0.9-0.16.el3.centos3
 #   - seamonkey-chat.x86_64:1.0.9-0.16.el3.centos3
@@ -50,7 +50,7 @@
 #   - seamonkey-nspr-devel.x86_64:1.0.9-0.16.el3.centos3
 #   - seamonkey-nss.x86_64:1.0.9-0.16.el3.centos3
 #   - seamonkey-nss-devel.x86_64:1.0.9-0.16.el3.centos3
-#   - firefox.i386:38.6.1-1.el5.centos
+#   - firefox.i386:38.7.0-1.el5.centos
 #   - firefox-devel.i386:1.5.0.12-15.el5.centos
 #   - seamonkey.i386:1.0.9-0.33.el2.c2.1
 #   - seamonkey-chat.i386:1.0.9-0.33.el2.c2.1
@@ -79,7 +79,7 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2008:0207
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.x86_64-38.6.1 -y 
+sudo yum install firefox.x86_64-38.7.0 -y 
 sudo yum install firefox-devel.x86_64-1.5.0.12 -y 
 sudo yum install seamonkey.x86_64-1.0.9 -y 
 sudo yum install seamonkey-chat.x86_64-1.0.9 -y 
@@ -91,7 +91,7 @@ sudo yum install seamonkey-nspr.x86_64-1.0.9 -y
 sudo yum install seamonkey-nspr-devel.x86_64-1.0.9 -y 
 sudo yum install seamonkey-nss.x86_64-1.0.9 -y 
 sudo yum install seamonkey-nss-devel.x86_64-1.0.9 -y 
-sudo yum install firefox.i386-38.6.1 -y 
+sudo yum install firefox.i386-38.7.0 -y 
 sudo yum install firefox-devel.i386-1.5.0.12 -y 
 sudo yum install seamonkey.i386-1.0.9 -y 
 sudo yum install seamonkey-chat.i386-1.0.9 -y 

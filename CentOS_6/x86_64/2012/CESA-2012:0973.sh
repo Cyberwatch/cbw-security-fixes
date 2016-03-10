@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0973
 #
 # Security announcement date: 2012-07-10 17:29:45 UTC
-# Script generation date:     2016-02-04 19:11:40 UTC
+# Script generation date:     2016-03-10 07:15:49 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -34,15 +34,15 @@
 #   - nss-pkcs11-devel.x86_64:3.19.1-8.el6_7
 #   - nss-sysinit.x86_64:3.19.1-8.el6_7
 #   - nss-tools.x86_64:3.19.1-8.el6_7
-#   - nss-util.x86_64:3.19.1-2.el6_7
-#   - nss-util-devel.x86_64:3.19.1-2.el6_7
+#   - nss-util.x86_64:3.19.1-5.el6_7
+#   - nss-util-devel.x86_64:3.19.1-5.el6_7
 #   - nspr.i686:4.10.8-2.el6_7
 #   - nspr-devel.i686:4.10.8-2.el6_7
 #   - nss.i686:3.19.1-8.el6_7
 #   - nss-devel.i686:3.19.1-8.el6_7
 #   - nss-pkcs11-devel.i686:3.19.1-8.el6_7
-#   - nss-util.i686:3.19.1-2.el6_7
-#   - nss-util-devel.i686:3.19.1-2.el6_7
+#   - nss-util.i686:3.19.1-5.el6_7
+#   - nss-util-devel.i686:3.19.1-5.el6_7
 #
 # CVE List:
 #
