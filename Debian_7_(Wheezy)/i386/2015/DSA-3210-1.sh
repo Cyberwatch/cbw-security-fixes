@@ -4,7 +4,7 @@
 # Security fix for DSA-3210-1
 #
 # Security announcement date: 2015-03-31 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:49 UTC
+# Script generation date:     2016-03-10 19:06:21 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - wireshark:1.8.2-5wheezy15
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.8.2-5wheezy16
+#   - wireshark:1.8.2-5wheezy17
 #
 # CVE List:
 #   - CVE-2015-2188
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3210-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wireshark=1.8.2-5wheezy16 -y
+sudo apt-get install --only-upgrade wireshark=1.8.2-5wheezy17 -y

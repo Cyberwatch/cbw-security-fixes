@@ -4,7 +4,7 @@
 # Security fix for DSA-2833-1
 #
 # Security announcement date: 2014-01-01 00:00:00 UTC
-# Script generation date:     2016-01-08 19:05:39 UTC
+# Script generation date:     2016-03-10 19:05:55 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - openssl:1.0.1e-2+deb7u1
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-2+deb7u19
+#   - openssl:1.0.1e-2+deb7u20
 #
 # CVE List:
 #   - CVE-2013-6449
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2833-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=1.0.1e-2+deb7u19 -y
+sudo apt-get install --only-upgrade openssl=1.0.1e-2+deb7u20 -y

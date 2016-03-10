@@ -4,7 +4,7 @@
 # Security fix for DSA-3197-2
 #
 # Security announcement date: 2015-03-24 00:00:00 UTC
-# Script generation date:     2016-01-08 19:06:04 UTC
+# Script generation date:     2016-03-10 19:06:21 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - openssl:1.0.1e-2+deb7u16
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-2+deb7u19
+#   - openssl:1.0.1e-2+deb7u20
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3197-2
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=1.0.1e-2+deb7u19 -y
+sudo apt-get install --only-upgrade openssl=1.0.1e-2+deb7u20 -y

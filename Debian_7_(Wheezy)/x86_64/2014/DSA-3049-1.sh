@@ -4,7 +4,7 @@
 # Security fix for DSA-3049-1
 #
 # Security announcement date: 2014-10-14 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:38 UTC
+# Script generation date:     2016-03-10 19:06:11 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - wireshark:1.8.2-5wheezy12
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.8.2-5wheezy16
+#   - wireshark:1.8.2-5wheezy17
 #
 # CVE List:
 #   - CVE-2014-6422
@@ -30,4 +30,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3049-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wireshark=1.8.2-5wheezy16 -y
+sudo apt-get install --only-upgrade wireshark=1.8.2-5wheezy17 -y
