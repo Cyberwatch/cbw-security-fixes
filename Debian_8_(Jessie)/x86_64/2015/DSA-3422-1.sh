@@ -4,7 +4,7 @@
 # Security fix for DSA-3422-1
 #
 # Security announcement date: 2015-12-16 00:00:00 UTC
-# Script generation date:     2016-02-14 19:04:28 UTC
+# Script generation date:     2016-03-10 07:08:46 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - iceweasel:38.5.0esr-1~deb8u2
 #
 # Last versions recommanded by security team:
-#   - iceweasel:38.6.1esr-1~deb8u1
+#   - iceweasel:38.7.0esr-1~deb8u1
 #
 # CVE List:
 #   - CVE-2015-7201
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3422-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade iceweasel=38.6.1esr-1~deb8u1 -y
+sudo apt-get install --only-upgrade iceweasel=38.7.0esr-1~deb8u1 -y

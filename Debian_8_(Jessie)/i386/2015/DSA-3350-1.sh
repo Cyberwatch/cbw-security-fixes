@@ -4,7 +4,7 @@
 # Security fix for DSA-3350-1
 #
 # Security announcement date: 2015-09-02 00:00:00 UTC
-# Script generation date:     2016-01-20 07:07:37 UTC
+# Script generation date:     2016-03-10 07:08:39 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - bind9:1:9.9.5.dfsg-9+deb8u3
 #
 # Last versions recommanded by security team:
-#   - bind9:1:9.9.5.dfsg-9+deb8u5
+#   - bind9:1:9.9.5.dfsg-9+deb8u6
 #
 # CVE List:
 #   - CVE-2015-5722
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3350-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade bind9=1:9.9.5.dfsg-9+deb8u5 -y
+sudo apt-get install --only-upgrade bind9=1:9.9.5.dfsg-9+deb8u6 -y
