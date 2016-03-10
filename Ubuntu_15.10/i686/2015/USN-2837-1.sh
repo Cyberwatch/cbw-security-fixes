@@ -3,7 +3,7 @@
 # Security fix for USN-2837-1
 #
 # Security announcement date: 2015-12-15 00:00:00 UTC
-# Script generation date:     2016-01-20 07:02:33 UTC
+# Script generation date:     2016-03-10 07:02:46 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -12,7 +12,7 @@
 #   - bind9:1:9.9.5.dfsg-11ubuntu1.1
 #
 # Last versions recommanded by security team:
-#   - bind9:1:9.9.5.dfsg-11ubuntu1.2
+#   - bind9:1:9.9.5.dfsg-11ubuntu1.3
 #
 # CVE List:
 #   - CVE-2015-8000
