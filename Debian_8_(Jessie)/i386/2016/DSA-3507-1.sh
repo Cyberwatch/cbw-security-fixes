@@ -4,7 +4,7 @@
 # Security fix for DSA-3507-1
 #
 # Security announcement date: 2016-03-05 00:00:00 UTC
-# Script generation date:     2016-03-07 07:04:35 UTC
+# Script generation date:     2016-03-11 07:08:09 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -30,6 +30,9 @@
 #   - CVE-2016-1640
 #   - CVE-2016-1641
 #   - CVE-2016-1642
+#   - CVE-2016-2845
+#   - CVE-2016-2844
+#   - CVE-2016-2843
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/DSA-3507-1
