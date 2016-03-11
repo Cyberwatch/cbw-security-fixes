@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:2140
 #
 # Security announcement date: 2015-11-30 19:41:07 UTC
-# Script generation date:     2016-02-04 19:13:11 UTC
+# Script generation date:     2016-03-11 07:15:57 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - libssh2-devel.i686:1.4.3-10.el7
 #
 # Last versions recommanded by security team:
-#   - libssh2.x86_64:1.4.3-10.el7
-#   - libssh2-devel.x86_64:1.4.3-10.el7
-#   - libssh2-docs.noarch:1.4.3-10.el7
-#   - libssh2.i686:1.4.3-10.el7
-#   - libssh2-devel.i686:1.4.3-10.el7
+#   - libssh2.x86_64:1.4.3-10.el7_2.1
+#   - libssh2-devel.x86_64:1.4.3-10.el7_2.1
+#   - libssh2-docs.noarch:1.4.3-10.el7_2.1
+#   - libssh2.i686:1.4.3-10.el7_2.1
+#   - libssh2-devel.i686:1.4.3-10.el7_2.1
 #
 # CVE List:
 #   - CVE-2015-1782
