@@ -4,7 +4,7 @@
 # Security fix for USN-2902-1
 #
 # Security announcement date: 2016-02-17 00:00:00 UTC
-# Script generation date:     2016-02-19 07:03:00 UTC
+# Script generation date:     2016-03-14 19:02:41 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libgraphite2-3:1.2.4-1ubuntu1.1
 #
 # Last versions recommanded by security team:
-#   - libgraphite2-3:1.2.4-1ubuntu1.1
+#   - libgraphite2-3:1.3.6-1ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2016-1521
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-2902-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgraphite2-3=1.2.4-1ubuntu1.1 -y
+sudo apt-get install --only-upgrade libgraphite2-3=1.3.6-1ubuntu0.14.04.1 -y

@@ -3,7 +3,7 @@
 # Security fix for USN-2902-1
 #
 # Security announcement date: 2016-02-17 00:00:00 UTC
-# Script generation date:     2016-02-19 07:03:00 UTC
+# Script generation date:     2016-03-14 19:02:41 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -12,7 +12,7 @@
 #   - libgraphite2-3:1.2.4-3ubuntu1.1
 #
 # Last versions recommanded by security team:
-#   - libgraphite2-3:1.2.4-3ubuntu1.1
+#   - libgraphite2-3:1.3.6-1ubuntu0.15.10.1
 #
 # CVE List:
 #   - CVE-2016-1521
