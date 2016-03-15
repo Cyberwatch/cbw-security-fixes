@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:0255
 #
 # Security announcement date: 2015-02-23 19:51:21 UTC
-# Script generation date:     2016-02-04 19:18:56 UTC
+# Script generation date:     2016-03-15 19:17:19 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -41,36 +41,36 @@
 #   - samba4-winbind-krb5-locator.x86_64:4.0.0-65.el6_5.rc4
 #
 # Last versions recommanded by security team:
-#   - samba4.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-client.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-common.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-dc.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-dc-libs.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-debuginfo.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-devel.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-libs.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-pidl.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-python.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-swat.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-test.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-winbind.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-winbind-clients.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-winbind-krb5-locator.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-client.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-common.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-dc.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-dc-libs.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-debuginfo.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-devel.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-libs.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-pidl.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-python.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-swat.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-test.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-winbind.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-winbind-clients.x86_64:4.0.0-67.el6_7.rc4
-#   - samba4-winbind-krb5-locator.x86_64:4.0.0-67.el6_7.rc4
+#   - samba4.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-client.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-common.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-dc.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-dc-libs.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-debuginfo.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-devel.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-libs.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-pidl.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-python.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-swat.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-test.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-winbind.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-winbind-clients.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-winbind-krb5-locator.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-client.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-common.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-dc.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-dc-libs.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-debuginfo.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-devel.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-libs.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-pidl.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-python.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-swat.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-test.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-winbind.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-winbind-clients.x86_64:4.0.0-68.el6_7.rc4
+#   - samba4-winbind-krb5-locator.x86_64:4.0.0-68.el6_7.rc4
 #
 # CVE List:
 #   - CVE-2015-0240
