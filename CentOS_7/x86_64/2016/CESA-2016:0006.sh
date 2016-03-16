@@ -3,7 +3,7 @@
 # Security fix for CESA-2016:0006
 #
 # Security announcement date: 2016-01-07 22:29:50 UTC
-# Script generation date:     2016-02-04 19:13:15 UTC
+# Script generation date:     2016-03-16 08:46:09 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -48,43 +48,43 @@
 #   - samba-winbind-modules.i686:4.2.3-11.el7_2
 #
 # Last versions recommanded by security team:
-#   - ctdb.x86_64:4.2.3-11.el7_2
-#   - ctdb-devel.x86_64:4.2.3-11.el7_2
-#   - ctdb-tests.x86_64:4.2.3-11.el7_2
-#   - libsmbclient.x86_64:4.2.3-11.el7_2
-#   - libsmbclient-devel.x86_64:4.2.3-11.el7_2
-#   - libwbclient.x86_64:4.2.3-11.el7_2
-#   - libwbclient-devel.x86_64:4.2.3-11.el7_2
-#   - samba.x86_64:4.2.3-11.el7_2
-#   - samba-client.x86_64:4.2.3-11.el7_2
-#   - samba-client-libs.x86_64:4.2.3-11.el7_2
-#   - samba-common.noarch:4.2.3-11.el7_2
-#   - samba-common-libs.x86_64:4.2.3-11.el7_2
-#   - samba-common-tools.x86_64:4.2.3-11.el7_2
-#   - samba-dc.x86_64:4.2.3-11.el7_2
-#   - samba-dc-libs.x86_64:4.2.3-11.el7_2
-#   - samba-devel.x86_64:4.2.3-11.el7_2
-#   - samba-libs.x86_64:4.2.3-11.el7_2
-#   - samba-pidl.noarch:4.2.3-11.el7_2
-#   - samba-python.x86_64:4.2.3-11.el7_2
-#   - samba-test.x86_64:4.2.3-11.el7_2
-#   - samba-test-devel.x86_64:4.2.3-11.el7_2
-#   - samba-test-libs.x86_64:4.2.3-11.el7_2
-#   - samba-vfs-glusterfs.x86_64:4.2.3-11.el7_2
-#   - samba-winbind.x86_64:4.2.3-11.el7_2
-#   - samba-winbind-clients.x86_64:4.2.3-11.el7_2
-#   - samba-winbind-krb5-locator.x86_64:4.2.3-11.el7_2
-#   - samba-winbind-modules.x86_64:4.2.3-11.el7_2
-#   - ctdb-devel.i686:4.2.3-11.el7_2
-#   - libsmbclient.i686:4.2.3-11.el7_2
-#   - libsmbclient-devel.i686:4.2.3-11.el7_2
-#   - libwbclient.i686:4.2.3-11.el7_2
-#   - libwbclient-devel.i686:4.2.3-11.el7_2
-#   - samba-client-libs.i686:4.2.3-11.el7_2
-#   - samba-devel.i686:4.2.3-11.el7_2
-#   - samba-libs.i686:4.2.3-11.el7_2
-#   - samba-test-libs.i686:4.2.3-11.el7_2
-#   - samba-winbind-modules.i686:4.2.3-11.el7_2
+#   - ctdb.x86_64:4.2.3-12.el7_2
+#   - ctdb-devel.x86_64:4.2.3-12.el7_2
+#   - ctdb-tests.x86_64:4.2.3-12.el7_2
+#   - libsmbclient.x86_64:4.2.3-12.el7_2
+#   - libsmbclient-devel.x86_64:4.2.3-12.el7_2
+#   - libwbclient.x86_64:4.2.3-12.el7_2
+#   - libwbclient-devel.x86_64:4.2.3-12.el7_2
+#   - samba.x86_64:4.2.3-12.el7_2
+#   - samba-client.x86_64:4.2.3-12.el7_2
+#   - samba-client-libs.x86_64:4.2.3-12.el7_2
+#   - samba-common.noarch:4.2.3-12.el7_2
+#   - samba-common-libs.x86_64:4.2.3-12.el7_2
+#   - samba-common-tools.x86_64:4.2.3-12.el7_2
+#   - samba-dc.x86_64:4.2.3-12.el7_2
+#   - samba-dc-libs.x86_64:4.2.3-12.el7_2
+#   - samba-devel.x86_64:4.2.3-12.el7_2
+#   - samba-libs.x86_64:4.2.3-12.el7_2
+#   - samba-pidl.noarch:4.2.3-12.el7_2
+#   - samba-python.x86_64:4.2.3-12.el7_2
+#   - samba-test.x86_64:4.2.3-12.el7_2
+#   - samba-test-devel.x86_64:4.2.3-12.el7_2
+#   - samba-test-libs.x86_64:4.2.3-12.el7_2
+#   - samba-vfs-glusterfs.x86_64:4.2.3-12.el7_2
+#   - samba-winbind.x86_64:4.2.3-12.el7_2
+#   - samba-winbind-clients.x86_64:4.2.3-12.el7_2
+#   - samba-winbind-krb5-locator.x86_64:4.2.3-12.el7_2
+#   - samba-winbind-modules.x86_64:4.2.3-12.el7_2
+#   - ctdb-devel.i686:4.2.3-12.el7_2
+#   - libsmbclient.i686:4.2.3-12.el7_2
+#   - libsmbclient-devel.i686:4.2.3-12.el7_2
+#   - libwbclient.i686:4.2.3-12.el7_2
+#   - libwbclient-devel.i686:4.2.3-12.el7_2
+#   - samba-client-libs.i686:4.2.3-12.el7_2
+#   - samba-devel.i686:4.2.3-12.el7_2
+#   - samba-libs.i686:4.2.3-12.el7_2
+#   - samba-test-libs.i686:4.2.3-12.el7_2
+#   - samba-winbind-modules.i686:4.2.3-12.el7_2
 #
 # CVE List:
 #   - CVE-2015-5252

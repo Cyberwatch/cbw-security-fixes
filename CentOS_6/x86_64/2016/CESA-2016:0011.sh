@@ -3,7 +3,7 @@
 # Security fix for CESA-2016:0011
 #
 # Security announcement date: 2016-01-07 22:10:57 UTC
-# Script generation date:     2016-02-04 19:13:14 UTC
+# Script generation date:     2016-03-16 08:46:08 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -29,24 +29,24 @@
 #   - samba-winbind-devel.i686:3.6.23-24.el6_7
 #
 # Last versions recommanded by security team:
-#   - libsmbclient.x86_64:3.6.23-24.el6_7
-#   - libsmbclient-devel.x86_64:3.6.23-24.el6_7
-#   - samba.x86_64:3.6.23-24.el6_7
-#   - samba-client.x86_64:3.6.23-24.el6_7
-#   - samba-common.x86_64:3.6.23-24.el6_7
-#   - samba-doc.x86_64:3.6.23-24.el6_7
-#   - samba-domainjoin-gui.x86_64:3.6.23-24.el6_7
-#   - samba-glusterfs.x86_64:3.6.23-24.el6_7
-#   - samba-swat.x86_64:3.6.23-24.el6_7
-#   - samba-winbind.x86_64:3.6.23-24.el6_7
-#   - samba-winbind-clients.x86_64:3.6.23-24.el6_7
-#   - samba-winbind-devel.x86_64:3.6.23-24.el6_7
-#   - samba-winbind-krb5-locator.x86_64:3.6.23-24.el6_7
-#   - libsmbclient.i686:3.6.23-24.el6_7
-#   - libsmbclient-devel.i686:3.6.23-24.el6_7
-#   - samba-common.i686:3.6.23-24.el6_7
-#   - samba-winbind-clients.i686:3.6.23-24.el6_7
-#   - samba-winbind-devel.i686:3.6.23-24.el6_7
+#   - libsmbclient.x86_64:3.6.23-25.el6_7
+#   - libsmbclient-devel.x86_64:3.6.23-25.el6_7
+#   - samba.x86_64:3.6.23-25.el6_7
+#   - samba-client.x86_64:3.6.23-25.el6_7
+#   - samba-common.x86_64:3.6.23-25.el6_7
+#   - samba-doc.x86_64:3.6.23-25.el6_7
+#   - samba-domainjoin-gui.x86_64:3.6.23-25.el6_7
+#   - samba-glusterfs.x86_64:3.6.23-25.el6_7
+#   - samba-swat.x86_64:3.6.23-25.el6_7
+#   - samba-winbind.x86_64:3.6.23-25.el6_7
+#   - samba-winbind-clients.x86_64:3.6.23-25.el6_7
+#   - samba-winbind-devel.x86_64:3.6.23-25.el6_7
+#   - samba-winbind-krb5-locator.x86_64:3.6.23-25.el6_7
+#   - libsmbclient.i686:3.6.23-25.el6_7
+#   - libsmbclient-devel.i686:3.6.23-25.el6_7
+#   - samba-common.i686:3.6.23-25.el6_7
+#   - samba-winbind-clients.i686:3.6.23-25.el6_7
+#   - samba-winbind-devel.i686:3.6.23-25.el6_7
 #
 # CVE List:
 #   - CVE-2015-5252
