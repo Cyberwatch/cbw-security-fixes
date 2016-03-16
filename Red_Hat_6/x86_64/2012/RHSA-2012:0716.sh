@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:0716
 #
 # Security announcement date: 2012-06-07 16:55:41 UTC
-# Script generation date:     2016-02-04 19:15:59 UTC
+# Script generation date:     2016-03-16 19:10:01 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -21,16 +21,16 @@
 #   - bind-devel.i686:9.7.3-8.P3.el6_2.3
 #
 # Last versions recommanded by security team:
-#   - bind-debuginfo.x86_64:9.8.2-0.30.rc1.el6_6.4
-#   - bind-libs.x86_64:9.8.2-0.30.rc1.el6_6.4
-#   - bind-utils.x86_64:9.8.2-0.30.rc1.el6_6.4
-#   - bind.x86_64:9.8.2-0.30.rc1.el6_6.4
-#   - bind-chroot.x86_64:9.8.2-0.30.rc1.el6_6.4
-#   - bind-devel.x86_64:9.8.2-0.30.rc1.el6_6.4
-#   - bind-sdb.x86_64:9.8.2-0.30.rc1.el6_6.4
-#   - bind-debuginfo.i686:9.8.2-0.30.rc1.el6_6.4
-#   - bind-libs.i686:9.8.2-0.30.rc1.el6_6.4
-#   - bind-devel.i686:9.8.2-0.30.rc1.el6_6.4
+#   - bind-debuginfo.x86_64:9.8.2-0.37.rc1.el6_7.7
+#   - bind-libs.x86_64:9.8.2-0.37.rc1.el6_7.7
+#   - bind-utils.x86_64:9.8.2-0.37.rc1.el6_7.7
+#   - bind.x86_64:9.8.2-0.37.rc1.el6_7.7
+#   - bind-chroot.x86_64:9.8.2-0.37.rc1.el6_7.7
+#   - bind-devel.x86_64:9.8.2-0.37.rc1.el6_7.7
+#   - bind-sdb.x86_64:9.8.2-0.37.rc1.el6_7.7
+#   - bind-debuginfo.i686:9.8.2-0.37.rc1.el6_7.7
+#   - bind-libs.i686:9.8.2-0.37.rc1.el6_7.7
+#   - bind-devel.i686:9.8.2-0.37.rc1.el6_7.7
 #
 # CVE List:
 #   - CVE-2012-1033

@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:1363
 #
 # Security announcement date: 2012-10-12 20:19:11 UTC
-# Script generation date:     2016-02-04 19:16:15 UTC
+# Script generation date:     2016-03-16 19:10:48 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -24,19 +24,19 @@
 #   - bind-libbind-devel.i386:9.3.6-20.P1.el5_8.5
 #
 # Last versions recommanded by security team:
-#   - bind.x86_64:9.3.6-25.P1.el5_11.6
-#   - bind-debuginfo.x86_64:9.3.6-25.P1.el5_11.6
-#   - bind-libs.x86_64:9.3.6-25.P1.el5_11.6
-#   - bind-sdb.x86_64:9.3.6-25.P1.el5_11.6
-#   - bind-utils.x86_64:9.3.6-25.P1.el5_11.6
-#   - bind-chroot.x86_64:9.3.6-25.P1.el5_11.6
-#   - bind-devel.x86_64:9.3.6-25.P1.el5_11.6
-#   - bind-libbind-devel.x86_64:9.3.6-25.P1.el5_11.6
-#   - caching-nameserver.x86_64:9.3.6-25.P1.el5_11.6
-#   - bind-debuginfo.i386:9.3.6-25.P1.el5_11.6
-#   - bind-libs.i386:9.3.6-25.P1.el5_11.6
-#   - bind-devel.i386:9.3.6-25.P1.el5_11.6
-#   - bind-libbind-devel.i386:9.3.6-25.P1.el5_11.6
+#   - bind.x86_64:9.3.6-25.P1.el5_11.8
+#   - bind-debuginfo.x86_64:9.3.6-25.P1.el5_11.8
+#   - bind-libs.x86_64:9.3.6-25.P1.el5_11.8
+#   - bind-sdb.x86_64:9.3.6-25.P1.el5_11.8
+#   - bind-utils.x86_64:9.3.6-25.P1.el5_11.8
+#   - bind-chroot.x86_64:9.3.6-25.P1.el5_11.8
+#   - bind-devel.x86_64:9.3.6-25.P1.el5_11.8
+#   - bind-libbind-devel.x86_64:9.3.6-25.P1.el5_11.8
+#   - caching-nameserver.x86_64:9.3.6-25.P1.el5_11.8
+#   - bind-debuginfo.i386:9.3.6-25.P1.el5_11.8
+#   - bind-libs.i386:9.3.6-25.P1.el5_11.8
+#   - bind-devel.i386:9.3.6-25.P1.el5_11.8
+#   - bind-libbind-devel.i386:9.3.6-25.P1.el5_11.8
 #
 # CVE List:
 #   - CVE-2012-5166
