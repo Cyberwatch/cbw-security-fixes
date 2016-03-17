@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1705
 #
 # Security announcement date: 2015-09-03 10:17:26 UTC
-# Script generation date:     2016-02-04 19:13:02 UTC
+# Script generation date:     2016-03-17 07:11:22 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -19,14 +19,14 @@
 #   - bind-libs.i686:9.8.2-0.37.rc1.el6_7.4
 #
 # Last versions recommanded by security team:
-#   - bind.x86_64:9.8.2-0.37.rc1.el6_7.6
-#   - bind-chroot.x86_64:9.8.2-0.37.rc1.el6_7.6
-#   - bind-devel.x86_64:9.8.2-0.37.rc1.el6_7.6
-#   - bind-libs.x86_64:9.8.2-0.37.rc1.el6_7.6
-#   - bind-sdb.x86_64:9.8.2-0.37.rc1.el6_7.6
-#   - bind-utils.x86_64:9.8.2-0.37.rc1.el6_7.6
-#   - bind-devel.i686:9.8.2-0.37.rc1.el6_7.6
-#   - bind-libs.i686:9.8.2-0.37.rc1.el6_7.6
+#   - bind.x86_64:9.8.2-0.37.rc1.el6_7.7
+#   - bind-chroot.x86_64:9.8.2-0.37.rc1.el6_7.7
+#   - bind-devel.x86_64:9.8.2-0.37.rc1.el6_7.7
+#   - bind-libs.x86_64:9.8.2-0.37.rc1.el6_7.7
+#   - bind-sdb.x86_64:9.8.2-0.37.rc1.el6_7.7
+#   - bind-utils.x86_64:9.8.2-0.37.rc1.el6_7.7
+#   - bind-devel.i686:9.8.2-0.37.rc1.el6_7.7
+#   - bind-libs.i686:9.8.2-0.37.rc1.el6_7.7
 #
 # CVE List:
 #   - CVE-2015-5722

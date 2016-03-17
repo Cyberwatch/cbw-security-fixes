@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:1445
 #
 # Security announcement date: 2012-11-13 20:46:28 UTC
-# Script generation date:     2016-02-04 19:11:49 UTC
+# Script generation date:     2016-03-17 07:09:40 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -19,14 +19,14 @@
 #   - kernel-xen-devel.x86_64:2.6.18-308.20.1.el5
 #
 # Last versions recommanded by security team:
-#   - kernel-doc.noarch:2.6.18-408.el5
-#   - kernel.x86_64:2.6.18-408.el5
-#   - kernel-debug.x86_64:2.6.18-408.el5
-#   - kernel-debug-devel.x86_64:2.6.18-408.el5
-#   - kernel-devel.x86_64:2.6.18-408.el5
-#   - kernel-headers.x86_64:2.6.18-408.el5
-#   - kernel-xen.x86_64:2.6.18-408.el5
-#   - kernel-xen-devel.x86_64:2.6.18-408.el5
+#   - kernel-doc.noarch:2.6.18-409.el5
+#   - kernel.x86_64:2.6.18-409.el5
+#   - kernel-debug.x86_64:2.6.18-409.el5
+#   - kernel-debug-devel.x86_64:2.6.18-409.el5
+#   - kernel-devel.x86_64:2.6.18-409.el5
+#   - kernel-headers.x86_64:2.6.18-409.el5
+#   - kernel-xen.x86_64:2.6.18-409.el5
+#   - kernel-xen-devel.x86_64:2.6.18-409.el5
 #
 # CVE List:
 #   - CVE-2009-4307

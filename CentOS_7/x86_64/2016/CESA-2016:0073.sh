@@ -3,7 +3,7 @@
 # Security fix for CESA-2016:0073
 #
 # Security announcement date: 2016-01-27 13:26:10 UTC
-# Script generation date:     2016-02-04 19:13:17 UTC
+# Script generation date:     2016-03-17 07:11:36 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -31,26 +31,26 @@
 #   - bind-pkcs11-libs.i686:9.9.4-29.el7_2.2
 #
 # Last versions recommanded by security team:
-#   - bind.x86_64:9.9.4-29.el7_2.2
-#   - bind-chroot.x86_64:9.9.4-29.el7_2.2
-#   - bind-devel.x86_64:9.9.4-29.el7_2.2
-#   - bind-libs.x86_64:9.9.4-29.el7_2.2
-#   - bind-libs-lite.x86_64:9.9.4-29.el7_2.2
-#   - bind-license.noarch:9.9.4-29.el7_2.2
-#   - bind-lite-devel.x86_64:9.9.4-29.el7_2.2
-#   - bind-pkcs11.x86_64:9.9.4-29.el7_2.2
-#   - bind-pkcs11-devel.x86_64:9.9.4-29.el7_2.2
-#   - bind-pkcs11-libs.x86_64:9.9.4-29.el7_2.2
-#   - bind-pkcs11-utils.x86_64:9.9.4-29.el7_2.2
-#   - bind-sdb.x86_64:9.9.4-29.el7_2.2
-#   - bind-sdb-chroot.x86_64:9.9.4-29.el7_2.2
-#   - bind-utils.x86_64:9.9.4-29.el7_2.2
-#   - bind-devel.i686:9.9.4-29.el7_2.2
-#   - bind-libs.i686:9.9.4-29.el7_2.2
-#   - bind-libs-lite.i686:9.9.4-29.el7_2.2
-#   - bind-lite-devel.i686:9.9.4-29.el7_2.2
-#   - bind-pkcs11-devel.i686:9.9.4-29.el7_2.2
-#   - bind-pkcs11-libs.i686:9.9.4-29.el7_2.2
+#   - bind.x86_64:9.9.4-29.el7_2.3
+#   - bind-chroot.x86_64:9.9.4-29.el7_2.3
+#   - bind-devel.x86_64:9.9.4-29.el7_2.3
+#   - bind-libs.x86_64:9.9.4-29.el7_2.3
+#   - bind-libs-lite.x86_64:9.9.4-29.el7_2.3
+#   - bind-license.noarch:9.9.4-29.el7_2.3
+#   - bind-lite-devel.x86_64:9.9.4-29.el7_2.3
+#   - bind-pkcs11.x86_64:9.9.4-29.el7_2.3
+#   - bind-pkcs11-devel.x86_64:9.9.4-29.el7_2.3
+#   - bind-pkcs11-libs.x86_64:9.9.4-29.el7_2.3
+#   - bind-pkcs11-utils.x86_64:9.9.4-29.el7_2.3
+#   - bind-sdb.x86_64:9.9.4-29.el7_2.3
+#   - bind-sdb-chroot.x86_64:9.9.4-29.el7_2.3
+#   - bind-utils.x86_64:9.9.4-29.el7_2.3
+#   - bind-devel.i686:9.9.4-29.el7_2.3
+#   - bind-libs.i686:9.9.4-29.el7_2.3
+#   - bind-libs-lite.i686:9.9.4-29.el7_2.3
+#   - bind-lite-devel.i686:9.9.4-29.el7_2.3
+#   - bind-pkcs11-devel.i686:9.9.4-29.el7_2.3
+#   - bind-pkcs11-libs.i686:9.9.4-29.el7_2.3
 #
 # CVE List:
 #   - CVE-2015-8704

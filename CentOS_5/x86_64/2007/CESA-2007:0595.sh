@@ -3,7 +3,7 @@
 # Security fix for CESA-2007:0595
 #
 # Security announcement date: 2007-07-10 21:54:40 UTC
-# Script generation date:     2016-02-04 19:09:56 UTC
+# Script generation date:     2016-03-17 07:08:08 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - kernel-xen-devel.x86_64:2.6.18-8.1.8.el5
 #
 # Last versions recommanded by security team:
-#   - kernel.x86_64:2.6.18-408.el5
-#   - kernel-devel.x86_64:2.6.18-408.el5
-#   - kernel-doc.noarch:2.6.18-408.el5
-#   - kernel-headers.x86_64:2.6.18-408.el5
-#   - kernel-xen.x86_64:2.6.18-408.el5
-#   - kernel-xen-devel.x86_64:2.6.18-408.el5
+#   - kernel.x86_64:2.6.18-409.el5
+#   - kernel-devel.x86_64:2.6.18-409.el5
+#   - kernel-doc.noarch:2.6.18-409.el5
+#   - kernel-headers.x86_64:2.6.18-409.el5
+#   - kernel-xen.x86_64:2.6.18-409.el5
+#   - kernel-xen-devel.x86_64:2.6.18-409.el5
 #
 # CVE List:
 #

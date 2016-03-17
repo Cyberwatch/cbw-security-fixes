@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:0473
 #
 # Security announcement date: 2009-05-07 18:35:31 UTC
-# Script generation date:     2016-02-04 19:10:46 UTC
+# Script generation date:     2016-03-17 07:08:36 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - kernel-doc.noarch:2.6.18-128.1.10.el5
 #
 # Last versions recommanded by security team:
-#   - kernel-doc.noarch:2.6.18-408.el5
+#   - kernel-doc.noarch:2.6.18-409.el5
 #
 # CVE List:
 #   - CVE-2008-4307
