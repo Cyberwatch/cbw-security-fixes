@@ -4,7 +4,7 @@
 # Security fix for DSA-3435-1
 #
 # Security announcement date: 2016-01-05 00:00:00 UTC
-# Script generation date:     2016-01-07 07:03:50 UTC
+# Script generation date:     2016-03-19 19:04:02 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - git:1:2.1.4-2.1+deb8u1
 #
 # Last versions recommanded by security team:
-#   - git:1:2.1.4-2.1+deb8u1
+#   - git:1:2.1.4-2.1+deb8u2
 #
 # CVE List:
 #   - CVE-2015-7545
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3435-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade git=1:2.1.4-2.1+deb8u1 -y
+sudo apt-get install --only-upgrade git=1:2.1.4-2.1+deb8u2 -y
