@@ -4,16 +4,28 @@
 # Security fix for DSA-2988-1
 #
 # Security announcement date: 2014-07-24 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:34 UTC
+# Script generation date:     2016-03-21 19:06:27 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
 #
 # Vulnerable packages fix on version:
 #   - transmission:2.52-3+nmu2
+#   - transmission-common:2.52-3+nmu2
+#   - transmission-dbg:2.52-3+nmu2
+#   - transmission-cli:2.52-3+nmu2
+#   - transmission-gtk:2.52-3+nmu2
+#   - transmission-qt:2.52-3+nmu2
+#   - transmission-daemon:2.52-3+nmu2
 #
 # Last versions recommanded by security team:
 #   - transmission:2.52-3+nmu2
+#   - transmission-common:2.52-3+nmu2
+#   - transmission-dbg:2.52-3+nmu2
+#   - transmission-cli:2.52-3+nmu2
+#   - transmission-gtk:2.52-3+nmu2
+#   - transmission-qt:2.52-3+nmu2
+#   - transmission-daemon:2.52-3+nmu2
 #
 # CVE List:
 #   - CVE-2014-4909
@@ -23,3 +35,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade transmission=2.52-3+nmu2 -y
+sudo apt-get install --only-upgrade transmission-common=2.52-3+nmu2 -y
+sudo apt-get install --only-upgrade transmission-dbg=2.52-3+nmu2 -y
+sudo apt-get install --only-upgrade transmission-cli=2.52-3+nmu2 -y
+sudo apt-get install --only-upgrade transmission-gtk=2.52-3+nmu2 -y
+sudo apt-get install --only-upgrade transmission-qt=2.52-3+nmu2 -y
+sudo apt-get install --only-upgrade transmission-daemon=2.52-3+nmu2 -y

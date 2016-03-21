@@ -4,16 +4,20 @@
 # Security fix for DSA-2854-1
 #
 # Security announcement date: 2014-02-05 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:24 UTC
+# Script generation date:     2016-03-21 19:06:15 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
 #
 # Vulnerable packages fix on version:
 #   - mumble:1.2.3-349-g315b5f5-2.2+deb7u1
+#   - mumble-server:1.2.3-349-g315b5f5-2.2+deb7u1
+#   - mumble-dbg:1.2.3-349-g315b5f5-2.2+deb7u1
 #
 # Last versions recommanded by security team:
 #   - mumble:1.2.3-349-g315b5f5-2.2+deb7u1
+#   - mumble-server:1.2.3-349-g315b5f5-2.2+deb7u1
+#   - mumble-dbg:1.2.3-349-g315b5f5-2.2+deb7u1
 #
 # CVE List:
 #   - CVE-2014-0044
@@ -24,3 +28,5 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade mumble=1.2.3-349-g315b5f5-2.2+deb7u1 -y
+sudo apt-get install --only-upgrade mumble-server=1.2.3-349-g315b5f5-2.2+deb7u1 -y
+sudo apt-get install --only-upgrade mumble-dbg=1.2.3-349-g315b5f5-2.2+deb7u1 -y

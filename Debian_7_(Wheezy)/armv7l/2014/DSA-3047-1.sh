@@ -4,16 +4,28 @@
 # Security fix for DSA-3047-1
 #
 # Security announcement date: 2014-10-08 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:38 UTC
+# Script generation date:     2016-03-21 19:06:32 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
 #
 # Vulnerable packages fix on version:
 #   - rsyslog:5.8.11-3+deb7u2
+#   - rsyslog-doc:5.8.11-3+deb7u2
+#   - rsyslog-mysql:5.8.11-3+deb7u2
+#   - rsyslog-pgsql:5.8.11-3+deb7u2
+#   - rsyslog-gssapi:5.8.11-3+deb7u2
+#   - rsyslog-gnutls:5.8.11-3+deb7u2
+#   - rsyslog-relp:5.8.11-3+deb7u2
 #
 # Last versions recommanded by security team:
 #   - rsyslog:5.8.11-3+deb7u2
+#   - rsyslog-doc:5.8.11-3+deb7u2
+#   - rsyslog-mysql:5.8.11-3+deb7u2
+#   - rsyslog-pgsql:5.8.11-3+deb7u2
+#   - rsyslog-gssapi:5.8.11-3+deb7u2
+#   - rsyslog-gnutls:5.8.11-3+deb7u2
+#   - rsyslog-relp:5.8.11-3+deb7u2
 #
 # CVE List:
 #   - CVE-2014-3683
@@ -23,3 +35,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade rsyslog=5.8.11-3+deb7u2 -y
+sudo apt-get install --only-upgrade rsyslog-doc=5.8.11-3+deb7u2 -y
+sudo apt-get install --only-upgrade rsyslog-mysql=5.8.11-3+deb7u2 -y
+sudo apt-get install --only-upgrade rsyslog-pgsql=5.8.11-3+deb7u2 -y
+sudo apt-get install --only-upgrade rsyslog-gssapi=5.8.11-3+deb7u2 -y
+sudo apt-get install --only-upgrade rsyslog-gnutls=5.8.11-3+deb7u2 -y
+sudo apt-get install --only-upgrade rsyslog-relp=5.8.11-3+deb7u2 -y

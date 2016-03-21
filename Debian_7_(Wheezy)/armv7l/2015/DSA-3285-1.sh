@@ -4,16 +4,18 @@
 # Security fix for DSA-3285-1
 #
 # Security announcement date: 2015-06-13 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:55 UTC
+# Script generation date:     2016-03-21 19:07:02 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
 #
 # Vulnerable packages fix on version:
 #   - qemu-kvm:1.1.2+dfsg-6+deb7u8
+#   - qemu-kvm-dbg:1.1.2+dfsg-6+deb7u8
 #
 # Last versions recommanded by security team:
 #   - qemu-kvm:1.1.2+dfsg-6+deb7u9
+#   - qemu-kvm-dbg:1.1.2+dfsg-6+deb7u9
 #
 # CVE List:
 #   - CVE-2015-3209
@@ -24,3 +26,4 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade qemu-kvm=1.1.2+dfsg-6+deb7u9 -y
+sudo apt-get install --only-upgrade qemu-kvm-dbg=1.1.2+dfsg-6+deb7u9 -y

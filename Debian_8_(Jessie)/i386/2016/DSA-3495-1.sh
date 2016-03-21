@@ -4,16 +4,18 @@
 # Security fix for DSA-3495-1
 #
 # Security announcement date: 2016-02-28 00:00:00 UTC
-# Script generation date:     2016-03-01 07:05:39 UTC
+# Script generation date:     2016-03-21 19:07:36 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - xymon:4.3.17-6+deb8u1
+#   - xymon-client:4.3.17-6+deb8u1
 #
 # Last versions recommanded by security team:
 #   - xymon:4.3.17-6+deb8u1
+#   - xymon-client:4.3.17-6+deb8u1
 #
 # CVE List:
 #   - CVE-2016-2054
@@ -27,3 +29,4 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade xymon=4.3.17-6+deb8u1 -y
+sudo apt-get install --only-upgrade xymon-client=4.3.17-6+deb8u1 -y

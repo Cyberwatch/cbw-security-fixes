@@ -4,16 +4,28 @@
 # Security fix for DSA-2671-1
 #
 # Security announcement date: 2013-05-22 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:07 UTC
+# Script generation date:     2016-03-21 19:05:59 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - request-tracker4:4.0.7-5+deb7u2
+#   - rt4-clients:4.0.7-5+deb7u2
+#   - rt4-fcgi:4.0.7-5+deb7u2
+#   - rt4-apache2:4.0.7-5+deb7u2
+#   - rt4-db-postgresql:4.0.7-5+deb7u2
+#   - rt4-db-mysql:4.0.7-5+deb7u2
+#   - rt4-db-sqlite:4.0.7-5+deb7u2
 #
 # Last versions recommanded by security team:
 #   - request-tracker4:4.0.7-5+deb7u4
+#   - rt4-clients:4.0.7-5+deb7u4
+#   - rt4-fcgi:4.0.7-5+deb7u4
+#   - rt4-apache2:4.0.7-5+deb7u4
+#   - rt4-db-postgresql:4.0.7-5+deb7u4
+#   - rt4-db-mysql:4.0.7-5+deb7u4
+#   - rt4-db-sqlite:4.0.7-5+deb7u4
 #
 # CVE List:
 #   - CVE-2012-4733
@@ -31,3 +43,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade request-tracker4=4.0.7-5+deb7u4 -y
+sudo apt-get install --only-upgrade rt4-clients=4.0.7-5+deb7u4 -y
+sudo apt-get install --only-upgrade rt4-fcgi=4.0.7-5+deb7u4 -y
+sudo apt-get install --only-upgrade rt4-apache2=4.0.7-5+deb7u4 -y
+sudo apt-get install --only-upgrade rt4-db-postgresql=4.0.7-5+deb7u4 -y
+sudo apt-get install --only-upgrade rt4-db-mysql=4.0.7-5+deb7u4 -y
+sudo apt-get install --only-upgrade rt4-db-sqlite=4.0.7-5+deb7u4 -y

@@ -4,16 +4,18 @@
 # Security fix for DSA-2807-1
 #
 # Security announcement date: 2013-11-30 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:19 UTC
+# Script generation date:     2016-03-21 19:06:11 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - links2:2.7-1+deb7u1
+#   - links:2.7-1+deb7u1
 #
 # Last versions recommanded by security team:
 #   - links2:2.7-1+deb7u1
+#   - links:2.7-1+deb7u1
 #
 # CVE List:
 #   - CVE-2013-6050
@@ -23,3 +25,4 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade links2=2.7-1+deb7u1 -y
+sudo apt-get install --only-upgrade links=2.7-1+deb7u1 -y

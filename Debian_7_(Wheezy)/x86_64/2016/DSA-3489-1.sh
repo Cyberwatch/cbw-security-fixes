@@ -4,16 +4,28 @@
 # Security fix for DSA-3489-1
 #
 # Security announcement date: 2016-02-23 00:00:00 UTC
-# Script generation date:     2016-02-25 07:08:53 UTC
+# Script generation date:     2016-03-21 19:07:35 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - lighttpd:1.4.31-4+deb7u4
+#   - lighttpd-doc:1.4.31-4+deb7u4
+#   - lighttpd-mod-mysql-vhost:1.4.31-4+deb7u4
+#   - lighttpd-mod-trigger-b4-dl:1.4.31-4+deb7u4
+#   - lighttpd-mod-cml:1.4.31-4+deb7u4
+#   - lighttpd-mod-magnet:1.4.31-4+deb7u4
+#   - lighttpd-mod-webdav:1.4.31-4+deb7u4
 #
 # Last versions recommanded by security team:
 #   - lighttpd:1.4.31-4+deb7u4
+#   - lighttpd-doc:1.4.31-4+deb7u4
+#   - lighttpd-mod-mysql-vhost:1.4.31-4+deb7u4
+#   - lighttpd-mod-trigger-b4-dl:1.4.31-4+deb7u4
+#   - lighttpd-mod-cml:1.4.31-4+deb7u4
+#   - lighttpd-mod-magnet:1.4.31-4+deb7u4
+#   - lighttpd-mod-webdav:1.4.31-4+deb7u4
 #
 # CVE List:
 #   - CVE-2014-3566
@@ -23,3 +35,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade lighttpd=1.4.31-4+deb7u4 -y
+sudo apt-get install --only-upgrade lighttpd-doc=1.4.31-4+deb7u4 -y
+sudo apt-get install --only-upgrade lighttpd-mod-mysql-vhost=1.4.31-4+deb7u4 -y
+sudo apt-get install --only-upgrade lighttpd-mod-trigger-b4-dl=1.4.31-4+deb7u4 -y
+sudo apt-get install --only-upgrade lighttpd-mod-cml=1.4.31-4+deb7u4 -y
+sudo apt-get install --only-upgrade lighttpd-mod-magnet=1.4.31-4+deb7u4 -y
+sudo apt-get install --only-upgrade lighttpd-mod-webdav=1.4.31-4+deb7u4 -y

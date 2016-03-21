@@ -4,16 +4,28 @@
 # Security fix for DSA-2956-1
 #
 # Security announcement date: 2014-06-11 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:32 UTC
+# Script generation date:     2016-03-21 19:06:24 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
 #
 # Vulnerable packages fix on version:
 #   - icinga:1.7.1-7
+#   - icinga-common:1.7.1-7
+#   - icinga-cgi:1.7.1-7
+#   - icinga-idoutils:1.7.1-7
+#   - icinga-core:1.7.1-7
+#   - icinga-doc:1.7.1-7
+#   - icinga-dbg:1.7.1-7
 #
 # Last versions recommanded by security team:
 #   - icinga:1.7.1-7
+#   - icinga-common:1.7.1-7
+#   - icinga-cgi:1.7.1-7
+#   - icinga-idoutils:1.7.1-7
+#   - icinga-core:1.7.1-7
+#   - icinga-doc:1.7.1-7
+#   - icinga-dbg:1.7.1-7
 #
 # CVE List:
 #   - CVE-2013-7106
@@ -27,3 +39,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade icinga=1.7.1-7 -y
+sudo apt-get install --only-upgrade icinga-common=1.7.1-7 -y
+sudo apt-get install --only-upgrade icinga-cgi=1.7.1-7 -y
+sudo apt-get install --only-upgrade icinga-idoutils=1.7.1-7 -y
+sudo apt-get install --only-upgrade icinga-core=1.7.1-7 -y
+sudo apt-get install --only-upgrade icinga-doc=1.7.1-7 -y
+sudo apt-get install --only-upgrade icinga-dbg=1.7.1-7 -y
