@@ -4,7 +4,7 @@
 # Security fix for DSA-3330-1
 #
 # Security announcement date: 2015-08-07 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:59 UTC
+# Script generation date:     2016-03-21 07:03:57 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - activemq:5.6.0+dfsg1-4+deb8u1
 #
 # Last versions recommanded by security team:
-#   - activemq:5.6.0+dfsg1-4+deb8u1
+#   - activemq:5.6.0+dfsg1-4+deb8u2
 #
 # CVE List:
 #   - CVE-2014-3576
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-3330-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade activemq=5.6.0+dfsg1-4+deb8u1 -y
+sudo apt-get install --only-upgrade activemq=5.6.0+dfsg1-4+deb8u2 -y
