@@ -4,13 +4,17 @@
 # Security fix for USN-2226-1
 #
 # Security announcement date: 2014-05-27 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:10 UTC
+# Script generation date:     2016-03-21 19:01:09 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - linux-image-3.13.0-27-generic:3.13.0-27.50
+#   - linux-source-3.13.0:3.13.0-27.50
+#   - linux-doc:3.13.0-27.50
+#   - linux-tools-common:3.13.0-27.50
+#   - linux-cloud-tools-common:3.13.0-27.50
 #   - linux-image-3.13.0-27-generic-lpae:3.13.0-27.50
 #   - linux-image-3.13.0-27-powerpc-e500:3.13.0-27.50
 #   - linux-image-3.13.0-27-lowlatency:3.13.0-27.50
@@ -21,6 +25,10 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.13.0-27-generic:3.13.0-27.50
+#   - linux-source-3.13.0:3.13.0-83.127
+#   - linux-doc:3.13.0-83.127
+#   - linux-tools-common:3.13.0-83.127
+#   - linux-cloud-tools-common:3.13.0-83.127
 #   - linux-image-3.13.0-27-generic-lpae:3.13.0-27.50
 #   - linux-image-3.13.0-27-powerpc-e500:3.13.0-27.50
 #   - linux-image-3.13.0-27-lowlatency:3.13.0-27.50
@@ -42,6 +50,10 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-27-generic=3.13.0-27.50 -y
+sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-83.127 -y
+sudo apt-get install --only-upgrade linux-doc=3.13.0-83.127 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.13.0-83.127 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-83.127 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-27-generic-lpae=3.13.0-27.50 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-27-powerpc-e500=3.13.0-27.50 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-27-lowlatency=3.13.0-27.50 -y

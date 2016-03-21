@@ -4,7 +4,7 @@
 # Security fix for USN-2560-1
 #
 # Security announcement date: 2015-04-08 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:48 UTC
+# Script generation date:     2016-03-21 19:02:18 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,6 +13,10 @@
 #   - linux-image-3.2.0-80-highbank:3.2.0-80.116
 #   - linux-image-3.2.0-80-omap:3.2.0-80.116
 #   - linux-image-3.2.0-80-generic-pae:3.2.0-80.116
+#   - linux-source-3.2.0:3.2.0-80.116
+#   - linux-doc:3.2.0-80.116
+#   - linux-tools-common:3.2.0-80.116
+#   - linux-libc-dev:3.2.0-80.116
 #   - linux-image-3.2.0-80-powerpc64-smp:3.2.0-80.116
 #   - linux-image-3.2.0-80-virtual:3.2.0-80.116
 #   - linux-image-3.2.0-80-generic:3.2.0-80.116
@@ -22,6 +26,10 @@
 #   - linux-image-3.2.0-80-highbank:3.2.0-80.116
 #   - linux-image-3.2.0-80-omap:3.2.0-80.116
 #   - linux-image-3.2.0-80-generic-pae:3.2.0-80.116
+#   - linux-source-3.2.0:3.2.0-101.141
+#   - linux-doc:3.2.0-101.141
+#   - linux-tools-common:3.2.0-101.141
+#   - linux-libc-dev:3.2.0-101.141
 #   - linux-image-3.2.0-80-powerpc64-smp:3.2.0-80.116
 #   - linux-image-3.2.0-80-virtual:3.2.0-80.116
 #   - linux-image-3.2.0-80-generic:3.2.0-80.116
@@ -39,6 +47,10 @@
 sudo apt-get install --only-upgrade linux-image-3.2.0-80-highbank=3.2.0-80.116 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-80-omap=3.2.0-80.116 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-80-generic-pae=3.2.0-80.116 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-101.141 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-80-powerpc64-smp=3.2.0-80.116 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-80-virtual=3.2.0-80.116 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-80-generic=3.2.0-80.116 -y

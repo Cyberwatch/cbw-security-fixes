@@ -4,16 +4,20 @@
 # Security fix for USN-2730-1
 #
 # Security announcement date: 2015-09-03 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:12 UTC
+# Script generation date:     2016-03-21 19:03:01 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - libslp1:1.2.1-9ubuntu0.2
+#   - openslp-doc:1.2.1-9ubuntu0.2
+#   - libslp-dev:1.2.1-9ubuntu0.2
 #
 # Last versions recommanded by security team:
 #   - libslp1:1.2.1-9ubuntu0.2
+#   - openslp-doc:1.2.1-9ubuntu0.2
+#   - libslp-dev:1.2.1-9ubuntu0.2
 #
 # CVE List:
 #   - CVE-2012-4428
@@ -24,3 +28,5 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libslp1=1.2.1-9ubuntu0.2 -y
+sudo apt-get install --only-upgrade openslp-doc=1.2.1-9ubuntu0.2 -y
+sudo apt-get install --only-upgrade libslp-dev=1.2.1-9ubuntu0.2 -y

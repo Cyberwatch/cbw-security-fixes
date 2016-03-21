@@ -3,7 +3,7 @@
 # Security fix for USN-2818-1
 #
 # Security announcement date: 2015-11-25 00:00:00 UTC
-# Script generation date:     2016-02-02 07:02:31 UTC
+# Script generation date:     2016-03-21 19:03:26 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -12,6 +12,13 @@
 #   - openjdk-7-jre-lib:7u91-2.6.3-0ubuntu0.15.10.1
 #   - openjdk-7-jre-zero:7u91-2.6.3-0ubuntu0.15.10.1
 #   - icedtea-7-jre-jamvm:7u91-2.6.3-0ubuntu0.15.10.1
+#   - openjdk-7-jdk:7u91-2.6.3-0ubuntu0.15.10.1
+#   - openjdk-7-jre-headless:7u91-2.6.3-0ubuntu0.15.10.1
+#   - openjdk-7-jre:7u91-2.6.3-0ubuntu0.15.10.1
+#   - openjdk-7-demo:7u91-2.6.3-0ubuntu0.15.10.1
+#   - openjdk-7-source:7u91-2.6.3-0ubuntu0.15.10.1
+#   - openjdk-7-doc:7u91-2.6.3-0ubuntu0.15.10.1
+#   - openjdk-7-dbg:7u91-2.6.3-0ubuntu0.15.10.1
 #   - openjdk-7-jre-headless:7u91-2.6.3-0ubuntu0.15.10.1
 #   - openjdk-7-jre:7u91-2.6.3-0ubuntu0.15.10.1
 #
@@ -19,6 +26,13 @@
 #   - openjdk-7-jre-lib:7u91-2.6.3-0ubuntu0.15.10.1
 #   - openjdk-7-jre-zero:7u91-2.6.3-0ubuntu0.15.10.1
 #   - icedtea-7-jre-jamvm:7u95-2.6.4-0ubuntu0.15.10.1
+#   - openjdk-7-jdk:7u95-2.6.4-0ubuntu0.15.10.1
+#   - openjdk-7-jre-headless:7u95-2.6.4-0ubuntu0.15.10.1
+#   - openjdk-7-jre:7u95-2.6.4-0ubuntu0.15.10.1
+#   - openjdk-7-demo:7u95-2.6.4-0ubuntu0.15.10.1
+#   - openjdk-7-source:7u95-2.6.4-0ubuntu0.15.10.1
+#   - openjdk-7-doc:7u95-2.6.4-0ubuntu0.15.10.1
+#   - openjdk-7-dbg:7u95-2.6.4-0ubuntu0.15.10.1
 #   - openjdk-7-jre-headless:7u95-2.6.4-0ubuntu0.15.10.1
 #   - openjdk-7-jre:7u95-2.6.4-0ubuntu0.15.10.1
 #

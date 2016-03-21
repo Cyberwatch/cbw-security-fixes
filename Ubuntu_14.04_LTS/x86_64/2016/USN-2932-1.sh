@@ -4,7 +4,7 @@
 # Security fix for USN-2932-1
 #
 # Security announcement date: 2016-03-14 00:00:00 UTC
-# Script generation date:     2016-03-16 08:38:05 UTC
+# Script generation date:     2016-03-21 19:04:13 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -14,6 +14,17 @@
 #   - linux-image-3.19.0-56-generic-lpae:3.19.0-56.62~14.04.1
 #   - linux-image-3.19.0-56-powerpc-e500mc:3.19.0-56.62~14.04.1
 #   - linux-image-3.19.0-56-lowlatency:3.19.0-56.62~14.04.1
+#   - linux-headers-3.19.0-56:3.19.0-56.62~14.04.1
+#   - linux-lts-vivid-tools-3.19.0-56:3.19.0-56.62~14.04.1
+#   - linux-lts-vivid-cloud-tools-3.19.0-56:3.19.0-56.62~14.04.1
+#   - linux-image-3.19.0-56-generic:3.19.0-56.62~14.04.1
+#   - linux-image-extra-3.19.0-56-generic:3.19.0-56.62~14.04.1
+#   - linux-headers-3.19.0-56-generic:3.19.0-56.62~14.04.1
+#   - linux-tools-3.19.0-56-generic:3.19.0-56.62~14.04.1
+#   - linux-cloud-tools-3.19.0-56-generic:3.19.0-56.62~14.04.1
+#   - linux-headers-3.19.0-56-lowlatency:3.19.0-56.62~14.04.1
+#   - linux-tools-3.19.0-56-lowlatency:3.19.0-56.62~14.04.1
+#   - linux-cloud-tools-3.19.0-56-lowlatency:3.19.0-56.62~14.04.1
 #   - linux-image-3.19.0-56-powerpc64-smp:3.19.0-56.62~14.04.1
 #   - linux-image-3.19.0-56-powerpc64-emb:3.19.0-56.62~14.04.1
 #   - linux-image-3.19.0-56-generic:3.19.0-56.62~14.04.1
@@ -23,6 +34,17 @@
 #   - linux-image-3.19.0-56-generic-lpae:3.19.0-56.62~14.04.1
 #   - linux-image-3.19.0-56-powerpc-e500mc:3.19.0-56.62~14.04.1
 #   - linux-image-3.19.0-56-lowlatency:3.19.0-56.62~14.04.1
+#   - linux-headers-3.19.0-56:3.19.0-56.62~14.04.1
+#   - linux-lts-vivid-tools-3.19.0-56:3.19.0-56.62~14.04.1
+#   - linux-lts-vivid-cloud-tools-3.19.0-56:3.19.0-56.62~14.04.1
+#   - linux-image-3.19.0-56-generic:3.19.0-56.62~14.04.1
+#   - linux-image-extra-3.19.0-56-generic:3.19.0-56.62~14.04.1
+#   - linux-headers-3.19.0-56-generic:3.19.0-56.62~14.04.1
+#   - linux-tools-3.19.0-56-generic:3.19.0-56.62~14.04.1
+#   - linux-cloud-tools-3.19.0-56-generic:3.19.0-56.62~14.04.1
+#   - linux-headers-3.19.0-56-lowlatency:3.19.0-56.62~14.04.1
+#   - linux-tools-3.19.0-56-lowlatency:3.19.0-56.62~14.04.1
+#   - linux-cloud-tools-3.19.0-56-lowlatency:3.19.0-56.62~14.04.1
 #   - linux-image-3.19.0-56-powerpc64-smp:3.19.0-56.62~14.04.1
 #   - linux-image-3.19.0-56-powerpc64-emb:3.19.0-56.62~14.04.1
 #   - linux-image-3.19.0-56-generic:3.19.0-56.62~14.04.1
@@ -53,6 +75,17 @@ sudo apt-get install --only-upgrade linux-image-3.19.0-56-powerpc-smp=3.19.0-56.
 sudo apt-get install --only-upgrade linux-image-3.19.0-56-generic-lpae=3.19.0-56.62~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.19.0-56-powerpc-e500mc=3.19.0-56.62~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.19.0-56-lowlatency=3.19.0-56.62~14.04.1 -y
+sudo apt-get install --only-upgrade linux-headers-3.19.0-56=3.19.0-56.62~14.04.1 -y
+sudo apt-get install --only-upgrade linux-lts-vivid-tools-3.19.0-56=3.19.0-56.62~14.04.1 -y
+sudo apt-get install --only-upgrade linux-lts-vivid-cloud-tools-3.19.0-56=3.19.0-56.62~14.04.1 -y
+sudo apt-get install --only-upgrade linux-image-3.19.0-56-generic=3.19.0-56.62~14.04.1 -y
+sudo apt-get install --only-upgrade linux-image-extra-3.19.0-56-generic=3.19.0-56.62~14.04.1 -y
+sudo apt-get install --only-upgrade linux-headers-3.19.0-56-generic=3.19.0-56.62~14.04.1 -y
+sudo apt-get install --only-upgrade linux-tools-3.19.0-56-generic=3.19.0-56.62~14.04.1 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-3.19.0-56-generic=3.19.0-56.62~14.04.1 -y
+sudo apt-get install --only-upgrade linux-headers-3.19.0-56-lowlatency=3.19.0-56.62~14.04.1 -y
+sudo apt-get install --only-upgrade linux-tools-3.19.0-56-lowlatency=3.19.0-56.62~14.04.1 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-3.19.0-56-lowlatency=3.19.0-56.62~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.19.0-56-powerpc64-smp=3.19.0-56.62~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.19.0-56-powerpc64-emb=3.19.0-56.62~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.19.0-56-generic=3.19.0-56.62~14.04.1 -y

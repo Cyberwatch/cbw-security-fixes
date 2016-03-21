@@ -4,17 +4,27 @@
 # Security fix for USN-2425-1
 #
 # Security announcement date: 2014-11-27 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:27 UTC
+# Script generation date:     2016-03-21 19:01:34 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - dbus:1.4.18-1ubuntu1.7
+#   - dbus-x11:1.4.18-1ubuntu1.7
+#   - libdbus-1-3:1.4.18-1ubuntu1.7
+#   - dbus-1-doc:1.4.18-1ubuntu1.7
+#   - libdbus-1-dev:1.4.18-1ubuntu1.7
+#   - dbus-1-dbg:1.4.18-1ubuntu1.7
 #   - libdbus-1-3:1.4.18-1ubuntu1.7
 #
 # Last versions recommanded by security team:
 #   - dbus:1.4.18-1ubuntu1.7
+#   - dbus-x11:1.4.18-1ubuntu1.7
+#   - libdbus-1-3:1.4.18-1ubuntu1.7
+#   - dbus-1-doc:1.4.18-1ubuntu1.7
+#   - libdbus-1-dev:1.4.18-1ubuntu1.7
+#   - dbus-1-dbg:1.4.18-1ubuntu1.7
 #   - libdbus-1-3:1.4.18-1ubuntu1.7
 #
 # CVE List:
@@ -25,4 +35,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade dbus=1.4.18-1ubuntu1.7 -y
+sudo apt-get install --only-upgrade dbus-x11=1.4.18-1ubuntu1.7 -y
+sudo apt-get install --only-upgrade libdbus-1-3=1.4.18-1ubuntu1.7 -y
+sudo apt-get install --only-upgrade dbus-1-doc=1.4.18-1ubuntu1.7 -y
+sudo apt-get install --only-upgrade libdbus-1-dev=1.4.18-1ubuntu1.7 -y
+sudo apt-get install --only-upgrade dbus-1-dbg=1.4.18-1ubuntu1.7 -y
 sudo apt-get install --only-upgrade libdbus-1-3=1.4.18-1ubuntu1.7 -y

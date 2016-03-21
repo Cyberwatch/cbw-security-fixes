@@ -4,7 +4,7 @@
 # Security fix for USN-2319-2
 #
 # Security announcement date: 2014-08-25 00:00:00 UTC
-# Script generation date:     2016-02-02 07:01:26 UTC
+# Script generation date:     2016-03-21 19:01:20 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -15,11 +15,15 @@
 #   - icedtea-7-jre-jamvm:7u65-2.5.1-4ubuntu1~0.14.04.2
 #   - openjdk-7-jre-headless:7u65-2.5.1-4ubuntu1~0.14.04.2
 #   - openjdk-7-jre:7u65-2.5.1-4ubuntu1~0.14.04.2
+#   - openjdk-7-jre-headless:7u65-2.5.1-4ubuntu1~0.14.04.2
+#   - openjdk-7-jre:7u65-2.5.1-4ubuntu1~0.14.04.2
 #
 # Last versions recommanded by security team:
 #   - openjdk-7-jre-lib:7u65-2.5.1-4ubuntu1~0.14.04.2
 #   - openjdk-7-jre-zero:7u65-2.5.1-4ubuntu1~0.14.04.2
 #   - icedtea-7-jre-jamvm:7u95-2.6.4-0ubuntu0.14.04.1
+#   - openjdk-7-jre-headless:7u95-2.6.4-0ubuntu0.14.04.1
+#   - openjdk-7-jre:7u95-2.6.4-0ubuntu0.14.04.1
 #   - openjdk-7-jre-headless:7u95-2.6.4-0ubuntu0.14.04.1
 #   - openjdk-7-jre:7u95-2.6.4-0ubuntu0.14.04.1
 #
@@ -47,5 +51,7 @@
 sudo apt-get install --only-upgrade openjdk-7-jre-lib=7u65-2.5.1-4ubuntu1~0.14.04.2 -y
 sudo apt-get install --only-upgrade openjdk-7-jre-zero=7u65-2.5.1-4ubuntu1~0.14.04.2 -y
 sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u95-2.6.4-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u95-2.6.4-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-jre=7u95-2.6.4-0ubuntu0.14.04.1 -y
 sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u95-2.6.4-0ubuntu0.14.04.1 -y
 sudo apt-get install --only-upgrade openjdk-7-jre=7u95-2.6.4-0ubuntu0.14.04.1 -y

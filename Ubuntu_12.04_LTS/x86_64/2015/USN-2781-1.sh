@@ -4,16 +4,36 @@
 # Security fix for USN-2781-1
 #
 # Security announcement date: 2015-10-26 00:00:00 UTC
-# Script generation date:     2016-01-26 19:02:30 UTC
+# Script generation date:     2016-03-21 19:03:14 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - mysql-server-5.5:5.5.46-0ubuntu0.12.04.2
+#   - libmysqlclient18:5.5.46-0ubuntu0.12.04.2
+#   - libmysqld-pic:5.5.46-0ubuntu0.12.04.2
+#   - libmysqld-dev:5.5.46-0ubuntu0.12.04.2
+#   - libmysqlclient-dev:5.5.46-0ubuntu0.12.04.2
+#   - mysql-common:5.5.46-0ubuntu0.12.04.2
+#   - mysql-client-core-5.5:5.5.46-0ubuntu0.12.04.2
+#   - mysql-client-5.5:5.5.46-0ubuntu0.12.04.2
+#   - mysql-server-core-5.5:5.5.46-0ubuntu0.12.04.2
+#   - mysql-server:5.5.46-0ubuntu0.12.04.2
+#   - mysql-client:5.5.46-0ubuntu0.12.04.2
 #
 # Last versions recommanded by security team:
 #   - mysql-server-5.5:5.5.47-0ubuntu0.12.04.1
+#   - libmysqlclient18:5.5.47-0ubuntu0.12.04.1
+#   - libmysqld-pic:5.5.47-0ubuntu0.12.04.1
+#   - libmysqld-dev:5.5.47-0ubuntu0.12.04.1
+#   - libmysqlclient-dev:5.5.47-0ubuntu0.12.04.1
+#   - mysql-common:5.5.47-0ubuntu0.12.04.1
+#   - mysql-client-core-5.5:5.5.47-0ubuntu0.12.04.1
+#   - mysql-client-5.5:5.5.47-0ubuntu0.12.04.1
+#   - mysql-server-core-5.5:5.5.47-0ubuntu0.12.04.1
+#   - mysql-server:5.5.47-0ubuntu0.12.04.1
+#   - mysql-client:5.5.47-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2015-4730
@@ -46,3 +66,13 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade mysql-server-5.5=5.5.47-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade libmysqlclient18=5.5.47-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade libmysqld-pic=5.5.47-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade libmysqld-dev=5.5.47-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade libmysqlclient-dev=5.5.47-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade mysql-common=5.5.47-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade mysql-client-core-5.5=5.5.47-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade mysql-client-5.5=5.5.47-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade mysql-server-core-5.5=5.5.47-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade mysql-server=5.5.47-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade mysql-client=5.5.47-0ubuntu0.12.04.1 -y

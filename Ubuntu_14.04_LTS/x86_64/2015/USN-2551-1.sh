@@ -4,7 +4,7 @@
 # Security fix for USN-2551-1
 #
 # Security announcement date: 2015-03-30 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:47 UTC
+# Script generation date:     2016-03-21 19:02:13 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -12,9 +12,11 @@
 # Vulnerable packages fix on version:
 #   - libjakarta-taglibs-standard-java:1.1.2-2ubuntu1.14.04.1
 #   - libjstl1.1-java:1.1.2-2ubuntu1.14.04.1
+#   - libjstl1.1-java:1.1.2-2ubuntu1.14.04.1
 #
 # Last versions recommanded by security team:
 #   - libjakarta-taglibs-standard-java:1.1.2-2ubuntu1.14.04.1
+#   - libjstl1.1-java:1.1.2-2ubuntu1.14.04.1
 #   - libjstl1.1-java:1.1.2-2ubuntu1.14.04.1
 #
 # CVE List:
@@ -25,4 +27,5 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libjakarta-taglibs-standard-java=1.1.2-2ubuntu1.14.04.1 -y
+sudo apt-get install --only-upgrade libjstl1.1-java=1.1.2-2ubuntu1.14.04.1 -y
 sudo apt-get install --only-upgrade libjstl1.1-java=1.1.2-2ubuntu1.14.04.1 -y

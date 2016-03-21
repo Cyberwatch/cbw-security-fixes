@@ -4,17 +4,23 @@
 # Security fix for USN-2461-3
 #
 # Security announcement date: 2015-01-12 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:32 UTC
+# Script generation date:     2016-03-21 19:01:43 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
 #
 # Vulnerable packages fix on version:
 #   - python-yaml:3.10-4ubuntu0.1
+#   - python-yaml-dbg:3.10-4ubuntu0.1
+#   - python3-yaml:3.10-4ubuntu0.1
+#   - python3-yaml-dbg:3.10-4ubuntu0.1
 #   - python3-yaml:3.10-4ubuntu0.1
 #
 # Last versions recommanded by security team:
 #   - python-yaml:3.10-4ubuntu0.1
+#   - python-yaml-dbg:3.10-4ubuntu0.1
+#   - python3-yaml:3.10-4ubuntu0.1
+#   - python3-yaml-dbg:3.10-4ubuntu0.1
 #   - python3-yaml:3.10-4ubuntu0.1
 #
 # CVE List:
@@ -25,4 +31,7 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade python-yaml=3.10-4ubuntu0.1 -y
+sudo apt-get install --only-upgrade python-yaml-dbg=3.10-4ubuntu0.1 -y
+sudo apt-get install --only-upgrade python3-yaml=3.10-4ubuntu0.1 -y
+sudo apt-get install --only-upgrade python3-yaml-dbg=3.10-4ubuntu0.1 -y
 sudo apt-get install --only-upgrade python3-yaml=3.10-4ubuntu0.1 -y

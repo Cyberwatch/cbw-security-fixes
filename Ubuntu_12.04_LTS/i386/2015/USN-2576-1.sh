@@ -4,16 +4,20 @@
 # Security fix for USN-2576-1
 #
 # Security announcement date: 2015-04-23 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:50 UTC
+# Script generation date:     2016-03-21 19:02:21 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - usb-creator-common:0.2.38.3ubuntu0.1
+#   - usb-creator-gtk:0.2.38.3ubuntu0.1
+#   - usb-creator-kde:0.2.38.3ubuntu0.1
 #
 # Last versions recommanded by security team:
 #   - usb-creator-common:0.2.38.3ubuntu0.1
+#   - usb-creator-gtk:0.2.38.3ubuntu0.1
+#   - usb-creator-kde:0.2.38.3ubuntu0.1
 #
 # CVE List:
 #
@@ -22,3 +26,5 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade usb-creator-common=0.2.38.3ubuntu0.1 -y
+sudo apt-get install --only-upgrade usb-creator-gtk=0.2.38.3ubuntu0.1 -y
+sudo apt-get install --only-upgrade usb-creator-kde=0.2.38.3ubuntu0.1 -y

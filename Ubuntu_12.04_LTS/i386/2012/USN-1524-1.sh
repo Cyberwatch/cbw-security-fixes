@@ -4,7 +4,7 @@
 # Security fix for USN-1524-1
 #
 # Security announcement date: 2012-08-08 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:31 UTC
+# Script generation date:     2016-03-21 19:00:29 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -14,9 +14,15 @@
 #   - libjavascriptcoregtk-1.0-0:1.8.1-0ubuntu0.12.04.1
 #   - libwebkitgtk-1.0-0:1.8.1-0ubuntu0.12.04.1
 #   - libwebkitgtk-3.0-0:1.8.1-0ubuntu0.12.04.1
+#   - libjavascriptcoregtk-1.0-0:1.8.1-0ubuntu0.12.04.1
+#   - libwebkitgtk-1.0-0:1.8.1-0ubuntu0.12.04.1
+#   - libwebkitgtk-3.0-0:1.8.1-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
 #   - libjavascriptcoregtk-3.0-0:1.8.3-0ubuntu0.12.04.1
+#   - libjavascriptcoregtk-1.0-0:1.8.3-0ubuntu0.12.04.1
+#   - libwebkitgtk-1.0-0:1.8.3-0ubuntu0.12.04.1
+#   - libwebkitgtk-3.0-0:1.8.3-0ubuntu0.12.04.1
 #   - libjavascriptcoregtk-1.0-0:1.8.3-0ubuntu0.12.04.1
 #   - libwebkitgtk-1.0-0:1.8.3-0ubuntu0.12.04.1
 #   - libwebkitgtk-3.0-0:1.8.3-0ubuntu0.12.04.1
@@ -43,6 +49,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libjavascriptcoregtk-3.0-0=1.8.3-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade libjavascriptcoregtk-1.0-0=1.8.3-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade libwebkitgtk-1.0-0=1.8.3-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade libwebkitgtk-3.0-0=1.8.3-0ubuntu0.12.04.1 -y
 sudo apt-get install --only-upgrade libjavascriptcoregtk-1.0-0=1.8.3-0ubuntu0.12.04.1 -y
 sudo apt-get install --only-upgrade libwebkitgtk-1.0-0=1.8.3-0ubuntu0.12.04.1 -y
 sudo apt-get install --only-upgrade libwebkitgtk-3.0-0=1.8.3-0ubuntu0.12.04.1 -y

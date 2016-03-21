@@ -3,16 +3,34 @@
 # Security fix for USN-2881-1
 #
 # Security announcement date: 2016-01-26 00:00:00 UTC
-# Script generation date:     2016-01-28 07:02:41 UTC
+# Script generation date:     2016-03-21 19:03:48 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - mysql-server-5.6:5.6.28-0ubuntu0.15.10.1
+#   - libmysqlclient18:5.6.28-0ubuntu0.15.10.1
+#   - libmysqld-dev:5.6.28-0ubuntu0.15.10.1
+#   - libmysqlclient-dev:5.6.28-0ubuntu0.15.10.1
+#   - mysql-common:5.6.28-0ubuntu0.15.10.1
+#   - mysql-client-core-5.6:5.6.28-0ubuntu0.15.10.1
+#   - mysql-client-5.6:5.6.28-0ubuntu0.15.10.1
+#   - mysql-server-core-5.6:5.6.28-0ubuntu0.15.10.1
+#   - mysql-server:5.6.28-0ubuntu0.15.10.1
+#   - mysql-client:5.6.28-0ubuntu0.15.10.1
 #
 # Last versions recommanded by security team:
 #   - mysql-server-5.6:5.6.28-0ubuntu0.15.10.1
+#   - libmysqlclient18:5.6.28-0ubuntu0.15.10.1
+#   - libmysqld-dev:5.6.28-0ubuntu0.15.10.1
+#   - libmysqlclient-dev:5.6.28-0ubuntu0.15.10.1
+#   - mysql-common:5.6.28-0ubuntu0.15.10.1
+#   - mysql-client-core-5.6:5.6.28-0ubuntu0.15.10.1
+#   - mysql-client-5.6:5.6.28-0ubuntu0.15.10.1
+#   - mysql-server-core-5.6:5.6.28-0ubuntu0.15.10.1
+#   - mysql-server:5.6.28-0ubuntu0.15.10.1
+#   - mysql-client:5.6.28-0ubuntu0.15.10.1
 #
 # CVE List:
 #   - CVE-2016-0503

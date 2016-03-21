@@ -4,13 +4,23 @@
 # Security fix for USN-2827-1
 #
 # Security announcement date: 2015-12-03 00:00:00 UTC
-# Script generation date:     2016-02-02 07:02:32 UTC
+# Script generation date:     2016-03-21 19:03:29 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - icedtea-6-jre-cacao:6b37-1.13.9-1ubuntu0.12.04.1
+#   - openjdk-6-jdk:6b37-1.13.9-1ubuntu0.12.04.1
+#   - openjdk-6-jre-headless:6b37-1.13.9-1ubuntu0.12.04.1
+#   - openjdk-6-jre:6b37-1.13.9-1ubuntu0.12.04.1
+#   - openjdk-6-jre-lib:6b37-1.13.9-1ubuntu0.12.04.1
+#   - openjdk-6-demo:6b37-1.13.9-1ubuntu0.12.04.1
+#   - openjdk-6-source:6b37-1.13.9-1ubuntu0.12.04.1
+#   - openjdk-6-doc:6b37-1.13.9-1ubuntu0.12.04.1
+#   - openjdk-6-dbg:6b37-1.13.9-1ubuntu0.12.04.1
+#   - icedtea-6-jre-jamvm:6b37-1.13.9-1ubuntu0.12.04.1
+#   - openjdk-6-jre-zero:6b37-1.13.9-1ubuntu0.12.04.1
 #   - icedtea-6-jre-jamvm:6b37-1.13.9-1ubuntu0.12.04.1
 #   - openjdk-6-jre:6b37-1.13.9-1ubuntu0.12.04.1
 #   - openjdk-6-jre-headless:6b37-1.13.9-1ubuntu0.12.04.1
@@ -19,6 +29,16 @@
 #
 # Last versions recommanded by security team:
 #   - icedtea-6-jre-cacao:6b38-1.13.10-0ubuntu0.12.04.1
+#   - openjdk-6-jdk:6b38-1.13.10-0ubuntu0.12.04.1
+#   - openjdk-6-jre-headless:6b38-1.13.10-0ubuntu0.12.04.1
+#   - openjdk-6-jre:6b38-1.13.10-0ubuntu0.12.04.1
+#   - openjdk-6-jre-lib:6b38-1.13.10-0ubuntu0.12.04.1
+#   - openjdk-6-demo:6b38-1.13.10-0ubuntu0.12.04.1
+#   - openjdk-6-source:6b38-1.13.10-0ubuntu0.12.04.1
+#   - openjdk-6-doc:6b38-1.13.10-0ubuntu0.12.04.1
+#   - openjdk-6-dbg:6b38-1.13.10-0ubuntu0.12.04.1
+#   - icedtea-6-jre-jamvm:6b38-1.13.10-0ubuntu0.12.04.1
+#   - openjdk-6-jre-zero:6b37-1.13.9-1ubuntu0.12.04.1
 #   - icedtea-6-jre-jamvm:6b38-1.13.10-0ubuntu0.12.04.1
 #   - openjdk-6-jre:6b38-1.13.10-0ubuntu0.12.04.1
 #   - openjdk-6-jre-headless:6b38-1.13.10-0ubuntu0.12.04.1
@@ -48,6 +68,16 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade icedtea-6-jre-cacao=6b38-1.13.10-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jdk=6b38-1.13.10-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jre-headless=6b38-1.13.10-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jre=6b38-1.13.10-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jre-lib=6b38-1.13.10-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-demo=6b38-1.13.10-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-source=6b38-1.13.10-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-doc=6b38-1.13.10-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-dbg=6b38-1.13.10-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade icedtea-6-jre-jamvm=6b38-1.13.10-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jre-zero=6b37-1.13.9-1ubuntu0.12.04.1 -y
 sudo apt-get install --only-upgrade icedtea-6-jre-jamvm=6b38-1.13.10-0ubuntu0.12.04.1 -y
 sudo apt-get install --only-upgrade openjdk-6-jre=6b38-1.13.10-0ubuntu0.12.04.1 -y
 sudo apt-get install --only-upgrade openjdk-6-jre-headless=6b38-1.13.10-0ubuntu0.12.04.1 -y

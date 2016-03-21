@@ -4,18 +4,26 @@
 # Security fix for USN-1862-1
 #
 # Security announcement date: 2013-06-05 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:51 UTC
+# Script generation date:     2016-03-21 19:00:45 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - libxrandr2:2:1.3.2-2ubuntu0.2
+#   - libxrandr2-dbg:2:1.3.2-2ubuntu0.2
+#   - libxrandr-dev:2:1.3.2-2ubuntu0.2
 #   - libxrandr-ltsq2:2:1.4.0-1~precise2
+#   - libxrandr-ltsq2-dbg:2:1.4.0-1~precise2
+#   - libxrandr-dev-lts-quantal:2:1.4.0-1~precise2
 #
 # Last versions recommanded by security team:
 #   - libxrandr2:2:1.3.2-2ubuntu0.3
+#   - libxrandr2-dbg:2:1.3.2-2ubuntu0.3
+#   - libxrandr-dev:2:1.3.2-2ubuntu0.3
 #   - libxrandr-ltsq2:2:1.4.0-1~precise2
+#   - libxrandr-ltsq2-dbg:2:1.4.0-1~precise2
+#   - libxrandr-dev-lts-quantal:2:1.4.0-1~precise2
 #
 # CVE List:
 #   - CVE-2013-1986
@@ -25,4 +33,8 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libxrandr2=2:1.3.2-2ubuntu0.3 -y
+sudo apt-get install --only-upgrade libxrandr2-dbg=2:1.3.2-2ubuntu0.3 -y
+sudo apt-get install --only-upgrade libxrandr-dev=2:1.3.2-2ubuntu0.3 -y
 sudo apt-get install --only-upgrade libxrandr-ltsq2=2:1.4.0-1~precise2 -y
+sudo apt-get install --only-upgrade libxrandr-ltsq2-dbg=2:1.4.0-1~precise2 -y
+sudo apt-get install --only-upgrade libxrandr-dev-lts-quantal=2:1.4.0-1~precise2 -y

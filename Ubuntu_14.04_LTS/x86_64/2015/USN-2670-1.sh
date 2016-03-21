@@ -4,16 +4,24 @@
 # Security fix for USN-2670-1
 #
 # Security announcement date: 2015-07-08 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:04 UTC
+# Script generation date:     2016-03-21 19:02:44 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - libwmf0.2-7:0.2.8.4-10.3ubuntu1.14.04.1
+#   - libwmf0.2-7-gtk:0.2.8.4-10.3ubuntu1.14.04.1
+#   - libwmf-bin:0.2.8.4-10.3ubuntu1.14.04.1
+#   - libwmf-dev:0.2.8.4-10.3ubuntu1.14.04.1
+#   - libwmf-doc:0.2.8.4-10.3ubuntu1.14.04.1
 #
 # Last versions recommanded by security team:
 #   - libwmf0.2-7:0.2.8.4-10.3ubuntu1.14.04.1
+#   - libwmf0.2-7-gtk:0.2.8.4-10.3ubuntu1.14.04.1
+#   - libwmf-bin:0.2.8.4-10.3ubuntu1.14.04.1
+#   - libwmf-dev:0.2.8.4-10.3ubuntu1.14.04.1
+#   - libwmf-doc:0.2.8.4-10.3ubuntu1.14.04.1
 #
 # CVE List:
 #   - CVE-2015-0848
@@ -26,3 +34,7 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libwmf0.2-7=0.2.8.4-10.3ubuntu1.14.04.1 -y
+sudo apt-get install --only-upgrade libwmf0.2-7-gtk=0.2.8.4-10.3ubuntu1.14.04.1 -y
+sudo apt-get install --only-upgrade libwmf-bin=0.2.8.4-10.3ubuntu1.14.04.1 -y
+sudo apt-get install --only-upgrade libwmf-dev=0.2.8.4-10.3ubuntu1.14.04.1 -y
+sudo apt-get install --only-upgrade libwmf-doc=0.2.8.4-10.3ubuntu1.14.04.1 -y

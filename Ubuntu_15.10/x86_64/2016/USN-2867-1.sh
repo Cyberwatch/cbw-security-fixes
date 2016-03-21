@@ -3,7 +3,7 @@
 # Security fix for USN-2867-1
 #
 # Security announcement date: 2016-01-12 00:00:00 UTC
-# Script generation date:     2016-01-14 07:02:36 UTC
+# Script generation date:     2016-03-21 19:03:43 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -11,9 +11,17 @@
 # Vulnerable packages fix on version:
 #   - libvirt0:1.2.16-2ubuntu11.15.10.2
 #   - libvirt-bin:1.2.16-2ubuntu11.15.10.2
+#   - libvirt0-dbg:1.2.16-2ubuntu11.15.10.2
+#   - libvirt-doc:1.2.16-2ubuntu11.15.10.2
+#   - libvirt-dev:1.2.16-2ubuntu11.15.10.2
+#   - libvirt-bin:1.2.16-2ubuntu11.15.10.2
 #
 # Last versions recommanded by security team:
 #   - libvirt0:1.2.16-2ubuntu11.15.10.2
+#   - libvirt-bin:1.2.16-2ubuntu11.15.10.2
+#   - libvirt0-dbg:1.2.16-2ubuntu11.15.10.2
+#   - libvirt-doc:1.2.16-2ubuntu11.15.10.2
+#   - libvirt-dev:1.2.16-2ubuntu11.15.10.2
 #   - libvirt-bin:1.2.16-2ubuntu11.15.10.2
 #
 # CVE List:

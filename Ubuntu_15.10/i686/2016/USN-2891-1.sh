@@ -3,13 +3,26 @@
 # Security fix for USN-2891-1
 #
 # Security announcement date: 2016-02-03 00:00:00 UTC
-# Script generation date:     2016-02-05 07:02:46 UTC
+# Script generation date:     2016-03-21 19:03:53 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
 #
 # Vulnerable packages fix on version:
 #   - qemu-system-misc:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-system:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-block-extra:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-system-common:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-system-arm:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-system-mips:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-system-ppc:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-system-sparc:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-system-x86:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-utils:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-kvm:1:2.3+dfsg-5ubuntu9.2
+#   - libcacard0:1:2.3+dfsg-5ubuntu9.2
+#   - libcacard-dev:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-system-aarch64:1:2.3+dfsg-5ubuntu9.2
 #   - qemu-system:1:2.3+dfsg-5ubuntu9.2
 #   - qemu-system-aarch64:1:2.3+dfsg-5ubuntu9.2
 #   - qemu-system-x86:1:2.3+dfsg-5ubuntu9.2
@@ -20,6 +33,19 @@
 #
 # Last versions recommanded by security team:
 #   - qemu-system-misc:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-system:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-block-extra:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-system-common:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-system-arm:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-system-mips:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-system-ppc:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-system-sparc:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-system-x86:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-utils:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-kvm:1:2.3+dfsg-5ubuntu9.2
+#   - libcacard0:1:2.3+dfsg-5ubuntu9.2
+#   - libcacard-dev:1:2.3+dfsg-5ubuntu9.2
+#   - qemu-system-aarch64:1:2.3+dfsg-5ubuntu9.2
 #   - qemu-system:1:2.3+dfsg-5ubuntu9.2
 #   - qemu-system-aarch64:1:2.3+dfsg-5ubuntu9.2
 #   - qemu-system-x86:1:2.3+dfsg-5ubuntu9.2

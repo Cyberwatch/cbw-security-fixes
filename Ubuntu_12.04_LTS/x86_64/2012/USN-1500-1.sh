@@ -4,18 +4,22 @@
 # Security fix for USN-1500-1
 #
 # Security announcement date: 2012-07-09 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:25 UTC
+# Script generation date:     2016-03-21 19:00:22 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - finch:1:2.10.3-0ubuntu1.1
+#   - libpurple0:1:2.10.3-0ubuntu1.1
+#   - pidgin:1:2.10.3-0ubuntu1.1
 #   - pidgin:1:2.10.3-0ubuntu1.1
 #   - libpurple0:1:2.10.3-0ubuntu1.1
 #
 # Last versions recommanded by security team:
 #   - finch:1:2.10.3-0ubuntu1.6
+#   - libpurple0:1:2.10.3-0ubuntu1.6
+#   - pidgin:1:2.10.3-0ubuntu1.6
 #   - pidgin:1:2.10.3-0ubuntu1.6
 #   - libpurple0:1:2.10.3-0ubuntu1.6
 #
@@ -35,5 +39,7 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade finch=1:2.10.3-0ubuntu1.6 -y
+sudo apt-get install --only-upgrade libpurple0=1:2.10.3-0ubuntu1.6 -y
+sudo apt-get install --only-upgrade pidgin=1:2.10.3-0ubuntu1.6 -y
 sudo apt-get install --only-upgrade pidgin=1:2.10.3-0ubuntu1.6 -y
 sudo apt-get install --only-upgrade libpurple0=1:2.10.3-0ubuntu1.6 -y

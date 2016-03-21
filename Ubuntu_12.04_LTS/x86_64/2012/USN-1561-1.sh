@@ -4,16 +4,20 @@
 # Security fix for USN-1561-1
 #
 # Security announcement date: 2012-09-10 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:37 UTC
+# Script generation date:     2016-03-21 19:00:30 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - ubiquity-slideshow-ubuntu:58.2
+#   - ubiquity-slideshow-kubuntu:58.2
+#   - oem-config-slideshow-ubuntu:58.2
 #
 # Last versions recommanded by security team:
 #   - ubiquity-slideshow-ubuntu:58.2
+#   - ubiquity-slideshow-kubuntu:58.2
+#   - oem-config-slideshow-ubuntu:58.2
 #
 # CVE List:
 #   - CVE-2012-0956
@@ -23,3 +27,5 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade ubiquity-slideshow-ubuntu=58.2 -y
+sudo apt-get install --only-upgrade ubiquity-slideshow-kubuntu=58.2 -y
+sudo apt-get install --only-upgrade oem-config-slideshow-ubuntu=58.2 -y

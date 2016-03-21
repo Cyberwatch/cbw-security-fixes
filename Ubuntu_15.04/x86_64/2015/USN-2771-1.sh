@@ -4,7 +4,7 @@
 # Security fix for USN-2771-1
 #
 # Security announcement date: 2015-10-15 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:18 UTC
+# Script generation date:     2016-03-21 19:03:11 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: x86_64
@@ -16,6 +16,7 @@
 #   - python3-click:0.4.38.5ubuntu0.2
 #
 # CVE List:
+#   - CVE-2015-8768
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/USN-2771-1

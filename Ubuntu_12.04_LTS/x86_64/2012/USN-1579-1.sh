@@ -4,7 +4,7 @@
 # Security fix for USN-1579-1
 #
 # Security announcement date: 2012-09-21 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:38 UTC
+# Script generation date:     2016-03-21 19:00:31 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,6 +13,9 @@
 #   - linux-image-3.2.0-31-highbank:3.2.0-31.50
 #   - linux-image-3.2.0-31-omap:3.2.0-31.50
 #   - linux-image-3.2.0-31-generic-pae:3.2.0-31.50
+#   - linux-source-3.2.0:3.2.0-31.50
+#   - linux-doc:3.2.0-31.50
+#   - linux-tools-common:3.2.0-31.50
 #   - linux-image-3.2.0-31-powerpc64-smp:3.2.0-31.50
 #   - linux-image-3.2.0-31-virtual:3.2.0-31.50
 #   - linux-image-3.2.0-31-generic:3.2.0-31.50
@@ -22,6 +25,9 @@
 #   - linux-image-3.2.0-31-highbank:3.2.0-31.50
 #   - linux-image-3.2.0-31-omap:3.2.0-31.50
 #   - linux-image-3.2.0-31-generic-pae:3.2.0-31.50
+#   - linux-source-3.2.0:3.2.0-101.141
+#   - linux-doc:3.2.0-101.141
+#   - linux-tools-common:3.2.0-101.141
 #   - linux-image-3.2.0-31-powerpc64-smp:3.2.0-31.50
 #   - linux-image-3.2.0-31-virtual:3.2.0-31.50
 #   - linux-image-3.2.0-31-generic:3.2.0-31.50
@@ -41,6 +47,9 @@
 sudo apt-get install --only-upgrade linux-image-3.2.0-31-highbank=3.2.0-31.50 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-31-omap=3.2.0-31.50 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-31-generic-pae=3.2.0-31.50 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-101.141 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-31-powerpc64-smp=3.2.0-31.50 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-31-virtual=3.2.0-31.50 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-31-generic=3.2.0-31.50 -y

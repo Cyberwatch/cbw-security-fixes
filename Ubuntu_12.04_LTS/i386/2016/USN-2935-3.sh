@@ -4,16 +4,28 @@
 # Security fix for USN-2935-3
 #
 # Security announcement date: 2016-03-17 00:00:00 UTC
-# Script generation date:     2016-03-19 07:02:43 UTC
+# Script generation date:     2016-03-21 19:04:15 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - libpam-modules:1.1.3-7ubuntu2.3
+#   - libpam0g:1.1.3-7ubuntu2.3
+#   - libpam-modules-bin:1.1.3-7ubuntu2.3
+#   - libpam-runtime:1.1.3-7ubuntu2.3
+#   - libpam0g-dev:1.1.3-7ubuntu2.3
+#   - libpam-cracklib:1.1.3-7ubuntu2.3
+#   - libpam-doc:1.1.3-7ubuntu2.3
 #
 # Last versions recommanded by security team:
 #   - libpam-modules:1.1.3-7ubuntu2.3
+#   - libpam0g:1.1.3-7ubuntu2.3
+#   - libpam-modules-bin:1.1.3-7ubuntu2.3
+#   - libpam-runtime:1.1.3-7ubuntu2.3
+#   - libpam0g-dev:1.1.3-7ubuntu2.3
+#   - libpam-cracklib:1.1.3-7ubuntu2.3
+#   - libpam-doc:1.1.3-7ubuntu2.3
 #
 # CVE List:
 #   - CVE-2013-7041
@@ -25,3 +37,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libpam-modules=1.1.3-7ubuntu2.3 -y
+sudo apt-get install --only-upgrade libpam0g=1.1.3-7ubuntu2.3 -y
+sudo apt-get install --only-upgrade libpam-modules-bin=1.1.3-7ubuntu2.3 -y
+sudo apt-get install --only-upgrade libpam-runtime=1.1.3-7ubuntu2.3 -y
+sudo apt-get install --only-upgrade libpam0g-dev=1.1.3-7ubuntu2.3 -y
+sudo apt-get install --only-upgrade libpam-cracklib=1.1.3-7ubuntu2.3 -y
+sudo apt-get install --only-upgrade libpam-doc=1.1.3-7ubuntu2.3 -y

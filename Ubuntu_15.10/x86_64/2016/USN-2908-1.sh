@@ -3,7 +3,7 @@
 # Security fix for USN-2908-1
 #
 # Security announcement date: 2016-02-22 00:00:00 UTC
-# Script generation date:     2016-02-27 07:03:11 UTC
+# Script generation date:     2016-03-21 19:04:02 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -12,6 +12,11 @@
 #   - linux-image-4.2.0-30-powerpc-smp:4.2.0-30.35
 #   - linux-image-4.2.0-30-powerpc64-smp:4.2.0-30.35
 #   - linux-image-4.2.0-30-lowlatency:4.2.0-30.35
+#   - linux-source-4.2.0:4.2.0-30.35
+#   - linux-doc:4.2.0-30.35
+#   - linux-libc-dev:4.2.0-30.35
+#   - linux-tools-common:4.2.0-30.35
+#   - linux-cloud-tools-common:4.2.0-30.35
 #   - linux-image-4.2.0-30-powerpc-e500mc:4.2.0-30.35
 #   - linux-image-4.2.0-30-powerpc64-emb:4.2.0-30.35
 #   - linux-image-4.2.0-30-generic-lpae:4.2.0-30.35
@@ -21,6 +26,11 @@
 #   - linux-image-4.2.0-30-powerpc-smp:4.2.0-30.35
 #   - linux-image-4.2.0-30-powerpc64-smp:4.2.0-30.35
 #   - linux-image-4.2.0-30-lowlatency:4.2.0-30.36
+#   - linux-source-4.2.0:4.2.0-34.39
+#   - linux-doc:4.2.0-34.39
+#   - linux-libc-dev:4.2.0-34.39
+#   - linux-tools-common:4.2.0-34.39
+#   - linux-cloud-tools-common:4.2.0-34.39
 #   - linux-image-4.2.0-30-powerpc-e500mc:4.2.0-30.35
 #   - linux-image-4.2.0-30-powerpc64-emb:4.2.0-30.35
 #   - linux-image-4.2.0-30-generic-lpae:4.2.0-30.35

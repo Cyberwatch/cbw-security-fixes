@@ -4,17 +4,27 @@
 # Security fix for USN-1586-1
 #
 # Security announcement date: 2012-09-27 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:38 UTC
+# Script generation date:     2016-03-21 19:00:31 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - emacs23-common:23.3+1-1ubuntu9.1
+#   - emacs:23.3+1-1ubuntu9.1
+#   - emacs23-nox:23.3+1-1ubuntu9.1
+#   - emacs23:23.3+1-1ubuntu9.1
+#   - emacs23-bin-common:23.3+1-1ubuntu9.1
+#   - emacs23-el:23.3+1-1ubuntu9.1
 #   - emacs23:23.3+1-1ubuntu9.1
 #
 # Last versions recommanded by security team:
 #   - emacs23-common:23.3+1-1ubuntu9.1
+#   - emacs:23.3+1-1ubuntu9.1
+#   - emacs23-nox:23.3+1-1ubuntu9.1
+#   - emacs23:23.3+1-1ubuntu9.1
+#   - emacs23-bin-common:23.3+1-1ubuntu9.1
+#   - emacs23-el:23.3+1-1ubuntu9.1
 #   - emacs23:23.3+1-1ubuntu9.1
 #
 # CVE List:
@@ -26,4 +36,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade emacs23-common=23.3+1-1ubuntu9.1 -y
+sudo apt-get install --only-upgrade emacs=23.3+1-1ubuntu9.1 -y
+sudo apt-get install --only-upgrade emacs23-nox=23.3+1-1ubuntu9.1 -y
+sudo apt-get install --only-upgrade emacs23=23.3+1-1ubuntu9.1 -y
+sudo apt-get install --only-upgrade emacs23-bin-common=23.3+1-1ubuntu9.1 -y
+sudo apt-get install --only-upgrade emacs23-el=23.3+1-1ubuntu9.1 -y
 sudo apt-get install --only-upgrade emacs23=23.3+1-1ubuntu9.1 -y

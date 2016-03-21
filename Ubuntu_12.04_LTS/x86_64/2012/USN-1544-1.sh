@@ -4,7 +4,7 @@
 # Security fix for USN-1544-1
 #
 # Security announcement date: 2012-08-22 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:35 UTC
+# Script generation date:     2016-03-21 19:00:30 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -12,9 +12,11 @@
 # Vulnerable packages fix on version:
 #   - libmagick++4:8:6.6.9.7-5ubuntu3.2
 #   - imagemagick:8:6.6.9.7-5ubuntu3.2
+#   - imagemagick:8:6.6.9.7-5ubuntu3.2
 #
 # Last versions recommanded by security team:
 #   - libmagick++4:8:6.6.9.7-5ubuntu3.3
+#   - imagemagick:8:6.6.9.7-5ubuntu3.3
 #   - imagemagick:8:6.6.9.7-5ubuntu3.3
 #
 # CVE List:
@@ -25,4 +27,5 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libmagick++4=8:6.6.9.7-5ubuntu3.3 -y
+sudo apt-get install --only-upgrade imagemagick=8:6.6.9.7-5ubuntu3.3 -y
 sudo apt-get install --only-upgrade imagemagick=8:6.6.9.7-5ubuntu3.3 -y

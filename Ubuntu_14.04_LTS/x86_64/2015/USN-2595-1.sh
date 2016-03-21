@@ -4,16 +4,18 @@
 # Security fix for USN-2595-1
 #
 # Security announcement date: 2015-05-05 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:53 UTC
+# Script generation date:     2016-03-21 19:02:26 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - ppp:2.4.5-5.1ubuntu2.2
+#   - ppp-dev:2.4.5-5.1ubuntu2.2
 #
 # Last versions recommanded by security team:
 #   - ppp:2.4.5-5.1ubuntu2.2
+#   - ppp-dev:2.4.5-5.1ubuntu2.2
 #
 # CVE List:
 #   - CVE-2015-3310
@@ -23,3 +25,4 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade ppp=2.4.5-5.1ubuntu2.2 -y
+sudo apt-get install --only-upgrade ppp-dev=2.4.5-5.1ubuntu2.2 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2853-1
 #
 # Security announcement date: 2015-12-20 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:32 UTC
+# Script generation date:     2016-03-21 19:03:37 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -31,6 +31,7 @@
 #   - CVE-2015-8550
 #   - CVE-2015-8551
 #   - CVE-2015-8552
+#   - CVE-2015-8709
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/USN-2853-1

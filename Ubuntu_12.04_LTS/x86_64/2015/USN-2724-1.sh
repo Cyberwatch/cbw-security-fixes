@@ -4,16 +4,20 @@
 # Security fix for USN-2724-1
 #
 # Security announcement date: 2015-08-27 00:00:00 UTC
-# Script generation date:     2016-02-03 19:02:23 UTC
+# Script generation date:     2016-03-21 19:02:59 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - qemu-kvm:1.0+noroms-0ubuntu14.24
+#   - qemu-utils:1.0+noroms-0ubuntu14.24
+#   - qemu-common:1.0+noroms-0ubuntu14.24
 #
 # Last versions recommanded by security team:
 #   - qemu-kvm:1.0+noroms-0ubuntu14.27
+#   - qemu-utils:1.0+noroms-0ubuntu14.27
+#   - qemu-common:1.0+noroms-0ubuntu14.27
 #
 # CVE List:
 #   - CVE-2014-9718
@@ -27,3 +31,5 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade qemu-kvm=1.0+noroms-0ubuntu14.27 -y
+sudo apt-get install --only-upgrade qemu-utils=1.0+noroms-0ubuntu14.27 -y
+sudo apt-get install --only-upgrade qemu-common=1.0+noroms-0ubuntu14.27 -y

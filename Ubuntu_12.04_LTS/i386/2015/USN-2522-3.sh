@@ -4,16 +4,22 @@
 # Security fix for USN-2522-3
 #
 # Security announcement date: 2015-03-10 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:44 UTC
+# Script generation date:     2016-03-21 19:02:07 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - libicu48:4.8.1.1-3ubuntu0.5
+#   - libicu48-dbg:4.8.1.1-3ubuntu0.5
+#   - libicu-dev:4.8.1.1-3ubuntu0.5
+#   - icu-doc:4.8.1.1-3ubuntu0.5
 #
 # Last versions recommanded by security team:
 #   - libicu48:4.8.1.1-3ubuntu0.6
+#   - libicu48-dbg:4.8.1.1-3ubuntu0.6
+#   - libicu-dev:4.8.1.1-3ubuntu0.6
+#   - icu-doc:4.8.1.1-3ubuntu0.6
 #
 # CVE List:
 #   - CVE-2013-1569
@@ -32,3 +38,6 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libicu48=4.8.1.1-3ubuntu0.6 -y
+sudo apt-get install --only-upgrade libicu48-dbg=4.8.1.1-3ubuntu0.6 -y
+sudo apt-get install --only-upgrade libicu-dev=4.8.1.1-3ubuntu0.6 -y
+sudo apt-get install --only-upgrade icu-doc=4.8.1.1-3ubuntu0.6 -y

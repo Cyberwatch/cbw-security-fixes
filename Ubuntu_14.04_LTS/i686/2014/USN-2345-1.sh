@@ -4,7 +4,7 @@
 # Security fix for USN-2345-1
 #
 # Security announcement date: 2014-10-14 00:00:00 UTC
-# Script generation date:     2016-03-10 19:01:28 UTC
+# Script generation date:     2016-03-21 19:01:26 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,9 +13,13 @@
 #   - liboxideqtcore0:1.2.5-0ubuntu0.14.04.1
 #   - oxideqt-codecs:1.2.5-0ubuntu0.14.04.1
 #   - oxideqt-codecs-extra:1.2.5-0ubuntu0.14.04.1
+#   - oxideqt-codecs:1.2.5-0ubuntu0.14.04.1
+#   - oxideqt-codecs-extra:1.2.5-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
 #   - liboxideqtcore0:1.13.6-0ubuntu0.14.04.1
+#   - oxideqt-codecs:1.13.6-0ubuntu0.14.04.1
+#   - oxideqt-codecs-extra:1.13.6-0ubuntu0.14.04.1
 #   - oxideqt-codecs:1.13.6-0ubuntu0.14.04.1
 #   - oxideqt-codecs-extra:1.13.6-0ubuntu0.14.04.1
 #
@@ -38,5 +42,7 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade liboxideqtcore0=1.13.6-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade oxideqt-codecs=1.13.6-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade oxideqt-codecs-extra=1.13.6-0ubuntu0.14.04.1 -y
 sudo apt-get install --only-upgrade oxideqt-codecs=1.13.6-0ubuntu0.14.04.1 -y
 sudo apt-get install --only-upgrade oxideqt-codecs-extra=1.13.6-0ubuntu0.14.04.1 -y

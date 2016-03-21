@@ -4,13 +4,16 @@
 # Security fix for USN-2133-1
 #
 # Security announcement date: 2014-03-07 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:04 UTC
+# Script generation date:     2016-03-21 19:01:01 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - linux-image-3.2.0-60-generic-pae:3.2.0-60.91
+#   - linux-source-3.2.0:3.2.0-60.91
+#   - linux-doc:3.2.0-60.91
+#   - linux-tools-common:3.2.0-60.91
 #   - linux-image-3.2.0-60-powerpc64-smp:3.2.0-60.91
 #   - linux-image-3.2.0-60-highbank:3.2.0-60.91
 #   - linux-image-3.2.0-60-virtual:3.2.0-60.91
@@ -20,6 +23,9 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-60-generic-pae:3.2.0-60.91
+#   - linux-source-3.2.0:3.2.0-101.141
+#   - linux-doc:3.2.0-101.141
+#   - linux-tools-common:3.2.0-101.141
 #   - linux-image-3.2.0-60-powerpc64-smp:3.2.0-60.91
 #   - linux-image-3.2.0-60-highbank:3.2.0-60.91
 #   - linux-image-3.2.0-60-virtual:3.2.0-60.91
@@ -40,6 +46,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-60-generic-pae=3.2.0-60.91 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-101.141 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-60-powerpc64-smp=3.2.0-60.91 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-60-highbank=3.2.0-60.91 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-60-virtual=3.2.0-60.91 -y

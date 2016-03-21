@@ -4,21 +4,69 @@
 # Security fix for USN-2653-1
 #
 # Security announcement date: 2015-06-25 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:02 UTC
+# Script generation date:     2016-03-21 19:02:41 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
 #
 # Vulnerable packages fix on version:
 #   - python2.7:2.7.6-8ubuntu0.2
+#   - libpython2.7-stdlib:2.7.6-8ubuntu0.2
+#   - python2.7-minimal:2.7.6-8ubuntu0.2
+#   - libpython2.7-minimal:2.7.6-8ubuntu0.2
+#   - libpython2.7:2.7.6-8ubuntu0.2
+#   - python2.7-examples:2.7.6-8ubuntu0.2
+#   - python2.7-dev:2.7.6-8ubuntu0.2
+#   - libpython2.7-dev:2.7.6-8ubuntu0.2
+#   - libpython2.7-testsuite:2.7.6-8ubuntu0.2
+#   - idle-python2.7:2.7.6-8ubuntu0.2
+#   - python2.7-doc:2.7.6-8ubuntu0.2
+#   - python2.7-dbg:2.7.6-8ubuntu0.2
+#   - libpython2.7-dbg:2.7.6-8ubuntu0.2
 #   - python2.7-minimal:2.7.6-8ubuntu0.2
 #   - python3.4-minimal:3.4.0-2ubuntu1.1
+#   - python3.4:3.4.0-2ubuntu1.1
+#   - libpython3.4-stdlib:3.4.0-2ubuntu1.1
+#   - libpython3.4-minimal:3.4.0-2ubuntu1.1
+#   - libpython3.4:3.4.0-2ubuntu1.1
+#   - python3.4-examples:3.4.0-2ubuntu1.1
+#   - python3.4-dev:3.4.0-2ubuntu1.1
+#   - libpython3.4-dev:3.4.0-2ubuntu1.1
+#   - libpython3.4-testsuite:3.4.0-2ubuntu1.1
+#   - idle-python3.4:3.4.0-2ubuntu1.1
+#   - python3.4-doc:3.4.0-2ubuntu1.1
+#   - python3.4-dbg:3.4.0-2ubuntu1.1
+#   - libpython3.4-dbg:3.4.0-2ubuntu1.1
 #   - python3.4:3.4.0-2ubuntu1.1
 #
 # Last versions recommanded by security team:
 #   - python2.7:2.7.6-8ubuntu0.2
+#   - libpython2.7-stdlib:2.7.6-8ubuntu0.2
+#   - python2.7-minimal:2.7.6-8ubuntu0.2
+#   - libpython2.7-minimal:2.7.6-8ubuntu0.2
+#   - libpython2.7:2.7.6-8ubuntu0.2
+#   - python2.7-examples:2.7.6-8ubuntu0.2
+#   - python2.7-dev:2.7.6-8ubuntu0.2
+#   - libpython2.7-dev:2.7.6-8ubuntu0.2
+#   - libpython2.7-testsuite:2.7.6-8ubuntu0.2
+#   - idle-python2.7:2.7.6-8ubuntu0.2
+#   - python2.7-doc:2.7.6-8ubuntu0.2
+#   - python2.7-dbg:2.7.6-8ubuntu0.2
+#   - libpython2.7-dbg:2.7.6-8ubuntu0.2
 #   - python2.7-minimal:2.7.6-8ubuntu0.2
 #   - python3.4-minimal:3.4.0-2ubuntu1.1
+#   - python3.4:3.4.0-2ubuntu1.1
+#   - libpython3.4-stdlib:3.4.0-2ubuntu1.1
+#   - libpython3.4-minimal:3.4.0-2ubuntu1.1
+#   - libpython3.4:3.4.0-2ubuntu1.1
+#   - python3.4-examples:3.4.0-2ubuntu1.1
+#   - python3.4-dev:3.4.0-2ubuntu1.1
+#   - libpython3.4-dev:3.4.0-2ubuntu1.1
+#   - libpython3.4-testsuite:3.4.0-2ubuntu1.1
+#   - idle-python3.4:3.4.0-2ubuntu1.1
+#   - python3.4-doc:3.4.0-2ubuntu1.1
+#   - python3.4-dbg:3.4.0-2ubuntu1.1
+#   - libpython3.4-dbg:3.4.0-2ubuntu1.1
 #   - python3.4:3.4.0-2ubuntu1.1
 #
 # CVE List:
@@ -33,6 +81,30 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade python2.7=2.7.6-8ubuntu0.2 -y
+sudo apt-get install --only-upgrade libpython2.7-stdlib=2.7.6-8ubuntu0.2 -y
+sudo apt-get install --only-upgrade python2.7-minimal=2.7.6-8ubuntu0.2 -y
+sudo apt-get install --only-upgrade libpython2.7-minimal=2.7.6-8ubuntu0.2 -y
+sudo apt-get install --only-upgrade libpython2.7=2.7.6-8ubuntu0.2 -y
+sudo apt-get install --only-upgrade python2.7-examples=2.7.6-8ubuntu0.2 -y
+sudo apt-get install --only-upgrade python2.7-dev=2.7.6-8ubuntu0.2 -y
+sudo apt-get install --only-upgrade libpython2.7-dev=2.7.6-8ubuntu0.2 -y
+sudo apt-get install --only-upgrade libpython2.7-testsuite=2.7.6-8ubuntu0.2 -y
+sudo apt-get install --only-upgrade idle-python2.7=2.7.6-8ubuntu0.2 -y
+sudo apt-get install --only-upgrade python2.7-doc=2.7.6-8ubuntu0.2 -y
+sudo apt-get install --only-upgrade python2.7-dbg=2.7.6-8ubuntu0.2 -y
+sudo apt-get install --only-upgrade libpython2.7-dbg=2.7.6-8ubuntu0.2 -y
 sudo apt-get install --only-upgrade python2.7-minimal=2.7.6-8ubuntu0.2 -y
 sudo apt-get install --only-upgrade python3.4-minimal=3.4.0-2ubuntu1.1 -y
+sudo apt-get install --only-upgrade python3.4=3.4.0-2ubuntu1.1 -y
+sudo apt-get install --only-upgrade libpython3.4-stdlib=3.4.0-2ubuntu1.1 -y
+sudo apt-get install --only-upgrade libpython3.4-minimal=3.4.0-2ubuntu1.1 -y
+sudo apt-get install --only-upgrade libpython3.4=3.4.0-2ubuntu1.1 -y
+sudo apt-get install --only-upgrade python3.4-examples=3.4.0-2ubuntu1.1 -y
+sudo apt-get install --only-upgrade python3.4-dev=3.4.0-2ubuntu1.1 -y
+sudo apt-get install --only-upgrade libpython3.4-dev=3.4.0-2ubuntu1.1 -y
+sudo apt-get install --only-upgrade libpython3.4-testsuite=3.4.0-2ubuntu1.1 -y
+sudo apt-get install --only-upgrade idle-python3.4=3.4.0-2ubuntu1.1 -y
+sudo apt-get install --only-upgrade python3.4-doc=3.4.0-2ubuntu1.1 -y
+sudo apt-get install --only-upgrade python3.4-dbg=3.4.0-2ubuntu1.1 -y
+sudo apt-get install --only-upgrade libpython3.4-dbg=3.4.0-2ubuntu1.1 -y
 sudo apt-get install --only-upgrade python3.4=3.4.0-2ubuntu1.1 -y

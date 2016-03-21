@@ -4,7 +4,7 @@
 # Security fix for USN-2105-1
 #
 # Security announcement date: 2014-02-13 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:03 UTC
+# Script generation date:     2016-03-21 19:00:59 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -12,9 +12,11 @@
 # Vulnerable packages fix on version:
 #   - maas-region-controller:1.2+bzr1373+dfsg-0ubuntu1~12.04.5
 #   - python-django-maas:1.2+bzr1373+dfsg-0ubuntu1~12.04.5
+#   - python-django-maas:1.2+bzr1373+dfsg-0ubuntu1~12.04.5
 #
 # Last versions recommanded by security team:
 #   - maas-region-controller:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
+#   - python-django-maas:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
 #   - python-django-maas:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
 #
 # CVE List:
@@ -26,4 +28,5 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade maas-region-controller=1.2+bzr1373+dfsg-0ubuntu1~12.04.6 -y
+sudo apt-get install --only-upgrade python-django-maas=1.2+bzr1373+dfsg-0ubuntu1~12.04.6 -y
 sudo apt-get install --only-upgrade python-django-maas=1.2+bzr1373+dfsg-0ubuntu1~12.04.6 -y

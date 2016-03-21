@@ -4,7 +4,7 @@
 # Security fix for USN-2496-1
 #
 # Security announcement date: 2015-02-09 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:36 UTC
+# Script generation date:     2016-03-21 19:01:52 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -12,9 +12,19 @@
 # Vulnerable packages fix on version:
 #   - binutils-multiarch:2.24-5ubuntu3.1
 #   - binutils:2.24-5ubuntu3.1
+#   - binutils-dev:2.24-5ubuntu3.1
+#   - binutils-multiarch-dev:2.24-5ubuntu3.1
+#   - binutils-doc:2.24-5ubuntu3.1
+#   - binutils-source:2.24-5ubuntu3.1
+#   - binutils:2.24-5ubuntu3.1
 #
 # Last versions recommanded by security team:
 #   - binutils-multiarch:2.24-5ubuntu3.1
+#   - binutils:2.24-5ubuntu3.1
+#   - binutils-dev:2.24-5ubuntu3.1
+#   - binutils-multiarch-dev:2.24-5ubuntu3.1
+#   - binutils-doc:2.24-5ubuntu3.1
+#   - binutils-source:2.24-5ubuntu3.1
 #   - binutils:2.24-5ubuntu3.1
 #
 # CVE List:
@@ -33,4 +43,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade binutils-multiarch=2.24-5ubuntu3.1 -y
+sudo apt-get install --only-upgrade binutils=2.24-5ubuntu3.1 -y
+sudo apt-get install --only-upgrade binutils-dev=2.24-5ubuntu3.1 -y
+sudo apt-get install --only-upgrade binutils-multiarch-dev=2.24-5ubuntu3.1 -y
+sudo apt-get install --only-upgrade binutils-doc=2.24-5ubuntu3.1 -y
+sudo apt-get install --only-upgrade binutils-source=2.24-5ubuntu3.1 -y
 sudo apt-get install --only-upgrade binutils=2.24-5ubuntu3.1 -y

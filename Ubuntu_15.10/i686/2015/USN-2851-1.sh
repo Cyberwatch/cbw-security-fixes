@@ -3,7 +3,7 @@
 # Security fix for USN-2851-1
 #
 # Security announcement date: 2015-12-19 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:31 UTC
+# Script generation date:     2016-03-21 19:03:37 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -11,6 +11,11 @@
 # Vulnerable packages fix on version:
 #   - linux-image-4.2.0-22-powerpc64-smp:4.2.0-22.27
 #   - linux-image-4.2.0-22-lowlatency:4.2.0-22.27
+#   - linux-source-4.2.0:4.2.0-22.27
+#   - linux-doc:4.2.0-22.27
+#   - linux-libc-dev:4.2.0-22.27
+#   - linux-tools-common:4.2.0-22.27
+#   - linux-cloud-tools-common:4.2.0-22.27
 #   - linux-image-4.2.0-22-generic:4.2.0-22.27
 #   - linux-image-4.2.0-22-powerpc-e500mc:4.2.0-22.27
 #   - linux-image-4.2.0-22-powerpc-smp:4.2.0-22.27
@@ -20,6 +25,11 @@
 # Last versions recommanded by security team:
 #   - linux-image-4.2.0-22-powerpc64-smp:4.2.0-22.27
 #   - linux-image-4.2.0-22-lowlatency:4.2.0-22.27
+#   - linux-source-4.2.0:4.2.0-34.39
+#   - linux-doc:4.2.0-34.39
+#   - linux-libc-dev:4.2.0-34.39
+#   - linux-tools-common:4.2.0-34.39
+#   - linux-cloud-tools-common:4.2.0-34.39
 #   - linux-image-4.2.0-22-generic:4.2.0-22.27
 #   - linux-image-4.2.0-22-powerpc-e500mc:4.2.0-22.27
 #   - linux-image-4.2.0-22-powerpc-smp:4.2.0-22.27
@@ -30,6 +40,7 @@
 #   - CVE-2015-8550
 #   - CVE-2015-8551
 #   - CVE-2015-8552
+#   - CVE-2015-8709
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/USN-2851-1

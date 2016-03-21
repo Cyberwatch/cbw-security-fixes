@@ -3,7 +3,7 @@
 # Security fix for USN-2930-3
 #
 # Security announcement date: 2016-03-16 00:00:00 UTC
-# Script generation date:     2016-03-18 07:02:45 UTC
+# Script generation date:     2016-03-21 19:04:14 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -21,6 +21,13 @@
 #   - CVE-2015-8767
 #   - CVE-2016-0723
 #   - CVE-2016-2384
+#   - CVE-2016-2543
+#   - CVE-2016-2544
+#   - CVE-2016-2545
+#   - CVE-2016-2546
+#   - CVE-2016-2547
+#   - CVE-2016-2548
+#   - CVE-2016-2549
 #   - CVE-2016-2782
 #
 # More details:

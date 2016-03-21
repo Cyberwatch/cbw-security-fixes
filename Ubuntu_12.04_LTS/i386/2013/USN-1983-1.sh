@@ -4,7 +4,7 @@
 # Security fix for USN-1983-1
 #
 # Security announcement date: 2013-10-01 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:57 UTC
+# Script generation date:     2016-03-21 19:00:53 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -12,9 +12,11 @@
 # Vulnerable packages fix on version:
 #   - python2.7-minimal:2.7.3-0ubuntu3.4
 #   - python2.7:2.7.3-0ubuntu3.4
+#   - python2.7:2.7.3-0ubuntu3.4
 #
 # Last versions recommanded by security team:
 #   - python2.7-minimal:2.7.3-0ubuntu3.8
+#   - python2.7:2.7.3-0ubuntu3.8
 #   - python2.7:2.7.3-0ubuntu3.8
 #
 # CVE List:
@@ -26,4 +28,5 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade python2.7-minimal=2.7.3-0ubuntu3.8 -y
+sudo apt-get install --only-upgrade python2.7=2.7.3-0ubuntu3.8 -y
 sudo apt-get install --only-upgrade python2.7=2.7.3-0ubuntu3.8 -y

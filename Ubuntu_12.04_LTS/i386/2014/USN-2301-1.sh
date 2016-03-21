@@ -4,17 +4,25 @@
 # Security fix for USN-2301-1
 #
 # Security announcement date: 2014-07-24 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:16 UTC
+# Script generation date:     2016-03-21 19:01:16 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - python-jinja2:2.6-1ubuntu0.1
+#   - python-jinja2-doc:2.6-1ubuntu0.1
+#   - python-jinja2-dbg:2.6-1ubuntu0.1
+#   - python3-jinja2:2.6-1ubuntu0.1
+#   - python3-jinja2-dbg:2.6-1ubuntu0.1
 #   - python3-jinja2:2.6-1ubuntu0.1
 #
 # Last versions recommanded by security team:
 #   - python-jinja2:2.6-1ubuntu0.1
+#   - python-jinja2-doc:2.6-1ubuntu0.1
+#   - python-jinja2-dbg:2.6-1ubuntu0.1
+#   - python3-jinja2:2.6-1ubuntu0.1
+#   - python3-jinja2-dbg:2.6-1ubuntu0.1
 #   - python3-jinja2:2.6-1ubuntu0.1
 #
 # CVE List:
@@ -26,4 +34,8 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade python-jinja2=2.6-1ubuntu0.1 -y
+sudo apt-get install --only-upgrade python-jinja2-doc=2.6-1ubuntu0.1 -y
+sudo apt-get install --only-upgrade python-jinja2-dbg=2.6-1ubuntu0.1 -y
+sudo apt-get install --only-upgrade python3-jinja2=2.6-1ubuntu0.1 -y
+sudo apt-get install --only-upgrade python3-jinja2-dbg=2.6-1ubuntu0.1 -y
 sudo apt-get install --only-upgrade python3-jinja2=2.6-1ubuntu0.1 -y

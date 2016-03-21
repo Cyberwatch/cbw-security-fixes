@@ -4,7 +4,7 @@
 # Security fix for USN-2847-1
 #
 # Security announcement date: 2015-12-19 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:31 UTC
+# Script generation date:     2016-03-21 19:03:36 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -21,6 +21,7 @@
 #   - CVE-2015-8550
 #   - CVE-2015-8551
 #   - CVE-2015-8552
+#   - CVE-2015-8709
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/USN-2847-1

@@ -3,13 +3,18 @@
 # Security fix for USN-2803-1
 #
 # Security announcement date: 2015-11-09 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:23 UTC
+# Script generation date:     2016-03-21 19:03:22 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - linux-image-4.2.0-18-lowlatency:4.2.0-18.22
+#   - linux-source-4.2.0:4.2.0-18.22
+#   - linux-doc:4.2.0-18.22
+#   - linux-libc-dev:4.2.0-18.22
+#   - linux-tools-common:4.2.0-18.22
+#   - linux-cloud-tools-common:4.2.0-18.22
 #   - linux-image-4.2.0-18-generic-lpae:4.2.0-18.22
 #   - linux-image-4.2.0-18-powerpc64-emb:4.2.0-18.22
 #   - linux-image-4.2.0-18-generic:4.2.0-18.22
@@ -19,6 +24,11 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-4.2.0-18-lowlatency:4.2.0-18.22
+#   - linux-source-4.2.0:4.2.0-34.39
+#   - linux-doc:4.2.0-34.39
+#   - linux-libc-dev:4.2.0-34.39
+#   - linux-tools-common:4.2.0-34.39
+#   - linux-cloud-tools-common:4.2.0-34.39
 #   - linux-image-4.2.0-18-generic-lpae:4.2.0-18.22
 #   - linux-image-4.2.0-18-powerpc64-emb:4.2.0-18.22
 #   - linux-image-4.2.0-18-generic:4.2.0-18.22

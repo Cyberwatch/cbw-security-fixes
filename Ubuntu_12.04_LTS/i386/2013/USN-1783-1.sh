@@ -4,7 +4,7 @@
 # Security fix for USN-1783-1
 #
 # Security announcement date: 2013-03-29 00:00:00 UTC
-# Script generation date:     2016-03-10 07:01:01 UTC
+# Script generation date:     2016-03-21 19:00:41 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -12,9 +12,11 @@
 # Vulnerable packages fix on version:
 #   - bind9:1:9.8.1.dfsg.P1-4ubuntu0.6
 #   - libdns81:1:9.8.1.dfsg.P1-4ubuntu0.6
+#   - libdns81:1:9.8.1.dfsg.P1-4ubuntu0.6
 #
 # Last versions recommanded by security team:
 #   - bind9:1:9.8.1.dfsg.P1-4ubuntu0.16
+#   - libdns81:1:9.8.1.dfsg.P1-4ubuntu0.16
 #   - libdns81:1:9.8.1.dfsg.P1-4ubuntu0.16
 #
 # CVE List:
@@ -25,4 +27,5 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade bind9=1:9.8.1.dfsg.P1-4ubuntu0.16 -y
+sudo apt-get install --only-upgrade libdns81=1:9.8.1.dfsg.P1-4ubuntu0.16 -y
 sudo apt-get install --only-upgrade libdns81=1:9.8.1.dfsg.P1-4ubuntu0.16 -y

@@ -4,13 +4,17 @@
 # Security fix for USN-2640-2
 #
 # Security announcement date: 2015-06-21 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:02 UTC
+# Script generation date:     2016-03-21 19:02:40 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - linux-image-3.2.0-86-generic-pae:3.2.0-86.124
+#   - linux-source-3.2.0:3.2.0-86.124
+#   - linux-doc:3.2.0-86.124
+#   - linux-tools-common:3.2.0-86.124
+#   - linux-libc-dev:3.2.0-86.124
 #   - linux-image-3.2.0-86-powerpc64-smp:3.2.0-86.124
 #   - linux-image-3.2.0-86-generic:3.2.0-86.124
 #   - linux-image-3.2.0-86-virtual:3.2.0-86.124
@@ -20,6 +24,10 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-86-generic-pae:3.2.0-86.124
+#   - linux-source-3.2.0:3.2.0-101.141
+#   - linux-doc:3.2.0-101.141
+#   - linux-tools-common:3.2.0-101.141
+#   - linux-libc-dev:3.2.0-101.141
 #   - linux-image-3.2.0-86-powerpc64-smp:3.2.0-86.124
 #   - linux-image-3.2.0-86-generic:3.2.0-86.124
 #   - linux-image-3.2.0-86-virtual:3.2.0-86.124
@@ -35,6 +43,10 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-86-generic-pae=3.2.0-86.124 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-101.141 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-86-powerpc64-smp=3.2.0-86.124 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-86-generic=3.2.0-86.124 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-86-virtual=3.2.0-86.124 -y

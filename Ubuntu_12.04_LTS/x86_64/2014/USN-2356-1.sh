@@ -4,7 +4,7 @@
 # Security fix for USN-2356-1
 #
 # Security announcement date: 2014-09-23 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:21 UTC
+# Script generation date:     2016-03-21 19:01:23 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,6 +13,9 @@
 #   - linux-image-3.2.0-69-powerpc64-smp:3.2.0-69.103
 #   - linux-image-3.2.0-69-powerpc-smp:3.2.0-69.103
 #   - linux-image-3.2.0-69-generic-pae:3.2.0-69.103
+#   - linux-source-3.2.0:3.2.0-69.103
+#   - linux-doc:3.2.0-69.103
+#   - linux-tools-common:3.2.0-69.103
 #   - linux-image-3.2.0-69-virtual:3.2.0-69.103
 #   - linux-image-3.2.0-69-highbank:3.2.0-69.103
 #   - linux-image-3.2.0-69-omap:3.2.0-69.103
@@ -22,6 +25,9 @@
 #   - linux-image-3.2.0-69-powerpc64-smp:3.2.0-69.103
 #   - linux-image-3.2.0-69-powerpc-smp:3.2.0-69.103
 #   - linux-image-3.2.0-69-generic-pae:3.2.0-69.103
+#   - linux-source-3.2.0:3.2.0-101.141
+#   - linux-doc:3.2.0-101.141
+#   - linux-tools-common:3.2.0-101.141
 #   - linux-image-3.2.0-69-virtual:3.2.0-69.103
 #   - linux-image-3.2.0-69-highbank:3.2.0-69.103
 #   - linux-image-3.2.0-69-omap:3.2.0-69.103
@@ -39,6 +45,9 @@
 sudo apt-get install --only-upgrade linux-image-3.2.0-69-powerpc64-smp=3.2.0-69.103 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-69-powerpc-smp=3.2.0-69.103 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-69-generic-pae=3.2.0-69.103 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-101.141 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-69-virtual=3.2.0-69.103 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-69-highbank=3.2.0-69.103 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-69-omap=3.2.0-69.103 -y

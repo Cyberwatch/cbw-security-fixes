@@ -3,13 +3,34 @@
 # Security fix for USN-2810-1
 #
 # Security announcement date: 2015-11-12 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:24 UTC
+# Script generation date:     2016-03-21 19:03:24 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - libk5crypto3:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-user:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-kdc:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-kdc-ldap:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-admin-server:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-multidev:1.13.2+dfsg-2ubuntu0.1
+#   - libkrb5-dev:1.13.2+dfsg-2ubuntu0.1
+#   - libkrb5-dbg:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-pkinit:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-otp:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-k5tls:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-doc:1.13.2+dfsg-2ubuntu0.1
+#   - libkrb5-3:1.13.2+dfsg-2ubuntu0.1
+#   - libgssapi-krb5-2:1.13.2+dfsg-2ubuntu0.1
+#   - libgssrpc4:1.13.2+dfsg-2ubuntu0.1
+#   - libkadm5srv-mit9:1.13.2+dfsg-2ubuntu0.1
+#   - libkadm5clnt-mit9:1.13.2+dfsg-2ubuntu0.1
+#   - libkdb5-8:1.13.2+dfsg-2ubuntu0.1
+#   - libkrb5support0:1.13.2+dfsg-2ubuntu0.1
+#   - libkrad0:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-locales:1.13.2+dfsg-2ubuntu0.1
+#   - libkrad-dev:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-k5tls:1.13.2+dfsg-2ubuntu0.1
 #   - libkrad0:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-otp:1.13.2+dfsg-2ubuntu0.1
@@ -27,6 +48,27 @@
 #
 # Last versions recommanded by security team:
 #   - libk5crypto3:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-user:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-kdc:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-kdc-ldap:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-admin-server:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-multidev:1.13.2+dfsg-2ubuntu0.1
+#   - libkrb5-dev:1.13.2+dfsg-2ubuntu0.1
+#   - libkrb5-dbg:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-pkinit:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-otp:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-k5tls:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-doc:1.13.2+dfsg-2ubuntu0.1
+#   - libkrb5-3:1.13.2+dfsg-2ubuntu0.1
+#   - libgssapi-krb5-2:1.13.2+dfsg-2ubuntu0.1
+#   - libgssrpc4:1.13.2+dfsg-2ubuntu0.1
+#   - libkadm5srv-mit9:1.13.2+dfsg-2ubuntu0.1
+#   - libkadm5clnt-mit9:1.13.2+dfsg-2ubuntu0.1
+#   - libkdb5-8:1.13.2+dfsg-2ubuntu0.1
+#   - libkrb5support0:1.13.2+dfsg-2ubuntu0.1
+#   - libkrad0:1.13.2+dfsg-2ubuntu0.1
+#   - krb5-locales:1.13.2+dfsg-2ubuntu0.1
+#   - libkrad-dev:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-k5tls:1.13.2+dfsg-2ubuntu0.1
 #   - libkrad0:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-otp:1.13.2+dfsg-2ubuntu0.1
