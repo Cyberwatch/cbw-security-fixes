@@ -3,7 +3,7 @@
 # Security fix for CESA-2012:0884
 #
 # Security announcement date: 2012-07-10 17:25:37 UTC
-# Script generation date:     2016-02-04 19:11:40 UTC
+# Script generation date:     2016-03-22 07:12:18 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -18,13 +18,13 @@
 #   - pam_ssh_agent_auth.i686:0.9-81.el6
 #
 # Last versions recommanded by security team:
-#   - openssh.x86_64:5.3p1-104.el6
-#   - openssh-askpass.x86_64:5.3p1-104.el6
-#   - openssh-clients.x86_64:5.3p1-104.el6
-#   - openssh-ldap.x86_64:5.3p1-104.el6
-#   - openssh-server.x86_64:5.3p1-104.el6
-#   - pam_ssh_agent_auth.x86_64:0.9.3-104.el6
-#   - pam_ssh_agent_auth.i686:0.9.3-104.el6
+#   - openssh.x86_64:5.3p1-114.el6_7
+#   - openssh-askpass.x86_64:5.3p1-114.el6_7
+#   - openssh-clients.x86_64:5.3p1-114.el6_7
+#   - openssh-ldap.x86_64:5.3p1-114.el6_7
+#   - openssh-server.x86_64:5.3p1-114.el6_7
+#   - pam_ssh_agent_auth.x86_64:0.9.3-114.el6_7
+#   - pam_ssh_agent_auth.i686:0.9.3-114.el6_7
 #
 # CVE List:
 #   - CVE-2011-5000

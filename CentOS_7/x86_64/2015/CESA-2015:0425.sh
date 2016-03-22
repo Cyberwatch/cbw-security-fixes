@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:0425
 #
 # Security announcement date: 2015-03-17 13:29:24 UTC
-# Script generation date:     2016-02-04 19:12:49 UTC
+# Script generation date:     2016-03-22 07:13:28 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -20,15 +20,15 @@
 #   - pam_ssh_agent_auth.i686:0.9.3-9.11.el7
 #
 # Last versions recommanded by security team:
-#   - openssh.x86_64:6.6.1p1-23.el7_2
-#   - openssh-askpass.x86_64:6.6.1p1-23.el7_2
-#   - openssh-clients.x86_64:6.6.1p1-23.el7_2
-#   - openssh-keycat.x86_64:6.6.1p1-23.el7_2
-#   - openssh-ldap.x86_64:6.6.1p1-23.el7_2
-#   - openssh-server.x86_64:6.6.1p1-23.el7_2
-#   - openssh-server-sysvinit.x86_64:6.6.1p1-23.el7_2
-#   - pam_ssh_agent_auth.x86_64:0.9.3-9.23.el7_2
-#   - pam_ssh_agent_auth.i686:0.9.3-9.23.el7_2
+#   - openssh.x86_64:6.6.1p1-25.el7_2
+#   - openssh-askpass.x86_64:6.6.1p1-25.el7_2
+#   - openssh-clients.x86_64:6.6.1p1-25.el7_2
+#   - openssh-keycat.x86_64:6.6.1p1-25.el7_2
+#   - openssh-ldap.x86_64:6.6.1p1-25.el7_2
+#   - openssh-server.x86_64:6.6.1p1-25.el7_2
+#   - openssh-server-sysvinit.x86_64:6.6.1p1-25.el7_2
+#   - pam_ssh_agent_auth.x86_64:0.9.3-9.25.el7_2
+#   - pam_ssh_agent_auth.i686:0.9.3-9.25.el7_2
 #
 # CVE List:
 #   - CVE-2014-2653
