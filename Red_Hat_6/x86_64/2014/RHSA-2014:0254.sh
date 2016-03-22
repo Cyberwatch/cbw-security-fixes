@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:0254
 #
 # Security announcement date: 2014-03-05 19:40:13 UTC
-# Script generation date:     2016-02-04 19:17:30 UTC
+# Script generation date:     2016-03-22 19:14:29 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - activemq-client.x86_64:5.9.0-4.redhat.610328.el6op
 #
 # Last versions recommanded by security team:
-#   - activemq.x86_64:5.9.0-5.redhat.610328.el6op
-#   - activemq-client.x86_64:5.9.0-5.redhat.610328.el6op
+#   - activemq.x86_64:5.9.0-6.redhat.611454.el6op
+#   - activemq-client.x86_64:5.9.0-6.redhat.611454.el6op
 #
 # CVE List:
 #   - CVE-2013-2035

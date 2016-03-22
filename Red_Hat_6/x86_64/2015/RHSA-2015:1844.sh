@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1844
 #
 # Security announcement date: 2015-09-30 16:37:49 UTC
-# Script generation date:     2016-02-04 19:19:48 UTC
+# Script generation date:     2016-03-22 19:16:40 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -45,20 +45,20 @@
 #   - rubygem-openshift-origin-routing-daemon.noarch:0.26.4.4-1.el6op
 #   - openshift-origin-logshifter.x86_64:1.10.1.2-1.el6op
 #   - openshift-origin-cartridge-jbosseap.noarch:2.27.3.1-1.el6op
-#   - jenkins.noarch:1.609.1-1.el6op
+#   - jenkins.noarch:1.625.3-1.el6op
 #   - openshift-origin-cartridge-diy.noarch:1.26.1.1-1.el6op
-#   - openshift-origin-cartridge-haproxy.noarch:1.31.4.1-1.el6op
+#   - openshift-origin-cartridge-haproxy.noarch:1.31.5.1-1.el6op
 #   - openshift-origin-cartridge-jbossews.noarch:1.35.3.2-1.el6op
 #   - openshift-origin-cartridge-jenkins.noarch:1.28.2.1-1.el6op
 #   - openshift-origin-cartridge-mock.noarch:1.22.1.1-1.el6op
 #   - openshift-origin-cartridge-nodejs.noarch:1.33.1.1-1.el6op
 #   - openshift-origin-cartridge-perl.noarch:1.30.1.1-1.el6op
-#   - openshift-origin-cartridge-php.noarch:1.34.1.1-1.el6op
-#   - openshift-origin-cartridge-python.noarch:1.34.1.1-1.el6op
+#   - openshift-origin-cartridge-php.noarch:1.35.3.1-1.el6op
+#   - openshift-origin-cartridge-python.noarch:1.34.2.1-1.el6op
 #   - openshift-origin-cartridge-ruby.noarch:1.32.1.1-1.el6op
-#   - openshift-origin-node-util.noarch:1.38.5.1-1.el6op
-#   - rubygem-openshift-origin-frontend-apache-vhost.noarch:0.12.4.2-1.el6op
-#   - rubygem-openshift-origin-node.noarch:1.38.4.1-1.el6op
+#   - openshift-origin-node-util.noarch:1.38.6.2-1.el6op
+#   - rubygem-openshift-origin-frontend-apache-vhost.noarch:0.13.2.1-1.el6op
+#   - rubygem-openshift-origin-node.noarch:1.38.5.3-1.el6op
 #
 # CVE List:
 #   - CVE-2015-1806
@@ -85,17 +85,17 @@ sudo yum install rubygem-openshift-origin-msg-broker-mcollective.noarch-1.35.3.1
 sudo yum install rubygem-openshift-origin-routing-daemon.noarch-0.26.4.4 -y 
 sudo yum install openshift-origin-logshifter.x86_64-1.10.1.2 -y 
 sudo yum install openshift-origin-cartridge-jbosseap.noarch-2.27.3.1 -y 
-sudo yum install jenkins.noarch-1.609.1 -y 
+sudo yum install jenkins.noarch-1.625.3 -y 
 sudo yum install openshift-origin-cartridge-diy.noarch-1.26.1.1 -y 
-sudo yum install openshift-origin-cartridge-haproxy.noarch-1.31.4.1 -y 
+sudo yum install openshift-origin-cartridge-haproxy.noarch-1.31.5.1 -y 
 sudo yum install openshift-origin-cartridge-jbossews.noarch-1.35.3.2 -y 
 sudo yum install openshift-origin-cartridge-jenkins.noarch-1.28.2.1 -y 
 sudo yum install openshift-origin-cartridge-mock.noarch-1.22.1.1 -y 
 sudo yum install openshift-origin-cartridge-nodejs.noarch-1.33.1.1 -y 
 sudo yum install openshift-origin-cartridge-perl.noarch-1.30.1.1 -y 
-sudo yum install openshift-origin-cartridge-php.noarch-1.34.1.1 -y 
-sudo yum install openshift-origin-cartridge-python.noarch-1.34.1.1 -y 
+sudo yum install openshift-origin-cartridge-php.noarch-1.35.3.1 -y 
+sudo yum install openshift-origin-cartridge-python.noarch-1.34.2.1 -y 
 sudo yum install openshift-origin-cartridge-ruby.noarch-1.32.1.1 -y 
-sudo yum install openshift-origin-node-util.noarch-1.38.5.1 -y 
-sudo yum install rubygem-openshift-origin-frontend-apache-vhost.noarch-0.12.4.2 -y 
-sudo yum install rubygem-openshift-origin-node.noarch-1.38.4.1 -y 
+sudo yum install openshift-origin-node-util.noarch-1.38.6.2 -y 
+sudo yum install rubygem-openshift-origin-frontend-apache-vhost.noarch-0.13.2.1 -y 
+sudo yum install rubygem-openshift-origin-node.noarch-1.38.5.3 -y 

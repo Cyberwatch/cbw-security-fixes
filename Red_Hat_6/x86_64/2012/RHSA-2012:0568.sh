@@ -3,7 +3,7 @@
 # Security fix for RHSA-2012:0568
 #
 # Security announcement date: 2012-05-10 15:36:35 UTC
-# Script generation date:     2016-02-04 19:15:55 UTC
+# Script generation date:     2016-03-22 19:12:50 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -68,7 +68,7 @@
 #   - php.x86_64:5.3.3-46.el6_6
 #   - php-cli.x86_64:5.3.3-46.el6_6
 #   - php-common.x86_64:5.3.3-46.el6_6
-#   - php-debuginfo.x86_64:5.3.3-46.el6_6
+#   - php-debuginfo.x86_64:5.3.3-46.el6_7.1
 #   - php-gd.x86_64:5.3.3-46.el6_6
 #   - php-ldap.x86_64:5.3.3-46.el6_6
 #   - php-mysql.x86_64:5.3.3-46.el6_6
@@ -81,7 +81,7 @@
 #   - php.x86_64:5.3.3-46.el6_6
 #   - php-cli.x86_64:5.3.3-46.el6_6
 #   - php-common.x86_64:5.3.3-46.el6_6
-#   - php-debuginfo.x86_64:5.3.3-46.el6_6
+#   - php-debuginfo.x86_64:5.3.3-46.el6_7.1
 #   - php-gd.x86_64:5.3.3-46.el6_6
 #   - php-ldap.x86_64:5.3.3-46.el6_6
 #   - php-mysql.x86_64:5.3.3-46.el6_6
@@ -91,29 +91,29 @@
 #   - php-soap.x86_64:5.3.3-46.el6_6
 #   - php-xml.x86_64:5.3.3-46.el6_6
 #   - php-xmlrpc.x86_64:5.3.3-46.el6_6
-#   - php-bcmath.x86_64:5.3.3-46.el6_6
+#   - php-bcmath.x86_64:5.3.3-46.el6_7.1
 #   - php-dba.x86_64:5.3.3-46.el6_6
-#   - php-devel.x86_64:5.3.3-46.el6_6
+#   - php-devel.x86_64:5.3.3-46.el6_7.1
 #   - php-embedded.x86_64:5.3.3-46.el6_6
 #   - php-enchant.x86_64:5.3.3-46.el6_6
-#   - php-imap.x86_64:5.3.3-46.el6_6
-#   - php-intl.x86_64:5.3.3-46.el6_6
-#   - php-mbstring.x86_64:5.3.3-46.el6_6
-#   - php-process.x86_64:5.3.3-46.el6_6
+#   - php-imap.x86_64:5.3.3-46.el6_7.1
+#   - php-intl.x86_64:5.3.3-46.el6_7.1
+#   - php-mbstring.x86_64:5.3.3-46.el6_7.1
+#   - php-process.x86_64:5.3.3-46.el6_7.1
 #   - php-pspell.x86_64:5.3.3-46.el6_6
 #   - php-recode.x86_64:5.3.3-46.el6_6
 #   - php-snmp.x86_64:5.3.3-46.el6_6
 #   - php-tidy.x86_64:5.3.3-46.el6_6
 #   - php-zts.x86_64:5.3.3-46.el6_6
-#   - php-bcmath.x86_64:5.3.3-46.el6_6
+#   - php-bcmath.x86_64:5.3.3-46.el6_7.1
 #   - php-dba.x86_64:5.3.3-46.el6_6
-#   - php-devel.x86_64:5.3.3-46.el6_6
+#   - php-devel.x86_64:5.3.3-46.el6_7.1
 #   - php-embedded.x86_64:5.3.3-46.el6_6
 #   - php-enchant.x86_64:5.3.3-46.el6_6
-#   - php-imap.x86_64:5.3.3-46.el6_6
-#   - php-intl.x86_64:5.3.3-46.el6_6
-#   - php-mbstring.x86_64:5.3.3-46.el6_6
-#   - php-process.x86_64:5.3.3-46.el6_6
+#   - php-imap.x86_64:5.3.3-46.el6_7.1
+#   - php-intl.x86_64:5.3.3-46.el6_7.1
+#   - php-mbstring.x86_64:5.3.3-46.el6_7.1
+#   - php-process.x86_64:5.3.3-46.el6_7.1
 #   - php-pspell.x86_64:5.3.3-46.el6_6
 #   - php-recode.x86_64:5.3.3-46.el6_6
 #   - php-snmp.x86_64:5.3.3-46.el6_6
