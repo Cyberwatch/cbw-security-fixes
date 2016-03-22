@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:0425
 #
 # Security announcement date: 2015-03-05 14:43:20 UTC
-# Script generation date:     2016-02-04 19:18:58 UTC
+# Script generation date:     2016-03-22 07:21:11 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -22,17 +22,17 @@
 #   - pam_ssh_agent_auth.i686:0.9.3-9.11.el7
 #
 # Last versions recommanded by security team:
-#   - openssh.x86_64:6.6.1p1-23.el7_2
-#   - openssh-askpass.x86_64:6.6.1p1-23.el7_2
-#   - openssh-clients.x86_64:6.6.1p1-23.el7_2
-#   - openssh-debuginfo.x86_64:6.6.1p1-23.el7_2
-#   - openssh-keycat.x86_64:6.6.1p1-23.el7_2
-#   - openssh-server.x86_64:6.6.1p1-23.el7_2
-#   - openssh-ldap.x86_64:6.6.1p1-23.el7_2
-#   - openssh-server-sysvinit.x86_64:6.6.1p1-23.el7_2
-#   - pam_ssh_agent_auth.x86_64:0.9.3-9.23.el7_2
-#   - openssh-debuginfo.i686:6.6.1p1-23.el7_2
-#   - pam_ssh_agent_auth.i686:0.9.3-9.23.el7_2
+#   - openssh.x86_64:6.6.1p1-25.el7_2
+#   - openssh-askpass.x86_64:6.6.1p1-25.el7_2
+#   - openssh-clients.x86_64:6.6.1p1-25.el7_2
+#   - openssh-debuginfo.x86_64:6.6.1p1-25.el7_2
+#   - openssh-keycat.x86_64:6.6.1p1-25.el7_2
+#   - openssh-server.x86_64:6.6.1p1-25.el7_2
+#   - openssh-ldap.x86_64:6.6.1p1-25.el7_2
+#   - openssh-server-sysvinit.x86_64:6.6.1p1-25.el7_2
+#   - pam_ssh_agent_auth.x86_64:0.9.3-9.25.el7_2
+#   - openssh-debuginfo.i686:6.6.1p1-25.el7_2
+#   - pam_ssh_agent_auth.i686:0.9.3-9.25.el7_2
 #
 # CVE List:
 #   - CVE-2014-2653
