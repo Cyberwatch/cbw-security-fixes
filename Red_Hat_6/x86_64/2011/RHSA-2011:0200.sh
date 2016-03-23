@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:0200
 #
 # Security announcement date: 2011-02-08 21:58:43 UTC
-# Script generation date:     2016-02-04 19:14:46 UTC
+# Script generation date:     2016-03-23 07:11:57 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -22,17 +22,17 @@
 #   - krb5-server-ldap.i686:1.8.2-3.el6_0.4
 #
 # Last versions recommanded by security team:
-#   - krb5-debuginfo.x86_64:1.10.3-37.el6_6
-#   - krb5-libs.x86_64:1.10.3-37.el6_6
-#   - krb5-pkinit-openssl.x86_64:1.10.3-37.el6_6
-#   - krb5-workstation.x86_64:1.10.3-37.el6_6
-#   - krb5-devel.x86_64:1.10.3-37.el6_6
-#   - krb5-server.x86_64:1.10.3-37.el6_6
-#   - krb5-server-ldap.x86_64:1.10.3-37.el6_6
-#   - krb5-debuginfo.i686:1.10.3-37.el6_6
-#   - krb5-libs.i686:1.10.3-37.el6_6
-#   - krb5-devel.i686:1.10.3-37.el6_6
-#   - krb5-server-ldap.i686:1.10.3-37.el6_6
+#   - krb5-debuginfo.x86_64:1.10.3-42z1.el6_7
+#   - krb5-libs.x86_64:1.10.3-42z1.el6_7
+#   - krb5-pkinit-openssl.x86_64:1.10.3-42z1.el6_7
+#   - krb5-workstation.x86_64:1.10.3-42z1.el6_7
+#   - krb5-devel.x86_64:1.10.3-42z1.el6_7
+#   - krb5-server.x86_64:1.10.3-42z1.el6_7
+#   - krb5-server-ldap.x86_64:1.10.3-42z1.el6_7
+#   - krb5-debuginfo.i686:1.10.3-42z1.el6_7
+#   - krb5-libs.i686:1.10.3-42z1.el6_7
+#   - krb5-devel.i686:1.10.3-42z1.el6_7
+#   - krb5-server-ldap.i686:1.10.3-42z1.el6_7
 #
 # CVE List:
 #   - CVE-2010-4022

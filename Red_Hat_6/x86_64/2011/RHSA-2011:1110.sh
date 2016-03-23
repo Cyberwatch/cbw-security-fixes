@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:1110
 #
 # Security announcement date: 2011-08-01 16:01:07 UTC
-# Script generation date:     2016-02-04 19:15:20 UTC
+# Script generation date:     2016-03-23 07:12:25 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,8 +13,8 @@
 #   - foomatic-debuginfo.x86_64:4.0.4-1.el6_1.1
 #
 # Last versions recommanded by security team:
-#   - foomatic.x86_64:4.0.4-1.el6_1.1
-#   - foomatic-debuginfo.x86_64:4.0.4-1.el6_1.1
+#   - foomatic.x86_64:4.0.4-5.el6_7
+#   - foomatic-debuginfo.x86_64:4.0.4-5.el6_7
 #
 # CVE List:
 #   - CVE-2011-2964
