@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:2561
 #
 # Security announcement date: 2015-12-08 14:22:39 UTC
-# Script generation date:     2016-02-04 19:20:23 UTC
+# Script generation date:     2016-03-23 19:17:00 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -28,23 +28,23 @@
 #   - git-svn.x86_64:1.8.3.1-6.el7
 #
 # Last versions recommanded by security team:
-#   - emacs-git.noarch:1.8.3.1-6.el7
-#   - emacs-git-el.noarch:1.8.3.1-6.el7
-#   - git-all.noarch:1.8.3.1-6.el7
-#   - git-bzr.noarch:1.8.3.1-6.el7
-#   - git-cvs.noarch:1.8.3.1-6.el7
-#   - git-email.noarch:1.8.3.1-6.el7
-#   - git-gui.noarch:1.8.3.1-6.el7
-#   - git-hg.noarch:1.8.3.1-6.el7
-#   - git-p4.noarch:1.8.3.1-6.el7
-#   - gitk.noarch:1.8.3.1-6.el7
-#   - gitweb.noarch:1.8.3.1-6.el7
-#   - perl-Git.noarch:1.8.3.1-6.el7
-#   - perl-Git-SVN.noarch:1.8.3.1-6.el7
-#   - git.x86_64:1.8.3.1-6.el7
-#   - git-daemon.x86_64:1.8.3.1-6.el7
-#   - git-debuginfo.x86_64:1.8.3.1-6.el7
-#   - git-svn.x86_64:1.8.3.1-6.el7
+#   - emacs-git.noarch:1.8.3.1-6.el7_2.1
+#   - emacs-git-el.noarch:1.8.3.1-6.el7_2.1
+#   - git-all.noarch:1.8.3.1-6.el7_2.1
+#   - git-bzr.noarch:1.8.3.1-6.el7_2.1
+#   - git-cvs.noarch:1.8.3.1-6.el7_2.1
+#   - git-email.noarch:1.8.3.1-6.el7_2.1
+#   - git-gui.noarch:1.8.3.1-6.el7_2.1
+#   - git-hg.noarch:1.8.3.1-6.el7_2.1
+#   - git-p4.noarch:1.8.3.1-6.el7_2.1
+#   - gitk.noarch:1.8.3.1-6.el7_2.1
+#   - gitweb.noarch:1.8.3.1-6.el7_2.1
+#   - perl-Git.noarch:1.8.3.1-6.el7_2.1
+#   - perl-Git-SVN.noarch:1.8.3.1-6.el7_2.1
+#   - git.x86_64:1.8.3.1-6.el7_2.1
+#   - git-daemon.x86_64:1.8.3.1-6.el7_2.1
+#   - git-debuginfo.x86_64:1.8.3.1-6.el7_2.1
+#   - git-svn.x86_64:1.8.3.1-6.el7_2.1
 #
 # CVE List:
 #

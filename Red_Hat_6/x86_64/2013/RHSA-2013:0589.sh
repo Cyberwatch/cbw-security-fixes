@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0589
 #
 # Security announcement date: 2013-03-04 21:22:20 UTC
-# Script generation date:     2016-02-04 19:16:33 UTC
+# Script generation date:     2016-03-23 19:13:32 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -24,19 +24,19 @@
 #   - git-debuginfo.x86_64:1.7.1-3.el6_4.1
 #
 # Last versions recommanded by security team:
-#   - emacs-git.noarch:1.7.1-3.el6_4.1
-#   - emacs-git-el.noarch:1.7.1-3.el6_4.1
-#   - git-all.noarch:1.7.1-3.el6_4.1
-#   - git-cvs.noarch:1.7.1-3.el6_4.1
-#   - git-email.noarch:1.7.1-3.el6_4.1
-#   - git-gui.noarch:1.7.1-3.el6_4.1
-#   - git-svn.noarch:1.7.1-3.el6_4.1
-#   - gitk.noarch:1.7.1-3.el6_4.1
-#   - gitweb.noarch:1.7.1-3.el6_4.1
-#   - perl-Git.noarch:1.7.1-3.el6_4.1
-#   - git.x86_64:1.7.1-3.el6_4.1
-#   - git-daemon.x86_64:1.7.1-3.el6_4.1
-#   - git-debuginfo.x86_64:1.7.1-3.el6_4.1
+#   - emacs-git.noarch:1.7.1-4.el6_7.1
+#   - emacs-git-el.noarch:1.7.1-4.el6_7.1
+#   - git-all.noarch:1.7.1-4.el6_7.1
+#   - git-cvs.noarch:1.7.1-4.el6_7.1
+#   - git-email.noarch:1.7.1-4.el6_7.1
+#   - git-gui.noarch:1.7.1-4.el6_7.1
+#   - git-svn.noarch:1.7.1-4.el6_7.1
+#   - gitk.noarch:1.7.1-4.el6_7.1
+#   - gitweb.noarch:1.7.1-4.el6_7.1
+#   - perl-Git.noarch:1.7.1-4.el6_7.1
+#   - git.x86_64:1.7.1-4.el6_7.1
+#   - git-daemon.x86_64:1.7.1-4.el6_7.1
+#   - git-debuginfo.x86_64:1.7.1-4.el6_7.1
 #
 # CVE List:
 #   - CVE-2013-0308
