@@ -4,7 +4,7 @@
 # Security fix for USN-2553-2
 #
 # Security announcement date: 2015-04-01 00:00:00 UTC
-# Script generation date:     2016-03-21 19:02:15 UTC
+# Script generation date:     2016-03-24 07:02:20 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - libtiff4-dev:4.0.3-7ubuntu0.3
 #
 # Last versions recommanded by security team:
-#   - libtiff5:4.0.3-7ubuntu0.3
-#   - libtiffxx5:4.0.3-7ubuntu0.3
-#   - libtiff5-dev:4.0.3-7ubuntu0.3
-#   - libtiff-tools:4.0.3-7ubuntu0.3
-#   - libtiff-doc:4.0.3-7ubuntu0.3
-#   - libtiff5-alt-dev:4.0.3-7ubuntu0.3
-#   - libtiff4-dev:4.0.3-7ubuntu0.3
+#   - libtiff5:4.0.3-7ubuntu0.4
+#   - libtiffxx5:4.0.3-7ubuntu0.4
+#   - libtiff5-dev:4.0.3-7ubuntu0.4
+#   - libtiff-tools:4.0.3-7ubuntu0.4
+#   - libtiff-doc:4.0.3-7ubuntu0.4
+#   - libtiff5-alt-dev:4.0.3-7ubuntu0.4
+#   - libtiff4-dev:4.0.3-7ubuntu0.4
 #
 # CVE List:
 #   - CVE-2014-8127
@@ -39,10 +39,10 @@
 #   - https://www.cyberwatch.fr/notices/USN-2553-2
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libtiff5=4.0.3-7ubuntu0.3 -y
-sudo apt-get install --only-upgrade libtiffxx5=4.0.3-7ubuntu0.3 -y
-sudo apt-get install --only-upgrade libtiff5-dev=4.0.3-7ubuntu0.3 -y
-sudo apt-get install --only-upgrade libtiff-tools=4.0.3-7ubuntu0.3 -y
-sudo apt-get install --only-upgrade libtiff-doc=4.0.3-7ubuntu0.3 -y
-sudo apt-get install --only-upgrade libtiff5-alt-dev=4.0.3-7ubuntu0.3 -y
-sudo apt-get install --only-upgrade libtiff4-dev=4.0.3-7ubuntu0.3 -y
+sudo apt-get install --only-upgrade libtiff5=4.0.3-7ubuntu0.4 -y
+sudo apt-get install --only-upgrade libtiffxx5=4.0.3-7ubuntu0.4 -y
+sudo apt-get install --only-upgrade libtiff5-dev=4.0.3-7ubuntu0.4 -y
+sudo apt-get install --only-upgrade libtiff-tools=4.0.3-7ubuntu0.4 -y
+sudo apt-get install --only-upgrade libtiff-doc=4.0.3-7ubuntu0.4 -y
+sudo apt-get install --only-upgrade libtiff5-alt-dev=4.0.3-7ubuntu0.4 -y
+sudo apt-get install --only-upgrade libtiff4-dev=4.0.3-7ubuntu0.4 -y
