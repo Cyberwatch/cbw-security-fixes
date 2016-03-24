@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:0991
 #
 # Security announcement date: 2015-05-12 20:44:59 UTC
-# Script generation date:     2016-02-04 19:12:52 UTC
+# Script generation date:     2016-03-24 07:13:17 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -20,15 +20,15 @@
 #   - tomcat6-webapps.x86_64:6.0.24-83.el6_6
 #
 # Last versions recommanded by security team:
-#   - tomcat6.x86_64:6.0.24-83.el6_6
-#   - tomcat6-admin-webapps.x86_64:6.0.24-83.el6_6
-#   - tomcat6-docs-webapp.x86_64:6.0.24-83.el6_6
-#   - tomcat6-el-2.1-api.x86_64:6.0.24-83.el6_6
-#   - tomcat6-javadoc.x86_64:6.0.24-83.el6_6
-#   - tomcat6-jsp-2.1-api.x86_64:6.0.24-83.el6_6
-#   - tomcat6-lib.x86_64:6.0.24-83.el6_6
-#   - tomcat6-servlet-2.5-api.x86_64:6.0.24-83.el6_6
-#   - tomcat6-webapps.x86_64:6.0.24-83.el6_6
+#   - tomcat6.x86_64:6.0.24-94.el6_7
+#   - tomcat6-admin-webapps.x86_64:6.0.24-94.el6_7
+#   - tomcat6-docs-webapp.x86_64:6.0.24-94.el6_7
+#   - tomcat6-el-2.1-api.x86_64:6.0.24-94.el6_7
+#   - tomcat6-javadoc.x86_64:6.0.24-94.el6_7
+#   - tomcat6-jsp-2.1-api.x86_64:6.0.24-94.el6_7
+#   - tomcat6-lib.x86_64:6.0.24-94.el6_7
+#   - tomcat6-servlet-2.5-api.x86_64:6.0.24-94.el6_7
+#   - tomcat6-webapps.x86_64:6.0.24-94.el6_7
 #
 # CVE List:
 #   - CVE-2014-0227

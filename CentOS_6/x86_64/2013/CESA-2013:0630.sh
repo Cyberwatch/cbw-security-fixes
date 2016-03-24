@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0630
 #
 # Security announcement date: 2013-03-13 11:49:36 UTC
-# Script generation date:     2016-02-04 19:12:01 UTC
+# Script generation date:     2016-03-24 07:12:28 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -20,15 +20,15 @@
 #   - python-perf.x86_64:2.6.32-358.2.1.el6
 #
 # Last versions recommanded by security team:
-#   - kernel-doc.noarch:2.6.32-573.12.1.el6
-#   - kernel-firmware.noarch:2.6.32-573.12.1.el6
-#   - kernel.x86_64:2.6.32-573.12.1.el6
-#   - kernel-debug.x86_64:2.6.32-573.12.1.el6
-#   - kernel-debug-devel.x86_64:2.6.32-573.12.1.el6
-#   - kernel-devel.x86_64:2.6.32-573.12.1.el6
-#   - kernel-headers.x86_64:2.6.32-573.12.1.el6
-#   - perf.x86_64:2.6.32-573.12.1.el6
-#   - python-perf.x86_64:2.6.32-573.12.1.el6
+#   - kernel-doc.noarch:2.6.32-573.22.1.el6
+#   - kernel-firmware.noarch:2.6.32-573.22.1.el6
+#   - kernel.x86_64:2.6.32-573.22.1.el6
+#   - kernel-debug.x86_64:2.6.32-573.22.1.el6
+#   - kernel-debug-devel.x86_64:2.6.32-573.22.1.el6
+#   - kernel-devel.x86_64:2.6.32-573.22.1.el6
+#   - kernel-headers.x86_64:2.6.32-573.22.1.el6
+#   - perf.x86_64:2.6.32-573.22.1.el6
+#   - python-perf.x86_64:2.6.32-573.22.1.el6
 #
 # CVE List:
 #   - CVE-2013-0228
