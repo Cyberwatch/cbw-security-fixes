@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0957
 #
 # Security announcement date: 2013-06-20 00:10:28 UTC
-# Script generation date:     2016-02-04 19:16:52 UTC
+# Script generation date:     2016-03-25 07:17:26 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - java-1.7.0-openjdk-src.x86_64:1.7.0.25-2.3.10.3.el6_4
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-openjdk.x86_64:1.7.0.95-2.6.4.0.el6_7
-#   - java-1.7.0-openjdk-debuginfo.x86_64:1.7.0.95-2.6.4.0.el6_7
-#   - java-1.7.0-openjdk-javadoc.noarch:1.7.0.95-2.6.4.0.el6_7
-#   - java-1.7.0-openjdk-demo.x86_64:1.7.0.95-2.6.4.0.el6_7
-#   - java-1.7.0-openjdk-devel.x86_64:1.7.0.95-2.6.4.0.el6_7
-#   - java-1.7.0-openjdk-src.x86_64:1.7.0.95-2.6.4.0.el6_7
+#   - java-1.7.0-openjdk.x86_64:1.7.0.99-2.6.5.0.el6_7
+#   - java-1.7.0-openjdk-debuginfo.x86_64:1.7.0.99-2.6.5.0.el6_7
+#   - java-1.7.0-openjdk-javadoc.noarch:1.7.0.99-2.6.5.0.el6_7
+#   - java-1.7.0-openjdk-demo.x86_64:1.7.0.99-2.6.5.0.el6_7
+#   - java-1.7.0-openjdk-devel.x86_64:1.7.0.99-2.6.5.0.el6_7
+#   - java-1.7.0-openjdk-src.x86_64:1.7.0.99-2.6.5.0.el6_7
 #
 # CVE List:
 #   - CVE-2013-1500
@@ -59,9 +59,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:0957
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.0-openjdk.x86_64-1.7.0.95 -y 
-sudo yum install java-1.7.0-openjdk-debuginfo.x86_64-1.7.0.95 -y 
-sudo yum install java-1.7.0-openjdk-javadoc.noarch-1.7.0.95 -y 
-sudo yum install java-1.7.0-openjdk-demo.x86_64-1.7.0.95 -y 
-sudo yum install java-1.7.0-openjdk-devel.x86_64-1.7.0.95 -y 
-sudo yum install java-1.7.0-openjdk-src.x86_64-1.7.0.95 -y 
+sudo yum install java-1.7.0-openjdk.x86_64-1.7.0.99 -y 
+sudo yum install java-1.7.0-openjdk-debuginfo.x86_64-1.7.0.99 -y 
+sudo yum install java-1.7.0-openjdk-javadoc.noarch-1.7.0.99 -y 
+sudo yum install java-1.7.0-openjdk-demo.x86_64-1.7.0.99 -y 
+sudo yum install java-1.7.0-openjdk-devel.x86_64-1.7.0.99 -y 
+sudo yum install java-1.7.0-openjdk-src.x86_64-1.7.0.99 -y 

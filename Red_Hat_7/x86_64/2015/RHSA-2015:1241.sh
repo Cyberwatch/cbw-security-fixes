@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1241
 #
 # Security announcement date: 2015-07-17 08:12:12 UTC
-# Script generation date:     2016-02-04 19:19:25 UTC
+# Script generation date:     2016-03-25 07:19:52 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - java-1.8.0-oracle-src.x86_64:1.8.0.51-1jpp.2.el7_1
 #
 # Last versions recommanded by security team:
-#   - java-1.8.0-oracle.x86_64:1.8.0.71-1jpp.1.el7
-#   - java-1.8.0-oracle-devel.x86_64:1.8.0.71-1jpp.1.el7
-#   - java-1.8.0-oracle-javafx.x86_64:1.8.0.71-1jpp.1.el7
-#   - java-1.8.0-oracle-jdbc.x86_64:1.8.0.71-1jpp.1.el7
-#   - java-1.8.0-oracle-plugin.x86_64:1.8.0.71-1jpp.1.el7
-#   - java-1.8.0-oracle-src.x86_64:1.8.0.71-1jpp.1.el7
+#   - java-1.8.0-oracle.x86_64:1.8.0.77-1jpp.1.el7
+#   - java-1.8.0-oracle-devel.x86_64:1.8.0.77-1jpp.1.el7
+#   - java-1.8.0-oracle-javafx.x86_64:1.8.0.77-1jpp.1.el7
+#   - java-1.8.0-oracle-jdbc.x86_64:1.8.0.77-1jpp.1.el7
+#   - java-1.8.0-oracle-plugin.x86_64:1.8.0.77-1jpp.1.el7
+#   - java-1.8.0-oracle-src.x86_64:1.8.0.77-1jpp.1.el7
 #
 # CVE List:
 #   - CVE-2015-2590
@@ -53,9 +53,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1241
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.8.0-oracle.x86_64-1.8.0.71 -y 
-sudo yum install java-1.8.0-oracle-devel.x86_64-1.8.0.71 -y 
-sudo yum install java-1.8.0-oracle-javafx.x86_64-1.8.0.71 -y 
-sudo yum install java-1.8.0-oracle-jdbc.x86_64-1.8.0.71 -y 
-sudo yum install java-1.8.0-oracle-plugin.x86_64-1.8.0.71 -y 
-sudo yum install java-1.8.0-oracle-src.x86_64-1.8.0.71 -y 
+sudo yum install java-1.8.0-oracle.x86_64-1.8.0.77 -y 
+sudo yum install java-1.8.0-oracle-devel.x86_64-1.8.0.77 -y 
+sudo yum install java-1.8.0-oracle-javafx.x86_64-1.8.0.77 -y 
+sudo yum install java-1.8.0-oracle-jdbc.x86_64-1.8.0.77 -y 
+sudo yum install java-1.8.0-oracle-plugin.x86_64-1.8.0.77 -y 
+sudo yum install java-1.8.0-oracle-src.x86_64-1.8.0.77 -y 
