@@ -4,7 +4,7 @@
 # Security fix for USN-2784-1
 #
 # Security announcement date: 2015-10-28 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:15 UTC
+# Script generation date:     2016-03-25 07:03:23 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -26,16 +26,16 @@
 # Last versions recommanded by security team:
 #   - openjdk-7-jre-lib:7u85-2.6.1-5ubuntu0.14.04.1
 #   - openjdk-7-jre-zero:7u85-2.6.1-5ubuntu0.14.04.1
-#   - icedtea-7-jre-jamvm:7u95-2.6.4-0ubuntu0.14.04.1
-#   - openjdk-7-jdk:7u95-2.6.4-0ubuntu0.14.04.1
-#   - openjdk-7-jre-headless:7u95-2.6.4-0ubuntu0.14.04.1
-#   - openjdk-7-jre:7u95-2.6.4-0ubuntu0.14.04.1
-#   - openjdk-7-demo:7u95-2.6.4-0ubuntu0.14.04.1
-#   - openjdk-7-source:7u95-2.6.4-0ubuntu0.14.04.1
-#   - openjdk-7-doc:7u95-2.6.4-0ubuntu0.14.04.1
-#   - openjdk-7-dbg:7u95-2.6.4-0ubuntu0.14.04.1
-#   - openjdk-7-jre-headless:7u95-2.6.4-0ubuntu0.14.04.1
-#   - openjdk-7-jre:7u95-2.6.4-0ubuntu0.14.04.1
+#   - icedtea-7-jre-jamvm:7u95-2.6.4-0ubuntu0.14.04.2
+#   - openjdk-7-jdk:7u95-2.6.4-0ubuntu0.14.04.2
+#   - openjdk-7-jre-headless:7u95-2.6.4-0ubuntu0.14.04.2
+#   - openjdk-7-jre:7u95-2.6.4-0ubuntu0.14.04.2
+#   - openjdk-7-demo:7u95-2.6.4-0ubuntu0.14.04.2
+#   - openjdk-7-source:7u95-2.6.4-0ubuntu0.14.04.2
+#   - openjdk-7-doc:7u95-2.6.4-0ubuntu0.14.04.2
+#   - openjdk-7-dbg:7u95-2.6.4-0ubuntu0.14.04.2
+#   - openjdk-7-jre-headless:7u95-2.6.4-0ubuntu0.14.04.2
+#   - openjdk-7-jre:7u95-2.6.4-0ubuntu0.14.04.2
 #
 # CVE List:
 #   - CVE-2015-4805
@@ -63,13 +63,13 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade openjdk-7-jre-lib=7u85-2.6.1-5ubuntu0.14.04.1 -y
 sudo apt-get install --only-upgrade openjdk-7-jre-zero=7u85-2.6.1-5ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u95-2.6.4-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jdk=7u95-2.6.4-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u95-2.6.4-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre=7u95-2.6.4-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-demo=7u95-2.6.4-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-source=7u95-2.6.4-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-doc=7u95-2.6.4-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-dbg=7u95-2.6.4-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u95-2.6.4-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre=7u95-2.6.4-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u95-2.6.4-0ubuntu0.14.04.2 -y
+sudo apt-get install --only-upgrade openjdk-7-jdk=7u95-2.6.4-0ubuntu0.14.04.2 -y
+sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u95-2.6.4-0ubuntu0.14.04.2 -y
+sudo apt-get install --only-upgrade openjdk-7-jre=7u95-2.6.4-0ubuntu0.14.04.2 -y
+sudo apt-get install --only-upgrade openjdk-7-demo=7u95-2.6.4-0ubuntu0.14.04.2 -y
+sudo apt-get install --only-upgrade openjdk-7-source=7u95-2.6.4-0ubuntu0.14.04.2 -y
+sudo apt-get install --only-upgrade openjdk-7-doc=7u95-2.6.4-0ubuntu0.14.04.2 -y
+sudo apt-get install --only-upgrade openjdk-7-dbg=7u95-2.6.4-0ubuntu0.14.04.2 -y
+sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u95-2.6.4-0ubuntu0.14.04.2 -y
+sudo apt-get install --only-upgrade openjdk-7-jre=7u95-2.6.4-0ubuntu0.14.04.2 -y

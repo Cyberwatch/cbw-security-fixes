@@ -4,7 +4,7 @@
 # Security fix for USN-2187-1
 #
 # Security announcement date: 2014-04-30 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:05 UTC
+# Script generation date:     2016-03-25 07:01:09 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -21,11 +21,11 @@
 # Last versions recommanded by security team:
 #   - openjdk-7-jre-lib:7u55-2.4.7-1ubuntu1
 #   - openjdk-7-jre-zero:7u55-2.4.7-1ubuntu1
-#   - icedtea-7-jre-jamvm:7u95-2.6.4-0ubuntu0.14.04.1
-#   - openjdk-7-jre-headless:7u95-2.6.4-0ubuntu0.14.04.1
-#   - openjdk-7-jre:7u95-2.6.4-0ubuntu0.14.04.1
-#   - openjdk-7-jre-headless:7u95-2.6.4-0ubuntu0.14.04.1
-#   - openjdk-7-jre:7u95-2.6.4-0ubuntu0.14.04.1
+#   - icedtea-7-jre-jamvm:7u95-2.6.4-0ubuntu0.14.04.2
+#   - openjdk-7-jre-headless:7u95-2.6.4-0ubuntu0.14.04.2
+#   - openjdk-7-jre:7u95-2.6.4-0ubuntu0.14.04.2
+#   - openjdk-7-jre-headless:7u95-2.6.4-0ubuntu0.14.04.2
+#   - openjdk-7-jre:7u95-2.6.4-0ubuntu0.14.04.2
 #
 # CVE List:
 #   - CVE-2014-0429
@@ -59,8 +59,8 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade openjdk-7-jre-lib=7u55-2.4.7-1ubuntu1 -y
 sudo apt-get install --only-upgrade openjdk-7-jre-zero=7u55-2.4.7-1ubuntu1 -y
-sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u95-2.6.4-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u95-2.6.4-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre=7u95-2.6.4-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u95-2.6.4-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre=7u95-2.6.4-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u95-2.6.4-0ubuntu0.14.04.2 -y
+sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u95-2.6.4-0ubuntu0.14.04.2 -y
+sudo apt-get install --only-upgrade openjdk-7-jre=7u95-2.6.4-0ubuntu0.14.04.2 -y
+sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u95-2.6.4-0ubuntu0.14.04.2 -y
+sudo apt-get install --only-upgrade openjdk-7-jre=7u95-2.6.4-0ubuntu0.14.04.2 -y
