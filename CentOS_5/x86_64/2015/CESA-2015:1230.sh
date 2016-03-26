@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1230
 #
 # Security announcement date: 2015-07-15 15:39:22 UTC
-# Script generation date:     2016-02-04 19:12:56 UTC
+# Script generation date:     2016-03-26 07:13:33 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - java-1.7.0-openjdk-src.x86_64:1.7.0.85-2.6.1.3.el5_11
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-openjdk.x86_64:1.7.0.95-2.6.4.1.el5_11
-#   - java-1.7.0-openjdk-demo.x86_64:1.7.0.95-2.6.4.1.el5_11
-#   - java-1.7.0-openjdk-devel.x86_64:1.7.0.95-2.6.4.1.el5_11
-#   - java-1.7.0-openjdk-javadoc.x86_64:1.7.0.95-2.6.4.1.el5_11
-#   - java-1.7.0-openjdk-src.x86_64:1.7.0.95-2.6.4.1.el5_11
+#   - java-1.7.0-openjdk.x86_64:1.7.0.99-2.6.5.0.el5_11
+#   - java-1.7.0-openjdk-demo.x86_64:1.7.0.99-2.6.5.0.el5_11
+#   - java-1.7.0-openjdk-devel.x86_64:1.7.0.99-2.6.5.0.el5_11
+#   - java-1.7.0-openjdk-javadoc.x86_64:1.7.0.99-2.6.5.0.el5_11
+#   - java-1.7.0-openjdk-src.x86_64:1.7.0.99-2.6.5.0.el5_11
 #
 # CVE List:
 #   - CVE-2015-2808
@@ -42,8 +42,8 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2015:1230
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.0-openjdk.x86_64-1.7.0.95 -y 
-sudo yum install java-1.7.0-openjdk-demo.x86_64-1.7.0.95 -y 
-sudo yum install java-1.7.0-openjdk-devel.x86_64-1.7.0.95 -y 
-sudo yum install java-1.7.0-openjdk-javadoc.x86_64-1.7.0.95 -y 
-sudo yum install java-1.7.0-openjdk-src.x86_64-1.7.0.95 -y 
+sudo yum install java-1.7.0-openjdk.x86_64-1.7.0.99 -y 
+sudo yum install java-1.7.0-openjdk-demo.x86_64-1.7.0.99 -y 
+sudo yum install java-1.7.0-openjdk-devel.x86_64-1.7.0.99 -y 
+sudo yum install java-1.7.0-openjdk-javadoc.x86_64-1.7.0.99 -y 
+sudo yum install java-1.7.0-openjdk-src.x86_64-1.7.0.99 -y 
