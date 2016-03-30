@@ -4,7 +4,7 @@
 # Security fix for DLA-323-1
 #
 # Security announcement date: 2015-10-01 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:34 UTC
+# Script generation date:     2016-03-30 18:07:00 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -16,6 +16,8 @@
 #   - fuseiso:20070708-2+deb6u1
 #
 # CVE List:
+#   - CVE-2015-8836
+#   - CVE-2015-8837
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/DLA-323-1
