@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:2154
 #
 # Security announcement date: 2015-11-19 21:34:46 UTC
-# Script generation date:     2016-02-04 19:19:58 UTC
+# Script generation date:     2016-04-01 18:17:28 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -21,16 +21,16 @@
 #   - krb5-devel.i686:1.13.2-10.el7
 #
 # Last versions recommanded by security team:
-#   - krb5-debuginfo.x86_64:1.13.2-10.el7
-#   - krb5-libs.x86_64:1.13.2-10.el7
-#   - krb5-pkinit.x86_64:1.13.2-10.el7
-#   - krb5-workstation.x86_64:1.13.2-10.el7
-#   - krb5-devel.x86_64:1.13.2-10.el7
-#   - krb5-server.x86_64:1.13.2-10.el7
-#   - krb5-server-ldap.x86_64:1.13.2-10.el7
-#   - krb5-debuginfo.i686:1.13.2-10.el7
-#   - krb5-libs.i686:1.13.2-10.el7
-#   - krb5-devel.i686:1.13.2-10.el7
+#   - krb5-debuginfo.x86_64:1.13.2-12.el7_2
+#   - krb5-libs.x86_64:1.13.2-12.el7_2
+#   - krb5-pkinit.x86_64:1.13.2-12.el7_2
+#   - krb5-workstation.x86_64:1.13.2-12.el7_2
+#   - krb5-devel.x86_64:1.13.2-12.el7_2
+#   - krb5-server.x86_64:1.13.2-12.el7_2
+#   - krb5-server-ldap.x86_64:1.13.2-12.el7_2
+#   - krb5-debuginfo.i686:1.13.2-12.el7_2
+#   - krb5-libs.i686:1.13.2-12.el7_2
+#   - krb5-devel.i686:1.13.2-12.el7_2
 #
 # CVE List:
 #   - CVE-2014-5355
