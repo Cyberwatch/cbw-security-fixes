@@ -3,7 +3,7 @@
 # Security fix for RHSA-2016:0078
 #
 # Security announcement date: 2016-01-28 13:51:44 UTC
-# Script generation date:     2016-03-16 19:14:37 UTC
+# Script generation date:     2016-04-01 06:17:33 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -31,26 +31,26 @@
 #   - bind-devel.i686:9.8.2-0.23.rc1.el6_5.2
 #
 # Last versions recommanded by security team:
-#   - bind.x86_64:9.8.2-0.37.rc1.el6_7.7
-#   - bind-chroot.x86_64:9.8.2-0.37.rc1.el6_7.7
-#   - bind-debuginfo.x86_64:9.8.2-0.37.rc1.el6_7.7
-#   - bind-libs.x86_64:9.8.2-0.37.rc1.el6_7.7
-#   - bind-utils.x86_64:9.8.2-0.37.rc1.el6_7.7
-#   - bind.x86_64:9.8.2-0.37.rc1.el6_7.7
-#   - bind-chroot.x86_64:9.8.2-0.37.rc1.el6_7.7
-#   - bind-debuginfo.x86_64:9.8.2-0.37.rc1.el6_7.7
-#   - bind-libs.x86_64:9.8.2-0.37.rc1.el6_7.7
-#   - bind-utils.x86_64:9.8.2-0.37.rc1.el6_7.7
-#   - bind-devel.x86_64:9.8.2-0.37.rc1.el6_7.7
-#   - bind-sdb.x86_64:9.8.2-0.37.rc1.el6_7.7
-#   - bind-devel.x86_64:9.8.2-0.37.rc1.el6_7.7
-#   - bind-sdb.x86_64:9.8.2-0.37.rc1.el6_7.7
-#   - bind-debuginfo.i686:9.8.2-0.37.rc1.el6_7.7
-#   - bind-libs.i686:9.8.2-0.37.rc1.el6_7.7
-#   - bind-debuginfo.i686:9.8.2-0.37.rc1.el6_7.7
-#   - bind-libs.i686:9.8.2-0.37.rc1.el6_7.7
-#   - bind-devel.i686:9.8.2-0.37.rc1.el6_7.7
-#   - bind-devel.i686:9.8.2-0.37.rc1.el6_7.7
+#   - bind.x86_64:9.8.2-0.23.rc1.el6_5.3
+#   - bind-chroot.x86_64:9.8.2-0.23.rc1.el6_5.3
+#   - bind-debuginfo.x86_64:9.8.2-0.23.rc1.el6_5.3
+#   - bind-libs.x86_64:9.8.2-0.23.rc1.el6_5.3
+#   - bind-utils.x86_64:9.8.2-0.23.rc1.el6_5.3
+#   - bind.x86_64:9.8.2-0.23.rc1.el6_5.3
+#   - bind-chroot.x86_64:9.8.2-0.23.rc1.el6_5.3
+#   - bind-debuginfo.x86_64:9.8.2-0.23.rc1.el6_5.3
+#   - bind-libs.x86_64:9.8.2-0.23.rc1.el6_5.3
+#   - bind-utils.x86_64:9.8.2-0.23.rc1.el6_5.3
+#   - bind-devel.x86_64:9.8.2-0.23.rc1.el6_5.3
+#   - bind-sdb.x86_64:9.8.2-0.23.rc1.el6_5.3
+#   - bind-devel.x86_64:9.8.2-0.23.rc1.el6_5.3
+#   - bind-sdb.x86_64:9.8.2-0.23.rc1.el6_5.3
+#   - bind-debuginfo.i686:9.8.2-0.23.rc1.el6_5.3
+#   - bind-libs.i686:9.8.2-0.23.rc1.el6_5.3
+#   - bind-debuginfo.i686:9.8.2-0.23.rc1.el6_5.3
+#   - bind-libs.i686:9.8.2-0.23.rc1.el6_5.3
+#   - bind-devel.i686:9.8.2-0.23.rc1.el6_5.3
+#   - bind-devel.i686:9.8.2-0.23.rc1.el6_5.3
 #
 # CVE List:
 #   - CVE-2014-8500
