@@ -3,7 +3,7 @@
 # Security fix for USN-2890-1
 #
 # Security announcement date: 2016-02-01 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:52 UTC
+# Script generation date:     2016-04-05 18:04:10 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -24,11 +24,11 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-4.2.0-27-lowlatency:4.2.0-27.32
-#   - linux-source-4.2.0:4.2.0-34.39
-#   - linux-doc:4.2.0-34.39
-#   - linux-libc-dev:4.2.0-34.39
-#   - linux-tools-common:4.2.0-34.39
-#   - linux-cloud-tools-common:4.2.0-34.39
+#   - linux-source-4.2.0:4.2.0-35.40
+#   - linux-doc:4.2.0-35.40
+#   - linux-libc-dev:4.2.0-35.40
+#   - linux-tools-common:4.2.0-35.40
+#   - linux-cloud-tools-common:4.2.0-35.40
 #   - linux-image-4.2.0-27-generic-lpae:4.2.0-27.32
 #   - linux-image-4.2.0-27-powerpc-e500mc:4.2.0-27.32
 #   - linux-image-4.2.0-27-powerpc64-emb:4.2.0-27.32

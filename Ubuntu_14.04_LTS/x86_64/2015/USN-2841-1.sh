@@ -4,7 +4,7 @@
 # Security fix for USN-2841-1
 #
 # Security announcement date: 2015-12-17 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:35 UTC
+# Script generation date:     2016-04-05 18:03:53 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -32,11 +32,11 @@
 #   - linux-image-3.13.0-73-powerpc-e500mc:3.13.0-73.116
 #   - linux-image-3.13.0-73-generic-lpae:3.13.0-73.116
 #   - linux-image-3.13.0-73-lowlatency:3.13.0-73.116
-#   - linux-source-3.13.0:3.13.0-83.127
-#   - linux-doc:3.13.0-83.127
-#   - linux-libc-dev:3.13.0-83.127
-#   - linux-tools-common:3.13.0-83.127
-#   - linux-cloud-tools-common:3.13.0-83.127
+#   - linux-source-3.13.0:3.13.0-85.129
+#   - linux-doc:3.13.0-85.129
+#   - linux-libc-dev:3.13.0-85.129
+#   - linux-tools-common:3.13.0-85.129
+#   - linux-cloud-tools-common:3.13.0-85.129
 #   - linux-image-3.13.0-73-generic:3.13.0-73.116
 #
 # CVE List:
@@ -55,9 +55,9 @@ sudo apt-get install --only-upgrade linux-image-3.13.0-73-powerpc64-emb=3.13.0-7
 sudo apt-get install --only-upgrade linux-image-3.13.0-73-powerpc-e500mc=3.13.0-73.116 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-73-generic-lpae=3.13.0-73.116 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-73-lowlatency=3.13.0-73.116 -y
-sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-83.127 -y
-sudo apt-get install --only-upgrade linux-doc=3.13.0-83.127 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-83.127 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.13.0-83.127 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-83.127 -y
+sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-85.129 -y
+sudo apt-get install --only-upgrade linux-doc=3.13.0-85.129 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-85.129 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.13.0-85.129 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-85.129 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-73-generic=3.13.0-73.116 -y

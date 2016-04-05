@@ -3,7 +3,7 @@
 # Security fix for USN-2930-1
 #
 # Security announcement date: 2016-03-14 00:00:00 UTC
-# Script generation date:     2016-03-21 19:04:12 UTC
+# Script generation date:     2016-04-05 18:04:32 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -38,13 +38,13 @@
 # Last versions recommanded by security team:
 #   - linux-image-4.2.0-34-powerpc64-emb:4.2.0-34.39
 #   - linux-image-4.2.0-34-lowlatency:4.2.0-34.39
-#   - linux-source-4.2.0:4.2.0-34.39
-#   - linux-doc:4.2.0-34.39
+#   - linux-source-4.2.0:4.2.0-35.40
+#   - linux-doc:4.2.0-35.40
 #   - linux-headers-4.2.0-34:4.2.0-34.39
-#   - linux-libc-dev:4.2.0-34.39
-#   - linux-tools-common:4.2.0-34.39
+#   - linux-libc-dev:4.2.0-35.40
+#   - linux-tools-common:4.2.0-35.40
 #   - linux-tools-4.2.0-34:4.2.0-34.39
-#   - linux-cloud-tools-common:4.2.0-34.39
+#   - linux-cloud-tools-common:4.2.0-35.40
 #   - linux-cloud-tools-4.2.0-34:4.2.0-34.39
 #   - linux-image-4.2.0-34-generic:4.2.0-34.39
 #   - linux-image-extra-4.2.0-34-generic:4.2.0-34.39
