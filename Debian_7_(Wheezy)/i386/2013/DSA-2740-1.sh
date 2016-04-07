@@ -4,7 +4,7 @@
 # Security fix for DSA-2740-1
 #
 # Security announcement date: 2013-08-23 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:13 UTC
+# Script generation date:     2016-04-07 18:05:15 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - python-django:1.4.5-1+deb7u1
 #
 # Last versions recommanded by security team:
-#   - python-django:1.4.5-1+deb7u14
+#   - python-django:1.4.5-1+deb7u16
 #
 # CVE List:
 #   - CVE-2013-6044
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/DSA-2740-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.4.5-1+deb7u14 -y
+sudo apt-get install --only-upgrade python-django=1.4.5-1+deb7u16 -y
