@@ -4,7 +4,7 @@
 # Security fix for USN-1548-2
 #
 # Security announcement date: 2012-09-11 00:00:00 UTC
-# Script generation date:     2016-03-09 19:00:44 UTC
+# Script generation date:     2016-04-08 06:00:32 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox:15.0.1+build1-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:45.0+build2-0ubuntu0.12.04.1
+#   - firefox:45.0.1+build1-0ubuntu0.12.04.2
 #
 # CVE List:
 #   - CVE-2012-1970
@@ -51,4 +51,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-1548-2
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=45.0+build2-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade firefox=45.0.1+build1-0ubuntu0.12.04.2 -y
