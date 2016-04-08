@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0941
 #
 # Security announcement date: 2013-06-12 09:10:28 UTC
-# Script generation date:     2016-03-12 07:15:33 UTC
+# Script generation date:     2016-04-08 18:14:04 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - flash-plugin.i686:11.2.202.291-1.el6
 #
 # Last versions recommanded by security team:
-#   - flash-plugin.i686:11.2.202.577-1.el6_7
+#   - flash-plugin.i686:11.2.202.616-1.el6_7
 #
 # CVE List:
 #   - CVE-2013-3343
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2013:0941
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install flash-plugin.i686-11.2.202.577 -y 
+sudo yum install flash-plugin.i686-11.2.202.616 -y 
