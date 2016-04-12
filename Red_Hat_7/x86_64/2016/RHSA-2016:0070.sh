@@ -3,7 +3,7 @@
 # Security fix for RHSA-2016:0070
 #
 # Security announcement date: 2016-01-26 19:14:20 UTC
-# Script generation date:     2016-03-30 06:20:57 UTC
+# Script generation date:     2016-04-12 18:22:21 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -283,7 +283,7 @@
 #   - nss_wrapper-debuginfo.x86_64:1.0.3-1.el7
 #   - openvswitch.x86_64:2.4.0-2.el7_2
 #   - openvswitch-debuginfo.x86_64:2.4.0-2.el7_2
-#   - openvswitch-devel.x86_64:2.4.0-1.el7
+#   - openvswitch-devel.x86_64:2.4.0-2.el7_2
 #   - tuned-profiles-atomic-openshift-node.x86_64:3.1.1.6-1.git.0.b57e8bd.el7aos
 #
 # CVE List:

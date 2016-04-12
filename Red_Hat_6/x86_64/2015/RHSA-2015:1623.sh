@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1623
 #
 # Security announcement date: 2015-08-13 17:12:50 UTC
-# Script generation date:     2016-03-23 07:16:37 UTC
+# Script generation date:     2016-04-12 18:21:38 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -35,24 +35,24 @@
 #   - kernel-abi-whitelists.noarch:2.6.32-573.22.1.el6
 #   - kernel-doc.noarch:2.6.32-573.22.1.el6
 #   - kernel-firmware.noarch:2.6.32-573.22.1.el6
-#   - kernel.x86_64:2.6.32-573.22.1.el6
-#   - kernel-debug.x86_64:2.6.32-573.22.1.el6
-#   - kernel-debug-debuginfo.x86_64:2.6.32-573.22.1.el6
-#   - kernel-debug-devel.x86_64:2.6.32-573.22.1.el6
-#   - kernel-debuginfo.x86_64:2.6.32-573.22.1.el6
-#   - kernel-debuginfo-common-x86_64.x86_64:2.6.32-573.22.1.el6
-#   - kernel-devel.x86_64:2.6.32-573.22.1.el6
-#   - kernel-headers.x86_64:2.6.32-573.22.1.el6
-#   - perf.x86_64:2.6.32-573.22.1.el6
-#   - perf-debuginfo.x86_64:2.6.32-573.22.1.el6
-#   - python-perf-debuginfo.x86_64:2.6.32-573.22.1.el6
-#   - python-perf.x86_64:2.6.32-573.22.1.el6
-#   - kernel-debug-debuginfo.i686:2.6.32-573.22.1.el6
-#   - kernel-debug-devel.i686:2.6.32-573.22.1.el6
-#   - kernel-debuginfo.i686:2.6.32-573.22.1.el6
-#   - kernel-debuginfo-common-i686.i686:2.6.32-573.22.1.el6
-#   - perf-debuginfo.i686:2.6.32-573.22.1.el6
-#   - python-perf-debuginfo.i686:2.6.32-573.22.1.el6
+#   - kernel.x86_64:2.6.32-504.46.1.el6
+#   - kernel-debug.x86_64:2.6.32-504.46.1.el6
+#   - kernel-debug-debuginfo.x86_64:2.6.32-504.46.1.el6
+#   - kernel-debug-devel.x86_64:2.6.32-504.46.1.el6
+#   - kernel-debuginfo.x86_64:2.6.32-504.46.1.el6
+#   - kernel-debuginfo-common-x86_64.x86_64:2.6.32-504.46.1.el6
+#   - kernel-devel.x86_64:2.6.32-504.46.1.el6
+#   - kernel-headers.x86_64:2.6.32-504.46.1.el6
+#   - perf.x86_64:2.6.32-504.46.1.el6
+#   - perf-debuginfo.x86_64:2.6.32-504.46.1.el6
+#   - python-perf-debuginfo.x86_64:2.6.32-504.46.1.el6
+#   - python-perf.x86_64:2.6.32-504.46.1.el6
+#   - kernel-debug-debuginfo.i686:2.6.32-504.46.1.el6
+#   - kernel-debug-devel.i686:2.6.32-504.46.1.el6
+#   - kernel-debuginfo.i686:2.6.32-504.46.1.el6
+#   - kernel-debuginfo-common-i686.i686:2.6.32-504.46.1.el6
+#   - perf-debuginfo.i686:2.6.32-504.46.1.el6
+#   - python-perf-debuginfo.i686:2.6.32-504.46.1.el6
 #
 # CVE List:
 #   - CVE-2015-5364
