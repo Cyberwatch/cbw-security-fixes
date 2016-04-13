@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:0560
 #
 # Security announcement date: 2011-05-19 12:20:52 UTC
-# Script generation date:     2016-02-04 19:14:57 UTC
+# Script generation date:     2016-04-13 06:12:53 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - sssd-debuginfo.i686:1.5.1-34.el6
 #
 # Last versions recommanded by security team:
-#   - sssd.x86_64:1.12.4-47.el6_7.4
-#   - sssd-client.x86_64:1.12.4-47.el6_7.4
-#   - sssd-debuginfo.x86_64:1.12.4-47.el6_7.4
-#   - sssd-tools.x86_64:1.12.4-47.el6_7.4
-#   - sssd-client.i686:1.12.4-47.el6_7.4
-#   - sssd-debuginfo.i686:1.12.4-47.el6_7.4
+#   - sssd.x86_64:1.9.2-129.el6_5.7
+#   - sssd-client.x86_64:1.9.2-129.el6_5.7
+#   - sssd-debuginfo.x86_64:1.9.2-129.el6_5.7
+#   - sssd-tools.x86_64:1.9.2-129.el6_5.7
+#   - sssd-client.i686:1.9.2-129.el6_5.7
+#   - sssd-debuginfo.i686:1.9.2-129.el6_5.7
 #
 # CVE List:
 #   - CVE-2010-4341
@@ -31,9 +31,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:0560
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install sssd.x86_64-1.12.4 -y 
-sudo yum install sssd-client.x86_64-1.12.4 -y 
-sudo yum install sssd-debuginfo.x86_64-1.12.4 -y 
-sudo yum install sssd-tools.x86_64-1.12.4 -y 
-sudo yum install sssd-client.i686-1.12.4 -y 
-sudo yum install sssd-debuginfo.i686-1.12.4 -y 
+sudo yum install sssd.x86_64-1.9.2 -y 
+sudo yum install sssd-client.x86_64-1.9.2 -y 
+sudo yum install sssd-debuginfo.x86_64-1.9.2 -y 
+sudo yum install sssd-tools.x86_64-1.9.2 -y 
+sudo yum install sssd-client.i686-1.9.2 -y 
+sudo yum install sssd-debuginfo.i686-1.9.2 -y 

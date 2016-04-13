@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:0188
 #
 # Security announcement date: 2013-01-23 21:51:50 UTC
-# Script generation date:     2016-02-04 19:16:27 UTC
+# Script generation date:     2016-04-13 06:14:22 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - ipa-server-selinux.x86_64:2.2.0-17.el6_3.1
 #
 # Last versions recommanded by security team:
-#   - ipa-client.x86_64:3.0.0-47.el6
-#   - ipa-debuginfo.x86_64:3.0.0-47.el6
-#   - ipa-python.x86_64:3.0.0-47.el6
-#   - ipa-admintools.x86_64:3.0.0-47.el6
-#   - ipa-server.x86_64:3.0.0-47.el6
-#   - ipa-server-selinux.x86_64:3.0.0-47.el6
+#   - ipa-client.x86_64:3.0.0-47.el6_7.2
+#   - ipa-debuginfo.x86_64:3.0.0-47.el6_7.2
+#   - ipa-python.x86_64:3.0.0-47.el6_7.2
+#   - ipa-admintools.x86_64:3.0.0-47.el6_7.2
+#   - ipa-server.x86_64:3.0.0-47.el6_7.2
+#   - ipa-server-selinux.x86_64:3.0.0-47.el6_7.2
 #
 # CVE List:
 #   - CVE-2012-5484

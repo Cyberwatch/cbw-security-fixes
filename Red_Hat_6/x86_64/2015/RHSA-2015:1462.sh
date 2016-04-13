@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1462
 #
 # Security announcement date: 2015-07-22 06:44:58 UTC
-# Script generation date:     2016-02-04 19:19:29 UTC
+# Script generation date:     2016-04-13 06:17:21 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -18,13 +18,13 @@
 #   - ipa-server-trust-ad.x86_64:3.0.0-47.el6
 #
 # Last versions recommanded by security team:
-#   - ipa-client.x86_64:3.0.0-47.el6
-#   - ipa-debuginfo.x86_64:3.0.0-47.el6
-#   - ipa-python.x86_64:3.0.0-47.el6
-#   - ipa-admintools.x86_64:3.0.0-47.el6
-#   - ipa-server.x86_64:3.0.0-47.el6
-#   - ipa-server-selinux.x86_64:3.0.0-47.el6
-#   - ipa-server-trust-ad.x86_64:3.0.0-47.el6
+#   - ipa-client.x86_64:3.0.0-47.el6_7.2
+#   - ipa-debuginfo.x86_64:3.0.0-47.el6_7.2
+#   - ipa-python.x86_64:3.0.0-47.el6_7.2
+#   - ipa-admintools.x86_64:3.0.0-47.el6_7.2
+#   - ipa-server.x86_64:3.0.0-47.el6_7.2
+#   - ipa-server-selinux.x86_64:3.0.0-47.el6_7.2
+#   - ipa-server-trust-ad.x86_64:3.0.0-47.el6_7.2
 #
 # CVE List:
 #   - CVE-2010-5312

@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1317
 #
 # Security announcement date: 2014-10-02 19:27:13 UTC
-# Script generation date:     2016-02-04 19:18:18 UTC
+# Script generation date:     2016-04-13 06:16:15 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -543,11 +543,11 @@
 #   - libdnet-debuginfo.x86_64:1.12-11.el6cf
 #   - libdnet-devel.x86_64:1.12-11.el6cf
 #   - libdnet-progs.x86_64:1.12-11.el6cf
-#   - libipa_hbac.x86_64:1.12.4-47.el6_7.4
-#   - libipa_hbac-devel.x86_64:1.12.4-47.el6_7.4
-#   - libipa_hbac-python.x86_64:1.12.4-47.el6_7.4
-#   - libsss_idmap.x86_64:1.12.4-47.el6_7.4
-#   - libsss_idmap-devel.x86_64:1.12.4-47.el6_7.4
+#   - libipa_hbac.x86_64:1.9.2-129.el6_5.7
+#   - libipa_hbac-devel.x86_64:1.9.2-129.el6_5.7
+#   - libipa_hbac-python.x86_64:1.9.2-129.el6_5.7
+#   - libsss_idmap.x86_64:1.9.2-129.el6_5.7
+#   - libsss_idmap-devel.x86_64:1.9.2-129.el6_5.7
 #   - libsss_nss_idmap.x86_64:1.12.4-47.el6_7.4
 #   - libsss_nss_idmap-devel.x86_64:1.12.4-47.el6_7.4
 #   - libsss_nss_idmap-python.x86_64:1.12.4-47.el6_7.4
@@ -604,19 +604,19 @@
 #   - ruby193-rubygem-selenium-webdriver-debuginfo.x86_64:2.32.1-2.el6cf
 #   - ruby193-rubygem-thin.x86_64:1.3.1-5.el6cf
 #   - ruby193-rubygem-thin-debuginfo.x86_64:1.3.1-5.el6cf
-#   - sssd.x86_64:1.12.4-47.el6_7.4
+#   - sssd.x86_64:1.9.2-129.el6_5.7
 #   - sssd-ad.x86_64:1.12.4-47.el6_7.4
-#   - sssd-client.x86_64:1.12.4-47.el6_7.4
+#   - sssd-client.x86_64:1.9.2-129.el6_5.7
 #   - sssd-common.x86_64:1.12.4-47.el6_7.4
 #   - sssd-common-pac.x86_64:1.12.4-47.el6_7.4
 #   - sssd-dbus.x86_64:1.12.4-47.el6_7.4
-#   - sssd-debuginfo.x86_64:1.12.4-47.el6_7.4
+#   - sssd-debuginfo.x86_64:1.9.2-129.el6_5.7
 #   - sssd-ipa.x86_64:1.12.4-47.el6_7.4
 #   - sssd-krb5.x86_64:1.12.4-47.el6_7.4
 #   - sssd-krb5-common.x86_64:1.12.4-47.el6_7.4
 #   - sssd-ldap.x86_64:1.12.4-47.el6_7.4
 #   - sssd-proxy.x86_64:1.12.4-47.el6_7.4
-#   - sssd-tools.x86_64:1.12.4-47.el6_7.4
+#   - sssd-tools.x86_64:1.9.2-129.el6_5.7
 #
 # CVE List:
 #   - CVE-2014-0140
@@ -855,11 +855,11 @@ sudo yum install libdnet.x86_64-1.12 -y
 sudo yum install libdnet-debuginfo.x86_64-1.12 -y 
 sudo yum install libdnet-devel.x86_64-1.12 -y 
 sudo yum install libdnet-progs.x86_64-1.12 -y 
-sudo yum install libipa_hbac.x86_64-1.12.4 -y 
-sudo yum install libipa_hbac-devel.x86_64-1.12.4 -y 
-sudo yum install libipa_hbac-python.x86_64-1.12.4 -y 
-sudo yum install libsss_idmap.x86_64-1.12.4 -y 
-sudo yum install libsss_idmap-devel.x86_64-1.12.4 -y 
+sudo yum install libipa_hbac.x86_64-1.9.2 -y 
+sudo yum install libipa_hbac-devel.x86_64-1.9.2 -y 
+sudo yum install libipa_hbac-python.x86_64-1.9.2 -y 
+sudo yum install libsss_idmap.x86_64-1.9.2 -y 
+sudo yum install libsss_idmap-devel.x86_64-1.9.2 -y 
 sudo yum install libsss_nss_idmap.x86_64-1.12.4 -y 
 sudo yum install libsss_nss_idmap-devel.x86_64-1.12.4 -y 
 sudo yum install libsss_nss_idmap-python.x86_64-1.12.4 -y 
@@ -916,16 +916,16 @@ sudo yum install ruby193-rubygem-selenium-webdriver.x86_64-2.32.1 -y
 sudo yum install ruby193-rubygem-selenium-webdriver-debuginfo.x86_64-2.32.1 -y 
 sudo yum install ruby193-rubygem-thin.x86_64-1.3.1 -y 
 sudo yum install ruby193-rubygem-thin-debuginfo.x86_64-1.3.1 -y 
-sudo yum install sssd.x86_64-1.12.4 -y 
+sudo yum install sssd.x86_64-1.9.2 -y 
 sudo yum install sssd-ad.x86_64-1.12.4 -y 
-sudo yum install sssd-client.x86_64-1.12.4 -y 
+sudo yum install sssd-client.x86_64-1.9.2 -y 
 sudo yum install sssd-common.x86_64-1.12.4 -y 
 sudo yum install sssd-common-pac.x86_64-1.12.4 -y 
 sudo yum install sssd-dbus.x86_64-1.12.4 -y 
-sudo yum install sssd-debuginfo.x86_64-1.12.4 -y 
+sudo yum install sssd-debuginfo.x86_64-1.9.2 -y 
 sudo yum install sssd-ipa.x86_64-1.12.4 -y 
 sudo yum install sssd-krb5.x86_64-1.12.4 -y 
 sudo yum install sssd-krb5-common.x86_64-1.12.4 -y 
 sudo yum install sssd-ldap.x86_64-1.12.4 -y 
 sudo yum install sssd-proxy.x86_64-1.12.4 -y 
-sudo yum install sssd-tools.x86_64-1.12.4 -y 
+sudo yum install sssd-tools.x86_64-1.9.2 -y 

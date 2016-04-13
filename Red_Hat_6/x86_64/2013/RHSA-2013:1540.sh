@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:1540
 #
 # Security announcement date: 2013-11-21 04:11:01 UTC
-# Script generation date:     2016-02-04 19:17:11 UTC
+# Script generation date:     2016-04-13 06:15:11 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -142,8 +142,8 @@
 #   - evolution-debuginfo.x86_64:2.32.3-30.el6
 #   - evolution-exchange.x86_64:2.32.3-16.el6
 #   - evolution-exchange-debuginfo.x86_64:2.32.3-16.el6
-#   - evolution-mapi.x86_64:0.32.2-12.el6
-#   - evolution-mapi-debuginfo.x86_64:0.32.2-12.el6
+#   - evolution-mapi.x86_64:0.28.3-8.el6_2
+#   - evolution-mapi-debuginfo.x86_64:0.28.3-8.el6_2
 #   - gnome-panel.x86_64:2.30.2-15.el6
 #   - gnome-panel-debuginfo.x86_64:2.30.2-15.el6
 #   - gnome-panel-libs.x86_64:2.30.2-15.el6
@@ -161,8 +161,8 @@
 #   - libpurple.x86_64:2.7.9-27.el6
 #   - nautilus-sendto.x86_64:2.28.2-4.el6
 #   - nautilus-sendto-debuginfo.x86_64:2.28.2-4.el6
-#   - openchange.x86_64:1.0-6.el6
-#   - openchange-debuginfo.x86_64:1.0-6.el6
+#   - openchange.x86_64:1.0-7.el6_7
+#   - openchange-debuginfo.x86_64:1.0-7.el6_7
 #   - pidgin.x86_64:2.7.9-27.el6
 #   - pidgin-debuginfo.x86_64:2.7.9-27.el6
 #   - planner.x86_64:0.14.4-10.el6
@@ -177,7 +177,7 @@
 #   - control-center-devel.x86_64:2.28.1-39.el6
 #   - evolution-data-server-devel.x86_64:2.32.3-18.el6
 #   - evolution-devel.x86_64:2.32.3-30.el6
-#   - evolution-mapi-devel.x86_64:0.32.2-12.el6
+#   - evolution-mapi-devel.x86_64:0.28.3-8.el6_2
 #   - evolution-perl.x86_64:2.32.3-30.el6
 #   - evolution-pst.x86_64:2.32.3-30.el6
 #   - evolution-spamassassin.x86_64:2.32.3-30.el6
@@ -199,9 +199,9 @@
 #   - libpurple-perl.x86_64:2.7.9-27.el6
 #   - libpurple-tcl.x86_64:2.7.9-27.el6
 #   - nautilus-sendto-devel.x86_64:2.28.2-4.el6
-#   - openchange-client.x86_64:1.0-6.el6
-#   - openchange-devel.x86_64:1.0-6.el6
-#   - openchange-devel-docs.x86_64:1.0-6.el6
+#   - openchange-client.x86_64:1.0-7.el6_7
+#   - openchange-devel.x86_64:1.0-7.el6_7
+#   - openchange-devel-docs.x86_64:1.0-7.el6_7
 #   - pidgin-devel.x86_64:2.7.9-27.el6
 #   - pidgin-docs.x86_64:2.7.9-27.el6
 #   - pidgin-perl.x86_64:2.7.9-27.el6
@@ -266,8 +266,8 @@ sudo yum install evolution-data-server-debuginfo.x86_64-2.32.3 -y
 sudo yum install evolution-debuginfo.x86_64-2.32.3 -y 
 sudo yum install evolution-exchange.x86_64-2.32.3 -y 
 sudo yum install evolution-exchange-debuginfo.x86_64-2.32.3 -y 
-sudo yum install evolution-mapi.x86_64-0.32.2 -y 
-sudo yum install evolution-mapi-debuginfo.x86_64-0.32.2 -y 
+sudo yum install evolution-mapi.x86_64-0.28.3 -y 
+sudo yum install evolution-mapi-debuginfo.x86_64-0.28.3 -y 
 sudo yum install gnome-panel.x86_64-2.30.2 -y 
 sudo yum install gnome-panel-debuginfo.x86_64-2.30.2 -y 
 sudo yum install gnome-panel-libs.x86_64-2.30.2 -y 
@@ -301,7 +301,7 @@ sudo yum install evolution-devel-docs.noarch-2.32.3 -y
 sudo yum install control-center-devel.x86_64-2.28.1 -y 
 sudo yum install evolution-data-server-devel.x86_64-2.32.3 -y 
 sudo yum install evolution-devel.x86_64-2.32.3 -y 
-sudo yum install evolution-mapi-devel.x86_64-0.32.2 -y 
+sudo yum install evolution-mapi-devel.x86_64-0.28.3 -y 
 sudo yum install evolution-perl.x86_64-2.32.3 -y 
 sudo yum install evolution-pst.x86_64-2.32.3 -y 
 sudo yum install evolution-spamassassin.x86_64-2.32.3 -y 

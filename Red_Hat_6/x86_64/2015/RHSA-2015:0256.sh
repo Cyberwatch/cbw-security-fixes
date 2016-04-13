@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:0256
 #
 # Security announcement date: 2015-02-23 19:51:51 UTC
-# Script generation date:     2016-03-15 19:17:19 UTC
+# Script generation date:     2016-04-13 06:16:50 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -25,20 +25,20 @@
 #   - samba-winbind-krb5-locator.x86_64:3.6.509-169.6.el6rhs
 #
 # Last versions recommanded by security team:
-#   - libsmbclient.x86_64:3.6.23-25.el6_7
-#   - libsmbclient-devel.x86_64:3.6.23-25.el6_7
-#   - samba.x86_64:3.6.23-25.el6_7
-#   - samba-client.x86_64:3.6.23-25.el6_7
-#   - samba-common.x86_64:3.6.23-25.el6_7
-#   - samba-debuginfo.x86_64:3.6.23-25.el6_7
-#   - samba-doc.x86_64:3.6.23-25.el6_7
-#   - samba-domainjoin-gui.x86_64:3.6.23-25.el6_7
-#   - samba-glusterfs.x86_64:3.6.23-25.el6_7
-#   - samba-swat.x86_64:3.6.23-25.el6_7
-#   - samba-winbind.x86_64:3.6.23-25.el6_7
-#   - samba-winbind-clients.x86_64:3.6.23-25.el6_7
-#   - samba-winbind-devel.x86_64:3.6.23-25.el6_7
-#   - samba-winbind-krb5-locator.x86_64:3.6.23-25.el6_7
+#   - libsmbclient.x86_64:4.2.11-2.el6rhs
+#   - libsmbclient-devel.x86_64:4.2.11-2.el6rhs
+#   - samba.x86_64:4.2.11-2.el6rhs
+#   - samba-client.x86_64:4.2.11-2.el6rhs
+#   - samba-common.x86_64:3.6.23-30.el6_5
+#   - samba-debuginfo.x86_64:4.2.11-2.el6rhs
+#   - samba-doc.x86_64:3.6.23-30.el6_5
+#   - samba-domainjoin-gui.x86_64:3.6.23-30.el6_5
+#   - samba-glusterfs.x86_64:3.6.23-30.el6_6
+#   - samba-swat.x86_64:3.6.23-30.el6_5
+#   - samba-winbind.x86_64:4.2.11-2.el6rhs
+#   - samba-winbind-clients.x86_64:4.2.11-2.el6rhs
+#   - samba-winbind-devel.x86_64:3.6.23-30.el6_5
+#   - samba-winbind-krb5-locator.x86_64:4.2.11-2.el6rhs
 #
 # CVE List:
 #   - CVE-2015-0240
@@ -47,17 +47,17 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:0256
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install libsmbclient.x86_64-3.6.23 -y 
-sudo yum install libsmbclient-devel.x86_64-3.6.23 -y 
-sudo yum install samba.x86_64-3.6.23 -y 
-sudo yum install samba-client.x86_64-3.6.23 -y 
+sudo yum install libsmbclient.x86_64-4.2.11 -y 
+sudo yum install libsmbclient-devel.x86_64-4.2.11 -y 
+sudo yum install samba.x86_64-4.2.11 -y 
+sudo yum install samba-client.x86_64-4.2.11 -y 
 sudo yum install samba-common.x86_64-3.6.23 -y 
-sudo yum install samba-debuginfo.x86_64-3.6.23 -y 
+sudo yum install samba-debuginfo.x86_64-4.2.11 -y 
 sudo yum install samba-doc.x86_64-3.6.23 -y 
 sudo yum install samba-domainjoin-gui.x86_64-3.6.23 -y 
 sudo yum install samba-glusterfs.x86_64-3.6.23 -y 
 sudo yum install samba-swat.x86_64-3.6.23 -y 
-sudo yum install samba-winbind.x86_64-3.6.23 -y 
-sudo yum install samba-winbind-clients.x86_64-3.6.23 -y 
+sudo yum install samba-winbind.x86_64-4.2.11 -y 
+sudo yum install samba-winbind-clients.x86_64-4.2.11 -y 
 sudo yum install samba-winbind-devel.x86_64-3.6.23 -y 
-sudo yum install samba-winbind-krb5-locator.x86_64-3.6.23 -y 
+sudo yum install samba-winbind-krb5-locator.x86_64-4.2.11 -y 

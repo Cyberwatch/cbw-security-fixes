@@ -3,7 +3,7 @@
 # Security fix for RHSA-2009:1585
 #
 # Security announcement date: 2009-11-16 15:52:55 UTC
-# Script generation date:     2016-02-04 19:14:09 UTC
+# Script generation date:     2016-04-13 06:11:59 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -27,21 +27,21 @@
 #   - tdb-tools.x86_64:1.1.2-46.el5
 #
 # Last versions recommanded by security team:
-#   - libsmbclient.x86_64:3.0.33-3.40.el5_10
-#   - libsmbclient-devel.x86_64:3.0.33-3.40.el5_10
+#   - libsmbclient.x86_64:3.0.33-3.40.el5_9
+#   - libsmbclient-devel.x86_64:3.0.33-3.40.el5_9
 #   - libtalloc.x86_64:1.2.0-52.el5_5.2
 #   - libtalloc-devel.x86_64:1.2.0-52.el5_5.2
 #   - libtdb.x86_64:1.1.2-52.el5_5.2
 #   - libtdb-devel.x86_64:1.1.2-52.el5_5.2
-#   - samba3x.x86_64:3.6.6-0.131.el5_9
-#   - samba3x-client.x86_64:3.6.6-0.131.el5_9
-#   - samba3x-common.x86_64:3.6.6-0.131.el5_9
-#   - samba3x-debuginfo.x86_64:3.6.6-0.131.el5_9
-#   - samba3x-doc.x86_64:3.6.6-0.131.el5_9
-#   - samba3x-domainjoin-gui.x86_64:3.6.6-0.131.el5_9
-#   - samba3x-swat.x86_64:3.6.6-0.131.el5_9
-#   - samba3x-winbind.x86_64:3.6.6-0.131.el5_9
-#   - samba3x-winbind-devel.x86_64:3.6.6-0.131.el5_9
+#   - samba3x.x86_64:3.6.23-12.el5_9
+#   - samba3x-client.x86_64:3.6.23-12.el5_9
+#   - samba3x-common.x86_64:3.6.23-12.el5_9
+#   - samba3x-debuginfo.x86_64:3.6.23-12.el5_9
+#   - samba3x-doc.x86_64:3.6.23-12.el5_9
+#   - samba3x-domainjoin-gui.x86_64:3.6.23-12.el5_9
+#   - samba3x-swat.x86_64:3.6.23-12.el5_9
+#   - samba3x-winbind.x86_64:3.6.23-12.el5_9
+#   - samba3x-winbind-devel.x86_64:3.6.23-12.el5_9
 #   - tdb-tools.x86_64:1.1.2-52.el5_5.2
 #
 # CVE List:
@@ -60,13 +60,13 @@ sudo yum install libtalloc.x86_64-1.2.0 -y
 sudo yum install libtalloc-devel.x86_64-1.2.0 -y 
 sudo yum install libtdb.x86_64-1.1.2 -y 
 sudo yum install libtdb-devel.x86_64-1.1.2 -y 
-sudo yum install samba3x.x86_64-3.6.6 -y 
-sudo yum install samba3x-client.x86_64-3.6.6 -y 
-sudo yum install samba3x-common.x86_64-3.6.6 -y 
-sudo yum install samba3x-debuginfo.x86_64-3.6.6 -y 
-sudo yum install samba3x-doc.x86_64-3.6.6 -y 
-sudo yum install samba3x-domainjoin-gui.x86_64-3.6.6 -y 
-sudo yum install samba3x-swat.x86_64-3.6.6 -y 
-sudo yum install samba3x-winbind.x86_64-3.6.6 -y 
-sudo yum install samba3x-winbind-devel.x86_64-3.6.6 -y 
+sudo yum install samba3x.x86_64-3.6.23 -y 
+sudo yum install samba3x-client.x86_64-3.6.23 -y 
+sudo yum install samba3x-common.x86_64-3.6.23 -y 
+sudo yum install samba3x-debuginfo.x86_64-3.6.23 -y 
+sudo yum install samba3x-doc.x86_64-3.6.23 -y 
+sudo yum install samba3x-domainjoin-gui.x86_64-3.6.23 -y 
+sudo yum install samba3x-swat.x86_64-3.6.23 -y 
+sudo yum install samba3x-winbind.x86_64-3.6.23 -y 
+sudo yum install samba3x-winbind-devel.x86_64-3.6.23 -y 
 sudo yum install tdb-tools.x86_64-1.1.2 -y 

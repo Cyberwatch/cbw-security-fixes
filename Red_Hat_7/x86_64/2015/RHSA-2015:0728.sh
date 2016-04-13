@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:0728
 #
 # Security announcement date: 2015-03-26 17:08:51 UTC
-# Script generation date:     2016-02-04 19:19:03 UTC
+# Script generation date:     2016-04-13 06:16:57 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -19,12 +19,12 @@
 #   - slapi-nis-debuginfo.x86_64:0.54-3.el7_1
 #
 # Last versions recommanded by security team:
-#   - ipa-client.x86_64:4.1.0-18.el7_1.3
-#   - ipa-debuginfo.x86_64:4.1.0-18.el7_1.3
-#   - ipa-python.x86_64:4.1.0-18.el7_1.3
-#   - ipa-admintools.x86_64:4.1.0-18.el7_1.3
-#   - ipa-server.x86_64:4.1.0-18.el7_1.3
-#   - ipa-server-trust-ad.x86_64:4.1.0-18.el7_1.3
+#   - ipa-client.x86_64:4.1.0-18.el7_1.6
+#   - ipa-debuginfo.x86_64:4.1.0-18.el7_1.6
+#   - ipa-python.x86_64:4.1.0-18.el7_1.6
+#   - ipa-admintools.x86_64:4.1.0-18.el7_1.6
+#   - ipa-server.x86_64:4.1.0-18.el7_1.6
+#   - ipa-server-trust-ad.x86_64:4.1.0-18.el7_1.6
 #   - slapi-nis.x86_64:0.54-3.el7_1
 #   - slapi-nis-debuginfo.x86_64:0.54-3.el7_1
 #

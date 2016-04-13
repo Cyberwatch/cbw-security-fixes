@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:1219
 #
 # Security announcement date: 2011-08-29 17:48:25 UTC
-# Script generation date:     2016-02-04 19:15:22 UTC
+# Script generation date:     2016-04-13 06:13:12 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -22,17 +22,17 @@
 #   - libsmbclient-devel.i386:3.0.33-3.29.el5_7.4
 #
 # Last versions recommanded by security team:
-#   - libsmbclient.x86_64:3.0.33-3.40.el5_10
-#   - samba.x86_64:3.0.33-3.40.el5_10
-#   - samba-client.x86_64:3.0.33-3.40.el5_10
-#   - samba-common.x86_64:3.0.33-3.40.el5_10
-#   - samba-debuginfo.x86_64:3.0.33-3.40.el5_10
-#   - samba-swat.x86_64:3.0.33-3.40.el5_10
-#   - libsmbclient-devel.x86_64:3.0.33-3.40.el5_10
-#   - libsmbclient.i386:3.0.33-3.40.el5_10
-#   - samba-common.i386:3.0.33-3.40.el5_10
-#   - samba-debuginfo.i386:3.0.33-3.40.el5_10
-#   - libsmbclient-devel.i386:3.0.33-3.40.el5_10
+#   - libsmbclient.x86_64:3.0.33-3.40.el5_9
+#   - samba.x86_64:3.0.33-3.40.el5_9
+#   - samba-client.x86_64:3.0.33-3.40.el5_9
+#   - samba-common.x86_64:3.0.33-3.40.el5_9
+#   - samba-debuginfo.x86_64:3.0.33-3.40.el5_9
+#   - samba-swat.x86_64:3.0.33-3.40.el5_9
+#   - libsmbclient-devel.x86_64:3.0.33-3.40.el5_9
+#   - libsmbclient.i386:3.0.33-3.40.el5_9
+#   - samba-common.i386:3.0.33-3.40.el5_9
+#   - samba-debuginfo.i386:3.0.33-3.40.el5_9
+#   - libsmbclient-devel.i386:3.0.33-3.40.el5_9
 #
 # CVE List:
 #   - CVE-2010-0547

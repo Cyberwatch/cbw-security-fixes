@@ -3,7 +3,7 @@
 # Security fix for RHSA-2010:0697
 #
 # Security announcement date: 2010-09-14 22:10:30 UTC
-# Script generation date:     2016-02-04 19:14:29 UTC
+# Script generation date:     2016-04-13 06:12:22 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -44,39 +44,39 @@
 #   - samba-debuginfo.i386:3.0.33-3.15.el5_4.3
 #
 # Last versions recommanded by security team:
-#   - samba.x86_64:3.0.33-3.40.el5_10
-#   - samba-client.x86_64:3.0.33-3.40.el5_10
-#   - samba-common.x86_64:3.0.33-3.40.el5_10
-#   - samba-debuginfo.x86_64:3.0.33-3.40.el5_10
-#   - samba-swat.x86_64:3.0.33-3.40.el5_10
-#   - libsmbclient.x86_64:3.0.33-3.40.el5_10
-#   - libsmbclient-devel.x86_64:3.0.33-3.40.el5_10
-#   - samba.x86_64:3.0.33-3.40.el5_10
-#   - samba-client.x86_64:3.0.33-3.40.el5_10
-#   - samba-common.x86_64:3.0.33-3.40.el5_10
-#   - samba-debuginfo.x86_64:3.0.33-3.40.el5_10
-#   - samba-swat.x86_64:3.0.33-3.40.el5_10
-#   - samba.x86_64:3.0.33-3.40.el5_10
-#   - samba-client.x86_64:3.0.33-3.40.el5_10
-#   - samba-common.x86_64:3.0.33-3.40.el5_10
-#   - samba-debuginfo.x86_64:3.0.33-3.40.el5_10
-#   - samba-swat.x86_64:3.0.33-3.40.el5_10
-#   - samba.x86_64:3.0.33-3.40.el5_10
-#   - samba-client.x86_64:3.0.33-3.40.el5_10
-#   - samba-common.x86_64:3.0.33-3.40.el5_10
-#   - samba-debuginfo.x86_64:3.0.33-3.40.el5_10
-#   - samba-swat.x86_64:3.0.33-3.40.el5_10
+#   - samba.x86_64:3.0.33-3.40.el5_9
+#   - samba-client.x86_64:3.0.33-3.40.el5_9
+#   - samba-common.x86_64:3.0.33-3.40.el5_9
+#   - samba-debuginfo.x86_64:3.0.33-3.40.el5_9
+#   - samba-swat.x86_64:3.0.33-3.40.el5_9
+#   - libsmbclient.x86_64:3.0.33-3.40.el5_9
+#   - libsmbclient-devel.x86_64:3.0.33-3.40.el5_9
+#   - samba.x86_64:3.0.33-3.40.el5_9
+#   - samba-client.x86_64:3.0.33-3.40.el5_9
+#   - samba-common.x86_64:3.0.33-3.40.el5_9
+#   - samba-debuginfo.x86_64:3.0.33-3.40.el5_9
+#   - samba-swat.x86_64:3.0.33-3.40.el5_9
+#   - samba.x86_64:3.0.33-3.40.el5_9
+#   - samba-client.x86_64:3.0.33-3.40.el5_9
+#   - samba-common.x86_64:3.0.33-3.40.el5_9
+#   - samba-debuginfo.x86_64:3.0.33-3.40.el5_9
+#   - samba-swat.x86_64:3.0.33-3.40.el5_9
+#   - samba.x86_64:3.0.33-3.40.el5_9
+#   - samba-client.x86_64:3.0.33-3.40.el5_9
+#   - samba-common.x86_64:3.0.33-3.40.el5_9
+#   - samba-debuginfo.x86_64:3.0.33-3.40.el5_9
+#   - samba-swat.x86_64:3.0.33-3.40.el5_9
 #   - samba.i386:3.0.9-1.3E.18
-#   - samba-common.i386:3.0.33-3.40.el5_10
-#   - samba-debuginfo.i386:3.0.33-3.40.el5_10
-#   - libsmbclient.i386:3.0.33-3.40.el5_10
-#   - libsmbclient-devel.i386:3.0.33-3.40.el5_10
-#   - samba-common.i386:3.0.33-3.40.el5_10
-#   - samba-debuginfo.i386:3.0.33-3.40.el5_10
-#   - samba-common.i386:3.0.33-3.40.el5_10
-#   - samba-debuginfo.i386:3.0.33-3.40.el5_10
-#   - samba-common.i386:3.0.33-3.40.el5_10
-#   - samba-debuginfo.i386:3.0.33-3.40.el5_10
+#   - samba-common.i386:3.0.33-3.40.el5_9
+#   - samba-debuginfo.i386:3.0.33-3.40.el5_9
+#   - libsmbclient.i386:3.0.33-3.40.el5_9
+#   - libsmbclient-devel.i386:3.0.33-3.40.el5_9
+#   - samba-common.i386:3.0.33-3.40.el5_9
+#   - samba-debuginfo.i386:3.0.33-3.40.el5_9
+#   - samba-common.i386:3.0.33-3.40.el5_9
+#   - samba-debuginfo.i386:3.0.33-3.40.el5_9
+#   - samba-common.i386:3.0.33-3.40.el5_9
+#   - samba-debuginfo.i386:3.0.33-3.40.el5_9
 #
 # CVE List:
 #   - CVE-2010-3069

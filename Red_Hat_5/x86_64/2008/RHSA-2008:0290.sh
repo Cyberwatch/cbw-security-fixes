@@ -3,7 +3,7 @@
 # Security fix for RHSA-2008:0290
 #
 # Security announcement date: 2008-05-28 11:30:04 UTC
-# Script generation date:     2016-02-04 19:13:34 UTC
+# Script generation date:     2016-04-13 06:11:19 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -18,13 +18,13 @@
 #   - samba-debuginfo.i386:3.0.28-1.el5_2.1
 #
 # Last versions recommanded by security team:
-#   - samba.x86_64:3.0.33-3.40.el5_10
-#   - samba-client.x86_64:3.0.33-3.40.el5_10
-#   - samba-common.x86_64:3.0.33-3.40.el5_10
-#   - samba-debuginfo.x86_64:3.0.33-3.40.el5_10
-#   - samba-swat.x86_64:3.0.33-3.40.el5_10
-#   - samba-common.i386:3.0.33-3.40.el5_10
-#   - samba-debuginfo.i386:3.0.33-3.40.el5_10
+#   - samba.x86_64:3.0.33-3.40.el5_9
+#   - samba-client.x86_64:3.0.33-3.40.el5_9
+#   - samba-common.x86_64:3.0.33-3.40.el5_9
+#   - samba-debuginfo.x86_64:3.0.33-3.40.el5_9
+#   - samba-swat.x86_64:3.0.33-3.40.el5_9
+#   - samba-common.i386:3.0.33-3.40.el5_9
+#   - samba-debuginfo.i386:3.0.33-3.40.el5_9
 #
 # CVE List:
 #   - CVE-2008-1105

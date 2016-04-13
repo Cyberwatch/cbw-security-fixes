@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1495
 #
 # Security announcement date: 2015-07-29 05:44:17 UTC
-# Script generation date:     2016-02-04 19:19:31 UTC
+# Script generation date:     2016-04-13 06:17:24 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -265,9 +265,9 @@
 #   - libqb.x86_64:0.17.1-1.el6
 #   - libqb-debuginfo.x86_64:0.17.1-1.el6
 #   - libqb-devel.x86_64:0.17.1-1.el6
-#   - libtalloc.x86_64:2.1.1-4.el6rhs
-#   - libtalloc-debuginfo.x86_64:2.1.1-4.el6rhs
-#   - libtalloc-devel.x86_64:2.1.1-4.el6rhs
+#   - libtalloc.x86_64:2.1.5-1.el6_7
+#   - libtalloc-debuginfo.x86_64:2.1.5-1.el6_7
+#   - libtalloc-devel.x86_64:2.1.5-1.el6_7
 #   - libvirt-debuginfo.x86_64:0.10.2-54.el6
 #   - libvirt-lock-sanlock.x86_64:0.10.2-54.el6
 #   - modcluster.x86_64:0.16.2-31.el6
@@ -289,8 +289,8 @@
 #   - pacemaker-remote.x86_64:1.1.12-8.el6
 #   - pcs.x86_64:0.9.139-9.el6_7.1
 #   - pcs-debuginfo.x86_64:0.9.139-9.el6_7.1
-#   - pytalloc.x86_64:2.1.1-4.el6rhs
-#   - pytalloc-devel.x86_64:2.1.1-4.el6rhs
+#   - pytalloc.x86_64:2.1.5-1.el6_7
+#   - pytalloc-devel.x86_64:2.1.5-1.el6_7
 #   - python-clufter.x86_64:0.11.2-1.el6
 #   - python-gluster.x86_64:3.7.1-16.el6
 #   - python-greenlet.x86_64:0.4.2-1.el6
@@ -429,9 +429,9 @@ sudo yum install gstatus-debuginfo.x86_64-0.65 -y
 sudo yum install libqb.x86_64-0.17.1 -y 
 sudo yum install libqb-debuginfo.x86_64-0.17.1 -y 
 sudo yum install libqb-devel.x86_64-0.17.1 -y 
-sudo yum install libtalloc.x86_64-2.1.1 -y 
-sudo yum install libtalloc-debuginfo.x86_64-2.1.1 -y 
-sudo yum install libtalloc-devel.x86_64-2.1.1 -y 
+sudo yum install libtalloc.x86_64-2.1.5 -y 
+sudo yum install libtalloc-debuginfo.x86_64-2.1.5 -y 
+sudo yum install libtalloc-devel.x86_64-2.1.5 -y 
 sudo yum install libvirt-debuginfo.x86_64-0.10.2 -y 
 sudo yum install libvirt-lock-sanlock.x86_64-0.10.2 -y 
 sudo yum install modcluster.x86_64-0.16.2 -y 
@@ -453,8 +453,8 @@ sudo yum install pacemaker-libs-devel.x86_64-1.1.12 -y
 sudo yum install pacemaker-remote.x86_64-1.1.12 -y 
 sudo yum install pcs.x86_64-0.9.139 -y 
 sudo yum install pcs-debuginfo.x86_64-0.9.139 -y 
-sudo yum install pytalloc.x86_64-2.1.1 -y 
-sudo yum install pytalloc-devel.x86_64-2.1.1 -y 
+sudo yum install pytalloc.x86_64-2.1.5 -y 
+sudo yum install pytalloc-devel.x86_64-2.1.5 -y 
 sudo yum install python-clufter.x86_64-0.11.2 -y 
 sudo yum install python-gluster.x86_64-3.7.1 -y 
 sudo yum install python-greenlet.x86_64-0.4.2 -y 

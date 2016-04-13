@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:1221
 #
 # Security announcement date: 2011-08-29 17:49:28 UTC
-# Script generation date:     2016-03-15 19:13:53 UTC
+# Script generation date:     2016-04-13 06:13:12 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -34,25 +34,25 @@
 # Last versions recommanded by security team:
 #   - cifs-utils.x86_64:4.8.1-10.el6
 #   - cifs-utils-debuginfo.x86_64:4.8.1-10.el6
-#   - libsmbclient.x86_64:3.6.23-25.el6_7
-#   - samba-client.x86_64:3.6.23-25.el6_7
-#   - samba-common.x86_64:3.6.23-25.el6_7
-#   - samba-debuginfo.x86_64:3.6.23-25.el6_7
-#   - samba-winbind.x86_64:3.6.23-25.el6_7
-#   - samba-winbind-clients.x86_64:3.6.23-25.el6_7
-#   - libsmbclient-devel.x86_64:3.6.23-25.el6_7
-#   - samba.x86_64:3.6.23-25.el6_7
-#   - samba-doc.x86_64:3.6.23-25.el6_7
-#   - samba-domainjoin-gui.x86_64:3.6.23-25.el6_7
-#   - samba-swat.x86_64:3.6.23-25.el6_7
-#   - samba-winbind-devel.x86_64:3.6.23-25.el6_7
-#   - samba-winbind-krb5-locator.x86_64:3.6.23-25.el6_7
-#   - libsmbclient.i686:3.6.23-25.el6_7
-#   - samba-common.i686:3.6.23-25.el6_7
-#   - samba-debuginfo.i686:3.6.23-25.el6_7
-#   - samba-winbind-clients.i686:3.6.23-25.el6_7
-#   - libsmbclient-devel.i686:3.6.23-25.el6_7
-#   - samba-winbind-devel.i686:3.6.23-25.el6_7
+#   - libsmbclient.x86_64:4.2.11-2.el6rhs
+#   - samba-client.x86_64:4.2.11-2.el6rhs
+#   - samba-common.x86_64:3.6.23-30.el6_5
+#   - samba-debuginfo.x86_64:4.2.11-2.el6rhs
+#   - samba-winbind.x86_64:4.2.11-2.el6rhs
+#   - samba-winbind-clients.x86_64:4.2.11-2.el6rhs
+#   - libsmbclient-devel.x86_64:4.2.11-2.el6rhs
+#   - samba.x86_64:4.2.11-2.el6rhs
+#   - samba-doc.x86_64:3.6.23-30.el6_5
+#   - samba-domainjoin-gui.x86_64:3.6.23-30.el6_5
+#   - samba-swat.x86_64:3.6.23-30.el6_5
+#   - samba-winbind-devel.x86_64:3.6.23-30.el6_5
+#   - samba-winbind-krb5-locator.x86_64:4.2.11-2.el6rhs
+#   - libsmbclient.i686:3.6.23-30.el6_5
+#   - samba-common.i686:3.6.23-30.el6_5
+#   - samba-debuginfo.i686:3.6.23-30.el6_5
+#   - samba-winbind-clients.i686:3.6.23-30.el6_5
+#   - libsmbclient-devel.i686:3.6.23-30.el6_5
+#   - samba-winbind-devel.i686:3.6.23-30.el6_5
 #
 # CVE List:
 #   - CVE-2011-1678
@@ -67,19 +67,19 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install cifs-utils.x86_64-4.8.1 -y 
 sudo yum install cifs-utils-debuginfo.x86_64-4.8.1 -y 
-sudo yum install libsmbclient.x86_64-3.6.23 -y 
-sudo yum install samba-client.x86_64-3.6.23 -y 
+sudo yum install libsmbclient.x86_64-4.2.11 -y 
+sudo yum install samba-client.x86_64-4.2.11 -y 
 sudo yum install samba-common.x86_64-3.6.23 -y 
-sudo yum install samba-debuginfo.x86_64-3.6.23 -y 
-sudo yum install samba-winbind.x86_64-3.6.23 -y 
-sudo yum install samba-winbind-clients.x86_64-3.6.23 -y 
-sudo yum install libsmbclient-devel.x86_64-3.6.23 -y 
-sudo yum install samba.x86_64-3.6.23 -y 
+sudo yum install samba-debuginfo.x86_64-4.2.11 -y 
+sudo yum install samba-winbind.x86_64-4.2.11 -y 
+sudo yum install samba-winbind-clients.x86_64-4.2.11 -y 
+sudo yum install libsmbclient-devel.x86_64-4.2.11 -y 
+sudo yum install samba.x86_64-4.2.11 -y 
 sudo yum install samba-doc.x86_64-3.6.23 -y 
 sudo yum install samba-domainjoin-gui.x86_64-3.6.23 -y 
 sudo yum install samba-swat.x86_64-3.6.23 -y 
 sudo yum install samba-winbind-devel.x86_64-3.6.23 -y 
-sudo yum install samba-winbind-krb5-locator.x86_64-3.6.23 -y 
+sudo yum install samba-winbind-krb5-locator.x86_64-4.2.11 -y 
 sudo yum install libsmbclient.i686-3.6.23 -y 
 sudo yum install samba-common.i686-3.6.23 -y 
 sudo yum install samba-debuginfo.i686-3.6.23 -y 
