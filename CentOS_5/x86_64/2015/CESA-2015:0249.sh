@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:0249
 #
 # Security announcement date: 2015-02-23 14:18:15 UTC
-# Script generation date:     2016-02-04 19:12:45 UTC
+# Script generation date:     2016-04-14 06:14:26 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -21,16 +21,16 @@
 #   - samba3x-winbind-devel.i386:3.6.23-9.el5_11
 #
 # Last versions recommanded by security team:
-#   - samba3x.x86_64:3.6.23-9.el5_11
-#   - samba3x-client.x86_64:3.6.23-9.el5_11
-#   - samba3x-common.x86_64:3.6.23-9.el5_11
-#   - samba3x-doc.x86_64:3.6.23-9.el5_11
-#   - samba3x-domainjoin-gui.x86_64:3.6.23-9.el5_11
-#   - samba3x-swat.x86_64:3.6.23-9.el5_11
-#   - samba3x-winbind.x86_64:3.6.23-9.el5_11
-#   - samba3x-winbind-devel.x86_64:3.6.23-9.el5_11
-#   - samba3x-winbind.i386:3.6.23-9.el5_11
-#   - samba3x-winbind-devel.i386:3.6.23-9.el5_11
+#   - samba3x.x86_64:3.6.23-12.el5_11
+#   - samba3x-client.x86_64:3.6.23-12.el5_11
+#   - samba3x-common.x86_64:3.6.23-12.el5_11
+#   - samba3x-doc.x86_64:3.6.23-12.el5_11
+#   - samba3x-domainjoin-gui.x86_64:3.6.23-12.el5_11
+#   - samba3x-swat.x86_64:3.6.23-12.el5_11
+#   - samba3x-winbind.x86_64:3.6.23-12.el5_11
+#   - samba3x-winbind-devel.x86_64:3.6.23-12.el5_11
+#   - samba3x-winbind.i386:3.6.23-12.el5_11
+#   - samba3x-winbind-devel.i386:3.6.23-12.el5_11
 #
 # CVE List:
 #   - CVE-2015-0240

@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:0442
 #
 # Security announcement date: 2015-03-17 13:28:21 UTC
-# Script generation date:     2016-02-04 19:12:47 UTC
+# Script generation date:     2016-04-14 06:14:28 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - ipa-server-trust-ad.x86_64:4.1.0-18.el7.centos
 #
 # Last versions recommanded by security team:
-#   - ipa-admintools.x86_64:4.1.0-18.el7.centos.3
-#   - ipa-client.x86_64:4.1.0-18.el7.centos.3
-#   - ipa-python.x86_64:4.1.0-18.el7.centos.3
-#   - ipa-server.x86_64:4.1.0-18.el7.centos.3
-#   - ipa-server-trust-ad.x86_64:4.1.0-18.el7.centos.3
+#   - ipa-admintools.x86_64:4.2.0-15.0.1.el7.centos.6.1
+#   - ipa-client.x86_64:4.2.0-15.0.1.el7.centos.6.1
+#   - ipa-python.x86_64:4.2.0-15.0.1.el7.centos.6.1
+#   - ipa-server.x86_64:4.2.0-15.0.1.el7.centos.6.1
+#   - ipa-server-trust-ad.x86_64:4.2.0-15.0.1.el7.centos.6.1
 #
 # CVE List:
 #   - CVE-2010-5312
@@ -30,8 +30,8 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2015:0442
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install ipa-admintools.x86_64-4.1.0 -y 
-sudo yum install ipa-client.x86_64-4.1.0 -y 
-sudo yum install ipa-python.x86_64-4.1.0 -y 
-sudo yum install ipa-server.x86_64-4.1.0 -y 
-sudo yum install ipa-server-trust-ad.x86_64-4.1.0 -y 
+sudo yum install ipa-admintools.x86_64-4.2.0 -y 
+sudo yum install ipa-client.x86_64-4.2.0 -y 
+sudo yum install ipa-python.x86_64-4.2.0 -y 
+sudo yum install ipa-server.x86_64-4.2.0 -y 
+sudo yum install ipa-server-trust-ad.x86_64-4.2.0 -y 

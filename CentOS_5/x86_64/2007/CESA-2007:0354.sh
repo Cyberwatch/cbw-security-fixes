@@ -3,7 +3,7 @@
 # Security fix for CESA-2007:0354
 #
 # Security announcement date: 2007-05-14 22:53:53 UTC
-# Script generation date:     2016-02-04 19:09:53 UTC
+# Script generation date:     2016-04-14 06:11:53 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - samba-swat.i386:2.2.12-1.21as.6
 #
 # Last versions recommanded by security team:
-#   - samba.x86_64:3.0.33-3.40.el5_10
-#   - samba-client.x86_64:3.0.33-3.40.el5_10
-#   - samba-common.x86_64:3.0.33-3.40.el5_10
-#   - samba-common.i386:3.0.33-3.40.el5_10
+#   - samba.x86_64:3.0.33-3.41.el5_11
+#   - samba-client.x86_64:3.0.33-3.41.el5_11
+#   - samba-common.x86_64:3.0.33-3.41.el5_11
+#   - samba-common.i386:3.0.33-3.41.el5_11
 #   - samba.i386:2.2.12-1.21as.6
 #   - samba-client.i386:2.2.12-1.21as.6
-#   - samba-common.i386:3.0.33-3.40.el5_10
+#   - samba-common.i386:3.0.33-3.41.el5_11
 #   - samba-swat.i386:2.2.12-1.21as.6
 #
 # CVE List:

@@ -3,7 +3,7 @@
 # Security fix for CESA-2009:1529
 #
 # Security announcement date: 2009-10-30 14:44:00 UTC
-# Script generation date:     2016-02-04 19:10:53 UTC
+# Script generation date:     2016-04-14 06:12:33 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - samba-common.i386:3.0.33-3.15.el5_4
 #
 # Last versions recommanded by security team:
-#   - samba.x86_64:3.0.33-3.40.el5_10
-#   - samba-client.x86_64:3.0.33-3.40.el5_10
-#   - samba-common.x86_64:3.0.33-3.40.el5_10
-#   - samba-swat.x86_64:3.0.33-3.40.el5_10
-#   - samba-common.i386:3.0.33-3.40.el5_10
+#   - samba.x86_64:3.0.33-3.41.el5_11
+#   - samba-client.x86_64:3.0.33-3.41.el5_11
+#   - samba-common.x86_64:3.0.33-3.41.el5_11
+#   - samba-swat.x86_64:3.0.33-3.41.el5_11
+#   - samba-common.i386:3.0.33-3.41.el5_11
 #
 # CVE List:
 #   - CVE-2009-2813

@@ -3,7 +3,7 @@
 # Security fix for CESA-2013:0528
 #
 # Security announcement date: 2013-03-09 00:40:51 UTC
-# Script generation date:     2016-02-04 19:11:58 UTC
+# Script generation date:     2016-04-14 06:13:37 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - ipa-server-trust-ad.x86_64:3.0.0-25.el6
 #
 # Last versions recommanded by security team:
-#   - ipa-admintools.x86_64:3.0.0-47.el6.centos
-#   - ipa-client.x86_64:3.0.0-47.el6.centos
-#   - ipa-python.x86_64:3.0.0-47.el6.centos
-#   - ipa-server.x86_64:3.0.0-47.el6.centos
-#   - ipa-server-selinux.x86_64:3.0.0-47.el6.centos
-#   - ipa-server-trust-ad.x86_64:3.0.0-47.el6.centos
+#   - ipa-admintools.x86_64:3.0.0-47.el6.centos.2
+#   - ipa-client.x86_64:3.0.0-47.el6.centos.2
+#   - ipa-python.x86_64:3.0.0-47.el6.centos.2
+#   - ipa-server.x86_64:3.0.0-47.el6.centos.2
+#   - ipa-server-selinux.x86_64:3.0.0-47.el6.centos.2
+#   - ipa-server-trust-ad.x86_64:3.0.0-47.el6.centos.2
 #
 # CVE List:
 #
