@@ -4,7 +4,7 @@
 # Security fix for USN-1434-1
 #
 # Security announcement date: 2012-05-01 00:00:00 UTC
-# Script generation date:     2016-03-08 19:00:11 UTC
+# Script generation date:     2016-04-18 18:00:15 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - samba:2:3.6.3-2ubuntu2.1
 #
 # Last versions recommanded by security team:
-#   - samba:2:3.6.3-2ubuntu2.17
+#   - samba:2:3.6.25-0ubuntu0.12.04.2
 #
 # CVE List:
 #   - CVE-2012-2111
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-1434-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade samba=2:3.6.3-2ubuntu2.17 -y
+sudo apt-get install --only-upgrade samba=2:3.6.25-0ubuntu0.12.04.2 -y
