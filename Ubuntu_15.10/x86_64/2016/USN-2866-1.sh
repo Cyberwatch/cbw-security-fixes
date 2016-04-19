@@ -3,7 +3,7 @@
 # Security fix for USN-2866-1
 #
 # Security announcement date: 2016-01-08 00:00:00 UTC
-# Script generation date:     2016-04-08 06:04:03 UTC
+# Script generation date:     2016-04-19 18:04:00 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -58,53 +58,53 @@
 #   - firefox-locale-km:43.0.4+build3-0ubuntu0.15.10.1
 #
 # Last versions recommanded by security team:
-#   - firefox:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-dbg:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-dev:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-af:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-an:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-ar:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-as:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-ast:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-az:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-be:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-bg:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-bn:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-br:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-bs:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-ca:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-cs:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-csb:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-cy:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-da:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-de:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-el:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-en:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-eo:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-es:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-et:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-eu:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-fa:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-fi:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-fr:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-fy:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-ga:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-gd:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-gl:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-gu:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-he:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-hi:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-hr:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-hsb:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-hu:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-hy:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-id:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-is:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-it:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-ja:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-ka:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-kk:45.0.1+build1-0ubuntu0.15.10.2
-#   - firefox-locale-km:45.0.1+build1-0ubuntu0.15.10.2
+#   - firefox:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-dbg:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-dev:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-af:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-an:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-ar:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-as:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-ast:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-az:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-be:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-bg:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-bn:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-br:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-bs:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-ca:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-cs:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-csb:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-cy:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-da:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-de:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-el:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-en:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-eo:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-es:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-et:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-eu:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-fa:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-fi:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-fr:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-fy:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-ga:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-gd:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-gl:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-gu:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-he:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-hi:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-hr:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-hsb:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-hu:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-hy:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-id:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-is:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-it:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-ja:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-ka:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-kk:45.0.2+build1-0ubuntu0.15.10.1
+#   - firefox-locale-km:45.0.2+build1-0ubuntu0.15.10.1
 #
 # CVE List:
 #   - CVE-2015-7575
