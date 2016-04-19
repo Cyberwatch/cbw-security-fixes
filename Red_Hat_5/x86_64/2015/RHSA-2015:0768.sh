@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:0768
 #
 # Security announcement date: 2015-04-01 07:04:00 UTC
-# Script generation date:     2016-04-01 06:16:16 UTC
+# Script generation date:     2016-04-19 18:18:51 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - redhat-release.x86_64:5Server-5.9.0.5
 #
 # Last versions recommanded by security team:
-#   - redhat-release.x86_64:5Server-5.11.0.3
+#   - redhat-release.x86_64:5Server-5.11.0.4
 #
 # CVE List:
 #

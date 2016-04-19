@@ -3,7 +3,7 @@
 # Security fix for RHSA-2013:1145
 #
 # Security announcement date: 2013-08-07 18:20:38 UTC
-# Script generation date:     2016-04-01 06:14:16 UTC
+# Script generation date:     2016-04-19 18:16:48 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -12,7 +12,7 @@
 #   - redhat-release.x86_64:5Server-5.6.0.9
 #
 # Last versions recommanded by security team:
-#   - redhat-release.x86_64:5Server-5.11.0.3
+#   - redhat-release.x86_64:5Server-5.11.0.4
 #
 # CVE List:
 #
