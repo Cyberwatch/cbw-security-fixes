@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1228
 #
 # Security announcement date: 2015-07-15 12:55:13 UTC
-# Script generation date:     2016-03-25 07:19:52 UTC
+# Script generation date:     2016-04-21 06:17:30 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -20,15 +20,15 @@
 #   - java-1.8.0-openjdk-javadoc.noarch:1.8.0.51-1.b16.ael7b_1
 #
 # Last versions recommanded by security team:
-#   - java-1.8.0-openjdk.x86_64:1.8.0.77-0.b03.el7_2
-#   - java-1.8.0-openjdk-debuginfo.x86_64:1.8.0.77-0.b03.el7_2
-#   - java-1.8.0-openjdk-headless.x86_64:1.8.0.77-0.b03.el7_2
-#   - java-1.8.0-openjdk-javadoc.noarch:1.8.0.77-0.b03.el7_2
-#   - java-1.8.0-openjdk-accessibility.x86_64:1.8.0.77-0.b03.el7_2
-#   - java-1.8.0-openjdk-demo.x86_64:1.8.0.77-0.b03.el7_2
-#   - java-1.8.0-openjdk-devel.x86_64:1.8.0.77-0.b03.el7_2
-#   - java-1.8.0-openjdk-src.x86_64:1.8.0.77-0.b03.el7_2
-#   - java-1.8.0-openjdk-javadoc.noarch:1.8.0.77-0.b03.el7_2
+#   - java-1.8.0-openjdk.x86_64:1.8.0.91-0.b14.el7_2
+#   - java-1.8.0-openjdk-debuginfo.x86_64:1.8.0.91-0.b14.el7_2
+#   - java-1.8.0-openjdk-headless.x86_64:1.8.0.91-0.b14.el7_2
+#   - java-1.8.0-openjdk-javadoc.noarch:1.8.0.91-0.b14.el7_2
+#   - java-1.8.0-openjdk-accessibility.x86_64:1.8.0.91-0.b14.el7_2
+#   - java-1.8.0-openjdk-demo.x86_64:1.8.0.91-0.b14.el7_2
+#   - java-1.8.0-openjdk-devel.x86_64:1.8.0.91-0.b14.el7_2
+#   - java-1.8.0-openjdk-src.x86_64:1.8.0.91-0.b14.el7_2
+#   - java-1.8.0-openjdk-javadoc.noarch:1.8.0.91-0.b14.el7_2
 #
 # CVE List:
 #   - CVE-2015-2590
@@ -53,12 +53,12 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2015:1228
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.8.0-openjdk.x86_64-1.8.0.77 -y 
-sudo yum install java-1.8.0-openjdk-debuginfo.x86_64-1.8.0.77 -y 
-sudo yum install java-1.8.0-openjdk-headless.x86_64-1.8.0.77 -y 
-sudo yum install java-1.8.0-openjdk-javadoc.noarch-1.8.0.77 -y 
-sudo yum install java-1.8.0-openjdk-accessibility.x86_64-1.8.0.77 -y 
-sudo yum install java-1.8.0-openjdk-demo.x86_64-1.8.0.77 -y 
-sudo yum install java-1.8.0-openjdk-devel.x86_64-1.8.0.77 -y 
-sudo yum install java-1.8.0-openjdk-src.x86_64-1.8.0.77 -y 
-sudo yum install java-1.8.0-openjdk-javadoc.noarch-1.8.0.77 -y 
+sudo yum install java-1.8.0-openjdk.x86_64-1.8.0.91 -y 
+sudo yum install java-1.8.0-openjdk-debuginfo.x86_64-1.8.0.91 -y 
+sudo yum install java-1.8.0-openjdk-headless.x86_64-1.8.0.91 -y 
+sudo yum install java-1.8.0-openjdk-javadoc.noarch-1.8.0.91 -y 
+sudo yum install java-1.8.0-openjdk-accessibility.x86_64-1.8.0.91 -y 
+sudo yum install java-1.8.0-openjdk-demo.x86_64-1.8.0.91 -y 
+sudo yum install java-1.8.0-openjdk-devel.x86_64-1.8.0.91 -y 
+sudo yum install java-1.8.0-openjdk-src.x86_64-1.8.0.91 -y 
+sudo yum install java-1.8.0-openjdk-javadoc.noarch-1.8.0.91 -y 
