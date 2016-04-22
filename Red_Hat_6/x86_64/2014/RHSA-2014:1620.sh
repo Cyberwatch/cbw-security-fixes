@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:1620
 #
 # Security announcement date: 2014-10-15 03:12:54 UTC
-# Script generation date:     2016-03-25 07:18:51 UTC
+# Script generation date:     2016-04-22 06:22:37 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - java-1.7.0-openjdk-src.x86_64:1.7.0.71-2.5.3.1.el6
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-openjdk.x86_64:1.7.0.99-2.6.5.0.el6_7
-#   - java-1.7.0-openjdk-debuginfo.x86_64:1.7.0.99-2.6.5.0.el6_7
-#   - java-1.7.0-openjdk-javadoc.noarch:1.7.0.99-2.6.5.0.el6_7
-#   - java-1.7.0-openjdk-demo.x86_64:1.7.0.99-2.6.5.0.el6_7
-#   - java-1.7.0-openjdk-devel.x86_64:1.7.0.99-2.6.5.0.el6_7
-#   - java-1.7.0-openjdk-src.x86_64:1.7.0.99-2.6.5.0.el6_7
+#   - java-1.7.0-openjdk.x86_64:1.7.0.101-2.6.6.1.el6_7
+#   - java-1.7.0-openjdk-debuginfo.x86_64:1.7.0.101-2.6.6.1.el6_7
+#   - java-1.7.0-openjdk-javadoc.noarch:1.7.0.101-2.6.6.1.el6_7
+#   - java-1.7.0-openjdk-demo.x86_64:1.7.0.101-2.6.6.1.el6_7
+#   - java-1.7.0-openjdk-devel.x86_64:1.7.0.101-2.6.6.1.el6_7
+#   - java-1.7.0-openjdk-src.x86_64:1.7.0.101-2.6.6.1.el6_7
 #
 # CVE List:
 #   - CVE-2014-6457
@@ -40,9 +40,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:1620
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.0-openjdk.x86_64-1.7.0.99 -y 
-sudo yum install java-1.7.0-openjdk-debuginfo.x86_64-1.7.0.99 -y 
-sudo yum install java-1.7.0-openjdk-javadoc.noarch-1.7.0.99 -y 
-sudo yum install java-1.7.0-openjdk-demo.x86_64-1.7.0.99 -y 
-sudo yum install java-1.7.0-openjdk-devel.x86_64-1.7.0.99 -y 
-sudo yum install java-1.7.0-openjdk-src.x86_64-1.7.0.99 -y 
+sudo yum install java-1.7.0-openjdk.x86_64-1.7.0.101 -y 
+sudo yum install java-1.7.0-openjdk-debuginfo.x86_64-1.7.0.101 -y 
+sudo yum install java-1.7.0-openjdk-javadoc.noarch-1.7.0.101 -y 
+sudo yum install java-1.7.0-openjdk-demo.x86_64-1.7.0.101 -y 
+sudo yum install java-1.7.0-openjdk-devel.x86_64-1.7.0.101 -y 
+sudo yum install java-1.7.0-openjdk-src.x86_64-1.7.0.101 -y 

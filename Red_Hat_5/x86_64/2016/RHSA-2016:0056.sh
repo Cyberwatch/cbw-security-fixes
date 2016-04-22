@@ -3,7 +3,7 @@
 # Security fix for RHSA-2016:0056
 #
 # Security announcement date: 2016-01-21 12:40:50 UTC
-# Script generation date:     2016-03-25 07:20:56 UTC
+# Script generation date:     2016-04-22 06:24:34 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - java-1.7.0-oracle-src.x86_64:1.7.0.95-1jpp.1.el5_11
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-oracle.x86_64:1.7.0.99-1jpp.1.el5_11
-#   - java-1.7.0-oracle-devel.x86_64:1.7.0.99-1jpp.1.el5_11
-#   - java-1.7.0-oracle-javafx.x86_64:1.7.0.99-1jpp.1.el5_11
-#   - java-1.7.0-oracle-jdbc.x86_64:1.7.0.99-1jpp.1.el5_11
-#   - java-1.7.0-oracle-plugin.x86_64:1.7.0.99-1jpp.1.el5_11
-#   - java-1.7.0-oracle-src.x86_64:1.7.0.99-1jpp.1.el5_11
+#   - java-1.7.0-oracle.x86_64:1.7.0.101-1jpp.1.el5_11
+#   - java-1.7.0-oracle-devel.x86_64:1.7.0.101-1jpp.1.el5_11
+#   - java-1.7.0-oracle-javafx.x86_64:1.7.0.101-1jpp.1.el5_11
+#   - java-1.7.0-oracle-jdbc.x86_64:1.7.0.101-1jpp.1.el5_11
+#   - java-1.7.0-oracle-plugin.x86_64:1.7.0.101-1jpp.1.el5_11
+#   - java-1.7.0-oracle-src.x86_64:1.7.0.101-1jpp.1.el5_11
 #
 # CVE List:
 #   - CVE-2015-7575
@@ -38,9 +38,9 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2016:0056
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.0-oracle.x86_64-1.7.0.99 -y 
-sudo yum install java-1.7.0-oracle-devel.x86_64-1.7.0.99 -y 
-sudo yum install java-1.7.0-oracle-javafx.x86_64-1.7.0.99 -y 
-sudo yum install java-1.7.0-oracle-jdbc.x86_64-1.7.0.99 -y 
-sudo yum install java-1.7.0-oracle-plugin.x86_64-1.7.0.99 -y 
-sudo yum install java-1.7.0-oracle-src.x86_64-1.7.0.99 -y 
+sudo yum install java-1.7.0-oracle.x86_64-1.7.0.101 -y 
+sudo yum install java-1.7.0-oracle-devel.x86_64-1.7.0.101 -y 
+sudo yum install java-1.7.0-oracle-javafx.x86_64-1.7.0.101 -y 
+sudo yum install java-1.7.0-oracle-jdbc.x86_64-1.7.0.101 -y 
+sudo yum install java-1.7.0-oracle-plugin.x86_64-1.7.0.101 -y 
+sudo yum install java-1.7.0-oracle-src.x86_64-1.7.0.101 -y 
