@@ -4,7 +4,7 @@
 # Security fix for USN-2674-1
 #
 # Security announcement date: 2015-07-21 00:00:00 UTC
-# Script generation date:     2016-03-21 19:02:47 UTC
+# Script generation date:     2016-04-22 06:03:17 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -22,16 +22,16 @@
 #   - mysql-client:5.5.44-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - mysql-server-5.5:5.5.47-0ubuntu0.14.04.1
-#   - libmysqlclient18:5.5.47-0ubuntu0.14.04.1
-#   - libmysqld-dev:5.5.47-0ubuntu0.14.04.1
-#   - libmysqlclient-dev:5.5.47-0ubuntu0.14.04.1
-#   - mysql-common:5.5.47-0ubuntu0.14.04.1
-#   - mysql-client-core-5.5:5.5.47-0ubuntu0.14.04.1
-#   - mysql-client-5.5:5.5.47-0ubuntu0.14.04.1
-#   - mysql-server-core-5.5:5.5.47-0ubuntu0.14.04.1
-#   - mysql-server:5.5.47-0ubuntu0.14.04.1
-#   - mysql-client:5.5.47-0ubuntu0.14.04.1
+#   - mysql-server-5.5:5.5.49-0ubuntu0.14.04.1
+#   - libmysqlclient18:5.5.49-0ubuntu0.14.04.1
+#   - libmysqld-dev:5.5.49-0ubuntu0.14.04.1
+#   - libmysqlclient-dev:5.5.49-0ubuntu0.14.04.1
+#   - mysql-common:5.5.49-0ubuntu0.14.04.1
+#   - mysql-client-core-5.5:5.5.49-0ubuntu0.14.04.1
+#   - mysql-client-5.5:5.5.49-0ubuntu0.14.04.1
+#   - mysql-server-core-5.5:5.5.49-0ubuntu0.14.04.1
+#   - mysql-server:5.5.49-0ubuntu0.14.04.1
+#   - mysql-client:5.5.49-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2015-2582
@@ -56,13 +56,13 @@
 #   - https://www.cyberwatch.fr/notices/USN-2674-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mysql-server-5.5=5.5.47-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade libmysqlclient18=5.5.47-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade libmysqld-dev=5.5.47-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade libmysqlclient-dev=5.5.47-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade mysql-common=5.5.47-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade mysql-client-core-5.5=5.5.47-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade mysql-client-5.5=5.5.47-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade mysql-server-core-5.5=5.5.47-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade mysql-server=5.5.47-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade mysql-client=5.5.47-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade mysql-server-5.5=5.5.49-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade libmysqlclient18=5.5.49-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade libmysqld-dev=5.5.49-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade libmysqlclient-dev=5.5.49-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade mysql-common=5.5.49-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade mysql-client-core-5.5=5.5.49-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade mysql-client-5.5=5.5.49-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade mysql-server-core-5.5=5.5.49-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade mysql-server=5.5.49-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade mysql-client=5.5.49-0ubuntu0.14.04.1 -y

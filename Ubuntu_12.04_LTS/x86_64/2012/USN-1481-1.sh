@@ -4,7 +4,7 @@
 # Security fix for USN-1481-1
 #
 # Security announcement date: 2012-06-19 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:22 UTC
+# Script generation date:     2016-04-22 06:00:23 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - php5:5.3.10-1ubuntu3.2
 #
 # Last versions recommanded by security team:
-#   - php5:5.3.10-1ubuntu3.21
+#   - php5:5.3.10-1ubuntu3.22
 #
 # CVE List:
 #   - CVE-2012-0781
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/notices/USN-1481-1
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.3.10-1ubuntu3.21 -y
+sudo apt-get install --only-upgrade php5=5.3.10-1ubuntu3.22 -y

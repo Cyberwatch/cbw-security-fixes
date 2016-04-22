@@ -3,7 +3,7 @@
 # Security fix for USN-2786-1
 #
 # Security announcement date: 2015-10-28 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:16 UTC
+# Script generation date:     2016-04-22 06:03:49 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -38,32 +38,32 @@
 #   - php5-fpm:5.6.11+dfsg-1ubuntu3.1
 #
 # Last versions recommanded by security team:
-#   - php5-cli:5.6.11+dfsg-1ubuntu3.1
-#   - php5:5.6.11+dfsg-1ubuntu3.1
-#   - php5-common:5.6.11+dfsg-1ubuntu3.1
-#   - libapache2-mod-php5:5.6.11+dfsg-1ubuntu3.1
-#   - php5-cgi:5.6.11+dfsg-1ubuntu3.1
+#   - php5-cli:5.6.11+dfsg-1ubuntu3.2
+#   - php5:5.6.11+dfsg-1ubuntu3.2
+#   - php5-common:5.6.11+dfsg-1ubuntu3.2
+#   - libapache2-mod-php5:5.6.11+dfsg-1ubuntu3.2
+#   - php5-cgi:5.6.11+dfsg-1ubuntu3.2
 #   - php5-fpm:5.6.11+dfsg-1ubuntu3.1
-#   - php5-dev:5.6.11+dfsg-1ubuntu3.1
-#   - php5-dbg:5.6.11+dfsg-1ubuntu3.1
-#   - php-pear:5.6.11+dfsg-1ubuntu3.1
-#   - php5-curl:5.6.11+dfsg-1ubuntu3.1
-#   - php5-gd:5.6.11+dfsg-1ubuntu3.1
-#   - php5-gmp:5.6.11+dfsg-1ubuntu3.1
-#   - php5-ldap:5.6.11+dfsg-1ubuntu3.1
-#   - php5-readline:5.6.11+dfsg-1ubuntu3.1
-#   - php5-mysql:5.6.11+dfsg-1ubuntu3.1
-#   - php5-odbc:5.6.11+dfsg-1ubuntu3.1
-#   - php5-pgsql:5.6.11+dfsg-1ubuntu3.1
-#   - php5-pspell:5.6.11+dfsg-1ubuntu3.1
-#   - php5-recode:5.6.11+dfsg-1ubuntu3.1
-#   - php5-snmp:5.6.11+dfsg-1ubuntu3.1
-#   - php5-sqlite:5.6.11+dfsg-1ubuntu3.1
-#   - php5-tidy:5.6.11+dfsg-1ubuntu3.1
-#   - php5-xmlrpc:5.6.11+dfsg-1ubuntu3.1
-#   - php5-xsl:5.6.11+dfsg-1ubuntu3.1
-#   - php5-cgi:5.6.11+dfsg-1ubuntu3.1
-#   - libapache2-mod-php5:5.6.11+dfsg-1ubuntu3.1
+#   - php5-dev:5.6.11+dfsg-1ubuntu3.2
+#   - php5-dbg:5.6.11+dfsg-1ubuntu3.2
+#   - php-pear:5.6.11+dfsg-1ubuntu3.2
+#   - php5-curl:5.6.11+dfsg-1ubuntu3.2
+#   - php5-gd:5.6.11+dfsg-1ubuntu3.2
+#   - php5-gmp:5.6.11+dfsg-1ubuntu3.2
+#   - php5-ldap:5.6.11+dfsg-1ubuntu3.2
+#   - php5-readline:5.6.11+dfsg-1ubuntu3.2
+#   - php5-mysql:5.6.11+dfsg-1ubuntu3.2
+#   - php5-odbc:5.6.11+dfsg-1ubuntu3.2
+#   - php5-pgsql:5.6.11+dfsg-1ubuntu3.2
+#   - php5-pspell:5.6.11+dfsg-1ubuntu3.2
+#   - php5-recode:5.6.11+dfsg-1ubuntu3.2
+#   - php5-snmp:5.6.11+dfsg-1ubuntu3.2
+#   - php5-sqlite:5.6.11+dfsg-1ubuntu3.2
+#   - php5-tidy:5.6.11+dfsg-1ubuntu3.2
+#   - php5-xmlrpc:5.6.11+dfsg-1ubuntu3.2
+#   - php5-xsl:5.6.11+dfsg-1ubuntu3.2
+#   - php5-cgi:5.6.11+dfsg-1ubuntu3.2
+#   - libapache2-mod-php5:5.6.11+dfsg-1ubuntu3.2
 #   - php5-fpm:5.6.11+dfsg-1ubuntu3.1
 #
 # CVE List:
