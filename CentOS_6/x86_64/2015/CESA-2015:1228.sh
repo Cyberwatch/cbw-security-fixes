@@ -3,7 +3,7 @@
 # Security fix for CESA-2015:1228
 #
 # Security announcement date: 2015-07-15 15:08:42 UTC
-# Script generation date:     2016-03-26 07:13:34 UTC
+# Script generation date:     2016-04-22 06:14:57 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -17,12 +17,12 @@
 #   - java-1.8.0-openjdk-src.x86_64:1.8.0.51-0.b16.el6_6
 #
 # Last versions recommanded by security team:
-#   - java-1.8.0-openjdk-javadoc.noarch:1.8.0.77-0.b03.el6_7
-#   - java-1.8.0-openjdk.x86_64:1.8.0.77-0.b03.el6_7
-#   - java-1.8.0-openjdk-demo.x86_64:1.8.0.77-0.b03.el6_7
-#   - java-1.8.0-openjdk-devel.x86_64:1.8.0.77-0.b03.el6_7
-#   - java-1.8.0-openjdk-headless.x86_64:1.8.0.77-0.b03.el6_7
-#   - java-1.8.0-openjdk-src.x86_64:1.8.0.77-0.b03.el6_7
+#   - java-1.8.0-openjdk-javadoc.noarch:1.8.0.91-0.b14.el6_7
+#   - java-1.8.0-openjdk.x86_64:1.8.0.91-0.b14.el6_7
+#   - java-1.8.0-openjdk-demo.x86_64:1.8.0.91-0.b14.el6_7
+#   - java-1.8.0-openjdk-devel.x86_64:1.8.0.91-0.b14.el6_7
+#   - java-1.8.0-openjdk-headless.x86_64:1.8.0.91-0.b14.el6_7
+#   - java-1.8.0-openjdk-src.x86_64:1.8.0.91-0.b14.el6_7
 #
 # CVE List:
 #   - CVE-2015-0383
@@ -47,9 +47,9 @@
 #   - https://www.cyberwatch.fr/notices/CESA-2015:1228
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.8.0-openjdk-javadoc.noarch-1.8.0.77 -y 
-sudo yum install java-1.8.0-openjdk.x86_64-1.8.0.77 -y 
-sudo yum install java-1.8.0-openjdk-demo.x86_64-1.8.0.77 -y 
-sudo yum install java-1.8.0-openjdk-devel.x86_64-1.8.0.77 -y 
-sudo yum install java-1.8.0-openjdk-headless.x86_64-1.8.0.77 -y 
-sudo yum install java-1.8.0-openjdk-src.x86_64-1.8.0.77 -y 
+sudo yum install java-1.8.0-openjdk-javadoc.noarch-1.8.0.91 -y 
+sudo yum install java-1.8.0-openjdk.x86_64-1.8.0.91 -y 
+sudo yum install java-1.8.0-openjdk-demo.x86_64-1.8.0.91 -y 
+sudo yum install java-1.8.0-openjdk-devel.x86_64-1.8.0.91 -y 
+sudo yum install java-1.8.0-openjdk-headless.x86_64-1.8.0.91 -y 
+sudo yum install java-1.8.0-openjdk-src.x86_64-1.8.0.91 -y 
