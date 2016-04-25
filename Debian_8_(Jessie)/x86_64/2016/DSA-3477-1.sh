@@ -4,7 +4,7 @@
 # Security fix for DSA-3477-1
 #
 # Security announcement date: 2016-02-14 00:00:00 UTC
-# Script generation date:     2016-03-21 19:07:33 UTC
+# Script generation date:     2016-04-25 18:07:04 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -22,6 +22,7 @@
 # CVE List:
 #   - CVE-2016-1523
 #   - CVE-2016-1526
+#   - CVE-2016-1969
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/DSA-3477-1

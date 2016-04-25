@@ -4,7 +4,7 @@
 # Security fix for DSA-3515-1
 #
 # Security announcement date: 2016-03-13 00:00:00 UTC
-# Script generation date:     2016-03-15 07:04:19 UTC
+# Script generation date:     2016-04-25 18:07:10 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -30,6 +30,7 @@
 #   - CVE-2016-2800
 #   - CVE-2016-2801
 #   - CVE-2016-2802
+#   - CVE-2016-1969
 #
 # More details:
 #   - https://www.cyberwatch.fr/notices/DSA-3515-1
