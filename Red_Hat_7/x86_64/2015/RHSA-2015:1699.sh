@@ -3,7 +3,7 @@
 # Security fix for RHSA-2015:1699
 #
 # Security announcement date: 2015-09-01 07:47:44 UTC
-# Script generation date:     2016-02-04 19:19:45 UTC
+# Script generation date:     2016-04-25 18:22:21 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -21,16 +21,16 @@
 #   - nss-softokn-freebl-devel.i686:3.16.2.3-13.el7_1
 #
 # Last versions recommanded by security team:
-#   - nss-softokn.x86_64:3.16.2.3-13.el7_1
-#   - nss-softokn-debuginfo.x86_64:3.16.2.3-13.el7_1
-#   - nss-softokn-freebl.x86_64:3.16.2.3-13.el7_1
-#   - nss-softokn-devel.x86_64:3.16.2.3-13.el7_1
-#   - nss-softokn-freebl-devel.x86_64:3.16.2.3-13.el7_1
-#   - nss-softokn.i686:3.16.2.3-13.el7_1
-#   - nss-softokn-debuginfo.i686:3.16.2.3-13.el7_1
-#   - nss-softokn-freebl.i686:3.16.2.3-13.el7_1
-#   - nss-softokn-devel.i686:3.16.2.3-13.el7_1
-#   - nss-softokn-freebl-devel.i686:3.16.2.3-13.el7_1
+#   - nss-softokn.x86_64:3.16.2.3-14.2.el7_2
+#   - nss-softokn-debuginfo.x86_64:3.16.2.3-14.2.el7_2
+#   - nss-softokn-freebl.x86_64:3.16.2.3-14.2.el7_2
+#   - nss-softokn-devel.x86_64:3.16.2.3-14.2.el7_2
+#   - nss-softokn-freebl-devel.x86_64:3.16.2.3-14.2.el7_2
+#   - nss-softokn.i686:3.16.2.3-14.2.el7_2
+#   - nss-softokn-debuginfo.i686:3.16.2.3-14.2.el7_2
+#   - nss-softokn-freebl.i686:3.16.2.3-14.2.el7_2
+#   - nss-softokn-devel.i686:3.16.2.3-14.2.el7_2
+#   - nss-softokn-freebl-devel.i686:3.16.2.3-14.2.el7_2
 #
 # CVE List:
 #   - CVE-2015-2730

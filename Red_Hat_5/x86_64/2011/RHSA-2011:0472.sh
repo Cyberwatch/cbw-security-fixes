@@ -3,7 +3,7 @@
 # Security fix for RHSA-2011:0472
 #
 # Security announcement date: 2011-04-29 03:23:11 UTC
-# Script generation date:     2016-03-09 07:20:31 UTC
+# Script generation date:     2016-04-25 18:17:21 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -20,15 +20,15 @@
 #   - nss-pkcs11-devel.i386:3.12.8-4.el5_6
 #
 # Last versions recommanded by security team:
-#   - nss.x86_64:3.19.1-4.el5_11
-#   - nss-debuginfo.x86_64:3.19.1-4.el5_11
-#   - nss-tools.x86_64:3.19.1-4.el5_11
-#   - nss-devel.x86_64:3.19.1-4.el5_11
-#   - nss-pkcs11-devel.x86_64:3.19.1-4.el5_11
-#   - nss.i386:3.19.1-4.el5_11
-#   - nss-debuginfo.i386:3.19.1-4.el5_11
-#   - nss-devel.i386:3.19.1-4.el5_11
-#   - nss-pkcs11-devel.i386:3.19.1-4.el5_11
+#   - nss.x86_64:3.21.0-6.el5_11
+#   - nss-debuginfo.x86_64:3.21.0-6.el5_11
+#   - nss-tools.x86_64:3.21.0-6.el5_11
+#   - nss-devel.x86_64:3.21.0-6.el5_11
+#   - nss-pkcs11-devel.x86_64:3.21.0-6.el5_11
+#   - nss.i386:3.21.0-6.el5_11
+#   - nss-debuginfo.i386:3.21.0-6.el5_11
+#   - nss-devel.i386:3.21.0-6.el5_11
+#   - nss-pkcs11-devel.i386:3.21.0-6.el5_11
 #
 # CVE List:
 #
@@ -36,12 +36,12 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2011:0472
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install nss.x86_64-3.19.1 -y 
-sudo yum install nss-debuginfo.x86_64-3.19.1 -y 
-sudo yum install nss-tools.x86_64-3.19.1 -y 
-sudo yum install nss-devel.x86_64-3.19.1 -y 
-sudo yum install nss-pkcs11-devel.x86_64-3.19.1 -y 
-sudo yum install nss.i386-3.19.1 -y 
-sudo yum install nss-debuginfo.i386-3.19.1 -y 
-sudo yum install nss-devel.i386-3.19.1 -y 
-sudo yum install nss-pkcs11-devel.i386-3.19.1 -y 
+sudo yum install nss.x86_64-3.21.0 -y 
+sudo yum install nss-debuginfo.x86_64-3.21.0 -y 
+sudo yum install nss-tools.x86_64-3.21.0 -y 
+sudo yum install nss-devel.x86_64-3.21.0 -y 
+sudo yum install nss-pkcs11-devel.x86_64-3.21.0 -y 
+sudo yum install nss.i386-3.21.0 -y 
+sudo yum install nss-debuginfo.i386-3.21.0 -y 
+sudo yum install nss-devel.i386-3.21.0 -y 
+sudo yum install nss-pkcs11-devel.i386-3.21.0 -y 

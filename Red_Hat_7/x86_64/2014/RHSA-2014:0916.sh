@@ -3,7 +3,7 @@
 # Security fix for RHSA-2014:0916
 #
 # Security announcement date: 2014-07-22 19:25:36 UTC
-# Script generation date:     2016-02-04 19:17:54 UTC
+# Script generation date:     2016-04-25 18:20:39 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -27,22 +27,22 @@
 #   - nss-pkcs11-devel.i686:3.15.4-7.el7_0
 #
 # Last versions recommanded by security team:
-#   - nspr.x86_64:4.10.8-2.el7_1
-#   - nspr-debuginfo.x86_64:4.10.8-2.el7_1
-#   - nss.x86_64:3.19.1-19.el7_2
-#   - nss-debuginfo.x86_64:3.19.1-19.el7_2
-#   - nss-sysinit.x86_64:3.19.1-19.el7_2
-#   - nss-tools.x86_64:3.19.1-19.el7_2
-#   - nspr-devel.x86_64:4.10.8-2.el7_1
-#   - nss-devel.x86_64:3.19.1-19.el7_2
-#   - nss-pkcs11-devel.x86_64:3.19.1-19.el7_2
-#   - nspr.i686:4.10.8-2.el7_1
-#   - nspr-debuginfo.i686:4.10.8-2.el7_1
-#   - nss.i686:3.19.1-19.el7_2
-#   - nss-debuginfo.i686:3.19.1-19.el7_2
-#   - nspr-devel.i686:4.10.8-2.el7_1
-#   - nss-devel.i686:3.19.1-19.el7_2
-#   - nss-pkcs11-devel.i686:3.19.1-19.el7_2
+#   - nspr.x86_64:4.11.0-1.el7_2
+#   - nspr-debuginfo.x86_64:4.11.0-1.el7_2
+#   - nss.x86_64:3.21.0-9.el7_2
+#   - nss-debuginfo.x86_64:3.21.0-9.el7_2
+#   - nss-sysinit.x86_64:3.21.0-9.el7_2
+#   - nss-tools.x86_64:3.21.0-9.el7_2
+#   - nspr-devel.x86_64:4.11.0-1.el7_2
+#   - nss-devel.x86_64:3.21.0-9.el7_2
+#   - nss-pkcs11-devel.x86_64:3.21.0-9.el7_2
+#   - nspr.i686:4.11.0-1.el7_2
+#   - nspr-debuginfo.i686:4.11.0-1.el7_2
+#   - nss.i686:3.21.0-9.el7_2
+#   - nss-debuginfo.i686:3.21.0-9.el7_2
+#   - nspr-devel.i686:4.11.0-1.el7_2
+#   - nss-devel.i686:3.21.0-9.el7_2
+#   - nss-pkcs11-devel.i686:3.21.0-9.el7_2
 #
 # CVE List:
 #   - CVE-2014-1544
@@ -51,19 +51,19 @@
 #   - https://www.cyberwatch.fr/notices/RHSA-2014:0916
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install nspr.x86_64-4.10.8 -y 
-sudo yum install nspr-debuginfo.x86_64-4.10.8 -y 
-sudo yum install nss.x86_64-3.19.1 -y 
-sudo yum install nss-debuginfo.x86_64-3.19.1 -y 
-sudo yum install nss-sysinit.x86_64-3.19.1 -y 
-sudo yum install nss-tools.x86_64-3.19.1 -y 
-sudo yum install nspr-devel.x86_64-4.10.8 -y 
-sudo yum install nss-devel.x86_64-3.19.1 -y 
-sudo yum install nss-pkcs11-devel.x86_64-3.19.1 -y 
-sudo yum install nspr.i686-4.10.8 -y 
-sudo yum install nspr-debuginfo.i686-4.10.8 -y 
-sudo yum install nss.i686-3.19.1 -y 
-sudo yum install nss-debuginfo.i686-3.19.1 -y 
-sudo yum install nspr-devel.i686-4.10.8 -y 
-sudo yum install nss-devel.i686-3.19.1 -y 
-sudo yum install nss-pkcs11-devel.i686-3.19.1 -y 
+sudo yum install nspr.x86_64-4.11.0 -y 
+sudo yum install nspr-debuginfo.x86_64-4.11.0 -y 
+sudo yum install nss.x86_64-3.21.0 -y 
+sudo yum install nss-debuginfo.x86_64-3.21.0 -y 
+sudo yum install nss-sysinit.x86_64-3.21.0 -y 
+sudo yum install nss-tools.x86_64-3.21.0 -y 
+sudo yum install nspr-devel.x86_64-4.11.0 -y 
+sudo yum install nss-devel.x86_64-3.21.0 -y 
+sudo yum install nss-pkcs11-devel.x86_64-3.21.0 -y 
+sudo yum install nspr.i686-4.11.0 -y 
+sudo yum install nspr-debuginfo.i686-4.11.0 -y 
+sudo yum install nss.i686-3.21.0 -y 
+sudo yum install nss-debuginfo.i686-3.21.0 -y 
+sudo yum install nspr-devel.i686-4.11.0 -y 
+sudo yum install nss-devel.i686-3.21.0 -y 
+sudo yum install nss-pkcs11-devel.i686-3.21.0 -y 
