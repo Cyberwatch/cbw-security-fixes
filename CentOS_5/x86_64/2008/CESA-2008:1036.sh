@@ -3,7 +3,7 @@
 # Security fix for CESA-2008:1036
 #
 # Security announcement date: 2008-12-23 16:04:04 UTC
-# Script generation date:     2016-03-10 07:14:44 UTC
+# Script generation date:     2016-04-26 06:12:22 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,10 +17,10 @@
 #
 # Last versions recommanded by security team:
 #   - firefox.x86_64:38.7.0-1.el5.centos
-#   - nspr.x86_64:4.10.8-2.el5_11
-#   - nspr-devel.x86_64:4.10.8-2.el5_11
-#   - nss.x86_64:3.19.1-4.el5_11
-#   - nss-devel.x86_64:3.19.1-4.el5_11
+#   - nspr.x86_64:4.11.0-1.el5_11
+#   - nspr-devel.x86_64:4.11.0-1.el5_11
+#   - nss.x86_64:3.21.0-6.el5_11
+#   - nss-devel.x86_64:3.21.0-6.el5_11
 #
 # CVE List:
 #   - CVE-2008-5500
@@ -40,7 +40,7 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install firefox.x86_64-38.7.0 -y 
-sudo yum install nspr.x86_64-4.10.8 -y 
-sudo yum install nspr-devel.x86_64-4.10.8 -y 
-sudo yum install nss.x86_64-3.19.1 -y 
-sudo yum install nss-devel.x86_64-3.19.1 -y 
+sudo yum install nspr.x86_64-4.11.0 -y 
+sudo yum install nspr-devel.x86_64-4.11.0 -y 
+sudo yum install nss.x86_64-3.21.0 -y 
+sudo yum install nss-devel.x86_64-3.21.0 -y 

@@ -3,7 +3,7 @@
 # Security fix for CESA-2008:0879
 #
 # Security announcement date: 2008-09-25 13:09:06 UTC
-# Script generation date:     2016-03-10 07:14:39 UTC
+# Script generation date:     2016-04-26 06:12:17 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -31,10 +31,10 @@
 #   - devhelp.x86_64:0.12-23.el5_9
 #   - devhelp-devel.x86_64:0.12-23.el5_9
 #   - firefox.x86_64:38.7.0-1.el5.centos
-#   - nss.x86_64:3.19.1-4.el5_11
-#   - nss-devel.x86_64:3.19.1-4.el5_11
-#   - nss-pkcs11-devel.x86_64:3.19.1-4.el5_11
-#   - nss-tools.x86_64:3.19.1-4.el5_11
+#   - nss.x86_64:3.21.0-6.el5_11
+#   - nss-devel.x86_64:3.21.0-6.el5_11
+#   - nss-pkcs11-devel.x86_64:3.21.0-6.el5_11
+#   - nss-tools.x86_64:3.21.0-6.el5_11
 #   - xulrunner.x86_64:17.0.10-1.el5_10
 #   - xulrunner-devel.x86_64:17.0.10-1.el5_10
 #   - xulrunner-devel-unstable.x86_64:1.9.0.18-1.el5_4
@@ -42,9 +42,9 @@
 #   - devhelp.i386:0.12-23.el5_9
 #   - devhelp-devel.i386:0.12-23.el5_9
 #   - firefox.i386:38.7.0-1.el5.centos
-#   - nss.i386:3.19.1-4.el5_11
-#   - nss-devel.i386:3.19.1-4.el5_11
-#   - nss-pkcs11-devel.i386:3.19.1-4.el5_11
+#   - nss.i386:3.21.0-6.el5_11
+#   - nss-devel.i386:3.21.0-6.el5_11
+#   - nss-pkcs11-devel.i386:3.21.0-6.el5_11
 #
 # CVE List:
 #   - CVE-2008-4063
@@ -65,10 +65,10 @@
 sudo yum install devhelp.x86_64-0.12 -y 
 sudo yum install devhelp-devel.x86_64-0.12 -y 
 sudo yum install firefox.x86_64-38.7.0 -y 
-sudo yum install nss.x86_64-3.19.1 -y 
-sudo yum install nss-devel.x86_64-3.19.1 -y 
-sudo yum install nss-pkcs11-devel.x86_64-3.19.1 -y 
-sudo yum install nss-tools.x86_64-3.19.1 -y 
+sudo yum install nss.x86_64-3.21.0 -y 
+sudo yum install nss-devel.x86_64-3.21.0 -y 
+sudo yum install nss-pkcs11-devel.x86_64-3.21.0 -y 
+sudo yum install nss-tools.x86_64-3.21.0 -y 
 sudo yum install xulrunner.x86_64-17.0.10 -y 
 sudo yum install xulrunner-devel.x86_64-17.0.10 -y 
 sudo yum install xulrunner-devel-unstable.x86_64-1.9.0.18 -y 
@@ -76,6 +76,6 @@ sudo yum install yelp.x86_64-2.16.0 -y
 sudo yum install devhelp.i386-0.12 -y 
 sudo yum install devhelp-devel.i386-0.12 -y 
 sudo yum install firefox.i386-38.7.0 -y 
-sudo yum install nss.i386-3.19.1 -y 
-sudo yum install nss-devel.i386-3.19.1 -y 
-sudo yum install nss-pkcs11-devel.i386-3.19.1 -y 
+sudo yum install nss.i386-3.21.0 -y 
+sudo yum install nss-devel.i386-3.21.0 -y 
+sudo yum install nss-pkcs11-devel.i386-3.21.0 -y 
