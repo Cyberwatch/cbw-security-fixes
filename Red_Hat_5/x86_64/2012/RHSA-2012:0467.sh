@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0467
 #
 # Security announcement date: 2012-04-10 21:19:01 UTC
-# Script generation date:     2016-02-04 19:15:50 UTC
+# Script generation date:     2016-05-12 18:10:44 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -43,7 +44,7 @@
 #   - CVE-2012-1144
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:0467
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install freetype.x86_64-2.2.1 -y 

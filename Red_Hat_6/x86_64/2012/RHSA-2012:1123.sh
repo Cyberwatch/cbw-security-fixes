@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1123
 #
 # Security announcement date: 2012-07-31 03:57:32 UTC
-# Script generation date:     2016-04-06 18:14:04 UTC
+# Script generation date:     2016-05-12 18:10:55 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -36,7 +37,7 @@
 #   - CVE-2012-3817
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1123
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install bind-debuginfo.x86_64-9.7.3 -y 

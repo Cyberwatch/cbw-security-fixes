@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1687
 #
 # Security announcement date: 2014-10-22 18:08:23 UTC
-# Script generation date:     2016-02-04 19:18:25 UTC
+# Script generation date:     2016-05-12 18:12:26 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -26,7 +27,7 @@
 #   - CVE-2014-3801
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1687
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openstack-heat-api.noarch-2013.2.4 -y 

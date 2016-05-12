@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1319
 #
 # Security announcement date: 2014-09-29 20:31:04 UTC
-# Script generation date:     2016-02-04 19:18:15 UTC
+# Script generation date:     2016-05-12 18:12:20 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -22,7 +23,7 @@
 #   - CVE-2013-4002
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1319
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install xerces-j2.noarch-2.11.0 -y 

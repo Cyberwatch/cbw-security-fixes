@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1375
 #
 # Security announcement date: 2012-10-18 16:59:06 UTC
-# Script generation date:     2016-02-04 19:16:16 UTC
+# Script generation date:     2016-05-12 18:11:02 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -21,7 +22,7 @@
 #   - CVE-2012-4423
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1375
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install rhev-hypervisor6.noarch-6.7 -y 

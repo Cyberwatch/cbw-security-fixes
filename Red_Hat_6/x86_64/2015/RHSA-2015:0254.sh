@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0254
 #
 # Security announcement date: 2015-02-23 19:50:35 UTC
-# Script generation date:     2016-04-13 06:16:50 UTC
+# Script generation date:     2016-05-12 18:12:45 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -130,7 +131,7 @@
 #   - CVE-2015-0240
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0254
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install samba-client.x86_64-4.2.11 -y 

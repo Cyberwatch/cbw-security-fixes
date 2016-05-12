@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0253
 #
 # Security announcement date: 2015-02-23 19:49:37 UTC
-# Script generation date:     2016-04-13 06:16:49 UTC
+# Script generation date:     2016-05-12 18:12:45 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -64,7 +65,7 @@
 #   - CVE-2015-0240
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0253
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install samba3x.x86_64-3.6.23 -y 

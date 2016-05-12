@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0427
 #
 # Security announcement date: 2012-03-27 23:05:58 UTC
-# Script generation date:     2016-02-04 19:15:49 UTC
+# Script generation date:     2016-05-12 18:10:43 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2012-1569
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:0427
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libtasn1.x86_64-2.3 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1261
 #
 # Security announcement date: 2012-09-13 17:21:40 UTC
-# Script generation date:     2016-02-04 19:16:11 UTC
+# Script generation date:     2016-05-12 18:10:58 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -34,7 +35,7 @@
 #   - CVE-2012-3524
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1261
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install dbus.x86_64-1.2.24 -y 

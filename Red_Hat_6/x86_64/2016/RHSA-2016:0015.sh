@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2016:0015
 #
 # Security announcement date: 2016-01-08 11:40:33 UTC
-# Script generation date:     2016-04-13 06:18:05 UTC
+# Script generation date:     2016-05-12 18:13:36 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -64,7 +65,7 @@
 #   - CVE-2015-7540
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2016:0015
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install samba-pidl.noarch-4.1.17 -y 

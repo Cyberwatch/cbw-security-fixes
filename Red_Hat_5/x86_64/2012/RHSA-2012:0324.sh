@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0324
 #
 # Security announcement date: 2012-02-21 22:36:31 UTC
-# Script generation date:     2016-02-04 19:15:46 UTC
+# Script generation date:     2016-05-12 18:10:41 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2012-0841
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:0324
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libxml2.x86_64-2.6.26 -y 

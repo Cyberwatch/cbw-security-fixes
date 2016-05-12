@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:1453
 #
 # Security announcement date: 2009-09-21 15:56:12 UTC
-# Script generation date:     2016-02-04 19:14:05 UTC
+# Script generation date:     2016-05-12 18:09:37 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -53,7 +54,7 @@
 #   - CVE-2009-3085
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2009:1453
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install finch.x86_64-2.6.6 -y 

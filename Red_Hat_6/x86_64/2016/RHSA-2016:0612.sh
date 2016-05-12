@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2016:0612
 #
 # Security announcement date: 2016-04-13 01:34:19 UTC
-# Script generation date:     2016-04-15 06:18:41 UTC
+# Script generation date:     2016-05-12 18:13:49 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -139,7 +140,7 @@
 #   - CVE-2016-2118
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2016:0612
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ipa-client.x86_64-3.0.0 -y 

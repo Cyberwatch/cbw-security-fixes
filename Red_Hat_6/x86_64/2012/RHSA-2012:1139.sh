@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1139
 #
 # Security announcement date: 2012-08-03 01:16:00 UTC
-# Script generation date:     2016-02-04 19:16:08 UTC
+# Script generation date:     2016-05-12 18:10:56 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -20,7 +21,7 @@
 #   - CVE-2012-3429
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1139
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install bind-dyndb-ldap.x86_64-1.1.0 -y 

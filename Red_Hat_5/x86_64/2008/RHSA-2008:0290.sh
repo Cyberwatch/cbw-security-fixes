@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2008:0290
 #
 # Security announcement date: 2008-05-28 11:30:04 UTC
-# Script generation date:     2016-04-13 06:11:19 UTC
+# Script generation date:     2016-05-12 18:09:18 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2008-1105
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2008:0290
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install samba.x86_64-3.0.33 -y 

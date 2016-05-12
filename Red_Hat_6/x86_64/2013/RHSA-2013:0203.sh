@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0203
 #
 # Security announcement date: 2013-01-29 05:09:06 UTC
-# Script generation date:     2016-02-04 19:16:31 UTC
+# Script generation date:     2016-05-12 18:11:13 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2013-0333
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0203
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install rubygem-activesupport.noarch-3.0.10 -y 

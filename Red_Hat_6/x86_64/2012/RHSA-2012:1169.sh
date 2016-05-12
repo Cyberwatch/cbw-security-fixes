@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1169
 #
 # Security announcement date: 2012-08-14 18:15:46 UTC
-# Script generation date:     2016-02-04 19:16:08 UTC
+# Script generation date:     2016-05-12 18:10:56 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -34,7 +35,7 @@
 #   - CVE-2012-3416
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1169
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install condor.x86_64-7.8.10 -y 

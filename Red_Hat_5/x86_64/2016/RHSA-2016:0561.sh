@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2016:0561
 #
 # Security announcement date: 2016-04-19 12:44:54 UTC
-# Script generation date:     2016-04-21 18:18:29 UTC
+# Script generation date:     2016-05-12 18:13:51 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -19,7 +20,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2016:0561
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install redhat-release.x86_64-5Server -y 

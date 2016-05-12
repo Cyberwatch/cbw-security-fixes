@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1507
 #
 # Security announcement date: 2014-10-14 05:05:39 UTC
-# Script generation date:     2016-02-04 19:18:22 UTC
+# Script generation date:     2016-05-12 18:12:24 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2012-0698
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1507
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install trousers.x86_64-0.3.13 -y 

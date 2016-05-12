@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1363
 #
 # Security announcement date: 2012-10-12 20:19:11 UTC
-# Script generation date:     2016-03-16 19:10:48 UTC
+# Script generation date:     2016-05-12 18:11:01 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -42,7 +43,7 @@
 #   - CVE-2012-5166
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1363
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install bind.x86_64-9.3.6 -y 

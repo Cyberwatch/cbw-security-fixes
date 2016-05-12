@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1044
 #
 # Security announcement date: 2013-07-11 01:47:59 UTC
-# Script generation date:     2016-02-04 19:16:55 UTC
+# Script generation date:     2016-05-12 18:11:29 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -20,7 +21,7 @@
 #   - CVE-2013-2165
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:1044
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install jboss-seam2.noarch-2.2.6.EAP5 -y 

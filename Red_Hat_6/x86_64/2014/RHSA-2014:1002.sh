@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1002
 #
 # Security announcement date: 2014-08-04 14:19:51 UTC
-# Script generation date:     2016-02-04 19:17:57 UTC
+# Script generation date:     2016-05-12 18:12:09 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -46,7 +47,7 @@
 #   - CVE-2014-3559
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1002
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install rhevm.noarch-3.5.1 -y 

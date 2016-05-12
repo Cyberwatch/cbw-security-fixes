@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0846
 #
 # Security announcement date: 2015-04-16 16:40:54 UTC
-# Script generation date:     2016-02-04 19:19:07 UTC
+# Script generation date:     2016-05-12 18:12:53 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -463,7 +464,7 @@
 #   - CVE-2011-2487
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0846
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install apache-commons-cli-eap6.noarch-1.2.0 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0016
 #
 # Security announcement date: 2015-01-07 17:24:25 UTC
-# Script generation date:     2016-02-17 07:20:48 UTC
+# Script generation date:     2016-05-12 18:12:38 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -45,7 +46,7 @@
 #   - CVE-2014-7817
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0016
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install glibc.x86_64-2.12 -y 

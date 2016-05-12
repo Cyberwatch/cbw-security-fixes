@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0131
 #
 # Security announcement date: 2013-01-08 06:54:17 UTC
-# Script generation date:     2016-02-04 19:16:25 UTC
+# Script generation date:     2016-05-12 18:11:09 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2009-2473
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0131
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install gnome-vfs2.x86_64-2.16.2 -y 

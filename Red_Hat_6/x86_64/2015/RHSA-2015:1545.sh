@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1545
 #
 # Security announcement date: 2015-08-04 17:18:36 UTC
-# Script generation date:     2016-03-22 19:16:25 UTC
+# Script generation date:     2016-05-12 18:13:09 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -18,7 +19,7 @@
 #   - CVE-2014-3566
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1545
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openshift-origin-node-proxy.noarch-1.26.2.1 -y 

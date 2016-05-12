@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1796
 #
 # Security announcement date: 2014-11-03 20:15:35 UTC
-# Script generation date:     2016-03-22 19:15:25 UTC
+# Script generation date:     2016-05-12 18:12:28 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -750,10 +751,10 @@
 #   - CharLS.x86_64:1.0-1.el6op
 #   - CharLS-debuginfo.x86_64:1.0-1.el6op
 #   - CharLS-devel.x86_64:1.0-1.el6op
-#   - ImageMagick-debuginfo.x86_64:6.5.4.7-7.el6_5
-#   - ImageMagick-devel.x86_64:6.5.4.7-7.el6_5
-#   - ImageMagick-doc.x86_64:6.5.4.7-7.el6_5
-#   - ImageMagick-perl.x86_64:6.5.4.7-7.el6_5
+#   - ImageMagick-debuginfo.x86_64:6.7.2.7-4.el6_7
+#   - ImageMagick-devel.x86_64:6.7.2.7-4.el6_7
+#   - ImageMagick-doc.x86_64:6.7.2.7-4.el6_7
+#   - ImageMagick-perl.x86_64:6.7.2.7-4.el6_7
 #   - armadillo.x86_64:3.800.2-1.el6op
 #   - armadillo-debuginfo.x86_64:3.800.2-1.el6op
 #   - armadillo-devel.x86_64:3.800.2-1.el6op
@@ -941,7 +942,7 @@
 #   - CVE-2014-3674
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1796
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install rhc.noarch-1.38.4.5 -y 
@@ -1221,10 +1222,10 @@ sudo yum install xerces-c-doc.noarch-3.0.1 -y
 sudo yum install CharLS.x86_64-1.0 -y 
 sudo yum install CharLS-debuginfo.x86_64-1.0 -y 
 sudo yum install CharLS-devel.x86_64-1.0 -y 
-sudo yum install ImageMagick-debuginfo.x86_64-6.5.4.7 -y 
-sudo yum install ImageMagick-devel.x86_64-6.5.4.7 -y 
-sudo yum install ImageMagick-doc.x86_64-6.5.4.7 -y 
-sudo yum install ImageMagick-perl.x86_64-6.5.4.7 -y 
+sudo yum install ImageMagick-debuginfo.x86_64-6.7.2.7 -y 
+sudo yum install ImageMagick-devel.x86_64-6.7.2.7 -y 
+sudo yum install ImageMagick-doc.x86_64-6.7.2.7 -y 
+sudo yum install ImageMagick-perl.x86_64-6.7.2.7 -y 
 sudo yum install armadillo.x86_64-3.800.2 -y 
 sudo yum install armadillo-debuginfo.x86_64-3.800.2 -y 
 sudo yum install armadillo-devel.x86_64-3.800.2 -y 

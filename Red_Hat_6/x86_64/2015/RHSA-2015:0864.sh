@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0864
 #
 # Security announcement date: 2015-04-21 15:06:07 UTC
-# Script generation date:     2016-04-12 18:21:12 UTC
+# Script generation date:     2016-05-12 18:12:57 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -26,21 +27,21 @@
 #   - python-perf.x86_64:2.6.32-504.16.2.el6
 #
 # Last versions recommanded by security team:
-#   - kernel-abi-whitelists.noarch:2.6.32-573.22.1.el6
-#   - kernel-doc.noarch:2.6.32-573.22.1.el6
-#   - kernel-firmware.noarch:2.6.32-573.22.1.el6
-#   - kernel.x86_64:2.6.32-504.46.1.el6
-#   - kernel-debug.x86_64:2.6.32-504.46.1.el6
-#   - kernel-debug-debuginfo.x86_64:2.6.32-504.46.1.el6
-#   - kernel-debug-devel.x86_64:2.6.32-504.46.1.el6
-#   - kernel-debuginfo.x86_64:2.6.32-504.46.1.el6
-#   - kernel-debuginfo-common-x86_64.x86_64:2.6.32-504.46.1.el6
-#   - kernel-devel.x86_64:2.6.32-504.46.1.el6
-#   - kernel-headers.x86_64:2.6.32-504.46.1.el6
-#   - perf.x86_64:2.6.32-504.46.1.el6
-#   - perf-debuginfo.x86_64:2.6.32-504.46.1.el6
-#   - python-perf-debuginfo.x86_64:2.6.32-504.46.1.el6
-#   - python-perf.x86_64:2.6.32-504.46.1.el6
+#   - kernel-abi-whitelists.noarch:2.6.32-642.el6
+#   - kernel-doc.noarch:2.6.32-642.el6
+#   - kernel-firmware.noarch:2.6.32-642.el6
+#   - kernel.x86_64:2.6.32-642.el6
+#   - kernel-debug.x86_64:2.6.32-642.el6
+#   - kernel-debug-debuginfo.x86_64:2.6.32-642.el6
+#   - kernel-debug-devel.x86_64:2.6.32-642.el6
+#   - kernel-debuginfo.x86_64:2.6.32-642.el6
+#   - kernel-debuginfo-common-x86_64.x86_64:2.6.32-642.el6
+#   - kernel-devel.x86_64:2.6.32-642.el6
+#   - kernel-headers.x86_64:2.6.32-642.el6
+#   - perf.x86_64:2.6.32-642.el6
+#   - perf-debuginfo.x86_64:2.6.32-642.el6
+#   - python-perf-debuginfo.x86_64:2.6.32-642.el6
+#   - python-perf.x86_64:2.6.32-642.el6
 #
 # CVE List:
 #   - CVE-2014-3215
@@ -54,7 +55,7 @@
 #   - CVE-2015-1421
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0864
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install kernel-abi-whitelists.noarch-2.6.32 -y 

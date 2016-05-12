@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1455
 #
 # Security announcement date: 2013-10-23 16:40:43 UTC
-# Script generation date:     2016-02-04 19:17:07 UTC
+# Script generation date:     2016-05-12 18:11:37 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,8 +14,8 @@
 #   - java-1.6.0-ibm-devel.x86_64:1.6.0.14.0-1jpp.1.el6_4
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-ibm.x86_64:1.6.0.16.20-1jpp.1.el6_7
-#   - java-1.6.0-ibm-devel.x86_64:1.6.0.16.20-1jpp.1.el6_7
+#   - java-1.6.0-ibm.x86_64:1.6.0.16.25-1jpp.1.el6_7
+#   - java-1.6.0-ibm-devel.x86_64:1.6.0.16.25-1jpp.1.el6_7
 #
 # CVE List:
 #   - CVE-2011-0802
@@ -177,8 +178,8 @@
 #   - CVE-2013-3743
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:1455
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-ibm.x86_64-1.6.0.16.20 -y 
-sudo yum install java-1.6.0-ibm-devel.x86_64-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm.x86_64-1.6.0.16.25 -y 
+sudo yum install java-1.6.0-ibm-devel.x86_64-1.6.0.16.25 -y 

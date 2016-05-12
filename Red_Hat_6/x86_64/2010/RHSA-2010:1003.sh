@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:1003
 #
 # Security announcement date: 2010-12-21 18:02:29 UTC
-# Script generation date:     2016-03-23 19:11:44 UTC
+# Script generation date:     2016-05-12 18:10:01 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -42,7 +43,7 @@
 #   - CVE-2010-3906
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2010:1003
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install emacs-git.noarch-1.7.1 -y 

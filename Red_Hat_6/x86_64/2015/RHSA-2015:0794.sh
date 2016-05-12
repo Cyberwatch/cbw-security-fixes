@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0794
 #
 # Security announcement date: 2015-04-09 05:13:18 UTC
-# Script generation date:     2016-03-23 07:16:05 UTC
+# Script generation date:     2016-05-12 18:12:52 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -42,7 +43,7 @@
 #   - CVE-2014-9422
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0794
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install krb5-debuginfo.x86_64-1.10.3 -y 

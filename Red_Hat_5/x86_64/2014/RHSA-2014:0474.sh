@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0474
 #
 # Security announcement date: 2014-05-07 05:13:03 UTC
-# Script generation date:     2016-02-04 19:17:38 UTC
+# Script generation date:     2016-05-12 18:11:57 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -26,7 +27,7 @@
 #   - CVE-2014-0114
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:0474
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install struts.x86_64-1.2.9 -y 

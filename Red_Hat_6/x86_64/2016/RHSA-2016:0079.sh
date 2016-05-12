@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2016:0079
 #
 # Security announcement date: 2016-01-28 13:54:22 UTC
-# Script generation date:     2016-04-06 18:18:32 UTC
+# Script generation date:     2016-05-12 18:13:40 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -38,7 +39,7 @@
 #   - CVE-2015-8000
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2016:0079
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install bind-debuginfo.x86_64-9.7.3 -y 

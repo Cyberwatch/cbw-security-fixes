@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0728
 #
 # Security announcement date: 2015-03-26 17:08:51 UTC
-# Script generation date:     2016-04-13 06:16:57 UTC
+# Script generation date:     2016-05-12 18:12:50 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -33,7 +34,7 @@
 #   - CVE-2015-1827
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0728
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ipa-client.x86_64-4.1.0 -y 

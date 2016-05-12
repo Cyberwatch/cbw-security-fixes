@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1443
 #
 # Security announcement date: 2015-07-20 16:36:49 UTC
-# Script generation date:     2016-03-16 19:13:50 UTC
+# Script generation date:     2016-05-12 18:13:05 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -50,7 +51,7 @@
 #   - CVE-2015-4620
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1443
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install bind-license.noarch-9.9.4 -y 

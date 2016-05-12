@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:2515
 #
 # Security announcement date: 2015-11-25 18:28:18 UTC
-# Script generation date:     2016-03-23 19:16:57 UTC
+# Script generation date:     2016-05-12 18:13:28 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -43,7 +44,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:2515
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install git19-emacs-git.noarch-1.9.4 -y 

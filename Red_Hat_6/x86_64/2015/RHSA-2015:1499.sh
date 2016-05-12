@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1499
 #
 # Security announcement date: 2015-07-27 09:25:31 UTC
-# Script generation date:     2016-04-18 18:21:43 UTC
+# Script generation date:     2016-05-12 18:13:08 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,8 +14,8 @@
 #   - chromium-browser-debuginfo.x86_64:44.0.2403.89-1.el6
 #
 # Last versions recommanded by security team:
-#   - chromium-browser.x86_64:50.0.2661.75-1.el6
-#   - chromium-browser-debuginfo.x86_64:50.0.2661.75-1.el6
+#   - chromium-browser.x86_64:50.0.2661.94-1.el6
+#   - chromium-browser-debuginfo.x86_64:50.0.2661.94-1.el6
 #
 # CVE List:
 #   - CVE-2015-1270
@@ -38,8 +39,8 @@
 #   - CVE-2015-5605
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1499
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install chromium-browser.x86_64-50.0.2661.75 -y 
-sudo yum install chromium-browser-debuginfo.x86_64-50.0.2661.75 -y 
+sudo yum install chromium-browser.x86_64-50.0.2661.94 -y 
+sudo yum install chromium-browser-debuginfo.x86_64-50.0.2661.94 -y 

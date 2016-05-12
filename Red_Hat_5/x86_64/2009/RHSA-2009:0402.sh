@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:0402
 #
 # Security announcement date: 2009-03-30 16:56:12 UTC
-# Script generation date:     2016-02-04 19:13:54 UTC
+# Script generation date:     2016-05-12 18:09:30 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -23,7 +24,7 @@
 #   - CVE-2009-0790
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2009:0402
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openswan.x86_64-2.6.32 -y 

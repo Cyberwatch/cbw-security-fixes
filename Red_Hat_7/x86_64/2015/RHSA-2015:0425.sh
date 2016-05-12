@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0425
 #
 # Security announcement date: 2015-03-05 14:43:20 UTC
-# Script generation date:     2016-03-22 07:21:11 UTC
+# Script generation date:     2016-05-12 18:12:46 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -39,7 +40,7 @@
 #   - CVE-2014-9278
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0425
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openssh.x86_64-6.6.1p1 -y 

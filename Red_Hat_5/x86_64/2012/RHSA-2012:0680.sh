@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0680
 #
 # Security announcement date: 2012-05-21 17:20:17 UTC
-# Script generation date:     2016-02-04 19:15:56 UTC
+# Script generation date:     2016-05-12 18:10:48 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -50,7 +51,7 @@
 #   - CVE-2012-0022
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:0680
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install tomcat5.noarch-5.5.33 -y 

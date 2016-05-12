@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1945
 #
 # Security announcement date: 2015-10-27 20:24:53 UTC
-# Script generation date:     2016-03-03 19:18:24 UTC
+# Script generation date:     2016-05-12 18:13:23 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -28,7 +29,7 @@
 #   - CVE-2015-5305
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1945
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openshift.x86_64-3.0.2.0 -y 

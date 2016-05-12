@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1514
 #
 # Security announcement date: 2015-07-29 00:38:48 UTC
-# Script generation date:     2016-03-16 19:13:53 UTC
+# Script generation date:     2016-05-12 18:13:08 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -42,7 +43,7 @@
 #   - CVE-2015-5477
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1514
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install bind.x86_64-9.3.6 -y 

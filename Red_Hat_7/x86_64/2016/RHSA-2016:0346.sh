@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2016:0346
 #
 # Security announcement date: 2016-03-02 19:49:32 UTC
-# Script generation date:     2016-03-05 07:21:21 UTC
+# Script generation date:     2016-05-12 18:13:42 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -48,7 +49,7 @@
 #   - CVE-2016-0773
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2016:0346
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install postgresql.i686-9.2.15 -y 

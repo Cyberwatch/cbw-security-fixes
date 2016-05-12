@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0114
 #
 # Security announcement date: 2010-02-18 16:12:29 UTC
-# Script generation date:     2016-02-04 19:14:15 UTC
+# Script generation date:     2016-05-12 18:09:43 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -21,7 +22,7 @@
 #   - CVE-2010-0188
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2010:0114
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install acroread.i386-9.5.5 -y 

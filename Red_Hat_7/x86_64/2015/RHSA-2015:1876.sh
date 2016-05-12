@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1876
 #
 # Security announcement date: 2015-10-08 19:59:46 UTC
-# Script generation date:     2016-02-04 19:19:49 UTC
+# Script generation date:     2016-05-12 18:13:19 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -22,7 +23,7 @@
 #   - CVE-2015-5963
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1876
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install python-django.noarch-1.8.4 -y 

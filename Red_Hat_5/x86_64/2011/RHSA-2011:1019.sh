@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1019
 #
 # Security announcement date: 2011-07-21 13:35:12 UTC
-# Script generation date:     2016-02-04 19:15:19 UTC
+# Script generation date:     2016-05-12 18:10:24 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2011-2511
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:1019
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libvirt.x86_64-0.8.2 -y 

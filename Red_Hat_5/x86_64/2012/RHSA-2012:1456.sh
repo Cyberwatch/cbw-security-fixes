@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1456
 #
 # Security announcement date: 2012-11-12 18:54:41 UTC
-# Script generation date:     2016-02-04 19:16:17 UTC
+# Script generation date:     2016-05-12 18:11:03 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -26,7 +27,7 @@
 #   - CVE-2012-4417
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1456
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install glusterfs.x86_64-3.7.1 -y 

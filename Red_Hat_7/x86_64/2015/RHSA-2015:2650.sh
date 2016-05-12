@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:2650
 #
 # Security announcement date: 2015-12-21 19:40:30 UTC
-# Script generation date:     2016-02-04 19:20:39 UTC
+# Script generation date:     2016-05-12 18:13:34 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -21,7 +22,7 @@
 #   - CVE-2015-5329
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:2650
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openstack-tripleo-heat-templates.noarch-0.8.6 -y 

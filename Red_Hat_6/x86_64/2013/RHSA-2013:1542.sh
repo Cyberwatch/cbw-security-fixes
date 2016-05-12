@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1542
 #
 # Security announcement date: 2013-11-21 04:13:21 UTC
-# Script generation date:     2016-04-13 06:15:12 UTC
+# Script generation date:     2016-05-12 18:11:40 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -56,7 +57,7 @@
 #   - CVE-2013-4124
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:1542
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libsmbclient.x86_64-4.2.11 -y 

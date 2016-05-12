@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:1529
 #
 # Security announcement date: 2009-10-27 17:17:00 UTC
-# Script generation date:     2016-04-13 06:11:58 UTC
+# Script generation date:     2016-05-12 18:09:39 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -33,7 +34,7 @@
 #   - CVE-2009-2948
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2009:1529
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install samba.x86_64-3.0.33 -y 

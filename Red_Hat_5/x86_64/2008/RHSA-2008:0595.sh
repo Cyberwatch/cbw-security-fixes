@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2008:0595
 #
 # Security announcement date: 2008-07-14 15:37:56 UTC
-# Script generation date:     2016-02-04 19:13:39 UTC
+# Script generation date:     2016-05-12 18:09:21 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -32,7 +33,7 @@
 #   - CVE-2008-3114
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2008:0595
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install java-1.5.0-sun.x86_64-1.5.0.22 -y 

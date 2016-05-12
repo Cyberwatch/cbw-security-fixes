@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0836
 #
 # Security announcement date: 2015-04-16 18:57:50 UTC
-# Script generation date:     2016-02-04 19:19:11 UTC
+# Script generation date:     2016-05-12 18:12:56 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -28,7 +29,7 @@
 #   - CVE-2014-7960
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0836
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openstack-swift.noarch-1.13.1 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1103
 #
 # Security announcement date: 2013-07-23 17:59:52 UTC
-# Script generation date:     2016-02-04 19:16:58 UTC
+# Script generation date:     2016-05-12 18:11:31 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -40,7 +41,7 @@
 #   - CVE-2013-4073
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:1103
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ruby193-ruby-irb.noarch-1.9.3.484 -y 

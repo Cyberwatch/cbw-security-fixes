@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1332
 #
 # Security announcement date: 2012-10-03 15:25:12 UTC
-# Script generation date:     2016-02-04 19:16:14 UTC
+# Script generation date:     2016-05-12 18:11:00 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -29,7 +30,7 @@
 #   - CVE-2012-1719
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1332
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install java-1.4.2-ibm-sap.x86_64-1.4.2.13.13.sap -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1510
 #
 # Security announcement date: 2015-07-27 23:15:30 UTC
-# Script generation date:     2016-02-04 19:19:30 UTC
+# Script generation date:     2016-05-12 18:13:08 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2015-3213
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1510
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install clutter.x86_64-1.14.4 -y 

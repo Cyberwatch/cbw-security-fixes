@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0337
 #
 # Security announcement date: 2011-03-09 22:11:01 UTC
-# Script generation date:     2016-02-04 19:14:50 UTC
+# Script generation date:     2016-05-12 18:10:09 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -20,7 +21,7 @@
 #   - CVE-2011-0762
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:0337
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install vsftpd.x86_64-2.0.5 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0182
 #
 # Security announcement date: 2011-01-28 15:34:47 UTC
-# Script generation date:     2016-02-04 19:14:43 UTC
+# Script generation date:     2016-05-12 18:10:04 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -179,7 +180,7 @@
 #   - CVE-2010-4643
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:0182
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openoffice.org-base.x86_64-3.1.1 -y 

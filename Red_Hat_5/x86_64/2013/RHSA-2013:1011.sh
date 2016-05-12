@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1011
 #
 # Security announcement date: 2013-07-03 17:12:27 UTC
-# Script generation date:     2016-02-04 19:16:53 UTC
+# Script generation date:     2016-05-12 18:11:28 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -108,7 +109,7 @@
 #   - CVE-2013-2071
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:1011
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install apache-commons-daemon-eap6.noarch-1.0.15 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2016:0043
 #
 # Security announcement date: 2016-01-14 20:33:11 UTC
-# Script generation date:     2016-03-22 07:22:26 UTC
+# Script generation date:     2016-05-12 18:13:37 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -39,7 +40,7 @@
 #   - CVE-2016-0778
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2016:0043
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openssh.x86_64-6.6.1p1 -y 

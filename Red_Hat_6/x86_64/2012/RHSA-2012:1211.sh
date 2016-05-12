@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1211
 #
 # Security announcement date: 2012-08-29 04:41:52 UTC
-# Script generation date:     2016-03-16 19:10:43 UTC
+# Script generation date:     2016-05-12 18:10:57 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,8 +14,8 @@
 #   - thunderbird-debuginfo.x86_64:10.0.7-1.el6_3
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:38.7.0-1.el6_7
-#   - thunderbird-debuginfo.x86_64:38.7.0-1.el6_7
+#   - thunderbird.x86_64:38.8.0-2.el6_8
+#   - thunderbird-debuginfo.x86_64:38.8.0-2.el6_8
 #
 # CVE List:
 #   - CVE-2012-1970
@@ -42,8 +43,8 @@
 #   - CVE-2012-3980
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1211
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.x86_64-38.7.0 -y 
-sudo yum install thunderbird-debuginfo.x86_64-38.7.0 -y 
+sudo yum install thunderbird.x86_64-38.8.0 -y 
+sudo yum install thunderbird-debuginfo.x86_64-38.8.0 -y 

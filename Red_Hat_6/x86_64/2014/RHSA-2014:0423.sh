@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0423
 #
 # Security announcement date: 2014-04-23 06:50:01 UTC
-# Script generation date:     2016-02-04 19:17:37 UTC
+# Script generation date:     2016-05-12 18:11:56 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -20,7 +21,7 @@
 #   - CVE-2014-0188
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:0423
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openshift-origin-broker.noarch-1.16.2.10 -y 

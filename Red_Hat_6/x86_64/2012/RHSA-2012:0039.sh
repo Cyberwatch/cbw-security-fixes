@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0039
 #
 # Security announcement date: 2012-01-18 19:33:24 UTC
-# Script generation date:     2016-02-04 19:15:39 UTC
+# Script generation date:     2016-05-12 18:10:37 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -20,7 +21,7 @@
 #   - CVE-2011-4608
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:0039
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install mod_cluster-native.x86_64-1.2.9 -y 

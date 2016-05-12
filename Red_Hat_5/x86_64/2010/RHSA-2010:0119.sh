@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0119
 #
 # Security announcement date: 2010-02-23 20:25:47 UTC
-# Script generation date:     2016-02-04 19:14:16 UTC
+# Script generation date:     2016-05-12 18:09:43 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -94,7 +95,7 @@
 #   - CVE-2009-3555
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2010:0119
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install glassfish-jsf.noarch-2.1.19 -y 

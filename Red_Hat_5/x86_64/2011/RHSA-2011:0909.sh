@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0909
 #
 # Security announcement date: 2011-06-28 17:37:29 UTC
-# Script generation date:     2016-02-04 19:15:04 UTC
+# Script generation date:     2016-05-12 18:10:19 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -46,7 +47,7 @@
 #   - CVE-2011-1005
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:0909
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ruby.x86_64-1.8.5 -y 

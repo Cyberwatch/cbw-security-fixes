@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0260
 #
 # Security announcement date: 2015-02-23 19:53:03 UTC
-# Script generation date:     2016-02-04 19:18:56 UTC
+# Script generation date:     2016-05-12 18:12:45 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -22,7 +23,7 @@
 #   - CVE-2014-9130
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0260
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libyaml.x86_64-0.1.3 -y 

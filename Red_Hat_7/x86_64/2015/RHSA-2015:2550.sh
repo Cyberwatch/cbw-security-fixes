@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:2550
 #
 # Security announcement date: 2015-12-07 14:07:56 UTC
-# Script generation date:     2016-02-04 19:20:22 UTC
+# Script generation date:     2016-05-12 18:13:31 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -44,7 +45,7 @@
 #   - CVE-2015-8317
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:2550
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libxml2.x86_64-2.9.1 -y 

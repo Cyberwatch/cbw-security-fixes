@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1043
 #
 # Security announcement date: 2012-06-26 18:46:09 UTC
-# Script generation date:     2016-02-04 19:16:03 UTC
+# Script generation date:     2016-05-12 18:10:53 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2012-2149
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1043
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libwpd.x86_64-0.8.7 -y 

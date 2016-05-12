@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0999
 #
 # Security announcement date: 2010-12-20 18:00:13 UTC
-# Script generation date:     2016-02-04 19:14:40 UTC
+# Script generation date:     2016-05-12 18:10:01 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2010-4203
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2010:0999
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libvpx.x86_64-0.9.0 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1813
 #
 # Security announcement date: 2013-12-11 05:37:42 UTC
-# Script generation date:     2016-03-22 19:14:18 UTC
+# Script generation date:     2016-05-12 18:11:44 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -72,7 +73,7 @@
 #   - CVE-2013-6420
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:1813
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install php.x86_64-5.3.3 -y 

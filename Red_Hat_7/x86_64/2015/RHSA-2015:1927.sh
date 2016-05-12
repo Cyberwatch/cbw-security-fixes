@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1927
 #
 # Security announcement date: 2015-10-22 19:55:51 UTC
-# Script generation date:     2016-04-22 06:24:10 UTC
+# Script generation date:     2016-05-12 18:13:22 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -51,7 +52,7 @@
 #   - CVE-2015-4911
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1927
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install java-1.7.0-oracle.x86_64-1.7.0.101 -y 

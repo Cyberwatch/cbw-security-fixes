@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:2000
 #
 # Security announcement date: 2014-12-16 22:35:37 UTC
-# Script generation date:     2016-02-04 19:18:43 UTC
+# Script generation date:     2016-05-12 18:12:37 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -24,7 +25,7 @@
 #   - CVE-2014-8120
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:2000
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install thermostat1-thermostat-javadoc.noarch-1.2.0 -y 

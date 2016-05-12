@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1455
 #
 # Security announcement date: 2012-11-12 18:52:02 UTC
-# Script generation date:     2016-02-04 19:16:17 UTC
+# Script generation date:     2016-05-12 18:11:02 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -28,7 +29,7 @@
 #   - CVE-2012-4433
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1455
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install gegl.x86_64-0.1.2 -y 

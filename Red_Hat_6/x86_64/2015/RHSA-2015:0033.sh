@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0033
 #
 # Security announcement date: 2015-01-12 17:42:12 UTC
-# Script generation date:     2016-03-03 07:22:47 UTC
+# Script generation date:     2016-05-12 18:12:39 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -72,13 +73,13 @@
 #   - libyaml-debuginfo.x86_64:0.1.2-5.el6
 #
 # Last versions recommanded by security team:
-#   - postgresql92-postgresql.x86_64:9.2.15-1.el6
-#   - postgresql92-postgresql-contrib.x86_64:9.2.15-1.el6
-#   - postgresql92-postgresql-debuginfo.x86_64:9.2.15-1.el6
-#   - postgresql92-postgresql-libs.x86_64:9.2.15-1.el6
-#   - postgresql92-postgresql-pltcl.x86_64:9.2.15-1.el6
-#   - postgresql92-postgresql-server.x86_64:9.2.15-1.el6
-#   - postgresql92-postgresql-upgrade.x86_64:9.2.15-1.el6
+#   - postgresql92-postgresql.x86_64:9.2.15-2.el6
+#   - postgresql92-postgresql-contrib.x86_64:9.2.15-2.el6
+#   - postgresql92-postgresql-debuginfo.x86_64:9.2.15-2.el6
+#   - postgresql92-postgresql-libs.x86_64:9.2.15-2.el6
+#   - postgresql92-postgresql-pltcl.x86_64:9.2.15-2.el6
+#   - postgresql92-postgresql-server.x86_64:9.2.15-2.el6
+#   - postgresql92-postgresql-upgrade.x86_64:9.2.15-2.el6
 #   - postgresql92-runtime.x86_64:1.1-21.el6
 #   - scl-utils.x86_64:20120927-11.el6_5
 #   - scl-utils-debuginfo.x86_64:20120927-11.el6_5
@@ -127,8 +128,8 @@
 #   - xalan-j2.noarch:2.7.0-9.8.el6
 #   - PyYAML.x86_64:3.10-3.1.el6
 #   - PyYAML-debuginfo.x86_64:3.10-3.1.el6
-#   - java-1.6.0-ibm.x86_64:1.6.0.16.20-1jpp.1.el6_7
-#   - java-1.6.0-ibm-devel.x86_64:1.6.0.16.20-1jpp.1.el6_7
+#   - java-1.6.0-ibm.x86_64:1.6.0.16.25-1jpp.1.el6_7
+#   - java-1.6.0-ibm-devel.x86_64:1.6.0.16.25-1jpp.1.el6_7
 #   - libreadline-java.x86_64:0.8.0-24.3.el6
 #   - libreadline-java-debuginfo.x86_64:0.8.0-24.3.el6
 #   - libyaml.x86_64:0.1.3-4.el6_6
@@ -139,7 +140,7 @@
 #   - CVE-2014-7812
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0033
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install postgresql92-postgresql.x86_64-9.2.15 -y 
@@ -197,8 +198,8 @@ sudo yum install struts-taglib.noarch-1.3.10 -y
 sudo yum install xalan-j2.noarch-2.7.0 -y 
 sudo yum install PyYAML.x86_64-3.10 -y 
 sudo yum install PyYAML-debuginfo.x86_64-3.10 -y 
-sudo yum install java-1.6.0-ibm.x86_64-1.6.0.16.20 -y 
-sudo yum install java-1.6.0-ibm-devel.x86_64-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm.x86_64-1.6.0.16.25 -y 
+sudo yum install java-1.6.0-ibm-devel.x86_64-1.6.0.16.25 -y 
 sudo yum install libreadline-java.x86_64-0.8.0 -y 
 sudo yum install libreadline-java-debuginfo.x86_64-0.8.0 -y 
 sudo yum install libyaml.x86_64-0.1.3 -y 

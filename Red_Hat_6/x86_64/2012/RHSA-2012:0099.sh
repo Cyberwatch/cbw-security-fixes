@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0099
 #
 # Security announcement date: 2012-02-06 18:39:28 UTC
-# Script generation date:     2016-02-04 19:15:42 UTC
+# Script generation date:     2016-05-12 18:10:39 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -54,7 +55,7 @@
 #   - CVE-2011-4930
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:0099
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install condor-wallaby-base-db.noarch-1.25 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1999
 #
 # Security announcement date: 2014-12-16 20:30:21 UTC
-# Script generation date:     2016-02-04 19:18:43 UTC
+# Script generation date:     2016-05-12 18:12:37 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -21,7 +22,7 @@
 #   - CVE-2014-7844
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1999
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install mailx.x86_64-12.5 -y 

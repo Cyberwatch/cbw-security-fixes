@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1170
 #
 # Security announcement date: 2013-08-21 18:29:17 UTC
-# Script generation date:     2016-02-04 19:17:00 UTC
+# Script generation date:     2016-05-12 18:11:32 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -29,7 +30,7 @@
 #   - CVE-2013-2132
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:1170
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install mongodb.x86_64-2.4.6 -y 

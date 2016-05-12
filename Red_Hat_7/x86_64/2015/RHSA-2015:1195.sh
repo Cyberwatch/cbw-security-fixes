@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1195
 #
 # Security announcement date: 2015-06-29 16:45:09 UTC
-# Script generation date:     2016-03-03 07:23:27 UTC
+# Script generation date:     2016-05-12 18:13:03 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -42,7 +43,7 @@
 #   - CVE-2015-3167
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1195
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install postgresql92-postgresql.x86_64-9.2.15 -y 

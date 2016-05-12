@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2008:0009
 #
 # Security announcement date: 2008-01-21 09:37:29 UTC
-# Script generation date:     2016-02-04 19:13:27 UTC
+# Script generation date:     2016-05-12 18:09:12 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -34,7 +35,7 @@
 #   - CVE-2008-0005
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2008:0009
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install httpd.x86_64-2.2.26 -y 

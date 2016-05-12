@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1138
 #
 # Security announcement date: 2015-06-23 12:01:14 UTC
-# Script generation date:     2016-02-17 07:21:26 UTC
+# Script generation date:     2016-05-12 18:13:02 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -28,19 +29,19 @@
 # Last versions recommanded by security team:
 #   - kernel-rt-doc.noarch:3.10.0-327.rt56.170.el6rt
 #   - kernel-rt-firmware.noarch:3.10.0-327.rt56.170.el6rt
-#   - kernel-rt.x86_64:3.10.0-327.rt56.171.el6rt
-#   - kernel-rt-debug.x86_64:3.10.0-327.rt56.171.el6rt
-#   - kernel-rt-debug-debuginfo.x86_64:3.10.0-327.rt56.171.el6rt
-#   - kernel-rt-debug-devel.x86_64:3.10.0-327.rt56.171.el6rt
-#   - kernel-rt-debuginfo.x86_64:3.10.0-327.rt56.171.el6rt
-#   - kernel-rt-debuginfo-common-x86_64.x86_64:3.10.0-327.rt56.171.el6rt
-#   - kernel-rt-devel.x86_64:3.10.0-327.rt56.171.el6rt
-#   - kernel-rt-trace.x86_64:3.10.0-327.rt56.171.el6rt
-#   - kernel-rt-trace-debuginfo.x86_64:3.10.0-327.rt56.171.el6rt
-#   - kernel-rt-trace-devel.x86_64:3.10.0-327.rt56.171.el6rt
-#   - kernel-rt-vanilla.x86_64:3.10.0-327.rt56.171.el6rt
-#   - kernel-rt-vanilla-debuginfo.x86_64:3.10.0-327.rt56.171.el6rt
-#   - kernel-rt-vanilla-devel.x86_64:3.10.0-327.rt56.171.el6rt
+#   - kernel-rt.x86_64:3.10.0-327.rt56.183.el6rt
+#   - kernel-rt-debug.x86_64:3.10.0-327.rt56.183.el6rt
+#   - kernel-rt-debug-debuginfo.x86_64:3.10.0-327.rt56.183.el6rt
+#   - kernel-rt-debug-devel.x86_64:3.10.0-327.rt56.183.el6rt
+#   - kernel-rt-debuginfo.x86_64:3.10.0-327.rt56.183.el6rt
+#   - kernel-rt-debuginfo-common-x86_64.x86_64:3.10.0-327.rt56.183.el6rt
+#   - kernel-rt-devel.x86_64:3.10.0-327.rt56.183.el6rt
+#   - kernel-rt-trace.x86_64:3.10.0-327.rt56.183.el6rt
+#   - kernel-rt-trace-debuginfo.x86_64:3.10.0-327.rt56.183.el6rt
+#   - kernel-rt-trace-devel.x86_64:3.10.0-327.rt56.183.el6rt
+#   - kernel-rt-vanilla.x86_64:3.10.0-327.rt56.183.el6rt
+#   - kernel-rt-vanilla-debuginfo.x86_64:3.10.0-327.rt56.183.el6rt
+#   - kernel-rt-vanilla-devel.x86_64:3.10.0-327.rt56.183.el6rt
 #
 # CVE List:
 #   - CVE-2014-9420
@@ -52,7 +53,7 @@
 #   - CVE-2015-2830
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1138
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install kernel-rt-doc.noarch-3.10.0 -y 

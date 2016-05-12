@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0097
 #
 # Security announcement date: 2014-01-27 19:57:58 UTC
-# Script generation date:     2016-02-04 19:17:25 UTC
+# Script generation date:     2016-05-12 18:11:48 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -17,12 +18,12 @@
 #   - java-1.6.0-openjdk-src.x86_64:1.6.0.0-3.1.13.1.el5_10
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-openjdk.x86_64:1.6.0.38-1.13.10.0.el5_11
-#   - java-1.6.0-openjdk-debuginfo.x86_64:1.6.0.38-1.13.10.0.el5_11
-#   - java-1.6.0-openjdk-demo.x86_64:1.6.0.38-1.13.10.0.el5_11
-#   - java-1.6.0-openjdk-devel.x86_64:1.6.0.38-1.13.10.0.el5_11
-#   - java-1.6.0-openjdk-javadoc.x86_64:1.6.0.38-1.13.10.0.el5_11
-#   - java-1.6.0-openjdk-src.x86_64:1.6.0.38-1.13.10.0.el5_11
+#   - java-1.6.0-openjdk.x86_64:1.6.0.39-1.13.11.0.el5_11
+#   - java-1.6.0-openjdk-debuginfo.x86_64:1.6.0.39-1.13.11.0.el5_11
+#   - java-1.6.0-openjdk-demo.x86_64:1.6.0.39-1.13.11.0.el5_11
+#   - java-1.6.0-openjdk-devel.x86_64:1.6.0.39-1.13.11.0.el5_11
+#   - java-1.6.0-openjdk-javadoc.x86_64:1.6.0.39-1.13.11.0.el5_11
+#   - java-1.6.0-openjdk-src.x86_64:1.6.0.39-1.13.11.0.el5_11
 #
 # CVE List:
 #   - CVE-2013-5878
@@ -40,12 +41,12 @@
 #   - CVE-2014-0428
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:0097
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-openjdk.x86_64-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-debuginfo.x86_64-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-demo.x86_64-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-devel.x86_64-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-javadoc.x86_64-1.6.0.38 -y 
-sudo yum install java-1.6.0-openjdk-src.x86_64-1.6.0.38 -y 
+sudo yum install java-1.6.0-openjdk.x86_64-1.6.0.39 -y 
+sudo yum install java-1.6.0-openjdk-debuginfo.x86_64-1.6.0.39 -y 
+sudo yum install java-1.6.0-openjdk-demo.x86_64-1.6.0.39 -y 
+sudo yum install java-1.6.0-openjdk-devel.x86_64-1.6.0.39 -y 
+sudo yum install java-1.6.0-openjdk-javadoc.x86_64-1.6.0.39 -y 
+sudo yum install java-1.6.0-openjdk-src.x86_64-1.6.0.39 -y 

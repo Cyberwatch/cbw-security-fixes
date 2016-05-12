@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0291
 #
 # Security announcement date: 2010-03-30 17:11:49 UTC
-# Script generation date:     2016-02-04 19:14:18 UTC
+# Script generation date:     2016-05-12 18:09:45 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -22,7 +23,7 @@
 #   - CVE-2010-0727
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2010:0291
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install gfs-kmod-debuginfo.x86_64-0.1.34 -y 

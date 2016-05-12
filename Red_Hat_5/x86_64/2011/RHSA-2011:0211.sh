@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0211
 #
 # Security announcement date: 2011-02-10 19:49:54 UTC
-# Script generation date:     2016-02-04 19:14:46 UTC
+# Script generation date:     2016-05-12 18:10:06 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -24,7 +25,7 @@
 #   - CVE-2010-4476
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:0211
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install jbossweb.noarch-7.5.12 -y 

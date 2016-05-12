@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0628
 #
 # Security announcement date: 2015-03-05 13:58:20 UTC
-# Script generation date:     2016-02-04 19:18:57 UTC
+# Script generation date:     2016-05-12 18:12:46 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2014-8105
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0628
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install 389-ds-base.x86_64-1.2.11.15 -y 

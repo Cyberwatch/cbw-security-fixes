@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1834
 #
 # Security announcement date: 2015-09-24 20:39:22 UTC
-# Script generation date:     2016-03-09 19:24:56 UTC
+# Script generation date:     2016-05-12 18:13:18 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -15,10 +16,10 @@
 #   - firefox-debuginfo.i386:38.3.0-2.el5_11
 #
 # Last versions recommanded by security team:
-#   - firefox.x86_64:38.7.0-1.el5_11
-#   - firefox-debuginfo.x86_64:38.7.0-1.el5_11
-#   - firefox.i386:38.7.0-1.el5_11
-#   - firefox-debuginfo.i386:38.7.0-1.el5_11
+#   - firefox.x86_64:45.1.0-1.el5_11
+#   - firefox-debuginfo.x86_64:45.1.0-1.el5_11
+#   - firefox.i386:45.1.0-1.el5_11
+#   - firefox-debuginfo.i386:45.1.0-1.el5_11
 #
 # CVE List:
 #   - CVE-2015-4500
@@ -37,10 +38,10 @@
 #   - CVE-2015-7180
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1834
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.x86_64-38.7.0 -y 
-sudo yum install firefox-debuginfo.x86_64-38.7.0 -y 
-sudo yum install firefox.i386-38.7.0 -y 
-sudo yum install firefox-debuginfo.i386-38.7.0 -y 
+sudo yum install firefox.x86_64-45.1.0 -y 
+sudo yum install firefox-debuginfo.x86_64-45.1.0 -y 
+sudo yum install firefox.i386-45.1.0 -y 
+sudo yum install firefox-debuginfo.i386-45.1.0 -y 

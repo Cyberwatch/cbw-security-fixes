@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0945
 #
 # Security announcement date: 2010-12-06 19:23:58 UTC
-# Script generation date:     2016-02-04 19:14:38 UTC
+# Script generation date:     2016-05-12 18:10:00 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -29,7 +30,7 @@
 #   - CVE-2010-2949
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2010:0945
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install quagga.x86_64-0.99.15 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2008:0575
 #
 # Security announcement date: 2008-07-24 17:16:55 UTC
-# Script generation date:     2016-02-04 19:13:40 UTC
+# Script generation date:     2016-05-12 18:09:21 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -21,7 +22,7 @@
 #   - CVE-2008-1803
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2008:0575
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install rdesktop.x86_64-1.6.0 -y 

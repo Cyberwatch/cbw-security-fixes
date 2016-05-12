@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0884
 #
 # Security announcement date: 2013-05-30 18:39:06 UTC
-# Script generation date:     2016-02-04 19:16:51 UTC
+# Script generation date:     2016-05-12 18:11:26 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -28,7 +29,7 @@
 #   - CVE-2013-1950
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0884
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libtirpc.x86_64-0.2.1 -y 

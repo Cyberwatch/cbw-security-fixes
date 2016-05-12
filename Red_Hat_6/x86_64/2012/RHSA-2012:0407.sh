@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0407
 #
 # Security announcement date: 2012-03-20 17:25:43 UTC
-# Script generation date:     2016-02-04 19:15:48 UTC
+# Script generation date:     2016-05-12 18:10:42 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2011-3045
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:0407
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libpng.x86_64-1.2.49 -y 

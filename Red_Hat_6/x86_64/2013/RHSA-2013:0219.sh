@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0219
 #
 # Security announcement date: 2013-01-31 21:59:36 UTC
-# Script generation date:     2016-02-04 19:16:32 UTC
+# Script generation date:     2016-05-12 18:11:13 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -52,7 +53,7 @@
 #   - CVE-2013-0389
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0219
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install mysql.x86_64-5.1.73 -y 

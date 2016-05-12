@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1326
 #
 # Security announcement date: 2014-09-30 05:17:27 UTC
-# Script generation date:     2016-02-04 19:18:16 UTC
+# Script generation date:     2016-05-12 18:12:20 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -65,7 +66,7 @@
 #   - CVE-2012-1571
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1326
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install php53.x86_64-5.3.3 -y 

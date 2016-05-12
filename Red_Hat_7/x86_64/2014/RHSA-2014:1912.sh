@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1912
 #
 # Security announcement date: 2014-11-26 22:41:33 UTC
-# Script generation date:     2016-02-04 19:18:38 UTC
+# Script generation date:     2016-05-12 18:12:34 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -54,7 +55,7 @@
 #   - CVE-2014-8090
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1912
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ruby-irb.noarch-2.0.0.353 -y 

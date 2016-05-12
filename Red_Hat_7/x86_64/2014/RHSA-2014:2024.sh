@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:2024
 #
 # Security announcement date: 2014-12-20 02:45:01 UTC
-# Script generation date:     2016-02-04 19:18:44 UTC
+# Script generation date:     2016-05-12 18:12:38 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -31,7 +32,7 @@
 #   - CVE-2014-9296
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:2024
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ntp.x86_64-4.2.6p5 -y 

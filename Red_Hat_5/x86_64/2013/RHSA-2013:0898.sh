@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0898
 #
 # Security announcement date: 2013-06-03 17:50:36 UTC
-# Script generation date:     2016-02-04 19:16:51 UTC
+# Script generation date:     2016-05-12 18:11:27 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -56,7 +57,7 @@
 #   - CVE-2013-1993
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0898
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install glx-utils.x86_64-6.5.1 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0752
 #
 # Security announcement date: 2013-04-17 19:05:02 UTC
-# Script generation date:     2016-04-22 06:20:58 UTC
+# Script generation date:     2016-05-12 18:11:21 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -49,7 +50,7 @@
 #   - CVE-2013-2436
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0752
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install java-1.7.0-openjdk.x86_64-1.7.0.101 -y 

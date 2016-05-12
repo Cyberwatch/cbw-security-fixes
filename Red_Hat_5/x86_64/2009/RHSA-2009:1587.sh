@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:1587
 #
 # Security announcement date: 2009-11-17 15:30:13 UTC
-# Script generation date:     2016-03-15 19:12:42 UTC
+# Script generation date:     2016-05-12 18:09:40 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -41,7 +42,7 @@
 #   - CVE-2009-3547
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2009:1587
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install kernel-doc.noarch-2.6.18 -y 

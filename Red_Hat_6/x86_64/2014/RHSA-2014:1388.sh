@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1388
 #
 # Security announcement date: 2014-10-14 04:56:57 UTC
-# Script generation date:     2016-02-04 19:18:20 UTC
+# Script generation date:     2016-05-12 18:12:23 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -38,7 +39,7 @@
 #   - CVE-2014-5031
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1388
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install cups.x86_64-1.4.2 -y 

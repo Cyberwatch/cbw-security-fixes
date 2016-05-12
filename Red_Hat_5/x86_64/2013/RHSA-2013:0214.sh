@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0214
 #
 # Security announcement date: 2013-01-31 21:53:53 UTC
-# Script generation date:     2016-04-25 18:19:00 UTC
+# Script generation date:     2016-05-12 18:11:13 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -45,7 +46,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0214
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install nspr.x86_64-4.11.0 -y 

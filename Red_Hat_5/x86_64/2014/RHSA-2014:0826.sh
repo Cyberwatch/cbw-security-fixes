@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0826
 #
 # Security announcement date: 2014-07-01 15:08:57 UTC
-# Script generation date:     2016-02-04 19:17:50 UTC
+# Script generation date:     2016-05-12 18:12:05 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -27,7 +28,7 @@
 #   - CVE-2014-0098
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:0826
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install httpd.x86_64-2.2.26 -y 

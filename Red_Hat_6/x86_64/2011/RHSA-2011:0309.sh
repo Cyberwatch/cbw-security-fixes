@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0309
 #
 # Security announcement date: 2011-03-02 01:35:13 UTC
-# Script generation date:     2016-02-04 19:14:48 UTC
+# Script generation date:     2016-05-12 18:10:08 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -28,7 +29,7 @@
 #   - CVE-2011-0064
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:0309
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install pango.x86_64-1.28.1 -y 

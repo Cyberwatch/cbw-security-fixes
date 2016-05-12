@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1862
 #
 # Security announcement date: 2014-11-17 11:20:19 UTC
-# Script generation date:     2016-02-04 19:18:36 UTC
+# Script generation date:     2016-05-12 18:12:33 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -47,7 +48,7 @@
 #   - CVE-2014-6559
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1862
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install mariadb55-mariadb.x86_64-5.5.44 -y 

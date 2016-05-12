@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:1337
 #
 # Security announcement date: 2009-09-02 07:46:11 UTC
-# Script generation date:     2016-02-04 19:14:04 UTC
+# Script generation date:     2016-05-12 18:09:36 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -20,7 +21,7 @@
 #   - CVE-2008-6552
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2009:1337
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install gfs2-utils.x86_64-0.1.62 -y 

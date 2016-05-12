@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1110
 #
 # Security announcement date: 2011-08-01 16:01:07 UTC
-# Script generation date:     2016-03-23 07:12:25 UTC
+# Script generation date:     2016-05-12 18:10:25 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -20,7 +21,7 @@
 #   - CVE-2011-2964
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:1110
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install foomatic.x86_64-4.0.4 -y 

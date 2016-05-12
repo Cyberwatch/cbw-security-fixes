@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0776
 #
 # Security announcement date: 2015-04-02 19:35:13 UTC
-# Script generation date:     2016-02-04 19:19:04 UTC
+# Script generation date:     2016-05-12 18:12:51 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -27,7 +28,7 @@
 #   - CVE-2014-5277
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0776
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install python-websocket-client.noarch-0.14.1 -y 

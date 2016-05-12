@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0377
 #
 # Security announcement date: 2015-03-05 14:47:00 UTC
-# Script generation date:     2016-02-04 19:18:59 UTC
+# Script generation date:     2016-05-12 18:12:47 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -390,7 +391,7 @@
 #   - CVE-2014-3693
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0377
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install autocorr-af.noarch-4.3.7.2 -y 

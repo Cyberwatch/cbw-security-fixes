@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0254
 #
 # Security announcement date: 2014-03-05 19:40:13 UTC
-# Script generation date:     2016-03-22 19:14:29 UTC
+# Script generation date:     2016-05-12 18:11:51 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -23,7 +24,7 @@
 #   - CVE-2014-0003
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:0254
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install activemq.x86_64-5.9.0 -y 

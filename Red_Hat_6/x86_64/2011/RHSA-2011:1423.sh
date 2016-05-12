@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1423
 #
 # Security announcement date: 2011-11-02 22:32:38 UTC
-# Script generation date:     2016-03-22 19:12:24 UTC
+# Script generation date:     2016-05-12 18:10:31 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -78,7 +79,7 @@
 #   - CVE-2011-2483
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:1423
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install php.x86_64-5.3.3 -y 

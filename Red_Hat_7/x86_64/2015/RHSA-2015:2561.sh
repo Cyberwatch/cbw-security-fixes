@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:2561
 #
 # Security announcement date: 2015-12-08 14:22:39 UTC
-# Script generation date:     2016-03-23 19:17:00 UTC
+# Script generation date:     2016-05-12 18:13:31 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -49,7 +50,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:2561
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install emacs-git.noarch-1.8.3.1 -y 

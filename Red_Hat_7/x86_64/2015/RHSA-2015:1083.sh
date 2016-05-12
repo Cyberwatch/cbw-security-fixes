@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1083
 #
 # Security announcement date: 2015-06-09 19:49:13 UTC
-# Script generation date:     2016-02-04 19:19:19 UTC
+# Script generation date:     2016-05-12 18:13:01 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -139,7 +140,7 @@
 #   - CVE-2015-3315
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1083
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install abrt.x86_64-2.1.11 -y 

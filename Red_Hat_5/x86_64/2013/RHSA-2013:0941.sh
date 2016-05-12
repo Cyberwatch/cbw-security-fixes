@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0941
 #
 # Security announcement date: 2013-06-12 09:10:28 UTC
-# Script generation date:     2016-04-08 18:14:04 UTC
+# Script generation date:     2016-05-12 18:11:27 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -18,7 +19,7 @@
 #   - CVE-2013-3343
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0941
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install flash-plugin.i386-11.2.202.616 -y 

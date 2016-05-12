@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1622
 #
 # Security announcement date: 2015-08-13 15:39:46 UTC
-# Script generation date:     2016-02-04 19:19:37 UTC
+# Script generation date:     2016-05-12 18:13:12 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -61,7 +62,7 @@
 #   - CVE-2014-7810
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1622
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install tomcat6.noarch-6.0.41 -y 

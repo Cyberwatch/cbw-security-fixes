@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1550
 #
 # Security announcement date: 2012-12-06 20:38:09 UTC
-# Script generation date:     2016-02-04 19:16:19 UTC
+# Script generation date:     2016-05-12 18:11:05 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -24,7 +25,7 @@
 #   - CVE-2012-4556
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1550
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install pki-common.noarch-8.1.3 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0564
 #
 # Security announcement date: 2013-03-06 20:02:59 UTC
-# Script generation date:     2016-02-04 19:16:34 UTC
+# Script generation date:     2016-05-12 18:11:15 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -74,7 +75,7 @@
 #   - CVE-2012-4462
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0564
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install condor-ec2-enhanced.noarch-1.3.0 -y 

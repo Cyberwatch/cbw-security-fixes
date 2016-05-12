@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0698
 #
 # Security announcement date: 2015-03-18 12:20:17 UTC
-# Script generation date:     2016-02-04 19:19:02 UTC
+# Script generation date:     2016-05-12 18:12:49 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -33,7 +34,7 @@
 #   - CVE-2014-3566
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0698
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install rhevm-spice-client-x64-cab.noarch-3.5 -y 

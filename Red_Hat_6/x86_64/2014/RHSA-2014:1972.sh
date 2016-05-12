@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1972
 #
 # Security announcement date: 2014-12-09 20:55:58 UTC
-# Script generation date:     2016-02-04 19:18:41 UTC
+# Script generation date:     2016-05-12 18:12:36 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -35,7 +36,7 @@
 #   - CVE-2014-3581
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1972
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install httpd24-httpd-manual.noarch-2.4.12 -y 

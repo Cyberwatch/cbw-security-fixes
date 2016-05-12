@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0211
 #
 # Security announcement date: 2014-02-25 16:44:18 UTC
-# Script generation date:     2016-03-03 07:21:30 UTC
+# Script generation date:     2016-05-12 18:11:50 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -52,7 +53,7 @@
 #   - CVE-2014-0066
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:0211
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install postgresql-debuginfo.x86_64-8.4.20 -y 

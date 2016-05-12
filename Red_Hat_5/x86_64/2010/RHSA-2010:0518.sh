@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0518
 #
 # Security announcement date: 2010-07-08 15:48:26 UTC
-# Script generation date:     2016-02-04 19:14:23 UTC
+# Script generation date:     2016-05-12 18:09:49 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -20,7 +21,7 @@
 #   - CVE-2010-2221
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2010:0518
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install scsi-target-utils.x86_64-1.0.8 -y 

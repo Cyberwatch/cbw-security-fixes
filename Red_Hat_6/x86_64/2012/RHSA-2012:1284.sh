@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1284
 #
 # Security announcement date: 2012-09-17 17:02:08 UTC
-# Script generation date:     2016-02-04 19:16:12 UTC
+# Script generation date:     2016-05-12 18:10:59 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -40,7 +41,7 @@
 #   - CVE-2012-4425
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1284
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install spice-glib.x86_64-0.14 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2008:0836
 #
 # Security announcement date: 2008-08-21 17:14:29 UTC
-# Script generation date:     2016-02-04 19:13:42 UTC
+# Script generation date:     2016-05-12 18:09:22 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -54,7 +55,7 @@
 #   - CVE-2008-3281
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2008:0836
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libxml2.x86_64-2.6.26 -y 

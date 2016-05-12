@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0266
 #
 # Security announcement date: 2014-03-10 16:02:54 UTC
-# Script generation date:     2016-02-04 19:17:31 UTC
+# Script generation date:     2016-05-12 18:11:51 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -20,7 +21,7 @@
 #   - CVE-2014-0106
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:0266
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install sudo.x86_64-1.7.2p1 -y 

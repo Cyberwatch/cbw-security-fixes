@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0600
 #
 # Security announcement date: 2011-05-19 12:33:21 UTC
-# Script generation date:     2016-02-04 19:14:58 UTC
+# Script generation date:     2016-05-12 18:10:16 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -33,7 +34,7 @@
 #   - CVE-2010-3780
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:0600
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install dovecot.x86_64-2.0.9 -y 

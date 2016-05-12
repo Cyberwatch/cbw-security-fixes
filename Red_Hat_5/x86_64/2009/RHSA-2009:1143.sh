@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:1143
 #
 # Security announcement date: 2009-07-06 11:47:28 UTC
-# Script generation date:     2016-02-04 19:13:59 UTC
+# Script generation date:     2016-05-12 18:09:34 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -64,7 +65,7 @@
 #   - CVE-2009-0783
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2009:1143
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install hibernate3.noarch-3.3.2 -y 

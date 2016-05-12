@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0970
 #
 # Security announcement date: 2010-12-10 21:49:55 UTC
-# Script generation date:     2016-02-04 19:14:39 UTC
+# Script generation date:     2016-05-12 18:10:01 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -40,7 +41,7 @@
 #   - CVE-2010-4344
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2010:0970
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install exim.x86_64-4.63 -y 

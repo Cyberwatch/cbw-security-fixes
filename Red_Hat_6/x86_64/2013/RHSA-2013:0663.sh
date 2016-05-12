@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0663
 #
 # Security announcement date: 2013-03-19 18:42:28 UTC
-# Script generation date:     2016-04-13 06:14:36 UTC
+# Script generation date:     2016-05-12 18:11:18 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -54,7 +55,7 @@
 #   - CVE-2013-0287
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0663
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libipa_hbac.x86_64-1.9.2 -y 

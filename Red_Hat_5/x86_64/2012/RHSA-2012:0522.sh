@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0522
 #
 # Security announcement date: 2012-04-25 12:48:12 UTC
-# Script generation date:     2016-03-01 19:19:44 UTC
+# Script generation date:     2016-05-12 18:10:46 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -48,7 +49,7 @@
 #   - CVE-2012-2110
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:0522
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openssl.x86_64-0.9.8e -y 

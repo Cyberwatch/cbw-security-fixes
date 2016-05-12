@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0700
 #
 # Security announcement date: 2015-03-18 19:13:46 UTC
-# Script generation date:     2016-02-04 19:19:02 UTC
+# Script generation date:     2016-05-12 18:12:50 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -23,7 +24,7 @@
 #   - CVE-2014-9636
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0700
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install unzip.x86_64-6.0 -y 

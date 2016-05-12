@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2016:0096
 #
 # Security announcement date: 2016-02-01 21:14:59 UTC
-# Script generation date:     2016-02-04 19:20:47 UTC
+# Script generation date:     2016-05-12 18:13:40 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -20,7 +21,7 @@
 #   - CVE-2015-8080
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2016:0096
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install redis.x86_64-2.8.24 -y 

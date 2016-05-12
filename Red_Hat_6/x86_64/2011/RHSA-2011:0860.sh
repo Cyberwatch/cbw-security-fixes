@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0860
 #
 # Security announcement date: 2011-06-08 15:43:01 UTC
-# Script generation date:     2016-04-22 06:19:01 UTC
+# Script generation date:     2016-05-12 18:10:18 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -42,7 +43,7 @@
 #   - CVE-2011-0873
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:0860
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install java-1.6.0-sun.x86_64-1.6.0.115 -y 

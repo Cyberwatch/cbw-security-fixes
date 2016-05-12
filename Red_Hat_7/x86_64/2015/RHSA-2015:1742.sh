@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1742
 #
 # Security announcement date: 2015-09-08 13:12:31 UTC
-# Script generation date:     2016-02-04 19:19:46 UTC
+# Script generation date:     2016-05-12 18:13:17 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -61,7 +62,7 @@
 #   - CVE-2015-3187
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1742
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install mod_dav_svn.x86_64-1.7.14 -y 

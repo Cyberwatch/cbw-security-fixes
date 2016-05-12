@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2016:0591
 #
 # Security announcement date: 2016-04-05 14:25:13 UTC
-# Script generation date:     2016-04-07 18:46:38 UTC
+# Script generation date:     2016-05-12 18:13:47 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -61,7 +62,7 @@
 #   - CVE-2016-1979
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2016:0591
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install nspr.i686-4.11.0 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1799
 #
 # Security announcement date: 2011-12-08 21:23:37 UTC
-# Script generation date:     2016-02-04 19:15:33 UTC
+# Script generation date:     2016-05-12 18:10:34 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -203,7 +204,7 @@
 #   - CVE-2011-4314
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:1799
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install apache-cxf.noarch-2.7.17 -y 

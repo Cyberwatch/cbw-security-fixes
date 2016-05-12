@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1852
 #
 # Security announcement date: 2013-12-17 18:44:00 UTC
-# Script generation date:     2016-02-04 19:17:23 UTC
+# Script generation date:     2016-05-12 18:11:46 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -26,7 +27,7 @@
 #   - CVE-2013-4461
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:1852
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install rubygems.noarch-1.8.24 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2016:0371
 #
 # Security announcement date: 2016-03-09 03:58:30 UTC
-# Script generation date:     2016-04-25 18:23:01 UTC
+# Script generation date:     2016-05-12 18:13:43 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -34,7 +35,7 @@
 #   - CVE-2016-1950
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2016:0371
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install nss.i386-3.21.0 -y 

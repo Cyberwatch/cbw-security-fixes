@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:0296
 #
 # Security announcement date: 2009-03-12 14:52:37 UTC
-# Script generation date:     2016-02-04 19:13:53 UTC
+# Script generation date:     2016-05-12 18:09:29 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -32,7 +33,7 @@
 #   - CVE-2008-1036
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2009:0296
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install icu.x86_64-3.6 -y 

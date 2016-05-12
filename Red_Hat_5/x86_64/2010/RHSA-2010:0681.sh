@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0681
 #
 # Security announcement date: 2010-09-08 01:24:21 UTC
-# Script generation date:     2016-04-25 18:16:52 UTC
+# Script generation date:     2016-05-12 18:09:52 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -36,8 +37,8 @@
 #   - xulrunner-devel.i386:1.9.2.9-1.el5
 #
 # Last versions recommanded by security team:
-#   - firefox.x86_64:38.7.0-1.el5_11
-#   - firefox-debuginfo.x86_64:38.7.0-1.el5_11
+#   - firefox.x86_64:45.1.0-1.el5_11
+#   - firefox-debuginfo.x86_64:45.1.0-1.el5_11
 #   - nspr.x86_64:4.11.0-1.el5_11
 #   - nspr-debuginfo.x86_64:4.11.0-1.el5_11
 #   - nss.x86_64:3.21.0-6.el5_11
@@ -49,8 +50,8 @@
 #   - nss-devel.x86_64:3.21.0-6.el5_11
 #   - nss-pkcs11-devel.x86_64:3.21.0-6.el5_11
 #   - xulrunner-devel.x86_64:17.0.10-1.el5_10
-#   - firefox.i386:38.7.0-1.el5_11
-#   - firefox-debuginfo.i386:38.7.0-1.el5_11
+#   - firefox.i386:45.1.0-1.el5_11
+#   - firefox-debuginfo.i386:45.1.0-1.el5_11
 #   - nspr.i386:4.11.0-1.el5_11
 #   - nspr-debuginfo.i386:4.11.0-1.el5_11
 #   - nss.i386:3.21.0-6.el5_11
@@ -77,11 +78,11 @@
 #   - CVE-2010-3169
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2010:0681
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.x86_64-38.7.0 -y 
-sudo yum install firefox-debuginfo.x86_64-38.7.0 -y 
+sudo yum install firefox.x86_64-45.1.0 -y 
+sudo yum install firefox-debuginfo.x86_64-45.1.0 -y 
 sudo yum install nspr.x86_64-4.11.0 -y 
 sudo yum install nspr-debuginfo.x86_64-4.11.0 -y 
 sudo yum install nss.x86_64-3.21.0 -y 
@@ -93,8 +94,8 @@ sudo yum install nspr-devel.x86_64-4.11.0 -y
 sudo yum install nss-devel.x86_64-3.21.0 -y 
 sudo yum install nss-pkcs11-devel.x86_64-3.21.0 -y 
 sudo yum install xulrunner-devel.x86_64-17.0.10 -y 
-sudo yum install firefox.i386-38.7.0 -y 
-sudo yum install firefox-debuginfo.i386-38.7.0 -y 
+sudo yum install firefox.i386-45.1.0 -y 
+sudo yum install firefox-debuginfo.i386-45.1.0 -y 
 sudo yum install nspr.i386-4.11.0 -y 
 sudo yum install nspr-debuginfo.i386-4.11.0 -y 
 sudo yum install nss.i386-3.21.0 -y 

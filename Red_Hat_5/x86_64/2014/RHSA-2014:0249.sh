@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0249
 #
 # Security announcement date: 2014-03-04 19:50:55 UTC
-# Script generation date:     2016-02-04 19:17:30 UTC
+# Script generation date:     2016-05-12 18:11:51 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -50,7 +51,7 @@
 #   - CVE-2014-0066
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:0249
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install postgresql.x86_64-8.1.23 -y 

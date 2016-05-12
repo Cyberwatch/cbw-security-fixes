@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2016:0006
 #
 # Security announcement date: 2016-01-08 03:40:32 UTC
-# Script generation date:     2016-04-13 06:18:04 UTC
+# Script generation date:     2016-05-12 18:13:35 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -98,7 +99,7 @@
 #   - CVE-2015-7540
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2016:0006
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install samba-common.noarch-4.2.10 -y 

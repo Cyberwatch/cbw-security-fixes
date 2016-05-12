@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:0004
 #
 # Security announcement date: 2009-01-07 14:09:04 UTC
-# Script generation date:     2016-03-01 19:17:35 UTC
+# Script generation date:     2016-05-12 18:09:27 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -56,7 +57,7 @@
 #   - CVE-2008-5077
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2009:0004
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openssl.x86_64-0.9.8e -y 

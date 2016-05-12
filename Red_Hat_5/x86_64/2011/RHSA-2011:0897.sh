@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0897
 #
 # Security announcement date: 2011-06-23 07:10:46 UTC
-# Script generation date:     2016-02-04 19:15:02 UTC
+# Script generation date:     2016-05-12 18:10:18 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -248,7 +249,7 @@
 #   - CVE-2011-0419
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:0897
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ant.noarch-1.7.1 -y 

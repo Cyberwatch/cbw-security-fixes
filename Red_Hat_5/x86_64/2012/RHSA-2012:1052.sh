@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1052
 #
 # Security announcement date: 2012-07-03 09:52:06 UTC
-# Script generation date:     2016-02-04 19:16:03 UTC
+# Script generation date:     2016-05-12 18:10:53 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -24,7 +25,7 @@
 #   - CVE-2012-1154
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1052
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install mod_cluster-demo.noarch-1.2.11 -y 

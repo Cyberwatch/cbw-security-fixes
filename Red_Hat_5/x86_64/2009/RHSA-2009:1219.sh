@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:1219
 #
 # Security announcement date: 2009-08-18 18:34:24 UTC
-# Script generation date:     2016-02-04 19:14:03 UTC
+# Script generation date:     2016-05-12 18:09:35 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -28,7 +29,7 @@
 #   - CVE-2009-2663
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2009:1219
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libvorbis.x86_64-1.1.2 -y 

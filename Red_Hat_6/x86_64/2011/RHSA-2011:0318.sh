@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0318
 #
 # Security announcement date: 2011-03-03 01:26:35 UTC
-# Script generation date:     2016-02-04 19:14:49 UTC
+# Script generation date:     2016-05-12 18:10:09 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2011-0192
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:0318
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libtiff.x86_64-3.9.4 -y 

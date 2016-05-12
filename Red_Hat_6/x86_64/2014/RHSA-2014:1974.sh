@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1974
 #
 # Security announcement date: 2014-12-09 21:00:44 UTC
-# Script generation date:     2016-02-04 19:18:41 UTC
+# Script generation date:     2016-05-12 18:12:36 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -38,7 +39,7 @@
 #   - CVE-2013-6435
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1974
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install rpm.x86_64-4.8.0 -y 

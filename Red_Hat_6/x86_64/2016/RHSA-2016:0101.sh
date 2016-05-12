@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2016:0101
 #
 # Security announcement date: 2016-02-02 14:54:23 UTC
-# Script generation date:     2016-02-04 19:20:47 UTC
+# Script generation date:     2016-05-12 18:13:40 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -18,13 +19,13 @@
 #   - java-1.6.0-ibm-src.x86_64:1.6.0.16.20-1jpp.1.el6_7
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-ibm.x86_64:1.6.0.16.20-1jpp.1.el6_7
-#   - java-1.6.0-ibm-demo.x86_64:1.6.0.16.20-1jpp.1.el6_7
-#   - java-1.6.0-ibm-devel.x86_64:1.6.0.16.20-1jpp.1.el6_7
-#   - java-1.6.0-ibm-javacomm.x86_64:1.6.0.16.20-1jpp.1.el6_7
-#   - java-1.6.0-ibm-jdbc.x86_64:1.6.0.16.20-1jpp.1.el6_7
-#   - java-1.6.0-ibm-plugin.x86_64:1.6.0.16.20-1jpp.1.el6_7
-#   - java-1.6.0-ibm-src.x86_64:1.6.0.16.20-1jpp.1.el6_7
+#   - java-1.6.0-ibm.x86_64:1.6.0.16.25-1jpp.1.el6_7
+#   - java-1.6.0-ibm-demo.x86_64:1.6.0.16.25-1jpp.1.el6_7
+#   - java-1.6.0-ibm-devel.x86_64:1.6.0.16.25-1jpp.1.el6_7
+#   - java-1.6.0-ibm-javacomm.x86_64:1.6.0.16.25-1jpp.1.el6_7
+#   - java-1.6.0-ibm-jdbc.x86_64:1.6.0.16.25-1jpp.1.el6_7
+#   - java-1.6.0-ibm-plugin.x86_64:1.6.0.16.25-1jpp.1.el6_7
+#   - java-1.6.0-ibm-src.x86_64:1.6.0.16.25-1jpp.1.el6_7
 #
 # CVE List:
 #   - CVE-2015-5041
@@ -40,13 +41,13 @@
 #   - CVE-2016-0494
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2016:0101
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-ibm.x86_64-1.6.0.16.20 -y 
-sudo yum install java-1.6.0-ibm-demo.x86_64-1.6.0.16.20 -y 
-sudo yum install java-1.6.0-ibm-devel.x86_64-1.6.0.16.20 -y 
-sudo yum install java-1.6.0-ibm-javacomm.x86_64-1.6.0.16.20 -y 
-sudo yum install java-1.6.0-ibm-jdbc.x86_64-1.6.0.16.20 -y 
-sudo yum install java-1.6.0-ibm-plugin.x86_64-1.6.0.16.20 -y 
-sudo yum install java-1.6.0-ibm-src.x86_64-1.6.0.16.20 -y 
+sudo yum install java-1.6.0-ibm.x86_64-1.6.0.16.25 -y 
+sudo yum install java-1.6.0-ibm-demo.x86_64-1.6.0.16.25 -y 
+sudo yum install java-1.6.0-ibm-devel.x86_64-1.6.0.16.25 -y 
+sudo yum install java-1.6.0-ibm-javacomm.x86_64-1.6.0.16.25 -y 
+sudo yum install java-1.6.0-ibm-jdbc.x86_64-1.6.0.16.25 -y 
+sudo yum install java-1.6.0-ibm-plugin.x86_64-1.6.0.16.25 -y 
+sudo yum install java-1.6.0-ibm-src.x86_64-1.6.0.16.25 -y 

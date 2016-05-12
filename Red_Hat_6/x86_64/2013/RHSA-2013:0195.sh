@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0195
 #
 # Security announcement date: 2013-01-24 19:22:40 UTC
-# Script generation date:     2016-02-04 19:16:30 UTC
+# Script generation date:     2016-05-12 18:11:11 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -319,7 +320,7 @@
 #   - CVE-2012-5478
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0195
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install aopalliance.noarch-1.0 -y 

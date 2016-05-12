@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1248
 #
 # Security announcement date: 2011-09-02 11:57:23 UTC
-# Script generation date:     2016-02-04 19:15:23 UTC
+# Script generation date:     2016-05-12 18:10:27 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,7 +18,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:1248
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ca-certificates.noarch-2013.1.95 -y 

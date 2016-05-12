@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1416
 #
 # Security announcement date: 2012-10-30 17:40:22 UTC
-# Script generation date:     2016-02-04 19:16:16 UTC
+# Script generation date:     2016-05-12 18:11:02 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -33,7 +34,7 @@
 #   - CVE-2012-4513
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1416
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install kdelibs.x86_64-4.3.4 -y 

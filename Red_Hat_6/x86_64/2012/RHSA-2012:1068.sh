@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1068
 #
 # Security announcement date: 2012-07-11 16:50:25 UTC
-# Script generation date:     2016-02-04 19:16:04 UTC
+# Script generation date:     2016-05-12 18:10:53 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -31,7 +32,7 @@
 #   - CVE-2012-3358
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1068
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openjpeg-debuginfo.x86_64-1.3 -y 

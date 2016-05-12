@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0229
 #
 # Security announcement date: 2013-02-05 00:10:51 UTC
-# Script generation date:     2016-02-04 19:16:33 UTC
+# Script generation date:     2016-05-12 18:11:14 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -18,7 +19,7 @@
 #   - CVE-2012-5629
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0229
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install jbosssx2.noarch-2.0.5 -y 

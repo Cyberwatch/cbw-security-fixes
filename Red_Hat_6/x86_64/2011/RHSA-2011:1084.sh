@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1084
 #
 # Security announcement date: 2011-07-20 18:26:05 UTC
-# Script generation date:     2016-02-04 19:15:19 UTC
+# Script generation date:     2016-05-12 18:10:24 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -28,7 +29,7 @@
 #   - CVE-2011-2696
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:1084
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libsndfile.x86_64-1.0.20 -y 

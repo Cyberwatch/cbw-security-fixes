@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0616
 #
 # Security announcement date: 2011-05-19 12:34:18 UTC
-# Script generation date:     2016-02-04 19:14:58 UTC
+# Script generation date:     2016-05-12 18:10:16 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -50,7 +51,7 @@
 #   - CVE-2011-1091
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:0616
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libpurple.x86_64-2.7.9 -y 

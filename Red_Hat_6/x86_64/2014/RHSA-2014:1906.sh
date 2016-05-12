@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1906
 #
 # Security announcement date: 2014-11-25 18:35:23 UTC
-# Script generation date:     2016-03-22 19:15:32 UTC
+# Script generation date:     2016-05-12 18:12:34 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -51,7 +52,7 @@
 #   - CVE-2014-3674
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1906
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openshift-enterprise-release.noarch-2.2.9 -y 

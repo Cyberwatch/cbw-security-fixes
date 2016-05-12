@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2016:0457
 #
 # Security announcement date: 2016-03-15 21:10:47 UTC
-# Script generation date:     2016-03-18 07:16:01 UTC
+# Script generation date:     2016-05-12 18:13:44 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -83,7 +84,7 @@
 #   - CVE-2015-7804
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2016:0457
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install rh-php56-php.x86_64-5.6.5 -y 

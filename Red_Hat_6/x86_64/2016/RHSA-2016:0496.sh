@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2016:0496
 #
 # Security announcement date: 2016-03-23 13:36:40 UTC
-# Script generation date:     2016-03-25 19:17:32 UTC
+# Script generation date:     2016-05-12 18:13:46 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -43,7 +44,7 @@
 #   - CVE-2016-2324
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2016:0496
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install git.x86_64-1.7.1 -y 

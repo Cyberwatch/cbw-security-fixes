@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0120
 #
 # Security announcement date: 2013-01-08 06:42:24 UTC
-# Script generation date:     2016-02-04 19:16:24 UTC
+# Script generation date:     2016-05-12 18:11:08 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -20,7 +21,7 @@
 #   - CVE-2012-3417
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0120
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install quota.x86_64-3.13 -y 

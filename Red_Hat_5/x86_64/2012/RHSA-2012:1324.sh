@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1324
 #
 # Security announcement date: 2012-10-02 17:48:09 UTC
-# Script generation date:     2016-02-04 19:16:14 UTC
+# Script generation date:     2016-05-12 18:11:00 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -27,7 +28,7 @@
 #   - CVE-2012-2807
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1324
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install rhev-hypervisor5.noarch-5.8 -y 

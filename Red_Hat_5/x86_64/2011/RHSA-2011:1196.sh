@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1196
 #
 # Security announcement date: 2011-08-23 14:49:05 UTC
-# Script generation date:     2016-02-04 19:15:22 UTC
+# Script generation date:     2016-05-12 18:10:26 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -22,7 +23,7 @@
 #   - CVE-2011-2899
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:1196
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install system-config-printer.x86_64-0.7.32.10 -y 

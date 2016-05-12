@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0822
 #
 # Security announcement date: 2013-05-14 20:13:31 UTC
-# Script generation date:     2016-02-04 19:16:44 UTC
+# Script generation date:     2016-05-12 18:11:22 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -23,18 +24,18 @@
 #   - java-1.7.0-ibm-src.i386:1.7.0.4.2-1jpp.1.el5_9
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-ibm.x86_64:1.7.0.9.30-1jpp.1.el5
-#   - java-1.7.0-ibm-demo.x86_64:1.7.0.9.30-1jpp.1.el5
-#   - java-1.7.0-ibm-devel.x86_64:1.7.0.9.30-1jpp.1.el5
-#   - java-1.7.0-ibm-jdbc.x86_64:1.7.0.9.30-1jpp.1.el5
-#   - java-1.7.0-ibm-plugin.x86_64:1.7.0.9.30-1jpp.1.el5
-#   - java-1.7.0-ibm-src.x86_64:1.7.0.9.30-1jpp.1.el5
-#   - java-1.7.0-ibm.i386:1.7.0.9.30-1jpp.1.el5
-#   - java-1.7.0-ibm-demo.i386:1.7.0.9.30-1jpp.1.el5
-#   - java-1.7.0-ibm-devel.i386:1.7.0.9.30-1jpp.1.el5
-#   - java-1.7.0-ibm-jdbc.i386:1.7.0.9.30-1jpp.1.el5
-#   - java-1.7.0-ibm-plugin.i386:1.7.0.9.30-1jpp.1.el5
-#   - java-1.7.0-ibm-src.i386:1.7.0.9.30-1jpp.1.el5
+#   - java-1.7.0-ibm.x86_64:1.7.0.9.40-1jpp.1.el5
+#   - java-1.7.0-ibm-demo.x86_64:1.7.0.9.40-1jpp.1.el5
+#   - java-1.7.0-ibm-devel.x86_64:1.7.0.9.40-1jpp.1.el5
+#   - java-1.7.0-ibm-jdbc.x86_64:1.7.0.9.40-1jpp.1.el5
+#   - java-1.7.0-ibm-plugin.x86_64:1.7.0.9.40-1jpp.1.el5
+#   - java-1.7.0-ibm-src.x86_64:1.7.0.9.40-1jpp.1.el5
+#   - java-1.7.0-ibm.i386:1.7.0.9.40-1jpp.1.el5
+#   - java-1.7.0-ibm-demo.i386:1.7.0.9.40-1jpp.1.el5
+#   - java-1.7.0-ibm-devel.i386:1.7.0.9.40-1jpp.1.el5
+#   - java-1.7.0-ibm-jdbc.i386:1.7.0.9.40-1jpp.1.el5
+#   - java-1.7.0-ibm-plugin.i386:1.7.0.9.40-1jpp.1.el5
+#   - java-1.7.0-ibm-src.i386:1.7.0.9.40-1jpp.1.el5
 #
 # CVE List:
 #   - CVE-2013-0169
@@ -71,18 +72,18 @@
 #   - CVE-2013-2440
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0822
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.0-ibm.x86_64-1.7.0.9.30 -y 
-sudo yum install java-1.7.0-ibm-demo.x86_64-1.7.0.9.30 -y 
-sudo yum install java-1.7.0-ibm-devel.x86_64-1.7.0.9.30 -y 
-sudo yum install java-1.7.0-ibm-jdbc.x86_64-1.7.0.9.30 -y 
-sudo yum install java-1.7.0-ibm-plugin.x86_64-1.7.0.9.30 -y 
-sudo yum install java-1.7.0-ibm-src.x86_64-1.7.0.9.30 -y 
-sudo yum install java-1.7.0-ibm.i386-1.7.0.9.30 -y 
-sudo yum install java-1.7.0-ibm-demo.i386-1.7.0.9.30 -y 
-sudo yum install java-1.7.0-ibm-devel.i386-1.7.0.9.30 -y 
-sudo yum install java-1.7.0-ibm-jdbc.i386-1.7.0.9.30 -y 
-sudo yum install java-1.7.0-ibm-plugin.i386-1.7.0.9.30 -y 
-sudo yum install java-1.7.0-ibm-src.i386-1.7.0.9.30 -y 
+sudo yum install java-1.7.0-ibm.x86_64-1.7.0.9.40 -y 
+sudo yum install java-1.7.0-ibm-demo.x86_64-1.7.0.9.40 -y 
+sudo yum install java-1.7.0-ibm-devel.x86_64-1.7.0.9.40 -y 
+sudo yum install java-1.7.0-ibm-jdbc.x86_64-1.7.0.9.40 -y 
+sudo yum install java-1.7.0-ibm-plugin.x86_64-1.7.0.9.40 -y 
+sudo yum install java-1.7.0-ibm-src.x86_64-1.7.0.9.40 -y 
+sudo yum install java-1.7.0-ibm.i386-1.7.0.9.40 -y 
+sudo yum install java-1.7.0-ibm-demo.i386-1.7.0.9.40 -y 
+sudo yum install java-1.7.0-ibm-devel.i386-1.7.0.9.40 -y 
+sudo yum install java-1.7.0-ibm-jdbc.i386-1.7.0.9.40 -y 
+sudo yum install java-1.7.0-ibm-plugin.i386-1.7.0.9.40 -y 
+sudo yum install java-1.7.0-ibm-src.i386-1.7.0.9.40 -y 

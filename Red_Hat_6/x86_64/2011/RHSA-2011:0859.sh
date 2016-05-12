@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0859
 #
 # Security announcement date: 2011-06-08 15:40:29 UTC
-# Script generation date:     2016-02-04 19:15:00 UTC
+# Script generation date:     2016-05-12 18:10:18 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -28,7 +29,7 @@
 #   - CVE-2011-1926
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:0859
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install cyrus-imapd.x86_64-2.3.16 -y 

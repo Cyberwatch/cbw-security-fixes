@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1034
 #
 # Security announcement date: 2014-08-07 18:45:42 UTC
-# Script generation date:     2016-02-04 19:18:02 UTC
+# Script generation date:     2016-05-12 18:12:13 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -36,7 +37,7 @@
 #   - CVE-2014-0119
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1034
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install tomcat-servlet-3.0-api.noarch-7.0.54 -y 

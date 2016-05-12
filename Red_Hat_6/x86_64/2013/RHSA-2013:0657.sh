@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0657
 #
 # Security announcement date: 2013-03-21 18:28:36 UTC
-# Script generation date:     2016-02-04 19:16:39 UTC
+# Script generation date:     2016-05-12 18:11:18 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -41,7 +42,7 @@
 #   - CVE-2013-1665
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0657
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openstack-nova.noarch-2014.1.5 -y 

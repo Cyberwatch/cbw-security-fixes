@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0492
 #
 # Security announcement date: 2011-05-05 18:59:21 UTC
-# Script generation date:     2016-02-04 19:14:56 UTC
+# Script generation date:     2016-05-12 18:10:15 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -35,7 +36,7 @@
 #   - CVE-2011-1521
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:0492
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install python.x86_64-2.4.3 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2008:0583
 #
 # Security announcement date: 2008-07-09 14:54:33 UTC
-# Script generation date:     2016-02-04 19:13:38 UTC
+# Script generation date:     2016-05-12 18:09:20 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -38,7 +39,7 @@
 #   - CVE-2008-2952
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2008:0583
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install compat-openldap.x86_64-2.3.43_2.2.29 -y 

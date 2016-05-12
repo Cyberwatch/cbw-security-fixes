@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1898
 #
 # Security announcement date: 2015-10-15 20:44:53 UTC
-# Script generation date:     2016-02-04 19:19:51 UTC
+# Script generation date:     2016-05-12 18:13:21 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -109,7 +110,7 @@
 #   - CVE-2015-3280
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1898
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openstack-nova.noarch-2015.1.2 -y 

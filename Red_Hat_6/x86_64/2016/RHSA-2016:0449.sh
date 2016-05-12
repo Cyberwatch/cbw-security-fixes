@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2016:0449
 #
 # Security announcement date: 2016-03-15 13:30:43 UTC
-# Script generation date:     2016-04-13 06:18:19 UTC
+# Script generation date:     2016-05-12 18:13:44 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -46,7 +47,7 @@
 #   - CVE-2015-7560
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2016:0449
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install samba4.x86_64-4.2.10 -y 

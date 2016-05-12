@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0595
 #
 # Security announcement date: 2014-06-03 16:36:04 UTC
-# Script generation date:     2016-02-04 19:17:43 UTC
+# Script generation date:     2016-05-12 18:12:00 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -34,7 +35,7 @@
 #   - CVE-2014-3466
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:0595
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install gnutls.x86_64-2.8.5 -y 

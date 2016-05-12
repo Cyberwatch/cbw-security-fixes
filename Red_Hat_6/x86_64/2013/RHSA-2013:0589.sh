@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0589
 #
 # Security announcement date: 2013-03-04 21:22:20 UTC
-# Script generation date:     2016-03-23 19:13:32 UTC
+# Script generation date:     2016-05-12 18:11:14 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -42,7 +43,7 @@
 #   - CVE-2013-0308
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0589
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install emacs-git.noarch-1.7.1 -y 

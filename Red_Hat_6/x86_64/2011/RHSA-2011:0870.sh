@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0870
 #
 # Security announcement date: 2011-06-15 10:20:06 UTC
-# Script generation date:     2016-02-04 19:15:00 UTC
+# Script generation date:     2016-05-12 18:10:18 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -28,7 +29,7 @@
 #   - CVE-2011-0311
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:0870
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install java-1.4.2-ibm-sap.x86_64-1.4.2.13.13.sap -y 

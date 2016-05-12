@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0113
 #
 # Security announcement date: 2015-02-02 19:22:23 UTC
-# Script generation date:     2016-02-04 19:18:50 UTC
+# Script generation date:     2016-05-12 18:12:42 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -29,7 +30,7 @@
 #   - CVE-2014-6055
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0113
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libvncserver.x86_64-0.9.7 -y 

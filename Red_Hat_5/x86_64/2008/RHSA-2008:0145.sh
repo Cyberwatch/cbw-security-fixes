@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2008:0145
 #
 # Security announcement date: 2008-04-17 01:45:39 UTC
-# Script generation date:     2016-02-04 19:13:31 UTC
+# Script generation date:     2016-05-12 18:09:16 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -61,7 +62,7 @@
 #   - CVE-2008-1097
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2008:0145
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ImageMagick.x86_64-6.2.8.0 -y 

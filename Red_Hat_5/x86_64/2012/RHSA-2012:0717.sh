@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0717
 #
 # Security announcement date: 2012-06-07 16:56:13 UTC
-# Script generation date:     2016-03-16 19:10:01 UTC
+# Script generation date:     2016-05-12 18:10:50 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -35,7 +36,7 @@
 #   - CVE-2012-1667
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:0717
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install bind97.x86_64-9.7.0 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0992
 #
 # Security announcement date: 2013-06-27 18:21:31 UTC
-# Script generation date:     2016-02-04 19:16:53 UTC
+# Script generation date:     2016-05-12 18:11:28 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -21,7 +22,7 @@
 #   - CVE-2013-2167
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0992
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install python-keystoneclient.noarch-0.9.0 -y 

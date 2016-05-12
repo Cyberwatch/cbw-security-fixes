@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0246
 #
 # Security announcement date: 2015-02-19 21:19:22 UTC
-# Script generation date:     2016-02-04 19:18:55 UTC
+# Script generation date:     2016-05-12 18:12:44 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -22,7 +23,7 @@
 #   - CVE-2014-9493
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0246
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openstack-glance.noarch-2015.1.1 -y 

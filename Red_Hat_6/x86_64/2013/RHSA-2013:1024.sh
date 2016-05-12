@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1024
 #
 # Security announcement date: 2013-07-11 13:40:09 UTC
-# Script generation date:     2016-02-04 19:16:55 UTC
+# Script generation date:     2016-05-12 18:11:29 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -74,7 +75,7 @@
 #   - CVE-2013-1909
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:1024
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install python-qpid.noarch-0.30 -y 

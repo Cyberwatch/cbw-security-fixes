@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:1199
 #
 # Security announcement date: 2009-08-06 21:13:44 UTC
-# Script generation date:     2016-02-04 19:14:01 UTC
+# Script generation date:     2016-05-12 18:09:35 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -34,7 +35,7 @@
 #   - CVE-2009-2689
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2009:1199
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install java-1.5.0-sun.x86_64-1.5.0.22 -y 

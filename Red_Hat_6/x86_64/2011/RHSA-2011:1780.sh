@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1780
 #
 # Security announcement date: 2011-12-05 17:49:48 UTC
-# Script generation date:     2016-02-04 19:15:31 UTC
+# Script generation date:     2016-05-12 18:10:33 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -37,7 +38,7 @@
 #   - CVE-2011-3190
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:1780
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install tomcat6.noarch-6.0.41 -y 

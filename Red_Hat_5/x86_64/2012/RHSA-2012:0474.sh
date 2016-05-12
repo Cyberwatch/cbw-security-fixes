@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:0474
 #
 # Security announcement date: 2012-04-11 18:20:02 UTC
-# Script generation date:     2016-02-04 19:15:51 UTC
+# Script generation date:     2016-05-12 18:10:45 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -41,7 +42,7 @@
 #   - CVE-2012-0022
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:0474
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install tomcat5-debuginfo.x86_64-5.5.23 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2008:1045
 #
 # Security announcement date: 2008-12-18 18:35:46 UTC
-# Script generation date:     2016-02-04 19:13:49 UTC
+# Script generation date:     2016-05-12 18:09:27 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -23,7 +24,7 @@
 #   - CVE-2008-3110
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2008:1045
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install java-1.6.0-bea-uninstall.x86_64-1.6.0.03 -y 

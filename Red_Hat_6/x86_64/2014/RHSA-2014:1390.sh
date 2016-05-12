@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1390
 #
 # Security announcement date: 2014-10-14 04:59:10 UTC
-# Script generation date:     2016-02-04 19:18:21 UTC
+# Script generation date:     2016-05-12 18:12:23 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -20,7 +21,7 @@
 #   - CVE-2014-3593
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1390
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install luci.x86_64-0.26.0 -y 

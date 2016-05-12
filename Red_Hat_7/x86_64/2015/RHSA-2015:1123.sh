@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1123
 #
 # Security announcement date: 2015-06-17 21:08:46 UTC
-# Script generation date:     2016-02-04 19:19:20 UTC
+# Script generation date:     2016-05-12 18:13:01 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -42,7 +43,7 @@
 #   - CVE-2015-1159
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1123
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install cups-filesystem.noarch-1.6.3 -y 

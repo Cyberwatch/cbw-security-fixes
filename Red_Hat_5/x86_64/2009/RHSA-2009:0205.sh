@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:0205
 #
 # Security announcement date: 2009-01-20 19:31:30 UTC
-# Script generation date:     2016-02-04 19:13:51 UTC
+# Script generation date:     2016-05-12 18:09:28 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -21,7 +22,7 @@
 #   - CVE-2008-4870
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2009:0205
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install dovecot.x86_64-1.0.7 -y 

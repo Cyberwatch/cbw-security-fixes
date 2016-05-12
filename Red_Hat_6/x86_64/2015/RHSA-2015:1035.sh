@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1035
 #
 # Security announcement date: 2015-05-28 11:47:57 UTC
-# Script generation date:     2016-02-04 19:19:16 UTC
+# Script generation date:     2016-05-12 18:12:59 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -19,7 +20,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1035
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install redhat-release-computenode.x86_64-6ComputeNode -y 

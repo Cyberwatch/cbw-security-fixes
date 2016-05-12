@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1207
 #
 # Security announcement date: 2013-09-04 19:04:15 UTC
-# Script generation date:     2016-02-04 19:17:01 UTC
+# Script generation date:     2016-05-12 18:11:33 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -274,7 +275,7 @@
 #   - CVE-2013-4112
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:1207
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install apache-commons-beanutils.noarch-1.8.3 -y 

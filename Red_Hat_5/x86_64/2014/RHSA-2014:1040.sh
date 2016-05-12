@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1040
 #
 # Security announcement date: 2014-08-11 17:29:12 UTC
-# Script generation date:     2016-02-04 19:18:02 UTC
+# Script generation date:     2016-05-12 18:12:13 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -19,7 +20,7 @@
 #   - CVE-2012-0818
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1040
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install resteasy.noarch-2.3.12 -y 

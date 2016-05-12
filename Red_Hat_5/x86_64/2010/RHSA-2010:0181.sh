@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0181
 #
 # Security announcement date: 2010-03-30 16:58:46 UTC
-# Script generation date:     2016-02-04 19:14:18 UTC
+# Script generation date:     2016-05-12 18:09:45 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2008-3279
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2010:0181
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install brlapi.x86_64-0.4.1 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0950
 #
 # Security announcement date: 2010-12-08 00:28:20 UTC
-# Script generation date:     2016-02-04 19:14:38 UTC
+# Script generation date:     2016-05-12 18:10:00 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -38,7 +39,7 @@
 #   - CVE-2010-1623
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2010:0950
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install apr-util.x86_64-1.3.9 -y 

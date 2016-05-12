@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2009:0354
 #
 # Security announcement date: 2009-03-16 15:00:25 UTC
-# Script generation date:     2016-02-04 19:13:53 UTC
+# Script generation date:     2016-05-12 18:09:29 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -45,7 +46,7 @@
 #   - CVE-2009-0587
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2009:0354
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libsoup.x86_64-2.2.98 -y 

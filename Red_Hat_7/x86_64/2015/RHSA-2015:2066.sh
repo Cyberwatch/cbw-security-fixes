@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:2066
 #
 # Security announcement date: 2015-11-23 21:49:36 UTC
-# Script generation date:     2016-02-04 19:20:08 UTC
+# Script generation date:     2016-05-12 18:13:28 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -88,7 +89,7 @@
 #   - CVE-2015-5245
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:2066
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install radosgw-agent.noarch-1.2.3 -y 

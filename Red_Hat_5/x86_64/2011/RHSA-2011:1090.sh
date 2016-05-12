@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:1090
 #
 # Security announcement date: 2011-07-27 14:51:51 UTC
-# Script generation date:     2016-02-04 19:15:20 UTC
+# Script generation date:     2016-05-12 18:10:25 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -39,7 +40,7 @@
 #   - CVE-2007-6200
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:1090
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install rhev-hypervisor.noarch-5.7 -y 

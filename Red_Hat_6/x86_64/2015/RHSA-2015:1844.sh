@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1844
 #
 # Security announcement date: 2015-09-30 16:37:49 UTC
-# Script generation date:     2016-03-22 19:16:40 UTC
+# Script generation date:     2016-05-12 18:13:18 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -72,7 +73,7 @@
 #   - CVE-2015-1814
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1844
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install rhc.noarch-1.38.4.5 -y 

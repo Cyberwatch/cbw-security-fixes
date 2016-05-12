@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2010:0819
 #
 # Security announcement date: 2010-11-01 19:52:53 UTC
-# Script generation date:     2016-02-04 19:14:33 UTC
+# Script generation date:     2016-05-12 18:09:56 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2010-3853
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2010:0819
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install pam.x86_64-0.99.6.2 -y 

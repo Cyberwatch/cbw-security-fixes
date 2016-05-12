@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:0220
 #
 # Security announcement date: 2013-01-31 22:00:01 UTC
-# Script generation date:     2016-03-22 19:13:31 UTC
+# Script generation date:     2016-05-12 18:11:13 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -90,7 +91,7 @@
 #   - CVE-2013-0164
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:0220
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install rhc.noarch-1.38.4.5 -y 

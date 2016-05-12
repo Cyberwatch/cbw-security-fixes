@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:0322
 #
 # Security announcement date: 2014-03-24 18:08:59 UTC
-# Script generation date:     2016-02-04 19:17:33 UTC
+# Script generation date:     2016-05-12 18:11:53 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -35,7 +36,7 @@
 #   - CVE-2014-2285
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:0322
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install net-snmp.x86_64-5.3.2.2 -y 

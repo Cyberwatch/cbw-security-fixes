@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:2378
 #
 # Security announcement date: 2015-11-19 21:54:33 UTC
-# Script generation date:     2016-02-04 19:20:00 UTC
+# Script generation date:     2016-05-12 18:13:27 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -22,7 +23,7 @@
 #   - CVE-2015-3455
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:2378
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install squid.x86_64-3.3.8 -y 

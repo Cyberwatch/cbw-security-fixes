@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1805
 #
 # Security announcement date: 2013-12-10 00:26:03 UTC
-# Script generation date:     2016-04-13 06:15:18 UTC
+# Script generation date:     2016-05-12 18:11:44 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -46,7 +47,7 @@
 #   - CVE-2013-4408
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:1805
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install samba4.x86_64-4.2.10 -y 

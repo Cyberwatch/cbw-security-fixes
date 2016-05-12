@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1265
 #
 # Security announcement date: 2012-09-13 17:59:24 UTC
-# Script generation date:     2016-02-04 19:16:11 UTC
+# Script generation date:     2016-05-12 18:10:58 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -34,7 +35,7 @@
 #   - CVE-2012-2871
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1265
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libxslt.x86_64-1.1.17 -y 

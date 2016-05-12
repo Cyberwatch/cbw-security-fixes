@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:0216
 #
 # Security announcement date: 2015-02-11 20:49:41 UTC
-# Script generation date:     2016-02-04 19:18:53 UTC
+# Script generation date:     2016-05-12 18:12:43 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -206,7 +207,7 @@
 #   - CVE-2014-8122
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:0216
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install antlr-eap6.noarch-2.7.7 -y 

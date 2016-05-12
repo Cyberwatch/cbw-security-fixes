@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1699
 #
 # Security announcement date: 2015-09-01 07:47:44 UTC
-# Script generation date:     2016-04-25 18:22:21 UTC
+# Script generation date:     2016-05-12 18:13:16 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -36,7 +37,7 @@
 #   - CVE-2015-2730
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1699
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install nss-softokn.x86_64-3.16.2.3 -y 

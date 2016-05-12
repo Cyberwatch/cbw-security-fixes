@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2012:1201
 #
 # Security announcement date: 2012-08-23 15:11:37 UTC
-# Script generation date:     2016-02-04 19:16:09 UTC
+# Script generation date:     2016-05-12 18:10:57 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -39,7 +40,7 @@
 #   - CVE-2011-1554
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2012:1201
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install tetex.x86_64-3.0 -y 

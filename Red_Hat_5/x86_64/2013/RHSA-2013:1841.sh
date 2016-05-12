@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1841
 #
 # Security announcement date: 2013-12-16 18:47:15 UTC
-# Script generation date:     2016-04-25 18:19:53 UTC
+# Script generation date:     2016-05-12 18:11:46 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -70,7 +71,7 @@
 #   - CVE-2013-5605
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:1841
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install nss.x86_64-3.21.0 -y 

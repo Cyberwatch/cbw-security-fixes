@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2016:0372
 #
 # Security announcement date: 2016-03-09 04:16:04 UTC
-# Script generation date:     2016-03-11 07:25:38 UTC
+# Script generation date:     2016-05-12 18:13:43 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -28,7 +29,7 @@
 #   - CVE-2016-0800
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2016:0372
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openssl098e.i686-0.9.8e -y 

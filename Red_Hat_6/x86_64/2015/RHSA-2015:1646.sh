@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1646
 #
 # Security announcement date: 2015-08-20 09:04:47 UTC
-# Script generation date:     2016-02-04 19:19:40 UTC
+# Script generation date:     2016-05-12 18:13:13 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -54,7 +55,7 @@
 #   - CVE-2015-4772
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1646
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install rh-mariadb100-mariadb.x86_64-10.0.20 -y 

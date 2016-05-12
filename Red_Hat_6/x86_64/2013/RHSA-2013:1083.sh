@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2013:1083
 #
 # Security announcement date: 2013-07-16 18:31:52 UTC
-# Script generation date:     2016-02-04 19:16:57 UTC
+# Script generation date:     2016-05-12 18:11:30 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -22,7 +23,7 @@
 #   - CVE-2013-2157
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2013:1083
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openstack-keystone.noarch-2014.1.3 -y 

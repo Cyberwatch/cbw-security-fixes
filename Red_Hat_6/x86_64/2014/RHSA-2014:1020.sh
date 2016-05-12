@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2014:1020
 #
 # Security announcement date: 2014-08-06 17:12:04 UTC
-# Script generation date:     2016-02-04 19:18:01 UTC
+# Script generation date:     2016-05-12 18:12:11 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -414,7 +415,7 @@
 #   - CVE-2014-3472
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2014:1020
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install apache-commons-beanutils-eap6.noarch-1.8.3 -y 

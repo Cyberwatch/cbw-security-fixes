@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2015:1917
 #
 # Security announcement date: 2015-10-20 16:18:23 UTC
-# Script generation date:     2016-02-04 19:19:53 UTC
+# Script generation date:     2016-05-12 18:13:22 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -35,7 +36,7 @@
 #   - CVE-2015-4696
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2015:1917
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libwmf.x86_64-0.2.8.4 -y 

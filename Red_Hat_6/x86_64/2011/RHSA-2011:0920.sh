@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for RHSA-2011:0920
 #
 # Security announcement date: 2011-07-05 18:20:06 UTC
-# Script generation date:     2016-02-04 19:15:05 UTC
+# Script generation date:     2016-05-12 18:10:20 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -22,7 +23,7 @@
 #   - CVE-2011-1526
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/RHSA-2011:0920
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install krb5-appl-clients.x86_64-1.0.1 -y 
