@@ -4,7 +4,7 @@
 # Security fix for USN-2795-1
 #
 # Security announcement date: 2015-11-05 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:22 UTC
+# Script generation date:     2016-05-12 18:03:04 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -22,7 +22,7 @@
 #   - CVE-2015-5257
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2795-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-67-generic-lpae=3.13.0-67.110~precise1 -y

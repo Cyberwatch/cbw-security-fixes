@@ -4,7 +4,7 @@
 # Security fix for USN-2445-1
 #
 # Security announcement date: 2014-12-12 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:30 UTC
+# Script generation date:     2016-05-12 18:01:38 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -29,7 +29,7 @@
 #   - CVE-2014-9090
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2445-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-43-generic=3.13.0-43.72~precise1 -y

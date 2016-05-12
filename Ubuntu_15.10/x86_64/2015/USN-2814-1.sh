@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for USN-2814-1
 #
 # Security announcement date: 2015-11-18 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:25 UTC
+# Script generation date:     2016-05-12 18:03:07 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -36,6 +37,16 @@
 #   - CVE-2015-7869
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2814-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade nvidia-331=340.96-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade nvidia-346=352.63-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade nvidia-352=352.63-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade nvidia-346-updates=352.63-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade nvidia-340-updates=340.96-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade nvidia-340=340.96-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade nvidia-331-updates=340.96-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade nvidia-304=304.131-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade nvidia-304-updates=304.131-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade nvidia-352-updates=352.63-0ubuntu0.15.10.1 -y

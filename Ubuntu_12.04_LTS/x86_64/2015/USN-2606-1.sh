@@ -4,7 +4,7 @@
 # Security fix for USN-2606-1
 #
 # Security announcement date: 2015-05-12 00:00:00 UTC
-# Script generation date:     2016-03-21 19:02:28 UTC
+# Script generation date:     2016-05-12 18:02:18 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -17,20 +17,20 @@
 #   - libssl1.0.0-dbg:1.0.1-4ubuntu5.27
 #
 # Last versions recommanded by security team:
-#   - libssl1.0.0:1.0.1-4ubuntu5.35
-#   - openssl:1.0.1-4ubuntu5.35
-#   - libssl-dev:1.0.1-4ubuntu5.35
-#   - libssl-doc:1.0.1-4ubuntu5.35
-#   - libssl1.0.0-dbg:1.0.1-4ubuntu5.35
+#   - libssl1.0.0:1.0.1-4ubuntu5.36
+#   - openssl:1.0.1-4ubuntu5.36
+#   - libssl-dev:1.0.1-4ubuntu5.36
+#   - libssl-doc:1.0.1-4ubuntu5.36
+#   - libssl1.0.0-dbg:1.0.1-4ubuntu5.36
 #
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2606-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.35 -y
-sudo apt-get install --only-upgrade openssl=1.0.1-4ubuntu5.35 -y
-sudo apt-get install --only-upgrade libssl-dev=1.0.1-4ubuntu5.35 -y
-sudo apt-get install --only-upgrade libssl-doc=1.0.1-4ubuntu5.35 -y
-sudo apt-get install --only-upgrade libssl1.0.0-dbg=1.0.1-4ubuntu5.35 -y
+sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.36 -y
+sudo apt-get install --only-upgrade openssl=1.0.1-4ubuntu5.36 -y
+sudo apt-get install --only-upgrade libssl-dev=1.0.1-4ubuntu5.36 -y
+sudo apt-get install --only-upgrade libssl-doc=1.0.1-4ubuntu5.36 -y
+sudo apt-get install --only-upgrade libssl1.0.0-dbg=1.0.1-4ubuntu5.36 -y

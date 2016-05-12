@@ -4,7 +4,7 @@
 # Security fix for USN-2693-1
 #
 # Security announcement date: 2015-07-28 00:00:00 UTC
-# Script generation date:     2016-03-21 19:02:50 UTC
+# Script generation date:     2016-05-12 18:02:37 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -42,7 +42,7 @@
 #   - CVE-2012-5689
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2693-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade bind9=1:9.9.5.dfsg-3ubuntu0.8 -y

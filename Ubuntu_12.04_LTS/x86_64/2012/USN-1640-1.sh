@@ -4,7 +4,7 @@
 # Security fix for USN-1640-1
 #
 # Security announcement date: 2012-11-26 00:00:00 UTC
-# Script generation date:     2016-02-23 19:01:03 UTC
+# Script generation date:     2016-05-12 18:00:40 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -22,7 +22,7 @@
 #   - CVE-2012-4562
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1640-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libssh-4=0.5.2-1ubuntu0.12.04.6 -y

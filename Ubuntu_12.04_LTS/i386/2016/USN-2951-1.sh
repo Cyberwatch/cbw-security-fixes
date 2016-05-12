@@ -4,7 +4,7 @@
 # Security fix for USN-2951-1
 #
 # Security announcement date: 2016-04-18 00:00:00 UTC
-# Script generation date:     2016-04-20 06:04:52 UTC
+# Script generation date:     2016-05-12 18:03:53 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -23,7 +23,7 @@
 #   - CVE-2016-3982
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2951-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade optipng=0.6.4-1ubuntu0.12.04.1 -y

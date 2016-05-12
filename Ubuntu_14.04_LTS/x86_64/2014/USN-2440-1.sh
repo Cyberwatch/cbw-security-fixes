@@ -4,7 +4,7 @@
 # Security fix for USN-2440-1
 #
 # Security announcement date: 2014-12-11 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:40 UTC
+# Script generation date:     2016-05-12 18:01:38 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -23,7 +23,7 @@
 #   - CVE-2014-9116
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2440-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade mutt-patched=1.5.21-6.4ubuntu2.1 -y

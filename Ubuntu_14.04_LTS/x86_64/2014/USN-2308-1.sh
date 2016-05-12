@@ -4,7 +4,7 @@
 # Security fix for USN-2308-1
 #
 # Security announcement date: 2014-08-07 00:00:00 UTC
-# Script generation date:     2016-03-01 19:01:44 UTC
+# Script generation date:     2016-05-12 18:01:17 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libssl1.0.0:1.0.1f-1ubuntu2.5
 #
 # Last versions recommanded by security team:
-#   - libssl1.0.0:1.0.1f-1ubuntu2.18
+#   - libssl1.0.0:1.0.1f-1ubuntu2.19
 #
 # CVE List:
 #   - CVE-2014-3505
@@ -27,7 +27,7 @@
 #   - CVE-2014-5139
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2308-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libssl1.0.0=1.0.1f-1ubuntu2.18 -y
+sudo apt-get install --only-upgrade libssl1.0.0=1.0.1f-1ubuntu2.19 -y

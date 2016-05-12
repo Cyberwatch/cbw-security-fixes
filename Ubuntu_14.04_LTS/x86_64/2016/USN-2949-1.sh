@@ -4,7 +4,7 @@
 # Security fix for USN-2949-1
 #
 # Security announcement date: 2016-04-06 00:00:00 UTC
-# Script generation date:     2016-04-08 06:04:43 UTC
+# Script generation date:     2016-05-12 18:03:51 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -54,7 +54,7 @@
 #   - CVE-2016-2847
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2949-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.19.0-58-powerpc64-smp=3.19.0-58.64~14.04.1 -y

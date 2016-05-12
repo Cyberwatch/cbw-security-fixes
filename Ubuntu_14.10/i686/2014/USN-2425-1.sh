@@ -4,7 +4,7 @@
 # Security fix for USN-2425-1
 #
 # Security announcement date: 2014-11-27 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:27 UTC
+# Script generation date:     2016-05-12 18:01:33 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: i686
@@ -21,7 +21,7 @@
 #   - CVE-2014-7824
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2425-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade dbus=1.8.8-1ubuntu2.1 -y

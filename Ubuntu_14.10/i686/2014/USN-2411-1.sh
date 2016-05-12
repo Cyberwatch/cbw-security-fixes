@@ -4,7 +4,7 @@
 # Security fix for USN-2411-1
 #
 # Security announcement date: 2014-11-18 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:26 UTC
+# Script generation date:     2016-05-12 18:01:31 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: i686
@@ -19,7 +19,7 @@
 #   - CVE-2014-1421
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2411-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade mountall=2.54ubuntu0.14.10.1 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2867-1
 #
 # Security announcement date: 2016-01-12 00:00:00 UTC
-# Script generation date:     2016-01-14 07:02:36 UTC
+# Script generation date:     2016-05-12 18:03:22 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: i686
@@ -25,7 +25,7 @@
 #   - CVE-2015-5313
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2867-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libvirt0=1.2.12-0ubuntu14.4 -y

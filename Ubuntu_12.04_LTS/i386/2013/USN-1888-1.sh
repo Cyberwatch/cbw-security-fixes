@@ -4,7 +4,7 @@
 # Security fix for USN-1888-1
 #
 # Security announcement date: 2013-06-20 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:47 UTC
+# Script generation date:     2016-05-12 18:00:52 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -182,7 +182,7 @@
 #   - CVE-2013-1993
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1888-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libxatracker1-lts-quantal=9.0.3-0ubuntu0.1~precise3 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-1894-1
 #
 # Security announcement date: 2013-07-02 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:48 UTC
+# Script generation date:     2016-05-12 18:00:52 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -27,7 +27,7 @@
 #   - CVE-2013-2174
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1894-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libcurl3-nss=7.22.0-3ubuntu4.15 -y

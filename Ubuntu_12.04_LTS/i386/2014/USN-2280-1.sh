@@ -4,7 +4,7 @@
 # Security fix for USN-2280-1
 #
 # Security announcement date: 2014-07-16 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:14 UTC
+# Script generation date:     2016-05-12 18:01:14 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -21,7 +21,7 @@
 #   - CVE-2014-3985
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2280-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libminiupnpc8=1.6-3ubuntu1.2 -y

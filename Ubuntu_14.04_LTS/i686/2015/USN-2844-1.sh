@@ -4,7 +4,7 @@
 # Security fix for USN-2844-1
 #
 # Security announcement date: 2015-12-17 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:30 UTC
+# Script generation date:     2016-05-12 18:03:17 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -33,7 +33,7 @@
 #   - CVE-2015-7885
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2844-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.16.0-56-powerpc64-smp=3.16.0-56.75~14.04.1 -y

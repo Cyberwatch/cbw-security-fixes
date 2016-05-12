@@ -4,7 +4,7 @@
 # Security fix for USN-2859-1
 #
 # Security announcement date: 2016-01-13 00:00:00 UTC
-# Script generation date:     2016-01-15 07:02:44 UTC
+# Script generation date:     2016-05-12 18:03:23 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: i686
@@ -23,7 +23,7 @@
 #   - CVE-2015-7214
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2859-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade thunderbird=1:38.4.0+build3-0ubuntu0.15.04.1 -y

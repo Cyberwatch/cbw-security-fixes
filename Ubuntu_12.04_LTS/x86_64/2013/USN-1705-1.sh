@@ -4,7 +4,7 @@
 # Security fix for USN-1705-1
 #
 # Security announcement date: 2013-01-28 00:00:00 UTC
-# Script generation date:     2016-04-05 06:00:40 UTC
+# Script generation date:     2016-05-12 18:00:43 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -31,7 +31,7 @@
 #   - CVE-2012-5144
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1705-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libavformat53=4:0.8.17-0ubuntu0.12.04.2 -y

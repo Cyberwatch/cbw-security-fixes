@@ -4,7 +4,7 @@
 # Security fix for USN-1478-1
 #
 # Security announcement date: 2012-06-18 00:00:00 UTC
-# Script generation date:     2016-04-05 06:00:21 UTC
+# Script generation date:     2016-05-12 18:00:19 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -38,7 +38,7 @@
 #   - CVE-2012-0947
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1478-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libavformat53=4:0.8.17-0ubuntu0.12.04.2 -y

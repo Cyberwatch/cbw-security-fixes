@@ -4,7 +4,7 @@
 # Security fix for USN-2407-1
 #
 # Security announcement date: 2014-11-11 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:31 UTC
+# Script generation date:     2016-05-12 18:01:31 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -44,7 +44,7 @@
 #   - CVE-2014-7230
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2407-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade python-nova=1:2014.1.3-0ubuntu1.1 -y

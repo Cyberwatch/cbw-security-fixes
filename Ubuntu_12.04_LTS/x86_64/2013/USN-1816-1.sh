@@ -4,7 +4,7 @@
 # Security fix for USN-1816-1
 #
 # Security announcement date: 2013-05-03 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:49 UTC
+# Script generation date:     2016-05-12 18:00:47 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -20,7 +20,7 @@
 #   - CVE-2013-2021
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1816-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade clamav=0.98.7+dfsg-0ubuntu0.12.04.1 -y

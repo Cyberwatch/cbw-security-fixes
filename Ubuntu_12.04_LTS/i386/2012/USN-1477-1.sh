@@ -4,7 +4,7 @@
 # Security fix for USN-1477-1
 #
 # Security announcement date: 2012-06-15 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:21 UTC
+# Script generation date:     2016-05-12 18:00:19 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -19,7 +19,7 @@
 #   - CVE-2012-0954
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1477-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade apt=0.8.16~exp12ubuntu10.21 -y

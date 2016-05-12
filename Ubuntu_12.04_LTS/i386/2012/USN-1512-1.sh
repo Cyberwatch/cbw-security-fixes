@@ -4,7 +4,7 @@
 # Security fix for USN-1512-1
 #
 # Security announcement date: 2012-07-19 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:25 UTC
+# Script generation date:     2016-05-12 18:00:25 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -89,7 +89,7 @@
 #   - CVE-2012-3413
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1512-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade kdepim=4:4.8.4a-0ubuntu0.3 -y

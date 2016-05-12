@@ -4,7 +4,7 @@
 # Security fix for USN-1448-1
 #
 # Security announcement date: 2012-05-21 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:14 UTC
+# Script generation date:     2016-05-12 18:00:14 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -22,9 +22,9 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-24-generic-pae:3.2.0-24.38
-#   - linux-source-3.2.0:3.2.0-101.141
-#   - linux-doc:3.2.0-101.141
-#   - linux-tools-common:3.2.0-101.141
+#   - linux-source-3.2.0:3.2.0-102.142
+#   - linux-doc:3.2.0-102.142
+#   - linux-tools-common:3.2.0-102.142
 #   - linux-image-3.2.0-24-powerpc64-smp:3.2.0-24.38
 #   - linux-image-3.2.0-24-generic:3.2.0-24.38
 #   - linux-image-3.2.0-24-virtual:3.2.0-24.38
@@ -37,13 +37,13 @@
 #   - CVE-2012-2745
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1448-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-24-generic-pae=3.2.0-24.38 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-101.141 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-101.141 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-102.142 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-102.142 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-102.142 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-24-powerpc64-smp=3.2.0-24.38 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-24-generic=3.2.0-24.38 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-24-virtual=3.2.0-24.38 -y

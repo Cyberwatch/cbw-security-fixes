@@ -4,7 +4,7 @@
 # Security fix for USN-2551-1
 #
 # Security announcement date: 2015-03-30 00:00:00 UTC
-# Script generation date:     2016-03-21 19:02:13 UTC
+# Script generation date:     2016-05-12 18:02:05 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -23,7 +23,7 @@
 #   - CVE-2015-0254
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2551-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libjakarta-taglibs-standard-java=1.1.2-2ubuntu1.14.04.1 -y

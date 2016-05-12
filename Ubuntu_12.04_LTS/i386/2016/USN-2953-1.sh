@@ -4,7 +4,7 @@
 # Security fix for USN-2953-1
 #
 # Security announcement date: 2016-04-21 00:00:00 UTC
-# Script generation date:     2016-04-23 06:04:59 UTC
+# Script generation date:     2016-05-12 18:03:55 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -55,7 +55,7 @@
 #   - CVE-2016-2047
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2953-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade mysql-server-5.5=5.5.49-0ubuntu0.12.04.1 -y

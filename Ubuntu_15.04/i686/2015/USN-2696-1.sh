@@ -4,7 +4,7 @@
 # Security fix for USN-2696-1
 #
 # Security announcement date: 2015-07-30 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:08 UTC
+# Script generation date:     2016-05-12 18:02:37 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: i686
@@ -43,7 +43,7 @@
 #   - CVE-2015-4749
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2696-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade openjdk-7-jre-zero=7u79-2.5.6-0ubuntu1.15.04.1 -y

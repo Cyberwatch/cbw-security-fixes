@@ -4,7 +4,7 @@
 # Security fix for USN-2919-1
 #
 # Security announcement date: 2016-03-03 00:00:00 UTC
-# Script generation date:     2016-03-21 19:04:06 UTC
+# Script generation date:     2016-05-12 18:03:41 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -22,7 +22,7 @@
 #   - CVE-2016-2116
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2919-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libjasper1=1.900.1-13ubuntu0.3 -y

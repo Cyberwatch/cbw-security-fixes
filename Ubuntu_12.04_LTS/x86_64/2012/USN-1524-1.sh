@@ -4,7 +4,7 @@
 # Security fix for USN-1524-1
 #
 # Security announcement date: 2012-08-08 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:28 UTC
+# Script generation date:     2016-05-12 18:00:29 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -45,7 +45,7 @@
 #   - CVE-2012-3680
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1524-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libjavascriptcoregtk-3.0-0=1.8.3-0ubuntu0.12.04.1 -y

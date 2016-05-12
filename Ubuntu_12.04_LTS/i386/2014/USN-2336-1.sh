@@ -4,7 +4,7 @@
 # Security fix for USN-2336-1
 #
 # Security announcement date: 2014-09-02 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:19 UTC
+# Script generation date:     2016-05-12 18:01:20 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -34,7 +34,7 @@
 #   - CVE-2014-5045
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2336-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-35-generic-lpae=3.13.0-35.62~precise1 -y

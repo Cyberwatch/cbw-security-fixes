@@ -4,7 +4,7 @@
 # Security fix for USN-2926-1
 #
 # Security announcement date: 2016-03-10 00:00:00 UTC
-# Script generation date:     2016-03-21 19:04:11 UTC
+# Script generation date:     2016-05-12 18:03:45 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -21,7 +21,7 @@
 #   - CVE-2016-2851
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2926-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libotr2=3.2.0-4ubuntu0.3 -y

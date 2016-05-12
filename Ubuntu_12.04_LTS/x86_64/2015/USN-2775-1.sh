@@ -4,7 +4,7 @@
 # Security fix for USN-2775-1
 #
 # Security announcement date: 2015-10-19 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:18 UTC
+# Script generation date:     2016-05-12 18:02:57 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -24,7 +24,7 @@
 #   - CVE-2015-7312
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2775-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-66-generic-lpae=3.13.0-66.108~precise1 -y

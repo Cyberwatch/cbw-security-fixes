@@ -4,7 +4,7 @@
 # Security fix for USN-1707-1
 #
 # Security announcement date: 2013-01-28 00:00:00 UTC
-# Script generation date:     2016-02-23 19:01:05 UTC
+# Script generation date:     2016-05-12 18:00:43 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -19,7 +19,7 @@
 #   - CVE-2013-0176
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1707-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libssh-4=0.5.2-1ubuntu0.12.04.6 -y

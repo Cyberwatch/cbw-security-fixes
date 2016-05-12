@@ -4,7 +4,7 @@
 # Security fix for USN-2182-1
 #
 # Security announcement date: 2014-04-28 00:00:00 UTC
-# Script generation date:     2016-02-03 19:01:21 UTC
+# Script generation date:     2016-05-12 18:01:06 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - qemu-kvm:1.0+noroms-0ubuntu14.14
 #
 # Last versions recommanded by security team:
-#   - qemu-kvm:1.0+noroms-0ubuntu14.27
+#   - qemu-kvm:1.0+noroms-0ubuntu14.28
 #
 # CVE List:
 #   - CVE-2013-4544
@@ -21,7 +21,7 @@
 #   - CVE-2014-2894
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2182-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu-kvm=1.0+noroms-0ubuntu14.27 -y
+sudo apt-get install --only-upgrade qemu-kvm=1.0+noroms-0ubuntu14.28 -y

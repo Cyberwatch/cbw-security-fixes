@@ -4,7 +4,7 @@
 # Security fix for USN-2938-1
 #
 # Security announcement date: 2016-03-21 00:00:00 UTC
-# Script generation date:     2016-03-23 07:04:23 UTC
+# Script generation date:     2016-05-12 18:03:49 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -30,7 +30,7 @@
 #   - CVE-2016-2324
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2938-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade git=1:1.9.1-1ubuntu0.3 -y

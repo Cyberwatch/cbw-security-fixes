@@ -4,7 +4,7 @@
 # Security fix for USN-1867-1
 #
 # Security announcement date: 2013-06-05 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:46 UTC
+# Script generation date:     2016-05-12 18:00:50 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -24,7 +24,7 @@
 #   - CVE-2013-2066
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1867-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libxv1=2:1.0.6-2ubuntu0.2 -y

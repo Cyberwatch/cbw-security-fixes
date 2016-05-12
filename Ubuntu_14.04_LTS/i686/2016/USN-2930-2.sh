@@ -4,7 +4,7 @@
 # Security fix for USN-2930-2
 #
 # Security announcement date: 2016-03-14 00:00:00 UTC
-# Script generation date:     2016-03-21 19:04:13 UTC
+# Script generation date:     2016-05-12 18:03:47 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -70,7 +70,7 @@
 #   - CVE-2016-2782
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2930-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-4.2.0-34-powerpc64-emb=4.2.0-34.39~14.04.1 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2800-1
 #
 # Security announcement date: 2015-11-09 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:21 UTC
+# Script generation date:     2016-05-12 18:03:04 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -28,10 +28,10 @@
 #   - linux-image-3.2.0-94-highbank:3.2.0-94.134
 #   - linux-image-3.2.0-94-powerpc64-smp:3.2.0-94.134
 #   - linux-image-3.2.0-94-generic-pae:3.2.0-94.134
-#   - linux-source-3.2.0:3.2.0-101.141
-#   - linux-doc:3.2.0-101.141
-#   - linux-tools-common:3.2.0-101.141
-#   - linux-libc-dev:3.2.0-101.141
+#   - linux-source-3.2.0:3.2.0-102.142
+#   - linux-doc:3.2.0-102.142
+#   - linux-tools-common:3.2.0-102.142
+#   - linux-libc-dev:3.2.0-102.142
 #   - linux-image-3.2.0-94-virtual:3.2.0-94.134
 #   - linux-image-3.2.0-94-generic:3.2.0-94.134
 #
@@ -39,7 +39,7 @@
 #   - CVE-2015-5307
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2800-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-94-omap=3.2.0-94.134 -y
@@ -47,9 +47,9 @@ sudo apt-get install --only-upgrade linux-image-3.2.0-94-powerpc-smp=3.2.0-94.13
 sudo apt-get install --only-upgrade linux-image-3.2.0-94-highbank=3.2.0-94.134 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-94-powerpc64-smp=3.2.0-94.134 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-94-generic-pae=3.2.0-94.134 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-101.141 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-101.141 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-101.141 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-102.142 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-102.142 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-102.142 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-102.142 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-94-virtual=3.2.0-94.134 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-94-generic=3.2.0-94.134 -y

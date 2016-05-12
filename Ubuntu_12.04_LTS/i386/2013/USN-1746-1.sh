@@ -4,7 +4,7 @@
 # Security fix for USN-1746-1
 #
 # Security announcement date: 2013-02-25 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:39 UTC
+# Script generation date:     2016-05-12 18:00:44 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -26,7 +26,7 @@
 #   - CVE-2013-0274
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1746-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade pidgin=1:2.10.3-0ubuntu1.6 -y

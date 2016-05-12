@@ -4,7 +4,7 @@
 # Security fix for USN-1506-1
 #
 # Security announcement date: 2012-07-12 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:26 UTC
+# Script generation date:     2016-05-12 18:00:24 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -22,7 +22,7 @@
 #   - CVE-2012-3867
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1506-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade puppet-common=2.7.11-1ubuntu2.7 -y

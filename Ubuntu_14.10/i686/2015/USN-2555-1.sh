@@ -4,7 +4,7 @@
 # Security fix for USN-2555-1
 #
 # Security announcement date: 2015-04-01 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:47 UTC
+# Script generation date:     2016-05-12 18:02:06 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: i686
@@ -22,7 +22,7 @@
 #   - CVE-2015-0837
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2555-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libgcrypt20=1.6.1-2ubuntu1.14.10.1 -y

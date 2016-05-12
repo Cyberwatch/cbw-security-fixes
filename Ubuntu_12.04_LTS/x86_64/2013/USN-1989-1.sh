@@ -4,7 +4,7 @@
 # Security fix for USN-1989-1
 #
 # Security announcement date: 2013-10-15 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:53 UTC
+# Script generation date:     2016-05-12 18:00:57 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -30,7 +30,7 @@
 #   - CVE-2013-2924
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1989-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libicu48=4.8.1.1-3ubuntu0.6 -y

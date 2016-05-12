@@ -4,7 +4,7 @@
 # Security fix for USN-2836-1
 #
 # Security announcement date: 2015-12-15 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:32 UTC
+# Script generation date:     2016-05-12 18:03:13 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -35,7 +35,7 @@
 #   - CVE-2015-8370
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2836-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade grub2-common=1.99-21ubuntu3.19 -y

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for USN-2930-3
 #
 # Security announcement date: 2016-03-16 00:00:00 UTC
-# Script generation date:     2016-03-21 19:04:14 UTC
+# Script generation date:     2016-05-12 18:03:48 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -31,6 +32,7 @@
 #   - CVE-2016-2782
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2930-3
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade linux-image-4.2.0-1027-raspi2=4.2.0-1027.35 -y

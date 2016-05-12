@@ -4,7 +4,7 @@
 # Security fix for USN-2747-1
 #
 # Security announcement date: 2015-09-28 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:05 UTC
+# Script generation date:     2016-05-12 18:02:50 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -33,7 +33,7 @@
 #   - CVE-2015-5950
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2747-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade jockey-common=0.9.7-0ubuntu7.16 -y

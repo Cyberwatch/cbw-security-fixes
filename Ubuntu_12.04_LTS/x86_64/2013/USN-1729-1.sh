@@ -4,7 +4,7 @@
 # Security fix for USN-1729-1
 #
 # Security announcement date: 2013-02-19 00:00:00 UTC
-# Script generation date:     2016-04-19 18:00:54 UTC
+# Script generation date:     2016-05-12 18:00:44 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - firefox:19.0+build1-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:45.0.2+build1-0ubuntu0.12.04.1
+#   - firefox:46.0+build5-0ubuntu0.12.04.2
 #
 # CVE List:
 #   - CVE-2013-0783
@@ -32,7 +32,7 @@
 #   - CVE-2013-0782
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1729-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=45.0.2+build1-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade firefox=46.0+build5-0ubuntu0.12.04.2 -y

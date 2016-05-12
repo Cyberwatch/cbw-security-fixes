@@ -4,7 +4,7 @@
 # Security fix for USN-2339-2
 #
 # Security announcement date: 2014-09-03 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:21 UTC
+# Script generation date:     2016-05-12 18:01:21 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -25,7 +25,7 @@
 #   - CVE-2014-5270
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2339-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libgcrypt11=1.5.3-2ubuntu4.3 -y

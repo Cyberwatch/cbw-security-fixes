@@ -4,7 +4,7 @@
 # Security fix for USN-2484-1
 #
 # Security announcement date: 2015-01-26 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:49 UTC
+# Script generation date:     2016-05-12 18:01:46 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -25,7 +25,7 @@
 #   - CVE-2014-8602
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2484-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libunbound2=1.4.22-1ubuntu4.14.04.1 -y

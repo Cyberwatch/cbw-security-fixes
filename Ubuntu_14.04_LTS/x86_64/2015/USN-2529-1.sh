@@ -4,7 +4,7 @@
 # Security fix for USN-2529-1
 #
 # Security announcement date: 2015-03-12 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:44 UTC
+# Script generation date:     2016-05-12 18:02:01 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -31,7 +31,7 @@
 #   - CVE-2014-8159
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2529-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.16.0-31-powerpc64-smp=3.16.0-31.43~14.04.1 -y

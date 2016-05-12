@@ -4,7 +4,7 @@
 # Security fix for USN-2479-1
 #
 # Security announcement date: 2015-01-19 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:47 UTC
+# Script generation date:     2016-05-12 18:01:45 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -36,7 +36,7 @@
 #   - CVE-2014-8118
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2479-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade rpm=4.9.1.1-1ubuntu0.3 -y

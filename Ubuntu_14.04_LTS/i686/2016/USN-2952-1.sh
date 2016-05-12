@@ -4,7 +4,7 @@
 # Security fix for USN-2952-1
 #
 # Security announcement date: 2016-04-21 00:00:00 UTC
-# Script generation date:     2016-04-23 06:05:00 UTC
+# Script generation date:     2016-05-12 18:03:56 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -74,7 +74,7 @@
 #   - CVE-2016-3142
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2952-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade php5-cli=5.5.9+dfsg-1ubuntu4.16 -y

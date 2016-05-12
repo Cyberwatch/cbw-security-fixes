@@ -4,7 +4,7 @@
 # Security fix for USN-1765-1
 #
 # Security announcement date: 2013-03-18 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:47 UTC
+# Script generation date:     2016-05-12 18:00:45 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -22,7 +22,7 @@
 #   - CVE-2013-1048
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1765-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade apache2.2-common=2.2.22-1ubuntu1.10 -y

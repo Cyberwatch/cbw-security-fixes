@@ -4,7 +4,7 @@
 # Security fix for USN-2635-1
 #
 # Security announcement date: 2015-06-10 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:00 UTC
+# Script generation date:     2016-05-12 18:02:26 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -32,7 +32,7 @@
 #   - CVE-2015-3636
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2635-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.16.0-39-generic=3.16.0-39.53~14.04.1 -y

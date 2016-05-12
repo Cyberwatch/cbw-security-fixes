@@ -4,7 +4,7 @@
 # Security fix for USN-1482-3
 #
 # Security announcement date: 2012-08-16 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:29 UTC
+# Script generation date:     2016-05-12 18:00:32 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -25,7 +25,7 @@
 #   - CVE-2012-1458
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1482-3
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libclamav6=0.98.7+dfsg-0ubuntu0.12.04.1 -y

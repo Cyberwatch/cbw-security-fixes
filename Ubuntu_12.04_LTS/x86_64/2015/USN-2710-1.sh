@@ -4,7 +4,7 @@
 # Security fix for USN-2710-1
 #
 # Security announcement date: 2015-08-14 00:00:00 UTC
-# Script generation date:     2016-03-21 19:02:55 UTC
+# Script generation date:     2016-05-12 18:02:41 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -16,20 +16,20 @@
 #   - ssh-askpass-gnome:1:5.9p1-5ubuntu1.6
 #
 # Last versions recommanded by security team:
-#   - openssh-server:1:5.9p1-5ubuntu1.8
-#   - openssh-client:1:5.9p1-5ubuntu1.8
-#   - ssh:1:5.9p1-5ubuntu1.8
-#   - ssh-askpass-gnome:1:5.9p1-5ubuntu1.8
+#   - openssh-server:1:5.9p1-5ubuntu1.9
+#   - openssh-client:1:5.9p1-5ubuntu1.9
+#   - ssh:1:5.9p1-5ubuntu1.9
+#   - ssh-askpass-gnome:1:5.9p1-5ubuntu1.9
 #
 # CVE List:
 #   - CVE-2015-5352
 #   - CVE-2015-5600
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2710-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssh-server=1:5.9p1-5ubuntu1.8 -y
-sudo apt-get install --only-upgrade openssh-client=1:5.9p1-5ubuntu1.8 -y
-sudo apt-get install --only-upgrade ssh=1:5.9p1-5ubuntu1.8 -y
-sudo apt-get install --only-upgrade ssh-askpass-gnome=1:5.9p1-5ubuntu1.8 -y
+sudo apt-get install --only-upgrade openssh-server=1:5.9p1-5ubuntu1.9 -y
+sudo apt-get install --only-upgrade openssh-client=1:5.9p1-5ubuntu1.9 -y
+sudo apt-get install --only-upgrade ssh=1:5.9p1-5ubuntu1.9 -y
+sudo apt-get install --only-upgrade ssh-askpass-gnome=1:5.9p1-5ubuntu1.9 -y

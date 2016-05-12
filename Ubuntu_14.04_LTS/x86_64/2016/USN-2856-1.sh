@@ -4,7 +4,7 @@
 # Security fix for USN-2856-1
 #
 # Security announcement date: 2016-01-05 00:00:00 UTC
-# Script generation date:     2016-04-18 18:03:55 UTC
+# Script generation date:     2016-05-12 18:03:19 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -30,7 +30,7 @@
 #   - CVE-2015-5330
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2856-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libldb1=1:1.1.24-0ubuntu0.14.04.1 -y

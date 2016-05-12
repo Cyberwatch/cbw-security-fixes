@@ -4,7 +4,7 @@
 # Security fix for USN-1443-2
 #
 # Security announcement date: 2012-06-04 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:16 UTC
+# Script generation date:     2016-05-12 18:00:16 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -24,7 +24,7 @@
 #   - CVE-2012-0950
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1443-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade update-manager-core=1:0.156.14.5 -y

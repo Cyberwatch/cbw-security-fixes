@@ -4,7 +4,7 @@
 # Security fix for USN-2876-1
 #
 # Security announcement date: 2016-01-20 00:00:00 UTC
-# Script generation date:     2016-01-22 07:02:43 UTC
+# Script generation date:     2016-05-12 18:03:26 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: x86_64
@@ -19,7 +19,7 @@
 #   - CVE-2016-1572
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2876-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade ecryptfs-utils=107-0ubuntu1.3 -y

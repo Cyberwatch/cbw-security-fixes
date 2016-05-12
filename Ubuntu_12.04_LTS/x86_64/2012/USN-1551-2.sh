@@ -4,7 +4,7 @@
 # Security fix for USN-1551-2
 #
 # Security announcement date: 2012-09-28 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:31 UTC
+# Script generation date:     2016-05-12 18:00:37 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - thunderbird-globalmenu:15.0.1+build1-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - thunderbird:1:38.6.0+build1-0ubuntu0.12.04.1
-#   - thunderbird-globalmenu:1:38.6.0+build1-0ubuntu0.12.04.1
-#   - thunderbird-globalmenu:1:38.6.0+build1-0ubuntu0.12.04.1
+#   - thunderbird:1:38.7.2+build1-0ubuntu0.12.04.1
+#   - thunderbird-globalmenu:1:38.7.2+build1-0ubuntu0.12.04.1
+#   - thunderbird-globalmenu:1:38.7.2+build1-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2012-1970
@@ -49,9 +49,9 @@
 #   - CVE-2012-3980
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1551-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade thunderbird=1:38.6.0+build1-0ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade thunderbird-globalmenu=1:38.6.0+build1-0ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade thunderbird-globalmenu=1:38.6.0+build1-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade thunderbird=1:38.7.2+build1-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade thunderbird-globalmenu=1:38.7.2+build1-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade thunderbird-globalmenu=1:38.7.2+build1-0ubuntu0.12.04.1 -y

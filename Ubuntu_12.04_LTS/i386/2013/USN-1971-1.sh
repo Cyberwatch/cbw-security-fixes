@@ -4,7 +4,7 @@
 # Security fix for USN-1971-1
 #
 # Security announcement date: 2013-09-27 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:57 UTC
+# Script generation date:     2016-05-12 18:00:56 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -20,7 +20,7 @@
 #   - CVE-2013-4205
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1971-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.8.0-31-generic=3.8.0-31.46~precise1 -y

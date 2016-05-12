@@ -4,7 +4,7 @@
 # Security fix for USN-2303-1
 #
 # Security announcement date: 2014-07-31 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:16 UTC
+# Script generation date:     2016-05-12 18:01:16 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -28,7 +28,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2303-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade unity=7.2.2+14.04.20140714-0ubuntu1.1 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2907-2
 #
 # Security announcement date: 2016-02-22 00:00:00 UTC
-# Script generation date:     2016-02-24 07:03:10 UTC
+# Script generation date:     2016-05-12 18:03:38 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -27,7 +27,7 @@
 #   - CVE-2015-8785
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2907-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-79-generic-lpae=3.13.0-79.123~precise1 -y

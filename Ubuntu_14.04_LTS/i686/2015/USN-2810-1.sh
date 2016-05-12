@@ -4,7 +4,7 @@
 # Security fix for USN-2810-1
 #
 # Security announcement date: 2015-11-12 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:23 UTC
+# Script generation date:     2016-05-12 18:03:06 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -93,7 +93,7 @@
 #   - CVE-2015-2697
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2810-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libk5crypto3=1.12+dfsg-2ubuntu5.2 -y

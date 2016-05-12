@@ -4,7 +4,7 @@
 # Security fix for USN-1803-1
 #
 # Security announcement date: 2013-04-17 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:48 UTC
+# Script generation date:     2016-05-12 18:00:47 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -21,7 +21,7 @@
 #   - CVE-2013-1940
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1803-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade xserver-xorg-core-lts-quantal=2:1.13.0-0ubuntu6.1~precise4 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2933-1
 #
 # Security announcement date: 2016-03-15 00:00:00 UTC
-# Script generation date:     2016-03-21 19:04:13 UTC
+# Script generation date:     2016-05-12 18:03:48 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -44,7 +44,7 @@
 #   - CVE-2014-2972
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2933-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade exim4-daemon-heavy=4.76-3ubuntu3.3 -y

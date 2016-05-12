@@ -4,7 +4,7 @@
 # Security fix for USN-2429-1
 #
 # Security announcement date: 2014-12-01 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:27 UTC
+# Script generation date:     2016-05-12 18:01:34 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -19,7 +19,7 @@
 #   - CVE-2014-3158
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2429-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade ppp=2.4.5-5.1ubuntu3.2 -y

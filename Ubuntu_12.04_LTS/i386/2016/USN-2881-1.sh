@@ -4,7 +4,7 @@
 # Security fix for USN-2881-1
 #
 # Security announcement date: 2016-01-26 00:00:00 UTC
-# Script generation date:     2016-04-22 06:04:23 UTC
+# Script generation date:     2016-05-12 18:03:27 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -54,7 +54,7 @@
 #   - CVE-2016-0616
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2881-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade mysql-server-5.5=5.5.49-0ubuntu0.12.04.1 -y

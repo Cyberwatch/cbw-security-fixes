@@ -4,7 +4,7 @@
 # Security fix for USN-2323-1
 #
 # Security announcement date: 2014-08-21 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:20 UTC
+# Script generation date:     2016-05-12 18:01:20 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -28,7 +28,7 @@
 #   - CVE-2014-3594
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2323-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade openstack-dashboard=1:2014.1.2-0ubuntu1.1 -y

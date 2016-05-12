@@ -4,7 +4,7 @@
 # Security fix for USN-2040-1
 #
 # Security announcement date: 2013-12-03 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:59 UTC
+# Script generation date:     2016-05-12 18:00:58 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -22,7 +22,7 @@
 #   - CVE-2014-1445
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2040-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.5.0-44-generic=3.5.0-44.67~precise1 -y

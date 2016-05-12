@@ -4,7 +4,7 @@
 # Security fix for USN-2937-1
 #
 # Security announcement date: 2016-03-21 00:00:00 UTC
-# Script generation date:     2016-03-23 07:04:22 UTC
+# Script generation date:     2016-05-12 18:03:49 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -97,7 +97,7 @@
 #   - CVE-2015-5928
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2937-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libjavascriptcoregtk-3.0-0=2.4.10-0ubuntu0.14.04.1 -y

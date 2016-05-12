@@ -4,7 +4,7 @@
 # Security fix for USN-2315-1
 #
 # Security announcement date: 2014-08-14 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:19 UTC
+# Script generation date:     2016-05-12 18:01:19 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -23,7 +23,7 @@
 #   - CVE-2014-3504
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2315-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libserf1=1.0.0-2ubuntu0.1 -y

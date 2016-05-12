@@ -4,7 +4,7 @@
 # Security fix for USN-2419-1
 #
 # Security announcement date: 2014-11-24 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:26 UTC
+# Script generation date:     2016-05-12 18:01:33 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -24,7 +24,7 @@
 #   - CVE-2014-7975
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2419-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-40-generic-lpae=3.13.0-40.69~precise1 -y

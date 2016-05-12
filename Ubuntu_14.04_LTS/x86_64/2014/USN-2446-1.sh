@@ -4,7 +4,7 @@
 # Security fix for USN-2446-1
 #
 # Security announcement date: 2014-12-12 00:00:00 UTC
-# Script generation date:     2016-04-05 18:01:50 UTC
+# Script generation date:     2016-05-12 18:01:38 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -25,10 +25,10 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.13.0-43-generic:3.13.0-43.72
-#   - linux-source-3.13.0:3.13.0-85.129
-#   - linux-doc:3.13.0-85.129
-#   - linux-tools-common:3.13.0-85.129
-#   - linux-cloud-tools-common:3.13.0-85.129
+#   - linux-source-3.13.0:3.13.0-86.130
+#   - linux-doc:3.13.0-86.130
+#   - linux-tools-common:3.13.0-86.130
+#   - linux-cloud-tools-common:3.13.0-86.130
 #   - linux-image-3.13.0-43-powerpc64-smp:3.13.0-43.72
 #   - linux-image-3.13.0-43-powerpc-e500:3.13.0-43.72
 #   - linux-image-3.13.0-43-lowlatency:3.13.0-43.72
@@ -49,14 +49,14 @@
 #   - CVE-2014-9090
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2446-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-43-generic=3.13.0-43.72 -y
-sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-85.129 -y
-sudo apt-get install --only-upgrade linux-doc=3.13.0-85.129 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.13.0-85.129 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-85.129 -y
+sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-86.130 -y
+sudo apt-get install --only-upgrade linux-doc=3.13.0-86.130 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.13.0-86.130 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-86.130 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-43-powerpc64-smp=3.13.0-43.72 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-43-powerpc-e500=3.13.0-43.72 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-43-lowlatency=3.13.0-43.72 -y

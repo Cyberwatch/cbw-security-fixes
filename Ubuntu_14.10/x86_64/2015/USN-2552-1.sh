@@ -4,7 +4,7 @@
 # Security fix for USN-2552-1
 #
 # Security announcement date: 2015-04-02 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:48 UTC
+# Script generation date:     2016-05-12 18:02:07 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -23,7 +23,7 @@
 #   - CVE-2015-0816
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2552-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade thunderbird=1:31.8.0+build1-0ubuntu0.14.10.1 -y

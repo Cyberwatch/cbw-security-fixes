@@ -4,7 +4,7 @@
 # Security fix for USN-2261-1
 #
 # Security announcement date: 2014-06-27 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:13 UTC
+# Script generation date:     2016-05-12 18:01:13 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -23,7 +23,7 @@
 #   - CVE-2014-3145
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2261-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.11.0-24-generic-lpae=3.11.0-24.41~precise1 -y

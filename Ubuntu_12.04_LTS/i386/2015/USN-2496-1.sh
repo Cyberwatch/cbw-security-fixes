@@ -4,7 +4,7 @@
 # Security fix for USN-2496-1
 #
 # Security announcement date: 2015-02-09 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:52 UTC
+# Script generation date:     2016-05-12 18:01:49 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -35,7 +35,7 @@
 #   - CVE-2012-3509
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2496-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade binutils-multiarch=2.22-6ubuntu1.2 -y

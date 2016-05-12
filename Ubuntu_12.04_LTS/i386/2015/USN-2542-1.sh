@@ -4,7 +4,7 @@
 # Security fix for USN-2542-1
 #
 # Security announcement date: 2015-03-24 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:46 UTC
+# Script generation date:     2016-05-12 18:02:04 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -26,7 +26,7 @@
 #   - CVE-2015-1421
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2542-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-1461-omap4=3.2.0-1461.81 -y

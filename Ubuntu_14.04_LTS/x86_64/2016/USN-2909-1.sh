@@ -4,7 +4,7 @@
 # Security fix for USN-2909-1
 #
 # Security announcement date: 2016-02-22 00:00:00 UTC
-# Script generation date:     2016-02-27 19:03:04 UTC
+# Script generation date:     2016-05-12 18:03:38 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -33,7 +33,7 @@
 #   - CVE-2015-8785
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2909-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.16.0-62-generic-lpae=3.16.0-62.82~14.04.1 -y

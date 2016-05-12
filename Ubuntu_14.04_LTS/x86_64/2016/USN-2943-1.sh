@@ -4,7 +4,7 @@
 # Security fix for USN-2943-1
 #
 # Security announcement date: 2016-03-29 00:00:00 UTC
-# Script generation date:     2016-03-31 06:04:31 UTC
+# Script generation date:     2016-05-12 18:03:50 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -49,7 +49,7 @@
 #   - CVE-2016-3191
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2943-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libpcre3=1:8.31-2ubuntu2.2 -y

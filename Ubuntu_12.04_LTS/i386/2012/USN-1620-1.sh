@@ -4,7 +4,7 @@
 # Security fix for USN-1620-1
 #
 # Security announcement date: 2012-10-26 00:00:00 UTC
-# Script generation date:     2016-04-19 18:00:49 UTC
+# Script generation date:     2016-05-12 18:00:39 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox:16.0.2+build1-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:45.0.2+build1-0ubuntu0.12.04.1
+#   - firefox:46.0+build5-0ubuntu0.12.04.2
 #
 # CVE List:
 #   - CVE-2012-4194
@@ -21,7 +21,7 @@
 #   - CVE-2012-4196
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1620-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=45.0.2+build1-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade firefox=46.0+build5-0ubuntu0.12.04.2 -y

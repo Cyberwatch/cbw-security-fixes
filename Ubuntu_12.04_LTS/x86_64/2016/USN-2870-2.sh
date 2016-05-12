@@ -4,7 +4,7 @@
 # Security fix for USN-2870-2
 #
 # Security announcement date: 2016-01-19 00:00:00 UTC
-# Script generation date:     2016-01-21 07:02:37 UTC
+# Script generation date:     2016-05-12 18:03:25 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -21,7 +21,7 @@
 #   - CVE-2016-0728
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2870-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-76-generic=3.13.0-76.120~precise1 -y

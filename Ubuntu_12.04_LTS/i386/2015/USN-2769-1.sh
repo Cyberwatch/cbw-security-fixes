@@ -4,7 +4,7 @@
 # Security fix for USN-2769-1
 #
 # Security announcement date: 2015-10-14 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:11 UTC
+# Script generation date:     2016-05-12 18:02:55 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -24,7 +24,7 @@
 #   - CVE-2015-5262
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2769-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libcommons-httpclient-java=3.1-10ubuntu0.1 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2831-1
 #
 # Security announcement date: 2015-12-07 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:30 UTC
+# Script generation date:     2016-05-12 18:03:12 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -31,7 +31,7 @@
 #   - CVE-2015-8327
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2831-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade cups-filters=1.0.52-0ubuntu1.7 -y

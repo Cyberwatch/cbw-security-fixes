@@ -4,7 +4,7 @@
 # Security fix for USN-1435-1
 #
 # Security announcement date: 2012-05-01 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:12 UTC
+# Script generation date:     2016-05-12 18:00:12 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -29,7 +29,7 @@
 #   - CVE-2012-1798
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1435-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libmagick++4=8:6.6.9.7-5ubuntu3.3 -y

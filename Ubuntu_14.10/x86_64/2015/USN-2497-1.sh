@@ -4,7 +4,7 @@
 # Security fix for USN-2497-1
 #
 # Security announcement date: 2015-02-09 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:36 UTC
+# Script generation date:     2016-05-12 18:01:49 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -20,7 +20,7 @@
 #   - CVE-2014-9298
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2497-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade ntp=1:4.2.6.p5+dfsg-3ubuntu2.14.10.3 -y

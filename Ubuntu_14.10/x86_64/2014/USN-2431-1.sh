@@ -4,7 +4,7 @@
 # Security fix for USN-2431-1
 #
 # Security announcement date: 2014-12-03 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:28 UTC
+# Script generation date:     2016-05-12 18:01:34 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -21,7 +21,7 @@
 #   - CVE-2014-8583
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2431-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libapache2-mod-wsgi=3.5-1ubuntu0.1 -y

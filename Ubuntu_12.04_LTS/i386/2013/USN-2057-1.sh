@@ -4,7 +4,7 @@
 # Security fix for USN-2057-1
 #
 # Security announcement date: 2013-12-17 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:57 UTC
+# Script generation date:     2016-05-12 18:00:59 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -101,7 +101,7 @@
 #   - CVE-2013-4549
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2057-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libqt4-xml=4:4.8.1-0ubuntu4.9 -y

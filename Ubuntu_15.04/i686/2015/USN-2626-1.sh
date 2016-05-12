@@ -4,7 +4,7 @@
 # Security fix for USN-2626-1
 #
 # Security announcement date: 2015-06-03 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:58 UTC
+# Script generation date:     2016-05-12 18:02:23 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: i686
@@ -25,7 +25,7 @@
 #   - CVE-2015-1860
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2626-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libqtgui4=4:4.8.6+git64-g5dc8b2b+dfsg-3~ubuntu6.1 -y

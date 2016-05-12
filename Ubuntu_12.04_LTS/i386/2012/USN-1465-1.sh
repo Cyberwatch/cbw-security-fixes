@@ -4,7 +4,7 @@
 # Security fix for USN-1465-1
 #
 # Security announcement date: 2012-06-06 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:19 UTC
+# Script generation date:     2016-05-12 18:00:16 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -19,7 +19,7 @@
 #   - CVE-2011-4409
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1465-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade python-ubuntuone-client=3.0.2-0ubuntu2.2 -y

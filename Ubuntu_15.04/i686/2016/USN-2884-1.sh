@@ -4,7 +4,7 @@
 # Security fix for USN-2884-1
 #
 # Security announcement date: 2016-02-01 00:00:00 UTC
-# Script generation date:     2016-02-03 07:02:41 UTC
+# Script generation date:     2016-05-12 18:03:29 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: i686
@@ -32,7 +32,7 @@
 #   - CVE-2016-0466
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2884-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade openjdk-7-jre-lib=7u95-2.6.4-0ubuntu0.15.04.1 -y

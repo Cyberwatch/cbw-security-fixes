@@ -4,7 +4,7 @@
 # Security fix for USN-2743-2
 #
 # Security announcement date: 2015-09-22 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:14 UTC
+# Script generation date:     2016-05-12 18:02:49 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: i686
@@ -39,7 +39,7 @@
 #   - CVE-2015-4520
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2743-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade xul-ext-ubufox=3.2-0ubuntu0.15.04.1 -y

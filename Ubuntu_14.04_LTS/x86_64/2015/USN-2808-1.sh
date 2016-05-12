@@ -4,7 +4,7 @@
 # Security fix for USN-2808-1
 #
 # Security announcement date: 2015-11-10 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:23 UTC
+# Script generation date:     2016-05-12 18:03:05 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -24,7 +24,7 @@
 #   - CVE-2015-5316
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2808-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade hostapd=2.1-0ubuntu1.4 -y

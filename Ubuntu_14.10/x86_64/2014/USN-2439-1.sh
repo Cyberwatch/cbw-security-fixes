@@ -4,7 +4,7 @@
 # Security fix for USN-2439-1
 #
 # Security announcement date: 2014-12-11 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:30 UTC
+# Script generation date:     2016-05-12 18:01:38 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -34,7 +34,7 @@
 #   - CVE-2014-8106
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2439-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade qemu-system-misc=2.1+dfsg-4ubuntu6.7 -y

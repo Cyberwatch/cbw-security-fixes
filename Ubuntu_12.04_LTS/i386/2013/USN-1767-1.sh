@@ -4,7 +4,7 @@
 # Security fix for USN-1767-1
 #
 # Security announcement date: 2013-03-18 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:40 UTC
+# Script generation date:     2016-05-12 18:00:45 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -23,9 +23,9 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-39-generic-pae:3.2.0-39.62
-#   - linux-source-3.2.0:3.2.0-101.141
-#   - linux-doc:3.2.0-101.141
-#   - linux-tools-common:3.2.0-101.141
+#   - linux-source-3.2.0:3.2.0-102.142
+#   - linux-doc:3.2.0-102.142
+#   - linux-tools-common:3.2.0-102.142
 #   - linux-image-3.2.0-39-powerpc64-smp:3.2.0-39.62
 #   - linux-image-3.2.0-39-virtual:3.2.0-39.62
 #   - linux-image-3.2.0-39-omap:3.2.0-39.62
@@ -47,13 +47,13 @@
 #   - CVE-2013-1774
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1767-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-39-generic-pae=3.2.0-39.62 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-101.141 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-101.141 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-102.142 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-102.142 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-102.142 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-39-powerpc64-smp=3.2.0-39.62 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-39-virtual=3.2.0-39.62 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-39-omap=3.2.0-39.62 -y

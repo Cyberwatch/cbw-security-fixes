@@ -4,7 +4,7 @@
 # Security fix for USN-1668-1
 #
 # Security announcement date: 2012-12-17 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:42 UTC
+# Script generation date:     2016-05-12 18:00:41 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -18,7 +18,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1668-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade apport=2.0.1-0ubuntu17.13 -y

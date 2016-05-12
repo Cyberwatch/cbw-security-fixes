@@ -4,7 +4,7 @@
 # Security fix for USN-2745-1
 #
 # Security announcement date: 2015-09-24 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:05 UTC
+# Script generation date:     2016-05-12 18:02:50 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - qemu-common:1.0+noroms-0ubuntu14.25
 #
 # Last versions recommanded by security team:
-#   - qemu-kvm:1.0+noroms-0ubuntu14.27
-#   - qemu-utils:1.0+noroms-0ubuntu14.27
-#   - qemu-common:1.0+noroms-0ubuntu14.27
+#   - qemu-kvm:1.0+noroms-0ubuntu14.28
+#   - qemu-utils:1.0+noroms-0ubuntu14.28
+#   - qemu-common:1.0+noroms-0ubuntu14.28
 #
 # CVE List:
 #   - CVE-2015-5239
@@ -27,9 +27,9 @@
 #   - CVE-2015-6855
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2745-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu-kvm=1.0+noroms-0ubuntu14.27 -y
-sudo apt-get install --only-upgrade qemu-utils=1.0+noroms-0ubuntu14.27 -y
-sudo apt-get install --only-upgrade qemu-common=1.0+noroms-0ubuntu14.27 -y
+sudo apt-get install --only-upgrade qemu-kvm=1.0+noroms-0ubuntu14.28 -y
+sudo apt-get install --only-upgrade qemu-utils=1.0+noroms-0ubuntu14.28 -y
+sudo apt-get install --only-upgrade qemu-common=1.0+noroms-0ubuntu14.28 -y

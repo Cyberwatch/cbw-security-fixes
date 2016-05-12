@@ -4,7 +4,7 @@
 # Security fix for USN-2835-1
 #
 # Security announcement date: 2015-12-15 00:00:00 UTC
-# Script generation date:     2016-03-22 07:03:35 UTC
+# Script generation date:     2016-05-12 18:03:13 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -29,7 +29,7 @@
 #   - CVE-2015-7545
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2835-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade git=1:1.9.1-1ubuntu0.3 -y

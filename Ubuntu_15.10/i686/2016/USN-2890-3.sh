@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for USN-2890-3
 #
 # Security announcement date: 2016-02-01 00:00:00 UTC
-# Script generation date:     2016-02-03 07:02:42 UTC
+# Script generation date:     2016-05-12 18:03:30 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -26,6 +27,7 @@
 #   - CVE-2015-8787
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2890-3
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade linux-image-4.2.0-1022-raspi2=4.2.0-1022.29 -y

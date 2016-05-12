@@ -4,7 +4,7 @@
 # Security fix for USN-2855-1
 #
 # Security announcement date: 2016-01-05 00:00:00 UTC
-# Script generation date:     2016-01-07 07:02:24 UTC
+# Script generation date:     2016-05-12 18:03:18 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: x86_64
@@ -25,7 +25,7 @@
 #   - CVE-2015-8467
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2855-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade samba=2:4.1.13+dfsg-4ubuntu3.1 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2672-1
 #
 # Security announcement date: 2015-07-09 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:05 UTC
+# Script generation date:     2016-05-12 18:02:32 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: x86_64
@@ -20,7 +20,7 @@
 #   - CVE-2015-2730
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2672-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libnss3=2:3.19.2.1-0ubuntu0.15.04.1 -y

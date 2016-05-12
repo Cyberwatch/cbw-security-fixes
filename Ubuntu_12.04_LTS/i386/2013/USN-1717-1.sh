@@ -4,7 +4,7 @@
 # Security fix for USN-1717-1
 #
 # Security announcement date: 2013-02-12 00:00:00 UTC
-# Script generation date:     2016-02-12 07:00:54 UTC
+# Script generation date:     2016-05-12 18:00:43 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -19,7 +19,7 @@
 #   - CVE-2013-0255
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1717-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade postgresql-9.1=9.1.20-0ubuntu0.12.04 -y

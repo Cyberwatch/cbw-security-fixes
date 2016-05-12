@@ -4,7 +4,7 @@
 # Security fix for USN-2277-1
 #
 # Security announcement date: 2014-07-15 00:00:00 UTC
-# Script generation date:     2016-04-05 06:01:22 UTC
+# Script generation date:     2016-05-12 18:01:14 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -22,7 +22,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2277-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libavformat53=4:0.8.17-0ubuntu0.12.04.2 -y

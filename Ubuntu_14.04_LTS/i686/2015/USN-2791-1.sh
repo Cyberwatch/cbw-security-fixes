@@ -4,7 +4,7 @@
 # Security fix for USN-2791-1
 #
 # Security announcement date: 2015-11-04 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:17 UTC
+# Script generation date:     2016-05-12 18:03:01 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -30,7 +30,7 @@
 #   - CVE-2015-7182
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2791-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libnss3=2:3.21-0ubuntu0.14.04.2 -y

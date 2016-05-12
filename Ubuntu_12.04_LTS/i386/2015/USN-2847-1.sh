@@ -4,7 +4,7 @@
 # Security fix for USN-2847-1
 #
 # Security announcement date: 2015-12-19 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:36 UTC
+# Script generation date:     2016-05-12 18:03:17 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -24,7 +24,7 @@
 #   - CVE-2015-8709
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2847-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-74-generic=3.13.0-74.118~precise1 -y

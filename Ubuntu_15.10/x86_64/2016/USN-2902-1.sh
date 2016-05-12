@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for USN-2902-1
 #
 # Security announcement date: 2016-02-17 00:00:00 UTC
-# Script generation date:     2016-03-21 19:04:01 UTC
+# Script generation date:     2016-05-12 18:03:37 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -27,6 +28,10 @@
 #   - CVE-2016-1526
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2902-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade libgraphite2-3=1.3.6-1ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libgraphite2-dev=1.3.6-1ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libgraphite2-3-dbg=1.3.6-1ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libgraphite2-doc=1.3.6-1ubuntu0.15.10.1 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-1789-1
 #
 # Security announcement date: 2013-04-04 00:00:00 UTC
-# Script generation date:     2016-02-12 07:00:57 UTC
+# Script generation date:     2016-05-12 18:00:46 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -21,7 +21,7 @@
 #   - CVE-2013-1901
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1789-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade postgresql-9.1=9.1.20-0ubuntu0.12.04 -y

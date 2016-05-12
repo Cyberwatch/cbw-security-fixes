@@ -4,7 +4,7 @@
 # Security fix for USN-2507-1
 #
 # Security announcement date: 2015-02-23 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:38 UTC
+# Script generation date:     2016-05-12 18:01:52 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: i686
@@ -20,7 +20,7 @@
 #   - CVE-2015-1572
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2507-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade e2fsprogs=1.42.10-1.1ubuntu1.2 -y

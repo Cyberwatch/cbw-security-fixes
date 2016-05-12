@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for USN-2943-1
 #
 # Security announcement date: 2016-03-29 00:00:00 UTC
-# Script generation date:     2016-03-31 06:04:31 UTC
+# Script generation date:     2016-05-12 18:03:50 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -52,6 +53,12 @@
 #   - CVE-2016-3191
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2943-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade libpcre3=2:8.35-7.1ubuntu1.3 -y
+sudo apt-get install --only-upgrade libpcrecpp0v5=2:8.35-7.1ubuntu1.3 -y
+sudo apt-get install --only-upgrade libpcre3-dev=2:8.35-7.1ubuntu1.3 -y
+sudo apt-get install --only-upgrade libpcre3-dbg=2:8.35-7.1ubuntu1.3 -y
+sudo apt-get install --only-upgrade libpcre16-3=2:8.35-7.1ubuntu1.3 -y
+sudo apt-get install --only-upgrade libpcre32-3=2:8.35-7.1ubuntu1.3 -y

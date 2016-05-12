@@ -4,7 +4,7 @@
 # Security fix for USN-2880-1
 #
 # Security announcement date: 2016-01-27 00:00:00 UTC
-# Script generation date:     2016-01-29 07:02:46 UTC
+# Script generation date:     2016-05-12 18:03:27 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: x86_64
@@ -30,7 +30,7 @@
 #   - CVE-2016-1947
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2880-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade firefox=43.0+build1-0ubuntu0.15.04.1 -y

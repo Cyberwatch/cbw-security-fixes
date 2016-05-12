@@ -4,7 +4,7 @@
 # Security fix for USN-2746-2
 #
 # Security announcement date: 2015-09-25 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:05 UTC
+# Script generation date:     2016-05-12 18:02:50 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -30,7 +30,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2746-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade python-simplestreams=0.1.0~bzr341-0ubuntu2.3 -y

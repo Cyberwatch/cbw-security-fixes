@@ -4,7 +4,7 @@
 # Security fix for USN-2929-2
 #
 # Security announcement date: 2016-03-14 00:00:00 UTC
-# Script generation date:     2016-03-21 19:04:12 UTC
+# Script generation date:     2016-05-12 18:03:46 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -60,7 +60,7 @@
 #   - CVE-2016-2782
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2929-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-83-generic-lpae=3.13.0-83.127~precise1 -y

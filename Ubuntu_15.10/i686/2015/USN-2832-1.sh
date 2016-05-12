@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for USN-2832-1
 #
 # Security announcement date: 2015-12-07 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:31 UTC
+# Script generation date:     2016-05-12 18:03:12 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -24,6 +25,9 @@
 #   - CVE-2015-7805
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2832-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade libsndfile1=1.0.25-9.1ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libsndfile1-dev=1.0.25-9.1ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libsndfile1-dbg=1.0.25-9.1ubuntu0.15.10.1 -y

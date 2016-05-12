@@ -4,7 +4,7 @@
 # Security fix for USN-1576-2
 #
 # Security announcement date: 2012-10-04 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:32 UTC
+# Script generation date:     2016-05-12 18:00:38 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -23,7 +23,7 @@
 #   - CVE-2012-3524
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1576-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade dbus=1.4.18-1ubuntu1.7 -y

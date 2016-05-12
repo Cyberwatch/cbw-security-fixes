@@ -4,7 +4,7 @@
 # Security fix for USN-2515-2
 #
 # Security announcement date: 2015-03-04 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:43 UTC
+# Script generation date:     2016-05-12 18:01:58 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -32,7 +32,7 @@
 #   - CVE-2014-9683
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2515-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-46-generic-lpae=3.13.0-46.77~precise1 -y

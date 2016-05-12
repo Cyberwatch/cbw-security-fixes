@@ -4,7 +4,7 @@
 # Security fix for USN-2758-1
 #
 # Security announcement date: 2015-09-30 00:00:00 UTC
-# Script generation date:     2016-04-22 06:03:38 UTC
+# Script generation date:     2016-05-12 18:02:52 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -80,7 +80,7 @@
 #   - CVE-2015-6838
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2758-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade php5-cli=5.5.9+dfsg-1ubuntu4.16 -y

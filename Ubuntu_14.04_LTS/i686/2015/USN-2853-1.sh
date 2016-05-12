@@ -4,7 +4,7 @@
 # Security fix for USN-2853-1
 #
 # Security announcement date: 2015-12-20 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:37 UTC
+# Script generation date:     2016-05-12 18:03:18 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -34,7 +34,7 @@
 #   - CVE-2015-8709
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2853-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-4.2.0-22-powerpc64-smp=4.2.0-22.27~14.04.1 -y

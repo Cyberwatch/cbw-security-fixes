@@ -4,7 +4,7 @@
 # Security fix for USN-2373-1
 #
 # Security announcement date: 2014-10-15 00:00:00 UTC
-# Script generation date:     2016-03-08 19:01:35 UTC
+# Script generation date:     2016-05-12 18:01:26 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - thunderbird:1:31.2.0+build2-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - thunderbird:1:38.6.0+build1-0ubuntu0.12.04.1
+#   - thunderbird:1:38.7.2+build1-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2014-1574
@@ -25,7 +25,7 @@
 #   - CVE-2014-1586
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2373-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade thunderbird=1:38.6.0+build1-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade thunderbird=1:38.7.2+build1-0ubuntu0.12.04.1 -y

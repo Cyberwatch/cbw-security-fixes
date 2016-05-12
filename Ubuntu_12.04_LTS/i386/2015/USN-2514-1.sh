@@ -4,7 +4,7 @@
 # Security fix for USN-2514-1
 #
 # Security announcement date: 2015-02-26 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:39 UTC
+# Script generation date:     2016-05-12 18:01:54 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -26,7 +26,7 @@
 #   - CVE-2014-9644
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2514-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-1460-omap4=3.2.0-1460.80 -y

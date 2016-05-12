@@ -4,7 +4,7 @@
 # Security fix for USN-2183-1
 #
 # Security announcement date: 2014-04-28 00:00:00 UTC
-# Script generation date:     2016-04-26 06:01:23 UTC
+# Script generation date:     2016-05-12 18:01:06 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -19,7 +19,7 @@
 #   - CVE-2014-0471
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2183-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libdpkg-perl=1.17.5ubuntu5.6 -y

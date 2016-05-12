@@ -4,7 +4,7 @@
 # Security fix for USN-2093-1
 #
 # Security announcement date: 2014-01-30 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:59 UTC
+# Script generation date:     2016-05-12 18:01:01 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -27,7 +27,7 @@
 #   - CVE-2014-1447
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2093-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libvirt0=0.9.8-2ubuntu17.23 -y

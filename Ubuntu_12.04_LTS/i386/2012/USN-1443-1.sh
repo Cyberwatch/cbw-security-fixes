@@ -4,7 +4,7 @@
 # Security fix for USN-1443-1
 #
 # Security announcement date: 2012-05-17 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:16 UTC
+# Script generation date:     2016-05-12 18:00:14 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -20,7 +20,7 @@
 #   - CVE-2012-0949
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1443-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade update-manager-core=1:0.156.14.5 -y

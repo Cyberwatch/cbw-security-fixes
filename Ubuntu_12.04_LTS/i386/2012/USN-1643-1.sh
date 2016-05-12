@@ -4,7 +4,7 @@
 # Security fix for USN-1643-1
 #
 # Security announcement date: 2012-11-29 00:00:00 UTC
-# Script generation date:     2016-03-02 19:01:07 UTC
+# Script generation date:     2016-05-12 18:00:41 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -22,7 +22,7 @@
 #   - CVE-2012-5526
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1643-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade perl=5.14.2-6ubuntu2.5 -y

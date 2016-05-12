@@ -4,7 +4,7 @@
 # Security fix for USN-1986-1
 #
 # Security announcement date: 2013-10-01 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:57 UTC
+# Script generation date:     2016-05-12 18:00:56 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -20,7 +20,7 @@
 #   - CVE-2013-4257
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1986-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade nas=1.9.3-4ubuntu0.1 -y

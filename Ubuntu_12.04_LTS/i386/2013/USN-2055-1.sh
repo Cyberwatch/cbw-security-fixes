@@ -4,7 +4,7 @@
 # Security fix for USN-2055-1
 #
 # Security announcement date: 2013-12-12 00:00:00 UTC
-# Script generation date:     2016-04-22 06:01:18 UTC
+# Script generation date:     2016-05-12 18:00:59 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -28,7 +28,7 @@
 #   - CVE-2013-6712
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2055-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade php5-cli=5.3.10-1ubuntu3.22 -y

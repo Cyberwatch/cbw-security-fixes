@@ -4,7 +4,7 @@
 # Security fix for USN-1923-1
 #
 # Security announcement date: 2013-07-31 00:00:00 UTC
-# Script generation date:     2016-02-16 07:01:08 UTC
+# Script generation date:     2016-05-12 18:00:54 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -21,7 +21,7 @@
 #   - CVE-2013-4242
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1923-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libgcrypt11=1.5.0-3ubuntu0.5 -y

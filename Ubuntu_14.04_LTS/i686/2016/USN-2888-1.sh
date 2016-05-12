@@ -4,7 +4,7 @@
 # Security fix for USN-2888-1
 #
 # Security announcement date: 2016-02-01 00:00:00 UTC
-# Script generation date:     2016-02-03 07:02:42 UTC
+# Script generation date:     2016-05-12 18:03:30 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -38,7 +38,7 @@
 #   - CVE-2015-8575
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2888-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.16.0-60-powerpc64-smp=3.16.0-60.80~14.04.1 -y

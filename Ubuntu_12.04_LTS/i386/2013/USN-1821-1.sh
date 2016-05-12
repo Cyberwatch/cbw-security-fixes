@@ -4,7 +4,7 @@
 # Security fix for USN-1821-1
 #
 # Security announcement date: 2013-05-09 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:49 UTC
+# Script generation date:     2016-05-12 18:00:48 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -19,7 +19,7 @@
 #   - CVE-2007-6746
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1821-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade telepathy-idle=0.1.11-2ubuntu0.1 -y

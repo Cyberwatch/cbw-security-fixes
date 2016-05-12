@@ -4,7 +4,7 @@
 # Security fix for USN-2581-1
 #
 # Security announcement date: 2015-04-28 00:00:00 UTC
-# Script generation date:     2016-03-21 19:02:24 UTC
+# Script generation date:     2016-05-12 18:02:15 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -37,7 +37,7 @@
 #   - CVE-2015-1322
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2581-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade network-manager=0.9.8.8-0ubuntu7.1 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2224-1
 #
 # Security announcement date: 2014-05-27 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:10 UTC
+# Script generation date:     2016-05-12 18:01:09 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -30,7 +30,7 @@
 #   - CVE-2014-3122
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2224-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.8.0-41-generic=3.8.0-41.60~precise1 -y

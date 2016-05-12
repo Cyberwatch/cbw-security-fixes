@@ -4,7 +4,7 @@
 # Security fix for USN-2077-2
 #
 # Security announcement date: 2014-01-09 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:58 UTC
+# Script generation date:     2016-05-12 18:01:00 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -24,7 +24,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2077-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade puppet-common=2.7.11-1ubuntu2.7 -y

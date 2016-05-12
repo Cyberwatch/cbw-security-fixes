@@ -4,7 +4,7 @@
 # Security fix for USN-2890-2
 #
 # Security announcement date: 2016-02-01 00:00:00 UTC
-# Script generation date:     2016-02-03 07:02:42 UTC
+# Script generation date:     2016-05-12 18:03:30 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -39,7 +39,7 @@
 #   - CVE-2015-8787
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2890-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-4.2.0-27-lowlatency=4.2.0-27.32~14.04.1 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2452-1
 #
 # Security announcement date: 2015-01-07 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:42 UTC
+# Script generation date:     2016-05-12 18:01:40 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -29,7 +29,7 @@
 #   - CVE-2014-1569
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2452-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libnss3=2:3.21-0ubuntu0.14.04.2 -y

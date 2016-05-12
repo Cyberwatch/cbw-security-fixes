@@ -4,7 +4,7 @@
 # Security fix for USN-2278-1
 #
 # Security announcement date: 2014-07-15 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:14 UTC
+# Script generation date:     2016-05-12 18:01:14 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -29,7 +29,7 @@
 #   - CVE-2014-3538
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2278-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libmagic1=5.09-2ubuntu0.6 -y

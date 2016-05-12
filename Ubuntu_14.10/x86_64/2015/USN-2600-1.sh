@@ -4,7 +4,7 @@
 # Security fix for USN-2600-1
 #
 # Security announcement date: 2015-05-05 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:54 UTC
+# Script generation date:     2016-05-12 18:02:17 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -31,7 +31,7 @@
 #   - CVE-2015-3339
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2600-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.16.0-37-generic=3.16.0-37.51 -y

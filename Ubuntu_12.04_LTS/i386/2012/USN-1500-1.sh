@@ -4,7 +4,7 @@
 # Security fix for USN-1500-1
 #
 # Security announcement date: 2012-07-09 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:22 UTC
+# Script generation date:     2016-05-12 18:00:22 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -35,7 +35,7 @@
 #   - CVE-2012-3374
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1500-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade finch=1:2.10.3-0ubuntu1.6 -y

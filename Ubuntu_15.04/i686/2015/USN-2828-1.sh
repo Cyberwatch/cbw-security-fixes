@@ -4,7 +4,7 @@
 # Security fix for USN-2828-1
 #
 # Security announcement date: 2015-12-03 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:28 UTC
+# Script generation date:     2016-05-12 18:03:11 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: i686
@@ -36,7 +36,7 @@
 #   - CVE-2015-8345
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2828-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade qemu-system-misc=1:2.2+dfsg-5expubuntu9.7 -y

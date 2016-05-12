@@ -4,7 +4,7 @@
 # Security fix for USN-2146-1
 #
 # Security announcement date: 2014-03-13 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:05 UTC
+# Script generation date:     2016-05-12 18:01:04 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -21,7 +21,7 @@
 #   - CVE-2014-0106
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2146-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade sudo-ldap=1.8.3p1-1ubuntu3.6 -y

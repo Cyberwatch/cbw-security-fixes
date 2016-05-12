@@ -4,7 +4,7 @@
 # Security fix for USN-2249-1
 #
 # Security announcement date: 2014-06-18 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:11 UTC
+# Script generation date:     2016-05-12 18:01:12 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -29,7 +29,7 @@
 #   - CVE-2014-3801
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2249-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade python-heat=2014.1-0ubuntu1.1 -y

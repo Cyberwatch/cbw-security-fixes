@@ -4,7 +4,7 @@
 # Security fix for USN-1442-1
 #
 # Security announcement date: 2012-05-16 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:16 UTC
+# Script generation date:     2016-05-12 18:00:13 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -21,7 +21,7 @@
 #   - CVE-2012-2337
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1442-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade sudo-ldap=1.8.3p1-1ubuntu3.2 -y

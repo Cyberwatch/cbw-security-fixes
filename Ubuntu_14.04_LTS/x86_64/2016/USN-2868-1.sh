@@ -4,7 +4,7 @@
 # Security fix for USN-2868-1
 #
 # Security announcement date: 2016-01-13 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:43 UTC
+# Script generation date:     2016-05-12 18:03:23 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -41,7 +41,7 @@
 #   - CVE-2015-8605
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2868-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade isc-dhcp-server=4.2.4-7ubuntu12.4 -y

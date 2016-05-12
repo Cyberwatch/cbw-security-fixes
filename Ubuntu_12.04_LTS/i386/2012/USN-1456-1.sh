@@ -4,7 +4,7 @@
 # Security fix for USN-1456-1
 #
 # Security announcement date: 2012-05-31 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:16 UTC
+# Script generation date:     2016-05-12 18:00:15 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -33,7 +33,7 @@
 #   - CVE-2012-2944
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1456-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade nut-server=2.6.3-1ubuntu1.1 -y

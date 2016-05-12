@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for USN-2843-1
 #
 # Security announcement date: 2015-12-17 00:00:00 UTC
-# Script generation date:     2016-04-05 18:03:53 UTC
+# Script generation date:     2016-05-12 18:03:16 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -26,11 +27,11 @@
 #   - linux-image-4.2.0-21-powerpc64-emb:4.2.0-21.25
 #   - linux-image-4.2.0-21-powerpc-smp:4.2.0-21.25
 #   - linux-image-4.2.0-21-lowlatency:4.2.0-21.25
-#   - linux-source-4.2.0:4.2.0-35.40
-#   - linux-doc:4.2.0-35.40
-#   - linux-libc-dev:4.2.0-35.40
-#   - linux-tools-common:4.2.0-35.40
-#   - linux-cloud-tools-common:4.2.0-35.40
+#   - linux-source-4.2.0:4.2.0-36.41
+#   - linux-doc:4.2.0-36.41
+#   - linux-libc-dev:4.2.0-36.41
+#   - linux-tools-common:4.2.0-36.41
+#   - linux-cloud-tools-common:4.2.0-36.41
 #   - linux-image-4.2.0-21-generic-lpae:4.2.0-21.25
 #   - linux-image-4.2.0-21-generic:4.2.0-21.25
 #   - linux-image-4.2.0-21-powerpc-e500mc:4.2.0-21.25
@@ -44,6 +45,18 @@
 #   - CVE-2015-7885
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2843-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade linux-image-4.2.0-21-powerpc64-emb=4.2.0-21.25 -y
+sudo apt-get install --only-upgrade linux-image-4.2.0-21-powerpc-smp=4.2.0-21.25 -y
+sudo apt-get install --only-upgrade linux-image-4.2.0-21-lowlatency=4.2.0-21.25 -y
+sudo apt-get install --only-upgrade linux-source-4.2.0=4.2.0-36.41 -y
+sudo apt-get install --only-upgrade linux-doc=4.2.0-36.41 -y
+sudo apt-get install --only-upgrade linux-libc-dev=4.2.0-36.41 -y
+sudo apt-get install --only-upgrade linux-tools-common=4.2.0-36.41 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=4.2.0-36.41 -y
+sudo apt-get install --only-upgrade linux-image-4.2.0-21-generic-lpae=4.2.0-21.25 -y
+sudo apt-get install --only-upgrade linux-image-4.2.0-21-generic=4.2.0-21.25 -y
+sudo apt-get install --only-upgrade linux-image-4.2.0-21-powerpc-e500mc=4.2.0-21.25 -y
+sudo apt-get install --only-upgrade linux-image-4.2.0-21-powerpc64-smp=4.2.0-21.25 -y

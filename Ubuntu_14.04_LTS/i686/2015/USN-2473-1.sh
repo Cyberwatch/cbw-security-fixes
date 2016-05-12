@@ -4,7 +4,7 @@
 # Security fix for USN-2473-1
 #
 # Security announcement date: 2015-01-14 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:34 UTC
+# Script generation date:     2016-05-12 18:01:44 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -20,7 +20,7 @@
 #   - CVE-2014-9471
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2473-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade coreutils=8.21-1ubuntu5.1 -y

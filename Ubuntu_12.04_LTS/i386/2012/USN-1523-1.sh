@@ -4,7 +4,7 @@
 # Security fix for USN-1523-1
 #
 # Security announcement date: 2012-08-06 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:30 UTC
+# Script generation date:     2016-05-12 18:00:29 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -24,7 +24,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1523-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade nvidia-173-updates=173.14.35-0ubuntu0.2 -y

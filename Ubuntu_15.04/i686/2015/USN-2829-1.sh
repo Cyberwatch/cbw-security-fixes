@@ -4,7 +4,7 @@
 # Security fix for USN-2829-1
 #
 # Security announcement date: 2015-12-04 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:28 UTC
+# Script generation date:     2016-05-12 18:03:11 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: i686
@@ -32,7 +32,7 @@
 #   - CVE-2015-7872
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2829-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.19.0-39-powerpc64-emb=3.19.0-39.44 -y

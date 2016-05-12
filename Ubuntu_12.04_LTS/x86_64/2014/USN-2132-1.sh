@@ -4,7 +4,7 @@
 # Security fix for USN-2132-1
 #
 # Security announcement date: 2014-03-06 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:01 UTC
+# Script generation date:     2016-05-12 18:01:03 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -45,7 +45,7 @@
 #   - CVE-2014-2030
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2132-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libmagick++4=8:6.6.9.7-5ubuntu3.3 -y

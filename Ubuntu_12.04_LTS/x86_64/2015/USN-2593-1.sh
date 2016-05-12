@@ -4,7 +4,7 @@
 # Security fix for USN-2593-1
 #
 # Security announcement date: 2015-05-04 00:00:00 UTC
-# Script generation date:     2016-03-21 19:02:25 UTC
+# Script generation date:     2016-05-12 18:02:16 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -25,7 +25,7 @@
 #   - CVE-2015-3294
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2593-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade dnsmasq=2.59-4ubuntu0.2 -y

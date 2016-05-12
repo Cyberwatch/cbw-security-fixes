@@ -4,7 +4,7 @@
 # Security fix for USN-2566-1
 #
 # Security announcement date: 2015-04-09 00:00:00 UTC
-# Script generation date:     2016-03-21 19:02:18 UTC
+# Script generation date:     2016-05-12 18:02:10 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -27,7 +27,7 @@
 #   - CVE-2015-0840
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2566-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libdpkg-perl=1.16.1.2ubuntu7.7 -y

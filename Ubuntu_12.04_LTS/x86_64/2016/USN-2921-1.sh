@@ -4,7 +4,7 @@
 # Security fix for USN-2921-1
 #
 # Security announcement date: 2016-03-07 00:00:00 UTC
-# Script generation date:     2016-03-21 19:04:06 UTC
+# Script generation date:     2016-05-12 18:03:41 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -24,7 +24,7 @@
 #   - CVE-2016-2571
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2921-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade squid3=3.1.19-1ubuntu3.12.04.6 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2475-1
 #
 # Security announcement date: 2015-01-15 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:47 UTC
+# Script generation date:     2016-05-12 18:01:44 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -40,7 +40,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2475-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libgtk-3-0=3.10.8-0ubuntu1.4 -y

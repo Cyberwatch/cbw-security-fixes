@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for USN-2937-1
 #
 # Security announcement date: 2016-03-21 00:00:00 UTC
-# Script generation date:     2016-03-23 07:04:23 UTC
+# Script generation date:     2016-05-12 18:03:48 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -92,6 +93,31 @@
 #   - CVE-2015-5928
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2937-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade libjavascriptcoregtk-3.0-0=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libjavascriptcoregtk-1.0-0=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libjavascriptcoregtk-1.0-dev=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libjavascriptcoregtk-1.0-0-dbg=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libwebkitgtk-1.0-0=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libwebkit-dev=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libwebkitgtk-dev=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libwebkitgtk-1.0-common=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libwebkitgtk-1.0-0-dbg=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libjavascriptcoregtk-3.0-dev=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libjavascriptcoregtk-3.0-0-dbg=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade gir1.2-javascriptcoregtk-3.0=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libwebkitgtk-3.0-0=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libwebkitgtk-3.0-dev=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libwebkitgtk-3.0-common=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libwebkitgtk-3.0-0-dbg=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade gir1.2-webkit-3.0=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libwebkit2gtk-3.0-25=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libwebkit2gtk-3.0-dev=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libwebkit2gtk-3.0-25-dbg=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade gir1.2-webkit2-3.0=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libwebkitgtk-common-dev=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libjavascriptcoregtk-1.0-0=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libwebkitgtk-1.0-0=2.4.10-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade libwebkitgtk-3.0-0=2.4.10-0ubuntu0.15.10.1 -y

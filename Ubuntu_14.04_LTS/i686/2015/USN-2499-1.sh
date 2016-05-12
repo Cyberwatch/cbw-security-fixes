@@ -4,7 +4,7 @@
 # Security fix for USN-2499-1
 #
 # Security announcement date: 2015-02-11 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:54 UTC
+# Script generation date:     2016-05-12 18:01:50 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -52,7 +52,7 @@
 #   - CVE-2015-0244
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2499-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade postgresql-9.3=9.3.11-0ubuntu0.14.04 -y

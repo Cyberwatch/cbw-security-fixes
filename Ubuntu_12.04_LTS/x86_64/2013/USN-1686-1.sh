@@ -4,7 +4,7 @@
 # Security fix for USN-1686-1
 #
 # Security announcement date: 2013-01-14 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:36 UTC
+# Script generation date:     2016-05-12 18:00:42 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -23,7 +23,7 @@
 #   - CVE-2012-5670
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1686-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libfreetype6=2.4.8-1ubuntu2.3 -y

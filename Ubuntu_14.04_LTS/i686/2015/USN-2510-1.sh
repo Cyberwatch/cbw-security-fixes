@@ -4,7 +4,7 @@
 # Security fix for USN-2510-1
 #
 # Security announcement date: 2015-02-24 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:57 UTC
+# Script generation date:     2016-05-12 18:01:53 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -40,7 +40,7 @@
 #   - CVE-2014-9675
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2510-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libfreetype6=2.5.2-1ubuntu2.5 -y

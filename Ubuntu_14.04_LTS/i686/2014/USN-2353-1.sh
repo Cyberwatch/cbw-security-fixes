@@ -4,7 +4,7 @@
 # Security fix for USN-2353-1
 #
 # Security announcement date: 2014-09-23 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:21 UTC
+# Script generation date:     2016-05-12 18:01:23 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,13 +13,13 @@
 #   - apt:1.0.1ubuntu2.4.1
 #
 # Last versions recommanded by security team:
-#   - apt:1.0.1ubuntu2.5
+#   - apt:1.0.1ubuntu2.13
 #
 # CVE List:
 #   - CVE-2014-6273
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2353-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade apt=1.0.1ubuntu2.5 -y
+sudo apt-get install --only-upgrade apt=1.0.1ubuntu2.13 -y

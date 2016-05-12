@@ -4,7 +4,7 @@
 # Security fix for USN-2820-1
 #
 # Security announcement date: 2015-11-26 00:00:00 UTC
-# Script generation date:     2016-04-26 06:03:47 UTC
+# Script generation date:     2016-05-12 18:03:09 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -27,7 +27,7 @@
 #   - CVE-2015-0860
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2820-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade dpkg=1.17.5ubuntu5.6 -y

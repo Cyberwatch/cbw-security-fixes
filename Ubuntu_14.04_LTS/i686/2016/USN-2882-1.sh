@@ -4,7 +4,7 @@
 # Security fix for USN-2882-1
 #
 # Security announcement date: 2016-01-27 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:50 UTC
+# Script generation date:     2016-05-12 18:03:28 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -39,7 +39,7 @@
 #   - CVE-2016-0755
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2882-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libcurl3-nss=7.35.0-1ubuntu2.6 -y

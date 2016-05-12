@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for USN-2941-1
 #
 # Security announcement date: 2016-03-24 00:00:00 UTC
-# Script generation date:     2016-03-26 07:04:22 UTC
+# Script generation date:     2016-05-12 18:03:49 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -23,6 +24,9 @@
 #   - CVE-2013-2236
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2941-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade quagga=0.99.24.1-2ubuntu0.1 -y
+sudo apt-get install --only-upgrade quagga-dbg=0.99.24.1-2ubuntu0.1 -y
+sudo apt-get install --only-upgrade quagga-doc=0.99.24.1-2ubuntu0.1 -y

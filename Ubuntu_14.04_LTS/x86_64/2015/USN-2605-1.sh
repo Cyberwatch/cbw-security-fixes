@@ -4,7 +4,7 @@
 # Security fix for USN-2605-1
 #
 # Security announcement date: 2015-05-11 00:00:00 UTC
-# Script generation date:     2016-03-21 19:02:28 UTC
+# Script generation date:     2016-05-12 18:02:18 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -28,7 +28,7 @@
 #   - CVE-2014-8147
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2605-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libicu52=52.1-3ubuntu0.4 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2388-2
 #
 # Security announcement date: 2014-10-23 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:23 UTC
+# Script generation date:     2016-05-12 18:01:27 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: i686
@@ -38,7 +38,7 @@
 #   - CVE-2014-6513
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2388-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade openjdk-7-jre-lib=7u71-2.5.3-0ubuntu1 -y

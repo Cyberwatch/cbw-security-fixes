@@ -4,7 +4,7 @@
 # Security fix for USN-2932-1
 #
 # Security announcement date: 2016-03-14 00:00:00 UTC
-# Script generation date:     2016-03-21 19:04:13 UTC
+# Script generation date:     2016-05-12 18:03:47 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -68,7 +68,7 @@
 #   - CVE-2016-2782
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2932-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.19.0-56-powerpc-smp=3.19.0-56.62~14.04.1 -y

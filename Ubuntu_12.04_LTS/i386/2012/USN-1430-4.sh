@@ -4,7 +4,7 @@
 # Security fix for USN-1430-4
 #
 # Security announcement date: 2012-06-12 00:00:00 UTC
-# Script generation date:     2016-01-01 07:00:20 UTC
+# Script generation date:     2016-05-12 18:00:17 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -18,7 +18,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1430-4
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade apparmor=2.7.102-0ubuntu3.10 -y

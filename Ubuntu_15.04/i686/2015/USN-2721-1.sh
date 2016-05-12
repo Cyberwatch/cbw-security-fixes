@@ -4,7 +4,7 @@
 # Security fix for USN-2721-1
 #
 # Security announcement date: 2015-08-20 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:11 UTC
+# Script generation date:     2016-05-12 18:02:43 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: i686
@@ -29,7 +29,7 @@
 #   - CVE-2015-3187
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2721-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade subversion=1.8.10-5ubuntu1.1 -y

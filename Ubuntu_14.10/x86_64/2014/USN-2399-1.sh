@@ -4,7 +4,7 @@
 # Security fix for USN-2399-1
 #
 # Security announcement date: 2014-11-10 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:25 UTC
+# Script generation date:     2016-05-12 18:01:29 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -23,7 +23,7 @@
 #   - CVE-2014-3707
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2399-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libcurl3-nss=7.37.1-1ubuntu3.4 -y

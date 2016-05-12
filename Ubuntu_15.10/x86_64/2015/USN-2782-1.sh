@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for USN-2782-1
 #
 # Security announcement date: 2015-10-27 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:15 UTC
+# Script generation date:     2016-05-12 18:02:58 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -32,6 +33,14 @@
 #   - CVE-2015-1341
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2782-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade apport=2.19.1-0ubuntu4 -y
+sudo apt-get install --only-upgrade python-problem-report=2.19.1-0ubuntu4 -y
+sudo apt-get install --only-upgrade python3-problem-report=2.19.1-0ubuntu4 -y
+sudo apt-get install --only-upgrade python-apport=2.19.1-0ubuntu4 -y
+sudo apt-get install --only-upgrade python3-apport=2.19.1-0ubuntu4 -y
+sudo apt-get install --only-upgrade apport-retrace=2.19.1-0ubuntu4 -y
+sudo apt-get install --only-upgrade apport-gtk=2.19.1-0ubuntu4 -y
+sudo apt-get install --only-upgrade dh-apport=2.19.1-0ubuntu4 -y

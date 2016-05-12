@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for USN-2951-1
 #
 # Security announcement date: 2016-04-18 00:00:00 UTC
-# Script generation date:     2016-04-20 06:04:52 UTC
+# Script generation date:     2016-05-12 18:03:53 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -22,6 +23,7 @@
 #   - CVE-2016-3982
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2951-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade optipng=0.7.5-1ubuntu0.1 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2653-1
 #
 # Security announcement date: 2015-06-25 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:02 UTC
+# Script generation date:     2016-05-12 18:02:29 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: i686
@@ -29,7 +29,7 @@
 #   - CVE-2014-7185
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2653-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade python2.7=2.7.8-10ubuntu1.1 -y

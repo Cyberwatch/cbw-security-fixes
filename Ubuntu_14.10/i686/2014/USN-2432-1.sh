@@ -4,7 +4,7 @@
 # Security fix for USN-2432-1
 #
 # Security announcement date: 2014-12-03 00:00:00 UTC
-# Script generation date:     2016-01-01 07:01:28 UTC
+# Script generation date:     2016-05-12 18:01:35 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: i686
@@ -21,7 +21,7 @@
 #   - CVE-2014-7817
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2432-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libc6=2.19-10ubuntu2.3 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2651-1
 #
 # Security announcement date: 2015-06-22 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:02 UTC
+# Script generation date:     2016-05-12 18:02:28 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -23,7 +23,7 @@
 #   - CVE-2015-1396
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2651-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade patch=2.7.1-5ubuntu0.3 -y

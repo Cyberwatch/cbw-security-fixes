@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for USN-2862-1
 #
 # Security announcement date: 2016-01-07 00:00:00 UTC
-# Script generation date:     2016-03-21 19:03:40 UTC
+# Script generation date:     2016-05-12 18:03:20 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -24,6 +25,10 @@
 #   - CVE-2015-8557
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2862-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade python3-pygments=2.0.1+dfsg-1.1svn1.1 -y
+sudo apt-get install --only-upgrade python-pygments=2.0.1+dfsg-1.1svn1.1 -y
+sudo apt-get install --only-upgrade python-pygments-doc=2.0.1+dfsg-1.1svn1.1 -y
+sudo apt-get install --only-upgrade python-pygments=2.0.1+dfsg-1.1svn1.1 -y

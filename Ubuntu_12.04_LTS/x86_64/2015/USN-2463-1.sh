@@ -4,7 +4,7 @@
 # Security fix for USN-2463-1
 #
 # Security announcement date: 2015-01-13 00:00:00 UTC
-# Script generation date:     2016-03-21 19:01:43 UTC
+# Script generation date:     2016-05-12 18:01:41 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -24,10 +24,10 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-75-generic-pae:3.2.0-75.110
-#   - linux-source-3.2.0:3.2.0-101.141
-#   - linux-doc:3.2.0-101.141
-#   - linux-tools-common:3.2.0-101.141
-#   - linux-libc-dev:3.2.0-101.141
+#   - linux-source-3.2.0:3.2.0-102.142
+#   - linux-doc:3.2.0-102.142
+#   - linux-tools-common:3.2.0-102.142
+#   - linux-libc-dev:3.2.0-102.142
 #   - linux-image-3.2.0-75-powerpc64-smp:3.2.0-75.110
 #   - linux-image-3.2.0-75-virtual:3.2.0-75.110
 #   - linux-image-3.2.0-75-omap:3.2.0-75.110
@@ -40,14 +40,14 @@
 #   - CVE-2014-8369
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2463-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-75-generic-pae=3.2.0-75.110 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-101.141 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-101.141 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-101.141 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-102.142 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-102.142 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-102.142 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-102.142 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-75-powerpc64-smp=3.2.0-75.110 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-75-virtual=3.2.0-75.110 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-75-omap=3.2.0-75.110 -y

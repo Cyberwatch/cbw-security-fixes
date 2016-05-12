@@ -4,7 +4,7 @@
 # Security fix for USN-2668-1
 #
 # Security announcement date: 2015-07-07 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:04 UTC
+# Script generation date:     2016-05-12 18:02:32 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -19,7 +19,7 @@
 #   - CVE-2015-3281
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2668-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade haproxy=1.5.4-1ubuntu2.1 -y

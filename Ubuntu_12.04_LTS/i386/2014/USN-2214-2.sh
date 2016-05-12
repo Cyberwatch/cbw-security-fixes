@@ -4,7 +4,7 @@
 # Security fix for USN-2214-2
 #
 # Security announcement date: 2014-06-09 00:00:00 UTC
-# Script generation date:     2016-01-20 07:01:15 UTC
+# Script generation date:     2016-05-12 18:01:11 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -18,7 +18,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2214-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-5.1ubuntu4.14 -y

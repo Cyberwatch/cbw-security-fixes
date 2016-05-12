@@ -4,7 +4,7 @@
 # Security fix for USN-1833-1
 #
 # Security announcement date: 2013-05-24 00:00:00 UTC
-# Script generation date:     2016-03-21 19:00:43 UTC
+# Script generation date:     2016-05-12 18:00:48 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -25,9 +25,9 @@
 #   - linux-image-3.2.0-44-highbank:3.2.0-44.69
 #   - linux-image-3.2.0-44-omap:3.2.0-44.69
 #   - linux-image-3.2.0-44-generic-pae:3.2.0-44.69
-#   - linux-source-3.2.0:3.2.0-101.141
-#   - linux-doc:3.2.0-101.141
-#   - linux-tools-common:3.2.0-101.141
+#   - linux-source-3.2.0:3.2.0-102.142
+#   - linux-doc:3.2.0-102.142
+#   - linux-tools-common:3.2.0-102.142
 #   - linux-image-3.2.0-44-powerpc64-smp:3.2.0-44.69
 #   - linux-image-3.2.0-44-virtual:3.2.0-44.69
 #   - linux-image-3.2.0-44-generic:3.2.0-44.69
@@ -40,15 +40,15 @@
 #   - CVE-2013-3301
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-1833-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-44-highbank=3.2.0-44.69 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-44-omap=3.2.0-44.69 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-44-generic-pae=3.2.0-44.69 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-101.141 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-101.141 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-101.141 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-102.142 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-102.142 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-102.142 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-44-powerpc64-smp=3.2.0-44.69 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-44-virtual=3.2.0-44.69 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-44-generic=3.2.0-44.69 -y

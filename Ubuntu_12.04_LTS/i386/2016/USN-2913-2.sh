@@ -4,7 +4,7 @@
 # Security fix for USN-2913-2
 #
 # Security announcement date: 2016-02-24 00:00:00 UTC
-# Script generation date:     2016-03-21 19:04:04 UTC
+# Script generation date:     2016-05-12 18:03:39 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -24,7 +24,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/USN-2913-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade glib-networking=2.32.1-1ubuntu2.1 -y
