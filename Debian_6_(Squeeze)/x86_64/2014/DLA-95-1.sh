@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-95-1
 #
 # Security announcement date: 2014-11-27 00:00:00 UTC
-# Script generation date:     2016-02-28 19:13:33 UTC
+# Script generation date:     2016-05-12 18:06:25 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -20,7 +19,6 @@
 #   - CVE-2013-6497
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-95-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade clamav=0.99+dfsg-0+deb6u1 -y

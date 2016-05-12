@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-104-1
 #
 # Security announcement date: 2014-12-11 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:22 UTC
+# Script generation date:     2016-05-12 18:06:25 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -19,7 +18,6 @@
 #   - CVE-2014-8601
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-104-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade pdns-recursor=3.2-4+deb6u1 -y

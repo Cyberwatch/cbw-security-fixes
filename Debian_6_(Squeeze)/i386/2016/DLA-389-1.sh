@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-389-1
 #
 # Security announcement date: 2016-01-15 00:00:00 UTC
-# Script generation date:     2016-01-17 07:04:35 UTC
+# Script generation date:     2016-05-12 18:06:41 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -19,7 +18,6 @@
 #   - CVE-2015-7555
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-389-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade giflib=4.1.6-9+deb6u1 -y

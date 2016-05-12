@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-335-1
 #
 # Security announcement date: 2015-10-28 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:34 UTC
+# Script generation date:     2016-05-12 18:06:38 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -35,7 +34,6 @@
 #   - CVE-2015-7692
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-335-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ntp=1:4.2.6.p2+dfsg-1+deb6u4 -y

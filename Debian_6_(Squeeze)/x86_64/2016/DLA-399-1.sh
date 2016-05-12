@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-399-1
 #
 # Security announcement date: 2016-01-23 00:00:00 UTC
-# Script generation date:     2016-01-25 07:08:08 UTC
+# Script generation date:     2016-05-12 18:06:41 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -18,7 +17,6 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-399-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade foomatic-filters=4.0.5-6+squeeze2+deb6u13 -y

@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-46-1
 #
 # Security announcement date: 2014-09-05 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:19 UTC
+# Script generation date:     2016-05-12 18:06:23 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -19,7 +18,6 @@
 #   - CVE-2014-3618
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-46-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade procmail=3.22-19+deb6u1 -y

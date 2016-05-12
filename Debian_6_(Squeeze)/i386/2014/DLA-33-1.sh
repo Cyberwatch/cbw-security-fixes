@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-33-1
 #
 # Security announcement date: 2014-08-07 00:00:00 UTC
-# Script generation date:     2016-02-20 19:08:36 UTC
+# Script generation date:     2016-05-12 18:06:22 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -23,7 +22,6 @@
 #   - CVE-2014-3510
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-33-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze23 -y

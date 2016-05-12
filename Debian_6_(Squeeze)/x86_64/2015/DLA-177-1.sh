@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-177-1
 #
 # Security announcement date: 2015-03-20 00:00:00 UTC
-# Script generation date:     2016-02-20 19:08:44 UTC
+# Script generation date:     2016-05-12 18:06:29 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -25,7 +24,6 @@
 #   - CVE-2015-0293
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-177-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze23 -y

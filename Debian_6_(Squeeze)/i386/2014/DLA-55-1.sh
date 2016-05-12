@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-55-1
 #
 # Security announcement date: 2014-09-17 00:00:00 UTC
-# Script generation date:     2016-01-27 19:11:27 UTC
+# Script generation date:     2016-05-12 18:06:23 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -19,7 +18,6 @@
 #   - CVE-2014-3616
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-55-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade nginx=0.7.67-3+squeeze4+deb6u1 -y

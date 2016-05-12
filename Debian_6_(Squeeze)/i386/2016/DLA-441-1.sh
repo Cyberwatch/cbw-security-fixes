@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-441-1
 #
 # Security announcement date: 2016-02-29 00:00:00 UTC
-# Script generation date:     2016-03-18 07:04:44 UTC
+# Script generation date:     2016-05-12 18:06:43 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -19,7 +18,6 @@
 #   - CVE-2016-3191
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-441-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade pcre3=8.02-1.1+deb6u1 -y

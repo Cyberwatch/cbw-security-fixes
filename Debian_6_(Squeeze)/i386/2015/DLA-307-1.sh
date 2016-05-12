@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-307-1
 #
 # Security announcement date: 2015-09-07 00:00:00 UTC
-# Script generation date:     2016-03-01 07:11:24 UTC
+# Script generation date:     2016-05-12 18:06:35 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -38,7 +37,6 @@
 #   - CVE-2015-5590
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-307-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze29 -y

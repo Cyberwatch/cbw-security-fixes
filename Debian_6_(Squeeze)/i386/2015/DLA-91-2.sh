@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-91-2
 #
 # Security announcement date: 2015-01-19 00:00:00 UTC
-# Script generation date:     2016-02-28 07:09:07 UTC
+# Script generation date:     2016-05-12 18:06:27 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -18,7 +17,6 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-91-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tomcat6=6.0.45-1~deb6u1 -y

@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-94-1
 #
 # Security announcement date: 2014-11-25 00:00:00 UTC
-# Script generation date:     2016-03-01 07:11:13 UTC
+# Script generation date:     2016-05-12 18:06:25 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -22,7 +21,6 @@
 #   - CVE-2014-3710
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-94-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze29 -y

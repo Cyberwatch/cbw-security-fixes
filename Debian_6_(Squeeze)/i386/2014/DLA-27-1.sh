@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-27-1
 #
 # Security announcement date: 2014-07-31 00:00:00 UTC
-# Script generation date:     2016-01-21 07:11:29 UTC
+# Script generation date:     2016-05-12 18:06:22 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -25,7 +24,6 @@
 #   - CVE-2014-3487
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-27-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade file=5.04-5+squeeze10 -y

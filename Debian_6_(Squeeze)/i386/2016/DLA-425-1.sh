@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-425-1
 #
 # Security announcement date: 2016-02-23 00:00:00 UTC
-# Script generation date:     2016-02-25 07:14:07 UTC
+# Script generation date:     2016-05-12 18:06:43 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -19,7 +18,6 @@
 #   - CVE-2016-0739
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-425-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libssh=0.4.5-3+squeeze3 -y

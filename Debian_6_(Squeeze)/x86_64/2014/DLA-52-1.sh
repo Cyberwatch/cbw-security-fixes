@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-52-1
 #
 # Security announcement date: 2014-09-11 00:00:00 UTC
-# Script generation date:     2016-02-28 19:13:31 UTC
+# Script generation date:     2016-05-12 18:06:23 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -20,8 +19,6 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-52-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ia32-libs=20160228 -y
-sudo apt-get install --only-upgrade ia32-libs-gtk=20160228 -y

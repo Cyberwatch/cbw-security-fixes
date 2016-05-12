@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-151-1
 #
 # Security announcement date: 2015-02-07 00:00:00 UTC
-# Script generation date:     2016-01-21 07:11:35 UTC
+# Script generation date:     2016-05-12 18:06:28 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -20,7 +19,6 @@
 #   - CVE-2014-3660
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-151-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-2+squeeze16 -y

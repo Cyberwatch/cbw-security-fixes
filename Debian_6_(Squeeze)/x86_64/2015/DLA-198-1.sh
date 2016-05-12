@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-198-1
 #
 # Security announcement date: 2015-04-14 00:00:00 UTC
-# Script generation date:     2016-01-21 07:11:37 UTC
+# Script generation date:     2016-05-12 18:06:30 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -35,7 +34,6 @@
 #   - CVE-2014-6422
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-198-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wireshark=1.8.2-5wheezy16~deb6u1 -y

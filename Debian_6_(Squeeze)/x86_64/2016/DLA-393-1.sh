@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-393-1
 #
 # Security announcement date: 2016-01-17 00:00:00 UTC
-# Script generation date:     2016-01-19 07:07:59 UTC
+# Script generation date:     2016-05-12 18:06:41 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -19,7 +18,6 @@
 #   - CVE-2015-6360
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-393-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade srtp=1.4.4~dfsg-6+deb6u2 -y

@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-345-1
 #
 # Security announcement date: 2015-11-19 00:00:00 UTC
-# Script generation date:     2016-01-21 07:11:46 UTC
+# Script generation date:     2016-05-12 18:06:39 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -19,7 +18,6 @@
 #   - CVE-2015-8023
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-345-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade strongswan=4.4.1-5.8 -y

@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-108-1
 #
 # Security announcement date: 2014-12-13 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:22 UTC
+# Script generation date:     2016-05-12 18:06:26 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -19,7 +18,6 @@
 #   - CVE-2012-3541
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-108-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade nfs-utils=1:1.2.2-4squeeze3 -y

@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-88-1
 #
 # Security announcement date: 2014-11-21 00:00:00 UTC
-# Script generation date:     2016-01-21 07:11:32 UTC
+# Script generation date:     2016-05-12 18:06:25 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -24,7 +23,6 @@
 #   - CVE-2014-8090
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-88-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ruby1.8=1.8.7.302-2squeeze5 -y

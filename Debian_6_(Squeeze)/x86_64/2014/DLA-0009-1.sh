@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-0009-1
 #
 # Security announcement date: 2014-06-26 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:17 UTC
+# Script generation date:     2016-05-12 18:06:21 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -19,7 +18,6 @@
 #   - CVE-2014-3146
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DLA-0009-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade lxml=2.2.8-2+deb6u1 -y
