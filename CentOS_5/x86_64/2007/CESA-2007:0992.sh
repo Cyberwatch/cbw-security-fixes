@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2007:0992
 #
 # Security announcement date: 2007-10-26 23:44:16 UTC
-# Script generation date:     2016-02-04 19:10:04 UTC
+# Script generation date:     2016-05-12 18:06:57 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -23,7 +24,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2007:0992
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libpng.x86_64-1.2.10 -y 

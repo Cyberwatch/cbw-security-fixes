@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2007:1048
 #
 # Security announcement date: 2008-01-19 00:17:10 UTC
-# Script generation date:     2016-02-04 19:10:12 UTC
+# Script generation date:     2016-05-12 18:06:58 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -169,7 +170,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2007:1048
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install hsqldb.x86_64-1.8.0.4 -y 

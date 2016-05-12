@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:0166
 #
 # Security announcement date: 2015-02-11 00:09:48 UTC
-# Script generation date:     2016-02-04 19:12:45 UTC
+# Script generation date:     2016-05-12 18:08:33 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -56,7 +57,7 @@
 #   - CVE-2014-8108
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:0166
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install mod_dav_svn.x86_64-1.7.14 -y 

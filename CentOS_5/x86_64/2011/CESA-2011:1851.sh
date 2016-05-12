@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2011:1851
 #
 # Security announcement date: 2011-12-27 20:44:52 UTC
-# Script generation date:     2016-02-04 19:11:25 UTC
+# Script generation date:     2016-05-12 18:07:35 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2011-4862
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2011:1851
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install krb5-devel.x86_64-1.6.1 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:2024
 #
 # Security announcement date: 2014-12-20 03:01:33 UTC
-# Script generation date:     2016-02-04 19:12:43 UTC
+# Script generation date:     2016-05-12 18:08:31 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -27,7 +28,7 @@
 #   - CVE-2014-9296
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:2024
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ntp-doc.noarch-4.2.6p5 -y 

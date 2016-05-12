@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2009:1529
 #
 # Security announcement date: 2009-10-30 14:44:00 UTC
-# Script generation date:     2016-04-14 06:12:33 UTC
+# Script generation date:     2016-05-12 18:07:15 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -29,7 +30,7 @@
 #   - CVE-2009-1888
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2009:1529
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install samba.x86_64-3.0.33 -y 

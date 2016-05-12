@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2009:1140
 #
 # Security announcement date: 2009-07-02 23:49:01 UTC
-# Script generation date:     2016-02-04 19:10:48 UTC
+# Script generation date:     2016-05-12 18:07:12 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -40,7 +41,7 @@
 #   - CVE-2007-1558
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2009:1140
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ruby.x86_64-1.8.5 -y 

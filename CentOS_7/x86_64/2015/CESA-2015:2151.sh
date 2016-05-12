@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:2151
 #
 # Security announcement date: 2015-11-30 19:56:08 UTC
-# Script generation date:     2016-02-04 19:13:14 UTC
+# Script generation date:     2016-05-12 18:08:54 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -28,7 +29,7 @@
 #   - CVE-2012-2150
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:2151
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install xfsprogs.x86_64-3.2.2 -y 

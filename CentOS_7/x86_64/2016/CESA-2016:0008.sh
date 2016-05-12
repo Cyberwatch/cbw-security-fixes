@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2016:0008
 #
 # Security announcement date: 2016-01-07 22:29:21 UTC
-# Script generation date:     2016-03-02 07:13:06 UTC
+# Script generation date:     2016-05-12 18:08:55 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -19,20 +20,20 @@
 #   - openssl-static.i686:1.0.1e-51.el7_2.2
 #
 # Last versions recommanded by security team:
-#   - openssl.x86_64:1.0.1e-51.el7_2.4
-#   - openssl-devel.x86_64:1.0.1e-51.el7_2.4
-#   - openssl-libs.x86_64:1.0.1e-51.el7_2.4
-#   - openssl-perl.x86_64:1.0.1e-51.el7_2.4
-#   - openssl-static.x86_64:1.0.1e-51.el7_2.4
-#   - openssl-devel.i686:1.0.1e-51.el7_2.4
-#   - openssl-libs.i686:1.0.1e-51.el7_2.4
-#   - openssl-static.i686:1.0.1e-51.el7_2.4
+#   - openssl.x86_64:1.0.1e-51.el7_2.5
+#   - openssl-devel.x86_64:1.0.1e-51.el7_2.5
+#   - openssl-libs.x86_64:1.0.1e-51.el7_2.5
+#   - openssl-perl.x86_64:1.0.1e-51.el7_2.5
+#   - openssl-static.x86_64:1.0.1e-51.el7_2.5
+#   - openssl-devel.i686:1.0.1e-51.el7_2.5
+#   - openssl-libs.i686:1.0.1e-51.el7_2.5
+#   - openssl-static.i686:1.0.1e-51.el7_2.5
 #
 # CVE List:
 #   - CVE-2015-7575
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2016:0008
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openssl.x86_64-1.0.1e -y 

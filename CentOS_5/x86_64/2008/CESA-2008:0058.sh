@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2008:0058
 #
 # Security announcement date: 2008-01-21 17:15:51 UTC
-# Script generation date:     2016-02-04 19:10:14 UTC
+# Script generation date:     2016-05-12 18:06:59 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -39,7 +40,7 @@
 #   - CVE-2007-6441
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2008:0058
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libsmi.x86_64-0.4.5 -y 

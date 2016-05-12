@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2008:1036
 #
 # Security announcement date: 2008-12-23 16:04:04 UTC
-# Script generation date:     2016-04-26 06:12:22 UTC
+# Script generation date:     2016-05-12 18:07:08 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,7 +17,7 @@
 #   - nss-devel.x86_64:3.12.2.0-1.el4.centos
 #
 # Last versions recommanded by security team:
-#   - firefox.x86_64:38.7.0-1.el5.centos
+#   - firefox.x86_64:45.1.0-1.el5.centos
 #   - nspr.x86_64:4.11.0-1.el5_11
 #   - nspr-devel.x86_64:4.11.0-1.el5_11
 #   - nss.x86_64:3.21.0-6.el5_11
@@ -36,10 +37,10 @@
 #   - CVE-2008-5505
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2008:1036
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.x86_64-38.7.0 -y 
+sudo yum install firefox.x86_64-45.1.0 -y 
 sudo yum install nspr.x86_64-4.11.0 -y 
 sudo yum install nspr-devel.x86_64-4.11.0 -y 
 sudo yum install nss.x86_64-3.21.0 -y 

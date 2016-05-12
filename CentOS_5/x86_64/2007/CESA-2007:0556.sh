@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2007:0556
 #
 # Security announcement date: 2007-06-27 11:06:23 UTC
-# Script generation date:     2016-02-04 19:09:56 UTC
+# Script generation date:     2016-05-12 18:06:53 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -25,7 +26,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2007:0556
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install httpd.x86_64-2.2.3 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2010:0793
 #
 # Security announcement date: 2010-10-26 06:41:50 UTC
-# Script generation date:     2016-02-04 19:11:08 UTC
+# Script generation date:     2016-05-12 18:07:24 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -32,7 +33,7 @@
 #   - CVE-2010-3856
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2010:0793
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install glibc.x86_64-2.5 -y 

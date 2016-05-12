@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2009:1648
 #
 # Security announcement date: 2009-12-19 12:03:08 UTC
-# Script generation date:     2016-02-04 19:10:55 UTC
+# Script generation date:     2016-05-12 18:07:16 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -18,7 +19,7 @@
 #   - CVE-2009-3563
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2009:1648
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ntp.x86_64-4.2.2p1 -y 

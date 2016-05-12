@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:0442
 #
 # Security announcement date: 2015-03-17 13:28:21 UTC
-# Script generation date:     2016-04-14 06:14:28 UTC
+# Script generation date:     2016-05-12 18:08:34 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -27,7 +28,7 @@
 #   - CVE-2012-6662
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:0442
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ipa-admintools.x86_64-4.2.0 -y 

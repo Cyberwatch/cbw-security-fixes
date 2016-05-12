@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:1552
 #
 # Security announcement date: 2014-10-20 18:10:27 UTC
-# Script generation date:     2016-03-22 07:13:17 UTC
+# Script generation date:     2016-05-12 18:08:27 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -31,7 +32,7 @@
 #   - CVE-2014-2653
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:1552
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openssh.x86_64-5.3p1 -y 

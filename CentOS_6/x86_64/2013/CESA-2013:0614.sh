@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2013:0614
 #
 # Security announcement date: 2013-03-09 00:47:32 UTC
-# Script generation date:     2016-02-04 19:12:01 UTC
+# Script generation date:     2016-05-12 18:08:01 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -24,7 +25,7 @@
 #   - CVE-2013-0787
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2013:0614
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install xulrunner.x86_64-17.0.10 -y 

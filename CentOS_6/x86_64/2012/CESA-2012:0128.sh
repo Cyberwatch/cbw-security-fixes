@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:0128
 #
 # Security announcement date: 2012-02-14 11:13:29 UTC
-# Script generation date:     2016-02-04 19:11:29 UTC
+# Script generation date:     2016-05-12 18:07:38 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -33,7 +34,7 @@
 #   - CVE-2012-0053
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:0128
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install httpd-manual.noarch-2.2.15 -y 

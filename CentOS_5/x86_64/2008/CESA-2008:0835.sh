@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2008:0835
 #
 # Security announcement date: 2008-08-30 22:58:21 UTC
-# Script generation date:     2016-02-04 19:10:37 UTC
+# Script generation date:     2016-05-12 18:07:04 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -170,7 +171,7 @@
 #   - CVE-2008-3282
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2008:0835
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openoffice.org-base.x86_64-3.1.1 -y 

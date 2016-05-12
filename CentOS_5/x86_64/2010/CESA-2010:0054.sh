@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2010:0054
 #
 # Security announcement date: 2010-01-20 23:10:16 UTC
-# Script generation date:     2016-03-02 07:10:15 UTC
+# Script generation date:     2016-05-12 18:07:17 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -27,7 +28,7 @@
 #   - CVE-2009-4355
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2010:0054
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openssl.x86_64-0.9.8e -y 

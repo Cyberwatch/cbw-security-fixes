@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:1202
 #
 # Security announcement date: 2012-08-24 01:09:18 UTC
-# Script generation date:     2016-02-04 19:11:45 UTC
+# Script generation date:     2016-05-12 18:07:48 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2012-3445
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:1202
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libvirt.x86_64-0.10.2 -y 

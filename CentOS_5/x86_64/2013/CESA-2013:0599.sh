@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2013:0599
 #
 # Security announcement date: 2013-03-06 19:54:46 UTC
-# Script generation date:     2016-02-04 19:11:57 UTC
+# Script generation date:     2016-05-12 18:07:58 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -26,7 +27,7 @@
 #   - CVE-2012-6075
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2013:0599
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install xen.x86_64-3.0.3 -y 

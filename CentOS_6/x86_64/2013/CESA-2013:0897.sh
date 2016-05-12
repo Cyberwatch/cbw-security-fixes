@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2013:0897
 #
 # Security announcement date: 2013-06-03 23:29:01 UTC
-# Script generation date:     2016-02-04 19:12:06 UTC
+# Script generation date:     2016-05-12 18:08:05 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -53,7 +54,7 @@
 #   - CVE-2013-1993
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2013:0897
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install glx-utils.x86_64-9.0 -y 

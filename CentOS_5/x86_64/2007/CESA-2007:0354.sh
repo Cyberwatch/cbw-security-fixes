@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2007:0354
 #
 # Security announcement date: 2007-05-14 22:53:53 UTC
-# Script generation date:     2016-04-14 06:11:53 UTC
+# Script generation date:     2016-05-12 18:06:51 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -31,7 +32,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2007:0354
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install samba.x86_64-3.0.33 -y 

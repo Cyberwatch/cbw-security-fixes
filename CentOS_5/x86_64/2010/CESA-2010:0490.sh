@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2010:0490
 #
 # Security announcement date: 2010-06-19 23:35:01 UTC
-# Script generation date:     2016-02-04 19:11:02 UTC
+# Script generation date:     2016-05-12 18:07:20 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2010-0540
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2010:0490
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install cups.x86_64-1.3.7 -y 

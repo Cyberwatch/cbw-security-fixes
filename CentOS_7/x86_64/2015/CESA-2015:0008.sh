@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:0008
 #
 # Security announcement date: 2015-01-05 23:41:12 UTC
-# Script generation date:     2016-02-04 19:12:43 UTC
+# Script generation date:     2016-05-12 18:08:31 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -60,7 +61,7 @@
 #   - CVE-2014-7823
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:0008
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libvirt.x86_64-1.2.8 -y 

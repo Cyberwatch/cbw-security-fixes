@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:1045
 #
 # Security announcement date: 2012-06-27 20:21:47 UTC
-# Script generation date:     2016-02-04 19:11:38 UTC
+# Script generation date:     2016-05-12 18:07:44 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -59,7 +60,7 @@
 #   - CVE-2011-4153
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:1045
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install php.x86_64-5.1.6 -y 

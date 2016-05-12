@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2008:0031
 #
 # Security announcement date: 2008-01-20 03:46:29 UTC
-# Script generation date:     2016-02-04 19:10:13 UTC
+# Script generation date:     2016-05-12 18:06:59 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -72,7 +73,7 @@
 #   - CVE-2007-6429
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2008:0031
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install xorg-x11-server-sdk.x86_64-1.1.1 -y 

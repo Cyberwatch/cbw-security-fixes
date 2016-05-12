@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:0537
 #
 # Security announcement date: 2014-05-22 23:25:52 UTC
-# Script generation date:     2016-02-04 19:12:24 UTC
+# Script generation date:     2016-05-12 18:08:17 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -35,7 +36,7 @@
 #   - CVE-2014-2440
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:0537
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install mysql55-mysql.x86_64-5.5.37 -y 

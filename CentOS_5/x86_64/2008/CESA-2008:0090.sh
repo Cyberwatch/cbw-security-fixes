@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2008:0090
 #
 # Security announcement date: 2008-01-25 14:57:13 UTC
-# Script generation date:     2016-02-04 19:10:15 UTC
+# Script generation date:     2016-05-12 18:06:59 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -29,7 +30,7 @@
 #   - CVE-2007-4771
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2008:0090
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install icu.x86_64-3.6 -y 

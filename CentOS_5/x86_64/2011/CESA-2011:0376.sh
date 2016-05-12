@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2011:0376
 #
 # Security announcement date: 2011-04-14 23:47:56 UTC
-# Script generation date:     2016-02-04 19:11:11 UTC
+# Script generation date:     2016-05-12 18:07:26 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2010-4352
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2011:0376
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install dbus.x86_64-1.1.2 -y 

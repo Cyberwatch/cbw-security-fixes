@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:1870
 #
 # Security announcement date: 2014-11-18 14:18:34 UTC
-# Script generation date:     2016-02-04 19:12:40 UTC
+# Script generation date:     2016-05-12 18:08:29 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -26,7 +27,7 @@
 #   - CVE-2014-0211
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:1870
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libXfont.x86_64-1.4.5 -y 

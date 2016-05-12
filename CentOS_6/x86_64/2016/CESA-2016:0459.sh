@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2016:0459
 #
 # Security announcement date: 2016-03-16 13:43:49 UTC
-# Script generation date:     2016-03-18 19:11:08 UTC
+# Script generation date:     2016-05-12 18:08:58 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -33,7 +34,7 @@
 #   - CVE-2016-1286
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2016:0459
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install bind.x86_64-9.8.2 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2007:0964
 #
 # Security announcement date: 2007-10-18 00:20:04 UTC
-# Script generation date:     2016-03-02 07:09:28 UTC
+# Script generation date:     2016-05-12 18:06:56 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -25,7 +26,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2007:0964
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openssl.x86_64-0.9.8e -y 

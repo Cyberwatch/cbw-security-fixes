@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:0740
 #
 # Security announcement date: 2014-06-11 11:01:17 UTC
-# Script generation date:     2016-03-17 07:10:44 UTC
+# Script generation date:     2016-05-12 18:08:18 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -34,7 +35,7 @@
 #   - CVE-2014-1738
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:0740
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install kernel-doc.noarch-2.6.18 -y 

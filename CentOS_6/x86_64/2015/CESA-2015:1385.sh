@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:1385
 #
 # Security announcement date: 2015-07-26 14:12:35 UTC
-# Script generation date:     2016-02-04 19:12:58 UTC
+# Script generation date:     2016-05-12 18:08:42 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -32,7 +33,7 @@
 #   - CVE-2014-3565
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:1385
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install net-snmp.x86_64-5.5 -y 

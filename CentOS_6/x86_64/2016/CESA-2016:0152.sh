@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2016:0152
 #
 # Security announcement date: 2016-02-10 13:41:55 UTC
-# Script generation date:     2016-02-12 19:12:28 UTC
+# Script generation date:     2016-05-12 18:08:57 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -18,7 +19,7 @@
 #   - CVE-2015-7529
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2016:0152
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install sos.noarch-3.2 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2011:1780
 #
 # Security announcement date: 2011-12-22 16:00:12 UTC
-# Script generation date:     2016-02-04 19:11:24 UTC
+# Script generation date:     2016-05-12 18:07:34 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -37,7 +38,7 @@
 #   - CVE-2011-3190
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2011:1780
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install tomcat6.noarch-6.0.24 -y 

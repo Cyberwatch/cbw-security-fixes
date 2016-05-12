@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:0861
 #
 # Security announcement date: 2014-07-09 19:40:16 UTC
-# Script generation date:     2016-02-04 19:12:26 UTC
+# Script generation date:     2016-05-12 18:08:19 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -28,7 +29,7 @@
 #   - CVE-2014-4607
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:0861
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install lzo.x86_64-2.06 -y 

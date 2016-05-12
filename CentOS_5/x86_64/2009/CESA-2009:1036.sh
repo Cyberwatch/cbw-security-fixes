@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2009:1036
 #
 # Security announcement date: 2009-05-19 15:04:51 UTC
-# Script generation date:     2016-02-04 19:10:46 UTC
+# Script generation date:     2016-05-12 18:07:10 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -19,7 +20,7 @@
 #   - CVE-2009-1574
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2009:1036
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ipsec-tools.x86_64-0.6.5 -y 

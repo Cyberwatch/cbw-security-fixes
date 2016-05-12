@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:1724
 #
 # Security announcement date: 2014-10-29 02:12:28 UTC
-# Script generation date:     2016-02-18 07:12:58 UTC
+# Script generation date:     2016-05-12 18:08:26 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -44,7 +45,7 @@
 #   - CVE-2014-5077
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:1724
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install kernel.x86_64-3.10.0 -y 

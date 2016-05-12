@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:0051
 #
 # Security announcement date: 2012-01-24 20:53:03 UTC
-# Script generation date:     2016-02-04 19:11:26 UTC
+# Script generation date:     2016-05-12 18:07:36 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -27,7 +28,7 @@
 #   - CVE-2012-0029
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:0051
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install kmod-kvm.x86_64-83 -y 

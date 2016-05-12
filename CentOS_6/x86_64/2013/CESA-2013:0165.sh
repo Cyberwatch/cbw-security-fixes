@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2013:0165
 #
 # Security announcement date: 2013-01-16 22:43:17 UTC
-# Script generation date:     2016-04-22 06:13:49 UTC
+# Script generation date:     2016-05-12 18:07:53 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -27,7 +28,7 @@
 #   - CVE-2013-0422
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2013:0165
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install java-1.7.0-openjdk-javadoc.noarch-1.7.0.101 -y 

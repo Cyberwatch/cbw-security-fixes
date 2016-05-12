@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:0745
 #
 # Security announcement date: 2012-06-18 13:11:45 UTC
-# Script generation date:     2016-02-04 19:11:38 UTC
+# Script generation date:     2016-05-12 18:07:43 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2011-4944
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:0745
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install python.x86_64-2.4.3 -y 

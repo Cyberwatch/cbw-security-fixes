@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2016:0373
 #
 # Security announcement date: 2016-03-09 06:42:15 UTC
-# Script generation date:     2016-03-11 07:16:04 UTC
+# Script generation date:     2016-05-12 18:08:58 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -13,8 +14,8 @@
 #   - firefox.x86_64:38.7.0-1.el7.centos
 #
 # Last versions recommanded by security team:
-#   - firefox.i686:38.7.0-1.el7.centos
-#   - firefox.x86_64:38.7.0-1.el7.centos
+#   - firefox.i686:45.1.0-1.el7.centos
+#   - firefox.x86_64:45.1.0-1.el7.centos
 #
 # CVE List:
 #   - CVE-2016-1952
@@ -45,8 +46,8 @@
 #   - CVE-2016-2802
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2016:0373
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.i686-38.7.0 -y 
-sudo yum install firefox.x86_64-38.7.0 -y 
+sudo yum install firefox.i686-45.1.0 -y 
+sudo yum install firefox.x86_64-45.1.0 -y 

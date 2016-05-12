@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2013:0215
 #
 # Security announcement date: 2013-02-01 00:55:08 UTC
-# Script generation date:     2016-02-04 19:11:53 UTC
+# Script generation date:     2016-05-12 18:07:54 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -43,7 +44,7 @@
 #   - CVE-2012-5660
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2013:0215
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install abrt.x86_64-2.0.8 -y 

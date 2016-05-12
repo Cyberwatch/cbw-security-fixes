@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2016:0009
 #
 # Security announcement date: 2016-01-07 22:11:38 UTC
-# Script generation date:     2016-04-14 06:14:55 UTC
+# Script generation date:     2016-05-12 18:08:55 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -31,7 +32,7 @@
 #   - CVE-2015-5330
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2016:0009
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ldb-tools.x86_64-1.1.25 -y 

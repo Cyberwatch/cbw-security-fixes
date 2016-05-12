@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2011:0472
 #
 # Security announcement date: 2011-04-29 15:47:13 UTC
-# Script generation date:     2016-04-26 06:12:54 UTC
+# Script generation date:     2016-05-12 18:07:27 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -29,7 +30,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2011:0472
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install nss.x86_64-3.21.0 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:0518
 #
 # Security announcement date: 2012-04-25 03:48:26 UTC
-# Script generation date:     2016-03-10 07:15:41 UTC
+# Script generation date:     2016-05-12 18:07:40 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -32,7 +33,7 @@
 #   - CVE-2012-2110
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:0518
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openssl098e.x86_64-0.9.8e -y 

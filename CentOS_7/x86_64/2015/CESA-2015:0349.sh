@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:0349
 #
 # Security announcement date: 2015-03-17 13:29:43 UTC
-# Script generation date:     2016-02-04 19:12:49 UTC
+# Script generation date:     2016-05-12 18:08:36 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -20,15 +21,15 @@
 #   - libcacard-devel.i686:1.5.3-86.el7
 #
 # Last versions recommanded by security team:
-#   - libcacard.x86_64:1.5.3-105.el7_2.3
-#   - libcacard-devel.x86_64:1.5.3-105.el7_2.3
-#   - libcacard-tools.x86_64:1.5.3-105.el7_2.3
-#   - qemu-img.x86_64:1.5.3-105.el7_2.3
-#   - qemu-kvm.x86_64:1.5.3-105.el7_2.3
-#   - qemu-kvm-common.x86_64:1.5.3-105.el7_2.3
-#   - qemu-kvm-tools.x86_64:1.5.3-105.el7_2.3
-#   - libcacard.i686:1.5.3-105.el7_2.3
-#   - libcacard-devel.i686:1.5.3-105.el7_2.3
+#   - libcacard.x86_64:1.5.3-105.el7_2.4
+#   - libcacard-devel.x86_64:1.5.3-105.el7_2.4
+#   - libcacard-tools.x86_64:1.5.3-105.el7_2.4
+#   - qemu-img.x86_64:1.5.3-105.el7_2.4
+#   - qemu-kvm.x86_64:1.5.3-105.el7_2.4
+#   - qemu-kvm-common.x86_64:1.5.3-105.el7_2.4
+#   - qemu-kvm-tools.x86_64:1.5.3-105.el7_2.4
+#   - libcacard.i686:1.5.3-105.el7_2.4
+#   - libcacard-devel.i686:1.5.3-105.el7_2.4
 #
 # CVE List:
 #   - CVE-2014-7815
@@ -37,7 +38,7 @@
 #   - CVE-2014-8106
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:0349
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libcacard.x86_64-1.5.3 -y 

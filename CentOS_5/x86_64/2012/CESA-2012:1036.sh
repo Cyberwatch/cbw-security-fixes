@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:1036
 #
 # Security announcement date: 2012-06-25 22:25:31 UTC
-# Script generation date:     2016-02-04 19:11:38 UTC
+# Script generation date:     2016-05-12 18:07:43 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -40,7 +41,7 @@
 #   - CVE-2012-2143
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:1036
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install postgresql.x86_64-8.1.23 -y 

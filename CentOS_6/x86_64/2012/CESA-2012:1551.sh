@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:1551
 #
 # Security announcement date: 2012-12-07 17:47:08 UTC
-# Script generation date:     2016-02-04 19:11:50 UTC
+# Script generation date:     2016-05-12 18:07:52 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -40,7 +41,7 @@
 #   - CVE-2012-5611
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:1551
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install mysql.x86_64-5.1.73 -y 

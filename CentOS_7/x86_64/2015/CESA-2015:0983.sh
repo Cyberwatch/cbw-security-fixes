@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:0983
 #
 # Security announcement date: 2015-05-13 00:54:05 UTC
-# Script generation date:     2016-02-04 19:12:52 UTC
+# Script generation date:     2016-05-12 18:08:38 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -36,7 +37,7 @@
 #   - CVE-2014-0227
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:0983
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install tomcat.noarch-7.0.54 -y 

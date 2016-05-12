@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:2088
 #
 # Security announcement date: 2015-11-30 19:46:33 UTC
-# Script generation date:     2016-03-22 07:13:49 UTC
+# Script generation date:     2016-05-12 18:08:53 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -36,7 +37,7 @@
 #   - CVE-2015-6564
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:2088
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openssh.x86_64-6.6.1p1 -y 

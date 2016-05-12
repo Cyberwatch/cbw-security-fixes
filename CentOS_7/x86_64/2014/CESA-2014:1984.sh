@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:1984
 #
 # Security announcement date: 2014-12-12 11:15:31 UTC
-# Script generation date:     2016-03-17 07:11:03 UTC
+# Script generation date:     2016-05-12 18:08:30 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -44,7 +45,7 @@
 #   - CVE-2014-8500
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:1984
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install bind.x86_64-9.9.4 -y 

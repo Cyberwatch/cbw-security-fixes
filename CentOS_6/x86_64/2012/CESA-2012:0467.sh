@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:0467
 #
 # Security announcement date: 2012-04-10 23:57:59 UTC
-# Script generation date:     2016-02-04 19:11:32 UTC
+# Script generation date:     2016-05-12 18:07:40 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -39,7 +40,7 @@
 #   - CVE-2012-1144
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:0467
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install freetype.x86_64-2.3.11 -y 

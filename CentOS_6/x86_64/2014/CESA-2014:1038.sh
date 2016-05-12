@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:1038
 #
 # Security announcement date: 2014-08-11 18:04:13 UTC
-# Script generation date:     2016-02-04 19:12:31 UTC
+# Script generation date:     2016-05-12 18:08:22 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -35,7 +36,7 @@
 #   - CVE-2014-0119
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:1038
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install tomcat6.noarch-6.0.24 -y 

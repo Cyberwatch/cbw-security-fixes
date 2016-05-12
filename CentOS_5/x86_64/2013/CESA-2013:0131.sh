@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2013:0131
 #
 # Security announcement date: 2013-01-11 13:17:57 UTC
-# Script generation date:     2016-02-04 19:11:52 UTC
+# Script generation date:     2016-05-12 18:07:53 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -26,7 +27,7 @@
 #   - CVE-2009-2473
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2013:0131
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install gnome-vfs2.x86_64-2.16.2 -y 

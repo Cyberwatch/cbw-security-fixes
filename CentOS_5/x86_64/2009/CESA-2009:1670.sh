@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2009:1670
 #
 # Security announcement date: 2009-12-17 12:56:30 UTC
-# Script generation date:     2016-03-17 07:08:45 UTC
+# Script generation date:     2016-05-12 18:07:16 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -35,7 +36,7 @@
 #   - CVE-2009-3620
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2009:1670
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install kernel.x86_64-2.6.18 -y 

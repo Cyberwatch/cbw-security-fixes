@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:1011
 #
 # Security announcement date: 2014-08-06 14:38:38 UTC
-# Script generation date:     2016-02-04 19:12:30 UTC
+# Script generation date:     2016-05-12 18:08:22 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -39,7 +40,7 @@
 #   - CVE-2012-0818
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:1011
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install resteasy-base.noarch-2.3.5 -y 

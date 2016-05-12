@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2013:0214
 #
 # Security announcement date: 2013-01-31 21:58:41 UTC
-# Script generation date:     2016-04-26 06:13:33 UTC
+# Script generation date:     2016-05-12 18:07:53 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -37,7 +38,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2013:0214
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install nspr.x86_64-4.11.0 -y 

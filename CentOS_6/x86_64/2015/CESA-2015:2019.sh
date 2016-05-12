@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:2019
 #
 # Security announcement date: 2015-11-10 13:43:26 UTC
-# Script generation date:     2016-02-04 19:13:05 UTC
+# Script generation date:     2016-05-12 18:08:49 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -80,7 +81,7 @@
 #   - CVE-2015-5292
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:2019
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install python-sssdconfig.noarch-1.12.4 -y 

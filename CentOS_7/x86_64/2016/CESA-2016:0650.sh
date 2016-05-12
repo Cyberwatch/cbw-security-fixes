@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2016:0650
 #
 # Security announcement date: 2016-04-21 15:30:55 UTC
-# Script generation date:     2016-04-23 18:11:33 UTC
+# Script generation date:     2016-05-12 18:09:00 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -49,7 +50,7 @@
 #   - CVE-2016-3427
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2016:0650
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install java-1.8.0-openjdk.x86_64-1.8.0.91 -y 

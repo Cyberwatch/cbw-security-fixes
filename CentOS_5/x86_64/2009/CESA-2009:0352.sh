@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2009:0352
 #
 # Security announcement date: 2009-04-08 12:04:31 UTC
-# Script generation date:     2016-02-04 19:10:44 UTC
+# Script generation date:     2016-05-12 18:07:09 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -24,7 +25,7 @@
 #   - CVE-2009-0586
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2009:0352
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install gstreamer-plugins-base.x86_64-0.10.20 -y 

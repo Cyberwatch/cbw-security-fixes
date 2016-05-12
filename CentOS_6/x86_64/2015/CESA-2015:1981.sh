@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:1981
 #
 # Security announcement date: 2015-11-04 16:35:45 UTC
-# Script generation date:     2016-04-06 06:10:50 UTC
+# Script generation date:     2016-05-12 18:08:49 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -34,7 +35,7 @@
 #   - CVE-2015-7183
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:1981
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install nss.x86_64-3.21.0 -y 

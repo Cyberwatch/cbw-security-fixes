@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2011:0918
 #
 # Security announcement date: 2011-07-06 01:31:31 UTC
-# Script generation date:     2016-02-04 19:11:16 UTC
+# Script generation date:     2016-05-12 18:07:29 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -24,7 +25,7 @@
 #   - CVE-2011-2192
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2011:0918
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install curl.x86_64-7.15.5 -y 

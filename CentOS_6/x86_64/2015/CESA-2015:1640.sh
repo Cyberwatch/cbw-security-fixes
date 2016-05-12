@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:1640
 #
 # Security announcement date: 2015-08-18 15:30:42 UTC
-# Script generation date:     2016-02-04 19:13:00 UTC
+# Script generation date:     2016-05-12 18:08:44 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -24,7 +25,7 @@
 #   - CVE-2015-3238
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:1640
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install pam.x86_64-1.1.1 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2013:1536
 #
 # Security announcement date: 2013-11-26 13:32:04 UTC
-# Script generation date:     2016-02-04 19:12:14 UTC
+# Script generation date:     2016-05-12 18:08:10 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -40,7 +41,7 @@
 #   - CVE-2013-4419
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2013:1536
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libguestfs.x86_64-1.20.11 -y 

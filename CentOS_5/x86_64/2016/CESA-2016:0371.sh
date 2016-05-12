@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2016:0371
 #
 # Security announcement date: 2016-03-09 05:42:52 UTC
-# Script generation date:     2016-04-26 06:15:03 UTC
+# Script generation date:     2016-05-12 18:08:58 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2016-1950
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2016:0371
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install nss.i386-3.21.0 -y 

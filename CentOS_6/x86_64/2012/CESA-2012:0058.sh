@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:0058
 #
 # Security announcement date: 2012-01-30 20:26:30 UTC
-# Script generation date:     2016-02-17 07:10:57 UTC
+# Script generation date:     2016-05-12 18:07:36 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -37,7 +38,7 @@
 #   - CVE-2011-4609
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:0058
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install glibc.x86_64-2.12 -y 

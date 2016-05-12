@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2016:0492
 #
 # Security announcement date: 2016-03-23 13:09:57 UTC
-# Script generation date:     2016-03-25 19:10:24 UTC
+# Script generation date:     2016-05-12 18:08:59 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -34,7 +35,7 @@
 #   - CVE-2014-7810
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2016:0492
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install tomcat6.x86_64-6.0.24 -y 

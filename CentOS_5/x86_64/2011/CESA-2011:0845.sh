@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2011:0845
 #
 # Security announcement date: 2011-05-31 17:03:46 UTC
-# Script generation date:     2016-03-17 07:09:06 UTC
+# Script generation date:     2016-05-12 18:07:28 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2011-1910
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2011:0845
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install bind97.x86_64-9.7.0 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:0428
 #
 # Security announcement date: 2012-03-28 00:49:15 UTC
-# Script generation date:     2016-02-04 19:11:31 UTC
+# Script generation date:     2016-05-12 18:07:39 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -28,7 +29,7 @@
 #   - CVE-2011-4128
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:0428
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install gnutls.x86_64-1.4.1 -y 

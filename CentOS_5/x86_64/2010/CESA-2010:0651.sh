@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2010:0651
 #
 # Security announcement date: 2010-08-25 18:06:17 UTC
-# Script generation date:     2016-02-04 19:11:05 UTC
+# Script generation date:     2016-05-12 18:07:22 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -19,7 +20,7 @@
 #   - CVE-2010-2794
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2010:0651
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install spice-xpi.x86_64-2.2 -y 

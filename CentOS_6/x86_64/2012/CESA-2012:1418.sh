@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:1418
 #
 # Security announcement date: 2012-10-30 19:55:03 UTC
-# Script generation date:     2016-02-04 19:11:49 UTC
+# Script generation date:     2016-05-12 18:07:51 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -29,7 +30,7 @@
 #   - CVE-2012-4512
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:1418
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install kdelibs-apidocs.noarch-4.3.4 -y 

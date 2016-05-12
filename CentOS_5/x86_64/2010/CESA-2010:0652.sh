@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2010:0652
 #
 # Security announcement date: 2010-08-25 17:25:33 UTC
-# Script generation date:     2016-02-04 19:11:04 UTC
+# Script generation date:     2016-05-12 18:07:22 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -34,7 +35,7 @@
 #   - CVE-2009-1882
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2010:0652
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ImageMagick.x86_64-6.2.8.0 -y 

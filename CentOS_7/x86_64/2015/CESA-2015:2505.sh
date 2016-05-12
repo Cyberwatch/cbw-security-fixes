@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:2505
 #
 # Security announcement date: 2015-12-01 18:46:37 UTC
-# Script generation date:     2016-02-04 19:13:06 UTC
+# Script generation date:     2016-05-12 18:08:49 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -78,7 +79,7 @@
 #   - CVE-2015-5287
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:2505
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libreport.x86_64-2.1.11 -y 

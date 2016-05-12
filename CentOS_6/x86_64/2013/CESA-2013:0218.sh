@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2013:0218
 #
 # Security announcement date: 2013-02-01 00:53:46 UTC
-# Script generation date:     2016-02-04 19:11:53 UTC
+# Script generation date:     2016-05-12 18:07:54 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -18,7 +19,7 @@
 #   - CVE-2013-0241
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2013:0218
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install xorg-x11-drv-qxl.x86_64-0.0.14 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:1795
 #
 # Security announcement date: 2014-11-04 12:46:31 UTC
-# Script generation date:     2016-02-04 19:12:39 UTC
+# Script generation date:     2016-05-12 18:08:28 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -27,7 +28,7 @@
 #   - CVE-2014-4338
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:1795
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install cups-filters.x86_64-1.0.35 -y 

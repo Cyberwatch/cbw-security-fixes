@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:1141
 #
 # Security announcement date: 2012-08-03 04:31:47 UTC
-# Script generation date:     2016-02-04 19:11:44 UTC
+# Script generation date:     2016-05-12 18:07:48 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -27,7 +28,7 @@
 #   - CVE-2012-3954
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:1141
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install dhclient.x86_64-4.1.1 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:1699
 #
 # Security announcement date: 2015-09-01 15:35:07 UTC
-# Script generation date:     2016-02-04 19:13:01 UTC
+# Script generation date:     2016-05-12 18:08:45 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -32,7 +33,7 @@
 #   - CVE-2015-2730
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:1699
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install nss-softokn.x86_64-3.14.3 -y 

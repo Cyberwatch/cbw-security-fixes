@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2013:1441
 #
 # Security announcement date: 2013-10-18 12:42:23 UTC
-# Script generation date:     2016-02-04 19:12:11 UTC
+# Script generation date:     2016-05-12 18:08:08 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -20,7 +21,7 @@
 #   - CVE-2012-2126
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2013:1441
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install rubygems.noarch-1.3.7 -y 

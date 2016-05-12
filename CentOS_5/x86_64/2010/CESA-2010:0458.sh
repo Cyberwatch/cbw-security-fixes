@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2010:0458
 #
 # Security announcement date: 2010-06-12 12:59:15 UTC
-# Script generation date:     2016-02-04 19:11:01 UTC
+# Script generation date:     2016-05-12 18:07:19 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -25,7 +26,7 @@
 #   - CVE-2008-5303
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2010:0458
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install perl.x86_64-5.8.8 -y 

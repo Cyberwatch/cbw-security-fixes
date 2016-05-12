@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:0185
 #
 # Security announcement date: 2014-02-18 19:52:25 UTC
-# Script generation date:     2016-02-04 19:12:20 UTC
+# Script generation date:     2016-05-12 18:08:15 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -20,7 +21,7 @@
 #   - CVE-2013-6466
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:0185
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openswan.x86_64-2.6.32 -y 

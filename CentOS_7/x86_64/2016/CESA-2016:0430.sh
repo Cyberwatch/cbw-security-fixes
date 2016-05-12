@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2016:0430
 #
 # Security announcement date: 2016-03-10 17:35:16 UTC
-# Script generation date:     2016-03-12 19:12:00 UTC
+# Script generation date:     2016-05-12 18:08:58 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -26,7 +27,7 @@
 #   - CVE-2016-0729
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2016:0430
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install xerces-c.i686-3.1.1 -y 

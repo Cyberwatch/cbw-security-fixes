@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2016:0611
 #
 # Security announcement date: 2016-04-13 00:14:40 UTC
-# Script generation date:     2016-04-15 06:11:04 UTC
+# Script generation date:     2016-05-12 18:08:59 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -56,7 +57,7 @@
 #   - CVE-2016-2118
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2016:0611
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libsmbclient.i686-3.6.23 -y 

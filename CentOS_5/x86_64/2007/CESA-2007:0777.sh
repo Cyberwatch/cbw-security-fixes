@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2007:0777
 #
 # Security announcement date: 2007-08-09 16:40:27 UTC
-# Script generation date:     2016-02-04 19:09:58 UTC
+# Script generation date:     2016-05-12 18:06:54 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,7 +18,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2007:0777
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install gdm.x86_64-2.16.0 -y 

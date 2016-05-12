@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2016:0449
 #
 # Security announcement date: 2016-03-15 23:36:02 UTC
-# Script generation date:     2016-04-14 06:15:00 UTC
+# Script generation date:     2016-05-12 18:08:58 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -44,7 +45,7 @@
 #   - CVE-2015-7560
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2016:0449
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install samba4.x86_64-4.2.10 -y 

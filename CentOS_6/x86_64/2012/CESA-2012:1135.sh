@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:1135
 #
 # Security announcement date: 2012-08-02 05:10:15 UTC
-# Script generation date:     2016-02-04 19:11:43 UTC
+# Script generation date:     2016-05-12 18:07:47 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -264,7 +265,7 @@
 #   - CVE-2012-2665
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:1135
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install autocorr-af.noarch-4.2.8.2 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2010:0632
 #
 # Security announcement date: 2010-08-25 18:03:47 UTC
-# Script generation date:     2016-02-04 19:11:05 UTC
+# Script generation date:     2016-05-12 18:07:22 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -18,7 +19,7 @@
 #   - CVE-2010-2792
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2010:0632
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install qspice-client.x86_64-0.3.0 -y 

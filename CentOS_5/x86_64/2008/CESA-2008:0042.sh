@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2008:0042
 #
 # Security announcement date: 2008-03-19 00:04:07 UTC
-# Script generation date:     2016-02-04 19:10:20 UTC
+# Script generation date:     2016-05-12 18:07:00 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -39,7 +40,7 @@
 #   - CVE-2007-5461
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2008:0042
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install tomcat5.x86_64-5.5.23 -y 

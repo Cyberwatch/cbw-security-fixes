@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2009:1203
 #
 # Security announcement date: 2009-08-11 21:17:40 UTC
-# Script generation date:     2016-02-04 19:10:50 UTC
+# Script generation date:     2016-05-12 18:07:12 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -32,7 +33,7 @@
 #   - CVE-2009-2411
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2009:1203
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install mod_dav_svn.x86_64-1.6.11 -y 

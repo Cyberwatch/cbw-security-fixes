@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:1008
 #
 # Security announcement date: 2014-08-05 22:01:05 UTC
-# Script generation date:     2016-04-14 06:14:10 UTC
+# Script generation date:     2016-05-12 18:08:22 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -56,7 +57,7 @@
 #   - CVE-2014-3560
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:1008
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libsmbclient.x86_64-4.2.10 -y 

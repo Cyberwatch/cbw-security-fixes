@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:1827
 #
 # Security announcement date: 2014-11-12 09:44:41 UTC
-# Script generation date:     2016-02-04 19:12:39 UTC
+# Script generation date:     2016-05-12 18:08:28 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -60,7 +61,7 @@
 #   - CVE-2014-6055
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:1827
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install kdenetwork.x86_64-4.10.5 -y 

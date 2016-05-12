@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2007:0494
 #
 # Security announcement date: 2007-06-14 12:22:57 UTC
-# Script generation date:     2016-02-04 19:09:55 UTC
+# Script generation date:     2016-05-12 18:06:53 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -19,7 +20,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2007:0494
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install kdebase.x86_64-3.5.4 -y 

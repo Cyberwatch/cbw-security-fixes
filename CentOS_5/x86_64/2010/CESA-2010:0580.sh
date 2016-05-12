@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2010:0580
 #
 # Security announcement date: 2010-08-03 00:39:04 UTC
-# Script generation date:     2016-02-04 19:11:03 UTC
+# Script generation date:     2016-05-12 18:07:21 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -42,7 +43,7 @@
 #   - CVE-2009-2696
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2010:0580
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install tomcat5.x86_64-5.5.23 -y 

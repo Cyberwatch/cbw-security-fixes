@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:1803
 #
 # Security announcement date: 2014-11-05 12:06:15 UTC
-# Script generation date:     2016-02-04 19:12:39 UTC
+# Script generation date:     2016-05-12 18:08:28 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -19,7 +20,7 @@
 #   - CVE-2014-8567
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:1803
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install mod_auth_mellon.x86_64-0.8.0 -y 

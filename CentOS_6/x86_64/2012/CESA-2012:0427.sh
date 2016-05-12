@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:0427
 #
 # Security announcement date: 2012-03-28 01:12:20 UTC
-# Script generation date:     2016-02-04 19:11:32 UTC
+# Script generation date:     2016-05-12 18:07:39 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -26,7 +27,7 @@
 #   - CVE-2012-1569
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:0427
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libtasn1.x86_64-2.3 -y 

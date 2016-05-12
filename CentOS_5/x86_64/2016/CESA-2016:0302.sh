@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2016:0302
 #
 # Security announcement date: 2016-03-01 16:57:33 UTC
-# Script generation date:     2016-03-03 19:11:21 UTC
+# Script generation date:     2016-05-12 18:08:57 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -28,7 +29,7 @@
 #   - CVE-2016-0800
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2016:0302
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openssl.i686-0.9.8e -y 

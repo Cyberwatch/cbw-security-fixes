@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:0223
 #
 # Security announcement date: 2014-02-28 00:37:27 UTC
-# Script generation date:     2016-02-04 19:12:20 UTC
+# Script generation date:     2016-05-12 18:08:15 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -29,7 +30,7 @@
 #   - CVE-2013-1961
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:0223
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libtiff.x86_64-3.8.2 -y 

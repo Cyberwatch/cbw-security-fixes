@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:1694
 #
 # Security announcement date: 2015-09-01 23:35:47 UTC
-# Script generation date:     2016-02-04 19:13:01 UTC
+# Script generation date:     2016-05-12 18:08:45 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -24,7 +25,7 @@
 #   - CVE-2015-4491
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:1694
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install gdk-pixbuf2.x86_64-2.28.2 -y 

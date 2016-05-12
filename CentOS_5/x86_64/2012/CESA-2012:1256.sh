@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:1256
 #
 # Security announcement date: 2012-09-11 18:52:01 UTC
-# Script generation date:     2016-02-04 19:11:46 UTC
+# Script generation date:     2016-05-12 18:07:49 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -26,7 +27,7 @@
 #   - CVE-2012-4405
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:1256
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ghostscript.x86_64-8.70 -y 

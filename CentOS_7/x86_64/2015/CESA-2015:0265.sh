@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:0265
 #
 # Security announcement date: 2015-02-25 03:27:11 UTC
-# Script generation date:     2016-03-10 07:17:02 UTC
+# Script generation date:     2016-05-12 18:08:33 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -17,10 +18,10 @@
 #   - xulrunner-devel.i686:31.5.0-1.el7.centos
 #
 # Last versions recommanded by security team:
-#   - firefox.x86_64:38.7.0-1.el7.centos
+#   - firefox.x86_64:45.1.0-1.el7.centos
 #   - xulrunner.x86_64:31.6.0-2.el7.centos
 #   - xulrunner-devel.x86_64:31.6.0-2.el7.centos
-#   - firefox.i686:38.7.0-1.el7.centos
+#   - firefox.i686:45.1.0-1.el7.centos
 #   - xulrunner.i686:31.6.0-2.el7.centos
 #   - xulrunner-devel.i686:31.6.0-2.el7.centos
 #
@@ -31,12 +32,12 @@
 #   - CVE-2015-0836
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:0265
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.x86_64-38.7.0 -y 
+sudo yum install firefox.x86_64-45.1.0 -y 
 sudo yum install xulrunner.x86_64-31.6.0 -y 
 sudo yum install xulrunner-devel.x86_64-31.6.0 -y 
-sudo yum install firefox.i686-38.7.0 -y 
+sudo yum install firefox.i686-45.1.0 -y 
 sudo yum install xulrunner.i686-31.6.0 -y 
 sudo yum install xulrunner-devel.i686-31.6.0 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2016:0082
 #
 # Security announcement date: 2016-02-01 10:06:38 UTC
-# Script generation date:     2016-02-04 19:13:17 UTC
+# Script generation date:     2016-05-12 18:08:56 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -24,7 +25,7 @@
 #   - CVE-2016-1714
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2016:0082
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install qemu-guest-agent.x86_64-0.12.1.2 -y 

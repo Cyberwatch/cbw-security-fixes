@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:0899
 #
 # Security announcement date: 2012-07-10 17:25:58 UTC
-# Script generation date:     2016-02-04 19:11:40 UTC
+# Script generation date:     2016-05-12 18:07:45 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -30,7 +31,7 @@
 #   - CVE-2012-1164
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:0899
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openldap.x86_64-2.4.40 -y 

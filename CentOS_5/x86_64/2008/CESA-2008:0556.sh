@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2008:0556
 #
 # Security announcement date: 2008-06-26 00:57:59 UTC
-# Script generation date:     2016-02-04 19:10:31 UTC
+# Script generation date:     2016-05-12 18:07:02 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -28,7 +29,7 @@
 #   - CVE-2008-1808
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2008:0556
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install freetype.x86_64-2.2.1 -y 

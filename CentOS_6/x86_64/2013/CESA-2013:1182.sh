@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2013:1182
 #
 # Security announcement date: 2013-08-28 19:04:09 UTC
-# Script generation date:     2016-02-04 19:12:10 UTC
+# Script generation date:     2016-05-12 18:08:07 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -26,7 +27,7 @@
 #   - CVE-2013-4283
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2013:1182
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install 389-ds-base.x86_64-1.2.11.15 -y 

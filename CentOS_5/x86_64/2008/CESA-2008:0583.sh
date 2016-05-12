@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2008:0583
 #
 # Security announcement date: 2008-07-10 07:55:21 UTC
-# Script generation date:     2016-02-04 19:10:35 UTC
+# Script generation date:     2016-05-12 18:07:03 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -34,7 +35,7 @@
 #   - CVE-2008-2952
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2008:0583
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install compat-openldap.x86_64-2.3.43_2.2.29 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:1288
 #
 # Security announcement date: 2012-09-20 15:54:36 UTC
-# Script generation date:     2016-02-04 19:11:47 UTC
+# Script generation date:     2016-05-12 18:07:50 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -29,7 +30,7 @@
 #   - CVE-2012-2807
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:1288
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libxml2.x86_64-2.7.6 -y 

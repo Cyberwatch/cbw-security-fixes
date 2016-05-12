@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2011:0370
 #
 # Security announcement date: 2011-04-14 23:48:30 UTC
-# Script generation date:     2016-02-04 19:11:13 UTC
+# Script generation date:     2016-05-12 18:07:27 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -26,7 +27,7 @@
 #   - CVE-2011-1139
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2011:0370
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install wireshark.x86_64-1.0.15 -y 

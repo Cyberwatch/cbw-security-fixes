@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2011:0196
 #
 # Security announcement date: 2011-04-14 23:48:18 UTC
-# Script generation date:     2016-02-04 19:11:12 UTC
+# Script generation date:     2016-05-12 18:07:27 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -60,7 +61,7 @@
 #   - CVE-2010-4156
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2011:0196
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install php53.x86_64-5.3.3 -y 

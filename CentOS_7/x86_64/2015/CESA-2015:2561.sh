@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:2561
 #
 # Security announcement date: 2015-12-09 19:18:57 UTC
-# Script generation date:     2016-03-24 07:13:31 UTC
+# Script generation date:     2016-05-12 18:08:50 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -47,7 +48,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:2561
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install emacs-git.noarch-1.8.3.1 -y 

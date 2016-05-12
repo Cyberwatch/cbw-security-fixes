@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:1482
 #
 # Security announcement date: 2015-07-26 14:24:03 UTC
-# Script generation date:     2016-02-04 19:12:59 UTC
+# Script generation date:     2016-05-12 18:08:43 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -27,7 +28,7 @@
 #   - CVE-2015-3246
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:1482
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libuser.x86_64-0.56.13 -y 

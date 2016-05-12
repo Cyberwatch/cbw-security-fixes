@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2008:0214
 #
 # Security announcement date: 2008-04-18 16:57:39 UTC
-# Script generation date:     2016-02-04 19:10:22 UTC
+# Script generation date:     2016-05-12 18:07:01 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -19,7 +20,7 @@
 #   - CVE-2008-1612
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2008:0214
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install squid.x86_64-2.6.STABLE21 -y 

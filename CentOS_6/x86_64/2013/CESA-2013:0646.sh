@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2013:0646
 #
 # Security announcement date: 2013-03-14 19:53:47 UTC
-# Script generation date:     2016-02-04 19:12:01 UTC
+# Script generation date:     2016-05-12 18:08:02 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -48,7 +49,7 @@
 #   - CVE-2013-0274
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2013:0646
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install finch.x86_64-2.7.9 -y 

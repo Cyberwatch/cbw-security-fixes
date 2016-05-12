@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:0165
 #
 # Security announcement date: 2015-02-10 22:32:42 UTC
-# Script generation date:     2016-02-04 19:12:45 UTC
+# Script generation date:     2016-05-12 18:08:32 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -49,7 +50,7 @@
 #   - CVE-2014-3580
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:0165
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install subversion-svn2cl.noarch-1.6.11 -y 

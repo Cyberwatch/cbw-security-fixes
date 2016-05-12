@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2012:1090
 #
 # Security announcement date: 2012-07-17 20:32:05 UTC
-# Script generation date:     2016-04-26 06:13:21 UTC
+# Script generation date:     2016-05-12 18:07:46 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -38,7 +39,7 @@
 #   - CVE-2012-0441
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2012:1090
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install nspr.x86_64-4.11.0 -y 

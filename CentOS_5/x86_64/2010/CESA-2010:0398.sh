@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2010:0398
 #
 # Security announcement date: 2010-05-28 10:47:06 UTC
-# Script generation date:     2016-03-17 07:08:51 UTC
+# Script generation date:     2016-05-12 18:07:19 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -36,7 +37,7 @@
 #   - CVE-2010-0730
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2010:0398
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install kernel.x86_64-2.6.18 -y 

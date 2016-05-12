@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2009:1148
 #
 # Security announcement date: 2009-07-14 12:16:38 UTC
-# Script generation date:     2016-02-04 19:10:48 UTC
+# Script generation date:     2016-05-12 18:07:12 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -27,7 +28,7 @@
 #   - CVE-2009-1891
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2009:1148
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install httpd.x86_64-2.2.3 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2013:0942
 #
 # Security announcement date: 2013-06-13 10:10:55 UTC
-# Script generation date:     2016-03-24 07:12:33 UTC
+# Script generation date:     2016-05-12 18:08:05 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -34,7 +35,7 @@
 #   - CVE-2002-2443
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2013:0942
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install krb5-devel.x86_64-1.10.3 -y 

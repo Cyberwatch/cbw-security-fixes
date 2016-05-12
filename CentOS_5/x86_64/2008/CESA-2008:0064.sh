@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2008:0064
 #
 # Security announcement date: 2008-01-18 23:25:11 UTC
-# Script generation date:     2016-02-04 19:10:11 UTC
+# Script generation date:     2016-05-12 18:06:58 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -24,7 +25,7 @@
 #   - CVE-2008-0006
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2008:0064
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libXfont.x86_64-1.2.2 -y 

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2008:0893
 #
 # Security announcement date: 2008-09-16 23:56:55 UTC
-# Script generation date:     2016-02-04 19:10:37 UTC
+# Script generation date:     2016-05-12 18:07:05 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -32,7 +33,7 @@
 #   - CVE-2008-1372
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2008:0893
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install bzip2.x86_64-1.0.3 -y 

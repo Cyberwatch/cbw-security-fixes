@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2011:1212
 #
 # Security announcement date: 2011-09-08 23:40:55 UTC
-# Script generation date:     2016-03-17 07:09:10 UTC
+# Script generation date:     2016-05-12 18:07:32 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -37,7 +38,7 @@
 #   - CVE-2011-2901
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2011:1212
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install kernel.x86_64-2.6.18 -y 

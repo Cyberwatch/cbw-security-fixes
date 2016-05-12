@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2009:1130
 #
 # Security announcement date: 2009-06-26 14:06:51 UTC
-# Script generation date:     2016-02-04 19:10:48 UTC
+# Script generation date:     2016-05-12 18:07:11 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -23,7 +24,7 @@
 #   - CVE-2009-1709
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2009:1130
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install kdegraphics.x86_64-3.5.4 -y 

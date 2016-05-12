@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2016:0491
 #
 # Security announcement date: 2016-03-23 13:11:25 UTC
-# Script generation date:     2016-03-25 19:10:24 UTC
+# Script generation date:     2016-05-12 18:08:59 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -20,7 +21,7 @@
 #   - CVE-2010-5325
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2016:0491
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install foomatic.x86_64-4.0.4 -y 

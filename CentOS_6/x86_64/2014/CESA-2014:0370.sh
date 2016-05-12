@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:0370
 #
 # Security announcement date: 2014-04-04 00:04:54 UTC
-# Script generation date:     2016-02-04 19:12:22 UTC
+# Script generation date:     2016-05-12 18:08:16 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -29,7 +30,7 @@
 #   - CVE-2014-0098
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:0370
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install httpd-manual.noarch-2.2.15 -y 

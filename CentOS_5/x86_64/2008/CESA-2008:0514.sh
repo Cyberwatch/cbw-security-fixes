@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2008:0514
 #
 # Security announcement date: 2008-06-26 01:09:00 UTC
-# Script generation date:     2016-02-04 19:10:31 UTC
+# Script generation date:     2016-05-12 18:07:02 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -27,7 +28,7 @@
 #   - CVE-2008-1109
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2008:0514
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install evolution.x86_64-2.12.3 -y 

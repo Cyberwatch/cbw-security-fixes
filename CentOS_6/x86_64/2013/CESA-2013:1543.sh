@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2013:1543
 #
 # Security announcement date: 2013-11-26 13:32:52 UTC
-# Script generation date:     2016-04-14 06:13:54 UTC
+# Script generation date:     2016-05-12 18:08:11 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -44,7 +45,7 @@
 #   - CVE-2013-4124
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2013:1543
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install samba4.x86_64-4.2.10 -y 

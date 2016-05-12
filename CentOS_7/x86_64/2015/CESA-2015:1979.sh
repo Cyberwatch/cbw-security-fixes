@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:1979
 #
 # Security announcement date: 2015-11-03 21:50:51 UTC
-# Script generation date:     2016-02-04 19:13:04 UTC
+# Script generation date:     2016-05-12 18:08:48 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -18,7 +19,7 @@
 #   - CVE-2015-3240
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:1979
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libreswan.x86_64-3.15 -y 

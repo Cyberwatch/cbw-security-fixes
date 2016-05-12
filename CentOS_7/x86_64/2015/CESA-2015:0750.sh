@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2015:0750
 #
 # Security announcement date: 2015-04-01 03:29:40 UTC
-# Script generation date:     2016-03-03 07:13:34 UTC
+# Script generation date:     2016-05-12 18:08:37 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -47,7 +48,7 @@
 #   - CVE-2015-0244
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2015:0750
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install postgresql.x86_64-9.2.15 -y 

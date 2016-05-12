@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2016:0613
 #
 # Security announcement date: 2016-04-13 00:27:00 UTC
-# Script generation date:     2016-04-15 06:11:04 UTC
+# Script generation date:     2016-05-12 18:09:00 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -41,7 +42,7 @@
 #   - CVE-2016-2110
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2016:0613
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install samba3x.x86_64-3.6.23 -y 

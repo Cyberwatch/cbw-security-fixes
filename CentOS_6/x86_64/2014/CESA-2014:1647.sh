@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for CESA-2014:1647
 #
 # Security announcement date: 2014-10-20 18:15:16 UTC
-# Script generation date:     2016-03-17 07:11:00 UTC
+# Script generation date:     2016-05-12 18:08:28 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -21,7 +22,7 @@
 #   - CVE-2014-1581
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/CESA-2014:1647
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install thunderbird.x86_64-38.7.0 -y 
