@@ -4,7 +4,7 @@
 # Security fix for DSA-3363-1
 #
 # Security announcement date: 2015-09-20 00:00:00 UTC
-# Script generation date:     2016-03-21 19:07:15 UTC
+# Script generation date:     2016-05-12 18:05:43 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -29,7 +29,7 @@
 #   - CVE-2015-4456
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3363-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade owncloud-client=1.7.0~beta1+really1.6.4+dfsg-1+deb8u1 -y

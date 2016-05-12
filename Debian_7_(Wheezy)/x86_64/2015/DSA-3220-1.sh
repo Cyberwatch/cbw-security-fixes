@@ -4,7 +4,7 @@
 # Security fix for DSA-3220-1
 #
 # Security announcement date: 2015-04-11 00:00:00 UTC
-# Script generation date:     2016-03-21 19:06:51 UTC
+# Script generation date:     2016-05-12 18:05:22 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -25,7 +25,7 @@
 #   - CVE-2015-2806
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3220-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libtasn1-3=2.13-2+deb7u2 -y

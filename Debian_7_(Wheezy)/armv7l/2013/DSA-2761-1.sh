@@ -4,7 +4,7 @@
 # Security fix for DSA-2761-1
 #
 # Security announcement date: 2013-09-19 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:15 UTC
+# Script generation date:     2016-05-12 18:04:40 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -20,7 +20,7 @@
 #   - CVE-2013-4956
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2761-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade puppet=2.7.23-1~deb7u3 -y

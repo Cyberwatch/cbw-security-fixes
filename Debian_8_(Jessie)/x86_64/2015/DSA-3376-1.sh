@@ -4,7 +4,7 @@
 # Security fix for DSA-3376-1
 #
 # Security announcement date: 2015-10-20 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:03 UTC
+# Script generation date:     2016-05-12 18:05:44 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -29,7 +29,7 @@
 #   - CVE-2015-6763
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3376-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade chromium-browser=46.0.2490.71-1~deb8u1 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3549-1
 #
 # Security announcement date: 2016-04-15 00:00:00 UTC
-# Script generation date:     2016-04-17 06:07:10 UTC
+# Script generation date:     2016-05-12 18:06:09 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -26,7 +26,7 @@
 #   - CVE-2016-1659
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3549-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade chromium-browser=50.0.2661.75-1~deb8u1 -y

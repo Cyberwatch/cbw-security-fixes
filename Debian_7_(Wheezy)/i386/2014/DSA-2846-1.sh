@@ -4,7 +4,7 @@
 # Security fix for DSA-2846-1
 #
 # Security announcement date: 2014-01-17 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:23 UTC
+# Script generation date:     2016-05-12 18:04:48 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -20,7 +20,7 @@
 #   - CVE-2014-1447
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2846-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libvirt=0.9.12.3-1 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3524-1
 #
 # Security announcement date: 2016-03-20 00:00:00 UTC
-# Script generation date:     2016-03-22 07:10:18 UTC
+# Script generation date:     2016-05-12 18:06:07 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -23,7 +23,7 @@
 #   - CVE-2015-5254
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3524-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade activemq=5.6.0+dfsg-1+deb7u2 -y

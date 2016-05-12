@@ -4,7 +4,7 @@
 # Security fix for DSA-3013-1
 #
 # Security announcement date: 2014-08-27 00:00:00 UTC
-# Script generation date:     2016-03-21 19:06:29 UTC
+# Script generation date:     2016-05-12 18:05:02 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -21,7 +21,7 @@
 #   - CVE-2014-0485
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3013-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade s3ql=1.11.1-3+deb7u1 -y

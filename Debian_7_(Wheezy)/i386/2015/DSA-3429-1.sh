@@ -4,7 +4,7 @@
 # Security fix for DSA-3429-1
 #
 # Security announcement date: 2015-12-21 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:08 UTC
+# Script generation date:     2016-05-12 18:05:52 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -20,7 +20,7 @@
 #   - CVE-2015-8560
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3429-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade foomatic-filters=4.0.17-1+deb7u1 -y

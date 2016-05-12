@@ -4,7 +4,7 @@
 # Security fix for DSA-3435-1
 #
 # Security announcement date: 2016-01-05 00:00:00 UTC
-# Script generation date:     2016-01-07 07:03:50 UTC
+# Script generation date:     2016-05-12 18:05:53 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -19,7 +19,7 @@
 #   - CVE-2015-7545
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3435-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade git=1:1.7.10.4-1+wheezy2 -y

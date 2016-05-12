@@ -4,7 +4,7 @@
 # Security fix for DSA-3327-1
 #
 # Security announcement date: 2015-08-03 00:00:00 UTC
-# Script generation date:     2016-03-21 19:07:08 UTC
+# Script generation date:     2016-05-12 18:05:37 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -27,7 +27,7 @@
 #   - CVE-2015-5400
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3327-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade squid3=3.1.20-2.2+deb7u4 -y

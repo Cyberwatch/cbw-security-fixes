@@ -4,7 +4,7 @@
 # Security fix for DSA-3299-1
 #
 # Security announcement date: 2015-07-02 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:56 UTC
+# Script generation date:     2016-05-12 18:05:33 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -19,7 +19,7 @@
 #   - CVE-2015-3644
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3299-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade stunnel4=3:5.06-2+deb8u1 -y

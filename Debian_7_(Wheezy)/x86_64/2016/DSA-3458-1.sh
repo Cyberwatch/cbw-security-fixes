@@ -4,7 +4,7 @@
 # Security fix for DSA-3458-1
 #
 # Security announcement date: 2016-01-27 00:00:00 UTC
-# Script generation date:     2016-01-29 07:07:28 UTC
+# Script generation date:     2016-05-12 18:05:56 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -24,7 +24,7 @@
 #   - CVE-2016-0494
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3458-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade openjdk-7=7u95-2.6.4-1~deb7u1 -y

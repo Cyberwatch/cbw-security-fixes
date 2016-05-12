@@ -4,7 +4,7 @@
 # Security fix for DSA-2816-1
 #
 # Security announcement date: 2013-12-12 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:20 UTC
+# Script generation date:     2016-05-12 18:04:45 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -20,7 +20,7 @@
 #   - CVE-2013-6712
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2816-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u2 -y

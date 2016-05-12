@@ -4,7 +4,7 @@
 # Security fix for DSA-3151-1
 #
 # Security announcement date: 2015-02-03 00:00:00 UTC
-# Script generation date:     2016-04-07 18:05:55 UTC
+# Script generation date:     2016-05-12 18:05:14 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -23,7 +23,7 @@
 #   - CVE-2015-0221
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3151-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade python-django=1.4.5-1+deb7u16 -y

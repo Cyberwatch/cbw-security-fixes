@@ -4,7 +4,7 @@
 # Security fix for DSA-2854-1
 #
 # Security announcement date: 2014-02-05 00:00:00 UTC
-# Script generation date:     2016-03-21 19:06:15 UTC
+# Script generation date:     2016-05-12 18:04:49 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -24,7 +24,7 @@
 #   - CVE-2014-0045
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2854-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade mumble=1.2.3-349-g315b5f5-2.2+deb7u1 -y

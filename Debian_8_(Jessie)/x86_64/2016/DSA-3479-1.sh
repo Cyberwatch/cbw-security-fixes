@@ -4,7 +4,7 @@
 # Security fix for DSA-3479-1
 #
 # Security announcement date: 2016-02-15 00:00:00 UTC
-# Script generation date:     2016-02-28 19:08:48 UTC
+# Script generation date:     2016-05-12 18:05:59 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -22,7 +22,7 @@
 #   - CVE-2016-1526
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3479-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade graphite2=1.3.5-1~deb8u1 -y

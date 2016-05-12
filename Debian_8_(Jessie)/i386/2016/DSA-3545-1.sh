@@ -4,7 +4,7 @@
 # Security fix for DSA-3545-1
 #
 # Security announcement date: 2016-04-07 00:00:00 UTC
-# Script generation date:     2016-04-09 06:06:51 UTC
+# Script generation date:     2016-05-12 18:06:08 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -21,7 +21,7 @@
 #   - CVE-2016-1901
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3545-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade cgit=0.10.2.git2.0.1-3+deb8u1 -y

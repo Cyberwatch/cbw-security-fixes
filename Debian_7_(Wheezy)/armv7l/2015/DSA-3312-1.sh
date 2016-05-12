@@ -4,7 +4,7 @@
 # Security fix for DSA-3312-1
 #
 # Security announcement date: 2015-07-22 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:58 UTC
+# Script generation date:     2016-05-12 18:05:35 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -19,7 +19,7 @@
 #   - CVE-2015-4634
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3312-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade cacti=0.8.8a+dfsg-5+deb7u6 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3453-1
 #
 # Security announcement date: 2016-01-25 00:00:00 UTC
-# Script generation date:     2016-01-27 07:04:19 UTC
+# Script generation date:     2016-05-12 18:05:56 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -29,7 +29,7 @@
 #   - CVE-2016-2047
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3453-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade mariadb-10.0=10.0.23-0+deb8u1 -y

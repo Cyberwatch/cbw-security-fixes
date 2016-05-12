@@ -4,7 +4,7 @@
 # Security fix for DSA-3343-1
 #
 # Security announcement date: 2015-08-26 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:00 UTC
+# Script generation date:     2016-05-12 18:05:39 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -19,7 +19,7 @@
 #   - CVE-2015-7809
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3343-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade twig=1.16.2-1+deb8u1 -y

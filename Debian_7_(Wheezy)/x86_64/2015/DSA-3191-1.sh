@@ -4,7 +4,7 @@
 # Security fix for DSA-3191-1
 #
 # Security announcement date: 2015-03-15 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:48 UTC
+# Script generation date:     2016-05-12 18:05:18 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -20,7 +20,7 @@
 #   - CVE-2015-0294
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3191-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade gnutls26=2.12.20-8+deb7u3 -y

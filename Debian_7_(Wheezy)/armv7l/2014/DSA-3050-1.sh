@@ -4,7 +4,7 @@
 # Security fix for DSA-3050-1
 #
 # Security announcement date: 2014-10-18 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:38 UTC
+# Script generation date:     2016-05-12 18:05:05 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -26,7 +26,7 @@
 #   - CVE-2014-1586
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3050-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade iceweasel=38.3.0esr-1~deb7u1 -y

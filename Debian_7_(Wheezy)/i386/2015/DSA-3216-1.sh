@@ -4,7 +4,7 @@
 # Security fix for DSA-3216-1
 #
 # Security announcement date: 2015-04-06 00:00:00 UTC
-# Script generation date:     2016-03-21 19:06:50 UTC
+# Script generation date:     2016-05-12 18:05:21 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -24,7 +24,7 @@
 #   - CVE-2015-2929
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3216-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade tor=0.2.4.27-1 -y

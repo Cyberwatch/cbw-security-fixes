@@ -4,7 +4,7 @@
 # Security fix for DSA-3459-1
 #
 # Security announcement date: 2016-01-28 00:00:00 UTC
-# Script generation date:     2016-01-30 07:04:01 UTC
+# Script generation date:     2016-05-12 18:05:56 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -28,7 +28,7 @@
 #   - CVE-2016-0616
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3459-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade mysql-5.5=5.5.47-0+deb7u1 -y

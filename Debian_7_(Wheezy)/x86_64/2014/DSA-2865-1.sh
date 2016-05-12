@@ -4,7 +4,7 @@
 # Security fix for DSA-2865-1
 #
 # Security announcement date: 2014-02-20 00:00:00 UTC
-# Script generation date:     2016-03-21 19:06:16 UTC
+# Script generation date:     2016-05-12 18:04:49 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -57,7 +57,7 @@
 #   - CVE-2014-2669
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2865-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade postgresql-9.1=9.1.20-0+deb7u1+b1 -y

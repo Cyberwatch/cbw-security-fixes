@@ -4,7 +4,7 @@
 # Security fix for DSA-2996-1
 #
 # Security announcement date: 2014-08-03 00:00:00 UTC
-# Script generation date:     2016-03-19 07:03:34 UTC
+# Script generation date:     2016-05-12 18:05:00 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -23,7 +23,7 @@
 #   - CVE-2014-1557
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2996-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade icedove=38.7.0-1~deb7u1 -y

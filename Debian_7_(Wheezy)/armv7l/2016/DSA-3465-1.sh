@@ -4,7 +4,7 @@
 # Security fix for DSA-3465-1
 #
 # Security announcement date: 2016-02-02 00:00:00 UTC
-# Script generation date:     2016-02-04 07:04:07 UTC
+# Script generation date:     2016-05-12 18:05:57 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -40,7 +40,7 @@
 #   - CVE-2015-4911
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3465-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade openjdk-6=6b38-1.13.10-1~deb7u1 -y

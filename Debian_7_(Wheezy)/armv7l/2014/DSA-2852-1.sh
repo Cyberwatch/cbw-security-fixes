@@ -4,7 +4,7 @@
 # Security fix for DSA-2852-1
 #
 # Security announcement date: 2014-02-03 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:24 UTC
+# Script generation date:     2016-05-12 18:04:49 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -19,7 +19,7 @@
 #   - CVE-2013-6487
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2852-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libgadu=1:1.11.2-1+deb7u1 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3061-1
 #
 # Security announcement date: 2014-10-31 00:00:00 UTC
-# Script generation date:     2016-03-19 07:03:38 UTC
+# Script generation date:     2016-05-12 18:05:06 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -25,7 +25,7 @@
 #   - CVE-2014-1586
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3061-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade icedove=38.7.0-1~deb7u1 -y

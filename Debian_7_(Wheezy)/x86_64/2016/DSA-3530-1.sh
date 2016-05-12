@@ -4,7 +4,7 @@
 # Security fix for DSA-3530-1
 #
 # Security announcement date: 2016-03-25 00:00:00 UTC
-# Script generation date:     2016-03-27 06:06:22 UTC
+# Script generation date:     2016-05-12 18:06:07 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -56,7 +56,7 @@
 #   - CVE-2016-0763
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3530-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade tomcat6=6.0.45+dfsg-1~deb7u1 -y

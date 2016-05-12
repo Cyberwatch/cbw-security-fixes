@@ -4,7 +4,7 @@
 # Security fix for DSA-2762-1
 #
 # Security announcement date: 2013-09-23 00:00:00 UTC
-# Script generation date:     2016-03-19 07:03:18 UTC
+# Script generation date:     2016-05-12 18:04:40 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -26,7 +26,7 @@
 #   - CVE-2013-1737
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2762-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade icedove=38.7.0-1~deb7u1 -y

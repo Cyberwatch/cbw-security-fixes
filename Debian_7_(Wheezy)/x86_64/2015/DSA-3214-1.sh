@@ -4,7 +4,7 @@
 # Security fix for DSA-3214-1
 #
 # Security announcement date: 2015-04-06 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:49 UTC
+# Script generation date:     2016-05-12 18:05:21 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -19,7 +19,7 @@
 #   - CVE-2015-2775
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3214-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade mailman=1:2.1.15-1+deb7u1 -y

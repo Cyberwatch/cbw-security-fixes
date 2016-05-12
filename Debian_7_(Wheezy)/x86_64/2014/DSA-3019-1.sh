@@ -4,7 +4,7 @@
 # Security fix for DSA-3019-1
 #
 # Security announcement date: 2014-09-04 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:36 UTC
+# Script generation date:     2016-05-12 18:05:02 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -19,7 +19,7 @@
 #   - CVE-2014-3618
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3019-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade procmail=3.22-20+deb7u1 -y

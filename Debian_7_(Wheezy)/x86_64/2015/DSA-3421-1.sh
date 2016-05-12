@@ -4,7 +4,7 @@
 # Security fix for DSA-3421-1
 #
 # Security announcement date: 2015-12-16 00:00:00 UTC
-# Script generation date:     2016-03-21 19:07:23 UTC
+# Script generation date:     2016-05-12 18:05:50 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -53,7 +53,7 @@
 #   - CVE-2015-8370
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3421-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade grub2=1.99-27+deb7u3 -y

@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DSA-2189-1
 #
 # Security announcement date: 2011-03-10 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:43 UTC
+# Script generation date:     2016-05-12 18:04:11 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -30,7 +29,6 @@
 #   - CVE-2011-1203
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2189-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade chromium-browser=6.0.472.63~r59945-5+squeeze6 -y

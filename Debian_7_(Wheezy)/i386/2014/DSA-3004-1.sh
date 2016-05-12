@@ -4,7 +4,7 @@
 # Security fix for DSA-3004-1
 #
 # Security announcement date: 2014-08-11 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:35 UTC
+# Script generation date:     2016-05-12 18:05:01 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -19,7 +19,7 @@
 #   - CVE-2014-5033
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3004-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade kde4libs=4:4.8.4-4+deb7u1 -y

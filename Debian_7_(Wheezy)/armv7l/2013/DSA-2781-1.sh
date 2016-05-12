@@ -4,7 +4,7 @@
 # Security fix for DSA-2781-1
 #
 # Security announcement date: 2013-10-15 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:17 UTC
+# Script generation date:     2016-05-12 18:04:42 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -19,7 +19,7 @@
 #   - CVE-2013-1445
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2781-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade python-crypto=2.6-4+deb7u3 -y

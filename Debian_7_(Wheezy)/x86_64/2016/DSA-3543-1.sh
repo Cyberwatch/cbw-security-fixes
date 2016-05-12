@@ -4,7 +4,7 @@
 # Security fix for DSA-3543-1
 #
 # Security announcement date: 2016-04-05 00:00:00 UTC
-# Script generation date:     2016-04-07 06:07:02 UTC
+# Script generation date:     2016-05-12 18:06:08 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -19,7 +19,7 @@
 #   - CVE-2016-1235
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3543-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade oar=2.5.2-3+deb7u1 -y

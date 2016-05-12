@@ -4,7 +4,7 @@
 # Security fix for DSA-3373-1
 #
 # Security announcement date: 2015-10-18 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:03 UTC
+# Script generation date:     2016-05-12 18:05:44 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -26,7 +26,7 @@
 #   - CVE-2015-7699
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3373-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade owncloud=7.0.4+dfsg-4~deb8u3 -y

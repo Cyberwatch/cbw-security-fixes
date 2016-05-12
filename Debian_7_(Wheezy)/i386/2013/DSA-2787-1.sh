@@ -4,7 +4,7 @@
 # Security fix for DSA-2787-1
 #
 # Security announcement date: 2013-10-27 00:00:00 UTC
-# Script generation date:     2016-04-05 18:08:36 UTC
+# Script generation date:     2016-05-12 18:04:42 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -27,7 +27,7 @@
 #   - CVE-2013-6172
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2787-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade roundcube=0.7.2-9+deb7u2 -y

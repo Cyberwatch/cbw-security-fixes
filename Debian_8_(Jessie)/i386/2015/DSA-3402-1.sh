@@ -4,7 +4,7 @@
 # Security fix for DSA-3402-1
 #
 # Security announcement date: 2015-11-24 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:05 UTC
+# Script generation date:     2016-05-12 18:05:48 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -20,7 +20,7 @@
 #   - CVE-2015-8125
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3402-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade symfony=2.3.21+dfsg-4+deb8u2 -y

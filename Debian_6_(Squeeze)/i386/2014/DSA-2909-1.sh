@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DSA-2909-1
 #
 # Security announcement date: 2014-04-18 00:00:00 UTC
-# Script generation date:     2016-01-21 07:07:11 UTC
+# Script generation date:     2016-05-12 18:04:54 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -19,7 +18,6 @@
 #   - CVE-2014-0150
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2909-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu=0.12.5+dfsg-3squeeze5 -y

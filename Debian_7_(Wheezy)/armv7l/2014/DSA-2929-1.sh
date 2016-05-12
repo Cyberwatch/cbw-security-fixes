@@ -4,7 +4,7 @@
 # Security fix for DSA-2929-1
 #
 # Security announcement date: 2014-05-16 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:30 UTC
+# Script generation date:     2016-05-12 18:04:55 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -21,7 +21,7 @@
 #   - CVE-2014-0130
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2929-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade ruby-actionpack-3.2=3.2.6-6+deb7u2 -y

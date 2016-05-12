@@ -4,7 +4,7 @@
 # Security fix for DSA-2658-1
 #
 # Security announcement date: 2013-04-04 00:00:00 UTC
-# Script generation date:     2016-02-13 19:03:25 UTC
+# Script generation date:     2016-05-12 18:04:31 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -21,7 +21,7 @@
 #   - CVE-2013-1901
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2658-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade postgresql-9.1=9.1.20-0+deb7u1+b1 -y

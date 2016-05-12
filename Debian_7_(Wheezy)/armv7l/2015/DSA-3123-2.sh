@@ -4,7 +4,7 @@
 # Security fix for DSA-3123-2
 #
 # Security announcement date: 2015-01-13 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:44 UTC
+# Script generation date:     2016-05-12 18:05:12 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -26,7 +26,7 @@
 #   - CVE-2014-8738
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3123-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade binutils-mingw-w64=2.22-8+deb7u2+2+deb7u1 -y

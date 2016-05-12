@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DSA-2814-1
 #
 # Security announcement date: 2013-12-09 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:20 UTC
+# Script generation date:     2016-05-12 18:04:45 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -19,7 +18,6 @@
 #   - CVE-2013-4484
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2814-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade varnish=2.1.3-8+deb6u1 -y

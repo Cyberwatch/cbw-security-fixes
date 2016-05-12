@@ -4,7 +4,7 @@
 # Security fix for DSA-2803-1
 #
 # Security announcement date: 2013-11-26 00:00:00 UTC
-# Script generation date:     2016-03-21 19:06:10 UTC
+# Script generation date:     2016-05-12 18:04:44 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -24,7 +24,7 @@
 #   - CVE-2013-6051
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2803-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade quagga=0.99.22.4-1+wheezy1 -y

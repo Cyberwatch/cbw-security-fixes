@@ -4,7 +4,7 @@
 # Security fix for DSA-2785-1
 #
 # Security announcement date: 2013-10-26 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:17 UTC
+# Script generation date:     2016-05-12 18:04:42 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -40,7 +40,7 @@
 #   - CVE-2013-2928
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2785-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade chromium-browser=37.0.2062.120-1~deb7u1 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3438-1
 #
 # Security announcement date: 2016-01-10 00:00:00 UTC
-# Script generation date:     2016-01-14 07:07:05 UTC
+# Script generation date:     2016-05-12 18:05:54 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -19,7 +19,7 @@
 #   - CVE-2015-8025
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3438-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade xscreensaver=5.15-3+deb7u1 -y

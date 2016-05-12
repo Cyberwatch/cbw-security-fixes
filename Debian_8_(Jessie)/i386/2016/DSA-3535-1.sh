@@ -4,7 +4,7 @@
 # Security fix for DSA-3535-1
 #
 # Security announcement date: 2016-03-29 00:00:00 UTC
-# Script generation date:     2016-03-31 06:06:50 UTC
+# Script generation date:     2016-05-12 18:06:08 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -85,7 +85,7 @@
 #   - CVE-2016-2385
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3535-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade kamailio=4.2.0-2+deb8u1 -y

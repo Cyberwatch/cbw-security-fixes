@@ -4,7 +4,7 @@
 # Security fix for DSA-3030-1
 #
 # Security announcement date: 2014-09-20 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:37 UTC
+# Script generation date:     2016-05-12 18:05:03 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -20,7 +20,7 @@
 #   - CVE-2014-1609
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3030-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade mantis=1.2.18-1 -y

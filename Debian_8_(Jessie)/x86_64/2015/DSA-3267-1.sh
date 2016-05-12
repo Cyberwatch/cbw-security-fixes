@@ -4,7 +4,7 @@
 # Security fix for DSA-3267-1
 #
 # Security announcement date: 2015-05-22 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:53 UTC
+# Script generation date:     2016-05-12 18:05:27 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -34,7 +34,7 @@
 #   - CVE-2015-3910
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3267-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade chromium-browser=43.0.2357.65-1~deb8u1 -y

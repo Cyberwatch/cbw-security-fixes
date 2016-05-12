@@ -4,7 +4,7 @@
 # Security fix for DSA-3047-1
 #
 # Security announcement date: 2014-10-08 00:00:00 UTC
-# Script generation date:     2016-03-21 19:06:32 UTC
+# Script generation date:     2016-05-12 18:05:04 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -31,7 +31,7 @@
 #   - CVE-2014-3683
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3047-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade rsyslog=5.8.11-3+deb7u2 -y

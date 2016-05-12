@@ -4,7 +4,7 @@
 # Security fix for DSA-3166-1
 #
 # Security announcement date: 2015-02-22 00:00:00 UTC
-# Script generation date:     2016-03-21 19:06:45 UTC
+# Script generation date:     2016-05-12 18:05:16 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -38,7 +38,7 @@
 #   - CVE-2015-1572
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3166-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade e2fsprogs=1.42.5-1.1+deb7u1 -y

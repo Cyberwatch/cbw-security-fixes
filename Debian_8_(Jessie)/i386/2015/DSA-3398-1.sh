@@ -4,7 +4,7 @@
 # Security fix for DSA-3398-1
 #
 # Security announcement date: 2015-11-16 00:00:00 UTC
-# Script generation date:     2016-03-21 19:07:21 UTC
+# Script generation date:     2016-05-12 18:05:48 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -45,7 +45,7 @@
 #   - CVE-2015-8023
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3398-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade strongswan=5.2.1-6+deb8u2 -y

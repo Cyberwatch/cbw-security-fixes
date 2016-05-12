@@ -4,7 +4,7 @@
 # Security fix for DSA-3029-1
 #
 # Security announcement date: 2014-09-20 00:00:00 UTC
-# Script generation date:     2016-03-21 19:06:30 UTC
+# Script generation date:     2016-05-12 18:05:03 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -41,7 +41,7 @@
 #   - CVE-2014-3616
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3029-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade nginx=1.2.1-2.2+wheezy4 -y

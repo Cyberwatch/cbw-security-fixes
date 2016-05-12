@@ -4,7 +4,7 @@
 # Security fix for DSA-3104-1
 #
 # Security announcement date: 2014-12-16 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:42 UTC
+# Script generation date:     2016-05-12 18:05:09 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -19,7 +19,7 @@
 #   - CVE-2014-7844
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3104-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade bsd-mailx=8.1.2-0.20111106cvs-1+deb7u1 -y

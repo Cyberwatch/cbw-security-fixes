@@ -4,7 +4,7 @@
 # Security fix for DSA-2989-1
 #
 # Security announcement date: 2014-07-24 00:00:00 UTC
-# Script generation date:     2016-03-21 19:06:27 UTC
+# Script generation date:     2016-05-12 18:05:00 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -47,7 +47,7 @@
 #   - CVE-2014-0231
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2989-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade apache2=2.2.22-13+deb7u6 -y

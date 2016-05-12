@@ -4,7 +4,7 @@
 # Security fix for DSA-2970-1
 #
 # Security announcement date: 2014-06-29 00:00:00 UTC
-# Script generation date:     2016-02-28 07:04:03 UTC
+# Script generation date:     2016-05-12 18:04:58 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -24,7 +24,7 @@
 #   - CVE-2014-4002
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2970-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade cacti=0.8.8a+dfsg-5+deb7u8 -y

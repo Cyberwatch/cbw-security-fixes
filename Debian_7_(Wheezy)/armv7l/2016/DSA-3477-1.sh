@@ -4,7 +4,7 @@
 # Security fix for DSA-3477-1
 #
 # Security announcement date: 2016-02-14 00:00:00 UTC
-# Script generation date:     2016-04-25 18:07:04 UTC
+# Script generation date:     2016-05-12 18:05:59 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -21,7 +21,7 @@
 #   - CVE-2016-1969
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3477-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade iceweasel=38.3.0esr-1~deb7u1 -y

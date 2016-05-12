@@ -4,7 +4,7 @@
 # Security fix for DSA-2919-1
 #
 # Security announcement date: 2014-05-03 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:29 UTC
+# Script generation date:     2016-05-12 18:04:55 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -27,7 +27,7 @@
 #   - CVE-2014-2440
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2919-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade mysql-5.5=5.5.37-0+wheezy1 -y

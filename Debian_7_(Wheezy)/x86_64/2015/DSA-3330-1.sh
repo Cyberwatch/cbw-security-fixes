@@ -4,7 +4,7 @@
 # Security fix for DSA-3330-1
 #
 # Security announcement date: 2015-08-07 00:00:00 UTC
-# Script generation date:     2016-03-21 19:07:08 UTC
+# Script generation date:     2016-05-12 18:05:37 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -23,7 +23,7 @@
 #   - CVE-2014-3576
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3330-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade activemq=5.6.0+dfsg-1+deb7u2 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3282-1
 #
 # Security announcement date: 2015-06-08 00:00:00 UTC
-# Script generation date:     2016-03-21 19:07:01 UTC
+# Script generation date:     2016-05-12 18:05:30 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -31,7 +31,7 @@
 #   - CVE-2015-4171
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3282-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade strongswan=4.5.2-1.5+deb7u8 -y

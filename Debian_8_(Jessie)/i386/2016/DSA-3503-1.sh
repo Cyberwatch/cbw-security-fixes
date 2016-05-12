@@ -4,7 +4,7 @@
 # Security fix for DSA-3503-1
 #
 # Security announcement date: 2016-03-03 00:00:00 UTC
-# Script generation date:     2016-03-07 07:04:34 UTC
+# Script generation date:     2016-05-12 18:06:03 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -33,7 +33,7 @@
 #   - CVE-2016-2847
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3503-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux=3.16.7-ckt20-1+deb8u4 -y

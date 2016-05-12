@@ -4,7 +4,7 @@
 # Security fix for DSA-3486-1
 #
 # Security announcement date: 2016-02-21 00:00:00 UTC
-# Script generation date:     2016-02-23 07:08:53 UTC
+# Script generation date:     2016-05-12 18:06:00 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -26,7 +26,7 @@
 #   - CVE-2016-1629
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3486-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade chromium-browser=48.0.2564.116-1~deb8u1 -y

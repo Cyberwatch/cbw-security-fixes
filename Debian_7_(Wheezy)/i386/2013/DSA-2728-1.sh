@@ -4,7 +4,7 @@
 # Security fix for DSA-2728-1
 #
 # Security announcement date: 2013-07-27 00:00:00 UTC
-# Script generation date:     2016-03-10 19:05:45 UTC
+# Script generation date:     2016-05-12 18:04:37 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -19,7 +19,7 @@
 #   - CVE-2013-4854
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2728-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade bind9=1:9.8.4.dfsg.P1-6+nmu2+deb7u10 -y

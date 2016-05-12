@@ -4,7 +4,7 @@
 # Security fix for DSA-3505-1
 #
 # Security announcement date: 2016-03-04 00:00:00 UTC
-# Script generation date:     2016-03-21 19:07:37 UTC
+# Script generation date:     2016-05-12 18:06:03 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -67,7 +67,7 @@
 #   - CVE-2015-8733
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3505-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade wireshark=1.12.1+g01b65bf-4+deb8u5 -y

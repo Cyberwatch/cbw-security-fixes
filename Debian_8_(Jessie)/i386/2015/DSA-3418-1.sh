@@ -4,7 +4,7 @@
 # Security fix for DSA-3418-1
 #
 # Security announcement date: 2015-12-14 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:07 UTC
+# Script generation date:     2016-05-12 18:05:50 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -23,7 +23,7 @@
 #   - CVE-2015-8548
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3418-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade chromium-browser=47.0.2526.80-1~deb8u1 -y

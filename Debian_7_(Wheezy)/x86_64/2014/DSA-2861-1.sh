@@ -4,7 +4,7 @@
 # Security fix for DSA-2861-1
 #
 # Security announcement date: 2014-02-16 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:24 UTC
+# Script generation date:     2016-05-12 18:04:49 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -19,7 +19,7 @@
 #   - CVE-2014-1943
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2861-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade file=5.11-2+deb7u8 -y

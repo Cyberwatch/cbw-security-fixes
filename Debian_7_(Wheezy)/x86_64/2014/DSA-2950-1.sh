@@ -4,7 +4,7 @@
 # Security fix for DSA-2950-1
 #
 # Security announcement date: 2014-06-05 00:00:00 UTC
-# Script generation date:     2016-03-10 19:06:04 UTC
+# Script generation date:     2016-05-12 18:04:57 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -22,7 +22,7 @@
 #   - CVE-2014-3470
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2950-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade openssl=1.0.1e-2+deb7u20 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3091-1
 #
 # Security announcement date: 2014-12-07 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:41 UTC
+# Script generation date:     2016-05-12 18:05:08 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -21,7 +21,7 @@
 #   - CVE-2014-7275
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3091-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade getmail4=4.46.0-1~deb7u1 -y

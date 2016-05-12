@@ -4,7 +4,7 @@
 # Security fix for DSA-3009-1
 #
 # Security announcement date: 2014-08-21 00:00:00 UTC
-# Script generation date:     2016-03-21 19:06:29 UTC
+# Script generation date:     2016-05-12 18:05:01 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -31,7 +31,7 @@
 #   - CVE-2014-3589
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3009-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade python-imaging=1.1.7-4+deb7u2 -y

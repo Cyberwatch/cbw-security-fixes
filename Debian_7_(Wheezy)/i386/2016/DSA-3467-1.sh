@@ -4,7 +4,7 @@
 # Security fix for DSA-3467-1
 #
 # Security announcement date: 2016-02-06 00:00:00 UTC
-# Script generation date:     2016-02-08 07:07:46 UTC
+# Script generation date:     2016-05-12 18:05:57 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -24,7 +24,7 @@
 #   - CVE-2015-8784
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3467-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade tiff=4.0.2-6+deb7u5 -y

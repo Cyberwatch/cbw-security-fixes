@@ -4,7 +4,7 @@
 # Security fix for DSA-3463-1
 #
 # Security announcement date: 2016-01-31 00:00:00 UTC
-# Script generation date:     2016-02-02 07:07:22 UTC
+# Script generation date:     2016-05-12 18:05:57 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -19,7 +19,7 @@
 #   - CVE-2016-0756
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3463-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade prosody=0.8.2-4+deb7u4 -y

@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DSA-2389-1
 #
 # Security announcement date: 2012-01-15 00:00:00 UTC
-# Script generation date:     2016-02-29 07:03:30 UTC
+# Script generation date:     2016-05-12 18:04:19 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -28,7 +27,6 @@
 #   - CVE-2011-4914
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2389-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux-2.6=2.6.32-48squeeze20 -y

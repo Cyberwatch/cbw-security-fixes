@@ -4,7 +4,7 @@
 # Security fix for DSA-3236-1
 #
 # Security announcement date: 2015-04-25 00:00:00 UTC
-# Script generation date:     2016-03-21 19:06:53 UTC
+# Script generation date:     2016-05-12 18:05:24 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -97,7 +97,7 @@
 #   - CVE-2015-1774
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3236-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libreoffice=1:4.3.3-2+deb8u3 -y

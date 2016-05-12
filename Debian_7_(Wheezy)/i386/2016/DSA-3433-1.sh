@@ -4,7 +4,7 @@
 # Security fix for DSA-3433-1
 #
 # Security announcement date: 2016-01-02 00:00:00 UTC
-# Script generation date:     2016-04-14 06:06:41 UTC
+# Script generation date:     2016-05-12 18:05:52 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -57,7 +57,7 @@
 #   - CVE-2015-8467
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3433-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade samba=2:3.6.6-6+deb7u9 -y

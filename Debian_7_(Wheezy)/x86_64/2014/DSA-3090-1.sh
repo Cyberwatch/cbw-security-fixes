@@ -4,7 +4,7 @@
 # Security fix for DSA-3090-1
 #
 # Security announcement date: 2014-12-04 00:00:00 UTC
-# Script generation date:     2016-03-21 07:03:41 UTC
+# Script generation date:     2016-05-12 18:05:08 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - iceweasel:31.3.0esr-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - iceweasel:38.7.1esr-1~deb7u1
+#   - iceweasel:38.8.0esr-1~deb7u1
 #
 # CVE List:
 #   - CVE-2014-1587
@@ -23,7 +23,7 @@
 #   - CVE-2014-1594
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3090-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade iceweasel=38.7.1esr-1~deb7u1 -y
+sudo apt-get install --only-upgrade iceweasel=38.8.0esr-1~deb7u1 -y

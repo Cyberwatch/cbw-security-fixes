@@ -4,7 +4,7 @@
 # Security fix for DSA-3083-1
 #
 # Security announcement date: 2014-11-30 00:00:00 UTC
-# Script generation date:     2016-03-21 19:06:35 UTC
+# Script generation date:     2016-05-12 18:05:07 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -23,7 +23,7 @@
 #   - CVE-2014-9116
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3083-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade mutt=1.5.21-6.2+deb7u3 -y

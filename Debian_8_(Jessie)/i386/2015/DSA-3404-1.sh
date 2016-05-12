@@ -4,7 +4,7 @@
 # Security fix for DSA-3404-1
 #
 # Security announcement date: 2015-11-25 00:00:00 UTC
-# Script generation date:     2016-04-07 18:06:38 UTC
+# Script generation date:     2016-05-12 18:05:48 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -25,7 +25,7 @@
 #   - CVE-2015-8213
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3404-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade python-django=1.7.7-1+deb8u4 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3493-1
 #
 # Security announcement date: 2016-02-25 00:00:00 UTC
-# Script generation date:     2016-02-27 07:08:47 UTC
+# Script generation date:     2016-05-12 18:06:01 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -19,7 +19,7 @@
 #   - CVE-2016-0729
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3493-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade xerces-c=3.1.1-3+deb7u2 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-2665-1
 #
 # Security announcement date: 2013-04-30 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:06 UTC
+# Script generation date:     2016-05-12 18:04:31 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -19,7 +19,7 @@
 #   - CVE-2013-2944
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2665-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade strongswan=4.5.2-1.5+deb7u8 -y

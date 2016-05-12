@@ -4,7 +4,7 @@
 # Security fix for DSA-3294-1
 #
 # Security announcement date: 2015-06-23 00:00:00 UTC
-# Script generation date:     2016-03-21 19:07:03 UTC
+# Script generation date:     2016-05-12 18:05:32 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -46,7 +46,7 @@
 #   - CVE-2015-4652
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3294-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade wireshark=1.12.1+g01b65bf-4+deb8u5 -y

@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DSA-2655-1
 #
 # Security announcement date: 2013-03-28 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:05 UTC
+# Script generation date:     2016-05-12 18:04:31 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -24,7 +23,6 @@
 #   - CVE-2013-1857
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2655-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade rails=2.3.5-1.2+squeeze8 -y

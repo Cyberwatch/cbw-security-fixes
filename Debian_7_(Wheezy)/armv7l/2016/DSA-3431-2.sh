@@ -4,7 +4,7 @@
 # Security fix for DSA-3431-2
 #
 # Security announcement date: 2016-01-14 00:00:00 UTC
-# Script generation date:     2016-01-16 07:04:10 UTC
+# Script generation date:     2016-05-12 18:05:54 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -18,7 +18,7 @@
 # CVE List:
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3431-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade ganeti=2.5.2-1+deb7u2 -y

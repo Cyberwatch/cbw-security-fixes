@@ -4,7 +4,7 @@
 # Security fix for DSA-2834-1
 #
 # Security announcement date: 2014-01-01 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:22 UTC
+# Script generation date:     2016-05-12 18:04:47 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -26,7 +26,7 @@
 #   - CVE-2013-7081
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2834-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade typo3-src=4.5.19+dfsg1-5+wheezy2 -y

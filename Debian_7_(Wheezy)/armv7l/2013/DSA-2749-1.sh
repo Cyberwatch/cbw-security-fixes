@@ -4,7 +4,7 @@
 # Security fix for DSA-2749-1
 #
 # Security announcement date: 2013-09-02 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:14 UTC
+# Script generation date:     2016-05-12 18:04:39 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -20,7 +20,7 @@
 #   - CVE-2013-5642
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2749-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade asterisk=1:1.8.13.1~dfsg1-3+deb7u3 -y

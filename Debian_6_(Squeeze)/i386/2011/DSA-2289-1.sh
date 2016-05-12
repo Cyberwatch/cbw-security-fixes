@@ -1,10 +1,9 @@
-#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DSA-2289-1
 #
 # Security announcement date: 2011-08-07 00:00:00 UTC
-# Script generation date:     2016-01-01 07:02:48 UTC
+# Script generation date:     2016-05-12 18:04:15 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -30,7 +29,6 @@
 #   - CVE-2011-4904
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2289-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade typo3-src=4.3.9+dfsg1-1+squeeze1 -y

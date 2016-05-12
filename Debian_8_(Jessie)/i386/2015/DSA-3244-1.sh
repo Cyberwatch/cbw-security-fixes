@@ -4,7 +4,7 @@
 # Security fix for DSA-3244-1
 #
 # Security announcement date: 2015-05-02 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:51 UTC
+# Script generation date:     2016-05-12 18:05:25 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -21,7 +21,7 @@
 #   - CVE-2015-3013
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3244-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade owncloud=7.0.4+dfsg-4~deb8u3 -y

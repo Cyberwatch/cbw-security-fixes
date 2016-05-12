@@ -4,7 +4,7 @@
 # Security fix for DSA-3304-1
 #
 # Security announcement date: 2015-07-07 00:00:00 UTC
-# Script generation date:     2016-03-21 19:07:04 UTC
+# Script generation date:     2016-05-12 18:05:34 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -55,7 +55,7 @@
 #   - CVE-2015-4620
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3304-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade bind9=1:9.9.5.dfsg-9+deb8u6 -y

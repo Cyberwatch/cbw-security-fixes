@@ -4,7 +4,7 @@
 # Security fix for DSA-3540-1
 #
 # Security announcement date: 2016-04-03 00:00:00 UTC
-# Script generation date:     2016-04-05 06:10:33 UTC
+# Script generation date:     2016-05-12 18:06:08 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -23,7 +23,7 @@
 #   - CVE-2016-2347
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3540-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade lhasa=0.0.7-2+deb7u1 -y

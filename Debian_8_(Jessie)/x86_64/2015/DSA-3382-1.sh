@@ -4,7 +4,7 @@
 # Security fix for DSA-3382-1
 #
 # Security announcement date: 2015-10-28 00:00:00 UTC
-# Script generation date:     2016-01-01 07:04:03 UTC
+# Script generation date:     2016-05-12 18:05:45 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -25,7 +25,7 @@
 #   - CVE-2015-7873
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3382-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade phpmyadmin=4:4.2.12-2+deb8u1 -y

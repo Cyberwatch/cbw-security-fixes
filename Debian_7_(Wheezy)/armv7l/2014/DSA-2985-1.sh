@@ -4,7 +4,7 @@
 # Security fix for DSA-2985-1
 #
 # Security announcement date: 2014-07-22 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:34 UTC
+# Script generation date:     2016-05-12 18:04:59 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -22,7 +22,7 @@
 #   - CVE-2014-4260
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2985-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade mysql-5.5=5.5.38-0+wheezy1 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3483-1
 #
 # Security announcement date: 2016-02-19 00:00:00 UTC
-# Script generation date:     2016-03-21 19:07:35 UTC
+# Script generation date:     2016-05-12 18:06:00 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -21,7 +21,7 @@
 #   - CVE-2016-2037
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3483-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade cpio=2.11+dfsg-4.1+deb8u1 -y

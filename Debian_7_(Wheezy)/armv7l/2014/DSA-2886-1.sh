@@ -4,7 +4,7 @@
 # Security fix for DSA-2886-1
 #
 # Security announcement date: 2014-03-26 00:00:00 UTC
-# Script generation date:     2016-03-21 19:06:19 UTC
+# Script generation date:     2016-05-12 18:04:52 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -23,7 +23,7 @@
 #   - CVE-2014-0107
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2886-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libxalan2-java=2.7.1-7+deb7u1 -y

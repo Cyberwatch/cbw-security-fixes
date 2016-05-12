@@ -4,7 +4,7 @@
 # Security fix for DSA-3517-1
 #
 # Security announcement date: 2016-03-14 00:00:00 UTC
-# Script generation date:     2016-03-21 19:07:40 UTC
+# Script generation date:     2016-05-12 18:06:05 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -37,7 +37,7 @@
 #   - CVE-2016-1531
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3517-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade exim4=4.80-7+deb7u2 -y

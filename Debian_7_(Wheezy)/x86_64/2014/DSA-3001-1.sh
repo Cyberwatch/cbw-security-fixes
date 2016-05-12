@@ -4,7 +4,7 @@
 # Security fix for DSA-3001-1
 #
 # Security announcement date: 2014-08-09 00:00:00 UTC
-# Script generation date:     2016-02-09 07:07:10 UTC
+# Script generation date:     2016-05-12 18:05:01 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -24,7 +24,7 @@
 #   - CVE-2014-5266
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3001-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb7u10 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3505-1
 #
 # Security announcement date: 2016-03-04 00:00:00 UTC
-# Script generation date:     2016-03-06 07:08:51 UTC
+# Script generation date:     2016-05-12 18:06:03 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -41,7 +41,7 @@
 #   - CVE-2015-8733
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3505-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade wireshark=1.8.2-5wheezy16 -y

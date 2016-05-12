@@ -4,7 +4,7 @@
 # Security fix for DSA-3375-1
 #
 # Security announcement date: 2015-10-19 00:00:00 UTC
-# Script generation date:     2016-03-21 19:07:16 UTC
+# Script generation date:     2016-05-12 18:05:44 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -29,7 +29,7 @@
 #   - CVE-2015-7989
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3375-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade wordpress=4.1+dfsg-1+deb8u8 -y

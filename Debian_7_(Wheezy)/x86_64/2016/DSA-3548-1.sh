@@ -4,7 +4,7 @@
 # Security fix for DSA-3548-1
 #
 # Security announcement date: 2016-04-13 00:00:00 UTC
-# Script generation date:     2016-04-15 06:07:10 UTC
+# Script generation date:     2016-05-12 18:06:09 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -58,7 +58,7 @@
 #   - CVE-2016-2118
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3548-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade samba=2:3.6.6-6+deb7u9 -y

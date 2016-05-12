@@ -4,7 +4,7 @@
 # Security fix for DSA-3481-1
 #
 # Security announcement date: 2016-02-16 00:00:00 UTC
-# Script generation date:     2016-02-18 07:08:34 UTC
+# Script generation date:     2016-05-12 18:05:59 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -22,7 +22,7 @@
 #   - CVE-2015-8779
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3481-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade glibc=2.19-18+deb8u3 -y

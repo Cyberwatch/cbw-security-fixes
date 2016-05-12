@@ -4,7 +4,7 @@
 # Security fix for DSA-2693-1
 #
 # Security announcement date: 2013-05-24 00:00:00 UTC
-# Script generation date:     2016-01-01 07:03:09 UTC
+# Script generation date:     2016-05-12 18:04:34 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -21,7 +21,7 @@
 #   - CVE-2013-2004
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-2693-1
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libx11=2:1.5.0-1+deb7u1 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3154-2
 #
 # Security announcement date: 2015-02-07 00:00:00 UTC
-# Script generation date:     2016-03-21 19:06:43 UTC
+# Script generation date:     2016-05-12 18:05:14 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -24,7 +24,7 @@
 #   - CVE-2014-9750
 #
 # More details:
-#   - https://www.cyberwatch.fr/notices/DSA-3154-2
+#   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade ntp=1:4.2.6.p5+dfsg-2+deb7u6 -y
