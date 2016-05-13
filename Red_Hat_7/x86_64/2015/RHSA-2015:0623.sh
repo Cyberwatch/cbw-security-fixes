@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:0623
 #
 # Security announcement date: 2015-03-05 10:37:59 UTC
-# Script generation date:     2016-05-12 18:12:46 UTC
+# Script generation date:     2016-05-13 06:14:06 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -17,8 +17,8 @@
 #
 # Last versions recommanded by security team:
 #   - python-websocket-client.noarch:0.14.1-65.el7
-#   - docker.x86_64:1.5.0-28.el7
-#   - docker-logrotate.x86_64:1.5.0-28.el7
+#   - docker.x86_64:1.9.1-40.el7
+#   - docker-logrotate.x86_64:1.9.1-40.el7
 #   - docker-python.x86_64:1.0.0-22.el7
 #
 # CVE List:
@@ -30,6 +30,6 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install python-websocket-client.noarch-0.14.1 -y 
-sudo yum install docker.x86_64-1.5.0 -y 
-sudo yum install docker-logrotate.x86_64-1.5.0 -y 
+sudo yum install docker.x86_64-1.9.1 -y 
+sudo yum install docker-logrotate.x86_64-1.9.1 -y 
 sudo yum install docker-python.x86_64-1.0.0 -y 
