@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:2545
 #
 # Security announcement date: 2015-12-03 19:45:31 UTC
-# Script generation date:     2016-05-12 18:13:31 UTC
+# Script generation date:     2016-05-13 18:13:10 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - chromium-browser-debuginfo.x86_64:47.0.2526.73-1.el6
 #
 # Last versions recommanded by security team:
-#   - chromium-browser.x86_64:50.0.2661.94-1.el6
-#   - chromium-browser-debuginfo.x86_64:50.0.2661.94-1.el6
+#   - chromium-browser.x86_64:50.0.2661.102-1.el6
+#   - chromium-browser-debuginfo.x86_64:50.0.2661.102-1.el6
 #
 # CVE List:
 #   - CVE-2015-6764
@@ -46,5 +46,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install chromium-browser.x86_64-50.0.2661.94 -y 
-sudo yum install chromium-browser-debuginfo.x86_64-50.0.2661.94 -y 
+sudo yum install chromium-browser.x86_64-50.0.2661.102 -y 
+sudo yum install chromium-browser-debuginfo.x86_64-50.0.2661.102 -y 
