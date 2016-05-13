@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:0330
 #
 # Security announcement date: 2015-03-17 13:29:30 UTC
-# Script generation date:     2016-05-12 18:08:36 UTC
+# Script generation date:     2016-05-13 06:08:32 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - pcre-static.i686:8.32-14.el7
 #
 # Last versions recommanded by security team:
-#   - pcre.x86_64:8.32-14.el7
-#   - pcre-devel.x86_64:8.32-14.el7
-#   - pcre-static.x86_64:8.32-14.el7
-#   - pcre-tools.x86_64:8.32-14.el7
-#   - pcre.i686:8.32-14.el7
-#   - pcre-devel.i686:8.32-14.el7
-#   - pcre-static.i686:8.32-14.el7
+#   - pcre.x86_64:8.32-15.el7_2.1
+#   - pcre-devel.x86_64:8.32-15.el7_2.1
+#   - pcre-static.x86_64:8.32-15.el7_2.1
+#   - pcre-tools.x86_64:8.32-15.el7_2.1
+#   - pcre.i686:8.32-15.el7_2.1
+#   - pcre-devel.i686:8.32-15.el7_2.1
+#   - pcre-static.i686:8.32-15.el7_2.1
 #
 # CVE List:
 #   - CVE-2014-8964

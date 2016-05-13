@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:0290
 #
 # Security announcement date: 2015-03-17 13:28:28 UTC
-# Script generation date:     2016-05-12 18:08:34 UTC
+# Script generation date:     2016-05-13 06:08:30 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -24,18 +24,18 @@
 #   - python-perf.x86_64:3.10.0-229.el7
 #
 # Last versions recommanded by security team:
-#   - kernel.x86_64:3.10.0-327.10.1.el7
-#   - kernel-abi-whitelists.noarch:3.10.0-327.10.1.el7
-#   - kernel-debug.x86_64:3.10.0-327.10.1.el7
-#   - kernel-debug-devel.x86_64:3.10.0-327.10.1.el7
-#   - kernel-devel.x86_64:3.10.0-327.10.1.el7
-#   - kernel-doc.noarch:3.10.0-327.10.1.el7
-#   - kernel-headers.x86_64:3.10.0-327.10.1.el7
-#   - kernel-tools.x86_64:3.10.0-327.10.1.el7
-#   - kernel-tools-libs.x86_64:3.10.0-327.10.1.el7
-#   - kernel-tools-libs-devel.x86_64:3.10.0-327.10.1.el7
-#   - perf.x86_64:3.10.0-327.10.1.el7
-#   - python-perf.x86_64:3.10.0-327.10.1.el7
+#   - kernel.x86_64:3.10.0-327.18.2.el7
+#   - kernel-abi-whitelists.noarch:3.10.0-327.18.2.el7
+#   - kernel-debug.x86_64:3.10.0-327.18.2.el7
+#   - kernel-debug-devel.x86_64:3.10.0-327.18.2.el7
+#   - kernel-devel.x86_64:3.10.0-327.18.2.el7
+#   - kernel-doc.noarch:3.10.0-327.18.2.el7
+#   - kernel-headers.x86_64:3.10.0-327.18.2.el7
+#   - kernel-tools.x86_64:3.10.0-327.18.2.el7
+#   - kernel-tools-libs.x86_64:3.10.0-327.18.2.el7
+#   - kernel-tools-libs-devel.x86_64:3.10.0-327.18.2.el7
+#   - perf.x86_64:3.10.0-327.18.2.el7
+#   - python-perf.x86_64:3.10.0-327.18.2.el7
 #
 # CVE List:
 #   - CVE-2014-8160

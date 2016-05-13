@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:0258
 #
 # Security announcement date: 2016-02-18 17:19:24 UTC
-# Script generation date:     2016-05-12 18:08:57 UTC
+# Script generation date:     2016-05-13 06:08:53 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - thunderbird.x86_64:38.6.0-1.el7.centos
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:38.7.0-1.el7.centos
+#   - thunderbird.x86_64:38.8.0-1.el7.centos
 #
 # CVE List:
 #   - CVE-2016-1930
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.x86_64-38.7.0 -y 
+sudo yum install thunderbird.x86_64-38.8.0 -y 
