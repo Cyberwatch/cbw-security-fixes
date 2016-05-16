@@ -4,7 +4,7 @@
 # Security fix for USN-2930-1
 #
 # Security announcement date: 2016-03-14 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:46 UTC
+# Script generation date:     2016-05-16 18:03:47 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -39,13 +39,13 @@
 # Last versions recommanded by security team:
 #   - linux-image-4.2.0-34-powerpc64-emb:4.2.0-34.39
 #   - linux-image-4.2.0-34-lowlatency:4.2.0-34.39
-#   - linux-source-4.2.0:4.2.0-36.41
-#   - linux-doc:4.2.0-36.41
+#   - linux-source-4.2.0:4.2.0-36.42
+#   - linux-doc:4.2.0-36.42
 #   - linux-headers-4.2.0-34:4.2.0-34.39
-#   - linux-libc-dev:4.2.0-36.41
-#   - linux-tools-common:4.2.0-36.41
+#   - linux-libc-dev:4.2.0-36.42
+#   - linux-tools-common:4.2.0-36.42
 #   - linux-tools-4.2.0-34:4.2.0-34.39
-#   - linux-cloud-tools-common:4.2.0-36.41
+#   - linux-cloud-tools-common:4.2.0-36.42
 #   - linux-cloud-tools-4.2.0-34:4.2.0-34.39
 #   - linux-image-4.2.0-34-generic:4.2.0-34.39
 #   - linux-image-extra-4.2.0-34-generic:4.2.0-34.39
@@ -85,13 +85,13 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-4.2.0-34-powerpc64-emb=4.2.0-34.39 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-34-lowlatency=4.2.0-34.39 -y
-sudo apt-get install --only-upgrade linux-source-4.2.0=4.2.0-36.41 -y
-sudo apt-get install --only-upgrade linux-doc=4.2.0-36.41 -y
+sudo apt-get install --only-upgrade linux-source-4.2.0=4.2.0-36.42 -y
+sudo apt-get install --only-upgrade linux-doc=4.2.0-36.42 -y
 sudo apt-get install --only-upgrade linux-headers-4.2.0-34=4.2.0-34.39 -y
-sudo apt-get install --only-upgrade linux-libc-dev=4.2.0-36.41 -y
-sudo apt-get install --only-upgrade linux-tools-common=4.2.0-36.41 -y
+sudo apt-get install --only-upgrade linux-libc-dev=4.2.0-36.42 -y
+sudo apt-get install --only-upgrade linux-tools-common=4.2.0-36.42 -y
 sudo apt-get install --only-upgrade linux-tools-4.2.0-34=4.2.0-34.39 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=4.2.0-36.41 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=4.2.0-36.42 -y
 sudo apt-get install --only-upgrade linux-cloud-tools-4.2.0-34=4.2.0-34.39 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-34-generic=4.2.0-34.39 -y
 sudo apt-get install --only-upgrade linux-image-extra-4.2.0-34-generic=4.2.0-34.39 -y

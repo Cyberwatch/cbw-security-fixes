@@ -4,7 +4,7 @@
 # Security fix for USN-2971-1
 #
 # Security announcement date: 2016-05-09 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:59 UTC
+# Script generation date:     2016-05-16 18:04:00 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - linux-image-4.2.0-36-generic:4.2.0-36.41
 #
 # Last versions recommanded by security team:
-#   - linux-image-4.2.0-36-lowlatency:4.2.0-36.41
-#   - linux-image-4.2.0-36-generic:4.2.0-36.41
+#   - linux-image-4.2.0-36-lowlatency:4.2.0-36.42
+#   - linux-image-4.2.0-36-generic:4.2.0-36.42
 #
 # CVE List:
 #   - CVE-2015-7515
@@ -36,5 +36,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux-image-4.2.0-36-lowlatency=4.2.0-36.41 -y
-sudo apt-get install --only-upgrade linux-image-4.2.0-36-generic=4.2.0-36.41 -y
+sudo apt-get install --only-upgrade linux-image-4.2.0-36-lowlatency=4.2.0-36.42 -y
+sudo apt-get install --only-upgrade linux-image-4.2.0-36-generic=4.2.0-36.42 -y

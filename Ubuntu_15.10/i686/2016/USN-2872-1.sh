@@ -4,7 +4,7 @@
 # Security fix for USN-2872-1
 #
 # Security announcement date: 2016-01-19 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:25 UTC
+# Script generation date:     2016-05-16 18:03:24 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -27,11 +27,11 @@
 #   - linux-image-4.2.0-25-powerpc64-smp:4.2.0-25.30
 #   - linux-image-4.2.0-25-powerpc-smp:4.2.0-25.30
 #   - linux-image-4.2.0-25-lowlatency:4.2.0-25.30
-#   - linux-source-4.2.0:4.2.0-36.41
-#   - linux-doc:4.2.0-36.41
-#   - linux-libc-dev:4.2.0-36.41
-#   - linux-tools-common:4.2.0-36.41
-#   - linux-cloud-tools-common:4.2.0-36.41
+#   - linux-source-4.2.0:4.2.0-36.42
+#   - linux-doc:4.2.0-36.42
+#   - linux-libc-dev:4.2.0-36.42
+#   - linux-tools-common:4.2.0-36.42
+#   - linux-cloud-tools-common:4.2.0-36.42
 #   - linux-image-4.2.0-25-powerpc-e500mc:4.2.0-25.30
 #   - linux-image-4.2.0-25-generic-lpae:4.2.0-25.30
 #   - linux-image-4.2.0-25-powerpc64-emb:4.2.0-25.30
@@ -47,11 +47,11 @@
 sudo apt-get install --only-upgrade linux-image-4.2.0-25-powerpc64-smp=4.2.0-25.30 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-25-powerpc-smp=4.2.0-25.30 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-25-lowlatency=4.2.0-25.30 -y
-sudo apt-get install --only-upgrade linux-source-4.2.0=4.2.0-36.41 -y
-sudo apt-get install --only-upgrade linux-doc=4.2.0-36.41 -y
-sudo apt-get install --only-upgrade linux-libc-dev=4.2.0-36.41 -y
-sudo apt-get install --only-upgrade linux-tools-common=4.2.0-36.41 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=4.2.0-36.41 -y
+sudo apt-get install --only-upgrade linux-source-4.2.0=4.2.0-36.42 -y
+sudo apt-get install --only-upgrade linux-doc=4.2.0-36.42 -y
+sudo apt-get install --only-upgrade linux-libc-dev=4.2.0-36.42 -y
+sudo apt-get install --only-upgrade linux-tools-common=4.2.0-36.42 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=4.2.0-36.42 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-25-powerpc-e500mc=4.2.0-25.30 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-25-generic-lpae=4.2.0-25.30 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-25-powerpc64-emb=4.2.0-25.30 -y
