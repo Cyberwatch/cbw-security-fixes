@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0516
 #
 # Security announcement date: 2012-04-25 01:39:28 UTC
-# Script generation date:     2016-05-12 18:07:40 UTC
+# Script generation date:     2016-05-16 06:07:45 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - thunderbird.x86_64:10.0.4-1.el5.centos
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:38.7.0-1.el5.centos
+#   - thunderbird.x86_64:38.8.0-1.el5.centos
 #
 # CVE List:
 #   - CVE-2011-3062
@@ -33,4 +33,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.x86_64-38.7.0 -y 
+sudo yum install thunderbird.x86_64-38.8.0 -y 
