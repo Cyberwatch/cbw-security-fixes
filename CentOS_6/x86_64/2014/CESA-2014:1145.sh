@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1145
 #
 # Security announcement date: 2014-09-03 23:55:41 UTC
-# Script generation date:     2016-05-12 18:08:23 UTC
+# Script generation date:     2016-05-17 06:11:59 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - thunderbird.x86_64:24.8.0-1.el6.centos
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:38.7.0-1.el6.centos
+#   - thunderbird.x86_64:38.8.0-2.el6.centos
 #
 # CVE List:
 #   - CVE-2014-1562
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.x86_64-38.7.0 -y 
+sudo yum install thunderbird.x86_64-38.8.0 -y 

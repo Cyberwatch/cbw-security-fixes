@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0059
 #
 # Security announcement date: 2012-01-30 20:25:59 UTC
-# Script generation date:     2016-05-12 18:07:36 UTC
+# Script generation date:     2016-05-17 06:11:12 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - openssl-devel.i686:1.0.0-20.el6_2.1
 #
 # Last versions recommanded by security team:
-#   - openssl.x86_64:1.0.1e-42.el6_7.4
-#   - openssl-devel.x86_64:1.0.1e-42.el6_7.4
-#   - openssl-perl.x86_64:1.0.1e-42.el6_7.4
-#   - openssl-static.x86_64:1.0.1e-42.el6_7.4
-#   - openssl.i686:1.0.1e-42.el6_7.4
-#   - openssl-devel.i686:1.0.1e-42.el6_7.4
+#   - openssl.x86_64:1.0.1e-48.el6_8.1
+#   - openssl-devel.x86_64:1.0.1e-48.el6_8.1
+#   - openssl-perl.x86_64:1.0.1e-48.el6_8.1
+#   - openssl-static.x86_64:1.0.1e-48.el6_8.1
+#   - openssl.i686:1.0.1e-48.el6_8.1
+#   - openssl-devel.i686:1.0.1e-48.el6_8.1
 #
 # CVE List:
 #   - CVE-2011-4108

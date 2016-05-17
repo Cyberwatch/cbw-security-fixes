@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:0743
 #
 # Security announcement date: 2014-06-11 11:37:18 UTC
-# Script generation date:     2016-05-12 18:08:18 UTC
+# Script generation date:     2016-05-17 06:11:54 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -16,10 +16,10 @@
 #   - qemu-kvm-tools.x86_64:0.12.1.2-2.415.el6_5.10
 #
 # Last versions recommanded by security team:
-#   - qemu-guest-agent.x86_64:0.12.1.2-2.479.el6_7.4
-#   - qemu-img.x86_64:0.12.1.2-2.479.el6_7.4
-#   - qemu-kvm.x86_64:0.12.1.2-2.479.el6_7.4
-#   - qemu-kvm-tools.x86_64:0.12.1.2-2.479.el6_7.4
+#   - qemu-guest-agent.x86_64:0.12.1.2-2.491.el6_8.1
+#   - qemu-img.x86_64:0.12.1.2-2.491.el6_8.1
+#   - qemu-kvm.x86_64:0.12.1.2-2.491.el6_8.1
+#   - qemu-kvm-tools.x86_64:0.12.1.2-2.491.el6_8.1
 #
 # CVE List:
 #   - CVE-2013-4541
