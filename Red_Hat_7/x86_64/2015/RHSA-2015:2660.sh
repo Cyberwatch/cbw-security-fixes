@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:2660
 #
 # Security announcement date: 2015-12-16 18:23:51 UTC
-# Script generation date:     2016-05-12 18:13:34 UTC
+# Script generation date:     2016-05-17 18:16:54 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -72,18 +72,18 @@
 #   - tomcat8-log4j.noarch:8.0.18-52_patch_01.ep7.el7
 #   - tomcat8-servlet-3.1-api.noarch:8.0.18-52_patch_01.ep7.el7
 #   - tomcat8-webapps.noarch:8.0.18-52_patch_01.ep7.el7
-#   - httpd24.x86_64:2.4.6-59.ep7.el7
-#   - httpd24-debuginfo.x86_64:2.4.6-59.ep7.el7
-#   - httpd24-devel.x86_64:2.4.6-59.ep7.el7
-#   - httpd24-tools.x86_64:2.4.6-59.ep7.el7
+#   - httpd24.x86_64:2.4.6-61.ep7.el7
+#   - httpd24-debuginfo.x86_64:2.4.6-61.ep7.el7
+#   - httpd24-devel.x86_64:2.4.6-61.ep7.el7
+#   - httpd24-tools.x86_64:2.4.6-61.ep7.el7
 #   - mod_bmx.x86_64:0.9.5-7.GA.ep7.el7
 #   - mod_bmx-debuginfo.x86_64:0.9.5-7.GA.ep7.el7
 #   - mod_cluster-native.x86_64:1.2.9-6.Final_redhat_2.ep6.el7
 #   - mod_cluster-native-debuginfo.x86_64:1.2.9-6.Final_redhat_2.ep6.el7
-#   - mod_ldap24.x86_64:2.4.6-59.ep7.el7
-#   - mod_proxy24_html.x86_64:2.4.6-59.ep7.el7
-#   - mod_session24.x86_64:2.4.6-59.ep7.el7
-#   - mod_ssl24.x86_64:2.4.6-59.ep7.el7
+#   - mod_ldap24.x86_64:2.4.6-61.ep7.el7
+#   - mod_proxy24_html.x86_64:2.4.6-61.ep7.el7
+#   - mod_session24.x86_64:2.4.6-61.ep7.el7
+#   - mod_ssl24.x86_64:2.4.6-61.ep7.el7
 #
 # CVE List:
 #   - CVE-2013-5704
