@@ -4,7 +4,7 @@
 # Security fix for USN-2156-1
 #
 # Security announcement date: 2014-03-26 00:00:00 UTC
-# Script generation date:     2016-05-12 18:01:05 UTC
+# Script generation date:     2016-05-18 18:01:06 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - samba:2:3.6.3-2ubuntu2.10
 #
 # Last versions recommanded by security team:
-#   - samba:2:3.6.25-0ubuntu0.12.04.3
+#   - samba:2:3.6.25-0ubuntu0.12.04.4
 #
 # CVE List:
 #   - CVE-2013-4496
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade samba=2:3.6.25-0ubuntu0.12.04.3 -y
+sudo apt-get install --only-upgrade samba=2:3.6.25-0ubuntu0.12.04.4 -y

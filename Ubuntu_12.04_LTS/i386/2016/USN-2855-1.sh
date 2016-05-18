@@ -4,7 +4,7 @@
 # Security fix for USN-2855-1
 #
 # Security announcement date: 2016-01-05 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:18 UTC
+# Script generation date:     2016-05-18 18:03:19 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -26,20 +26,20 @@
 #   - libwbclient-dev:2:3.6.3-2ubuntu2.13
 #
 # Last versions recommanded by security team:
-#   - samba:2:3.6.25-0ubuntu0.12.04.3
-#   - samba-common-bin:2:3.6.25-0ubuntu0.12.04.3
-#   - samba-common:2:3.6.25-0ubuntu0.12.04.3
-#   - smbclient:2:3.6.25-0ubuntu0.12.04.3
-#   - samba-doc:2:3.6.25-0ubuntu0.12.04.3
-#   - samba-doc-pdf:2:3.6.25-0ubuntu0.12.04.3
-#   - libpam-smbpass:2:3.6.25-0ubuntu0.12.04.3
-#   - libsmbclient:2:3.6.25-0ubuntu0.12.04.3
-#   - libsmbclient-dev:2:3.6.25-0ubuntu0.12.04.3
-#   - winbind:2:3.6.25-0ubuntu0.12.04.3
-#   - libpam-winbind:2:3.6.25-0ubuntu0.12.04.3
-#   - samba-dbg:2:3.6.25-0ubuntu0.12.04.3
-#   - libwbclient0:2:3.6.25-0ubuntu0.12.04.3
-#   - libwbclient-dev:2:3.6.25-0ubuntu0.12.04.3
+#   - samba:2:3.6.25-0ubuntu0.12.04.4
+#   - samba-common-bin:2:3.6.25-0ubuntu0.12.04.4
+#   - samba-common:2:3.6.25-0ubuntu0.12.04.4
+#   - smbclient:2:3.6.25-0ubuntu0.12.04.4
+#   - samba-doc:2:3.6.25-0ubuntu0.12.04.4
+#   - samba-doc-pdf:2:3.6.25-0ubuntu0.12.04.4
+#   - libpam-smbpass:2:3.6.25-0ubuntu0.12.04.4
+#   - libsmbclient:2:3.6.25-0ubuntu0.12.04.4
+#   - libsmbclient-dev:2:3.6.25-0ubuntu0.12.04.4
+#   - winbind:2:3.6.25-0ubuntu0.12.04.4
+#   - libpam-winbind:2:3.6.25-0ubuntu0.12.04.4
+#   - samba-dbg:2:3.6.25-0ubuntu0.12.04.4
+#   - libwbclient0:2:3.6.25-0ubuntu0.12.04.4
+#   - libwbclient-dev:2:3.6.25-0ubuntu0.12.04.4
 #
 # CVE List:
 #   - CVE-2015-3223
@@ -54,17 +54,17 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade samba=2:3.6.25-0ubuntu0.12.04.3 -y
-sudo apt-get install --only-upgrade samba-common-bin=2:3.6.25-0ubuntu0.12.04.3 -y
-sudo apt-get install --only-upgrade samba-common=2:3.6.25-0ubuntu0.12.04.3 -y
-sudo apt-get install --only-upgrade smbclient=2:3.6.25-0ubuntu0.12.04.3 -y
-sudo apt-get install --only-upgrade samba-doc=2:3.6.25-0ubuntu0.12.04.3 -y
-sudo apt-get install --only-upgrade samba-doc-pdf=2:3.6.25-0ubuntu0.12.04.3 -y
-sudo apt-get install --only-upgrade libpam-smbpass=2:3.6.25-0ubuntu0.12.04.3 -y
-sudo apt-get install --only-upgrade libsmbclient=2:3.6.25-0ubuntu0.12.04.3 -y
-sudo apt-get install --only-upgrade libsmbclient-dev=2:3.6.25-0ubuntu0.12.04.3 -y
-sudo apt-get install --only-upgrade winbind=2:3.6.25-0ubuntu0.12.04.3 -y
-sudo apt-get install --only-upgrade libpam-winbind=2:3.6.25-0ubuntu0.12.04.3 -y
-sudo apt-get install --only-upgrade samba-dbg=2:3.6.25-0ubuntu0.12.04.3 -y
-sudo apt-get install --only-upgrade libwbclient0=2:3.6.25-0ubuntu0.12.04.3 -y
-sudo apt-get install --only-upgrade libwbclient-dev=2:3.6.25-0ubuntu0.12.04.3 -y
+sudo apt-get install --only-upgrade samba=2:3.6.25-0ubuntu0.12.04.4 -y
+sudo apt-get install --only-upgrade samba-common-bin=2:3.6.25-0ubuntu0.12.04.4 -y
+sudo apt-get install --only-upgrade samba-common=2:3.6.25-0ubuntu0.12.04.4 -y
+sudo apt-get install --only-upgrade smbclient=2:3.6.25-0ubuntu0.12.04.4 -y
+sudo apt-get install --only-upgrade samba-doc=2:3.6.25-0ubuntu0.12.04.4 -y
+sudo apt-get install --only-upgrade samba-doc-pdf=2:3.6.25-0ubuntu0.12.04.4 -y
+sudo apt-get install --only-upgrade libpam-smbpass=2:3.6.25-0ubuntu0.12.04.4 -y
+sudo apt-get install --only-upgrade libsmbclient=2:3.6.25-0ubuntu0.12.04.4 -y
+sudo apt-get install --only-upgrade libsmbclient-dev=2:3.6.25-0ubuntu0.12.04.4 -y
+sudo apt-get install --only-upgrade winbind=2:3.6.25-0ubuntu0.12.04.4 -y
+sudo apt-get install --only-upgrade libpam-winbind=2:3.6.25-0ubuntu0.12.04.4 -y
+sudo apt-get install --only-upgrade samba-dbg=2:3.6.25-0ubuntu0.12.04.4 -y
+sudo apt-get install --only-upgrade libwbclient0=2:3.6.25-0ubuntu0.12.04.4 -y
+sudo apt-get install --only-upgrade libwbclient-dev=2:3.6.25-0ubuntu0.12.04.4 -y
