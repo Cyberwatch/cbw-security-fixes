@@ -4,7 +4,7 @@
 # Security fix for USN-2934-1
 #
 # Security announcement date: 2016-04-27 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:57 UTC
+# Script generation date:     2016-05-19 06:04:00 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - thunderbird:1:38.7.2+build1-0ubuntu0.15.10.1
 #
 # Last versions recommanded by security team:
-#   - thunderbird:1:38.7.2+build1-0ubuntu0.15.10.1
+#   - thunderbird:1:38.8.0+build1-0ubuntu0.15.10.1
 #
 # CVE List:
 #   - CVE-2016-1952
@@ -44,4 +44,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade thunderbird=1:38.7.2+build1-0ubuntu0.15.10.1 -y
+sudo apt-get install --only-upgrade thunderbird=1:38.8.0+build1-0ubuntu0.15.10.1 -y

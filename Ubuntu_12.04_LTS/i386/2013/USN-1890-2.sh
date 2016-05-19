@@ -4,7 +4,7 @@
 # Security fix for USN-1890-2
 #
 # Security announcement date: 2013-07-03 00:00:00 UTC
-# Script generation date:     2016-05-12 18:00:53 UTC
+# Script generation date:     2016-05-19 06:00:54 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox:22.0+build2-0ubuntu0.12.04.2
 #
 # Last versions recommanded by security team:
-#   - firefox:46.0+build5-0ubuntu0.12.04.2
+#   - firefox:46.0.1+build1-0ubuntu0.12.04.2
 #
 # CVE List:
 #   - CVE-2013-1682
@@ -37,4 +37,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=46.0+build5-0ubuntu0.12.04.2 -y
+sudo apt-get install --only-upgrade firefox=46.0.1+build1-0ubuntu0.12.04.2 -y
