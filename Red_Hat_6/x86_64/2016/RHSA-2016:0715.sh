@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0715
 #
 # Security announcement date: 2016-05-04 08:08:48 UTC
-# Script generation date:     2016-05-23 18:44:16 UTC
+# Script generation date:     2016-05-24 18:12:10 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -33,24 +33,24 @@
 #   - kernel-firmware.noarch:2.6.32-573.26.1.el6
 #
 # Last versions recommanded by security team:
-#   - kernel.x86_64:2.6.32-358.71.1.el6
-#   - kernel-debug.x86_64:2.6.32-358.71.1.el6
-#   - kernel-debug-debuginfo.i686:2.6.32-642.el6
-#   - kernel-debug-debuginfo.x86_64:2.6.32-358.71.1.el6
-#   - kernel-debug-devel.i686:2.6.32-642.el6
-#   - kernel-debug-devel.x86_64:2.6.32-358.71.1.el6
-#   - kernel-debuginfo.i686:2.6.32-642.el6
-#   - kernel-debuginfo.x86_64:2.6.32-358.71.1.el6
-#   - kernel-debuginfo-common-i686.i686:2.6.32-642.el6
-#   - kernel-debuginfo-common-x86_64.x86_64:2.6.32-358.71.1.el6
-#   - kernel-devel.x86_64:2.6.32-358.71.1.el6
-#   - kernel-headers.x86_64:2.6.32-358.71.1.el6
-#   - perf.x86_64:2.6.32-358.71.1.el6
-#   - perf-debuginfo.i686:2.6.32-642.el6
-#   - perf-debuginfo.x86_64:2.6.32-358.71.1.el6
-#   - python-perf-debuginfo.i686:2.6.32-642.el6
-#   - python-perf-debuginfo.x86_64:2.6.32-358.71.1.el6
-#   - python-perf.x86_64:2.6.32-358.71.1.el6
+#   - kernel.x86_64:2.6.32-504.49.1.el6
+#   - kernel-debug.x86_64:2.6.32-504.49.1.el6
+#   - kernel-debug-debuginfo.i686:2.6.32-504.49.1.el6
+#   - kernel-debug-debuginfo.x86_64:2.6.32-504.49.1.el6
+#   - kernel-debug-devel.i686:2.6.32-504.49.1.el6
+#   - kernel-debug-devel.x86_64:2.6.32-504.49.1.el6
+#   - kernel-debuginfo.i686:2.6.32-504.49.1.el6
+#   - kernel-debuginfo.x86_64:2.6.32-504.49.1.el6
+#   - kernel-debuginfo-common-i686.i686:2.6.32-504.49.1.el6
+#   - kernel-debuginfo-common-x86_64.x86_64:2.6.32-504.49.1.el6
+#   - kernel-devel.x86_64:2.6.32-504.49.1.el6
+#   - kernel-headers.x86_64:2.6.32-504.49.1.el6
+#   - perf.x86_64:2.6.32-504.49.1.el6
+#   - perf-debuginfo.i686:2.6.32-504.49.1.el6
+#   - perf-debuginfo.x86_64:2.6.32-504.49.1.el6
+#   - python-perf-debuginfo.i686:2.6.32-504.49.1.el6
+#   - python-perf-debuginfo.x86_64:2.6.32-504.49.1.el6
+#   - python-perf.x86_64:2.6.32-504.49.1.el6
 #   - kernel-abi-whitelists.noarch:2.6.32-642.el6
 #   - kernel-doc.noarch:2.6.32-642.el6
 #   - kernel-firmware.noarch:2.6.32-642.el6
