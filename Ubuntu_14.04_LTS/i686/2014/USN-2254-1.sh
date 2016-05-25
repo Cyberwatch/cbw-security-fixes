@@ -4,7 +4,7 @@
 # Security fix for USN-2254-1
 #
 # Security announcement date: 2014-06-23 00:00:00 UTC
-# Script generation date:     2016-05-12 18:01:12 UTC
+# Script generation date:     2016-05-25 06:01:08 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -19,12 +19,12 @@
 #   - php5-fpm:5.5.9+dfsg-1ubuntu4.1
 #
 # Last versions recommanded by security team:
-#   - php5-cli:5.5.9+dfsg-1ubuntu4.16
-#   - libapache2-mod-php5:5.5.9+dfsg-1ubuntu4.16
-#   - php5-cgi:5.5.9+dfsg-1ubuntu4.16
+#   - php5-cli:5.5.9+dfsg-1ubuntu4.17
+#   - libapache2-mod-php5:5.5.9+dfsg-1ubuntu4.17
+#   - php5-cgi:5.5.9+dfsg-1ubuntu4.17
 #   - php5-fpm:5.5.9+dfsg-1ubuntu4.1
-#   - php5-cgi:5.5.9+dfsg-1ubuntu4.16
-#   - libapache2-mod-php5:5.5.9+dfsg-1ubuntu4.16
+#   - php5-cgi:5.5.9+dfsg-1ubuntu4.17
+#   - libapache2-mod-php5:5.5.9+dfsg-1ubuntu4.17
 #   - php5-fpm:5.5.9+dfsg-1ubuntu4.1
 #
 # CVE List:
@@ -37,10 +37,10 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5-cli=5.5.9+dfsg-1ubuntu4.16 -y
-sudo apt-get install --only-upgrade libapache2-mod-php5=5.5.9+dfsg-1ubuntu4.16 -y
-sudo apt-get install --only-upgrade php5-cgi=5.5.9+dfsg-1ubuntu4.16 -y
+sudo apt-get install --only-upgrade php5-cli=5.5.9+dfsg-1ubuntu4.17 -y
+sudo apt-get install --only-upgrade libapache2-mod-php5=5.5.9+dfsg-1ubuntu4.17 -y
+sudo apt-get install --only-upgrade php5-cgi=5.5.9+dfsg-1ubuntu4.17 -y
 sudo apt-get install --only-upgrade php5-fpm=5.5.9+dfsg-1ubuntu4.1 -y
-sudo apt-get install --only-upgrade php5-cgi=5.5.9+dfsg-1ubuntu4.16 -y
-sudo apt-get install --only-upgrade libapache2-mod-php5=5.5.9+dfsg-1ubuntu4.16 -y
+sudo apt-get install --only-upgrade php5-cgi=5.5.9+dfsg-1ubuntu4.17 -y
+sudo apt-get install --only-upgrade libapache2-mod-php5=5.5.9+dfsg-1ubuntu4.17 -y
 sudo apt-get install --only-upgrade php5-fpm=5.5.9+dfsg-1ubuntu4.1 -y

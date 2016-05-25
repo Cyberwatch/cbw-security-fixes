@@ -4,7 +4,7 @@
 # Security fix for USN-1761-1
 #
 # Security announcement date: 2013-03-13 00:00:00 UTC
-# Script generation date:     2016-05-12 18:00:45 UTC
+# Script generation date:     2016-05-25 06:00:43 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - php5:5.3.10-1ubuntu3.6
 #
 # Last versions recommanded by security team:
-#   - php5:5.3.10-1ubuntu3.22
+#   - php5:5.3.10-1ubuntu3.23
 #
 # CVE List:
 #   - CVE-2013-1643
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.3.10-1ubuntu3.22 -y
+sudo apt-get install --only-upgrade php5=5.3.10-1ubuntu3.23 -y

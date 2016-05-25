@@ -4,7 +4,7 @@
 # Security fix for USN-2276-1
 #
 # Security announcement date: 2014-07-09 00:00:00 UTC
-# Script generation date:     2016-05-12 18:01:14 UTC
+# Script generation date:     2016-05-25 06:01:10 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -19,12 +19,12 @@
 #   - php5-fpm:5.3.10-1ubuntu3.13
 #
 # Last versions recommanded by security team:
-#   - php5-cli:5.3.10-1ubuntu3.22
-#   - libapache2-mod-php5:5.3.10-1ubuntu3.22
-#   - php5-cgi:5.3.10-1ubuntu3.22
+#   - php5-cli:5.3.10-1ubuntu3.23
+#   - libapache2-mod-php5:5.3.10-1ubuntu3.23
+#   - php5-cgi:5.3.10-1ubuntu3.23
 #   - php5-fpm:5.3.10-1ubuntu3.13
-#   - php5-cgi:5.3.10-1ubuntu3.22
-#   - libapache2-mod-php5:5.3.10-1ubuntu3.22
+#   - php5-cgi:5.3.10-1ubuntu3.23
+#   - libapache2-mod-php5:5.3.10-1ubuntu3.23
 #   - php5-fpm:5.3.10-1ubuntu3.13
 #
 # CVE List:
@@ -42,10 +42,10 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5-cli=5.3.10-1ubuntu3.22 -y
-sudo apt-get install --only-upgrade libapache2-mod-php5=5.3.10-1ubuntu3.22 -y
-sudo apt-get install --only-upgrade php5-cgi=5.3.10-1ubuntu3.22 -y
+sudo apt-get install --only-upgrade php5-cli=5.3.10-1ubuntu3.23 -y
+sudo apt-get install --only-upgrade libapache2-mod-php5=5.3.10-1ubuntu3.23 -y
+sudo apt-get install --only-upgrade php5-cgi=5.3.10-1ubuntu3.23 -y
 sudo apt-get install --only-upgrade php5-fpm=5.3.10-1ubuntu3.13 -y
-sudo apt-get install --only-upgrade php5-cgi=5.3.10-1ubuntu3.22 -y
-sudo apt-get install --only-upgrade libapache2-mod-php5=5.3.10-1ubuntu3.22 -y
+sudo apt-get install --only-upgrade php5-cgi=5.3.10-1ubuntu3.23 -y
+sudo apt-get install --only-upgrade libapache2-mod-php5=5.3.10-1ubuntu3.23 -y
 sudo apt-get install --only-upgrade php5-fpm=5.3.10-1ubuntu3.13 -y
