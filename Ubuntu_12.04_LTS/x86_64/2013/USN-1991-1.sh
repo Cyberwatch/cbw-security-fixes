@@ -4,7 +4,7 @@
 # Security fix for USN-1991-1
 #
 # Security announcement date: 2013-10-21 00:00:00 UTC
-# Script generation date:     2016-05-12 18:00:57 UTC
+# Script generation date:     2016-05-26 18:00:53 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libc6:2.15-0ubuntu10.5
 #
 # Last versions recommanded by security team:
-#   - libc6:2.15-0ubuntu10.13
+#   - libc6:2.15-0ubuntu10.15
 #
 # CVE List:
 #   - CVE-2012-4412
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libc6=2.15-0ubuntu10.13 -y
+sudo apt-get install --only-upgrade libc6=2.15-0ubuntu10.15 -y

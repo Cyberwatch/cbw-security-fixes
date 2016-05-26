@@ -4,7 +4,7 @@
 # Security fix for USN-2328-1
 #
 # Security announcement date: 2014-08-28 00:00:00 UTC
-# Script generation date:     2016-05-12 18:01:20 UTC
+# Script generation date:     2016-05-26 18:01:15 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libc6:2.19-0ubuntu6.3
 #
 # Last versions recommanded by security team:
-#   - libc6:2.19-0ubuntu6.7
+#   - libc6:2.19-0ubuntu6.9
 #
 # CVE List:
 #   - CVE-2014-5119
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libc6=2.19-0ubuntu6.7 -y
+sudo apt-get install --only-upgrade libc6=2.19-0ubuntu6.9 -y
