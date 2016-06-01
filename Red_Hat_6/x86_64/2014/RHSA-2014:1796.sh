@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1796
 #
 # Security announcement date: 2014-11-03 20:15:35 UTC
-# Script generation date:     2016-05-12 18:12:28 UTC
+# Script generation date:     2016-06-01 11:13:23 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -733,7 +733,7 @@
 #   - php-pear-MDB2.noarch:2.5.0-0.3.b3.el6op
 #   - php-pear-MDB2-Driver-pgsql.noarch:1.5.0-0.1.b3.el6op
 #   - python-virtualenv.noarch:1.10.1-1.el6op
-#   - python27-python-pip.noarch:1.5.6-5.el6
+#   - python27-python-pip.noarch:7.1.0-2.el6
 #   - python27-python-pip-virtualenv.noarch:1.4-7.el6op
 #   - quartz.noarch:2.2.1.redhat_1-1.el6_5
 #   - ruby193-rubygem-commander.noarch:4.0.3-5.el6op
@@ -1204,7 +1204,7 @@ sudo yum install perl-YAML.noarch-0.70 -y
 sudo yum install php-pear-MDB2.noarch-2.5.0 -y 
 sudo yum install php-pear-MDB2-Driver-pgsql.noarch-1.5.0 -y 
 sudo yum install python-virtualenv.noarch-1.10.1 -y 
-sudo yum install python27-python-pip.noarch-1.5.6 -y 
+sudo yum install python27-python-pip.noarch-7.1.0 -y 
 sudo yum install python27-python-pip-virtualenv.noarch-1.4 -y 
 sudo yum install quartz.noarch-2.2.1.redhat_1 -y 
 sudo yum install ruby193-rubygem-commander.noarch-4.0.3 -y 

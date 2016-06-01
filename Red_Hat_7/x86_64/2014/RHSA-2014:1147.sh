@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1147
 #
 # Security announcement date: 2014-09-03 22:28:09 UTC
-# Script generation date:     2016-05-12 18:12:16 UTC
+# Script generation date:     2016-06-01 11:13:12 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - squid-sysvinit.x86_64:3.3.8-12.el7_0
 #
 # Last versions recommanded by security team:
-#   - squid.x86_64:3.3.8-26.el7
-#   - squid-debuginfo.x86_64:3.3.8-26.el7
-#   - squid-sysvinit.x86_64:3.3.8-26.el7
+#   - squid.x86_64:3.3.8-26.el7_2.3
+#   - squid-debuginfo.x86_64:3.3.8-26.el7_2.3
+#   - squid-sysvinit.x86_64:3.3.8-26.el7_2.3
 #
 # CVE List:
 #   - CVE-2014-3609

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0304
 #
 # Security announcement date: 2016-03-01 16:21:45 UTC
-# Script generation date:     2016-05-12 18:13:42 UTC
+# Script generation date:     2016-06-01 11:14:29 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -28,22 +28,22 @@
 #   - openssl-perl.x86_64:0.9.8e-26.el5_9.5
 #
 # Last versions recommanded by security team:
-#   - openssl.i686:0.9.8e-26.el5_9.5
-#   - openssl.x86_64:0.9.8e-26.el5_9.5
-#   - openssl-debuginfo.i386:0.9.8e-26.el5_9.5
-#   - openssl-debuginfo.i686:0.9.8e-26.el5_9.5
-#   - openssl-debuginfo.x86_64:0.9.8e-26.el5_9.5
-#   - openssl-devel.i386:0.9.8e-26.el5_9.5
-#   - openssl-devel.x86_64:0.9.8e-26.el5_9.5
-#   - openssl-perl.x86_64:0.9.8e-26.el5_9.5
-#   - openssl.i686:0.9.8e-26.el5_9.5
-#   - openssl.x86_64:0.9.8e-26.el5_9.5
-#   - openssl-debuginfo.i386:0.9.8e-26.el5_9.5
-#   - openssl-debuginfo.i686:0.9.8e-26.el5_9.5
-#   - openssl-debuginfo.x86_64:0.9.8e-26.el5_9.5
-#   - openssl-devel.i386:0.9.8e-26.el5_9.5
-#   - openssl-devel.x86_64:0.9.8e-26.el5_9.5
-#   - openssl-perl.x86_64:0.9.8e-26.el5_9.5
+#   - openssl.i686:0.9.8e-40.el5_11
+#   - openssl.x86_64:0.9.8e-40.el5_11
+#   - openssl-debuginfo.i386:0.9.8e-40.el5_11
+#   - openssl-debuginfo.i686:0.9.8e-40.el5_11
+#   - openssl-debuginfo.x86_64:0.9.8e-40.el5_11
+#   - openssl-devel.i386:0.9.8e-40.el5_11
+#   - openssl-devel.x86_64:0.9.8e-40.el5_11
+#   - openssl-perl.x86_64:0.9.8e-40.el5_11
+#   - openssl.i686:0.9.8e-40.el5_11
+#   - openssl.x86_64:0.9.8e-40.el5_11
+#   - openssl-debuginfo.i386:0.9.8e-40.el5_11
+#   - openssl-debuginfo.i686:0.9.8e-40.el5_11
+#   - openssl-debuginfo.x86_64:0.9.8e-40.el5_11
+#   - openssl-devel.i386:0.9.8e-40.el5_11
+#   - openssl-devel.x86_64:0.9.8e-40.el5_11
+#   - openssl-perl.x86_64:0.9.8e-40.el5_11
 #
 # CVE List:
 #   - CVE-2015-0293
