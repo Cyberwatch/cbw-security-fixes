@@ -4,7 +4,7 @@
 # Security fix for USN-2794-1
 #
 # Security announcement date: 2015-11-05 00:00:00 UTC
-# Script generation date:     2016-05-16 18:03:04 UTC
+# Script generation date:     2016-06-01 11:02:55 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -28,11 +28,11 @@
 #   - linux-image-3.13.0-67-generic-lpae:3.13.0-67.110
 #   - linux-image-3.13.0-67-powerpc-smp:3.13.0-67.110
 #   - linux-image-3.13.0-67-generic:3.13.0-67.110
-#   - linux-source-3.13.0:3.13.0-86.131
-#   - linux-doc:3.13.0-86.131
-#   - linux-libc-dev:3.13.0-86.131
-#   - linux-tools-common:3.13.0-86.131
-#   - linux-cloud-tools-common:3.13.0-86.131
+#   - linux-source-3.13.0:3.13.0-87.133
+#   - linux-doc:3.13.0-87.133
+#   - linux-libc-dev:3.13.0-87.133
+#   - linux-tools-common:3.13.0-87.133
+#   - linux-cloud-tools-common:3.13.0-87.133
 #   - linux-image-3.13.0-67-powerpc-e500mc:3.13.0-67.110
 #   - linux-image-3.13.0-67-powerpc64-emb:3.13.0-67.110
 #   - linux-image-3.13.0-67-lowlatency:3.13.0-67.110
@@ -50,11 +50,11 @@
 sudo apt-get install --only-upgrade linux-image-3.13.0-67-generic-lpae=3.13.0-67.110 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-67-powerpc-smp=3.13.0-67.110 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-67-generic=3.13.0-67.110 -y
-sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-86.131 -y
-sudo apt-get install --only-upgrade linux-doc=3.13.0-86.131 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-86.131 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.13.0-86.131 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-86.131 -y
+sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-87.133 -y
+sudo apt-get install --only-upgrade linux-doc=3.13.0-87.133 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-87.133 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.13.0-87.133 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-87.133 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-67-powerpc-e500mc=3.13.0-67.110 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-67-powerpc64-emb=3.13.0-67.110 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-67-lowlatency=3.13.0-67.110 -y
