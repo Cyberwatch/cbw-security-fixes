@@ -4,7 +4,7 @@
 # Security fix for DSA-3580-1
 #
 # Security announcement date: 2016-05-16 00:00:00 UTC
-# Script generation date:     2016-06-01 18:06:13 UTC
+# Script generation date:     2016-06-03 06:12:40 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -63,6 +63,7 @@
 #   - CVE-2016-3716
 #   - CVE-2016-3717
 #   - CVE-2016-3718
+#   - CVE-2016-5239
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
