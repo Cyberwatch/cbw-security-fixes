@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1890
 #
 # Security announcement date: 2015-10-12 20:22:57 UTC
-# Script generation date:     2016-05-12 18:13:19 UTC
+# Script generation date:     2016-06-06 18:19:00 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - spice-server-devel.x86_64:0.12.4-9.el7_1.3
 #
 # Last versions recommanded by security team:
-#   - spice-debuginfo.x86_64:0.12.4-9.el7_1.3
-#   - spice-server.x86_64:0.12.4-9.el7_1.3
-#   - spice-server-devel.x86_64:0.12.4-9.el7_1.3
+#   - spice-debuginfo.x86_64:0.12.4-15.el7_2.1
+#   - spice-server.x86_64:0.12.4-15.el7_2.1
+#   - spice-server-devel.x86_64:0.12.4-15.el7_2.1
 #
 # CVE List:
 #   - CVE-2015-5260
