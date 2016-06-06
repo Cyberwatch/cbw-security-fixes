@@ -4,7 +4,7 @@
 # Security fix for USN-2326-1
 #
 # Security announcement date: 2014-09-02 00:00:00 UTC
-# Script generation date:     2016-05-19 06:01:22 UTC
+# Script generation date:     2016-06-06 18:01:28 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -17,11 +17,11 @@
 #   - oxideqt-codecs-extra:1.1.2-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - liboxideqtcore0:1.14.9-0ubuntu0.14.04.1
-#   - oxideqt-codecs:1.14.9-0ubuntu0.14.04.1
-#   - oxideqt-codecs-extra:1.14.9-0ubuntu0.14.04.1
-#   - oxideqt-codecs:1.14.9-0ubuntu0.14.04.1
-#   - oxideqt-codecs-extra:1.14.9-0ubuntu0.14.04.1
+#   - liboxideqtcore0:1.15.7-0ubuntu0.14.04.1
+#   - oxideqt-codecs:1.15.7-0ubuntu0.14.04.1
+#   - oxideqt-codecs-extra:1.15.7-0ubuntu0.14.04.1
+#   - oxideqt-codecs:1.15.7-0ubuntu0.14.04.1
+#   - oxideqt-codecs-extra:1.15.7-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2014-3168
@@ -35,8 +35,8 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade liboxideqtcore0=1.14.9-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade oxideqt-codecs=1.14.9-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade oxideqt-codecs-extra=1.14.9-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade oxideqt-codecs=1.14.9-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade oxideqt-codecs-extra=1.14.9-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade liboxideqtcore0=1.15.7-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade oxideqt-codecs=1.15.7-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade oxideqt-codecs-extra=1.15.7-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade oxideqt-codecs=1.15.7-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade oxideqt-codecs-extra=1.15.7-0ubuntu0.14.04.1 -y
