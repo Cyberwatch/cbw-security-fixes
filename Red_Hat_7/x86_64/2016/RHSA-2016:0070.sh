@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0070
 #
 # Security announcement date: 2016-01-26 19:14:20 UTC
-# Script generation date:     2016-05-20 08:10:48 UTC
+# Script generation date:     2016-06-07 06:19:38 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -150,7 +150,7 @@
 #
 # Last versions recommanded by security team:
 #   - atomic-openshift-utils.noarch:3.0.35-1.git.0.6a386dd.el7aos
-#   - jenkins.noarch:1.625.3-2.el7aos
+#   - jenkins.noarch:1.651.2-1.el7
 #   - nodejs-align-text.noarch:0.1.3-2.el7aos
 #   - nodejs-ansi-green.noarch:0.1.1-1.el7aos
 #   - nodejs-ansi-wrap.noarch:0.1.0-1.el7aos
@@ -327,7 +327,7 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install atomic-openshift-utils.noarch-3.0.35 -y 
-sudo yum install jenkins.noarch-1.625.3 -y 
+sudo yum install jenkins.noarch-1.651.2 -y 
 sudo yum install nodejs-align-text.noarch-0.1.3 -y 
 sudo yum install nodejs-ansi-green.noarch-0.1.1 -y 
 sudo yum install nodejs-ansi-wrap.noarch-0.1.0 -y 

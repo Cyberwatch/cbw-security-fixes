@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:1064
 #
 # Security announcement date: 2016-05-12 16:30:04 UTC
-# Script generation date:     2016-05-20 08:11:01 UTC
+# Script generation date:     2016-06-07 06:19:55 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -104,7 +104,7 @@
 #   - jenkins-plugin-durable-task.x86_64:1.7-1.el7
 #   - jenkins-plugin-kubernetes.x86_64:0.5-1.el7
 #   - jenkins-plugin-openshift.x86_64:0.6.41-1.el7aos
-#   - jenkins-plugin-openshift-pipeline.x86_64:1.0.9-1.el7
+#   - jenkins-plugin-openshift-pipeline.x86_64:1.0.12-1.el7
 #   - jenkins-plugin-promoted-builds.x86_64:2.23-1.el7aos
 #   - jenkins-plugin-swarm.x86_64:2.0-2.el7aos
 #   - kibana.x86_64:4.1.2-2.el7aos
@@ -183,7 +183,7 @@ sudo yum install jenkins-plugin-credentials.x86_64-1.24 -y
 sudo yum install jenkins-plugin-durable-task.x86_64-1.7 -y 
 sudo yum install jenkins-plugin-kubernetes.x86_64-0.5 -y 
 sudo yum install jenkins-plugin-openshift.x86_64-0.6.41 -y 
-sudo yum install jenkins-plugin-openshift-pipeline.x86_64-1.0.9 -y 
+sudo yum install jenkins-plugin-openshift-pipeline.x86_64-1.0.12 -y 
 sudo yum install jenkins-plugin-promoted-builds.x86_64-2.23 -y 
 sudo yum install jenkins-plugin-swarm.x86_64-2.0 -y 
 sudo yum install kibana.x86_64-4.1.2 -y 

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0711
 #
 # Security announcement date: 2016-05-03 15:53:04 UTC
-# Script generation date:     2016-05-12 18:13:52 UTC
+# Script generation date:     2016-06-07 06:19:53 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -19,7 +19,7 @@
 #   - jenkins-plugin-credentials.x86_64:1.24-2.el7
 #   - jenkins-plugin-durable-task.x86_64:1.7-1.el7
 #   - jenkins-plugin-kubernetes.x86_64:0.5-1.el7
-#   - jenkins-plugin-openshift-pipeline.x86_64:1.0.9-1.el7
+#   - jenkins-plugin-openshift-pipeline.x86_64:1.0.12-1.el7
 #
 # CVE List:
 #   - CVE-2016-0788
@@ -35,4 +35,4 @@
 sudo yum install jenkins-plugin-credentials.x86_64-1.24 -y 
 sudo yum install jenkins-plugin-durable-task.x86_64-1.7 -y 
 sudo yum install jenkins-plugin-kubernetes.x86_64-0.5 -y 
-sudo yum install jenkins-plugin-openshift-pipeline.x86_64-1.0.9 -y 
+sudo yum install jenkins-plugin-openshift-pipeline.x86_64-1.0.12 -y 
