@@ -4,7 +4,7 @@
 # Security fix for USN-2812-1
 #
 # Security announcement date: 2015-11-16 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:07 UTC
+# Script generation date:     2016-06-07 06:03:11 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -20,14 +20,14 @@
 #   - python-libxml2-dbg:2.9.2+zdfsg1-4ubuntu0.1
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.9.2+zdfsg1-4ubuntu0.3
-#   - libxml2-utils:2.9.2+zdfsg1-4ubuntu0.3
-#   - libxml2-utils-dbg:2.9.2+zdfsg1-4ubuntu0.3
-#   - libxml2-dev:2.9.2+zdfsg1-4ubuntu0.3
-#   - libxml2-dbg:2.9.2+zdfsg1-4ubuntu0.3
-#   - libxml2-doc:2.9.2+zdfsg1-4ubuntu0.3
-#   - python-libxml2:2.9.2+zdfsg1-4ubuntu0.3
-#   - python-libxml2-dbg:2.9.2+zdfsg1-4ubuntu0.3
+#   - libxml2:2.9.2+zdfsg1-4ubuntu0.4
+#   - libxml2-utils:2.9.2+zdfsg1-4ubuntu0.4
+#   - libxml2-utils-dbg:2.9.2+zdfsg1-4ubuntu0.4
+#   - libxml2-dev:2.9.2+zdfsg1-4ubuntu0.4
+#   - libxml2-dbg:2.9.2+zdfsg1-4ubuntu0.4
+#   - libxml2-doc:2.9.2+zdfsg1-4ubuntu0.4
+#   - python-libxml2:2.9.2+zdfsg1-4ubuntu0.4
+#   - python-libxml2-dbg:2.9.2+zdfsg1-4ubuntu0.4
 #
 # CVE List:
 #   - CVE-2015-1819
@@ -39,11 +39,11 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.9.2+zdfsg1-4ubuntu0.3 -y
-sudo apt-get install --only-upgrade libxml2-utils=2.9.2+zdfsg1-4ubuntu0.3 -y
-sudo apt-get install --only-upgrade libxml2-utils-dbg=2.9.2+zdfsg1-4ubuntu0.3 -y
-sudo apt-get install --only-upgrade libxml2-dev=2.9.2+zdfsg1-4ubuntu0.3 -y
-sudo apt-get install --only-upgrade libxml2-dbg=2.9.2+zdfsg1-4ubuntu0.3 -y
-sudo apt-get install --only-upgrade libxml2-doc=2.9.2+zdfsg1-4ubuntu0.3 -y
-sudo apt-get install --only-upgrade python-libxml2=2.9.2+zdfsg1-4ubuntu0.3 -y
-sudo apt-get install --only-upgrade python-libxml2-dbg=2.9.2+zdfsg1-4ubuntu0.3 -y
+sudo apt-get install --only-upgrade libxml2=2.9.2+zdfsg1-4ubuntu0.4 -y
+sudo apt-get install --only-upgrade libxml2-utils=2.9.2+zdfsg1-4ubuntu0.4 -y
+sudo apt-get install --only-upgrade libxml2-utils-dbg=2.9.2+zdfsg1-4ubuntu0.4 -y
+sudo apt-get install --only-upgrade libxml2-dev=2.9.2+zdfsg1-4ubuntu0.4 -y
+sudo apt-get install --only-upgrade libxml2-dbg=2.9.2+zdfsg1-4ubuntu0.4 -y
+sudo apt-get install --only-upgrade libxml2-doc=2.9.2+zdfsg1-4ubuntu0.4 -y
+sudo apt-get install --only-upgrade python-libxml2=2.9.2+zdfsg1-4ubuntu0.4 -y
+sudo apt-get install --only-upgrade python-libxml2-dbg=2.9.2+zdfsg1-4ubuntu0.4 -y

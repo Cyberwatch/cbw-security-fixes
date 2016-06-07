@@ -4,7 +4,7 @@
 # Security fix for USN-2214-1
 #
 # Security announcement date: 2014-05-15 00:00:00 UTC
-# Script generation date:     2016-05-12 18:01:09 UTC
+# Script generation date:     2016-06-07 06:01:16 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libxml2:2.9.1+dfsg1-3ubuntu4.1
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.9.1+dfsg1-3ubuntu4.7
+#   - libxml2:2.9.1+dfsg1-3ubuntu4.8
 #
 # CVE List:
 #   - CVE-2014-0191
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.9.1+dfsg1-3ubuntu4.7 -y
+sudo apt-get install --only-upgrade libxml2=2.9.1+dfsg1-3ubuntu4.8 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-1447-1
 #
 # Security announcement date: 2012-05-21 00:00:00 UTC
-# Script generation date:     2016-05-12 18:00:14 UTC
+# Script generation date:     2016-06-07 06:00:13 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libxml2:2.7.8.dfsg-5.1ubuntu4.1
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.7.8.dfsg-5.1ubuntu4.14
+#   - libxml2:2.7.8.dfsg-5.1ubuntu4.15
 #
 # CVE List:
 #   - CVE-2011-3102
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-5.1ubuntu4.14 -y
+sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-5.1ubuntu4.15 -y

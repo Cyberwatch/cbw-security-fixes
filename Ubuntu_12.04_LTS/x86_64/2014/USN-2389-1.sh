@@ -4,7 +4,7 @@
 # Security fix for USN-2389-1
 #
 # Security announcement date: 2014-10-27 00:00:00 UTC
-# Script generation date:     2016-05-12 18:01:27 UTC
+# Script generation date:     2016-06-07 06:01:34 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - python-libxml2-dbg:2.7.8.dfsg-5.1ubuntu4.11
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.7.8.dfsg-5.1ubuntu4.14
-#   - libxml2-utils:2.7.8.dfsg-5.1ubuntu4.14
-#   - libxml2-dev:2.7.8.dfsg-5.1ubuntu4.14
-#   - libxml2-dbg:2.7.8.dfsg-5.1ubuntu4.14
-#   - libxml2-doc:2.7.8.dfsg-5.1ubuntu4.14
-#   - python-libxml2:2.7.8.dfsg-5.1ubuntu4.14
-#   - python-libxml2-dbg:2.7.8.dfsg-5.1ubuntu4.14
+#   - libxml2:2.7.8.dfsg-5.1ubuntu4.15
+#   - libxml2-utils:2.7.8.dfsg-5.1ubuntu4.15
+#   - libxml2-dev:2.7.8.dfsg-5.1ubuntu4.15
+#   - libxml2-dbg:2.7.8.dfsg-5.1ubuntu4.15
+#   - libxml2-doc:2.7.8.dfsg-5.1ubuntu4.15
+#   - python-libxml2:2.7.8.dfsg-5.1ubuntu4.15
+#   - python-libxml2-dbg:2.7.8.dfsg-5.1ubuntu4.15
 #
 # CVE List:
 #   - CVE-2014-3660
@@ -34,10 +34,10 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-5.1ubuntu4.14 -y
-sudo apt-get install --only-upgrade libxml2-utils=2.7.8.dfsg-5.1ubuntu4.14 -y
-sudo apt-get install --only-upgrade libxml2-dev=2.7.8.dfsg-5.1ubuntu4.14 -y
-sudo apt-get install --only-upgrade libxml2-dbg=2.7.8.dfsg-5.1ubuntu4.14 -y
-sudo apt-get install --only-upgrade libxml2-doc=2.7.8.dfsg-5.1ubuntu4.14 -y
-sudo apt-get install --only-upgrade python-libxml2=2.7.8.dfsg-5.1ubuntu4.14 -y
-sudo apt-get install --only-upgrade python-libxml2-dbg=2.7.8.dfsg-5.1ubuntu4.14 -y
+sudo apt-get install --only-upgrade libxml2=2.7.8.dfsg-5.1ubuntu4.15 -y
+sudo apt-get install --only-upgrade libxml2-utils=2.7.8.dfsg-5.1ubuntu4.15 -y
+sudo apt-get install --only-upgrade libxml2-dev=2.7.8.dfsg-5.1ubuntu4.15 -y
+sudo apt-get install --only-upgrade libxml2-dbg=2.7.8.dfsg-5.1ubuntu4.15 -y
+sudo apt-get install --only-upgrade libxml2-doc=2.7.8.dfsg-5.1ubuntu4.15 -y
+sudo apt-get install --only-upgrade python-libxml2=2.7.8.dfsg-5.1ubuntu4.15 -y
+sudo apt-get install --only-upgrade python-libxml2-dbg=2.7.8.dfsg-5.1ubuntu4.15 -y
