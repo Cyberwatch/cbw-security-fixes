@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1473
 #
 # Security announcement date: 2013-10-30 02:12:05 UTC
-# Script generation date:     2016-05-12 18:08:09 UTC
+# Script generation date:     2016-06-08 06:14:02 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - spice-server-devel.x86_64:0.12.0-12.el6_4.5
 #
 # Last versions recommanded by security team:
-#   - spice-server.x86_64:0.12.4-12.el6_7.3
-#   - spice-server-devel.x86_64:0.12.4-12.el6_7.3
+#   - spice-server.x86_64:0.12.4-13.el6.1
+#   - spice-server-devel.x86_64:0.12.4-13.el6.1
 #
 # CVE List:
 #   - CVE-2013-4282
