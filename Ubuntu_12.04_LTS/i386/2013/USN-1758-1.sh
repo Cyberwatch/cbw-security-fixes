@@ -4,7 +4,7 @@
 # Security fix for USN-1758-1
 #
 # Security announcement date: 2013-03-08 00:00:00 UTC
-# Script generation date:     2016-05-19 06:00:46 UTC
+# Script generation date:     2016-06-09 18:00:52 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox:19.0.2+build1-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:46.0.1+build1-0ubuntu0.12.04.2
+#   - firefox:47.0+build3-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2013-0787
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=46.0.1+build1-0ubuntu0.12.04.2 -y
+sudo apt-get install --only-upgrade firefox=47.0+build3-0ubuntu0.12.04.1 -y
