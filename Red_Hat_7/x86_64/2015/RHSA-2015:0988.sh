@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:0988
 #
 # Security announcement date: 2015-05-12 19:26:11 UTC
-# Script generation date:     2016-05-12 18:12:57 UTC
+# Script generation date:     2016-06-09 06:12:36 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -16,10 +16,10 @@
 #   - firefox-debuginfo.i686:38.0-3.el7_1
 #
 # Last versions recommanded by security team:
-#   - firefox.x86_64:45.1.0-1.el7_2
-#   - firefox-debuginfo.x86_64:45.1.0-1.el7_2
-#   - firefox.i686:45.1.0-1.el7_2
-#   - firefox-debuginfo.i686:45.1.0-1.el7_2
+#   - firefox.x86_64:45.2.0-1.el7_2
+#   - firefox-debuginfo.x86_64:45.2.0-1.el7_2
+#   - firefox.i686:45.2.0-1.el7_2
+#   - firefox-debuginfo.i686:45.2.0-1.el7_2
 #
 # CVE List:
 #   - CVE-2015-0797
@@ -32,7 +32,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.x86_64-45.1.0 -y 
-sudo yum install firefox-debuginfo.x86_64-45.1.0 -y 
-sudo yum install firefox.i686-45.1.0 -y 
-sudo yum install firefox-debuginfo.i686-45.1.0 -y 
+sudo yum install firefox.x86_64-45.2.0 -y 
+sudo yum install firefox-debuginfo.x86_64-45.2.0 -y 
+sudo yum install firefox.i686-45.2.0 -y 
+sudo yum install firefox-debuginfo.i686-45.2.0 -y 

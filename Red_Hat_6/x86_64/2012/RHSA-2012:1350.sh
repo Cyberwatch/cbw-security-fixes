@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:1350
 #
 # Security announcement date: 2012-10-09 23:42:18 UTC
-# Script generation date:     2016-05-12 18:11:01 UTC
+# Script generation date:     2016-06-09 06:10:40 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -22,13 +22,13 @@
 #   - xulrunner-devel.i686:10.0.8-1.el6_3
 #
 # Last versions recommanded by security team:
-#   - firefox.x86_64:45.1.0-1.el6_7
-#   - firefox-debuginfo.x86_64:45.1.0-1.el6_7
+#   - firefox.x86_64:45.2.0-1.el6_8
+#   - firefox-debuginfo.x86_64:45.2.0-1.el6_8
 #   - xulrunner.x86_64:17.0.10-1.el6_4
 #   - xulrunner-debuginfo.x86_64:17.0.10-1.el6_4
 #   - xulrunner-devel.x86_64:17.0.10-1.el6_4
-#   - firefox.i686:45.1.0-1.el6_7
-#   - firefox-debuginfo.i686:45.1.0-1.el6_7
+#   - firefox.i686:45.2.0-1.el6_8
+#   - firefox-debuginfo.i686:45.2.0-1.el6_8
 #   - xulrunner.i686:17.0.10-1.el6_4
 #   - xulrunner-debuginfo.i686:17.0.10-1.el6_4
 #   - xulrunner-devel.i686:17.0.10-1.el6_4
@@ -59,13 +59,13 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.x86_64-45.1.0 -y 
-sudo yum install firefox-debuginfo.x86_64-45.1.0 -y 
+sudo yum install firefox.x86_64-45.2.0 -y 
+sudo yum install firefox-debuginfo.x86_64-45.2.0 -y 
 sudo yum install xulrunner.x86_64-17.0.10 -y 
 sudo yum install xulrunner-debuginfo.x86_64-17.0.10 -y 
 sudo yum install xulrunner-devel.x86_64-17.0.10 -y 
-sudo yum install firefox.i686-45.1.0 -y 
-sudo yum install firefox-debuginfo.i686-45.1.0 -y 
+sudo yum install firefox.i686-45.2.0 -y 
+sudo yum install firefox-debuginfo.i686-45.2.0 -y 
 sudo yum install xulrunner.i686-17.0.10 -y 
 sudo yum install xulrunner-debuginfo.i686-17.0.10 -y 
 sudo yum install xulrunner-devel.i686-17.0.10 -y 
