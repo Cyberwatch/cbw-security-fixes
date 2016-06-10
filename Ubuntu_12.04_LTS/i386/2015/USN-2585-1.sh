@@ -4,7 +4,7 @@
 # Security fix for USN-2585-1
 #
 # Security announcement date: 2015-04-30 00:00:00 UTC
-# Script generation date:     2016-05-12 18:02:15 UTC
+# Script generation date:     2016-06-10 06:02:27 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -24,10 +24,10 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-82-generic:3.2.0-82.119
-#   - linux-source-3.2.0:3.2.0-102.142
-#   - linux-doc:3.2.0-102.142
-#   - linux-tools-common:3.2.0-102.142
-#   - linux-libc-dev:3.2.0-102.142
+#   - linux-source-3.2.0:3.2.0-104.145
+#   - linux-doc:3.2.0-104.145
+#   - linux-tools-common:3.2.0-104.145
+#   - linux-libc-dev:3.2.0-104.145
 #   - linux-image-3.2.0-82-virtual:3.2.0-82.119
 #   - linux-image-3.2.0-82-generic-pae:3.2.0-82.119
 #   - linux-image-3.2.0-82-highbank:3.2.0-82.119
@@ -43,10 +43,10 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-82-generic=3.2.0-82.119 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-102.142 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-102.142 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-102.142 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-102.142 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-104.145 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-104.145 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-104.145 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-104.145 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-82-virtual=3.2.0-82.119 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-82-generic-pae=3.2.0-82.119 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-82-highbank=3.2.0-82.119 -y

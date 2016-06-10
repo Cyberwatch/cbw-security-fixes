@@ -4,7 +4,7 @@
 # Security fix for USN-2226-1
 #
 # Security announcement date: 2014-05-27 00:00:00 UTC
-# Script generation date:     2016-06-01 11:01:16 UTC
+# Script generation date:     2016-06-10 06:01:19 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -25,10 +25,10 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.13.0-27-generic:3.13.0-27.50
-#   - linux-source-3.13.0:3.13.0-87.133
-#   - linux-doc:3.13.0-87.133
-#   - linux-tools-common:3.13.0-87.133
-#   - linux-cloud-tools-common:3.13.0-87.133
+#   - linux-source-3.13.0:3.13.0-88.135
+#   - linux-doc:3.13.0-88.135
+#   - linux-tools-common:3.13.0-88.135
+#   - linux-cloud-tools-common:3.13.0-88.135
 #   - linux-image-3.13.0-27-generic-lpae:3.13.0-27.50
 #   - linux-image-3.13.0-27-powerpc-e500:3.13.0-27.50
 #   - linux-image-3.13.0-27-lowlatency:3.13.0-27.50
@@ -50,10 +50,10 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-27-generic=3.13.0-27.50 -y
-sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-87.133 -y
-sudo apt-get install --only-upgrade linux-doc=3.13.0-87.133 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.13.0-87.133 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-87.133 -y
+sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-88.135 -y
+sudo apt-get install --only-upgrade linux-doc=3.13.0-88.135 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.13.0-88.135 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-88.135 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-27-generic-lpae=3.13.0-27.50 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-27-powerpc-e500=3.13.0-27.50 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-27-lowlatency=3.13.0-27.50 -y

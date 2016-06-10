@@ -4,7 +4,7 @@
 # Security fix for USN-2890-1
 #
 # Security announcement date: 2016-02-01 00:00:00 UTC
-# Script generation date:     2016-05-16 18:03:30 UTC
+# Script generation date:     2016-06-10 06:03:45 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -25,11 +25,11 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-4.2.0-27-lowlatency:4.2.0-27.32
-#   - linux-source-4.2.0:4.2.0-36.42
-#   - linux-doc:4.2.0-36.42
-#   - linux-libc-dev:4.2.0-36.42
-#   - linux-tools-common:4.2.0-36.42
-#   - linux-cloud-tools-common:4.2.0-36.42
+#   - linux-source-4.2.0:4.2.0-38.45
+#   - linux-doc:4.2.0-38.45
+#   - linux-libc-dev:4.2.0-38.45
+#   - linux-tools-common:4.2.0-38.45
+#   - linux-cloud-tools-common:4.2.0-38.45
 #   - linux-image-4.2.0-27-generic-lpae:4.2.0-27.32
 #   - linux-image-4.2.0-27-powerpc-e500mc:4.2.0-27.32
 #   - linux-image-4.2.0-27-powerpc64-emb:4.2.0-27.32
@@ -53,11 +53,11 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-4.2.0-27-lowlatency=4.2.0-27.32 -y
-sudo apt-get install --only-upgrade linux-source-4.2.0=4.2.0-36.42 -y
-sudo apt-get install --only-upgrade linux-doc=4.2.0-36.42 -y
-sudo apt-get install --only-upgrade linux-libc-dev=4.2.0-36.42 -y
-sudo apt-get install --only-upgrade linux-tools-common=4.2.0-36.42 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=4.2.0-36.42 -y
+sudo apt-get install --only-upgrade linux-source-4.2.0=4.2.0-38.45 -y
+sudo apt-get install --only-upgrade linux-doc=4.2.0-38.45 -y
+sudo apt-get install --only-upgrade linux-libc-dev=4.2.0-38.45 -y
+sudo apt-get install --only-upgrade linux-tools-common=4.2.0-38.45 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=4.2.0-38.45 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-27-generic-lpae=4.2.0-27.32 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-27-powerpc-e500mc=4.2.0-27.32 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-27-powerpc64-emb=4.2.0-27.32 -y
