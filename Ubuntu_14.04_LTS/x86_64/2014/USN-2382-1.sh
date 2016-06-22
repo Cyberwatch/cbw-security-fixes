@@ -4,7 +4,7 @@
 # Security fix for USN-2382-1
 #
 # Security announcement date: 2014-10-14 00:00:00 UTC
-# Script generation date:     2016-05-12 18:01:25 UTC
+# Script generation date:     2016-06-20 13:27:12 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64

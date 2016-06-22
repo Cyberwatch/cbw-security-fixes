@@ -4,7 +4,7 @@
 # Security fix for USN-2930-2
 #
 # Security announcement date: 2016-03-14 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:47 UTC
+# Script generation date:     2016-06-21 01:25:21 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686

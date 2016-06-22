@@ -4,7 +4,7 @@
 # Security fix for USN-1891-1
 #
 # Security announcement date: 2013-06-26 00:00:00 UTC
-# Script generation date:     2016-05-19 06:00:53 UTC
+# Script generation date:     2016-06-20 21:32:17 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

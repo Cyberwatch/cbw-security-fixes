@@ -4,7 +4,7 @@
 # Security fix for USN-2846-1
 #
 # Security announcement date: 2015-12-19 00:00:00 UTC
-# Script generation date:     2016-06-10 06:03:32 UTC
+# Script generation date:     2016-06-20 21:40:44 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

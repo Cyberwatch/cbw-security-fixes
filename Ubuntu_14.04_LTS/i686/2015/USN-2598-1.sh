@@ -4,7 +4,7 @@
 # Security fix for USN-2598-1
 #
 # Security announcement date: 2015-05-05 00:00:00 UTC
-# Script generation date:     2016-06-10 06:02:29 UTC
+# Script generation date:     2016-06-20 12:40:20 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686

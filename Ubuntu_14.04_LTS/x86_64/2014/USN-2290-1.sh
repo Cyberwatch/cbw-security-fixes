@@ -4,7 +4,7 @@
 # Security fix for USN-2290-1
 #
 # Security announcement date: 2014-07-16 00:00:00 UTC
-# Script generation date:     2016-06-10 06:01:25 UTC
+# Script generation date:     2016-06-20 13:26:50 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64

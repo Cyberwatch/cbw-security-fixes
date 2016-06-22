@@ -4,7 +4,7 @@
 # Security fix for USN-1890-2
 #
 # Security announcement date: 2013-07-03 00:00:00 UTC
-# Script generation date:     2016-06-09 18:00:59 UTC
+# Script generation date:     2016-06-20 21:32:17 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

@@ -4,7 +4,7 @@
 # Security fix for USN-2984-1
 #
 # Security announcement date: 2016-05-24 00:00:00 UTC
-# Script generation date:     2016-05-26 13:51:46 UTC
+# Script generation date:     2016-06-20 12:24:21 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: i386

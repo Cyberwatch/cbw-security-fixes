@@ -4,7 +4,7 @@
 # Security fix for USN-2710-2
 #
 # Security announcement date: 2015-08-18 00:00:00 UTC
-# Script generation date:     2016-05-12 18:02:42 UTC
+# Script generation date:     2016-06-20 12:35:03 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: x86_64

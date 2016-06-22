@@ -4,7 +4,7 @@
 # Security fix for USN-2560-1
 #
 # Security announcement date: 2015-04-08 00:00:00 UTC
-# Script generation date:     2016-06-10 06:02:22 UTC
+# Script generation date:     2016-06-20 12:40:06 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

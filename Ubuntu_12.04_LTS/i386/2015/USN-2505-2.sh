@@ -4,7 +4,7 @@
 # Security fix for USN-2505-2
 #
 # Security announcement date: 2015-03-09 00:00:00 UTC
-# Script generation date:     2016-06-09 18:02:06 UTC
+# Script generation date:     2016-06-20 13:49:02 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

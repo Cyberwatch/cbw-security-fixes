@@ -4,7 +4,7 @@
 # Security fix for USN-2658-1
 #
 # Security announcement date: 2015-07-06 00:00:00 UTC
-# Script generation date:     2016-05-25 06:02:22 UTC
+# Script generation date:     2016-06-20 13:50:04 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

@@ -4,7 +4,7 @@
 # Security fix for USN-1992-1
 #
 # Security announcement date: 2013-10-21 00:00:00 UTC
-# Script generation date:     2016-06-10 06:01:06 UTC
+# Script generation date:     2016-06-20 21:32:26 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

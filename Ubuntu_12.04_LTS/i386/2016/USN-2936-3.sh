@@ -4,7 +4,7 @@
 # Security fix for USN-2936-3
 #
 # Security announcement date: 2016-05-18 00:00:00 UTC
-# Script generation date:     2016-06-09 18:04:01 UTC
+# Script generation date:     2016-06-21 01:25:53 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

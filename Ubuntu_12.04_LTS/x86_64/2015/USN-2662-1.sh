@@ -4,7 +4,7 @@
 # Security fix for USN-2662-1
 #
 # Security announcement date: 2015-07-07 00:00:00 UTC
-# Script generation date:     2016-05-12 18:02:31 UTC
+# Script generation date:     2016-06-20 13:50:05 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

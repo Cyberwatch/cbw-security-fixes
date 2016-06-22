@@ -4,7 +4,7 @@
 # Security fix for USN-2960-1
 #
 # Security announcement date: 2016-05-18 00:00:00 UTC
-# Script generation date:     2016-06-06 18:04:01 UTC
+# Script generation date:     2016-06-20 12:24:20 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: i386

@@ -4,7 +4,7 @@
 # Security fix for USN-2388-2
 #
 # Security announcement date: 2014-10-23 00:00:00 UTC
-# Script generation date:     2016-05-12 18:01:26 UTC
+# Script generation date:     2016-06-20 13:27:16 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64

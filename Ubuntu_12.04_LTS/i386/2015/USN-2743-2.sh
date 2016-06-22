@@ -4,7 +4,7 @@
 # Security fix for USN-2743-2
 #
 # Security announcement date: 2015-09-22 00:00:00 UTC
-# Script generation date:     2016-05-12 18:02:49 UTC
+# Script generation date:     2016-06-20 14:23:21 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

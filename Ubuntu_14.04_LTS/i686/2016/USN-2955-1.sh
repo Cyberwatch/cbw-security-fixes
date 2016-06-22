@@ -4,7 +4,7 @@
 # Security fix for USN-2955-1
 #
 # Security announcement date: 2016-04-27 00:00:00 UTC
-# Script generation date:     2016-06-06 18:03:55 UTC
+# Script generation date:     2016-06-21 01:25:43 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686

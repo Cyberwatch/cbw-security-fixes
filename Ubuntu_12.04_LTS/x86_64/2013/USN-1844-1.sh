@@ -4,7 +4,7 @@
 # Security fix for USN-1844-1
 #
 # Security announcement date: 2013-05-30 00:00:00 UTC
-# Script generation date:     2016-06-10 06:00:58 UTC
+# Script generation date:     2016-06-20 21:32:11 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

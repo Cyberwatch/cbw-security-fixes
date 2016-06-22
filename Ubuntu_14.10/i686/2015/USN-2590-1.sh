@@ -4,7 +4,7 @@
 # Security fix for USN-2590-1
 #
 # Security announcement date: 2015-04-30 00:00:00 UTC
-# Script generation date:     2016-05-12 18:02:15 UTC
+# Script generation date:     2016-06-20 12:40:18 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: i686

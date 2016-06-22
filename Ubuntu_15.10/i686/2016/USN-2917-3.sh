@@ -4,7 +4,7 @@
 # Security fix for USN-2917-3
 #
 # Security announcement date: 2016-04-19 00:00:00 UTC
-# Script generation date:     2016-06-09 18:03:53 UTC
+# Script generation date:     2016-06-20 21:42:09 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686

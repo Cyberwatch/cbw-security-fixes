@@ -4,7 +4,7 @@
 # Security fix for USN-2614-1
 #
 # Security announcement date: 2015-05-20 00:00:00 UTC
-# Script generation date:     2016-06-10 06:02:33 UTC
+# Script generation date:     2016-06-20 12:34:12 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686

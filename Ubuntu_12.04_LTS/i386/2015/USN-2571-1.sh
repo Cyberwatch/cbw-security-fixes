@@ -4,7 +4,7 @@
 # Security fix for USN-2571-1
 #
 # Security announcement date: 2015-04-24 00:00:00 UTC
-# Script generation date:     2016-06-09 18:02:19 UTC
+# Script generation date:     2016-06-20 13:49:32 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

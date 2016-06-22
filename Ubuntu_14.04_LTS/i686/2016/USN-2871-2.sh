@@ -4,7 +4,7 @@
 # Security fix for USN-2871-2
 #
 # Security announcement date: 2016-01-19 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:25 UTC
+# Script generation date:     2016-06-20 21:41:06 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686

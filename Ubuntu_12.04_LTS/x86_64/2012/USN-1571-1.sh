@@ -4,7 +4,7 @@
 # Security fix for USN-1571-1
 #
 # Security announcement date: 2012-09-18 00:00:00 UTC
-# Script generation date:     2016-05-12 18:00:36 UTC
+# Script generation date:     2016-06-20 21:31:39 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

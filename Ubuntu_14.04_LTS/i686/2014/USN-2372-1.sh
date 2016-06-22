@@ -4,7 +4,7 @@
 # Security fix for USN-2372-1
 #
 # Security announcement date: 2014-10-14 00:00:00 UTC
-# Script generation date:     2016-06-09 18:01:34 UTC
+# Script generation date:     2016-06-20 13:27:13 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686

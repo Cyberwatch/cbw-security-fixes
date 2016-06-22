@@ -4,7 +4,7 @@
 # Security fix for USN-1822-1
 #
 # Security announcement date: 2013-05-14 00:00:00 UTC
-# Script generation date:     2016-06-09 18:00:55 UTC
+# Script generation date:     2016-06-20 21:32:09 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

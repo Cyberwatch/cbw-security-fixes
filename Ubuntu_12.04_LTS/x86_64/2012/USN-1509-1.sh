@@ -4,7 +4,7 @@
 # Security fix for USN-1509-1
 #
 # Security announcement date: 2012-07-17 00:00:00 UTC
-# Script generation date:     2016-06-09 18:00:28 UTC
+# Script generation date:     2016-06-20 21:31:31 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

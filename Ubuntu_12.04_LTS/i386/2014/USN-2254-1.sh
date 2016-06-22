@@ -4,7 +4,7 @@
 # Security fix for USN-2254-1
 #
 # Security announcement date: 2014-06-23 00:00:00 UTC
-# Script generation date:     2016-05-25 06:01:08 UTC
+# Script generation date:     2016-06-20 13:26:46 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

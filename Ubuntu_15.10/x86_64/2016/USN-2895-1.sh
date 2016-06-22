@@ -4,7 +4,7 @@
 # Security fix for USN-2895-1
 #
 # Security announcement date: 2016-02-18 00:00:00 UTC
-# Script generation date:     2016-06-06 18:03:37 UTC
+# Script generation date:     2016-06-20 14:25:03 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64

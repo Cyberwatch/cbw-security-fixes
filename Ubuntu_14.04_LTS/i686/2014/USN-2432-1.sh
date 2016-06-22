@@ -4,7 +4,7 @@
 # Security fix for USN-2432-1
 #
 # Security announcement date: 2014-12-03 00:00:00 UTC
-# Script generation date:     2016-05-26 18:01:30 UTC
+# Script generation date:     2016-06-20 13:27:29 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686

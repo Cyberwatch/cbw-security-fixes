@@ -4,7 +4,7 @@
 # Security fix for USN-2505-1
 #
 # Security announcement date: 2015-02-25 00:00:00 UTC
-# Script generation date:     2016-06-09 18:02:00 UTC
+# Script generation date:     2016-06-20 13:20:40 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64

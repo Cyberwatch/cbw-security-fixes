@@ -4,7 +4,7 @@
 # Security fix for USN-1702-1
 #
 # Security announcement date: 2013-01-22 00:00:00 UTC
-# Script generation date:     2016-05-25 06:00:41 UTC
+# Script generation date:     2016-06-20 21:31:54 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

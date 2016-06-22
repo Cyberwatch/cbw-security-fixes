@@ -4,7 +4,7 @@
 # Security fix for USN-2919-1
 #
 # Security announcement date: 2016-03-03 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:40 UTC
+# Script generation date:     2016-06-20 12:59:10 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686

@@ -4,7 +4,7 @@
 # Security fix for USN-1923-1
 #
 # Security announcement date: 2013-07-31 00:00:00 UTC
-# Script generation date:     2016-05-12 18:00:54 UTC
+# Script generation date:     2016-06-20 21:32:20 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

@@ -4,7 +4,7 @@
 # Security fix for USN-2973-1
 #
 # Security announcement date: 2016-05-18 00:00:00 UTC
-# Script generation date:     2016-05-20 07:54:41 UTC
+# Script generation date:     2016-06-20 12:59:49 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64

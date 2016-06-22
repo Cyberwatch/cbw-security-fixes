@@ -4,7 +4,7 @@
 # Security fix for USN-2978-1
 #
 # Security announcement date: 2016-05-16 00:00:00 UTC
-# Script generation date:     2016-05-18 06:04:01 UTC
+# Script generation date:     2016-06-20 21:08:51 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64

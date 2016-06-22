@@ -4,7 +4,7 @@
 # Security fix for USN-2109-1
 #
 # Security announcement date: 2014-02-18 00:00:00 UTC
-# Script generation date:     2016-06-10 06:01:10 UTC
+# Script generation date:     2016-06-20 13:26:25 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

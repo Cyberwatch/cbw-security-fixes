@@ -4,7 +4,7 @@
 # Security fix for USN-2788-2
 #
 # Security announcement date: 2015-11-09 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:04 UTC
+# Script generation date:     2016-06-20 14:23:52 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

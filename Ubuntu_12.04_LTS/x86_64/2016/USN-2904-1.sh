@@ -4,7 +4,7 @@
 # Security fix for USN-2904-1
 #
 # Security announcement date: 2016-03-08 00:00:00 UTC
-# Script generation date:     2016-05-19 06:03:45 UTC
+# Script generation date:     2016-06-21 01:25:10 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

@@ -4,7 +4,7 @@
 # Security fix for USN-2780-2
 #
 # Security announcement date: 2015-10-23 00:00:00 UTC
-# Script generation date:     2016-05-12 18:02:57 UTC
+# Script generation date:     2016-06-20 13:51:01 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64

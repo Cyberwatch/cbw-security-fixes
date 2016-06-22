@@ -4,7 +4,7 @@
 # Security fix for USN-2792-1
 #
 # Security announcement date: 2015-11-04 00:00:00 UTC
-# Script generation date:     2016-06-10 06:03:15 UTC
+# Script generation date:     2016-06-21 01:23:50 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

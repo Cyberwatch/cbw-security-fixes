@@ -4,7 +4,7 @@
 # Security fix for USN-2557-1
 #
 # Security announcement date: 2015-04-07 00:00:00 UTC
-# Script generation date:     2016-06-09 18:02:14 UTC
+# Script generation date:     2016-06-20 12:40:05 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

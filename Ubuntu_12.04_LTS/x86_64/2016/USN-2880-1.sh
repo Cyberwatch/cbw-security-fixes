@@ -4,7 +4,7 @@
 # Security fix for USN-2880-1
 #
 # Security announcement date: 2016-01-27 00:00:00 UTC
-# Script generation date:     2016-06-09 18:03:28 UTC
+# Script generation date:     2016-06-21 01:24:38 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

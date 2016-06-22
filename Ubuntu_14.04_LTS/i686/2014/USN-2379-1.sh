@@ -4,7 +4,7 @@
 # Security fix for USN-2379-1
 #
 # Security announcement date: 2014-10-09 00:00:00 UTC
-# Script generation date:     2016-06-10 06:01:39 UTC
+# Script generation date:     2016-06-20 13:27:12 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686

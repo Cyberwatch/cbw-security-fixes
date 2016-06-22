@@ -4,7 +4,7 @@
 # Security fix for USN-2643-1
 #
 # Security announcement date: 2015-06-15 00:00:00 UTC
-# Script generation date:     2016-06-10 06:02:39 UTC
+# Script generation date:     2016-06-20 13:49:59 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686

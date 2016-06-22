@@ -4,7 +4,7 @@
 # Security fix for USN-2608-1
 #
 # Security announcement date: 2015-05-13 00:00:00 UTC
-# Script generation date:     2016-05-12 18:02:18 UTC
+# Script generation date:     2016-06-20 12:40:23 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: i686

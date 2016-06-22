@@ -4,7 +4,7 @@
 # Security fix for USN-1636-1
 #
 # Security announcement date: 2012-11-21 00:00:00 UTC
-# Script generation date:     2016-05-19 06:00:42 UTC
+# Script generation date:     2016-06-20 21:31:48 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

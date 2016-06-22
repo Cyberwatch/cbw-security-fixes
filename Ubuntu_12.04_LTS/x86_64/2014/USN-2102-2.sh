@@ -4,7 +4,7 @@
 # Security fix for USN-2102-2
 #
 # Security announcement date: 2014-02-19 00:00:00 UTC
-# Script generation date:     2016-06-09 18:01:09 UTC
+# Script generation date:     2016-06-20 13:26:27 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

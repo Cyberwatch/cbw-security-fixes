@@ -4,7 +4,7 @@
 # Security fix for USN-2958-1
 #
 # Security announcement date: 2016-05-02 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:57 UTC
+# Script generation date:     2016-06-20 21:08:47 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686

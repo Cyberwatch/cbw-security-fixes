@@ -4,7 +4,7 @@
 # Security fix for USN-2924-1
 #
 # Security announcement date: 2016-03-09 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:44 UTC
+# Script generation date:     2016-06-20 12:59:17 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64

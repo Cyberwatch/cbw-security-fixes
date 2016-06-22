@@ -4,7 +4,7 @@
 # Security fix for USN-2017-1
 #
 # Security announcement date: 2013-11-08 00:00:00 UTC
-# Script generation date:     2016-06-10 06:01:07 UTC
+# Script generation date:     2016-06-20 21:32:29 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

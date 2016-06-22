@@ -4,7 +4,7 @@
 # Security fix for USN-2879-1
 #
 # Security announcement date: 2016-01-21 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:26 UTC
+# Script generation date:     2016-06-20 14:24:39 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64

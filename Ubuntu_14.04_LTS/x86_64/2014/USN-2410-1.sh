@@ -4,7 +4,7 @@
 # Security fix for USN-2410-1
 #
 # Security announcement date: 2014-11-19 00:00:00 UTC
-# Script generation date:     2016-06-06 18:01:39 UTC
+# Script generation date:     2016-06-20 13:27:21 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64

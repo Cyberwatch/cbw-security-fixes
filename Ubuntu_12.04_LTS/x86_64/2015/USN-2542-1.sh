@@ -4,7 +4,7 @@
 # Security fix for USN-2542-1
 #
 # Security announcement date: 2015-03-24 00:00:00 UTC
-# Script generation date:     2016-05-12 18:02:04 UTC
+# Script generation date:     2016-06-20 12:39:55 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

@@ -4,7 +4,7 @@
 # Security fix for USN-2009-1
 #
 # Security announcement date: 2013-10-29 00:00:00 UTC
-# Script generation date:     2016-06-09 18:01:04 UTC
+# Script generation date:     2016-06-20 21:32:27 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

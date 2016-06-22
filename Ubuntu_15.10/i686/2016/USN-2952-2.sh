@@ -4,7 +4,7 @@
 # Security fix for USN-2952-2
 #
 # Security announcement date: 2016-04-27 00:00:00 UTC
-# Script generation date:     2016-05-25 06:03:43 UTC
+# Script generation date:     2016-06-20 21:08:44 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686

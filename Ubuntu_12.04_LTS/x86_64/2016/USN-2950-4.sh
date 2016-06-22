@@ -4,7 +4,7 @@
 # Security fix for USN-2950-4
 #
 # Security announcement date: 2016-05-18 00:00:00 UTC
-# Script generation date:     2016-05-20 07:54:40 UTC
+# Script generation date:     2016-06-21 01:25:50 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

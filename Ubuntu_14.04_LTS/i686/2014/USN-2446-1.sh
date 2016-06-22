@@ -4,7 +4,7 @@
 # Security fix for USN-2446-1
 #
 # Security announcement date: 2014-12-12 00:00:00 UTC
-# Script generation date:     2016-06-10 06:01:52 UTC
+# Script generation date:     2016-06-20 13:27:32 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686

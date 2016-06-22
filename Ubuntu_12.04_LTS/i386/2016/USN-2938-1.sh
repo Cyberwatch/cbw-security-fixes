@@ -4,7 +4,7 @@
 # Security fix for USN-2938-1
 #
 # Security announcement date: 2016-03-21 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:49 UTC
+# Script generation date:     2016-06-21 01:25:24 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

@@ -4,7 +4,7 @@
 # Security fix for USN-1551-2
 #
 # Security announcement date: 2012-09-28 00:00:00 UTC
-# Script generation date:     2016-05-19 06:00:39 UTC
+# Script generation date:     2016-06-20 21:31:41 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

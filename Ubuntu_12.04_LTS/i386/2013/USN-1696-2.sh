@@ -4,7 +4,7 @@
 # Security fix for USN-1696-2
 #
 # Security announcement date: 2013-02-01 00:00:00 UTC
-# Script generation date:     2016-06-10 06:00:52 UTC
+# Script generation date:     2016-06-20 21:31:55 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

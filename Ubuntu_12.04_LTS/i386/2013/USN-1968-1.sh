@@ -4,7 +4,7 @@
 # Security fix for USN-1968-1
 #
 # Security announcement date: 2013-09-27 00:00:00 UTC
-# Script generation date:     2016-06-10 06:01:05 UTC
+# Script generation date:     2016-06-20 21:32:25 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

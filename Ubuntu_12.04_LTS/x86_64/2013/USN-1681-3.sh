@@ -4,7 +4,7 @@
 # Security fix for USN-1681-3
 #
 # Security announcement date: 2013-01-22 00:00:00 UTC
-# Script generation date:     2016-06-09 18:00:50 UTC
+# Script generation date:     2016-06-20 21:31:54 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

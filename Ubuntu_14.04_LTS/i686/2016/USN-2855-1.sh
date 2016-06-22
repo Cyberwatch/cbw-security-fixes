@@ -4,7 +4,7 @@
 # Security fix for USN-2855-1
 #
 # Security announcement date: 2016-01-05 00:00:00 UTC
-# Script generation date:     2016-05-26 13:51:04 UTC
+# Script generation date:     2016-06-20 14:24:22 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686

@@ -4,7 +4,7 @@
 # Security fix for USN-2722-1
 #
 # Security announcement date: 2015-08-26 00:00:00 UTC
-# Script generation date:     2016-05-12 18:02:45 UTC
+# Script generation date:     2016-06-20 14:23:11 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

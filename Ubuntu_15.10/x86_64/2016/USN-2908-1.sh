@@ -4,7 +4,7 @@
 # Security fix for USN-2908-1
 #
 # Security announcement date: 2016-02-22 00:00:00 UTC
-# Script generation date:     2016-06-10 06:03:53 UTC
+# Script generation date:     2016-06-20 14:25:04 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64

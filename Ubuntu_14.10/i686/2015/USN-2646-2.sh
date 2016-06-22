@@ -4,7 +4,7 @@
 # Security fix for USN-2646-2
 #
 # Security announcement date: 2015-06-21 00:00:00 UTC
-# Script generation date:     2016-05-12 18:02:28 UTC
+# Script generation date:     2016-06-20 12:34:30 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: i686

@@ -4,7 +4,7 @@
 # Security fix for USN-1994-1
 #
 # Security announcement date: 2013-10-21 00:00:00 UTC
-# Script generation date:     2016-05-12 18:00:57 UTC
+# Script generation date:     2016-06-20 21:32:27 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

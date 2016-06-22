@@ -4,7 +4,7 @@
 # Security fix for USN-2054-1
 #
 # Security announcement date: 2013-12-11 00:00:00 UTC
-# Script generation date:     2016-05-18 18:01:01 UTC
+# Script generation date:     2016-06-20 13:26:21 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

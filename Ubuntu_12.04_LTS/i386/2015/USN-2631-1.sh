@@ -4,7 +4,7 @@
 # Security fix for USN-2631-1
 #
 # Security announcement date: 2015-06-10 00:00:00 UTC
-# Script generation date:     2016-06-10 06:02:38 UTC
+# Script generation date:     2016-06-20 13:49:55 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

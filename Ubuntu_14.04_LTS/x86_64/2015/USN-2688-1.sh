@@ -4,7 +4,7 @@
 # Security fix for USN-2688-1
 #
 # Security announcement date: 2015-07-28 00:00:00 UTC
-# Script generation date:     2016-06-10 06:02:48 UTC
+# Script generation date:     2016-06-20 12:34:48 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64

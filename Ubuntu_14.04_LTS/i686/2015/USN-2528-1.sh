@@ -4,7 +4,7 @@
 # Security fix for USN-2528-1
 #
 # Security announcement date: 2015-03-12 00:00:00 UTC
-# Script generation date:     2016-06-10 06:02:13 UTC
+# Script generation date:     2016-06-20 12:39:45 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686

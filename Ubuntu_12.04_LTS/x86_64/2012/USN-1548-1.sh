@@ -4,7 +4,7 @@
 # Security fix for USN-1548-1
 #
 # Security announcement date: 2012-08-29 00:00:00 UTC
-# Script generation date:     2016-06-09 18:00:38 UTC
+# Script generation date:     2016-06-20 21:31:36 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64

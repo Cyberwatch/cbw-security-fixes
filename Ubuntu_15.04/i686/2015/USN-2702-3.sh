@@ -4,7 +4,7 @@
 # Security fix for USN-2702-3
 #
 # Security announcement date: 2015-08-20 00:00:00 UTC
-# Script generation date:     2016-05-12 18:02:43 UTC
+# Script generation date:     2016-06-20 12:35:04 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: i686

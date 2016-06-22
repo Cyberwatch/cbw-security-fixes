@@ -4,7 +4,7 @@
 # Security fix for USN-2921-1
 #
 # Security announcement date: 2016-03-07 00:00:00 UTC
-# Script generation date:     2016-06-10 06:03:56 UTC
+# Script generation date:     2016-06-20 12:59:10 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686

@@ -4,7 +4,7 @@
 # Security fix for USN-1937-1
 #
 # Security announcement date: 2013-09-05 00:00:00 UTC
-# Script generation date:     2016-05-25 06:00:52 UTC
+# Script generation date:     2016-06-20 21:32:22 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

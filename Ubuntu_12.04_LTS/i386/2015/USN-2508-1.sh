@@ -4,7 +4,7 @@
 # Security fix for USN-2508-1
 #
 # Security announcement date: 2015-02-23 00:00:00 UTC
-# Script generation date:     2016-05-18 18:01:53 UTC
+# Script generation date:     2016-06-20 13:20:39 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

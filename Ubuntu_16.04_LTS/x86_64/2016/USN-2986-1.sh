@@ -4,7 +4,7 @@
 # Security fix for USN-2986-1
 #
 # Security announcement date: 2016-05-31 00:00:00 UTC
-# Script generation date:     2016-06-02 06:04:04 UTC
+# Script generation date:     2016-06-20 12:24:22 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: x86_64

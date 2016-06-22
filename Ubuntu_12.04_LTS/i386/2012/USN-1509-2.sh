@@ -4,7 +4,7 @@
 # Security fix for USN-1509-2
 #
 # Security announcement date: 2012-07-17 00:00:00 UTC
-# Script generation date:     2016-05-12 18:00:24 UTC
+# Script generation date:     2016-06-20 21:31:33 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

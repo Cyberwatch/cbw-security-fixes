@@ -4,7 +4,7 @@
 # Security fix for USN-1790-1
 #
 # Security announcement date: 2013-04-04 00:00:00 UTC
-# Script generation date:     2016-05-12 18:00:46 UTC
+# Script generation date:     2016-06-20 21:32:04 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

@@ -4,7 +4,7 @@
 # Security fix for USN-2417-1
 #
 # Security announcement date: 2014-11-24 00:00:00 UTC
-# Script generation date:     2016-06-10 06:01:46 UTC
+# Script generation date:     2016-06-20 13:27:22 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

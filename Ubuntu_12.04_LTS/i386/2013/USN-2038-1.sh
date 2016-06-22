@@ -4,7 +4,7 @@
 # Security fix for USN-2038-1
 #
 # Security announcement date: 2013-12-03 00:00:00 UTC
-# Script generation date:     2016-06-10 06:01:07 UTC
+# Script generation date:     2016-06-20 13:26:19 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

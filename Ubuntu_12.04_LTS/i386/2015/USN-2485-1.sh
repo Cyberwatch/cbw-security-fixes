@@ -4,7 +4,7 @@
 # Security fix for USN-2485-1
 #
 # Security announcement date: 2015-01-27 00:00:00 UTC
-# Script generation date:     2016-05-26 18:01:41 UTC
+# Script generation date:     2016-06-20 13:20:33 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386

@@ -4,7 +4,7 @@
 # Security fix for USN-2716-1
 #
 # Security announcement date: 2015-08-17 00:00:00 UTC
-# Script generation date:     2016-06-10 06:02:54 UTC
+# Script generation date:     2016-06-20 13:50:28 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686

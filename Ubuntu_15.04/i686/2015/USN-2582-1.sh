@@ -4,7 +4,7 @@
 # Security fix for USN-2582-1
 #
 # Security announcement date: 2015-05-06 00:00:00 UTC
-# Script generation date:     2016-05-12 18:02:17 UTC
+# Script generation date:     2016-06-20 12:40:21 UTC
 #
 # Operating System: Ubuntu 15.04
 # Architecture: i686

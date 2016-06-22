@@ -4,7 +4,7 @@
 # Security fix for USN-2320-1
 #
 # Security announcement date: 2014-08-20 00:00:00 UTC
-# Script generation date:     2016-06-06 18:01:27 UTC
+# Script generation date:     2016-06-20 13:26:58 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686

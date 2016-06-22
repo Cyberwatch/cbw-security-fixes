@@ -4,7 +4,7 @@
 # Security fix for USN-2818-1
 #
 # Security announcement date: 2015-11-25 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:08 UTC
+# Script generation date:     2016-06-20 14:23:59 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
