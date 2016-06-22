@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:0643
 #
 # Security announcement date: 2013-03-13 15:08:17 UTC
-# Script generation date:     2016-05-13 18:10:57 UTC
+# Script generation date:     2016-06-22 12:39:11 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - flash-plugin.i386:11.2.202.275-2.el5
 #
 # Last versions recommanded by security team:
-#   - flash-plugin.i386:11.2.202.621-1.el5
+#   - flash-plugin.i386:11.2.202.626-1.el5_11
 #
 # CVE List:
 #   - CVE-2013-0646
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install flash-plugin.i386-11.2.202.621 -y 
+sudo yum install flash-plugin.i386-11.2.202.626 -y 

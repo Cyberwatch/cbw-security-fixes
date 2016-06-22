@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:0684
 #
 # Security announcement date: 2014-06-10 19:40:06 UTC
-# Script generation date:     2016-05-12 18:12:02 UTC
+# Script generation date:     2016-06-22 12:42:24 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -27,12 +27,12 @@
 #   - gnutls-dane.x86_64:3.3.8-14.el7_2
 #   - gnutls-debuginfo.x86_64:3.3.8-14.el7_2
 #   - gnutls-utils.x86_64:3.3.8-14.el7_2
-#   - .x86_64:6.7.8.9-13.el7_2
+#   - .x86_64:6.7.8.9-15.el7_2
 #   - gnutls-devel.x86_64:3.3.8-14.el7_2
 #   - gnutls.i686:3.3.8-14.el7_2
 #   - gnutls-dane.i686:3.3.8-14.el7_2
 #   - gnutls-debuginfo.i686:3.3.8-14.el7_2
-#   - .i686:6.7.8.9-13.el7_2
+#   - .i686:6.7.8.9-15.el7_2
 #   - gnutls-devel.i686:3.3.8-14.el7_2
 #
 # CVE List:

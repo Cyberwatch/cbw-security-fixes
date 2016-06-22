@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1796
 #
 # Security announcement date: 2014-11-03 20:15:35 UTC
-# Script generation date:     2016-06-01 11:13:23 UTC
+# Script generation date:     2016-06-22 12:44:05 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -751,10 +751,10 @@
 #   - CharLS.x86_64:1.0-1.el6op
 #   - CharLS-debuginfo.x86_64:1.0-1.el6op
 #   - CharLS-devel.x86_64:1.0-1.el6op
-#   - ImageMagick-debuginfo.x86_64:6.7.2.7-4.el6_7
-#   - ImageMagick-devel.x86_64:6.7.2.7-4.el6_7
-#   - ImageMagick-doc.x86_64:6.7.2.7-4.el6_7
-#   - ImageMagick-perl.x86_64:6.7.2.7-4.el6_7
+#   - ImageMagick-debuginfo.x86_64:6.7.2.7-5.el6_8
+#   - ImageMagick-devel.x86_64:6.7.2.7-5.el6_8
+#   - ImageMagick-doc.x86_64:6.7.2.7-5.el6_8
+#   - ImageMagick-perl.x86_64:6.7.2.7-5.el6_8
 #   - armadillo.x86_64:3.800.2-1.el6op
 #   - armadillo-debuginfo.x86_64:3.800.2-1.el6op
 #   - armadillo-devel.x86_64:3.800.2-1.el6op

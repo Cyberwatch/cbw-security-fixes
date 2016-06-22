@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:0544
 #
 # Security announcement date: 2012-05-07 18:45:02 UTC
-# Script generation date:     2016-05-12 18:10:46 UTC
+# Script generation date:     2016-06-22 12:37:01 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -24,18 +24,18 @@
 #   - ImageMagick-devel.i686:6.5.4.7-6.el6_2
 #
 # Last versions recommanded by security team:
-#   - ImageMagick.x86_64:6.7.2.7-4.el6_7
-#   - .x86_64:6.7.2.7-4.el6_7
-#   - ImageMagick-debuginfo.x86_64:6.7.2.7-4.el6_7
-#   - -devel.x86_64:6.7.2.7-4.el6_7
-#   - ImageMagick-devel.x86_64:6.7.2.7-4.el6_7
-#   - ImageMagick-doc.x86_64:6.7.2.7-4.el6_7
-#   - ImageMagick-perl.x86_64:6.7.2.7-4.el6_7
-#   - ImageMagick.i686:6.7.2.7-4.el6_7
-#   - ImageMagick-debuginfo.i686:6.7.2.7-4.el6_7
-#   - .i686:6.7.2.7-4.el6_7
-#   - -devel.i686:6.7.2.7-4.el6_7
-#   - ImageMagick-devel.i686:6.7.2.7-4.el6_7
+#   - ImageMagick.x86_64:6.7.2.7-5.el6_8
+#   - .x86_64:6.7.2.7-5.el6_8
+#   - ImageMagick-debuginfo.x86_64:6.7.2.7-5.el6_8
+#   - -devel.x86_64:6.7.2.7-5.el6_8
+#   - ImageMagick-devel.x86_64:6.7.2.7-5.el6_8
+#   - ImageMagick-doc.x86_64:6.7.2.7-5.el6_8
+#   - ImageMagick-perl.x86_64:6.7.2.7-5.el6_8
+#   - ImageMagick.i686:6.7.2.7-5.el6_8
+#   - ImageMagick-debuginfo.i686:6.7.2.7-5.el6_8
+#   - .i686:6.7.2.7-5.el6_8
+#   - -devel.i686:6.7.2.7-5.el6_8
+#   - ImageMagick-devel.i686:6.7.2.7-5.el6_8
 #
 # CVE List:
 #   - CVE-2010-4167

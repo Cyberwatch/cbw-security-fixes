@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:0888
 #
 # Security announcement date: 2014-07-24 20:45:45 UTC
-# Script generation date:     2016-05-12 18:12:09 UTC
+# Script generation date:     2016-06-22 12:43:07 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -16,10 +16,10 @@
 #   - qemu-kvm-rhev-tools.x86_64:0.12.1.2-2.415.el6_5.10
 #
 # Last versions recommanded by security team:
-#   - qemu-img-rhev.x86_64:0.12.1.2-2.491.el6_8.1
-#   - qemu-kvm-rhev.x86_64:0.12.1.2-2.491.el6_8.1
-#   - qemu-kvm-rhev-debuginfo.x86_64:0.12.1.2-2.491.el6_8.1
-#   - qemu-kvm-rhev-tools.x86_64:0.12.1.2-2.491.el6_8.1
+#   - qemu-img-rhev.x86_64:0.12.1.2-2.479.el6_7.5
+#   - qemu-kvm-rhev.x86_64:0.12.1.2-2.479.el6_7.5
+#   - qemu-kvm-rhev-debuginfo.x86_64:0.12.1.2-2.479.el6_7.5
+#   - qemu-kvm-rhev-tools.x86_64:0.12.1.2-2.479.el6_7.5
 #
 # CVE List:
 #   - CVE-2013-4148
