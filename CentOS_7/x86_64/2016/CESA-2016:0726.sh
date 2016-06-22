@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:0726
 #
 # Security announcement date: 2016-05-09 17:55:46 UTC
-# Script generation date:     2016-05-12 18:09:01 UTC
+# Script generation date:     2016-06-22 12:29:34 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -22,16 +22,16 @@
 #   - ImageMagick-perl.x86_64:6.7.8.9-13.el7_2
 #
 # Last versions recommanded by security team:
-#   - ImageMagick.i686:6.7.8.9-13.el7_2
-#   - ImageMagick.x86_64:6.7.8.9-13.el7_2
-#   - .i686:6.7.8.9-13.el7_2
-#   - .x86_64:6.7.8.9-13.el7_2
-#   - -devel.i686:6.7.8.9-13.el7_2
-#   - -devel.x86_64:6.7.8.9-13.el7_2
-#   - ImageMagick-devel.i686:6.7.8.9-13.el7_2
-#   - ImageMagick-devel.x86_64:6.7.8.9-13.el7_2
-#   - ImageMagick-doc.x86_64:6.7.8.9-13.el7_2
-#   - ImageMagick-perl.x86_64:6.7.8.9-13.el7_2
+#   - ImageMagick.i686:6.7.8.9-15.el7_2
+#   - ImageMagick.x86_64:6.7.8.9-15.el7_2
+#   - .i686:6.7.8.9-15.el7_2
+#   - .x86_64:6.7.8.9-15.el7_2
+#   - -devel.i686:6.7.8.9-15.el7_2
+#   - -devel.x86_64:6.7.8.9-15.el7_2
+#   - ImageMagick-devel.i686:6.7.8.9-15.el7_2
+#   - ImageMagick-devel.x86_64:6.7.8.9-15.el7_2
+#   - ImageMagick-doc.x86_64:6.7.8.9-15.el7_2
+#   - ImageMagick-perl.x86_64:6.7.8.9-15.el7_2
 #
 # CVE List:
 #   - CVE-2016-3714

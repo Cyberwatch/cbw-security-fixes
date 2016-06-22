@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:2154
 #
 # Security announcement date: 2015-11-30 19:36:32 UTC
-# Script generation date:     2016-05-12 18:08:53 UTC
+# Script generation date:     2016-06-22 12:29:04 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - krb5-libs.i686:1.13.2-10.el7
 #
 # Last versions recommanded by security team:
-#   - krb5-devel.x86_64:1.13.2-10.el7
-#   - krb5-libs.x86_64:1.13.2-10.el7
-#   - krb5-pkinit.x86_64:1.13.2-10.el7
-#   - krb5-server.x86_64:1.13.2-10.el7
-#   - krb5-server-ldap.x86_64:1.13.2-10.el7
-#   - krb5-workstation.x86_64:1.13.2-10.el7
-#   - krb5-devel.i686:1.13.2-10.el7
-#   - krb5-libs.i686:1.13.2-10.el7
+#   - krb5-devel.x86_64:1.13.2-12.el7_2
+#   - krb5-libs.x86_64:1.13.2-12.el7_2
+#   - krb5-pkinit.x86_64:1.13.2-12.el7_2
+#   - krb5-server.x86_64:1.13.2-12.el7_2
+#   - krb5-server-ldap.x86_64:1.13.2-12.el7_2
+#   - krb5-workstation.x86_64:1.13.2-12.el7_2
+#   - krb5-devel.i686:1.13.2-12.el7_2
+#   - krb5-libs.i686:1.13.2-12.el7_2
 #
 # CVE List:
 #   - CVE-2014-5355

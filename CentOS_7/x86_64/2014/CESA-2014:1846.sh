@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1846
 #
 # Security announcement date: 2014-11-12 12:50:47 UTC
-# Script generation date:     2016-05-12 18:08:28 UTC
+# Script generation date:     2016-06-22 12:27:27 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -22,12 +22,12 @@
 #
 # Last versions recommanded by security team:
 #   - gnutls.x86_64:3.3.8-14.el7_2
-#   - .x86_64:6.7.8.9-13.el7_2
+#   - .x86_64:6.7.8.9-15.el7_2
 #   - gnutls-dane.x86_64:3.3.8-14.el7_2
 #   - gnutls-devel.x86_64:3.3.8-14.el7_2
 #   - gnutls-utils.x86_64:3.3.8-14.el7_2
 #   - gnutls.i686:3.3.8-14.el7_2
-#   - .i686:6.7.8.9-13.el7_2
+#   - .i686:6.7.8.9-15.el7_2
 #   - gnutls-dane.i686:3.3.8-14.el7_2
 #   - gnutls-devel.i686:3.3.8-14.el7_2
 #

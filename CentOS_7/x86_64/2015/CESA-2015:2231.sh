@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:2231
 #
 # Security announcement date: 2015-11-30 19:45:44 UTC
-# Script generation date:     2016-05-12 18:08:53 UTC
+# Script generation date:     2016-06-22 12:29:04 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - sntp.x86_64:4.2.6p5-22.el7.centos
 #
 # Last versions recommanded by security team:
-#   - ntp.x86_64:4.2.6p5-22.el7.centos.1
-#   - ntpdate.x86_64:4.2.6p5-22.el7.centos.1
-#   - ntp-doc.noarch:4.2.6p5-22.el7.centos.1
-#   - ntp-perl.noarch:4.2.6p5-22.el7.centos.1
-#   - sntp.x86_64:4.2.6p5-22.el7.centos.1
+#   - ntp.x86_64:4.2.6p5-22.el7.centos.2
+#   - ntpdate.x86_64:4.2.6p5-22.el7.centos.2
+#   - ntp-doc.noarch:4.2.6p5-22.el7.centos.2
+#   - ntp-perl.noarch:4.2.6p5-22.el7.centos.2
+#   - sntp.x86_64:4.2.6p5-22.el7.centos.2
 #
 # CVE List:
 #   - CVE-2015-1798

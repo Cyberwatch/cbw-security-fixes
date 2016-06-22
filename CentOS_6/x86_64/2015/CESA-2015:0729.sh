@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:0729
 #
 # Security announcement date: 2015-03-26 23:21:26 UTC
-# Script generation date:     2016-05-12 18:08:34 UTC
+# Script generation date:     2016-06-22 12:27:57 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - setroubleshoot-server.x86_64:3.0.47-6.el6_6.1
 #
 # Last versions recommanded by security team:
-#   - setroubleshoot.x86_64:3.0.47-6.el6_6.1
-#   - setroubleshoot-doc.x86_64:3.0.47-6.el6_6.1
-#   - setroubleshoot-server.x86_64:3.0.47-6.el6_6.1
+#   - setroubleshoot.x86_64:3.0.47-12.el6_8
+#   - setroubleshoot-doc.x86_64:3.0.47-12.el6_8
+#   - setroubleshoot-server.x86_64:3.0.47-12.el6_8
 #
 # CVE List:
 #   - CVE-2015-1815

@@ -4,7 +4,7 @@
 # Security fix for CESA-2007:0940
 #
 # Security announcement date: 2007-10-23 21:54:29 UTC
-# Script generation date:     2016-05-12 18:06:57 UTC
+# Script generation date:     2016-06-22 12:20:57 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -40,9 +40,9 @@
 #   - kernel-xen.x86_64:2.6.18-409.el5
 #   - kernel-xen-devel.x86_64:2.6.18-409.el5
 #   - openssl.i386:0.9.8b-10.el5_2.1
-#   - openssl-devel.i386:0.9.8e-39.el5_11
+#   - openssl-devel.i386:0.9.8e-40.el5_11
 #   - openssl-perl.i386:0.9.6b-48
-#   - openssl.i686:0.9.8e-39.el5_11
+#   - openssl.i686:0.9.8e-40.el5_11
 #   - dhcp.i386:2.0pl5-11
 #   - libpng.i386:1.2.10-17.el5_8
 #   - libpng-devel.i386:1.2.10-17.el5_8

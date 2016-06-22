@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:2616
 #
 # Security announcement date: 2015-12-14 23:02:16 UTC
-# Script generation date:     2016-05-12 18:08:50 UTC
+# Script generation date:     2016-06-22 12:28:56 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - openssl-devel.i386:0.9.8e-37.el5_11
 #
 # Last versions recommanded by security team:
-#   - openssl.x86_64:0.9.8e-39.el5_11
-#   - openssl-devel.x86_64:0.9.8e-39.el5_11
-#   - openssl-perl.x86_64:0.9.8e-39.el5_11
-#   - openssl.i686:0.9.8e-39.el5_11
-#   - openssl-devel.i386:0.9.8e-39.el5_11
+#   - openssl.x86_64:0.9.8e-40.el5_11
+#   - openssl-devel.x86_64:0.9.8e-40.el5_11
+#   - openssl-perl.x86_64:0.9.8e-40.el5_11
+#   - openssl.i686:0.9.8e-40.el5_11
+#   - openssl-devel.i386:0.9.8e-40.el5_11
 #
 # CVE List:
 #   - CVE-2015-3195

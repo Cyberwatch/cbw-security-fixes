@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:0373
 #
 # Security announcement date: 2016-03-09 13:15:56 UTC
-# Script generation date:     2016-05-12 18:08:58 UTC
+# Script generation date:     2016-06-22 12:29:20 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - firefox.x86_64:38.7.0-1.el6.centos
 #
 # Last versions recommanded by security team:
-#   - firefox.i686:45.1.0-1.el6.centos
-#   - firefox.x86_64:45.1.0-1.el6.centos
+#   - firefox.i686:45.2.0-1.el6.centos
+#   - firefox.x86_64:45.2.0-1.el6.centos
 #
 # CVE List:
 #   - CVE-2016-1952
@@ -49,5 +49,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.i686-45.1.0 -y 
-sudo yum install firefox.x86_64-45.1.0 -y 
+sudo yum install firefox.i686-45.2.0 -y 
+sudo yum install firefox.x86_64-45.2.0 -y 

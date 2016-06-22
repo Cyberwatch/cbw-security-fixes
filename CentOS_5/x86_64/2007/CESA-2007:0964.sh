@@ -4,7 +4,7 @@
 # Security fix for CESA-2007:0964
 #
 # Security announcement date: 2007-10-18 00:20:04 UTC
-# Script generation date:     2016-05-12 18:06:56 UTC
+# Script generation date:     2016-06-22 12:20:55 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - openssl-devel.i386:0.9.8b-8.3.el5_0.2
 #
 # Last versions recommanded by security team:
-#   - openssl.x86_64:0.9.8e-39.el5_11
-#   - openssl-devel.x86_64:0.9.8e-39.el5_11
-#   - openssl-perl.x86_64:0.9.8e-39.el5_11
-#   - openssl.i686:0.9.8e-39.el5_11
-#   - openssl-devel.i386:0.9.8e-39.el5_11
+#   - openssl.x86_64:0.9.8e-40.el5_11
+#   - openssl-devel.x86_64:0.9.8e-40.el5_11
+#   - openssl-perl.x86_64:0.9.8e-40.el5_11
+#   - openssl.i686:0.9.8e-40.el5_11
+#   - openssl-devel.i386:0.9.8e-40.el5_11
 #
 # CVE List:
 #
