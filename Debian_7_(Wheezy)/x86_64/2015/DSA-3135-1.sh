@@ -4,7 +4,7 @@
 # Security fix for DSA-3135-1
 #
 # Security announcement date: 2015-01-23 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:12 UTC
+# Script generation date:     2016-06-22 12:16:56 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - mysql-5.5:5.5.41-0+wheezy1
 #
 # Last versions recommanded by security team:
-#   - mysql-5.5:5.5.41-0+wheezy1
+#   - mysql-5.5:5.5.49-0+deb7u1
 #
 # CVE List:
 #   - CVE-2014-6568
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mysql-5.5=5.5.41-0+wheezy1 -y
+sudo apt-get install --only-upgrade mysql-5.5=5.5.49-0+deb7u1 -y

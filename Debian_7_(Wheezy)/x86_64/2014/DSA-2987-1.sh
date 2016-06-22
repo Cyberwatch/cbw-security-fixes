@@ -4,7 +4,7 @@
 # Security fix for DSA-2987-1
 #
 # Security announcement date: 2014-07-23 00:00:00 UTC
-# Script generation date:     2016-05-12 18:04:59 UTC
+# Script generation date:     2016-06-22 12:16:43 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - openjdk-7:7u65-2.5.1-2~deb7u1
 #
 # Last versions recommanded by security team:
-#   - openjdk-7:7u65-2.5.1-2~deb7u1
+#   - openjdk-7:7u101-2.6.6-2~deb7u1
 #
 # CVE List:
 #   - CVE-2014-2483
@@ -36,4 +36,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openjdk-7=7u65-2.5.1-2~deb7u1 -y
+sudo apt-get install --only-upgrade openjdk-7=7u101-2.6.6-2~deb7u1 -y

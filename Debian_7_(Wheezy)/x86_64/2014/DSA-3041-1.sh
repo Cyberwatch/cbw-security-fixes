@@ -4,7 +4,7 @@
 # Security fix for DSA-3041-1
 #
 # Security announcement date: 2014-10-01 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:04 UTC
+# Script generation date:     2016-06-22 12:16:48 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - xen:4.1.4-3+deb7u3
 #
 # Last versions recommanded by security team:
-#   - xen:4.1.4-3+deb7u3
+#   - xen:4.1.6.1-1+deb7u1
 #
 # CVE List:
 #   - CVE-2013-2072
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade xen=4.1.4-3+deb7u3 -y
+sudo apt-get install --only-upgrade xen=4.1.6.1-1+deb7u1 -y

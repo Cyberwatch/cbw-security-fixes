@@ -4,7 +4,7 @@
 # Security fix for DSA-3286-1
 #
 # Security announcement date: 2015-06-13 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:32 UTC
+# Script generation date:     2016-06-22 12:17:16 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - xen:4.1.4-3+deb7u8
 #
 # Last versions recommanded by security team:
-#   - xen:4.1.4-3+deb7u8
+#   - xen:4.1.6.1-1+deb7u1
 #
 # CVE List:
 #   - CVE-2015-3209
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade xen=4.1.4-3+deb7u8 -y
+sudo apt-get install --only-upgrade xen=4.1.6.1-1+deb7u1 -y

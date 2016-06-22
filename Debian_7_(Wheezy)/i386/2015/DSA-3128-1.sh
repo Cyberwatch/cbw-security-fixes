@@ -4,7 +4,7 @@
 # Security fix for DSA-3128-1
 #
 # Security announcement date: 2015-01-15 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:12 UTC
+# Script generation date:     2016-06-22 12:16:56 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - linux:3.2.65-1+deb7u1
 #
 # Last versions recommanded by security team:
-#   - linux:3.2.65-1+deb7u1
+#   - linux:3.2.81-1
 #
 # CVE List:
 #   - CVE-2013-6885
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux=3.2.65-1+deb7u1 -y
+sudo apt-get install --only-upgrade linux=3.2.81-1 -y

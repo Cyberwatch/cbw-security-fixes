@@ -4,7 +4,7 @@
 # Security fix for DSA-2982-1
 #
 # Security announcement date: 2014-07-19 00:00:00 UTC
-# Script generation date:     2016-05-12 18:04:59 UTC
+# Script generation date:     2016-06-22 12:16:43 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - ruby-activerecord-3.2:3.2.6-5+deb7u1
 #
 # Last versions recommanded by security team:
-#   - ruby-activerecord-3.2:3.2.6-5+deb7u1
+#   - ruby-activerecord-3.2:3.2.6-5+deb7u2
 #
 # CVE List:
 #   - CVE-2014-3482
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ruby-activerecord-3.2=3.2.6-5+deb7u1 -y
+sudo apt-get install --only-upgrade ruby-activerecord-3.2=3.2.6-5+deb7u2 -y

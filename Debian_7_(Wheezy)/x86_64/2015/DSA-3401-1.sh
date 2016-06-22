@@ -4,7 +4,7 @@
 # Security fix for DSA-3401-1
 #
 # Security announcement date: 2015-11-22 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:48 UTC
+# Script generation date:     2016-06-22 12:17:33 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - openjdk-7:7u91-2.6.3-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - openjdk-7:7u91-2.6.3-1~deb7u1
+#   - openjdk-7:7u101-2.6.6-2~deb7u1
 #
 # CVE List:
 #   - CVE-2015-4871
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openjdk-7=7u91-2.6.3-1~deb7u1 -y
+sudo apt-get install --only-upgrade openjdk-7=7u101-2.6.6-2~deb7u1 -y

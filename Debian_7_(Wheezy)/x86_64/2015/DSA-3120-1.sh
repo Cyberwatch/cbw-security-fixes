@@ -4,7 +4,7 @@
 # Security fix for DSA-3120-1
 #
 # Security announcement date: 2015-01-06 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:11 UTC
+# Script generation date:     2016-06-22 12:16:54 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - mantis:1.2.18-1
 #
 # Last versions recommanded by security team:
-#   - mantis:1.2.18-1
+#   - mantis:1.2.18-1+deb7u1
 #
 # CVE List:
 #   - CVE-2014-6316
@@ -42,4 +42,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mantis=1.2.18-1 -y
+sudo apt-get install --only-upgrade mantis=1.2.18-1+deb7u1 -y

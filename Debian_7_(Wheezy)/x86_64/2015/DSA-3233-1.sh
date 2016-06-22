@@ -4,7 +4,7 @@
 # Security fix for DSA-3233-1
 #
 # Security announcement date: 2015-04-24 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:23 UTC
+# Script generation date:     2016-06-22 12:17:08 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - wpa:1.0-3+deb7u2
 #
 # Last versions recommanded by security team:
-#   - wpa:1.0-3+deb7u2
+#   - wpa:1.0-3+deb7u4
 #
 # CVE List:
 #   - CVE-2015-1863
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wpa=1.0-3+deb7u2 -y
+sudo apt-get install --only-upgrade wpa=1.0-3+deb7u4 -y

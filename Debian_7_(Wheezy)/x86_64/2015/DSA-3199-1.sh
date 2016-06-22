@@ -4,7 +4,7 @@
 # Security fix for DSA-3199-1
 #
 # Security announcement date: 2015-03-20 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:19 UTC
+# Script generation date:     2016-06-22 12:17:04 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - xerces-c:3.1.1-3+deb7u1
 #
 # Last versions recommanded by security team:
-#   - xerces-c:3.1.1-3+deb7u1
+#   - xerces-c:3.1.1-3+deb7u3
 #
 # CVE List:
 #   - CVE-2015-0252
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade xerces-c=3.1.1-3+deb7u1 -y
+sudo apt-get install --only-upgrade xerces-c=3.1.1-3+deb7u3 -y
