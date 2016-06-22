@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:0391
 #
 # Security announcement date: 2011-04-28 14:15:01 UTC
-# Script generation date:     2016-05-12 18:07:27 UTC
+# Script generation date:     2016-06-22 16:26:15 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64

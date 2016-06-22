@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:0857
 #
 # Security announcement date: 2011-06-13 14:03:30 UTC
-# Script generation date:     2016-05-12 18:07:29 UTC
+# Script generation date:     2016-06-22 16:26:19 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
