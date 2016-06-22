@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0481
 #
 # Security announcement date: 2012-04-18 03:24:46 UTC
-# Script generation date:     2016-05-17 06:11:16 UTC
+# Script generation date:     2016-06-22 16:33:53 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64

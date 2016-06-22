@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0509
 #
 # Security announcement date: 2012-04-24 14:27:48 UTC
-# Script generation date:     2016-05-12 18:07:40 UTC
+# Script generation date:     2016-06-22 16:33:55 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64

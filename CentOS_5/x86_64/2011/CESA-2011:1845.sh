@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:1845
 #
 # Security announcement date: 2011-12-20 19:18:57 UTC
-# Script generation date:     2016-06-22 16:26:48 UTC
+# Script generation date:     2016-06-22 16:33:31 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64

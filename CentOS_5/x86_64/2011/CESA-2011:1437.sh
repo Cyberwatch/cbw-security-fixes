@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:1437
 #
 # Security announcement date: 2011-11-09 21:06:53 UTC
-# Script generation date:     2016-06-22 16:26:43 UTC
+# Script generation date:     2016-06-22 16:33:27 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64

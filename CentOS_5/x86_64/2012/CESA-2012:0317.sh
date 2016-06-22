@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0317
 #
 # Security announcement date: 2012-02-20 21:59:45 UTC
-# Script generation date:     2016-06-22 16:27:00 UTC
+# Script generation date:     2016-06-22 16:33:45 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64

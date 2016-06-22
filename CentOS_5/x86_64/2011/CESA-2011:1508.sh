@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:1508
 #
 # Security announcement date: 2011-12-01 17:48:28 UTC
-# Script generation date:     2016-06-22 16:26:47 UTC
+# Script generation date:     2016-06-22 16:33:30 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
