@@ -4,7 +4,7 @@
 # Security fix for USN-3002-1
 #
 # Security announcement date: 2016-06-10 00:00:00 UTC
-# Script generation date:     2016-06-22 12:13:32 UTC
+# Script generation date:     2016-06-22 16:53:56 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686

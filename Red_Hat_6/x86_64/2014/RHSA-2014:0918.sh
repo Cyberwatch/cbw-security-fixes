@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:0918
 #
 # Security announcement date: 2014-07-22 19:27:07 UTC
-# Script generation date:     2016-05-12 18:12:08 UTC
+# Script generation date:     2016-06-22 16:53:56 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64

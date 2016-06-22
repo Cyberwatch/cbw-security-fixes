@@ -4,7 +4,7 @@
 # Security fix for USN-3010-1
 #
 # Security announcement date: 2016-06-20 00:00:00 UTC
-# Script generation date:     2016-06-22 12:13:32 UTC
+# Script generation date:     2016-06-22 16:53:56 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64

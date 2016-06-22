@@ -4,7 +4,7 @@
 # Security fix for USN-3006-1
 #
 # Security announcement date: 2016-06-10 00:00:00 UTC
-# Script generation date:     2016-06-22 12:13:31 UTC
+# Script generation date:     2016-06-22 16:53:55 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: i386
