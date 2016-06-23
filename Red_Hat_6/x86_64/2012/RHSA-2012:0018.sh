@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:0018
 #
 # Security announcement date: 2012-01-11 18:05:35 UTC
-# Script generation date:     2016-05-12 18:10:36 UTC
+# Script generation date:     2016-06-23 21:23:13 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - libxml2-devel.i686:2.7.6-4.el6_2.1
 #
 # Last versions recommanded by security team:
-#   - libxml2.x86_64:2.7.6-20.el6_7.1
-#   - libxml2-debuginfo.x86_64:2.7.6-20.el6_7.1
-#   - libxml2-python.x86_64:2.7.6-20.el6_7.1
-#   - libxml2-devel.x86_64:2.7.6-20.el6_7.1
-#   - libxml2-static.x86_64:2.7.6-20.el6_7.1
-#   - libxml2.i686:2.7.6-20.el6_7.1
-#   - libxml2-debuginfo.i686:2.7.6-20.el6_7.1
-#   - libxml2-devel.i686:2.7.6-20.el6_7.1
+#   - libxml2.x86_64:2.7.6-21.el6_8.1
+#   - libxml2-debuginfo.x86_64:2.7.6-21.el6_8.1
+#   - libxml2-python.x86_64:2.7.6-21.el6_8.1
+#   - libxml2-devel.x86_64:2.7.6-21.el6_8.1
+#   - libxml2-static.x86_64:2.7.6-21.el6_8.1
+#   - libxml2.i686:2.7.6-21.el6_8.1
+#   - libxml2-debuginfo.i686:2.7.6-21.el6_8.1
+#   - libxml2-devel.i686:2.7.6-21.el6_8.1
 #
 # CVE List:
 #   - CVE-2011-3905

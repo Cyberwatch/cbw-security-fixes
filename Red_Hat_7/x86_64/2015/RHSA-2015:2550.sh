@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:2550
 #
 # Security announcement date: 2015-12-07 14:07:56 UTC
-# Script generation date:     2016-05-12 18:13:31 UTC
+# Script generation date:     2016-06-23 21:34:34 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -21,15 +21,15 @@
 #   - libxml2-static.i686:2.9.1-6.el7_2.2
 #
 # Last versions recommanded by security team:
-#   - libxml2.x86_64:2.9.1-6.el7_2.2
-#   - libxml2-debuginfo.x86_64:2.9.1-6.el7_2.2
-#   - libxml2-python.x86_64:2.9.1-6.el7_2.2
-#   - libxml2-devel.x86_64:2.9.1-6.el7_2.2
-#   - libxml2-static.x86_64:2.9.1-6.el7_2.2
-#   - libxml2.i686:2.9.1-6.el7_2.2
-#   - libxml2-debuginfo.i686:2.9.1-6.el7_2.2
-#   - libxml2-devel.i686:2.9.1-6.el7_2.2
-#   - libxml2-static.i686:2.9.1-6.el7_2.2
+#   - libxml2.x86_64:2.9.1-6.el7_2.3
+#   - libxml2-debuginfo.x86_64:2.9.1-6.el7_2.3
+#   - libxml2-python.x86_64:2.9.1-6.el7_2.3
+#   - libxml2-devel.x86_64:2.9.1-6.el7_2.3
+#   - libxml2-static.x86_64:2.9.1-6.el7_2.3
+#   - libxml2.i686:2.9.1-6.el7_2.3
+#   - libxml2-debuginfo.i686:2.9.1-6.el7_2.3
+#   - libxml2-devel.i686:2.9.1-6.el7_2.3
+#   - libxml2-static.i686:2.9.1-6.el7_2.3
 #
 # CVE List:
 #   - CVE-2015-1819
