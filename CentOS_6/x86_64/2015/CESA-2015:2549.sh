@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:2549
 #
 # Security announcement date: 2015-12-07 13:26:33 UTC
-# Script generation date:     2016-05-12 18:08:50 UTC
+# Script generation date:     2016-06-24 21:21:44 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - libxml2-devel.i686:2.7.6-20.el6_7.1
 #
 # Last versions recommanded by security team:
-#   - libxml2.x86_64:2.7.6-20.el6_7.1
-#   - libxml2-devel.x86_64:2.7.6-20.el6_7.1
-#   - libxml2-python.x86_64:2.7.6-20.el6_7.1
-#   - libxml2-static.x86_64:2.7.6-20.el6_7.1
-#   - libxml2.i686:2.7.6-20.el6_7.1
-#   - libxml2-devel.i686:2.7.6-20.el6_7.1
+#   - libxml2.x86_64:2.7.6-21.el6_8.1
+#   - libxml2-devel.x86_64:2.7.6-21.el6_8.1
+#   - libxml2-python.x86_64:2.7.6-21.el6_8.1
+#   - libxml2-static.x86_64:2.7.6-21.el6_8.1
+#   - libxml2.i686:2.7.6-21.el6_8.1
+#   - libxml2-devel.i686:2.7.6-21.el6_8.1
 #
 # CVE List:
 #   - CVE-2015-7941
