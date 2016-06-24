@@ -1,27 +1,24 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-472-1
+# Security fix for DLA-523-1
 #
-# Security announcement date: 2016-05-14 00:00:00 UTC
-# Script generation date:     2016-06-24 21:12:38 UTC
+# Security announcement date: 2016-06-22 00:00:00 UTC
+# Script generation date:     2016-06-24 21:12:42 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
-#   - icedove:38.8.0-1~deb7u1
+#   - enigmail:1.8.2-4~deb7u2
 #
 # Last versions recommanded by security team:
-#   - icedove:1:45.1.0-1~deb7u1
+#   - enigmail:2:1.8.2-4~deb7u2
 #
 # CVE List:
-#   - CVE-2016-1979
-#   - CVE-2016-2805
-#   - CVE-2016-2807
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedove=1:45.1.0-1~deb7u1 -y
+sudo apt-get install --only-upgrade enigmail=2:1.8.2-4~deb7u2 -y
