@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1565
 #
 # Security announcement date: 2015-08-06 02:48:35 UTC
-# Script generation date:     2016-05-12 18:13:10 UTC
+# Script generation date:     2016-06-24 21:40:20 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -23,17 +23,17 @@
 #   - kernel-rt-trace-devel.x86_64:3.10.0-229.11.1.rt56.141.11.el7_1
 #
 # Last versions recommanded by security team:
-#   - kernel-rt-doc.noarch:3.10.0-327.18.2.rt56.223.el7_2
-#   - kernel-rt.x86_64:3.10.0-327.18.2.rt56.223.el7_2
-#   - kernel-rt-debug.x86_64:3.10.0-327.18.2.rt56.223.el7_2
-#   - kernel-rt-debug-debuginfo.x86_64:3.10.0-327.18.2.rt56.223.el7_2
-#   - kernel-rt-debug-devel.x86_64:3.10.0-327.18.2.rt56.223.el7_2
-#   - kernel-rt-debuginfo.x86_64:3.10.0-327.18.2.rt56.223.el7_2
-#   - kernel-rt-debuginfo-common-x86_64.x86_64:3.10.0-327.18.2.rt56.223.el7_2
-#   - kernel-rt-devel.x86_64:3.10.0-327.18.2.rt56.223.el7_2
-#   - kernel-rt-trace.x86_64:3.10.0-327.18.2.rt56.223.el7_2
-#   - kernel-rt-trace-debuginfo.x86_64:3.10.0-327.18.2.rt56.223.el7_2
-#   - kernel-rt-trace-devel.x86_64:3.10.0-327.18.2.rt56.223.el7_2
+#   - kernel-rt-doc.noarch:3.10.0-327.22.2.rt56.230.el7_2
+#   - kernel-rt.x86_64:3.10.0-327.22.2.rt56.230.el7_2
+#   - kernel-rt-debug.x86_64:3.10.0-327.22.2.rt56.230.el7_2
+#   - kernel-rt-debug-debuginfo.x86_64:3.10.0-327.22.2.rt56.230.el7_2
+#   - kernel-rt-debug-devel.x86_64:3.10.0-327.22.2.rt56.230.el7_2
+#   - kernel-rt-debuginfo.x86_64:3.10.0-327.22.2.rt56.230.el7_2
+#   - kernel-rt-debuginfo-common-x86_64.x86_64:3.10.0-327.22.2.rt56.230.el7_2
+#   - kernel-rt-devel.x86_64:3.10.0-327.22.2.rt56.230.el7_2
+#   - kernel-rt-trace.x86_64:3.10.0-327.22.2.rt56.230.el7_2
+#   - kernel-rt-trace-debuginfo.x86_64:3.10.0-327.22.2.rt56.230.el7_2
+#   - kernel-rt-trace-devel.x86_64:3.10.0-327.22.2.rt56.230.el7_2
 #
 # CVE List:
 #   - CVE-2014-9715
