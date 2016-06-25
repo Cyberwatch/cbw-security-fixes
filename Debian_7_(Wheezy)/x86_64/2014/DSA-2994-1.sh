@@ -4,7 +4,7 @@
 # Security fix for DSA-2994-1
 #
 # Security announcement date: 2014-07-31 00:00:00 UTC
-# Script generation date:     2016-06-22 12:16:44 UTC
+# Script generation date:     2016-06-25 21:07:01 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - nss:2:3.14.5-1+deb7u1
 #
 # Last versions recommanded by security team:
-#   - nss:2:3.14.5-1+deb7u7
+#   - nss:2:3.14.5-1+deb7u8
 #
 # CVE List:
 #   - CVE-2013-1741
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade nss=2:3.14.5-1+deb7u7 -y
+sudo apt-get install --only-upgrade nss=2:3.14.5-1+deb7u8 -y
