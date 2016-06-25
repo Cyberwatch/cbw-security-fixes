@@ -4,7 +4,7 @@
 # Security fix for DLA-480-1
 #
 # Security announcement date: 2016-05-18 00:00:00 UTC
-# Script generation date:     2016-06-22 12:20:34 UTC
+# Script generation date:     2016-06-25 21:10:58 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - nss:3.14.5-1+deb7u6
 #
 # Last versions recommanded by security team:
-#   - nss:2:3.14.5-1+deb7u7
+#   - nss:2:3.14.5-1+deb7u8
 #
 # CVE List:
 #   - CVE-2015-7181
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade nss=2:3.14.5-1+deb7u7 -y
+sudo apt-get install --only-upgrade nss=2:3.14.5-1+deb7u8 -y
