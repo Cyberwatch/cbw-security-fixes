@@ -4,7 +4,7 @@
 # Security fix for USN-2803-1
 #
 # Security announcement date: 2015-11-09 00:00:00 UTC
-# Script generation date:     2016-06-10 06:03:17 UTC
+# Script generation date:     2016-06-27 21:06:16 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -25,11 +25,11 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-4.2.0-18-lowlatency:4.2.0-18.22
-#   - linux-source-4.2.0:4.2.0-38.45
-#   - linux-doc:4.2.0-38.45
-#   - linux-libc-dev:4.2.0-38.45
-#   - linux-tools-common:4.2.0-38.45
-#   - linux-cloud-tools-common:4.2.0-38.45
+#   - linux-source-4.2.0:4.2.0-41.48
+#   - linux-doc:4.2.0-41.48
+#   - linux-libc-dev:4.2.0-41.48
+#   - linux-tools-common:4.2.0-41.48
+#   - linux-cloud-tools-common:4.2.0-41.48
 #   - linux-image-4.2.0-18-generic-lpae:4.2.0-18.22
 #   - linux-image-4.2.0-18-powerpc64-emb:4.2.0-18.22
 #   - linux-image-4.2.0-18-generic:4.2.0-18.22
@@ -45,11 +45,11 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-4.2.0-18-lowlatency=4.2.0-18.22 -y
-sudo apt-get install --only-upgrade linux-source-4.2.0=4.2.0-38.45 -y
-sudo apt-get install --only-upgrade linux-doc=4.2.0-38.45 -y
-sudo apt-get install --only-upgrade linux-libc-dev=4.2.0-38.45 -y
-sudo apt-get install --only-upgrade linux-tools-common=4.2.0-38.45 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=4.2.0-38.45 -y
+sudo apt-get install --only-upgrade linux-source-4.2.0=4.2.0-41.48 -y
+sudo apt-get install --only-upgrade linux-doc=4.2.0-41.48 -y
+sudo apt-get install --only-upgrade linux-libc-dev=4.2.0-41.48 -y
+sudo apt-get install --only-upgrade linux-tools-common=4.2.0-41.48 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=4.2.0-41.48 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-18-generic-lpae=4.2.0-18.22 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-18-powerpc64-emb=4.2.0-18.22 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-18-generic=4.2.0-18.22 -y

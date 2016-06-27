@@ -4,7 +4,7 @@
 # Security fix for USN-2858-1
 #
 # Security announcement date: 2016-01-05 00:00:00 UTC
-# Script generation date:     2016-06-20 12:35:01 UTC
+# Script generation date:     2016-06-27 21:06:42 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -26,11 +26,11 @@
 # Last versions recommanded by security team:
 #   - linux-image-4.2.0-23-powerpc64-emb:4.2.0-23.28
 #   - linux-image-4.2.0-23-lowlatency:4.2.0-23.28
-#   - linux-source-4.2.0:4.2.0-38.45
-#   - linux-doc:4.2.0-38.45
-#   - linux-libc-dev:4.2.0-38.45
-#   - linux-tools-common:4.2.0-38.45
-#   - linux-cloud-tools-common:4.2.0-38.45
+#   - linux-source-4.2.0:4.2.0-41.48
+#   - linux-doc:4.2.0-41.48
+#   - linux-libc-dev:4.2.0-41.48
+#   - linux-tools-common:4.2.0-41.48
+#   - linux-cloud-tools-common:4.2.0-41.48
 #   - linux-image-4.2.0-23-powerpc64-smp:4.2.0-23.28
 #   - linux-image-4.2.0-23-generic:4.2.0-23.28
 #   - linux-image-4.2.0-23-powerpc-smp:4.2.0-23.28
@@ -46,11 +46,11 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-4.2.0-23-powerpc64-emb=4.2.0-23.28 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-23-lowlatency=4.2.0-23.28 -y
-sudo apt-get install --only-upgrade linux-source-4.2.0=4.2.0-38.45 -y
-sudo apt-get install --only-upgrade linux-doc=4.2.0-38.45 -y
-sudo apt-get install --only-upgrade linux-libc-dev=4.2.0-38.45 -y
-sudo apt-get install --only-upgrade linux-tools-common=4.2.0-38.45 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=4.2.0-38.45 -y
+sudo apt-get install --only-upgrade linux-source-4.2.0=4.2.0-41.48 -y
+sudo apt-get install --only-upgrade linux-doc=4.2.0-41.48 -y
+sudo apt-get install --only-upgrade linux-libc-dev=4.2.0-41.48 -y
+sudo apt-get install --only-upgrade linux-tools-common=4.2.0-41.48 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=4.2.0-41.48 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-23-powerpc64-smp=4.2.0-23.28 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-23-generic=4.2.0-23.28 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-23-powerpc-smp=4.2.0-23.28 -y

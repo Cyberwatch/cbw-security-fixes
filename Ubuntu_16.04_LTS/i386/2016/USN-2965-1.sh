@@ -4,7 +4,7 @@
 # Security fix for USN-2965-1
 #
 # Security announcement date: 2016-05-06 00:00:00 UTC
-# Script generation date:     2016-06-10 06:04:13 UTC
+# Script generation date:     2016-06-27 21:08:10 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: i386
@@ -38,13 +38,13 @@
 #   - linux-image-4.4.0-22-powerpc64-smp:4.4.0-22.39
 #   - linux-image-4.4.0-22-generic-lpae:4.4.0-22.39
 #   - linux-image-4.4.0-22-lowlatency:4.4.0-22.40
-#   - linux-source-4.4.0:4.4.0-24.43
-#   - linux-doc:4.4.0-24.43
+#   - linux-source-4.4.0:4.4.0-28.47
+#   - linux-doc:4.4.0-28.47
 #   - linux-headers-4.4.0-22:4.4.0-22.40
-#   - linux-libc-dev:4.4.0-24.43
-#   - linux-tools-common:4.4.0-24.43
+#   - linux-libc-dev:4.4.0-28.47
+#   - linux-tools-common:4.4.0-28.47
 #   - linux-tools-4.4.0-22:4.4.0-22.40
-#   - linux-cloud-tools-common:4.4.0-24.43
+#   - linux-cloud-tools-common:4.4.0-28.47
 #   - linux-cloud-tools-4.4.0-22:4.4.0-22.40
 #   - linux-image-4.4.0-22-generic:4.4.0-22.40
 #   - linux-image-extra-4.4.0-22-generic:4.4.0-22.40
@@ -82,13 +82,13 @@ sudo apt-get install --only-upgrade linux-image-4.4.0-22-powerpc-e500mc=4.4.0-22
 sudo apt-get install --only-upgrade linux-image-4.4.0-22-powerpc64-smp=4.4.0-22.39 -y
 sudo apt-get install --only-upgrade linux-image-4.4.0-22-generic-lpae=4.4.0-22.39 -y
 sudo apt-get install --only-upgrade linux-image-4.4.0-22-lowlatency=4.4.0-22.40 -y
-sudo apt-get install --only-upgrade linux-source-4.4.0=4.4.0-24.43 -y
-sudo apt-get install --only-upgrade linux-doc=4.4.0-24.43 -y
+sudo apt-get install --only-upgrade linux-source-4.4.0=4.4.0-28.47 -y
+sudo apt-get install --only-upgrade linux-doc=4.4.0-28.47 -y
 sudo apt-get install --only-upgrade linux-headers-4.4.0-22=4.4.0-22.40 -y
-sudo apt-get install --only-upgrade linux-libc-dev=4.4.0-24.43 -y
-sudo apt-get install --only-upgrade linux-tools-common=4.4.0-24.43 -y
+sudo apt-get install --only-upgrade linux-libc-dev=4.4.0-28.47 -y
+sudo apt-get install --only-upgrade linux-tools-common=4.4.0-28.47 -y
 sudo apt-get install --only-upgrade linux-tools-4.4.0-22=4.4.0-22.40 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=4.4.0-24.43 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=4.4.0-28.47 -y
 sudo apt-get install --only-upgrade linux-cloud-tools-4.4.0-22=4.4.0-22.40 -y
 sudo apt-get install --only-upgrade linux-image-4.4.0-22-generic=4.4.0-22.40 -y
 sudo apt-get install --only-upgrade linux-image-extra-4.4.0-22-generic=4.4.0-22.40 -y
