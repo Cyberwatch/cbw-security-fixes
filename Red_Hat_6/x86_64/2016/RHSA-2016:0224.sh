@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0224
 #
 # Security announcement date: 2016-02-16 15:58:01 UTC
-# Script generation date:     2016-05-12 18:13:41 UTC
+# Script generation date:     2016-06-27 21:49:01 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -25,19 +25,19 @@
 #   - kernel-rt-vanilla-devel.x86_64:3.10.0-327.rt56.171.el6rt
 #
 # Last versions recommanded by security team:
-#   - kernel-rt.x86_64:3.10.0-327.rt56.183.el6rt
-#   - kernel-rt-debug.x86_64:3.10.0-327.rt56.183.el6rt
-#   - kernel-rt-debug-debuginfo.x86_64:3.10.0-327.rt56.183.el6rt
-#   - kernel-rt-debug-devel.x86_64:3.10.0-327.rt56.183.el6rt
-#   - kernel-rt-debuginfo.x86_64:3.10.0-327.rt56.183.el6rt
-#   - kernel-rt-debuginfo-common-x86_64.x86_64:3.10.0-327.rt56.183.el6rt
-#   - kernel-rt-devel.x86_64:3.10.0-327.rt56.183.el6rt
-#   - kernel-rt-trace.x86_64:3.10.0-327.rt56.183.el6rt
-#   - kernel-rt-trace-debuginfo.x86_64:3.10.0-327.rt56.183.el6rt
-#   - kernel-rt-trace-devel.x86_64:3.10.0-327.rt56.183.el6rt
-#   - kernel-rt-vanilla.x86_64:3.10.0-327.rt56.183.el6rt
-#   - kernel-rt-vanilla-debuginfo.x86_64:3.10.0-327.rt56.183.el6rt
-#   - kernel-rt-vanilla-devel.x86_64:3.10.0-327.rt56.183.el6rt
+#   - kernel-rt.x86_64:3.10.0-327.rt56.190.el6rt
+#   - kernel-rt-debug.x86_64:3.10.0-327.rt56.190.el6rt
+#   - kernel-rt-debug-debuginfo.x86_64:3.10.0-327.rt56.190.el6rt
+#   - kernel-rt-debug-devel.x86_64:3.10.0-327.rt56.190.el6rt
+#   - kernel-rt-debuginfo.x86_64:3.10.0-327.rt56.190.el6rt
+#   - kernel-rt-debuginfo-common-x86_64.x86_64:3.10.0-327.rt56.190.el6rt
+#   - kernel-rt-devel.x86_64:3.10.0-327.rt56.190.el6rt
+#   - kernel-rt-trace.x86_64:3.10.0-327.rt56.190.el6rt
+#   - kernel-rt-trace-debuginfo.x86_64:3.10.0-327.rt56.190.el6rt
+#   - kernel-rt-trace-devel.x86_64:3.10.0-327.rt56.190.el6rt
+#   - kernel-rt-vanilla.x86_64:3.10.0-327.rt56.190.el6rt
+#   - kernel-rt-vanilla-debuginfo.x86_64:3.10.0-327.rt56.190.el6rt
+#   - kernel-rt-vanilla-devel.x86_64:3.10.0-327.rt56.190.el6rt
 #
 # CVE List:
 #   - CVE-2015-5157
