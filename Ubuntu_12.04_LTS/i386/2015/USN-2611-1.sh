@@ -4,7 +4,7 @@
 # Security fix for USN-2611-1
 #
 # Security announcement date: 2015-05-20 00:00:00 UTC
-# Script generation date:     2016-06-20 13:49:47 UTC
+# Script generation date:     2016-06-28 21:04:42 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -28,7 +28,7 @@
 #   - linux-source-3.2.0:3.2.0-104.145
 #   - linux-doc:3.2.0-104.145
 #   - linux-tools-common:3.2.0-104.145
-#   - linux-libc-dev:3.2.0-104.145
+#   - linux-libc-dev:3.2.0-105.146
 #   - linux-image-3.2.0-84-powerpc-smp:3.2.0-84.121
 #   - linux-image-3.2.0-84-powerpc64-smp:3.2.0-84.121
 #   - linux-image-3.2.0-84-virtual:3.2.0-84.121
@@ -47,7 +47,7 @@ sudo apt-get install --only-upgrade linux-image-3.2.0-84-generic=3.2.0-84.121 -y
 sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-104.145 -y
 sudo apt-get install --only-upgrade linux-doc=3.2.0-104.145 -y
 sudo apt-get install --only-upgrade linux-tools-common=3.2.0-104.145 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-104.145 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-105.146 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-84-powerpc-smp=3.2.0-84.121 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-84-powerpc64-smp=3.2.0-84.121 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-84-virtual=3.2.0-84.121 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2823-1
 #
 # Security announcement date: 2015-12-01 00:00:00 UTC
-# Script generation date:     2016-06-20 14:24:04 UTC
+# Script generation date:     2016-06-28 21:06:32 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -28,11 +28,11 @@
 #   - linux-image-3.13.0-71-powerpc64-emb:3.13.0-71.114
 #   - linux-image-3.13.0-71-powerpc-e500:3.13.0-71.114
 #   - linux-image-3.13.0-71-generic:3.13.0-71.114
-#   - linux-source-3.13.0:3.13.0-88.135
-#   - linux-doc:3.13.0-88.135
-#   - linux-libc-dev:3.13.0-88.135
-#   - linux-tools-common:3.13.0-88.135
-#   - linux-cloud-tools-common:3.13.0-88.135
+#   - linux-source-3.13.0:3.13.0-91.138
+#   - linux-doc:3.13.0-91.138
+#   - linux-libc-dev:3.13.0-91.138
+#   - linux-tools-common:3.13.0-91.138
+#   - linux-cloud-tools-common:3.13.0-91.138
 #   - linux-image-3.13.0-71-lowlatency:3.13.0-71.114
 #   - linux-image-3.13.0-71-powerpc64-smp:3.13.0-71.114
 #   - linux-image-3.13.0-71-powerpc-smp:3.13.0-71.114
@@ -50,11 +50,11 @@
 sudo apt-get install --only-upgrade linux-image-3.13.0-71-powerpc64-emb=3.13.0-71.114 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-71-powerpc-e500=3.13.0-71.114 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-71-generic=3.13.0-71.114 -y
-sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-88.135 -y
-sudo apt-get install --only-upgrade linux-doc=3.13.0-88.135 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-88.135 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.13.0-88.135 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-88.135 -y
+sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-91.138 -y
+sudo apt-get install --only-upgrade linux-doc=3.13.0-91.138 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-91.138 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.13.0-91.138 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-91.138 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-71-lowlatency=3.13.0-71.114 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-71-powerpc64-smp=3.13.0-71.114 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-71-powerpc-smp=3.13.0-71.114 -y

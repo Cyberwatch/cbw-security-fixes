@@ -4,7 +4,7 @@
 # Security fix for USN-2318-1
 #
 # Security announcement date: 2014-08-18 00:00:00 UTC
-# Script generation date:     2016-06-20 13:26:58 UTC
+# Script generation date:     2016-06-28 21:02:28 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -25,10 +25,10 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.13.0-34-generic:3.13.0-34.60
-#   - linux-source-3.13.0:3.13.0-88.135
-#   - linux-doc:3.13.0-88.135
-#   - linux-tools-common:3.13.0-88.135
-#   - linux-cloud-tools-common:3.13.0-88.135
+#   - linux-source-3.13.0:3.13.0-91.138
+#   - linux-doc:3.13.0-91.138
+#   - linux-tools-common:3.13.0-91.138
+#   - linux-cloud-tools-common:3.13.0-91.138
 #   - linux-image-3.13.0-34-lowlatency:3.13.0-34.60
 #   - linux-image-3.13.0-34-powerpc-e500:3.13.0-34.60
 #   - linux-image-3.13.0-34-powerpc64-smp:3.13.0-34.60
@@ -46,10 +46,10 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-34-generic=3.13.0-34.60 -y
-sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-88.135 -y
-sudo apt-get install --only-upgrade linux-doc=3.13.0-88.135 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.13.0-88.135 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-88.135 -y
+sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-91.138 -y
+sudo apt-get install --only-upgrade linux-doc=3.13.0-91.138 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.13.0-91.138 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-91.138 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-34-lowlatency=3.13.0-34.60 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-34-powerpc-e500=3.13.0-34.60 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-34-powerpc64-smp=3.13.0-34.60 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2907-1
 #
 # Security announcement date: 2016-02-22 00:00:00 UTC
-# Script generation date:     2016-06-20 21:41:35 UTC
+# Script generation date:     2016-06-28 21:07:35 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -26,11 +26,11 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.13.0-79-lowlatency:3.13.0-79.123
-#   - linux-source-3.13.0:3.13.0-88.135
-#   - linux-doc:3.13.0-88.135
-#   - linux-libc-dev:3.13.0-88.135
-#   - linux-tools-common:3.13.0-88.135
-#   - linux-cloud-tools-common:3.13.0-88.135
+#   - linux-source-3.13.0:3.13.0-91.138
+#   - linux-doc:3.13.0-91.138
+#   - linux-libc-dev:3.13.0-91.138
+#   - linux-tools-common:3.13.0-91.138
+#   - linux-cloud-tools-common:3.13.0-91.138
 #   - linux-image-3.13.0-79-powerpc-e500mc:3.13.0-79.123
 #   - linux-image-3.13.0-79-powerpc64-emb:3.13.0-79.123
 #   - linux-image-3.13.0-79-powerpc-e500:3.13.0-79.123
@@ -53,11 +53,11 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-79-lowlatency=3.13.0-79.123 -y
-sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-88.135 -y
-sudo apt-get install --only-upgrade linux-doc=3.13.0-88.135 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-88.135 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.13.0-88.135 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-88.135 -y
+sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-91.138 -y
+sudo apt-get install --only-upgrade linux-doc=3.13.0-91.138 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-91.138 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.13.0-91.138 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-91.138 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-79-powerpc-e500mc=3.13.0-79.123 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-79-powerpc64-emb=3.13.0-79.123 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-79-powerpc-e500=3.13.0-79.123 -y
