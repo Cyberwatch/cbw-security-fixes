@@ -4,7 +4,7 @@
 # Security fix for DSA-3361-1
 #
 # Security announcement date: 2015-09-18 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:42 UTC
+# Script generation date:     2016-07-01 21:09:16 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -18,12 +18,12 @@
 #   - qemu-utils:1.1.2+dfsg-6a+deb7u11
 #
 # Last versions recommanded by security team:
-#   - qemu:1.1.2+dfsg-6a+deb7u12
-#   - qemu-keymaps:1.1.2+dfsg-6a+deb7u12
-#   - qemu-system:1.1.2+dfsg-6a+deb7u12
-#   - qemu-user:1.1.2+dfsg-6a+deb7u12
-#   - qemu-user-static:1.1.2+dfsg-6a+deb7u12
-#   - qemu-utils:1.1.2+dfsg-6a+deb7u12
+#   - qemu:1.1.2+dfsg-6a+deb7u13
+#   - qemu-keymaps:1.1.2+dfsg-6a+deb7u13
+#   - qemu-system:1.1.2+dfsg-6a+deb7u13
+#   - qemu-user:1.1.2+dfsg-6a+deb7u13
+#   - qemu-user-static:1.1.2+dfsg-6a+deb7u13
+#   - qemu-utils:1.1.2+dfsg-6a+deb7u13
 #
 # CVE List:
 #   - CVE-2015-5278
@@ -35,9 +35,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu=1.1.2+dfsg-6a+deb7u12 -y
-sudo apt-get install --only-upgrade qemu-keymaps=1.1.2+dfsg-6a+deb7u12 -y
-sudo apt-get install --only-upgrade qemu-system=1.1.2+dfsg-6a+deb7u12 -y
-sudo apt-get install --only-upgrade qemu-user=1.1.2+dfsg-6a+deb7u12 -y
-sudo apt-get install --only-upgrade qemu-user-static=1.1.2+dfsg-6a+deb7u12 -y
-sudo apt-get install --only-upgrade qemu-utils=1.1.2+dfsg-6a+deb7u12 -y
+sudo apt-get install --only-upgrade qemu=1.1.2+dfsg-6a+deb7u13 -y
+sudo apt-get install --only-upgrade qemu-keymaps=1.1.2+dfsg-6a+deb7u13 -y
+sudo apt-get install --only-upgrade qemu-system=1.1.2+dfsg-6a+deb7u13 -y
+sudo apt-get install --only-upgrade qemu-user=1.1.2+dfsg-6a+deb7u13 -y
+sudo apt-get install --only-upgrade qemu-user-static=1.1.2+dfsg-6a+deb7u13 -y
+sudo apt-get install --only-upgrade qemu-utils=1.1.2+dfsg-6a+deb7u13 -y

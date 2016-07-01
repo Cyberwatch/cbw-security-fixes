@@ -4,7 +4,7 @@
 # Security fix for DSA-3210-1
 #
 # Security announcement date: 2015-03-31 00:00:00 UTC
-# Script generation date:     2016-06-30 21:10:38 UTC
+# Script generation date:     2016-07-01 21:08:53 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -25,7 +25,7 @@
 #   - libwiretap-dev:1.8.2-5wheezy15
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.12.1+g01b65bf-4+deb8u6~deb7u1
+#   - wireshark:1.12.1+g01b65bf-4+deb8u6~deb7u2
 #   - wireshark-common:1.12.1+g01b65bf-4+deb8u6~deb7u2
 #   - tshark:1.12.1+g01b65bf-4+deb8u6~deb7u2
 #   - wireshark-dev:1.12.1+g01b65bf-4+deb8u6~deb7u2
@@ -48,7 +48,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wireshark=1.12.1+g01b65bf-4+deb8u6~deb7u1 -y
+sudo apt-get install --only-upgrade wireshark=1.12.1+g01b65bf-4+deb8u6~deb7u2 -y
 sudo apt-get install --only-upgrade wireshark-common=1.12.1+g01b65bf-4+deb8u6~deb7u2 -y
 sudo apt-get install --only-upgrade tshark=1.12.1+g01b65bf-4+deb8u6~deb7u2 -y
 sudo apt-get install --only-upgrade wireshark-dev=1.12.1+g01b65bf-4+deb8u6~deb7u2 -y
