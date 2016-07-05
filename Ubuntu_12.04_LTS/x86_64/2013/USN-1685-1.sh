@@ -4,7 +4,7 @@
 # Security fix for USN-1685-1
 #
 # Security announcement date: 2013-01-14 00:00:00 UTC
-# Script generation date:     2016-06-20 21:31:53 UTC
+# Script generation date:     2016-07-05 21:00:42 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libtomcat6-java:6.0.35-1ubuntu3.2
 #
 # Last versions recommanded by security team:
-#   - libtomcat6-java:6.0.35-1ubuntu3.6
+#   - libtomcat6-java:6.0.35-1ubuntu3.7
 #
 # CVE List:
 #   - CVE-2012-3546
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libtomcat6-java=6.0.35-1ubuntu3.6 -y
+sudo apt-get install --only-upgrade libtomcat6-java=6.0.35-1ubuntu3.7 -y
