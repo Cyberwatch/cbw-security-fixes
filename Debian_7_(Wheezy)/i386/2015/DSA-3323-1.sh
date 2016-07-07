@@ -4,7 +4,7 @@
 # Security fix for DSA-3323-1
 #
 # Security announcement date: 2015-08-01 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:36 UTC
+# Script generation date:     2016-07-07 21:09:19 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - icu:4.8.1.1-12+deb7u3
 #
 # Last versions recommanded by security team:
-#   - icu:4.8.1.1-12+deb7u3
+#   - icu:4.8.1.1-12+deb7u4
 #
 # CVE List:
 #   - CVE-2014-8146
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icu=4.8.1.1-12+deb7u3 -y
+sudo apt-get install --only-upgrade icu=4.8.1.1-12+deb7u4 -y
