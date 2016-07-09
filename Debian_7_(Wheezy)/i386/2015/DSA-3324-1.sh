@@ -4,7 +4,7 @@
 # Security fix for DSA-3324-1
 #
 # Security announcement date: 2015-08-01 00:00:00 UTC
-# Script generation date:     2016-07-08 21:09:53 UTC
+# Script generation date:     2016-07-09 21:09:35 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -17,7 +17,7 @@
 #   - calendar-google-provider:31.8.0-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - icedove:45.1.0-1~deb7u1
+#   - icedove:1:45.1.0-1~deb7u1
 #   - icedove-dev:38.8.0-1~deb7u1.1
 #   - icedove-dbg:38.8.0-1~deb7u1.1
 #   - iceowl-extension:38.8.0-1~deb7u1.1
@@ -39,7 +39,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedove=45.1.0-1~deb7u1 -y
+sudo apt-get install --only-upgrade icedove=1:45.1.0-1~deb7u1 -y
 sudo apt-get install --only-upgrade icedove-dev=38.8.0-1~deb7u1.1 -y
 sudo apt-get install --only-upgrade icedove-dbg=38.8.0-1~deb7u1.1 -y
 sudo apt-get install --only-upgrade iceowl-extension=38.8.0-1~deb7u1.1 -y
