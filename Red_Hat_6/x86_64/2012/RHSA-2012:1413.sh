@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:1413
 #
 # Security announcement date: 2012-10-29 23:49:50 UTC
-# Script generation date:     2016-05-12 18:11:02 UTC
+# Script generation date:     2016-07-11 21:33:34 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - thunderbird-debuginfo.x86_64:10.0.10-1.el6_3
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:38.8.0-2.el6_8
-#   - thunderbird-debuginfo.x86_64:38.8.0-2.el6_8
+#   - thunderbird.x86_64:45.2-1.el6_8
+#   - thunderbird-debuginfo.x86_64:45.2-1.el6_8
 #
 # CVE List:
 #   - CVE-2012-4194
@@ -26,5 +26,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.x86_64-38.8.0 -y 
-sudo yum install thunderbird-debuginfo.x86_64-38.8.0 -y 
+sudo yum install thunderbird.x86_64-45.2 -y 
+sudo yum install thunderbird-debuginfo.x86_64-45.2 -y 

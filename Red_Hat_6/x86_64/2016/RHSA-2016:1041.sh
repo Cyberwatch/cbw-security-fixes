@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:1041
 #
 # Security announcement date: 2016-05-12 06:38:16 UTC
-# Script generation date:     2016-05-14 18:13:43 UTC
+# Script generation date:     2016-07-11 21:44:19 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - thunderbird-debuginfo.x86_64:38.8.0-2.el6_8
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:38.8.0-2.el6_8
-#   - thunderbird-debuginfo.x86_64:38.8.0-2.el6_8
+#   - thunderbird.x86_64:45.2-1.el6_8
+#   - thunderbird-debuginfo.x86_64:45.2-1.el6_8
 #
 # CVE List:
 #   - CVE-2016-2805
@@ -25,5 +25,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.x86_64-38.8.0 -y 
-sudo yum install thunderbird-debuginfo.x86_64-38.8.0 -y 
+sudo yum install thunderbird.x86_64-45.2 -y 
+sudo yum install thunderbird-debuginfo.x86_64-45.2 -y 
