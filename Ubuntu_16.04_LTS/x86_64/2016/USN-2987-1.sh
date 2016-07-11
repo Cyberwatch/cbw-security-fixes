@@ -4,7 +4,7 @@
 # Security fix for USN-2987-1
 #
 # Security announcement date: 2016-05-31 00:00:00 UTC
-# Script generation date:     2016-06-20 12:24:22 UTC
+# Script generation date:     2016-07-11 21:08:40 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - libgd-dbg:2.1.1-4ubuntu0.16.04.1
 #
 # Last versions recommanded by security team:
-#   - libgd3:2.1.1-4ubuntu0.16.04.1
-#   - libgd-dev:2.1.1-4ubuntu0.16.04.1
-#   - libgd-dbg:2.1.1-4ubuntu0.16.04.1
+#   - libgd3:2.1.1-4ubuntu0.16.04.2
+#   - libgd-dev:2.1.1-4ubuntu0.16.04.2
+#   - libgd-dbg:2.1.1-4ubuntu0.16.04.2
 #
 # CVE List:
 #   - CVE-2014-2497
@@ -30,6 +30,6 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgd3=2.1.1-4ubuntu0.16.04.1 -y
-sudo apt-get install --only-upgrade libgd-dev=2.1.1-4ubuntu0.16.04.1 -y
-sudo apt-get install --only-upgrade libgd-dbg=2.1.1-4ubuntu0.16.04.1 -y
+sudo apt-get install --only-upgrade libgd3=2.1.1-4ubuntu0.16.04.2 -y
+sudo apt-get install --only-upgrade libgd-dev=2.1.1-4ubuntu0.16.04.2 -y
+sudo apt-get install --only-upgrade libgd-dbg=2.1.1-4ubuntu0.16.04.2 -y

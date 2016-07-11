@@ -4,7 +4,7 @@
 # Security fix for USN-1763-2
 #
 # Security announcement date: 2013-03-14 00:00:00 UTC
-# Script generation date:     2016-06-20 21:32:03 UTC
+# Script generation date:     2016-07-11 21:01:29 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libnspr4:4.9.5-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - libnspr4:4.10.10-0ubuntu0.12.04.1
+#   - libnspr4:4.12-0ubuntu0.12.04.1
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libnspr4=4.10.10-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade libnspr4=4.12-0ubuntu0.12.04.1 -y
