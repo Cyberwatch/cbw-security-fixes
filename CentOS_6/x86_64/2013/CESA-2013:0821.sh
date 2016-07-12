@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0821
 #
 # Security announcement date: 2013-05-14 23:05:02 UTC
-# Script generation date:     2016-05-17 06:11:40 UTC
+# Script generation date:     2016-07-12 21:21:11 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - thunderbird.x86_64:17.0.6-2.el6.centos
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:38.8.0-2.el6.centos
+#   - thunderbird.x86_64:45.2-1.el6.centos
 #
 # CVE List:
 #   - CVE-2013-0801
@@ -31,4 +31,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.x86_64-38.8.0 -y 
+sudo yum install thunderbird.x86_64-45.2 -y 
