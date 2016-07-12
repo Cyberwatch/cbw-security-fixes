@@ -4,7 +4,7 @@
 # Security fix for USN-1746-1
 #
 # Security announcement date: 2013-02-25 00:00:00 UTC
-# Script generation date:     2016-06-20 21:31:58 UTC
+# Script generation date:     2016-07-12 21:00:50 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - libpurple0:1:2.10.3-0ubuntu1.3
 #
 # Last versions recommanded by security team:
-#   - pidgin:1:2.10.3-0ubuntu1.6
-#   - libpurple0:1:2.10.3-0ubuntu1.6
-#   - libpurple0:1:2.10.3-0ubuntu1.6
+#   - pidgin:1:2.10.3-0ubuntu1.7
+#   - libpurple0:1:2.10.3-0ubuntu1.7
+#   - libpurple0:1:2.10.3-0ubuntu1.7
 #
 # CVE List:
 #   - CVE-2013-0271
@@ -29,6 +29,6 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade pidgin=1:2.10.3-0ubuntu1.6 -y
-sudo apt-get install --only-upgrade libpurple0=1:2.10.3-0ubuntu1.6 -y
-sudo apt-get install --only-upgrade libpurple0=1:2.10.3-0ubuntu1.6 -y
+sudo apt-get install --only-upgrade pidgin=1:2.10.3-0ubuntu1.7 -y
+sudo apt-get install --only-upgrade libpurple0=1:2.10.3-0ubuntu1.7 -y
+sudo apt-get install --only-upgrade libpurple0=1:2.10.3-0ubuntu1.7 -y
