@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:1079
 #
 # Security announcement date: 2016-05-13 07:51:01 UTC
-# Script generation date:     2016-06-22 12:49:21 UTC
+# Script generation date:     2016-07-13 21:42:56 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - flash-plugin.i686:11.2.202.621-1.el6_8
 #
 # Last versions recommanded by security team:
-#   - flash-plugin.i686:11.2.202.626-1.el6_8
+#   - flash-plugin.i686:11.2.202.632-1.el6_8
 #
 # CVE List:
 #   - CVE-2016-1096
@@ -46,4 +46,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install flash-plugin.i686-11.2.202.626 -y 
+sudo yum install flash-plugin.i686-11.2.202.632 -y 

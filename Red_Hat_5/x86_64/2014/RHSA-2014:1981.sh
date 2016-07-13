@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1981
 #
 # Security announcement date: 2014-12-10 17:54:03 UTC
-# Script generation date:     2016-06-22 12:44:26 UTC
+# Script generation date:     2016-07-13 21:38:06 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - flash-plugin.i386:11.2.202.425-1.el5
 #
 # Last versions recommanded by security team:
-#   - flash-plugin.i386:11.2.202.626-1.el5_11
+#   - flash-plugin.i386:11.2.202.632-1.el5_11
 #
 # CVE List:
 #   - CVE-2014-0580
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install flash-plugin.i386-11.2.202.626 -y 
+sudo yum install flash-plugin.i386-11.2.202.632 -y 

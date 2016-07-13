@@ -4,7 +4,7 @@
 # Security fix for RHSA-2010:0867
 #
 # Security announcement date: 2010-11-10 19:40:16 UTC
-# Script generation date:     2016-06-22 12:33:54 UTC
+# Script generation date:     2016-07-13 21:27:28 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - flash-plugin.i686:10.1.102.64-1.el6
 #
 # Last versions recommanded by security team:
-#   - flash-plugin.i686:11.2.202.626-1.el6_8
+#   - flash-plugin.i686:11.2.202.632-1.el6_8
 #
 # CVE List:
 #   - CVE-2010-3636
@@ -36,4 +36,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install flash-plugin.i686-11.2.202.626 -y 
+sudo yum install flash-plugin.i686-11.2.202.632 -y 

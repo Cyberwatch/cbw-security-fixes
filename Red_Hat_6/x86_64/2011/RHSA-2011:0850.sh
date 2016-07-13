@@ -4,7 +4,7 @@
 # Security fix for RHSA-2011:0850
 #
 # Security announcement date: 2011-06-06 14:57:32 UTC
-# Script generation date:     2016-06-22 12:34:54 UTC
+# Script generation date:     2016-07-13 21:28:27 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - flash-plugin.i686:10.3.181.22-1.el6
 #
 # Last versions recommanded by security team:
-#   - flash-plugin.i686:11.2.202.626-1.el6_8
+#   - flash-plugin.i686:11.2.202.632-1.el6_8
 #
 # CVE List:
 #   - CVE-2011-2107
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install flash-plugin.i686-11.2.202.626 -y 
+sudo yum install flash-plugin.i686-11.2.202.632 -y 
