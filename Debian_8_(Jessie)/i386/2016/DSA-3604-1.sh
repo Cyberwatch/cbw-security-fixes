@@ -4,7 +4,7 @@
 # Security fix for DSA-3604-1
 #
 # Security announcement date: 2016-06-16 00:00:00 UTC
-# Script generation date:     2016-06-22 12:18:00 UTC
+# Script generation date:     2016-07-13 21:10:32 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -16,6 +16,7 @@
 #   - drupal7:7.32-1+deb8u7
 #
 # CVE List:
+#   - CVE-2016-6211
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
