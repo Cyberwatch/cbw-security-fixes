@@ -1,27 +1,26 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-546-1
+# Security fix for DLA-547-1
 #
-# Security announcement date: 2016-07-07 00:00:00 UTC
+# Security announcement date: 2016-07-11 00:00:00 UTC
 # Script generation date:     2016-07-13 21:13:20 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
-#   - clamav:0.99.2+dfsg-0+deb7u1
-#   - clamav:0.99.2+dfsg-0+deb7u2
+#   - graphicsmagick:1.3.16-1.1+deb7u3
 #
 # Last versions recommanded by security team:
-#   - clamav:0.99.2+dfsg-0+deb7u2
-#   - clamav:0.99.2+dfsg-0+deb7u2
+#   - graphicsmagick:1.3.16-1.1+deb7u3
 #
 # CVE List:
+#   - CVE-2016-5240
+#   - CVE-2016-5241
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade clamav=0.99.2+dfsg-0+deb7u2 -y
-sudo apt-get install --only-upgrade clamav=0.99.2+dfsg-0+deb7u2 -y
+sudo apt-get install --only-upgrade graphicsmagick=1.3.16-1.1+deb7u3 -y
