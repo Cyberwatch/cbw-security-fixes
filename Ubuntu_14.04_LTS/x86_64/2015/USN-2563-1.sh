@@ -4,7 +4,7 @@
 # Security fix for USN-2563-1
 #
 # Security announcement date: 2015-04-08 00:00:00 UTC
-# Script generation date:     2016-06-28 21:04:16 UTC
+# Script generation date:     2016-07-14 21:04:02 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -31,11 +31,11 @@
 #   - linux-image-3.13.0-49-powerpc64-smp:3.13.0-49.81
 #   - linux-image-3.13.0-49-powerpc64-emb:3.13.0-49.81
 #   - linux-image-3.13.0-49-lowlatency:3.13.0-49.83
-#   - linux-source-3.13.0:3.13.0-91.138
-#   - linux-doc:3.13.0-91.138
-#   - linux-libc-dev:3.13.0-91.138
-#   - linux-tools-common:3.13.0-91.138
-#   - linux-cloud-tools-common:3.13.0-91.138
+#   - linux-source-3.13.0:3.13.0-92.139
+#   - linux-doc:3.13.0-92.139
+#   - linux-libc-dev:3.13.0-92.139
+#   - linux-tools-common:3.13.0-92.139
+#   - linux-cloud-tools-common:3.13.0-92.139
 #   - linux-image-3.13.0-49-generic:3.13.0-49.83
 #   - linux-image-3.13.0-49-generic-lpae:3.13.0-49.81
 #
@@ -56,10 +56,10 @@ sudo apt-get install --only-upgrade linux-image-3.13.0-49-powerpc-smp=3.13.0-49.
 sudo apt-get install --only-upgrade linux-image-3.13.0-49-powerpc64-smp=3.13.0-49.81 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-49-powerpc64-emb=3.13.0-49.81 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-49-lowlatency=3.13.0-49.83 -y
-sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-91.138 -y
-sudo apt-get install --only-upgrade linux-doc=3.13.0-91.138 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-91.138 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.13.0-91.138 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-91.138 -y
+sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-92.139 -y
+sudo apt-get install --only-upgrade linux-doc=3.13.0-92.139 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-92.139 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.13.0-92.139 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-92.139 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-49-generic=3.13.0-49.83 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-49-generic-lpae=3.13.0-49.81 -y

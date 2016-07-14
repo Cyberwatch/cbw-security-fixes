@@ -4,7 +4,7 @@
 # Security fix for USN-1741-1
 #
 # Security announcement date: 2013-02-21 00:00:00 UTC
-# Script generation date:     2016-06-20 21:31:58 UTC
+# Script generation date:     2016-07-14 21:00:52 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -24,9 +24,9 @@
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-38-highbank:3.2.0-38.61
 #   - linux-image-3.2.0-38-generic-pae:3.2.0-38.61
-#   - linux-source-3.2.0:3.2.0-104.145
-#   - linux-doc:3.2.0-104.145
-#   - linux-tools-common:3.2.0-104.145
+#   - linux-source-3.2.0:3.2.0-106.147
+#   - linux-doc:3.2.0-106.147
+#   - linux-tools-common:3.2.0-106.147
 #   - linux-image-3.2.0-38-powerpc64-smp:3.2.0-38.61
 #   - linux-image-3.2.0-38-omap:3.2.0-38.61
 #   - linux-image-3.2.0-38-generic:3.2.0-38.61
@@ -42,9 +42,9 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-38-highbank=3.2.0-38.61 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-38-generic-pae=3.2.0-38.61 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-104.145 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-104.145 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-104.145 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-106.147 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-106.147 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-106.147 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-38-powerpc64-smp=3.2.0-38.61 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-38-omap=3.2.0-38.61 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-38-generic=3.2.0-38.61 -y

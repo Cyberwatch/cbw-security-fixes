@@ -4,7 +4,7 @@
 # Security fix for USN-2544-1
 #
 # Security announcement date: 2015-03-24 00:00:00 UTC
-# Script generation date:     2016-06-28 21:04:03 UTC
+# Script generation date:     2016-07-14 21:03:49 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -30,11 +30,11 @@
 #   - linux-image-3.13.0-48-generic-lpae:3.13.0-48.80
 #   - linux-image-3.13.0-48-powerpc-e500:3.13.0-48.80
 #   - linux-image-3.13.0-48-generic:3.13.0-48.80
-#   - linux-source-3.13.0:3.13.0-91.138
-#   - linux-doc:3.13.0-91.138
-#   - linux-libc-dev:3.13.0-91.138
-#   - linux-tools-common:3.13.0-91.138
-#   - linux-cloud-tools-common:3.13.0-91.138
+#   - linux-source-3.13.0:3.13.0-92.139
+#   - linux-doc:3.13.0-92.139
+#   - linux-libc-dev:3.13.0-92.139
+#   - linux-tools-common:3.13.0-92.139
+#   - linux-cloud-tools-common:3.13.0-92.139
 #   - linux-image-3.13.0-48-powerpc64-smp:3.13.0-48.80
 #   - linux-image-3.13.0-48-lowlatency:3.13.0-48.80
 #   - linux-image-3.13.0-48-powerpc64-emb:3.13.0-48.80
@@ -58,11 +58,11 @@ sudo apt-get install --only-upgrade linux-image-3.13.0-48-powerpc-e500mc=3.13.0-
 sudo apt-get install --only-upgrade linux-image-3.13.0-48-generic-lpae=3.13.0-48.80 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-48-powerpc-e500=3.13.0-48.80 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-48-generic=3.13.0-48.80 -y
-sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-91.138 -y
-sudo apt-get install --only-upgrade linux-doc=3.13.0-91.138 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-91.138 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.13.0-91.138 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-91.138 -y
+sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-92.139 -y
+sudo apt-get install --only-upgrade linux-doc=3.13.0-92.139 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-92.139 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.13.0-92.139 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-92.139 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-48-powerpc64-smp=3.13.0-48.80 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-48-lowlatency=3.13.0-48.80 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-48-powerpc64-emb=3.13.0-48.80 -y

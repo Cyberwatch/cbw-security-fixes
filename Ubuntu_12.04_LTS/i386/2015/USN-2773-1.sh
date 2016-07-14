@@ -4,7 +4,7 @@
 # Security fix for USN-2773-1
 #
 # Security announcement date: 2015-10-19 00:00:00 UTC
-# Script generation date:     2016-06-28 21:06:06 UTC
+# Script generation date:     2016-07-14 21:05:48 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -24,10 +24,10 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-92-virtual:3.2.0-92.131
-#   - linux-source-3.2.0:3.2.0-104.145
-#   - linux-doc:3.2.0-104.145
-#   - linux-tools-common:3.2.0-104.145
-#   - linux-libc-dev:3.2.0-105.146
+#   - linux-source-3.2.0:3.2.0-106.147
+#   - linux-doc:3.2.0-106.147
+#   - linux-tools-common:3.2.0-106.147
+#   - linux-libc-dev:3.2.0-106.147
 #   - linux-image-3.2.0-92-generic-pae:3.2.0-92.131
 #   - linux-image-3.2.0-92-powerpc-smp:3.2.0-92.130
 #   - linux-image-3.2.0-92-powerpc64-smp:3.2.0-92.130
@@ -44,10 +44,10 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-92-virtual=3.2.0-92.131 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-104.145 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-104.145 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-104.145 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-105.146 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-106.147 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-106.147 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-106.147 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-106.147 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-92-generic-pae=3.2.0-92.131 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-92-powerpc-smp=3.2.0-92.130 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-92-powerpc64-smp=3.2.0-92.130 -y
