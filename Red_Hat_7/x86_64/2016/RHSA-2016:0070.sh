@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0070
 #
 # Security announcement date: 2016-01-26 19:14:20 UTC
-# Script generation date:     2016-06-07 06:19:38 UTC
+# Script generation date:     2016-07-14 21:43:33 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -270,22 +270,22 @@
 #   - openvswitch-test.noarch:2.4.0-1.el7
 #   - origin-kibana.noarch:0.5.0-1.el7aos
 #   - python-openvswitch.noarch:2.4.0-1.el7
-#   - atomic-openshift.x86_64:3.1.1.6-8.git.64.80b61da.el7aos
-#   - atomic-openshift-clients.x86_64:3.1.1.6-8.git.64.80b61da.el7aos
-#   - atomic-openshift-clients-redistributable.x86_64:3.1.1.6-8.git.64.80b61da.el7aos
-#   - atomic-openshift-dockerregistry.x86_64:3.1.1.6-8.git.64.80b61da.el7aos
-#   - atomic-openshift-master.x86_64:3.1.1.6-8.git.64.80b61da.el7aos
-#   - atomic-openshift-node.x86_64:3.1.1.6-8.git.64.80b61da.el7aos
-#   - atomic-openshift-pod.x86_64:3.1.1.6-8.git.64.80b61da.el7aos
-#   - atomic-openshift-recycle.x86_64:3.1.1.6-8.git.64.80b61da.el7aos
-#   - atomic-openshift-sdn-ovs.x86_64:3.1.1.6-8.git.64.80b61da.el7aos
+#   - atomic-openshift.x86_64:3.2.1.7-1.git.0.2702170.el7
+#   - atomic-openshift-clients.x86_64:3.2.1.7-1.git.0.2702170.el7
+#   - atomic-openshift-clients-redistributable.x86_64:3.2.1.7-1.git.0.2702170.el7
+#   - atomic-openshift-dockerregistry.x86_64:3.2.1.7-1.git.0.2702170.el7
+#   - atomic-openshift-master.x86_64:3.2.1.7-1.git.0.2702170.el7
+#   - atomic-openshift-node.x86_64:3.2.1.7-1.git.0.2702170.el7
+#   - atomic-openshift-pod.x86_64:3.2.1.7-1.git.0.2702170.el7
+#   - atomic-openshift-recycle.x86_64:3.2.1.7-1.git.0.2702170.el7
+#   - atomic-openshift-sdn-ovs.x86_64:3.2.1.7-1.git.0.2702170.el7
 #   - heapster.x86_64:0.18.2-4.gitaf4752e.el7
 #   - nss_wrapper.x86_64:1.0.3-1.el7
 #   - nss_wrapper-debuginfo.x86_64:1.0.3-1.el7
 #   - openvswitch.x86_64:2.4.0-2.el7_2
 #   - openvswitch-debuginfo.x86_64:2.4.0-2.el7_2
 #   - openvswitch-devel.x86_64:2.4.0-2.el7_2
-#   - tuned-profiles-atomic-openshift-node.x86_64:3.1.1.6-8.git.64.80b61da.el7aos
+#   - tuned-profiles-atomic-openshift-node.x86_64:3.2.1.7-1.git.0.2702170.el7
 #
 # CVE List:
 #   - CVE-2013-2186
@@ -447,19 +447,19 @@ sudo yum install openshift-ansible-roles.noarch-3.0.35 -y
 sudo yum install openvswitch-test.noarch-2.4.0 -y 
 sudo yum install origin-kibana.noarch-0.5.0 -y 
 sudo yum install python-openvswitch.noarch-2.4.0 -y 
-sudo yum install atomic-openshift.x86_64-3.1.1.6 -y 
-sudo yum install atomic-openshift-clients.x86_64-3.1.1.6 -y 
-sudo yum install atomic-openshift-clients-redistributable.x86_64-3.1.1.6 -y 
-sudo yum install atomic-openshift-dockerregistry.x86_64-3.1.1.6 -y 
-sudo yum install atomic-openshift-master.x86_64-3.1.1.6 -y 
-sudo yum install atomic-openshift-node.x86_64-3.1.1.6 -y 
-sudo yum install atomic-openshift-pod.x86_64-3.1.1.6 -y 
-sudo yum install atomic-openshift-recycle.x86_64-3.1.1.6 -y 
-sudo yum install atomic-openshift-sdn-ovs.x86_64-3.1.1.6 -y 
+sudo yum install atomic-openshift.x86_64-3.2.1.7 -y 
+sudo yum install atomic-openshift-clients.x86_64-3.2.1.7 -y 
+sudo yum install atomic-openshift-clients-redistributable.x86_64-3.2.1.7 -y 
+sudo yum install atomic-openshift-dockerregistry.x86_64-3.2.1.7 -y 
+sudo yum install atomic-openshift-master.x86_64-3.2.1.7 -y 
+sudo yum install atomic-openshift-node.x86_64-3.2.1.7 -y 
+sudo yum install atomic-openshift-pod.x86_64-3.2.1.7 -y 
+sudo yum install atomic-openshift-recycle.x86_64-3.2.1.7 -y 
+sudo yum install atomic-openshift-sdn-ovs.x86_64-3.2.1.7 -y 
 sudo yum install heapster.x86_64-0.18.2 -y 
 sudo yum install nss_wrapper.x86_64-1.0.3 -y 
 sudo yum install nss_wrapper-debuginfo.x86_64-1.0.3 -y 
 sudo yum install openvswitch.x86_64-2.4.0 -y 
 sudo yum install openvswitch-debuginfo.x86_64-2.4.0 -y 
 sudo yum install openvswitch-devel.x86_64-2.4.0 -y 
-sudo yum install tuned-profiles-atomic-openshift-node.x86_64-3.1.1.6 -y 
+sudo yum install tuned-profiles-atomic-openshift-node.x86_64-3.2.1.7 -y 
