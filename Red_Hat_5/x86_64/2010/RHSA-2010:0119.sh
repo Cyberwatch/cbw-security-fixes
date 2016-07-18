@@ -4,7 +4,7 @@
 # Security fix for RHSA-2010:0119
 #
 # Security announcement date: 2010-02-23 20:25:47 UTC
-# Script generation date:     2016-05-12 18:09:43 UTC
+# Script generation date:     2016-07-18 21:29:12 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -78,14 +78,14 @@
 #   - tomcat6-log4j.noarch:6.0.41-15_patch_04.ep6.el5
 #   - tomcat6-servlet-2.5-api.noarch:6.0.41-15_patch_04.ep6.el5
 #   - tomcat6-webapps.noarch:6.0.41-15_patch_04.ep6.el5
-#   - httpd.x86_64:2.2.26-41.ep6.el5
-#   - httpd-debuginfo.x86_64:2.2.26-41.ep6.el5
-#   - httpd-devel.x86_64:2.2.26-41.ep6.el5
-#   - httpd-manual.x86_64:2.2.26-41.ep6.el5
+#   - httpd.x86_64:2.2.3-92.el5_11
+#   - httpd-debuginfo.x86_64:2.2.3-92.el5_11
+#   - httpd-devel.x86_64:2.2.3-92.el5_11
+#   - httpd-manual.x86_64:2.2.3-92.el5_11
 #   - mod_jk-ap20.x86_64:1.2.31-1.1.ep5.el5
 #   - mod_jk-debuginfo.x86_64:1.2.40-4.redhat_2.ep6.el5
 #   - mod_jk-manual.x86_64:1.2.40-4.redhat_2.ep6.el5
-#   - mod_ssl.x86_64:2.2.26-41.ep6.el5
+#   - mod_ssl.x86_64:2.2.3-92.el5_11
 #   - tomcat-native.x86_64:1.1.32-3.redhat_1.ep6.el5
 #   - tomcat-native-debuginfo.x86_64:1.1.32-3.redhat_1.ep6.el5
 #
@@ -126,13 +126,13 @@ sudo yum install tomcat6-lib.noarch-6.0.41 -y
 sudo yum install tomcat6-log4j.noarch-6.0.41 -y 
 sudo yum install tomcat6-servlet-2.5-api.noarch-6.0.41 -y 
 sudo yum install tomcat6-webapps.noarch-6.0.41 -y 
-sudo yum install httpd.x86_64-2.2.26 -y 
-sudo yum install httpd-debuginfo.x86_64-2.2.26 -y 
-sudo yum install httpd-devel.x86_64-2.2.26 -y 
-sudo yum install httpd-manual.x86_64-2.2.26 -y 
+sudo yum install httpd.x86_64-2.2.3 -y 
+sudo yum install httpd-debuginfo.x86_64-2.2.3 -y 
+sudo yum install httpd-devel.x86_64-2.2.3 -y 
+sudo yum install httpd-manual.x86_64-2.2.3 -y 
 sudo yum install mod_jk-ap20.x86_64-1.2.31 -y 
 sudo yum install mod_jk-debuginfo.x86_64-1.2.40 -y 
 sudo yum install mod_jk-manual.x86_64-1.2.40 -y 
-sudo yum install mod_ssl.x86_64-2.2.26 -y 
+sudo yum install mod_ssl.x86_64-2.2.3 -y 
 sudo yum install tomcat-native.x86_64-1.1.32 -y 
 sudo yum install tomcat-native-debuginfo.x86_64-1.1.32 -y 

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2009:1067
 #
 # Security announcement date: 2009-05-26 17:43:10 UTC
-# Script generation date:     2016-05-12 18:09:32 UTC
+# Script generation date:     2016-07-18 21:28:12 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -81,13 +81,13 @@
 #   - postgresqlclient81-debuginfo.i386:8.1.17-1.el5s2
 #
 # Last versions recommanded by security team:
-#   - httpd.x86_64:2.2.26-41.ep6.el5
-#   - httpd-debuginfo.x86_64:2.2.26-41.ep6.el5
-#   - httpd-devel.x86_64:2.2.26-41.ep6.el5
-#   - httpd-manual.x86_64:2.2.26-41.ep6.el5
+#   - httpd.x86_64:2.2.3-92.el5_11
+#   - httpd-debuginfo.x86_64:2.2.3-92.el5_11
+#   - httpd-devel.x86_64:2.2.3-92.el5_11
+#   - httpd-manual.x86_64:2.2.3-92.el5_11
 #   - mod_jk-ap20.x86_64:1.2.31-1.1.ep5.el5
 #   - mod_jk-debuginfo.x86_64:1.2.40-4.redhat_2.ep6.el5
-#   - mod_ssl.x86_64:2.2.26-41.ep6.el5
+#   - mod_ssl.x86_64:2.2.3-92.el5_11
 #   - mysql.x86_64:5.0.95-5.el5_9
 #   - mysql-bench.x86_64:5.0.95-5.el5_9
 #   - mysql-cluster.x86_64:5.0.84-2.el5s2
@@ -139,8 +139,8 @@
 #   - postgresql-test.x86_64:8.1.23-10.el5_10
 #   - postgresqlclient81.x86_64:8.1.17-1.el5s2
 #   - postgresqlclient81-debuginfo.x86_64:8.1.17-1.el5s2
-#   - httpd-debuginfo.i386:2.2.3-87.el5_10
-#   - httpd-devel.i386:2.2.3-87.el5_10
+#   - httpd-debuginfo.i386:2.2.3-92.el5_11
+#   - httpd-devel.i386:2.2.3-92.el5_11
 #   - mysql.i386:5.0.95-5.el5_9
 #   - mysql-debuginfo.i386:5.0.95-5.el5_9
 #   - mysql-devel.i386:5.0.95-5.el5_9
@@ -163,13 +163,13 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install httpd.x86_64-2.2.26 -y 
-sudo yum install httpd-debuginfo.x86_64-2.2.26 -y 
-sudo yum install httpd-devel.x86_64-2.2.26 -y 
-sudo yum install httpd-manual.x86_64-2.2.26 -y 
+sudo yum install httpd.x86_64-2.2.3 -y 
+sudo yum install httpd-debuginfo.x86_64-2.2.3 -y 
+sudo yum install httpd-devel.x86_64-2.2.3 -y 
+sudo yum install httpd-manual.x86_64-2.2.3 -y 
 sudo yum install mod_jk-ap20.x86_64-1.2.31 -y 
 sudo yum install mod_jk-debuginfo.x86_64-1.2.40 -y 
-sudo yum install mod_ssl.x86_64-2.2.26 -y 
+sudo yum install mod_ssl.x86_64-2.2.3 -y 
 sudo yum install mysql.x86_64-5.0.95 -y 
 sudo yum install mysql-bench.x86_64-5.0.95 -y 
 sudo yum install mysql-cluster.x86_64-5.0.84 -y 

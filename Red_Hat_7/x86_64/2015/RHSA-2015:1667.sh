@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1667
 #
 # Security announcement date: 2015-08-24 18:47:59 UTC
-# Script generation date:     2016-05-12 18:13:14 UTC
+# Script generation date:     2016-07-18 21:44:05 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -22,16 +22,16 @@
 #   - httpd-manual.noarch:2.4.6-31.ael7b_1.1
 #
 # Last versions recommanded by security team:
-#   - httpd-manual.noarch:2.4.6-31.ael7b_1.1
-#   - httpd.x86_64:2.4.6-31.el7_1.1
-#   - httpd-debuginfo.x86_64:2.4.6-31.el7_1.1
-#   - httpd-devel.x86_64:2.4.6-31.el7_1.1
-#   - httpd-tools.x86_64:2.4.6-31.el7_1.1
-#   - mod_ldap.x86_64:2.4.6-31.el7_1.1
-#   - mod_proxy_html.x86_64:2.4.6-31.el7_1.1
-#   - mod_session.x86_64:2.4.6-31.el7_1.1
-#   - mod_ssl.x86_64:2.4.6-31.el7_1.1
-#   - httpd-manual.noarch:2.4.6-31.ael7b_1.1
+#   - httpd-manual.noarch:2.4.6-40.el7_2.4
+#   - httpd.x86_64:2.4.6-40.el7_2.4
+#   - httpd-debuginfo.x86_64:2.4.6-40.el7_2.4
+#   - httpd-devel.x86_64:2.4.6-40.el7_2.4
+#   - httpd-tools.x86_64:2.4.6-40.el7_2.4
+#   - mod_ldap.x86_64:2.4.6-40.el7_2.4
+#   - mod_proxy_html.x86_64:2.4.6-40.el7_2.4
+#   - mod_session.x86_64:2.4.6-40.el7_2.4
+#   - mod_ssl.x86_64:2.4.6-40.el7_2.4
+#   - httpd-manual.noarch:2.4.6-40.el7_2.4
 #
 # CVE List:
 #   - CVE-2015-3183

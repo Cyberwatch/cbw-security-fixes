@@ -4,7 +4,7 @@
 # Security fix for RHSA-2011:0897
 #
 # Security announcement date: 2011-06-23 07:10:46 UTC
-# Script generation date:     2016-05-12 18:10:19 UTC
+# Script generation date:     2016-07-18 21:31:32 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -237,11 +237,11 @@
 #   - xml-commons-resolver12.noarch:1.3.04-8.2_patch_01.ep5.el6
 #   - xml-commons-which10.noarch:1.3.04-8.2_patch_01.ep5.el6
 #   - xml-commons-which11.noarch:1.3.04-8.2_patch_01.ep5.el6
-#   - httpd.x86_64:2.2.26-41.ep6.el6
-#   - httpd-debuginfo.x86_64:2.2.26-41.ep6.el6
-#   - httpd-devel.x86_64:2.2.26-41.ep6.el6
+#   - httpd.x86_64:2.2.15-54.el6_8
+#   - httpd-debuginfo.x86_64:2.2.15-54.el6_8
+#   - httpd-devel.x86_64:2.2.15-54.el6_8
 #   - httpd-manual.x86_64:2.2.26-41.ep6.el6
-#   - httpd-tools.x86_64:2.2.26-41.ep6.el6
+#   - httpd-tools.x86_64:2.2.15-54.el6_8
 #   - jakarta-commons-daemon-jsvc.x86_64:1.0.5-1.4.ep5.el6
 #   - jakarta-commons-daemon-jsvc-debuginfo.x86_64:1.0.5-1.4.ep5.el6
 #   - mod_cluster-native.x86_64:1.2.9-6.Final_redhat_2.ep6.el6
@@ -249,7 +249,7 @@
 #   - mod_jk-ap20.x86_64:1.2.31-1.1.2.ep5.el6
 #   - mod_jk-debuginfo.x86_64:1.2.40-4.redhat_2.ep6.el6
 #   - mod_jk-manual.x86_64:1.2.40-4.redhat_2.ep6.el6
-#   - mod_ssl.x86_64:2.2.26-41.ep6.el6
+#   - mod_ssl.x86_64:2.2.15-54.el6_8
 #   - tomcat-native.x86_64:1.1.32-3.redhat_1.ep6.el6
 #   - tomcat-native-debuginfo.x86_64:1.1.32-3.redhat_1.ep6.el6
 #
@@ -371,11 +371,11 @@ sudo yum install xml-commons-resolver11.noarch-1.3.04 -y
 sudo yum install xml-commons-resolver12.noarch-1.3.04 -y 
 sudo yum install xml-commons-which10.noarch-1.3.04 -y 
 sudo yum install xml-commons-which11.noarch-1.3.04 -y 
-sudo yum install httpd.x86_64-2.2.26 -y 
-sudo yum install httpd-debuginfo.x86_64-2.2.26 -y 
-sudo yum install httpd-devel.x86_64-2.2.26 -y 
+sudo yum install httpd.x86_64-2.2.15 -y 
+sudo yum install httpd-debuginfo.x86_64-2.2.15 -y 
+sudo yum install httpd-devel.x86_64-2.2.15 -y 
 sudo yum install httpd-manual.x86_64-2.2.26 -y 
-sudo yum install httpd-tools.x86_64-2.2.26 -y 
+sudo yum install httpd-tools.x86_64-2.2.15 -y 
 sudo yum install jakarta-commons-daemon-jsvc.x86_64-1.0.5 -y 
 sudo yum install jakarta-commons-daemon-jsvc-debuginfo.x86_64-1.0.5 -y 
 sudo yum install mod_cluster-native.x86_64-1.2.9 -y 
@@ -383,6 +383,6 @@ sudo yum install mod_cluster-native-debuginfo.x86_64-1.2.9 -y
 sudo yum install mod_jk-ap20.x86_64-1.2.31 -y 
 sudo yum install mod_jk-debuginfo.x86_64-1.2.40 -y 
 sudo yum install mod_jk-manual.x86_64-1.2.40 -y 
-sudo yum install mod_ssl.x86_64-2.2.26 -y 
+sudo yum install mod_ssl.x86_64-2.2.15 -y 
 sudo yum install tomcat-native.x86_64-1.1.32 -y 
 sudo yum install tomcat-native-debuginfo.x86_64-1.1.32 -y 

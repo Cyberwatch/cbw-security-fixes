@@ -4,7 +4,7 @@
 # Security fix for RHSA-2008:0966
 #
 # Security announcement date: 2008-12-04 19:57:45 UTC
-# Script generation date:     2016-05-12 18:09:26 UTC
+# Script generation date:     2016-07-18 21:27:43 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -53,11 +53,11 @@
 #
 # Last versions recommanded by security team:
 #   - php-pear.noarch:1.8.1-2.el5s2
-#   - httpd.x86_64:2.2.26-41.ep6.el5
-#   - httpd-debuginfo.x86_64:2.2.26-41.ep6.el5
-#   - httpd-devel.x86_64:2.2.26-41.ep6.el5
-#   - httpd-manual.x86_64:2.2.26-41.ep6.el5
-#   - mod_ssl.x86_64:2.2.26-41.ep6.el5
+#   - httpd.x86_64:2.2.3-92.el5_11
+#   - httpd-debuginfo.x86_64:2.2.3-92.el5_11
+#   - httpd-devel.x86_64:2.2.3-92.el5_11
+#   - httpd-manual.x86_64:2.2.3-92.el5_11
+#   - mod_ssl.x86_64:2.2.3-92.el5_11
 #   - mysql.x86_64:5.0.95-5.el5_9
 #   - mysql-bench.x86_64:5.0.95-5.el5_9
 #   - mysql-cluster.x86_64:5.0.84-2.el5s2
@@ -103,11 +103,11 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install php-pear.noarch-1.8.1 -y 
-sudo yum install httpd.x86_64-2.2.26 -y 
-sudo yum install httpd-debuginfo.x86_64-2.2.26 -y 
-sudo yum install httpd-devel.x86_64-2.2.26 -y 
-sudo yum install httpd-manual.x86_64-2.2.26 -y 
-sudo yum install mod_ssl.x86_64-2.2.26 -y 
+sudo yum install httpd.x86_64-2.2.3 -y 
+sudo yum install httpd-debuginfo.x86_64-2.2.3 -y 
+sudo yum install httpd-devel.x86_64-2.2.3 -y 
+sudo yum install httpd-manual.x86_64-2.2.3 -y 
+sudo yum install mod_ssl.x86_64-2.2.3 -y 
 sudo yum install mysql.x86_64-5.0.95 -y 
 sudo yum install mysql-bench.x86_64-5.0.95 -y 
 sudo yum install mysql-cluster.x86_64-5.0.84 -y 

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:0846
 #
 # Security announcement date: 2015-04-16 16:40:54 UTC
-# Script generation date:     2016-05-12 18:12:53 UTC
+# Script generation date:     2016-07-18 21:42:38 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -436,10 +436,10 @@
 #   - xml-commons-resolver-eap6.noarch:1.2.0-1.redhat_10.2.ep6.el5
 #   - hornetq-native.x86_64:2.3.25-3.Final_redhat_1.ep6.el5
 #   - hornetq-native-debuginfo.x86_64:2.3.25-3.Final_redhat_1.ep6.el5
-#   - httpd.x86_64:2.2.26-41.ep6.el5
-#   - httpd-debuginfo.x86_64:2.2.26-41.ep6.el5
-#   - httpd-devel.x86_64:2.2.26-41.ep6.el5
-#   - httpd-manual.x86_64:2.2.26-41.ep6.el5
+#   - httpd.x86_64:2.2.3-92.el5_11
+#   - httpd-debuginfo.x86_64:2.2.3-92.el5_11
+#   - httpd-devel.x86_64:2.2.3-92.el5_11
+#   - httpd-manual.x86_64:2.2.3-92.el5_11
 #   - httpd-tools.x86_64:2.2.26-41.ep6.el5
 #   - jbossas-hornetq-native.x86_64:2.3.25-3.Final_redhat_1.ep6.el5
 #   - jbossas-jbossweb-native.x86_64:1.1.32-3.redhat_1.ep6.el5
@@ -451,7 +451,7 @@
 #   - mod_rt-debuginfo.x86_64:2.4.1-6.GA.ep6.el5
 #   - mod_snmp.x86_64:2.4.1-13.GA.ep6.el5
 #   - mod_snmp-debuginfo.x86_64:2.4.1-13.GA.ep6.el5
-#   - mod_ssl.x86_64:2.2.26-41.ep6.el5
+#   - mod_ssl.x86_64:2.2.3-92.el5_11
 #   - tomcat-native.x86_64:1.1.32-3.redhat_1.ep6.el5
 #   - tomcat-native-debuginfo.x86_64:1.1.32-3.redhat_1.ep6.el5
 #
@@ -670,10 +670,10 @@ sudo yum install weld-cdi-1.0-api.noarch-1.0.0 -y
 sudo yum install xml-commons-resolver-eap6.noarch-1.2.0 -y 
 sudo yum install hornetq-native.x86_64-2.3.25 -y 
 sudo yum install hornetq-native-debuginfo.x86_64-2.3.25 -y 
-sudo yum install httpd.x86_64-2.2.26 -y 
-sudo yum install httpd-debuginfo.x86_64-2.2.26 -y 
-sudo yum install httpd-devel.x86_64-2.2.26 -y 
-sudo yum install httpd-manual.x86_64-2.2.26 -y 
+sudo yum install httpd.x86_64-2.2.3 -y 
+sudo yum install httpd-debuginfo.x86_64-2.2.3 -y 
+sudo yum install httpd-devel.x86_64-2.2.3 -y 
+sudo yum install httpd-manual.x86_64-2.2.3 -y 
 sudo yum install httpd-tools.x86_64-2.2.26 -y 
 sudo yum install jbossas-hornetq-native.x86_64-2.3.25 -y 
 sudo yum install jbossas-jbossweb-native.x86_64-1.1.32 -y 
@@ -685,6 +685,6 @@ sudo yum install mod_rt.x86_64-2.4.1 -y
 sudo yum install mod_rt-debuginfo.x86_64-2.4.1 -y 
 sudo yum install mod_snmp.x86_64-2.4.1 -y 
 sudo yum install mod_snmp-debuginfo.x86_64-2.4.1 -y 
-sudo yum install mod_ssl.x86_64-2.2.26 -y 
+sudo yum install mod_ssl.x86_64-2.2.3 -y 
 sudo yum install tomcat-native.x86_64-1.1.32 -y 
 sudo yum install tomcat-native-debuginfo.x86_64-1.1.32 -y 
