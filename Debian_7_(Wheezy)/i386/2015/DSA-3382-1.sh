@@ -4,7 +4,7 @@
 # Security fix for DSA-3382-1
 #
 # Security announcement date: 2015-10-28 00:00:00 UTC
-# Script generation date:     2016-06-22 12:17:30 UTC
+# Script generation date:     2016-07-18 21:13:17 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - phpmyadmin:4:3.4.11.1-2+deb7u2
 #
 # Last versions recommanded by security team:
-#   - phpmyadmin:4:3.4.11.1-2+deb7u4
+#   - phpmyadmin:4:3.4.11.1-2+deb7u5
 #
 # CVE List:
 #   - CVE-2014-8958
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade phpmyadmin=4:3.4.11.1-2+deb7u4 -y
+sudo apt-get install --only-upgrade phpmyadmin=4:3.4.11.1-2+deb7u5 -y

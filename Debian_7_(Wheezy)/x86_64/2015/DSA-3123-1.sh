@@ -4,7 +4,7 @@
 # Security fix for DSA-3123-1
 #
 # Security announcement date: 2015-01-09 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:11 UTC
+# Script generation date:     2016-07-18 21:12:38 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - binutils-source:2.22-8+deb7u2
 #
 # Last versions recommanded by security team:
-#   - binutils:2.22-8+deb7u2
-#   - binutils-dev:2.22-8+deb7u2
-#   - binutils-multiarch:2.22-8+deb7u2
-#   - binutils-gold:2.22-8+deb7u2
-#   - binutils-doc:2.22-8+deb7u2
-#   - binutils-source:2.22-8+deb7u2
+#   - binutils:2.22-8+deb7u3
+#   - binutils-dev:2.22-8+deb7u3
+#   - binutils-multiarch:2.22-8+deb7u3
+#   - binutils-gold:2.22-8+deb7u3
+#   - binutils-doc:2.22-8+deb7u3
+#   - binutils-source:2.22-8+deb7u3
 #
 # CVE List:
 #   - CVE-2014-8484
@@ -39,9 +39,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade binutils=2.22-8+deb7u2 -y
-sudo apt-get install --only-upgrade binutils-dev=2.22-8+deb7u2 -y
-sudo apt-get install --only-upgrade binutils-multiarch=2.22-8+deb7u2 -y
-sudo apt-get install --only-upgrade binutils-gold=2.22-8+deb7u2 -y
-sudo apt-get install --only-upgrade binutils-doc=2.22-8+deb7u2 -y
-sudo apt-get install --only-upgrade binutils-source=2.22-8+deb7u2 -y
+sudo apt-get install --only-upgrade binutils=2.22-8+deb7u3 -y
+sudo apt-get install --only-upgrade binutils-dev=2.22-8+deb7u3 -y
+sudo apt-get install --only-upgrade binutils-multiarch=2.22-8+deb7u3 -y
+sudo apt-get install --only-upgrade binutils-gold=2.22-8+deb7u3 -y
+sudo apt-get install --only-upgrade binutils-doc=2.22-8+deb7u3 -y
+sudo apt-get install --only-upgrade binutils-source=2.22-8+deb7u3 -y
