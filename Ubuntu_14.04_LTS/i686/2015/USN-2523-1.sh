@@ -4,7 +4,7 @@
 # Security fix for USN-2523-1
 #
 # Security announcement date: 2015-03-10 00:00:00 UTC
-# Script generation date:     2016-06-20 12:39:44 UTC
+# Script generation date:     2016-07-18 21:04:06 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -23,17 +23,17 @@
 #   - apache2-dbg:2.4.7-1ubuntu4.4
 #
 # Last versions recommanded by security team:
-#   - apache2.2-bin:2.4.7-1ubuntu4.5
-#   - apache2:2.4.7-1ubuntu4.5
-#   - apache2-data:2.4.7-1ubuntu4.5
-#   - apache2-bin:2.4.7-1ubuntu4.5
-#   - apache2-mpm-worker:2.4.7-1ubuntu4.5
-#   - apache2-mpm-prefork:2.4.7-1ubuntu4.5
-#   - apache2-mpm-event:2.4.7-1ubuntu4.5
-#   - apache2-utils:2.4.7-1ubuntu4.5
-#   - apache2-doc:2.4.7-1ubuntu4.5
-#   - apache2-dev:2.4.7-1ubuntu4.5
-#   - apache2-dbg:2.4.7-1ubuntu4.5
+#   - apache2.2-bin:2.4.7-1ubuntu4.13
+#   - apache2:2.4.7-1ubuntu4.13
+#   - apache2-data:2.4.7-1ubuntu4.13
+#   - apache2-bin:2.4.7-1ubuntu4.13
+#   - apache2-mpm-worker:2.4.7-1ubuntu4.13
+#   - apache2-mpm-prefork:2.4.7-1ubuntu4.13
+#   - apache2-mpm-event:2.4.7-1ubuntu4.13
+#   - apache2-utils:2.4.7-1ubuntu4.13
+#   - apache2-doc:2.4.7-1ubuntu4.13
+#   - apache2-dev:2.4.7-1ubuntu4.13
+#   - apache2-dbg:2.4.7-1ubuntu4.13
 #
 # CVE List:
 #   - CVE-2013-5704
@@ -46,14 +46,14 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade apache2.2-bin=2.4.7-1ubuntu4.5 -y
-sudo apt-get install --only-upgrade apache2=2.4.7-1ubuntu4.5 -y
-sudo apt-get install --only-upgrade apache2-data=2.4.7-1ubuntu4.5 -y
-sudo apt-get install --only-upgrade apache2-bin=2.4.7-1ubuntu4.5 -y
-sudo apt-get install --only-upgrade apache2-mpm-worker=2.4.7-1ubuntu4.5 -y
-sudo apt-get install --only-upgrade apache2-mpm-prefork=2.4.7-1ubuntu4.5 -y
-sudo apt-get install --only-upgrade apache2-mpm-event=2.4.7-1ubuntu4.5 -y
-sudo apt-get install --only-upgrade apache2-utils=2.4.7-1ubuntu4.5 -y
-sudo apt-get install --only-upgrade apache2-doc=2.4.7-1ubuntu4.5 -y
-sudo apt-get install --only-upgrade apache2-dev=2.4.7-1ubuntu4.5 -y
-sudo apt-get install --only-upgrade apache2-dbg=2.4.7-1ubuntu4.5 -y
+sudo apt-get install --only-upgrade apache2.2-bin=2.4.7-1ubuntu4.13 -y
+sudo apt-get install --only-upgrade apache2=2.4.7-1ubuntu4.13 -y
+sudo apt-get install --only-upgrade apache2-data=2.4.7-1ubuntu4.13 -y
+sudo apt-get install --only-upgrade apache2-bin=2.4.7-1ubuntu4.13 -y
+sudo apt-get install --only-upgrade apache2-mpm-worker=2.4.7-1ubuntu4.13 -y
+sudo apt-get install --only-upgrade apache2-mpm-prefork=2.4.7-1ubuntu4.13 -y
+sudo apt-get install --only-upgrade apache2-mpm-event=2.4.7-1ubuntu4.13 -y
+sudo apt-get install --only-upgrade apache2-utils=2.4.7-1ubuntu4.13 -y
+sudo apt-get install --only-upgrade apache2-doc=2.4.7-1ubuntu4.13 -y
+sudo apt-get install --only-upgrade apache2-dev=2.4.7-1ubuntu4.13 -y
+sudo apt-get install --only-upgrade apache2-dbg=2.4.7-1ubuntu4.13 -y
