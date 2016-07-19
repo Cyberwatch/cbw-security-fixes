@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0130
 #
 # Security announcement date: 2013-01-11 13:18:03 UTC
-# Script generation date:     2016-05-12 18:07:53 UTC
+# Script generation date:     2016-07-19 21:18:53 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - httpd-devel.i386:2.2.3-74.el5.centos
 #
 # Last versions recommanded by security team:
-#   - httpd.x86_64:2.2.3-87.el5.centos
-#   - httpd-devel.x86_64:2.2.3-87.el5.centos
-#   - httpd-manual.x86_64:2.2.3-87.el5.centos
-#   - mod_ssl.x86_64:2.2.3-87.el5.centos
-#   - httpd-devel.i386:2.2.3-87.el5.centos
+#   - httpd.x86_64:2.2.3-92.el5.centos
+#   - httpd-devel.x86_64:2.2.3-92.el5.centos
+#   - httpd-manual.x86_64:2.2.3-92.el5.centos
+#   - mod_ssl.x86_64:2.2.3-92.el5.centos
+#   - httpd-devel.i386:2.2.3-92.el5.centos
 #
 # CVE List:
 #   - CVE-2008-0455

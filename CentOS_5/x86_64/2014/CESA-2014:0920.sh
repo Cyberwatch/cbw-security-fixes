@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:0920
 #
 # Security announcement date: 2014-07-23 15:12:33 UTC
-# Script generation date:     2016-05-12 18:08:20 UTC
+# Script generation date:     2016-07-19 21:20:54 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - httpd-devel.i386:2.2.3-87.el5.centos
 #
 # Last versions recommanded by security team:
-#   - httpd.x86_64:2.2.3-87.el5.centos
-#   - httpd-devel.x86_64:2.2.3-87.el5.centos
-#   - httpd-manual.x86_64:2.2.3-87.el5.centos
-#   - mod_ssl.x86_64:2.2.3-87.el5.centos
-#   - httpd-devel.i386:2.2.3-87.el5.centos
+#   - httpd.x86_64:2.2.3-92.el5.centos
+#   - httpd-devel.x86_64:2.2.3-92.el5.centos
+#   - httpd-manual.x86_64:2.2.3-92.el5.centos
+#   - mod_ssl.x86_64:2.2.3-92.el5.centos
+#   - httpd-devel.i386:2.2.3-92.el5.centos
 #
 # CVE List:
 #   - CVE-2014-0231

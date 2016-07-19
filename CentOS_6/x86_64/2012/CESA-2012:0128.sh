@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0128
 #
 # Security announcement date: 2012-02-14 11:13:29 UTC
-# Script generation date:     2016-06-22 16:33:43 UTC
+# Script generation date:     2016-07-19 21:17:38 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - httpd-devel.i686:2.2.15-15.el6.centos.1
 #
 # Last versions recommanded by security team:
-#   - httpd-manual.noarch:2.2.15-47.el6.centos
-#   - httpd.x86_64:2.2.15-47.el6.centos
-#   - httpd-devel.x86_64:2.2.15-47.el6.centos
-#   - httpd-tools.x86_64:2.2.15-47.el6.centos
-#   - mod_ssl.x86_64:2.2.15-47.el6.centos
-#   - httpd-devel.i686:2.2.15-47.el6.centos
+#   - httpd-manual.noarch:2.2.15-54.el6.centos
+#   - httpd.x86_64:2.2.15-54.el6.centos
+#   - httpd-devel.x86_64:2.2.15-54.el6.centos
+#   - httpd-tools.x86_64:2.2.15-54.el6.centos
+#   - mod_ssl.x86_64:2.2.15-54.el6.centos
+#   - httpd-devel.i686:2.2.15-54.el6.centos
 #
 # CVE List:
 #   - CVE-2012-0031

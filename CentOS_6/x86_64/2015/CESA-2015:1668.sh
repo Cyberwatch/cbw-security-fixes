@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:1668
 #
 # Security announcement date: 2015-08-24 18:23:20 UTC
-# Script generation date:     2016-05-12 18:08:44 UTC
+# Script generation date:     2016-07-19 21:22:46 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - httpd-devel.i686:2.2.15-47.el6.centos
 #
 # Last versions recommanded by security team:
-#   - httpd-manual.noarch:2.2.15-47.el6.centos
-#   - httpd.x86_64:2.2.15-47.el6.centos
-#   - httpd-devel.x86_64:2.2.15-47.el6.centos
-#   - httpd-tools.x86_64:2.2.15-47.el6.centos
-#   - mod_ssl.x86_64:2.2.15-47.el6.centos
-#   - httpd-devel.i686:2.2.15-47.el6.centos
+#   - httpd-manual.noarch:2.2.15-54.el6.centos
+#   - httpd.x86_64:2.2.15-54.el6.centos
+#   - httpd-devel.x86_64:2.2.15-54.el6.centos
+#   - httpd-tools.x86_64:2.2.15-54.el6.centos
+#   - mod_ssl.x86_64:2.2.15-54.el6.centos
+#   - httpd-devel.i686:2.2.15-54.el6.centos
 #
 # CVE List:
 #   - CVE-2015-3183

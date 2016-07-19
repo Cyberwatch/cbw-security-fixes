@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:1392
 #
 # Security announcement date: 2011-10-20 21:19:56 UTC
-# Script generation date:     2016-06-22 16:33:24 UTC
+# Script generation date:     2016-07-19 21:17:19 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - httpd-devel.i386:2.2.3-53.el5.centos.3
 #
 # Last versions recommanded by security team:
-#   - httpd.x86_64:2.2.3-87.el5.centos
-#   - httpd-devel.x86_64:2.2.3-87.el5.centos
-#   - httpd-manual.x86_64:2.2.3-87.el5.centos
-#   - mod_ssl.x86_64:2.2.3-87.el5.centos
-#   - httpd-devel.i386:2.2.3-87.el5.centos
+#   - httpd.x86_64:2.2.3-92.el5.centos
+#   - httpd-devel.x86_64:2.2.3-92.el5.centos
+#   - httpd-manual.x86_64:2.2.3-92.el5.centos
+#   - mod_ssl.x86_64:2.2.3-92.el5.centos
+#   - httpd-devel.i386:2.2.3-92.el5.centos
 #
 # CVE List:
 #   - CVE-2011-3192

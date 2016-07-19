@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0512
 #
 # Security announcement date: 2013-03-09 00:40:43 UTC
-# Script generation date:     2016-05-12 18:07:59 UTC
+# Script generation date:     2016-07-19 21:19:09 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - httpd-devel.i686:2.2.15-26.el6.centos
 #
 # Last versions recommanded by security team:
-#   - httpd-manual.noarch:2.2.15-47.el6.centos
-#   - httpd.x86_64:2.2.15-47.el6.centos
-#   - httpd-devel.x86_64:2.2.15-47.el6.centos
-#   - httpd-tools.x86_64:2.2.15-47.el6.centos
-#   - mod_ssl.x86_64:2.2.15-47.el6.centos
-#   - httpd-devel.i686:2.2.15-47.el6.centos
+#   - httpd-manual.noarch:2.2.15-54.el6.centos
+#   - httpd.x86_64:2.2.15-54.el6.centos
+#   - httpd-devel.x86_64:2.2.15-54.el6.centos
+#   - httpd-tools.x86_64:2.2.15-54.el6.centos
+#   - mod_ssl.x86_64:2.2.15-54.el6.centos
+#   - httpd-devel.i686:2.2.15-54.el6.centos
 #
 # CVE List:
 #
