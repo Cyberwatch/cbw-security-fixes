@@ -4,7 +4,7 @@
 # Security fix for USN-2954-1
 #
 # Security announcement date: 2016-04-25 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:56 UTC
+# Script generation date:     2016-07-21 21:08:03 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - mysql-server-5.7:5.7.12-0ubuntu1
 #
 # Last versions recommanded by security team:
-#   - mysql-server-5.7:5.7.12-0ubuntu1
+#   - mysql-server-5.7:5.7.13-0ubuntu0.16.04.2
 #
 # CVE List:
 #   - CVE-2016-0639
@@ -33,4 +33,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mysql-server-5.7=5.7.12-0ubuntu1 -y
+sudo apt-get install --only-upgrade mysql-server-5.7=5.7.13-0ubuntu0.16.04.2 -y

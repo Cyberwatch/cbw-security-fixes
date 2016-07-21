@@ -4,7 +4,7 @@
 # Security fix for USN-2291-1
 #
 # Security announcement date: 2014-07-17 00:00:00 UTC
-# Script generation date:     2016-06-20 13:26:51 UTC
+# Script generation date:     2016-07-21 21:02:17 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - mysql-server-5.5:5.5.38-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - mysql-server-5.5:5.5.49-0ubuntu0.14.04.1
+#   - mysql-server-5.5:5.5.50-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2014-2494
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mysql-server-5.5=5.5.49-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade mysql-server-5.5=5.5.50-0ubuntu0.14.04.1 -y
