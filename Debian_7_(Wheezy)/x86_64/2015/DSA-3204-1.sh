@@ -4,7 +4,7 @@
 # Security fix for DSA-3204-1
 #
 # Security announcement date: 2015-03-24 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:19 UTC
+# Script generation date:     2016-07-21 21:12:09 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - python-django-doc:1.4.5-1+deb7u11
 #
 # Last versions recommanded by security team:
-#   - python-django:1.4.5-1+deb7u16
-#   - python-django-doc:1.4.5-1+deb7u16
+#   - python-django:1.4.5-1+deb7u17
+#   - python-django-doc:1.4.5-1+deb7u17
 #
 # CVE List:
 #   - CVE-2015-2317
@@ -24,5 +24,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.4.5-1+deb7u16 -y
-sudo apt-get install --only-upgrade python-django-doc=1.4.5-1+deb7u16 -y
+sudo apt-get install --only-upgrade python-django=1.4.5-1+deb7u17 -y
+sudo apt-get install --only-upgrade python-django-doc=1.4.5-1+deb7u17 -y
