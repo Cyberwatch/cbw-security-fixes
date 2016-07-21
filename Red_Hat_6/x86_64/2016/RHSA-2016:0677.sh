@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0677
 #
 # Security announcement date: 2016-04-21 18:05:26 UTC
-# Script generation date:     2016-05-12 18:13:51 UTC
+# Script generation date:     2016-07-21 21:47:09 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - java-1.8.0-oracle-src.x86_64:1.8.0.91-1jpp.1.el6_7
 #
 # Last versions recommanded by security team:
-#   - java-1.8.0-oracle.x86_64:1.8.0.91-1jpp.1.el6_7
-#   - java-1.8.0-oracle-devel.x86_64:1.8.0.91-1jpp.1.el6_7
-#   - java-1.8.0-oracle-javafx.x86_64:1.8.0.91-1jpp.1.el6_7
-#   - java-1.8.0-oracle-jdbc.x86_64:1.8.0.91-1jpp.1.el6_7
-#   - java-1.8.0-oracle-plugin.x86_64:1.8.0.91-1jpp.1.el6_7
-#   - java-1.8.0-oracle-src.x86_64:1.8.0.91-1jpp.1.el6_7
+#   - java-1.8.0-oracle.x86_64:1.8.0.101-1jpp.1.el6_8
+#   - java-1.8.0-oracle-devel.x86_64:1.8.0.101-1jpp.1.el6_8
+#   - java-1.8.0-oracle-javafx.x86_64:1.8.0.101-1jpp.1.el6_8
+#   - java-1.8.0-oracle-jdbc.x86_64:1.8.0.101-1jpp.1.el6_8
+#   - java-1.8.0-oracle-plugin.x86_64:1.8.0.101-1jpp.1.el6_8
+#   - java-1.8.0-oracle-src.x86_64:1.8.0.101-1jpp.1.el6_8
 #
 # CVE List:
 #   - CVE-2016-0686
@@ -40,9 +40,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.8.0-oracle.x86_64-1.8.0.91 -y 
-sudo yum install java-1.8.0-oracle-devel.x86_64-1.8.0.91 -y 
-sudo yum install java-1.8.0-oracle-javafx.x86_64-1.8.0.91 -y 
-sudo yum install java-1.8.0-oracle-jdbc.x86_64-1.8.0.91 -y 
-sudo yum install java-1.8.0-oracle-plugin.x86_64-1.8.0.91 -y 
-sudo yum install java-1.8.0-oracle-src.x86_64-1.8.0.91 -y 
+sudo yum install java-1.8.0-oracle.x86_64-1.8.0.101 -y 
+sudo yum install java-1.8.0-oracle-devel.x86_64-1.8.0.101 -y 
+sudo yum install java-1.8.0-oracle-javafx.x86_64-1.8.0.101 -y 
+sudo yum install java-1.8.0-oracle-jdbc.x86_64-1.8.0.101 -y 
+sudo yum install java-1.8.0-oracle-plugin.x86_64-1.8.0.101 -y 
+sudo yum install java-1.8.0-oracle-src.x86_64-1.8.0.101 -y 

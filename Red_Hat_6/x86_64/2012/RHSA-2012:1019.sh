@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:1019
 #
 # Security announcement date: 2012-06-20 11:39:52 UTC
-# Script generation date:     2016-05-12 18:10:52 UTC
+# Script generation date:     2016-07-21 21:34:33 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - java-1.7.0-oracle-src.x86_64:1.7.0.5-1jpp.1.el6
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-oracle.x86_64:1.7.0.101-1jpp.1.el6_7
-#   - java-1.7.0-oracle-devel.x86_64:1.7.0.101-1jpp.1.el6_7
-#   - java-1.7.0-oracle-jdbc.x86_64:1.7.0.101-1jpp.1.el6_7
-#   - java-1.7.0-oracle-plugin.x86_64:1.7.0.101-1jpp.1.el6_7
-#   - java-1.7.0-oracle-src.x86_64:1.7.0.101-1jpp.1.el6_7
+#   - java-1.7.0-oracle.x86_64:1.7.0.111-1jpp.1.el6_8
+#   - java-1.7.0-oracle-devel.x86_64:1.7.0.111-1jpp.1.el6_8
+#   - java-1.7.0-oracle-jdbc.x86_64:1.7.0.111-1jpp.1.el6_8
+#   - java-1.7.0-oracle-plugin.x86_64:1.7.0.111-1jpp.1.el6_8
+#   - java-1.7.0-oracle-src.x86_64:1.7.0.111-1jpp.1.el6_8
 #
 # CVE List:
 #   - CVE-2012-0551
@@ -42,8 +42,8 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.0-oracle.x86_64-1.7.0.101 -y 
-sudo yum install java-1.7.0-oracle-devel.x86_64-1.7.0.101 -y 
-sudo yum install java-1.7.0-oracle-jdbc.x86_64-1.7.0.101 -y 
-sudo yum install java-1.7.0-oracle-plugin.x86_64-1.7.0.101 -y 
-sudo yum install java-1.7.0-oracle-src.x86_64-1.7.0.101 -y 
+sudo yum install java-1.7.0-oracle.x86_64-1.7.0.111 -y 
+sudo yum install java-1.7.0-oracle-devel.x86_64-1.7.0.111 -y 
+sudo yum install java-1.7.0-oracle-jdbc.x86_64-1.7.0.111 -y 
+sudo yum install java-1.7.0-oracle-plugin.x86_64-1.7.0.111 -y 
+sudo yum install java-1.7.0-oracle-src.x86_64-1.7.0.111 -y 
