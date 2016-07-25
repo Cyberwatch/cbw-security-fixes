@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1629
 #
 # Security announcement date: 2015-08-17 06:48:58 UTC
-# Script generation date:     2016-05-12 18:13:12 UTC
+# Script generation date:     2016-07-25 21:39:27 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - mysql55-mysql-test.x86_64:5.5.45-1.el6
 #
 # Last versions recommanded by security team:
-#   - mysql55-mysql.x86_64:5.5.45-1.el6
-#   - mysql55-mysql-bench.x86_64:5.5.45-1.el6
-#   - mysql55-mysql-debuginfo.x86_64:5.5.45-1.el6
-#   - mysql55-mysql-devel.x86_64:5.5.45-1.el6
-#   - mysql55-mysql-libs.x86_64:5.5.45-1.el6
-#   - mysql55-mysql-server.x86_64:5.5.45-1.el6
-#   - mysql55-mysql-test.x86_64:5.5.45-1.el6
+#   - mysql55-mysql.x86_64:5.5.50-1.el6
+#   - mysql55-mysql-bench.x86_64:5.5.50-1.el6
+#   - mysql55-mysql-debuginfo.x86_64:5.5.50-1.el6
+#   - mysql55-mysql-devel.x86_64:5.5.50-1.el6
+#   - mysql55-mysql-libs.x86_64:5.5.50-1.el6
+#   - mysql55-mysql-server.x86_64:5.5.50-1.el6
+#   - mysql55-mysql-test.x86_64:5.5.50-1.el6
 #
 # CVE List:
 #   - CVE-2015-0433
@@ -48,10 +48,10 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install mysql55-mysql.x86_64-5.5.45 -y 
-sudo yum install mysql55-mysql-bench.x86_64-5.5.45 -y 
-sudo yum install mysql55-mysql-debuginfo.x86_64-5.5.45 -y 
-sudo yum install mysql55-mysql-devel.x86_64-5.5.45 -y 
-sudo yum install mysql55-mysql-libs.x86_64-5.5.45 -y 
-sudo yum install mysql55-mysql-server.x86_64-5.5.45 -y 
-sudo yum install mysql55-mysql-test.x86_64-5.5.45 -y 
+sudo yum install mysql55-mysql.x86_64-5.5.50 -y 
+sudo yum install mysql55-mysql-bench.x86_64-5.5.50 -y 
+sudo yum install mysql55-mysql-debuginfo.x86_64-5.5.50 -y 
+sudo yum install mysql55-mysql-devel.x86_64-5.5.50 -y 
+sudo yum install mysql55-mysql-libs.x86_64-5.5.50 -y 
+sudo yum install mysql55-mysql-server.x86_64-5.5.50 -y 
+sudo yum install mysql55-mysql-test.x86_64-5.5.50 -y 
