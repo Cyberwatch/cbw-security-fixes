@@ -1,27 +1,24 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-472-1
+# Security fix for DLA-557-1
 #
-# Security announcement date: 2016-05-14 00:00:00 UTC
-# Script generation date:     2016-07-25 21:13:08 UTC
+# Security announcement date: 2016-07-23 00:00:00 UTC
+# Script generation date:     2016-07-25 21:13:11 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - icedove:38.8.0-1~deb7u1
+#   - dietlibc:0.33~cvs20120325-4+deb7u1
 #
 # Last versions recommanded by security team:
-#   - icedove:45.1.0-1~deb7u1
+#   - dietlibc:0.33~cvs20120325-4+deb7u1
 #
 # CVE List:
-#   - CVE-2016-1979
-#   - CVE-2016-2805
-#   - CVE-2016-2807
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedove=45.1.0-1~deb7u1 -y
+sudo apt-get install --only-upgrade dietlibc=0.33~cvs20120325-4+deb7u1 -y
