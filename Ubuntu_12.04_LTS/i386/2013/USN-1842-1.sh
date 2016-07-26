@@ -4,7 +4,7 @@
 # Security fix for USN-1842-1
 #
 # Security announcement date: 2013-05-29 00:00:00 UTC
-# Script generation date:     2016-06-20 21:32:11 UTC
+# Script generation date:     2016-07-26 21:01:07 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libkio5:4:4.8.5-0ubuntu0.2
 #
 # Last versions recommanded by security team:
-#   - libkio5:4:4.8.5-0ubuntu0.4
+#   - libkio5:4:4.8.5-0ubuntu0.5
 #
 # CVE List:
 #   - CVE-2013-2074
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libkio5=4:4.8.5-0ubuntu0.4 -y
+sudo apt-get install --only-upgrade libkio5=4:4.8.5-0ubuntu0.5 -y
