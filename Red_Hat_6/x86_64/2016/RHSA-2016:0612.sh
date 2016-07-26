@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0612
 #
 # Security announcement date: 2016-04-13 01:34:19 UTC
-# Script generation date:     2016-05-12 18:13:49 UTC
+# Script generation date:     2016-07-26 21:43:19 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -103,20 +103,20 @@
 #   - pytalloc.x86_64:2.1.5-1.el6_7
 #   - python-tdb.x86_64:1.3.8-1.el6_7
 #   - python-tevent.x86_64:0.9.26-2.el6_7
-#   - samba4.x86_64:4.2.10-6.el6_7
-#   - samba4-client.x86_64:4.2.10-6.el6_7
-#   - samba4-common.x86_64:4.2.10-6.el6_7
-#   - samba4-dc.x86_64:4.2.10-6.el6_7
-#   - samba4-dc-libs.x86_64:4.2.10-6.el6_7
-#   - samba4-debuginfo.x86_64:4.2.10-6.el6_7
-#   - samba4-devel.x86_64:4.2.10-6.el6_7
-#   - samba4-libs.x86_64:4.2.10-6.el6_7
-#   - samba4-pidl.x86_64:4.2.10-6.el6_7
-#   - samba4-python.x86_64:4.2.10-6.el6_7
-#   - samba4-test.x86_64:4.2.10-6.el6_7
-#   - samba4-winbind.x86_64:4.2.10-6.el6_7
-#   - samba4-winbind-clients.x86_64:4.2.10-6.el6_7
-#   - samba4-winbind-krb5-locator.x86_64:4.2.10-6.el6_7
+#   - samba4.x86_64:4.2.10-7.el6_8
+#   - samba4-client.x86_64:4.2.10-7.el6_8
+#   - samba4-common.x86_64:4.2.10-7.el6_8
+#   - samba4-dc.x86_64:4.2.10-7.el6_8
+#   - samba4-dc-libs.x86_64:4.2.10-7.el6_8
+#   - samba4-debuginfo.x86_64:4.2.10-7.el6_8
+#   - samba4-devel.x86_64:4.2.10-7.el6_8
+#   - samba4-libs.x86_64:4.2.10-7.el6_8
+#   - samba4-pidl.x86_64:4.2.10-7.el6_8
+#   - samba4-python.x86_64:4.2.10-7.el6_8
+#   - samba4-test.x86_64:4.2.10-7.el6_8
+#   - samba4-winbind.x86_64:4.2.10-7.el6_8
+#   - samba4-winbind-clients.x86_64:4.2.10-7.el6_8
+#   - samba4-winbind-krb5-locator.x86_64:4.2.10-7.el6_8
 #   - ipa-admintools.x86_64:3.0.0-47.el6_7.2
 #   - ipa-server.x86_64:3.0.0-47.el6_7.2
 #   - ipa-server-selinux.x86_64:3.0.0-47.el6_7.2

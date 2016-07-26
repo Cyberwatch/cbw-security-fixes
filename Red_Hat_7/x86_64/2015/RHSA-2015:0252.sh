@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:0252
 #
 # Security announcement date: 2015-02-23 19:48:44 UTC
-# Script generation date:     2016-05-12 18:12:44 UTC
+# Script generation date:     2016-07-26 21:39:44 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -41,35 +41,35 @@
 #   - samba-devel.i686:4.1.1-38.el7_0
 #
 # Last versions recommanded by security team:
-#   - libsmbclient.x86_64:4.2.10-5.el7_1
-#   - libwbclient.x86_64:4.2.10-5.el7_1
-#   - samba-client.x86_64:4.2.10-5.el7_1
+#   - libsmbclient.x86_64:4.2.10-7.el7_2
+#   - libwbclient.x86_64:4.2.10-7.el7_2
+#   - samba-client.x86_64:4.2.10-7.el7_2
 #   - samba-common.x86_64:4.1.1-38.el7_0
-#   - samba-debuginfo.x86_64:4.2.10-5.el7_1
-#   - samba-libs.x86_64:4.2.10-5.el7_1
-#   - samba-winbind.x86_64:4.2.10-5.el7_1
-#   - samba-winbind-modules.x86_64:4.2.10-5.el7_1
-#   - libsmbclient-devel.x86_64:4.2.10-5.el7_1
-#   - libwbclient-devel.x86_64:4.2.10-5.el7_1
-#   - samba.x86_64:4.2.10-5.el7_1
-#   - samba-dc.x86_64:4.2.10-5.el7_1
-#   - samba-dc-libs.x86_64:4.2.10-5.el7_1
-#   - samba-devel.x86_64:4.2.10-5.el7_1
+#   - samba-debuginfo.x86_64:4.2.10-7.el7_2
+#   - samba-libs.x86_64:4.2.10-7.el7_2
+#   - samba-winbind.x86_64:4.2.10-7.el7_2
+#   - samba-winbind-modules.x86_64:4.2.10-7.el7_2
+#   - libsmbclient-devel.x86_64:4.2.10-7.el7_2
+#   - libwbclient-devel.x86_64:4.2.10-7.el7_2
+#   - samba.x86_64:4.2.10-7.el7_2
+#   - samba-dc.x86_64:4.2.10-7.el7_2
+#   - samba-dc-libs.x86_64:4.2.10-7.el7_2
+#   - samba-devel.x86_64:4.2.10-7.el7_2
 #   - samba-pidl.x86_64:4.1.1-38.el7_0
-#   - samba-python.x86_64:4.2.10-5.el7_1
-#   - samba-test.x86_64:4.2.10-5.el7_1
-#   - samba-test-devel.x86_64:4.2.10-5.el7_1
-#   - samba-vfs-glusterfs.x86_64:4.2.10-5.el7_1
-#   - samba-winbind-clients.x86_64:4.2.10-5.el7_1
-#   - samba-winbind-krb5-locator.x86_64:4.2.10-5.el7_1
-#   - libsmbclient.i686:4.2.10-5.el7_1
-#   - libwbclient.i686:4.2.10-5.el7_1
-#   - samba-debuginfo.i686:4.2.10-5.el7_1
-#   - samba-libs.i686:4.2.10-5.el7_1
-#   - samba-winbind-modules.i686:4.2.10-5.el7_1
-#   - libsmbclient-devel.i686:4.2.10-5.el7_1
-#   - libwbclient-devel.i686:4.2.10-5.el7_1
-#   - samba-devel.i686:4.2.10-5.el7_1
+#   - samba-python.x86_64:4.2.10-7.el7_2
+#   - samba-test.x86_64:4.2.10-7.el7_2
+#   - samba-test-devel.x86_64:4.2.10-7.el7_2
+#   - samba-vfs-glusterfs.x86_64:4.2.10-7.el7_2
+#   - samba-winbind-clients.x86_64:4.2.10-7.el7_2
+#   - samba-winbind-krb5-locator.x86_64:4.2.10-7.el7_2
+#   - libsmbclient.i686:4.2.10-7.el7_2
+#   - libwbclient.i686:4.2.10-7.el7_2
+#   - samba-debuginfo.i686:4.2.10-7.el7_2
+#   - samba-libs.i686:4.2.10-7.el7_2
+#   - samba-winbind-modules.i686:4.2.10-7.el7_2
+#   - libsmbclient-devel.i686:4.2.10-7.el7_2
+#   - libwbclient-devel.i686:4.2.10-7.el7_2
+#   - samba-devel.i686:4.2.10-7.el7_2
 #
 # CVE List:
 #   - CVE-2015-0240
