@@ -4,7 +4,7 @@
 # Security fix for DLA-556-1
 #
 # Security announcement date: 2016-07-22 00:00:00 UTC
-# Script generation date:     2016-07-24 21:12:56 UTC
+# Script generation date:     2016-07-26 21:15:11 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -17,6 +17,7 @@
 #
 # CVE List:
 #   - CVE-2016-4051
+#   - CVE-2016-5408
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
