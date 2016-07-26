@@ -4,7 +4,7 @@
 # Security fix for DSA-3388-1
 #
 # Security announcement date: 2015-11-01 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:46 UTC
+# Script generation date:     2016-07-26 21:11:58 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -15,9 +15,9 @@
 #   - ntp-doc:1:4.2.6.p5+dfsg-7+deb8u1
 #
 # Last versions recommanded by security team:
-#   - ntp:1:4.2.6.p5+dfsg-7+deb8u1
-#   - ntpdate:1:4.2.6.p5+dfsg-7+deb8u1
-#   - ntp-doc:1:4.2.6.p5+dfsg-7+deb8u1
+#   - ntp:1:4.2.6.p5+dfsg-7+deb8u2
+#   - ntpdate:1:4.2.6.p5+dfsg-7+deb8u2
+#   - ntp-doc:1:4.2.6.p5+dfsg-7+deb8u2
 #
 # CVE List:
 #   - CVE-2015-5146
@@ -41,6 +41,6 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ntp=1:4.2.6.p5+dfsg-7+deb8u1 -y
-sudo apt-get install --only-upgrade ntpdate=1:4.2.6.p5+dfsg-7+deb8u1 -y
-sudo apt-get install --only-upgrade ntp-doc=1:4.2.6.p5+dfsg-7+deb8u1 -y
+sudo apt-get install --only-upgrade ntp=1:4.2.6.p5+dfsg-7+deb8u2 -y
+sudo apt-get install --only-upgrade ntpdate=1:4.2.6.p5+dfsg-7+deb8u2 -y
+sudo apt-get install --only-upgrade ntp-doc=1:4.2.6.p5+dfsg-7+deb8u2 -y
