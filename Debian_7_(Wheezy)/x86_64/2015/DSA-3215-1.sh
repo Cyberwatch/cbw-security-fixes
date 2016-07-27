@@ -4,7 +4,7 @@
 # Security fix for DSA-3215-1
 #
 # Security announcement date: 2015-04-06 00:00:00 UTC
-# Script generation date:     2016-06-29 21:11:56 UTC
+# Script generation date:     2016-07-27 21:12:02 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libgd2:2.0.36~rc1~dfsg-6.1+deb7u1
 #
 # Last versions recommanded by security team:
-#   - libgd2:2.0.36~rc1~dfsg-6.1+deb7u4
+#   - libgd2:2.0.36~rc1~dfsg-6.1+deb7u5
 #
 # CVE List:
 #   - CVE-2014-2497
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgd2=2.0.36~rc1~dfsg-6.1+deb7u4 -y
+sudo apt-get install --only-upgrade libgd2=2.0.36~rc1~dfsg-6.1+deb7u5 -y
