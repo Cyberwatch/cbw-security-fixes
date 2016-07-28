@@ -4,16 +4,20 @@
 # Security fix for DSA-3555-1
 #
 # Security announcement date: 2016-04-23 00:00:00 UTC
-# Script generation date:     2016-05-12 18:06:10 UTC
+# Script generation date:     2016-07-28 21:11:23 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - imlib2:1.4.6-2+deb8u2
+#   - libimlib2:1.4.6-2+deb8u2
+#   - libimlib2-dev:1.4.6-2+deb8u2
 #
 # Last versions recommanded by security team:
 #   - imlib2:1.4.6-2+deb8u2
+#   - libimlib2:1.4.6-2+deb8u2
+#   - libimlib2-dev:1.4.6-2+deb8u2
 #
 # CVE List:
 #   - CVE-2011-5326
@@ -27,3 +31,5 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade imlib2=1.4.6-2+deb8u2 -y
+sudo apt-get install --only-upgrade libimlib2=1.4.6-2+deb8u2 -y
+sudo apt-get install --only-upgrade libimlib2-dev=1.4.6-2+deb8u2 -y

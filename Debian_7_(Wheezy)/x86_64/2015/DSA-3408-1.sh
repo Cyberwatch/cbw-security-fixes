@@ -4,16 +4,28 @@
 # Security fix for DSA-3408-1
 #
 # Security announcement date: 2015-12-01 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:49 UTC
+# Script generation date:     2016-07-28 21:10:55 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - gnutls26:2.12.20-8+deb7u4
+#   - libgnutls-dev:2.12.20-8+deb7u4
+#   - libgnutls26:2.12.20-8+deb7u4
+#   - libgnutls26-dbg:2.12.20-8+deb7u4
+#   - gnutls26-doc:2.12.20-8+deb7u4
+#   - libgnutlsxx27:2.12.20-8+deb7u4
+#   - libgnutls-openssl27:2.12.20-8+deb7u4
 #
 # Last versions recommanded by security team:
 #   - gnutls26:2.12.20-8+deb7u4
+#   - libgnutls-dev:2.12.20-8+deb7u5
+#   - libgnutls26:2.12.20-8+deb7u5
+#   - libgnutls26-dbg:2.12.20-8+deb7u5
+#   - gnutls26-doc:2.12.20-8+deb7u5
+#   - libgnutlsxx27:2.12.20-8+deb7u5
+#   - libgnutls-openssl27:2.12.20-8+deb7u5
 #
 # CVE List:
 #   - CVE-2015-8313
@@ -23,3 +35,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade gnutls26=2.12.20-8+deb7u4 -y
+sudo apt-get install --only-upgrade libgnutls-dev=2.12.20-8+deb7u5 -y
+sudo apt-get install --only-upgrade libgnutls26=2.12.20-8+deb7u5 -y
+sudo apt-get install --only-upgrade libgnutls26-dbg=2.12.20-8+deb7u5 -y
+sudo apt-get install --only-upgrade gnutls26-doc=2.12.20-8+deb7u5 -y
+sudo apt-get install --only-upgrade libgnutlsxx27=2.12.20-8+deb7u5 -y
+sudo apt-get install --only-upgrade libgnutls-openssl27=2.12.20-8+deb7u5 -y

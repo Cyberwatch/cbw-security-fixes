@@ -4,16 +4,22 @@
 # Security fix for DSA-3370-1
 #
 # Security announcement date: 2015-10-06 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:44 UTC
+# Script generation date:     2016-07-28 21:10:47 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - freetype:2.5.2-3+deb8u1
+#   - libfreetype6:2.5.2-3+deb8u1
+#   - libfreetype6-dev:2.5.2-3+deb8u1
+#   - freetype2-demos:2.5.2-3+deb8u1
 #
 # Last versions recommanded by security team:
 #   - freetype:2.5.2-3+deb8u1
+#   - libfreetype6:2.5.2-3+deb8u1
+#   - libfreetype6-dev:2.5.2-3+deb8u1
+#   - freetype2-demos:2.5.2-3+deb8u1
 #
 # CVE List:
 #   - CVE-2014-9745
@@ -25,3 +31,6 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade freetype=2.5.2-3+deb8u1 -y
+sudo apt-get install --only-upgrade libfreetype6=2.5.2-3+deb8u1 -y
+sudo apt-get install --only-upgrade libfreetype6-dev=2.5.2-3+deb8u1 -y
+sudo apt-get install --only-upgrade freetype2-demos=2.5.2-3+deb8u1 -y

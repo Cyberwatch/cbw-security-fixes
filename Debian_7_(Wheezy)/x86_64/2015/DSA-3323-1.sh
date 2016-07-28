@@ -4,16 +4,24 @@
 # Security fix for DSA-3323-1
 #
 # Security announcement date: 2015-08-01 00:00:00 UTC
-# Script generation date:     2016-07-07 21:09:19 UTC
+# Script generation date:     2016-07-28 21:10:38 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - icu:4.8.1.1-12+deb7u3
+#   - libicu48:4.8.1.1-12+deb7u3
+#   - libicu48-dbg:4.8.1.1-12+deb7u3
+#   - libicu-dev:4.8.1.1-12+deb7u3
+#   - icu-doc:4.8.1.1-12+deb7u3
 #
 # Last versions recommanded by security team:
 #   - icu:4.8.1.1-12+deb7u4
+#   - libicu48:4.8.1.1-12+deb7u4
+#   - libicu48-dbg:4.8.1.1-12+deb7u4
+#   - libicu-dev:4.8.1.1-12+deb7u4
+#   - icu-doc:4.8.1.1-12+deb7u4
 #
 # CVE List:
 #   - CVE-2014-8146
@@ -25,3 +33,7 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade icu=4.8.1.1-12+deb7u4 -y
+sudo apt-get install --only-upgrade libicu48=4.8.1.1-12+deb7u4 -y
+sudo apt-get install --only-upgrade libicu48-dbg=4.8.1.1-12+deb7u4 -y
+sudo apt-get install --only-upgrade libicu-dev=4.8.1.1-12+deb7u4 -y
+sudo apt-get install --only-upgrade icu-doc=4.8.1.1-12+deb7u4 -y

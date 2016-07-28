@@ -4,7 +4,7 @@
 # Security fix for DSA-3156-1
 #
 # Security announcement date: 2015-02-07 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:15 UTC
+# Script generation date:     2016-07-28 21:10:06 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -18,6 +18,8 @@
 #   - mencoder:2:1.0~rc4.dfsg1+svn34540-1+deb7u1
 #   - mplayer-dbg:2:1.0~rc4.dfsg1+svn34540-1+deb7u1
 #   - mplayer-doc:2:1.0~rc4.dfsg1+svn34540-1+deb7u1
+#   - liblivemedia-dev:2012.05.17-1+wheezy1
+#   - livemedia-utils:2012.05.17-1+wheezy1
 #
 # Last versions recommanded by security team:
 #   - liblivemedia:2012.05.17-1+wheezy1
@@ -28,6 +30,8 @@
 #   - mencoder:2:1.0~rc4.dfsg1+svn34540-1+deb7u1
 #   - mplayer-dbg:2:1.0~rc4.dfsg1+svn34540-1+deb7u1
 #   - mplayer-doc:2:1.0~rc4.dfsg1+svn34540-1+deb7u1
+#   - liblivemedia-dev:2012.05.17-1+wheezy1
+#   - livemedia-utils:2012.05.17-1+wheezy1
 #
 # CVE List:
 #   - CVE-2013-6933
@@ -44,3 +48,5 @@ sudo apt-get install --only-upgrade mplayer-gui=2:1.0~rc4.dfsg1+svn34540-1+deb7u
 sudo apt-get install --only-upgrade mencoder=2:1.0~rc4.dfsg1+svn34540-1+deb7u1 -y
 sudo apt-get install --only-upgrade mplayer-dbg=2:1.0~rc4.dfsg1+svn34540-1+deb7u1 -y
 sudo apt-get install --only-upgrade mplayer-doc=2:1.0~rc4.dfsg1+svn34540-1+deb7u1 -y
+sudo apt-get install --only-upgrade liblivemedia-dev=2012.05.17-1+wheezy1 -y
+sudo apt-get install --only-upgrade livemedia-utils=2012.05.17-1+wheezy1 -y

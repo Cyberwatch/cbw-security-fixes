@@ -4,7 +4,7 @@
 # Security fix for DSA-3501-1
 #
 # Security announcement date: 2016-03-01 00:00:00 UTC
-# Script generation date:     2016-05-12 18:06:02 UTC
+# Script generation date:     2016-07-28 21:11:14 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - libperl-dev:5.14.2-21+deb7u3
 #
 # Last versions recommanded by security team:
-#   - perl:5.14.2-21+deb7u3
-#   - perl-base:5.14.2-21+deb7u3
-#   - libcgi-fast-perl:5.14.2-21+deb7u3
-#   - perl-doc:5.14.2-21+deb7u3
-#   - perl-modules:5.14.2-21+deb7u3
-#   - perl-debug:5.14.2-21+deb7u3
-#   - libperl5.14:5.14.2-21+deb7u3
-#   - libperl-dev:5.14.2-21+deb7u3
+#   - perl:5.14.2-21+deb7u4
+#   - perl-base:5.14.2-21+deb7u4
+#   - libcgi-fast-perl:5.14.2-21+deb7u4
+#   - perl-doc:5.14.2-21+deb7u4
+#   - perl-modules:5.14.2-21+deb7u4
+#   - perl-debug:5.14.2-21+deb7u4
+#   - libperl5.14:5.14.2-21+deb7u4
+#   - libperl-dev:5.14.2-21+deb7u4
 #
 # CVE List:
 #   - CVE-2016-2381
@@ -36,11 +36,11 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade perl=5.14.2-21+deb7u3 -y
-sudo apt-get install --only-upgrade perl-base=5.14.2-21+deb7u3 -y
-sudo apt-get install --only-upgrade libcgi-fast-perl=5.14.2-21+deb7u3 -y
-sudo apt-get install --only-upgrade perl-doc=5.14.2-21+deb7u3 -y
-sudo apt-get install --only-upgrade perl-modules=5.14.2-21+deb7u3 -y
-sudo apt-get install --only-upgrade perl-debug=5.14.2-21+deb7u3 -y
-sudo apt-get install --only-upgrade libperl5.14=5.14.2-21+deb7u3 -y
-sudo apt-get install --only-upgrade libperl-dev=5.14.2-21+deb7u3 -y
+sudo apt-get install --only-upgrade perl=5.14.2-21+deb7u4 -y
+sudo apt-get install --only-upgrade perl-base=5.14.2-21+deb7u4 -y
+sudo apt-get install --only-upgrade libcgi-fast-perl=5.14.2-21+deb7u4 -y
+sudo apt-get install --only-upgrade perl-doc=5.14.2-21+deb7u4 -y
+sudo apt-get install --only-upgrade perl-modules=5.14.2-21+deb7u4 -y
+sudo apt-get install --only-upgrade perl-debug=5.14.2-21+deb7u4 -y
+sudo apt-get install --only-upgrade libperl5.14=5.14.2-21+deb7u4 -y
+sudo apt-get install --only-upgrade libperl-dev=5.14.2-21+deb7u4 -y

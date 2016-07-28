@@ -4,16 +4,26 @@
 # Security fix for DSA-3337-1
 #
 # Security announcement date: 2015-08-18 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:39 UTC
+# Script generation date:     2016-07-28 21:10:41 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
 #
 # Vulnerable packages fix on version:
 #   - gdk-pixbuf:2.26.1-1+deb7u1
+#   - libgdk-pixbuf2.0-0:2.26.1-1+deb7u1
+#   - libgdk-pixbuf2.0-common:2.26.1-1+deb7u1
+#   - libgdk-pixbuf2.0-dev:2.26.1-1+deb7u1
+#   - libgdk-pixbuf2.0-doc:2.26.1-1+deb7u1
+#   - gir1.2-gdkpixbuf-2.0:2.26.1-1+deb7u1
 #
 # Last versions recommanded by security team:
 #   - gdk-pixbuf:2.26.1-1+deb7u1
+#   - libgdk-pixbuf2.0-0:2.26.1-1+deb7u1
+#   - libgdk-pixbuf2.0-common:2.26.1-1+deb7u1
+#   - libgdk-pixbuf2.0-dev:2.26.1-1+deb7u1
+#   - libgdk-pixbuf2.0-doc:2.26.1-1+deb7u1
+#   - gir1.2-gdkpixbuf-2.0:2.26.1-1+deb7u1
 #
 # CVE List:
 #   - CVE-2015-4491
@@ -23,3 +33,8 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade gdk-pixbuf=2.26.1-1+deb7u1 -y
+sudo apt-get install --only-upgrade libgdk-pixbuf2.0-0=2.26.1-1+deb7u1 -y
+sudo apt-get install --only-upgrade libgdk-pixbuf2.0-common=2.26.1-1+deb7u1 -y
+sudo apt-get install --only-upgrade libgdk-pixbuf2.0-dev=2.26.1-1+deb7u1 -y
+sudo apt-get install --only-upgrade libgdk-pixbuf2.0-doc=2.26.1-1+deb7u1 -y
+sudo apt-get install --only-upgrade gir1.2-gdkpixbuf-2.0=2.26.1-1+deb7u1 -y

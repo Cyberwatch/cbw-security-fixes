@@ -4,16 +4,22 @@
 # Security fix for DSA-2692-1
 #
 # Security announcement date: 2013-05-23 00:00:00 UTC
-# Script generation date:     2016-05-12 18:04:34 UTC
+# Script generation date:     2016-07-28 21:09:14 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - libxxf86vm:1:1.1.2-1+deb7u1
+#   - libxxf86vm1:1:1.1.2-1+deb7u1
+#   - libxxf86vm1-dbg:1:1.1.2-1+deb7u1
+#   - libxxf86vm-dev:1:1.1.2-1+deb7u1
 #
 # Last versions recommanded by security team:
 #   - libxxf86vm:1:1.1.2-1+deb7u1
+#   - libxxf86vm1:1:1.1.2-1+deb7u1
+#   - libxxf86vm1-dbg:1:1.1.2-1+deb7u1
+#   - libxxf86vm-dev:1:1.1.2-1+deb7u1
 #
 # CVE List:
 #   - CVE-2013-2001
@@ -23,3 +29,6 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libxxf86vm=1:1.1.2-1+deb7u1 -y
+sudo apt-get install --only-upgrade libxxf86vm1=1:1.1.2-1+deb7u1 -y
+sudo apt-get install --only-upgrade libxxf86vm1-dbg=1:1.1.2-1+deb7u1 -y
+sudo apt-get install --only-upgrade libxxf86vm-dev=1:1.1.2-1+deb7u1 -y

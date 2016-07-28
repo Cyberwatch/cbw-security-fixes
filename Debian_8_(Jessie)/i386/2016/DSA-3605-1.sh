@@ -4,16 +4,28 @@
 # Security fix for DSA-3605-1
 #
 # Security announcement date: 2016-06-19 00:00:00 UTC
-# Script generation date:     2016-06-22 12:18:00 UTC
+# Script generation date:     2016-07-28 21:11:29 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - libxslt:1.1.28-2+deb8u1
+#   - libxslt1.1:1.1.28-2+deb8u1
+#   - libxslt1-dev:1.1.28-2+deb8u1
+#   - libxslt1-dbg:1.1.28-2+deb8u1
+#   - xsltproc:1.1.28-2+deb8u1
+#   - python-libxslt1:1.1.28-2+deb8u1
+#   - python-libxslt1-dbg:1.1.28-2+deb8u1
 #
 # Last versions recommanded by security team:
 #   - libxslt:1.1.28-2+deb8u1
+#   - libxslt1.1:1.1.28-2+deb8u1
+#   - libxslt1-dev:1.1.28-2+deb8u1
+#   - libxslt1-dbg:1.1.28-2+deb8u1
+#   - xsltproc:1.1.28-2+deb8u1
+#   - python-libxslt1:1.1.28-2+deb8u1
+#   - python-libxslt1-dbg:1.1.28-2+deb8u1
 #
 # CVE List:
 #   - CVE-2015-7995
@@ -25,3 +37,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libxslt=1.1.28-2+deb8u1 -y
+sudo apt-get install --only-upgrade libxslt1.1=1.1.28-2+deb8u1 -y
+sudo apt-get install --only-upgrade libxslt1-dev=1.1.28-2+deb8u1 -y
+sudo apt-get install --only-upgrade libxslt1-dbg=1.1.28-2+deb8u1 -y
+sudo apt-get install --only-upgrade xsltproc=1.1.28-2+deb8u1 -y
+sudo apt-get install --only-upgrade python-libxslt1=1.1.28-2+deb8u1 -y
+sudo apt-get install --only-upgrade python-libxslt1-dbg=1.1.28-2+deb8u1 -y
