@@ -4,7 +4,7 @@
 # Security fix for DSA-3054-1
 #
 # Security announcement date: 2014-10-20 00:00:00 UTC
-# Script generation date:     2016-07-28 21:09:54 UTC
+# Script generation date:     2016-07-29 21:09:29 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -25,7 +25,7 @@
 #   - mysql-source-5.5:5.5.40-0+wheezy1
 #
 # Last versions recommanded by security team:
-#   - mysql-5.5:5.5.49-0+deb7u1
+#   - mysql-5.5:5.5.50-0+deb7u1
 #   - libmysqlclient18:5.5.49-0+deb7u1
 #   - libmysqld-pic:5.5.49-0+deb7u1
 #   - libmysqld-dev:5.5.49-0+deb7u1
@@ -65,7 +65,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mysql-5.5=5.5.49-0+deb7u1 -y
+sudo apt-get install --only-upgrade mysql-5.5=5.5.50-0+deb7u1 -y
 sudo apt-get install --only-upgrade libmysqlclient18=5.5.49-0+deb7u1 -y
 sudo apt-get install --only-upgrade libmysqld-pic=5.5.49-0+deb7u1 -y
 sudo apt-get install --only-upgrade libmysqld-dev=5.5.49-0+deb7u1 -y

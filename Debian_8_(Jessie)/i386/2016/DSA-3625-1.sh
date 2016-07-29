@@ -4,7 +4,7 @@
 # Security fix for DSA-3625-1
 #
 # Security announcement date: 2016-07-22 00:00:00 UTC
-# Script generation date:     2016-07-24 21:10:14 UTC
+# Script generation date:     2016-07-29 21:11:02 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -33,6 +33,7 @@
 #   - CVE-2016-4554
 #   - CVE-2016-4555
 #   - CVE-2016-4556
+#   - CVE-2016-4553
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

@@ -4,7 +4,7 @@
 # Security fix for DSA-3383-1
 #
 # Security announcement date: 2015-10-29 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:45 UTC
+# Script generation date:     2016-07-29 21:10:22 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - wordpress-l10n:3.6.1+dfsg-1~deb7u8
 #
 # Last versions recommanded by security team:
-#   - wordpress:3.6.1+dfsg-1~deb7u10
-#   - wordpress-l10n:3.6.1+dfsg-1~deb7u10
+#   - wordpress:3.6.1+dfsg-1~deb7u11
+#   - wordpress-l10n:3.6.1+dfsg-1~deb7u11
 #
 # CVE List:
 #   - CVE-2015-2213
@@ -31,5 +31,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb7u10 -y
-sudo apt-get install --only-upgrade wordpress-l10n=3.6.1+dfsg-1~deb7u10 -y
+sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb7u11 -y
+sudo apt-get install --only-upgrade wordpress-l10n=3.6.1+dfsg-1~deb7u11 -y
