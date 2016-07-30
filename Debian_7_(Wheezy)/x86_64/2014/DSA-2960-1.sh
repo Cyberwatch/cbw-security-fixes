@@ -4,7 +4,7 @@
 # Security fix for DSA-2960-1
 #
 # Security announcement date: 2014-06-16 00:00:00 UTC
-# Script generation date:     2016-07-27 21:11:35 UTC
+# Script generation date:     2016-07-30 21:09:11 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - icedove:24.6.0-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - icedove:45.1.0-1~deb7u1
+#   - icedove:1:45.2.0-2~deb7u1
 #
 # CVE List:
 #   - CVE-2014-1533
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedove=45.1.0-1~deb7u1 -y
+sudo apt-get install --only-upgrade icedove=1:45.2.0-2~deb7u1 -y
