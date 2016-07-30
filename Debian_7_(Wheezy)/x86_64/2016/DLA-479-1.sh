@@ -4,7 +4,7 @@
 # Security fix for DLA-479-1
 #
 # Security announcement date: 2016-05-18 00:00:00 UTC
-# Script generation date:     2016-06-22 12:20:34 UTC
+# Script generation date:     2016-07-30 21:13:40 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - xen:4.1.6.1-1+deb7u1
 #
 # Last versions recommanded by security team:
-#   - xen:4.1.6.1-1+deb7u1
+#   - xen:4.1.6.lts1-1
 #
 # CVE List:
 #   - CVE-2015-2752
@@ -40,4 +40,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade xen=4.1.6.1-1+deb7u1 -y
+sudo apt-get install --only-upgrade xen=4.1.6.lts1-1 -y
