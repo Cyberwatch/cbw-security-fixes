@@ -4,7 +4,7 @@
 # Security fix for DLA-451-1
 #
 # Security announcement date: 2016-05-03 00:00:00 UTC
-# Script generation date:     2016-06-22 12:20:32 UTC
+# Script generation date:     2016-07-31 21:13:34 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - openjdk-7:7u101-2.6.6-2~deb7u1
 #
 # Last versions recommanded by security team:
-#   - openjdk-7:7u101-2.6.6-2~deb7u1
+#   - openjdk-7:7u111-2.6.7-1~deb7u1
 #
 # CVE List:
 #   - CVE-2016-0636
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openjdk-7=7u101-2.6.6-2~deb7u1 -y
+sudo apt-get install --only-upgrade openjdk-7=7u111-2.6.7-1~deb7u1 -y
