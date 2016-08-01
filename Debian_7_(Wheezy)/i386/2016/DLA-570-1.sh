@@ -1,24 +1,25 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-523-1
+# Security fix for DLA-570-1
 #
-# Security announcement date: 2016-06-22 00:00:00 UTC
-# Script generation date:     2016-08-01 21:14:33 UTC
+# Security announcement date: 2016-07-30 00:00:00 UTC
+# Script generation date:     2016-08-01 21:14:34 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
-#   - enigmail:1.8.2-4~deb7u2
+#   - kde4libs:4:4.8.4-4+deb7u2
 #
 # Last versions recommanded by security team:
-#   - enigmail:1.8.2-4~deb7u2
+#   - kde4libs:4:4.8.4-4+deb7u2
 #
 # CVE List:
+#   - CVE-2016-6232
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade enigmail=1.8.2-4~deb7u2 -y
+sudo apt-get install --only-upgrade kde4libs=4:4.8.4-4+deb7u2 -y
