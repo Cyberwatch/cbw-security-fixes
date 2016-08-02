@@ -4,7 +4,7 @@
 # Security fix for USN-1437-1
 #
 # Security announcement date: 2012-05-04 00:00:00 UTC
-# Script generation date:     2016-06-20 21:31:22 UTC
+# Script generation date:     2016-08-02 21:00:15 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - php5-cgi:5.3.10-1ubuntu3.1
 #
 # Last versions recommanded by security team:
-#   - php5-cgi:5.3.10-1ubuntu3.23
+#   - php5-cgi:5.3.10-1ubuntu3.24
 #
 # CVE List:
 #   - CVE-2012-2311
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5-cgi=5.3.10-1ubuntu3.23 -y
+sudo apt-get install --only-upgrade php5-cgi=5.3.10-1ubuntu3.24 -y
