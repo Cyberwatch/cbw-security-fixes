@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:1054
 #
 # Security announcement date: 2012-07-03 09:55:36 UTC
-# Script generation date:     2016-05-12 18:10:53 UTC
+# Script generation date:     2016-08-02 21:33:35 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - libtiff-devel.i686:3.9.4-6.el6_3
 #
 # Last versions recommanded by security team:
-#   - libtiff.x86_64:3.9.4-10.el6_5
-#   - libtiff-debuginfo.x86_64:3.9.4-10.el6_5
-#   - libtiff-devel.x86_64:3.9.4-10.el6_5
-#   - libtiff-static.x86_64:3.9.4-10.el6_5
-#   - libtiff.i686:3.9.4-10.el6_5
-#   - libtiff-debuginfo.i686:3.9.4-10.el6_5
-#   - libtiff-devel.i686:3.9.4-10.el6_5
+#   - libtiff.x86_64:3.9.4-18.el6_8
+#   - libtiff-debuginfo.x86_64:3.9.4-18.el6_8
+#   - libtiff-devel.x86_64:3.9.4-18.el6_8
+#   - libtiff-static.x86_64:3.9.4-18.el6_8
+#   - libtiff.i686:3.9.4-18.el6_8
+#   - libtiff-debuginfo.i686:3.9.4-18.el6_8
+#   - libtiff-devel.i686:3.9.4-18.el6_8
 #
 # CVE List:
 #   - CVE-2012-2088
