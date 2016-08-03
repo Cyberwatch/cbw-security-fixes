@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:0913
 #
 # Security announcement date: 2014-07-22 19:23:34 UTC
-# Script generation date:     2016-06-27 21:42:23 UTC
+# Script generation date:     2016-08-03 21:36:36 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -29,19 +29,19 @@
 # Last versions recommanded by security team:
 #   - kernel-rt-doc.noarch:3.10.0-327.rt56.170.el6rt
 #   - kernel-rt-firmware.noarch:3.10.0-327.rt56.170.el6rt
-#   - kernel-rt.x86_64:3.10.0-327.rt56.190.el6rt
-#   - kernel-rt-debug.x86_64:3.10.0-327.rt56.190.el6rt
-#   - kernel-rt-debug-debuginfo.x86_64:3.10.0-327.rt56.190.el6rt
-#   - kernel-rt-debug-devel.x86_64:3.10.0-327.rt56.190.el6rt
-#   - kernel-rt-debuginfo.x86_64:3.10.0-327.rt56.190.el6rt
-#   - kernel-rt-debuginfo-common-x86_64.x86_64:3.10.0-327.rt56.190.el6rt
-#   - kernel-rt-devel.x86_64:3.10.0-327.rt56.190.el6rt
-#   - kernel-rt-trace.x86_64:3.10.0-327.rt56.190.el6rt
-#   - kernel-rt-trace-debuginfo.x86_64:3.10.0-327.rt56.190.el6rt
-#   - kernel-rt-trace-devel.x86_64:3.10.0-327.rt56.190.el6rt
-#   - kernel-rt-vanilla.x86_64:3.10.0-327.rt56.190.el6rt
-#   - kernel-rt-vanilla-debuginfo.x86_64:3.10.0-327.rt56.190.el6rt
-#   - kernel-rt-vanilla-devel.x86_64:3.10.0-327.rt56.190.el6rt
+#   - kernel-rt.x86_64:3.10.0-327.rt56.194.el6rt
+#   - kernel-rt-debug.x86_64:3.10.0-327.rt56.194.el6rt
+#   - kernel-rt-debug-debuginfo.x86_64:3.10.0-327.rt56.194.el6rt
+#   - kernel-rt-debug-devel.x86_64:3.10.0-327.rt56.194.el6rt
+#   - kernel-rt-debuginfo.x86_64:3.10.0-327.rt56.194.el6rt
+#   - kernel-rt-debuginfo-common-x86_64.x86_64:3.10.0-327.rt56.194.el6rt
+#   - kernel-rt-devel.x86_64:3.10.0-327.rt56.194.el6rt
+#   - kernel-rt-trace.x86_64:3.10.0-327.rt56.194.el6rt
+#   - kernel-rt-trace-debuginfo.x86_64:3.10.0-327.rt56.194.el6rt
+#   - kernel-rt-trace-devel.x86_64:3.10.0-327.rt56.194.el6rt
+#   - kernel-rt-vanilla.x86_64:3.10.0-327.rt56.194.el6rt
+#   - kernel-rt-vanilla-debuginfo.x86_64:3.10.0-327.rt56.194.el6rt
+#   - kernel-rt-vanilla-devel.x86_64:3.10.0-327.rt56.194.el6rt
 #
 # CVE List:
 #   - CVE-2014-0181
