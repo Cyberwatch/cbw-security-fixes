@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:0222
 #
 # Security announcement date: 2014-02-28 00:43:50 UTC
-# Script generation date:     2016-05-12 18:08:15 UTC
+# Script generation date:     2016-08-03 21:19:34 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - libtiff-devel.i686:3.9.4-10.el6_5
 #
 # Last versions recommanded by security team:
-#   - libtiff.x86_64:3.9.4-10.el6_5
-#   - libtiff-devel.x86_64:3.9.4-10.el6_5
-#   - libtiff-static.x86_64:3.9.4-10.el6_5
-#   - libtiff.i686:3.9.4-10.el6_5
-#   - libtiff-devel.i686:3.9.4-10.el6_5
+#   - libtiff.x86_64:3.9.4-18.el6_8
+#   - libtiff-devel.x86_64:3.9.4-18.el6_8
+#   - libtiff-static.x86_64:3.9.4-18.el6_8
+#   - libtiff.i686:3.9.4-18.el6_8
+#   - libtiff-devel.i686:3.9.4-18.el6_8
 #
 # CVE List:
 #   - CVE-2013-4232
