@@ -4,7 +4,7 @@
 # Security fix for DSA-3480-1
 #
 # Security announcement date: 2016-02-16 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:59 UTC
+# Script generation date:     2016-08-04 21:14:15 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - eglibc:2.13-38+deb7u10
 #
 # Last versions recommanded by security team:
-#   - eglibc:2.13-38+deb7u10
+#   - eglibc:2.13-38+deb7u11
 #
 # CVE List:
 #   - CVE-2014-8121
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade eglibc=2.13-38+deb7u10 -y
+sudo apt-get install --only-upgrade eglibc=2.13-38+deb7u11 -y

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DSA-2719-1
 #
 # Security announcement date: 2013-07-10 00:00:00 UTC
-# Script generation date:     2016-05-12 18:04:36 UTC
+# Script generation date:     2016-08-04 21:12:23 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -22,3 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade poppler=0.12.4-1.2+squeeze4 -y

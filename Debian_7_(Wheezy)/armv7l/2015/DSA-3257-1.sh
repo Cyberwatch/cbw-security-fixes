@@ -4,7 +4,7 @@
 # Security fix for DSA-3257-1
 #
 # Security announcement date: 2015-05-11 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:26 UTC
+# Script generation date:     2016-08-04 21:13:27 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -14,7 +14,7 @@
 #   - mercurial-common:2.2.2-4+deb7u1
 #
 # Last versions recommanded by security team:
-#   - mercurial:2.2.2-4+deb7u1
+#   - mercurial:2.2.2-4+deb7u3
 #   - mercurial-common:2.2.2-4+deb7u1
 #
 # CVE List:
@@ -24,5 +24,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mercurial=2.2.2-4+deb7u1 -y
+sudo apt-get install --only-upgrade mercurial=2.2.2-4+deb7u3 -y
 sudo apt-get install --only-upgrade mercurial-common=2.2.2-4+deb7u1 -y

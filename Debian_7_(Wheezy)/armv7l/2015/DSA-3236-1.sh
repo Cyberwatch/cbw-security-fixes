@@ -4,7 +4,7 @@
 # Security fix for DSA-3236-1
 #
 # Security announcement date: 2015-04-25 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:24 UTC
+# Script generation date:     2016-08-04 21:13:25 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -54,7 +54,7 @@
 #   - libreoffice-l10n-da:1:3.5.4+dfsg2-0+deb7u4
 #
 # Last versions recommanded by security team:
-#   - libreoffice:1:3.5.4+dfsg2-0+deb7u4
+#   - libreoffice:1:3.5.4+dfsg2-0+deb7u7
 #   - libreoffice-l10n-za:1:3.5.4+dfsg2-0+deb7u4
 #   - libreoffice-l10n-in:1:3.5.4+dfsg2-0+deb7u4
 #   - libreoffice-core:1:3.5.4+dfsg2-0+deb7u4
@@ -104,7 +104,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libreoffice=1:3.5.4+dfsg2-0+deb7u4 -y
+sudo apt-get install --only-upgrade libreoffice=1:3.5.4+dfsg2-0+deb7u7 -y
 sudo apt-get install --only-upgrade libreoffice-l10n-za=1:3.5.4+dfsg2-0+deb7u4 -y
 sudo apt-get install --only-upgrade libreoffice-l10n-in=1:3.5.4+dfsg2-0+deb7u4 -y
 sudo apt-get install --only-upgrade libreoffice-core=1:3.5.4+dfsg2-0+deb7u4 -y

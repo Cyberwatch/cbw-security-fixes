@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DSA-2607-1
 #
 # Security announcement date: 2013-01-15 00:00:00 UTC
-# Script generation date:     2016-05-12 18:04:29 UTC
+# Script generation date:     2016-08-04 21:12:12 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -21,3 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade qemu-kvm=0.12.5+dfsg-5+squeeze12 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3388-1
 #
 # Security announcement date: 2015-11-01 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:46 UTC
+# Script generation date:     2016-08-04 21:13:56 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - ntp:1:4.2.6.p5+dfsg-2+deb7u6
 #
 # Last versions recommanded by security team:
-#   - ntp:1:4.2.6.p5+dfsg-2+deb7u4
+#   - ntp:1:4.2.6.p5+dfsg-2+deb7u7
 #
 # CVE List:
 #   - CVE-2015-5146
@@ -37,4 +37,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ntp=1:4.2.6.p5+dfsg-2+deb7u4 -y
+sudo apt-get install --only-upgrade ntp=1:4.2.6.p5+dfsg-2+deb7u7 -y

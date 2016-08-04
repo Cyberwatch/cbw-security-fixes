@@ -4,7 +4,7 @@
 # Security fix for DSA-3057-2
 #
 # Security announcement date: 2015-04-07 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:21 UTC
+# Script generation date:     2016-08-04 21:13:21 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -20,7 +20,7 @@
 #   - python-libxml2-dbg:2.8.0+dfsg1-7+wheezy4
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.8.0+dfsg1-7+wheezy4
+#   - libxml2:2.8.0+dfsg1-7+wheezy6
 #   - libxml2-utils:2.8.0+dfsg1-7+wheezy4
 #   - libxml2-utils-dbg:2.8.0+dfsg1-7+wheezy4
 #   - libxml2-dev:2.8.0+dfsg1-7+wheezy4
@@ -35,7 +35,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.8.0+dfsg1-7+wheezy4 -y
+sudo apt-get install --only-upgrade libxml2=2.8.0+dfsg1-7+wheezy6 -y
 sudo apt-get install --only-upgrade libxml2-utils=2.8.0+dfsg1-7+wheezy4 -y
 sudo apt-get install --only-upgrade libxml2-utils-dbg=2.8.0+dfsg1-7+wheezy4 -y
 sudo apt-get install --only-upgrade libxml2-dev=2.8.0+dfsg1-7+wheezy4 -y

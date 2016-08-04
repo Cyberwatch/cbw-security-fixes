@@ -4,7 +4,7 @@
 # Security fix for DSA-2835-1
 #
 # Security announcement date: 2014-01-05 00:00:00 UTC
-# Script generation date:     2016-05-12 18:04:47 UTC
+# Script generation date:     2016-08-04 21:12:34 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -26,7 +26,7 @@
 #   - asterisk-config:1:1.8.13.1~dfsg1-3+deb7u3
 #
 # Last versions recommanded by security team:
-#   - asterisk:1:1.8.13.1~dfsg1-3+deb7u3
+#   - asterisk:1:1.8.13.1~dfsg1-3+deb7u4
 #   - asterisk-modules:1:1.8.13.1~dfsg1-3+deb7u3
 #   - asterisk-dahdi:1:1.8.13.1~dfsg1-3+deb7u3
 #   - asterisk-voicemail:1:1.8.13.1~dfsg1-3+deb7u3
@@ -48,7 +48,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade asterisk=1:1.8.13.1~dfsg1-3+deb7u3 -y
+sudo apt-get install --only-upgrade asterisk=1:1.8.13.1~dfsg1-3+deb7u4 -y
 sudo apt-get install --only-upgrade asterisk-modules=1:1.8.13.1~dfsg1-3+deb7u3 -y
 sudo apt-get install --only-upgrade asterisk-dahdi=1:1.8.13.1~dfsg1-3+deb7u3 -y
 sudo apt-get install --only-upgrade asterisk-voicemail=1:1.8.13.1~dfsg1-3+deb7u3 -y

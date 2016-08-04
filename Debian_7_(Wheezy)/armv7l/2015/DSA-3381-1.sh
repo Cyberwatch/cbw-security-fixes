@@ -4,7 +4,7 @@
 # Security fix for DSA-3381-1
 #
 # Security announcement date: 2015-10-27 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:45 UTC
+# Script generation date:     2016-08-04 21:13:55 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - openjdk-7:7u85-2.6.1-6~deb7u1
 #
 # Last versions recommanded by security team:
-#   - openjdk-7:7u85-2.6.1-6~deb7u1
+#   - openjdk-7:7u111-2.6.7-1~deb7u1
 #
 # CVE List:
 #   - CVE-2015-4734
@@ -39,4 +39,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openjdk-7=7u85-2.6.1-6~deb7u1 -y
+sudo apt-get install --only-upgrade openjdk-7=7u111-2.6.7-1~deb7u1 -y

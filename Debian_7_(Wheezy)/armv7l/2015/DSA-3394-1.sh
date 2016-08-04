@@ -4,7 +4,7 @@
 # Security fix for DSA-3394-1
 #
 # Security announcement date: 2015-11-05 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:47 UTC
+# Script generation date:     2016-08-04 21:13:57 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - libreoffice:1:3.5.4+dfsg2-0+deb7u5
 #
 # Last versions recommanded by security team:
-#   - libreoffice:1:3.5.4+dfsg2-0+deb7u4
+#   - libreoffice:1:3.5.4+dfsg2-0+deb7u7
 #
 # CVE List:
 #   - CVE-2015-4551
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libreoffice=1:3.5.4+dfsg2-0+deb7u4 -y
+sudo apt-get install --only-upgrade libreoffice=1:3.5.4+dfsg2-0+deb7u7 -y

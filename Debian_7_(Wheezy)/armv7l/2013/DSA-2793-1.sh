@@ -4,7 +4,7 @@
 # Security fix for DSA-2793-1
 #
 # Security announcement date: 2013-11-09 00:00:00 UTC
-# Script generation date:     2016-05-12 18:04:43 UTC
+# Script generation date:     2016-08-04 21:12:29 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - libav:6:0.8.9-1
 #
 # Last versions recommanded by security team:
-#   - libav:6:0.8.9-1
+#   - libav:6:0.8.17-2+deb7u2
 #
 # CVE List:
 #   - CVE-2013-0844
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libav=6:0.8.9-1 -y
+sudo apt-get install --only-upgrade libav=6:0.8.17-2+deb7u2 -y

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DSA-2829-1
 #
 # Security announcement date: 2013-12-28 00:00:00 UTC
-# Script generation date:     2016-05-12 18:04:46 UTC
+# Script generation date:     2016-08-04 21:12:32 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -24,3 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade hplip=3.10.6-2+squeeze2 -y

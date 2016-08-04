@@ -4,7 +4,7 @@
 # Security fix for DSA-3123-1
 #
 # Security announcement date: 2015-01-09 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:11 UTC
+# Script generation date:     2016-08-04 21:13:05 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -18,7 +18,7 @@
 #   - binutils-source:2.22-8+deb7u2
 #
 # Last versions recommanded by security team:
-#   - binutils:2.22-8+deb7u2
+#   - binutils:2.22-8+deb7u3
 #   - binutils-dev:2.22-8+deb7u2
 #   - binutils-multiarch:2.22-8+deb7u2
 #   - binutils-gold:2.22-8+deb7u2
@@ -39,7 +39,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade binutils=2.22-8+deb7u2 -y
+sudo apt-get install --only-upgrade binutils=2.22-8+deb7u3 -y
 sudo apt-get install --only-upgrade binutils-dev=2.22-8+deb7u2 -y
 sudo apt-get install --only-upgrade binutils-multiarch=2.22-8+deb7u2 -y
 sudo apt-get install --only-upgrade binutils-gold=2.22-8+deb7u2 -y

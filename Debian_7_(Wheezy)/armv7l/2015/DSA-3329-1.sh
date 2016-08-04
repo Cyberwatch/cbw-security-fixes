@@ -4,7 +4,7 @@
 # Security fix for DSA-3329-1
 #
 # Security announcement date: 2015-08-07 00:00:00 UTC
-# Script generation date:     2016-07-28 21:10:39 UTC
+# Script generation date:     2016-08-04 21:13:44 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -21,7 +21,7 @@
 #   - linux-headers-3.2.0-4-all-amd64:3.2.68-1+deb7u3
 #
 # Last versions recommanded by security team:
-#   - linux:3.2.68-1+deb7u3
+#   - linux:3.2.81-1
 #   - linux-source-3.2:3.2.68-1+deb7u4
 #   - linux-doc-3.2:3.2.68-1+deb7u4
 #   - linux-manual-3.2:3.2.68-1+deb7u4
@@ -41,7 +41,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux=3.2.68-1+deb7u3 -y
+sudo apt-get install --only-upgrade linux=3.2.81-1 -y
 sudo apt-get install --only-upgrade linux-source-3.2=3.2.68-1+deb7u4 -y
 sudo apt-get install --only-upgrade linux-doc-3.2=3.2.68-1+deb7u4 -y
 sudo apt-get install --only-upgrade linux-manual-3.2=3.2.68-1+deb7u4 -y

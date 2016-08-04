@@ -4,7 +4,7 @@
 # Security fix for DSA-3501-1
 #
 # Security announcement date: 2016-03-01 00:00:00 UTC
-# Script generation date:     2016-05-12 18:06:02 UTC
+# Script generation date:     2016-08-04 21:14:19 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - perl:5.14.2-21+deb7u3
 #
 # Last versions recommanded by security team:
-#   - perl:5.14.2-21+deb7u3
+#   - perl:5.14.2-21+deb7u4
 #
 # CVE List:
 #   - CVE-2016-2381
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade perl=5.14.2-21+deb7u3 -y
+sudo apt-get install --only-upgrade perl=5.14.2-21+deb7u4 -y

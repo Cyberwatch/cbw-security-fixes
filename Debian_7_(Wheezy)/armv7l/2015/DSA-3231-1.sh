@@ -4,7 +4,7 @@
 # Security fix for DSA-3231-1
 #
 # Security announcement date: 2015-04-21 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:23 UTC
+# Script generation date:     2016-08-04 21:13:24 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -23,7 +23,7 @@
 #   - libsvn-ruby:1.6.17dfsg-4+deb7u9
 #
 # Last versions recommanded by security team:
-#   - subversion:1.6.17dfsg-4+deb7u10
+#   - subversion:1.6.17dfsg-4+deb7u11
 #   - libsvn1:1.6.17dfsg-4+deb7u10
 #   - libsvn-dev:1.6.17dfsg-4+deb7u10
 #   - libsvn-doc:1.6.17dfsg-4+deb7u10
@@ -43,7 +43,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade subversion=1.6.17dfsg-4+deb7u10 -y
+sudo apt-get install --only-upgrade subversion=1.6.17dfsg-4+deb7u11 -y
 sudo apt-get install --only-upgrade libsvn1=1.6.17dfsg-4+deb7u10 -y
 sudo apt-get install --only-upgrade libsvn-dev=1.6.17dfsg-4+deb7u10 -y
 sudo apt-get install --only-upgrade libsvn-doc=1.6.17dfsg-4+deb7u10 -y

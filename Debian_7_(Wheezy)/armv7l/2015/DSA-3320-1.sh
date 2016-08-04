@@ -4,7 +4,7 @@
 # Security fix for DSA-3320-1
 #
 # Security announcement date: 2015-07-30 00:00:00 UTC
-# Script generation date:     2016-07-28 21:10:37 UTC
+# Script generation date:     2016-08-04 21:13:42 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -28,7 +28,7 @@
 #   - openafs-dbg:1.6.1-3+deb7u3
 #
 # Last versions recommanded by security team:
-#   - openafs:1.6.1-3+deb7u3
+#   - openafs:1.6.1-3+deb7u6
 #   - openafs-client:1.6.1-3+deb7u3
 #   - openafs-fuse:1.6.1-3+deb7u3
 #   - openafs-kpasswd:1.6.1-3+deb7u3
@@ -56,7 +56,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openafs=1.6.1-3+deb7u3 -y
+sudo apt-get install --only-upgrade openafs=1.6.1-3+deb7u6 -y
 sudo apt-get install --only-upgrade openafs-client=1.6.1-3+deb7u3 -y
 sudo apt-get install --only-upgrade openafs-fuse=1.6.1-3+deb7u3 -y
 sudo apt-get install --only-upgrade openafs-kpasswd=1.6.1-3+deb7u3 -y

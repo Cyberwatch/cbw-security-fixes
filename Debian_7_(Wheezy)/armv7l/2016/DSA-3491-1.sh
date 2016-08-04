@@ -4,7 +4,7 @@
 # Security fix for DSA-3491-1
 #
 # Security announcement date: 2016-02-24 00:00:00 UTC
-# Script generation date:     2016-05-12 18:06:01 UTC
+# Script generation date:     2016-08-04 21:14:17 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - icedove:38.6.0-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - icedove:31.8.0-1~deb7u1
+#   - icedove:1:45.2.0-2~deb7u1
 #
 # CVE List:
 #   - CVE-2015-7575
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedove=31.8.0-1~deb7u1 -y
+sudo apt-get install --only-upgrade icedove=1:45.2.0-2~deb7u1 -y

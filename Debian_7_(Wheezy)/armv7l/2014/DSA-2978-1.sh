@@ -4,7 +4,7 @@
 # Security fix for DSA-2978-1
 #
 # Security announcement date: 2014-07-11 00:00:00 UTC
-# Script generation date:     2016-05-12 18:04:59 UTC
+# Script generation date:     2016-08-04 21:12:50 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - libxml2:2.8.0+dfsg1-7+wheezy1
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.8.0+dfsg1-7+wheezy4
+#   - libxml2:2.8.0+dfsg1-7+wheezy6
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.8.0+dfsg1-7+wheezy4 -y
+sudo apt-get install --only-upgrade libxml2=2.8.0+dfsg1-7+wheezy6 -y

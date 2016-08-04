@@ -4,7 +4,7 @@
 # Security fix for DSA-3325-1
 #
 # Security announcement date: 2015-08-01 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:36 UTC
+# Script generation date:     2016-08-04 21:13:43 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -26,7 +26,7 @@
 #   - apache2-dbg:2.2.22-13+deb7u5
 #
 # Last versions recommanded by security team:
-#   - apache2:2.2.22-13+deb7u6
+#   - apache2:2.2.22-13+deb7u7
 #   - apache2.2-common:2.2.22-13+deb7u6
 #   - apache2.2-bin:2.2.22-13+deb7u6
 #   - apache2-mpm-worker:2.2.22-13+deb7u6
@@ -49,7 +49,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade apache2=2.2.22-13+deb7u6 -y
+sudo apt-get install --only-upgrade apache2=2.2.22-13+deb7u7 -y
 sudo apt-get install --only-upgrade apache2.2-common=2.2.22-13+deb7u6 -y
 sudo apt-get install --only-upgrade apache2.2-bin=2.2.22-13+deb7u6 -y
 sudo apt-get install --only-upgrade apache2-mpm-worker=2.2.22-13+deb7u6 -y

@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DSA-2323-1
 #
 # Security announcement date: 2011-10-26 00:00:00 UTC
-# Script generation date:     2016-05-12 18:04:16 UTC
+# Script generation date:     2016-08-04 21:11:52 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -24,3 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade radvd=1:1.6-1.1 -y

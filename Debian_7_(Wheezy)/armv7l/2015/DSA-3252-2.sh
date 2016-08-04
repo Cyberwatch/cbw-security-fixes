@@ -4,7 +4,7 @@
 # Security fix for DSA-3252-2
 #
 # Security announcement date: 2015-06-14 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:32 UTC
+# Script generation date:     2016-08-04 21:13:37 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -19,7 +19,7 @@
 #   - libsqlite3-tcl:3.7.13-1+deb7u2
 #
 # Last versions recommanded by security team:
-#   - sqlite3:3.7.13-1+deb7u2
+#   - sqlite3:3.7.13-1+deb7u3
 #   - lemon:3.7.13-1+deb7u2
 #   - sqlite3-doc:3.7.13-1+deb7u2
 #   - libsqlite3-0-dbg:3.7.13-1+deb7u2
@@ -34,7 +34,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade sqlite3=3.7.13-1+deb7u2 -y
+sudo apt-get install --only-upgrade sqlite3=3.7.13-1+deb7u3 -y
 sudo apt-get install --only-upgrade lemon=3.7.13-1+deb7u2 -y
 sudo apt-get install --only-upgrade sqlite3-doc=3.7.13-1+deb7u2 -y
 sudo apt-get install --only-upgrade libsqlite3-0-dbg=3.7.13-1+deb7u2 -y

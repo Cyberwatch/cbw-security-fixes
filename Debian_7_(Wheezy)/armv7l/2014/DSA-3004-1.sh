@@ -4,7 +4,7 @@
 # Security fix for DSA-3004-1
 #
 # Security announcement date: 2014-08-11 00:00:00 UTC
-# Script generation date:     2016-07-28 21:09:49 UTC
+# Script generation date:     2016-08-04 21:12:53 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -54,7 +54,7 @@
 #   - kdelibs5-dbg:4:4.8.4-4+deb7u1
 #
 # Last versions recommanded by security team:
-#   - kde4libs:4:4.8.4-4+deb7u1
+#   - kde4libs:4:4.8.4-4+deb7u2
 #   - libkdecore5:4:4.8.4-4+deb7u1
 #   - libkdeui5:4:4.8.4-4+deb7u1
 #   - libkpty4:4:4.8.4-4+deb7u1
@@ -104,7 +104,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade kde4libs=4:4.8.4-4+deb7u1 -y
+sudo apt-get install --only-upgrade kde4libs=4:4.8.4-4+deb7u2 -y
 sudo apt-get install --only-upgrade libkdecore5=4:4.8.4-4+deb7u1 -y
 sudo apt-get install --only-upgrade libkdeui5=4:4.8.4-4+deb7u1 -y
 sudo apt-get install --only-upgrade libkpty4=4:4.8.4-4+deb7u1 -y
