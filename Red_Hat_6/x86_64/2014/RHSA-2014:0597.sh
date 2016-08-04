@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:0597
 #
 # Security announcement date: 2014-06-03 16:37:55 UTC
-# Script generation date:     2016-06-01 11:12:58 UTC
+# Script generation date:     2016-08-04 21:41:30 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - squid-debuginfo.x86_64:3.1.10-20.el6_5.3
 #
 # Last versions recommanded by security team:
-#   - squid.x86_64:3.1.23-16.el6_8.4
-#   - squid-debuginfo.x86_64:3.1.23-16.el6_8.4
+#   - squid.x86_64:3.1.23-16.el6_8.6
+#   - squid-debuginfo.x86_64:3.1.23-16.el6_8.6
 #
 # CVE List:
 #   - CVE-2014-0128

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:1138
 #
 # Security announcement date: 2016-05-31 06:21:56 UTC
-# Script generation date:     2016-06-02 18:17:59 UTC
+# Script generation date:     2016-08-04 21:49:27 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - squid-debuginfo.x86_64:3.1.23-16.el6_8.4
 #
 # Last versions recommanded by security team:
-#   - squid.x86_64:3.1.23-16.el6_8.4
-#   - squid-debuginfo.x86_64:3.1.23-16.el6_8.4
+#   - squid.x86_64:3.1.23-16.el6_8.6
+#   - squid-debuginfo.x86_64:3.1.23-16.el6_8.6
 #
 # CVE List:
 #   - CVE-2016-4051
