@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-130-1
 #
 # Security announcement date: 2015-01-08 00:00:00 UTC
-# Script generation date:     2016-05-12 18:06:27 UTC
+# Script generation date:     2016-08-04 21:16:30 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -21,3 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade firebird2.1=2.1.3.18185-0.ds1-11+squeeze2 -y

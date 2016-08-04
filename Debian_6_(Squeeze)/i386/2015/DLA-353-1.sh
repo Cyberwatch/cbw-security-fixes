@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-353-1
 #
 # Security announcement date: 2015-11-27 00:00:00 UTC
-# Script generation date:     2016-06-03 06:19:01 UTC
+# Script generation date:     2016-08-04 21:16:42 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -22,3 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade imagemagick=8:6.6.0.4-3+squeeze7 -y

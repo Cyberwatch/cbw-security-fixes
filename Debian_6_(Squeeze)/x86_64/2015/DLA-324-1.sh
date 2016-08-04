@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-324-1
 #
 # Security announcement date: 2015-10-02 00:00:00 UTC
-# Script generation date:     2016-05-12 18:06:38 UTC
+# Script generation date:     2016-08-04 21:16:41 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -21,3 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade binutils=2.20.1-16+deb6u2 -y

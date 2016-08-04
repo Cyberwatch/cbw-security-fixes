@@ -1,9 +1,10 @@
+#!/bin/sh
 # CYBERWATCH SAS - 2016
 #
 # Security fix for DLA-0010-1
 #
 # Security announcement date: 2014-06-27 00:00:00 UTC
-# Script generation date:     2016-05-12 18:06:21 UTC
+# Script generation date:     2016-08-04 21:16:24 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -21,3 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze29 -y
