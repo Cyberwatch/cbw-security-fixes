@@ -4,7 +4,7 @@
 # Security fix for USN-2974-1
 #
 # Security announcement date: 2016-05-12 00:00:00 UTC
-# Script generation date:     2016-06-21 01:25:48 UTC
+# Script generation date:     2016-08-04 21:08:39 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - qemu-kvm:1.0+noroms-0ubuntu14.28
 #
 # Last versions recommanded by security team:
-#   - qemu-kvm:1.0+noroms-0ubuntu14.28
+#   - qemu-kvm:1.0+noroms-0ubuntu14.29
 #
 # CVE List:
 #   - CVE-2016-2391
@@ -33,4 +33,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu-kvm=1.0+noroms-0ubuntu14.28 -y
+sudo apt-get install --only-upgrade qemu-kvm=1.0+noroms-0ubuntu14.29 -y
