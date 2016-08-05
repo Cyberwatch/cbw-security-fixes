@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0505
 #
 # Security announcement date: 2013-03-09 00:43:07 UTC
-# Script generation date:     2016-06-22 12:25:19 UTC
+# Script generation date:     2016-08-05 21:21:36 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - squid.x86_64:3.1.10-16.el6
 #
 # Last versions recommanded by security team:
-#   - squid.x86_64:3.1.23-16.el6_8.4
+#   - squid.x86_64:3.1.23-16.el6_8.6
 #
 # CVE List:
 #

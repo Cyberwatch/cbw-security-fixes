@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:1138
 #
 # Security announcement date: 2016-05-31 10:56:37 UTC
-# Script generation date:     2016-06-22 12:29:41 UTC
+# Script generation date:     2016-08-05 21:25:53 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - squid.x86_64:3.1.23-16.el6_8.4
 #
 # Last versions recommanded by security team:
-#   - squid.x86_64:3.1.23-16.el6_8.4
+#   - squid.x86_64:3.1.23-16.el6_8.6
 #
 # CVE List:
 #   - CVE-2016-4051
