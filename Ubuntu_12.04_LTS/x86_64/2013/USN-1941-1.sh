@@ -4,7 +4,7 @@
 # Security fix for USN-1941-1
 #
 # Security announcement date: 2013-09-06 00:00:00 UTC
-# Script generation date:     2016-07-14 21:01:25 UTC
+# Script generation date:     2016-08-08 21:01:29 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -23,9 +23,9 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-53-generic-pae:3.2.0-53.81
-#   - linux-source-3.2.0:3.2.0-106.147
-#   - linux-doc:3.2.0-106.147
-#   - linux-tools-common:3.2.0-106.147
+#   - linux-source-3.2.0:3.2.0-107.148
+#   - linux-doc:3.2.0-107.148
+#   - linux-tools-common:3.2.0-107.148
 #   - linux-image-3.2.0-53-powerpc64-smp:3.2.0-53.81
 #   - linux-image-3.2.0-53-virtual:3.2.0-53.81
 #   - linux-image-3.2.0-53-omap:3.2.0-53.81
@@ -48,9 +48,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-53-generic-pae=3.2.0-53.81 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-106.147 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-106.147 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-106.147 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-107.148 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-107.148 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-107.148 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-53-powerpc64-smp=3.2.0-53.81 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-53-virtual=3.2.0-53.81 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-53-omap=3.2.0-53.81 -y

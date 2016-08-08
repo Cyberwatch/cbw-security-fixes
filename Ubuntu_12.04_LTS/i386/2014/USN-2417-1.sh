@@ -4,7 +4,7 @@
 # Security fix for USN-2417-1
 #
 # Security announcement date: 2014-11-24 00:00:00 UTC
-# Script generation date:     2016-07-14 21:02:48 UTC
+# Script generation date:     2016-08-08 21:02:56 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -25,9 +25,9 @@
 #   - linux-image-3.2.0-72-omap:3.2.0-72.107
 #   - linux-image-3.2.0-72-powerpc-smp:3.2.0-72.107
 #   - linux-image-3.2.0-72-generic-pae:3.2.0-72.107
-#   - linux-source-3.2.0:3.2.0-106.147
-#   - linux-doc:3.2.0-106.147
-#   - linux-tools-common:3.2.0-106.147
+#   - linux-source-3.2.0:3.2.0-107.148
+#   - linux-doc:3.2.0-107.148
+#   - linux-tools-common:3.2.0-107.148
 #   - linux-image-3.2.0-72-virtual:3.2.0-72.107
 #   - linux-image-3.2.0-72-highbank:3.2.0-72.107
 #   - linux-image-3.2.0-72-generic:3.2.0-72.107
@@ -54,9 +54,9 @@
 sudo apt-get install --only-upgrade linux-image-3.2.0-72-omap=3.2.0-72.107 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-72-powerpc-smp=3.2.0-72.107 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-72-generic-pae=3.2.0-72.107 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-106.147 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-106.147 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-106.147 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-107.148 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-107.148 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-107.148 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-72-virtual=3.2.0-72.107 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-72-highbank=3.2.0-72.107 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-72-generic=3.2.0-72.107 -y
