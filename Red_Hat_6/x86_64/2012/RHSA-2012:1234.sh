@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:1234
 #
 # Security announcement date: 2012-09-05 17:06:53 UTC
-# Script generation date:     2016-05-12 18:10:57 UTC
+# Script generation date:     2016-08-09 21:33:59 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - qemu-kvm-tools.x86_64:0.12.1.2-2.295.el6_3.2
 #
 # Last versions recommanded by security team:
-#   - qemu-guest-agent.x86_64:0.12.1.2-2.491.el6_8.1
-#   - qemu-img.x86_64:0.12.1.2-2.491.el6_8.1
-#   - qemu-kvm.x86_64:0.12.1.2-2.491.el6_8.1
-#   - qemu-kvm-debuginfo.x86_64:0.12.1.2-2.491.el6_8.1
-#   - qemu-kvm-tools.x86_64:0.12.1.2-2.491.el6_8.1
+#   - qemu-guest-agent.x86_64:0.12.1.2-2.491.el6_8.3
+#   - qemu-img.x86_64:0.12.1.2-2.491.el6_8.3
+#   - qemu-kvm.x86_64:0.12.1.2-2.491.el6_8.3
+#   - qemu-kvm-debuginfo.x86_64:0.12.1.2-2.491.el6_8.3
+#   - qemu-kvm-tools.x86_64:0.12.1.2-2.491.el6_8.3
 #
 # CVE List:
 #   - CVE-2012-3515

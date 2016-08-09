@@ -4,7 +4,7 @@
 # Security fix for RHSA-2011:0534
 #
 # Security announcement date: 2011-05-19 12:11:58 UTC
-# Script generation date:     2016-05-12 18:10:15 UTC
+# Script generation date:     2016-08-09 21:30:23 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -16,10 +16,10 @@
 #   - qemu-kvm-tools.x86_64:0.12.1.2-2.160.el6
 #
 # Last versions recommanded by security team:
-#   - qemu-img.x86_64:0.12.1.2-2.491.el6_8.1
-#   - qemu-kvm.x86_64:0.12.1.2-2.491.el6_8.1
-#   - qemu-kvm-debuginfo.x86_64:0.12.1.2-2.491.el6_8.1
-#   - qemu-kvm-tools.x86_64:0.12.1.2-2.491.el6_8.1
+#   - qemu-img.x86_64:0.12.1.2-2.491.el6_8.3
+#   - qemu-kvm.x86_64:0.12.1.2-2.491.el6_8.3
+#   - qemu-kvm-debuginfo.x86_64:0.12.1.2-2.491.el6_8.3
+#   - qemu-kvm-tools.x86_64:0.12.1.2-2.491.el6_8.3
 #
 # CVE List:
 #   - CVE-2011-1750
