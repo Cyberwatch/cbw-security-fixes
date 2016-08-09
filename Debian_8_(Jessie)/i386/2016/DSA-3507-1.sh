@@ -4,7 +4,7 @@
 # Security fix for DSA-3507-1
 #
 # Security announcement date: 2016-03-05 00:00:00 UTC
-# Script generation date:     2016-08-01 21:11:04 UTC
+# Script generation date:     2016-08-09 21:11:43 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -19,11 +19,11 @@
 #
 # Last versions recommanded by security team:
 #   - chromium-browser:49.0.2623.75-1~deb8u1
-#   - chromium:52.0.2743.82-1~deb8u1
-#   - chromium-dbg:52.0.2743.82-1~deb8u1
-#   - chromium-l10n:52.0.2743.82-1~deb8u1
-#   - chromium-inspector:52.0.2743.82-1~deb8u1
-#   - chromedriver:52.0.2743.82-1~deb8u1
+#   - chromium:52.0.2743.116-1~deb8u1
+#   - chromium-dbg:52.0.2743.116-1~deb8u1
+#   - chromium-l10n:52.0.2743.116-1~deb8u1
+#   - chromium-inspector:52.0.2743.116-1~deb8u1
+#   - chromedriver:52.0.2743.116-1~deb8u1
 #
 # CVE List:
 #   - CVE-2015-8126
@@ -49,8 +49,8 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade chromium-browser=49.0.2623.75-1~deb8u1 -y
-sudo apt-get install --only-upgrade chromium=52.0.2743.82-1~deb8u1 -y
-sudo apt-get install --only-upgrade chromium-dbg=52.0.2743.82-1~deb8u1 -y
-sudo apt-get install --only-upgrade chromium-l10n=52.0.2743.82-1~deb8u1 -y
-sudo apt-get install --only-upgrade chromium-inspector=52.0.2743.82-1~deb8u1 -y
-sudo apt-get install --only-upgrade chromedriver=52.0.2743.82-1~deb8u1 -y
+sudo apt-get install --only-upgrade chromium=52.0.2743.116-1~deb8u1 -y
+sudo apt-get install --only-upgrade chromium-dbg=52.0.2743.116-1~deb8u1 -y
+sudo apt-get install --only-upgrade chromium-l10n=52.0.2743.116-1~deb8u1 -y
+sudo apt-get install --only-upgrade chromium-inspector=52.0.2743.116-1~deb8u1 -y
+sudo apt-get install --only-upgrade chromedriver=52.0.2743.116-1~deb8u1 -y
