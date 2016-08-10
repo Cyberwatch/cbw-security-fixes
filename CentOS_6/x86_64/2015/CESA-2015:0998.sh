@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:0998
 #
 # Security announcement date: 2015-05-13 15:37:07 UTC
-# Script generation date:     2016-05-17 06:12:15 UTC
+# Script generation date:     2016-08-10 21:25:23 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -16,10 +16,10 @@
 #   - qemu-kvm-tools.x86_64:0.12.1.2-2.448.el6_6.3
 #
 # Last versions recommanded by security team:
-#   - qemu-guest-agent.x86_64:0.12.1.2-2.491.el6_8.1
-#   - qemu-img.x86_64:0.12.1.2-2.491.el6_8.1
-#   - qemu-kvm.x86_64:0.12.1.2-2.491.el6_8.1
-#   - qemu-kvm-tools.x86_64:0.12.1.2-2.491.el6_8.1
+#   - qemu-guest-agent.x86_64:0.12.1.2-2.491.el6_8.3
+#   - qemu-img.x86_64:0.12.1.2-2.491.el6_8.3
+#   - qemu-kvm.x86_64:0.12.1.2-2.491.el6_8.3
+#   - qemu-kvm-tools.x86_64:0.12.1.2-2.491.el6_8.3
 #
 # CVE List:
 #   - CVE-2015-3456

@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1100
 #
 # Security announcement date: 2013-07-22 20:02:54 UTC
-# Script generation date:     2016-05-17 06:11:42 UTC
+# Script generation date:     2016-08-10 21:22:56 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - qemu-kvm-tools.x86_64:0.12.1.2-2.355.0.1.el6.centos.6
 #
 # Last versions recommanded by security team:
-#   - qemu-guest-agent.x86_64:0.12.1.2-2.491.el6_8.1
+#   - qemu-guest-agent.x86_64:0.12.1.2-2.491.el6_8.3
 #   - qemu-guest-agent-win32.x86_64:0.12.1.2-2.355.0.1.el6.centos.6
-#   - qemu-img.x86_64:0.12.1.2-2.491.el6_8.1
-#   - qemu-kvm.x86_64:0.12.1.2-2.491.el6_8.1
-#   - qemu-kvm-tools.x86_64:0.12.1.2-2.491.el6_8.1
+#   - qemu-img.x86_64:0.12.1.2-2.491.el6_8.3
+#   - qemu-kvm.x86_64:0.12.1.2-2.491.el6_8.3
+#   - qemu-kvm-tools.x86_64:0.12.1.2-2.491.el6_8.3
 #
 # CVE List:
 #   - CVE-2013-2231
