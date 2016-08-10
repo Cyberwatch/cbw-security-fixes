@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:1060
 #
 # Security announcement date: 2013-07-15 20:44:08 UTC
-# Script generation date:     2016-05-12 18:11:30 UTC
+# Script generation date:     2016-08-10 21:38:27 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -24,18 +24,18 @@
 #   - java-1.7.0-ibm-src.i386:1.7.0.5.0-1jpp.2.el5_9
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-ibm.x86_64:1.7.0.9.40-1jpp.1.el5
-#   - java-1.7.0-ibm-demo.x86_64:1.7.0.9.40-1jpp.1.el5
-#   - java-1.7.0-ibm-devel.x86_64:1.7.0.9.40-1jpp.1.el5
-#   - java-1.7.0-ibm-jdbc.x86_64:1.7.0.9.40-1jpp.1.el5
-#   - java-1.7.0-ibm-plugin.x86_64:1.7.0.9.40-1jpp.1.el5
-#   - java-1.7.0-ibm-src.x86_64:1.7.0.9.40-1jpp.1.el5
-#   - java-1.7.0-ibm.i386:1.7.0.9.40-1jpp.1.el5
-#   - java-1.7.0-ibm-demo.i386:1.7.0.9.40-1jpp.1.el5
-#   - java-1.7.0-ibm-devel.i386:1.7.0.9.40-1jpp.1.el5
-#   - java-1.7.0-ibm-jdbc.i386:1.7.0.9.40-1jpp.1.el5
-#   - java-1.7.0-ibm-plugin.i386:1.7.0.9.40-1jpp.1.el5
-#   - java-1.7.0-ibm-src.i386:1.7.0.9.40-1jpp.1.el5
+#   - java-1.7.0-ibm.x86_64:1.7.0.9.50-1jpp.1.el5_11
+#   - java-1.7.0-ibm-demo.x86_64:1.7.0.9.50-1jpp.1.el5_11
+#   - java-1.7.0-ibm-devel.x86_64:1.7.0.9.50-1jpp.1.el5_11
+#   - java-1.7.0-ibm-jdbc.x86_64:1.7.0.9.50-1jpp.1.el5_11
+#   - java-1.7.0-ibm-plugin.x86_64:1.7.0.9.50-1jpp.1.el5_11
+#   - java-1.7.0-ibm-src.x86_64:1.7.0.9.50-1jpp.1.el5_11
+#   - java-1.7.0-ibm.i386:1.7.0.9.50-1jpp.1.el5_11
+#   - java-1.7.0-ibm-demo.i386:1.7.0.9.50-1jpp.1.el5_11
+#   - java-1.7.0-ibm-devel.i386:1.7.0.9.50-1jpp.1.el5_11
+#   - java-1.7.0-ibm-jdbc.i386:1.7.0.9.50-1jpp.1.el5_11
+#   - java-1.7.0-ibm-plugin.i386:1.7.0.9.50-1jpp.1.el5_11
+#   - java-1.7.0-ibm-src.i386:1.7.0.9.50-1jpp.1.el5_11
 #
 # CVE List:
 #   - CVE-2013-1500
@@ -78,15 +78,15 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.0-ibm.x86_64-1.7.0.9.40 -y 
-sudo yum install java-1.7.0-ibm-demo.x86_64-1.7.0.9.40 -y 
-sudo yum install java-1.7.0-ibm-devel.x86_64-1.7.0.9.40 -y 
-sudo yum install java-1.7.0-ibm-jdbc.x86_64-1.7.0.9.40 -y 
-sudo yum install java-1.7.0-ibm-plugin.x86_64-1.7.0.9.40 -y 
-sudo yum install java-1.7.0-ibm-src.x86_64-1.7.0.9.40 -y 
-sudo yum install java-1.7.0-ibm.i386-1.7.0.9.40 -y 
-sudo yum install java-1.7.0-ibm-demo.i386-1.7.0.9.40 -y 
-sudo yum install java-1.7.0-ibm-devel.i386-1.7.0.9.40 -y 
-sudo yum install java-1.7.0-ibm-jdbc.i386-1.7.0.9.40 -y 
-sudo yum install java-1.7.0-ibm-plugin.i386-1.7.0.9.40 -y 
-sudo yum install java-1.7.0-ibm-src.i386-1.7.0.9.40 -y 
+sudo yum install java-1.7.0-ibm.x86_64-1.7.0.9.50 -y 
+sudo yum install java-1.7.0-ibm-demo.x86_64-1.7.0.9.50 -y 
+sudo yum install java-1.7.0-ibm-devel.x86_64-1.7.0.9.50 -y 
+sudo yum install java-1.7.0-ibm-jdbc.x86_64-1.7.0.9.50 -y 
+sudo yum install java-1.7.0-ibm-plugin.x86_64-1.7.0.9.50 -y 
+sudo yum install java-1.7.0-ibm-src.x86_64-1.7.0.9.50 -y 
+sudo yum install java-1.7.0-ibm.i386-1.7.0.9.50 -y 
+sudo yum install java-1.7.0-ibm-demo.i386-1.7.0.9.50 -y 
+sudo yum install java-1.7.0-ibm-devel.i386-1.7.0.9.50 -y 
+sudo yum install java-1.7.0-ibm-jdbc.i386-1.7.0.9.50 -y 
+sudo yum install java-1.7.0-ibm-plugin.i386-1.7.0.9.50 -y 
+sudo yum install java-1.7.0-ibm-src.i386-1.7.0.9.50 -y 

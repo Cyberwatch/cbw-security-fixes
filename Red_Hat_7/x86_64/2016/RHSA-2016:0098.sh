@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0098
 #
 # Security announcement date: 2016-02-02 14:50:05 UTC
-# Script generation date:     2016-05-12 18:13:40 UTC
+# Script generation date:     2016-08-10 21:47:08 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - java-1.8.0-ibm-devel.i686:1.8.0.2.10-1jpp.1.el7
 #
 # Last versions recommanded by security team:
-#   - java-1.8.0-ibm.x86_64:1.8.0.3.0-1jpp.1.el7
-#   - java-1.8.0-ibm-demo.x86_64:1.8.0.3.0-1jpp.1.el7
-#   - java-1.8.0-ibm-devel.x86_64:1.8.0.3.0-1jpp.1.el7
-#   - java-1.8.0-ibm-jdbc.x86_64:1.8.0.3.0-1jpp.1.el7
-#   - java-1.8.0-ibm-plugin.x86_64:1.8.0.3.0-1jpp.1.el7
-#   - java-1.8.0-ibm-src.x86_64:1.8.0.3.0-1jpp.1.el7
-#   - java-1.8.0-ibm.i686:1.8.0.3.0-1jpp.1.el7
-#   - java-1.8.0-ibm-devel.i686:1.8.0.3.0-1jpp.1.el7
+#   - java-1.8.0-ibm.x86_64:1.8.0.3.10-1jpp.2.el7_2
+#   - java-1.8.0-ibm-demo.x86_64:1.8.0.3.10-1jpp.2.el7_2
+#   - java-1.8.0-ibm-devel.x86_64:1.8.0.3.10-1jpp.2.el7_2
+#   - java-1.8.0-ibm-jdbc.x86_64:1.8.0.3.10-1jpp.2.el7_2
+#   - java-1.8.0-ibm-plugin.x86_64:1.8.0.3.10-1jpp.2.el7_2
+#   - java-1.8.0-ibm-src.x86_64:1.8.0.3.10-1jpp.2.el7_2
+#   - java-1.8.0-ibm.i686:1.8.0.3.10-1jpp.2.el7_2
+#   - java-1.8.0-ibm-devel.i686:1.8.0.3.10-1jpp.2.el7_2
 #
 # CVE List:
 #   - CVE-2015-5041
@@ -45,11 +45,11 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.8.0-ibm.x86_64-1.8.0.3.0 -y 
-sudo yum install java-1.8.0-ibm-demo.x86_64-1.8.0.3.0 -y 
-sudo yum install java-1.8.0-ibm-devel.x86_64-1.8.0.3.0 -y 
-sudo yum install java-1.8.0-ibm-jdbc.x86_64-1.8.0.3.0 -y 
-sudo yum install java-1.8.0-ibm-plugin.x86_64-1.8.0.3.0 -y 
-sudo yum install java-1.8.0-ibm-src.x86_64-1.8.0.3.0 -y 
-sudo yum install java-1.8.0-ibm.i686-1.8.0.3.0 -y 
-sudo yum install java-1.8.0-ibm-devel.i686-1.8.0.3.0 -y 
+sudo yum install java-1.8.0-ibm.x86_64-1.8.0.3.10 -y 
+sudo yum install java-1.8.0-ibm-demo.x86_64-1.8.0.3.10 -y 
+sudo yum install java-1.8.0-ibm-devel.x86_64-1.8.0.3.10 -y 
+sudo yum install java-1.8.0-ibm-jdbc.x86_64-1.8.0.3.10 -y 
+sudo yum install java-1.8.0-ibm-plugin.x86_64-1.8.0.3.10 -y 
+sudo yum install java-1.8.0-ibm-src.x86_64-1.8.0.3.10 -y 
+sudo yum install java-1.8.0-ibm.i686-1.8.0.3.10 -y 
+sudo yum install java-1.8.0-ibm-devel.i686-1.8.0.3.10 -y 

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:1430
 #
 # Security announcement date: 2016-07-18 13:59:42 UTC
-# Script generation date:     2016-07-20 21:45:20 UTC
+# Script generation date:     2016-08-10 21:48:16 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - java-1.7.0-ibm-devel.x86_64:1.7.0.9.40-1jpp.1.el5
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-ibm.x86_64:1.7.0.9.40-1jpp.1.el5
-#   - java-1.7.0-ibm-devel.x86_64:1.7.0.9.40-1jpp.1.el5
+#   - java-1.7.0-ibm.x86_64:1.7.0.9.50-1jpp.1.el5_11
+#   - java-1.7.0-ibm-devel.x86_64:1.7.0.9.50-1jpp.1.el5_11
 #
 # CVE List:
 #   - CVE-2015-4734
@@ -65,5 +65,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.0-ibm.x86_64-1.7.0.9.40 -y 
-sudo yum install java-1.7.0-ibm-devel.x86_64-1.7.0.9.40 -y 
+sudo yum install java-1.7.0-ibm.x86_64-1.7.0.9.50 -y 
+sudo yum install java-1.7.0-ibm-devel.x86_64-1.7.0.9.50 -y 
