@@ -4,7 +4,7 @@
 # Security fix for DSA-3269-2
 #
 # Security announcement date: 2015-05-31 00:00:00 UTC
-# Script generation date:     2016-06-22 12:17:13 UTC
+# Script generation date:     2016-08-10 21:12:55 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -29,21 +29,21 @@
 #
 # Last versions recommanded by security team:
 #   - postgresql-9.1:9.1.22-0+deb7u1
-#   - libpq-dev:9.1.22-0+deb7u1
-#   - libpq5:9.1.22-0+deb7u1
-#   - libecpg6:9.1.22-0+deb7u1
-#   - libecpg-dev:9.1.22-0+deb7u1
-#   - libecpg-compat3:9.1.22-0+deb7u1
-#   - libpgtypes3:9.1.22-0+deb7u1
-#   - postgresql-9.1-dbg:9.1.22-0+deb7u1
-#   - postgresql-client-9.1:9.1.22-0+deb7u1
-#   - postgresql-server-dev-9.1:9.1.22-0+deb7u1
-#   - postgresql-doc-9.1:9.1.22-0+deb7u1
-#   - postgresql-contrib-9.1:9.1.22-0+deb7u1
-#   - postgresql-plperl-9.1:9.1.22-0+deb7u1
-#   - postgresql-plpython-9.1:9.1.22-0+deb7u1
-#   - postgresql-plpython3-9.1:9.1.22-0+deb7u1
-#   - postgresql-pltcl-9.1:9.1.22-0+deb7u1
+#   - libpq-dev:9.1.23-0+deb7u1
+#   - libpq5:9.1.23-0+deb7u1
+#   - libecpg6:9.1.23-0+deb7u1
+#   - libecpg-dev:9.1.23-0+deb7u1
+#   - libecpg-compat3:9.1.23-0+deb7u1
+#   - libpgtypes3:9.1.23-0+deb7u1
+#   - postgresql-9.1-dbg:9.1.23-0+deb7u1
+#   - postgresql-client-9.1:9.1.23-0+deb7u1
+#   - postgresql-server-dev-9.1:9.1.23-0+deb7u1
+#   - postgresql-doc-9.1:9.1.23-0+deb7u1
+#   - postgresql-contrib-9.1:9.1.23-0+deb7u1
+#   - postgresql-plperl-9.1:9.1.23-0+deb7u1
+#   - postgresql-plpython-9.1:9.1.23-0+deb7u1
+#   - postgresql-plpython3-9.1:9.1.23-0+deb7u1
+#   - postgresql-pltcl-9.1:9.1.23-0+deb7u1
 #
 # CVE List:
 #
@@ -52,18 +52,18 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade postgresql-9.1=9.1.22-0+deb7u1 -y
-sudo apt-get install --only-upgrade libpq-dev=9.1.22-0+deb7u1 -y
-sudo apt-get install --only-upgrade libpq5=9.1.22-0+deb7u1 -y
-sudo apt-get install --only-upgrade libecpg6=9.1.22-0+deb7u1 -y
-sudo apt-get install --only-upgrade libecpg-dev=9.1.22-0+deb7u1 -y
-sudo apt-get install --only-upgrade libecpg-compat3=9.1.22-0+deb7u1 -y
-sudo apt-get install --only-upgrade libpgtypes3=9.1.22-0+deb7u1 -y
-sudo apt-get install --only-upgrade postgresql-9.1-dbg=9.1.22-0+deb7u1 -y
-sudo apt-get install --only-upgrade postgresql-client-9.1=9.1.22-0+deb7u1 -y
-sudo apt-get install --only-upgrade postgresql-server-dev-9.1=9.1.22-0+deb7u1 -y
-sudo apt-get install --only-upgrade postgresql-doc-9.1=9.1.22-0+deb7u1 -y
-sudo apt-get install --only-upgrade postgresql-contrib-9.1=9.1.22-0+deb7u1 -y
-sudo apt-get install --only-upgrade postgresql-plperl-9.1=9.1.22-0+deb7u1 -y
-sudo apt-get install --only-upgrade postgresql-plpython-9.1=9.1.22-0+deb7u1 -y
-sudo apt-get install --only-upgrade postgresql-plpython3-9.1=9.1.22-0+deb7u1 -y
-sudo apt-get install --only-upgrade postgresql-pltcl-9.1=9.1.22-0+deb7u1 -y
+sudo apt-get install --only-upgrade libpq-dev=9.1.23-0+deb7u1 -y
+sudo apt-get install --only-upgrade libpq5=9.1.23-0+deb7u1 -y
+sudo apt-get install --only-upgrade libecpg6=9.1.23-0+deb7u1 -y
+sudo apt-get install --only-upgrade libecpg-dev=9.1.23-0+deb7u1 -y
+sudo apt-get install --only-upgrade libecpg-compat3=9.1.23-0+deb7u1 -y
+sudo apt-get install --only-upgrade libpgtypes3=9.1.23-0+deb7u1 -y
+sudo apt-get install --only-upgrade postgresql-9.1-dbg=9.1.23-0+deb7u1 -y
+sudo apt-get install --only-upgrade postgresql-client-9.1=9.1.23-0+deb7u1 -y
+sudo apt-get install --only-upgrade postgresql-server-dev-9.1=9.1.23-0+deb7u1 -y
+sudo apt-get install --only-upgrade postgresql-doc-9.1=9.1.23-0+deb7u1 -y
+sudo apt-get install --only-upgrade postgresql-contrib-9.1=9.1.23-0+deb7u1 -y
+sudo apt-get install --only-upgrade postgresql-plperl-9.1=9.1.23-0+deb7u1 -y
+sudo apt-get install --only-upgrade postgresql-plpython-9.1=9.1.23-0+deb7u1 -y
+sudo apt-get install --only-upgrade postgresql-plpython3-9.1=9.1.23-0+deb7u1 -y
+sudo apt-get install --only-upgrade postgresql-pltcl-9.1=9.1.23-0+deb7u1 -y
