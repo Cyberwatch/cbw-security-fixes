@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1630
 #
 # Security announcement date: 2015-08-17 06:50:10 UTC
-# Script generation date:     2016-05-12 18:13:12 UTC
+# Script generation date:     2016-08-11 21:40:43 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -21,15 +21,15 @@
 #   - rh-mysql56-mysql-test.x86_64:5.6.26-1.el6
 #
 # Last versions recommanded by security team:
-#   - rh-mysql56-mysql.x86_64:5.6.30-1.el6
-#   - rh-mysql56-mysql-bench.x86_64:5.6.30-1.el6
-#   - rh-mysql56-mysql-common.x86_64:5.6.30-1.el6
-#   - rh-mysql56-mysql-config.x86_64:5.6.30-1.el6
-#   - rh-mysql56-mysql-debuginfo.x86_64:5.6.30-1.el6
-#   - rh-mysql56-mysql-devel.x86_64:5.6.30-1.el6
-#   - rh-mysql56-mysql-errmsg.x86_64:5.6.30-1.el6
-#   - rh-mysql56-mysql-server.x86_64:5.6.30-1.el6
-#   - rh-mysql56-mysql-test.x86_64:5.6.30-1.el6
+#   - rh-mysql56-mysql.x86_64:5.6.32-1.el6
+#   - rh-mysql56-mysql-bench.x86_64:5.6.32-1.el6
+#   - rh-mysql56-mysql-common.x86_64:5.6.32-1.el6
+#   - rh-mysql56-mysql-config.x86_64:5.6.32-1.el6
+#   - rh-mysql56-mysql-debuginfo.x86_64:5.6.32-1.el6
+#   - rh-mysql56-mysql-devel.x86_64:5.6.32-1.el6
+#   - rh-mysql56-mysql-errmsg.x86_64:5.6.32-1.el6
+#   - rh-mysql56-mysql-server.x86_64:5.6.32-1.el6
+#   - rh-mysql56-mysql-test.x86_64:5.6.32-1.el6
 #
 # CVE List:
 #   - CVE-2015-2582
@@ -55,12 +55,12 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install rh-mysql56-mysql.x86_64-5.6.30 -y 
-sudo yum install rh-mysql56-mysql-bench.x86_64-5.6.30 -y 
-sudo yum install rh-mysql56-mysql-common.x86_64-5.6.30 -y 
-sudo yum install rh-mysql56-mysql-config.x86_64-5.6.30 -y 
-sudo yum install rh-mysql56-mysql-debuginfo.x86_64-5.6.30 -y 
-sudo yum install rh-mysql56-mysql-devel.x86_64-5.6.30 -y 
-sudo yum install rh-mysql56-mysql-errmsg.x86_64-5.6.30 -y 
-sudo yum install rh-mysql56-mysql-server.x86_64-5.6.30 -y 
-sudo yum install rh-mysql56-mysql-test.x86_64-5.6.30 -y 
+sudo yum install rh-mysql56-mysql.x86_64-5.6.32 -y 
+sudo yum install rh-mysql56-mysql-bench.x86_64-5.6.32 -y 
+sudo yum install rh-mysql56-mysql-common.x86_64-5.6.32 -y 
+sudo yum install rh-mysql56-mysql-config.x86_64-5.6.32 -y 
+sudo yum install rh-mysql56-mysql-debuginfo.x86_64-5.6.32 -y 
+sudo yum install rh-mysql56-mysql-devel.x86_64-5.6.32 -y 
+sudo yum install rh-mysql56-mysql-errmsg.x86_64-5.6.32 -y 
+sudo yum install rh-mysql56-mysql-server.x86_64-5.6.32 -y 
+sudo yum install rh-mysql56-mysql-test.x86_64-5.6.32 -y 
