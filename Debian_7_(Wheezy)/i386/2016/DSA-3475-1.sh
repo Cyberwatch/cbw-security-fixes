@@ -4,7 +4,7 @@
 # Security fix for DSA-3475-1
 #
 # Security announcement date: 2016-02-13 00:00:00 UTC
-# Script generation date:     2016-08-10 21:13:36 UTC
+# Script generation date:     2016-08-11 21:10:45 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -28,7 +28,7 @@
 #   - postgresql-pltcl-9.1:9.1.20-0+deb7u1
 #
 # Last versions recommanded by security team:
-#   - postgresql-9.1:9.1.22-0+deb7u1
+#   - postgresql-9.1:9.1.23-0+deb7u1
 #   - libpq-dev:9.1.23-0+deb7u1
 #   - libpq5:9.1.23-0+deb7u1
 #   - libecpg6:9.1.23-0+deb7u1
@@ -54,7 +54,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade postgresql-9.1=9.1.22-0+deb7u1 -y
+sudo apt-get install --only-upgrade postgresql-9.1=9.1.23-0+deb7u1 -y
 sudo apt-get install --only-upgrade libpq-dev=9.1.23-0+deb7u1 -y
 sudo apt-get install --only-upgrade libpq5=9.1.23-0+deb7u1 -y
 sudo apt-get install --only-upgrade libecpg6=9.1.23-0+deb7u1 -y
