@@ -4,7 +4,7 @@
 # Security fix for USN-2891-1
 #
 # Security announcement date: 2016-02-03 00:00:00 UTC
-# Script generation date:     2016-08-04 21:07:34 UTC
+# Script generation date:     2016-08-12 21:07:09 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -15,9 +15,9 @@
 #   - qemu-common:1.0+noroms-0ubuntu14.27
 #
 # Last versions recommanded by security team:
-#   - qemu-kvm:1.0+noroms-0ubuntu14.29
-#   - qemu-utils:1.0+noroms-0ubuntu14.29
-#   - qemu-common:1.0+noroms-0ubuntu14.29
+#   - qemu-kvm:1.0+noroms-0ubuntu14.30
+#   - qemu-utils:1.0+noroms-0ubuntu14.30
+#   - qemu-common:1.0+noroms-0ubuntu14.30
 #
 # CVE List:
 #   - CVE-2015-7549
@@ -43,6 +43,6 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu-kvm=1.0+noroms-0ubuntu14.29 -y
-sudo apt-get install --only-upgrade qemu-utils=1.0+noroms-0ubuntu14.29 -y
-sudo apt-get install --only-upgrade qemu-common=1.0+noroms-0ubuntu14.29 -y
+sudo apt-get install --only-upgrade qemu-kvm=1.0+noroms-0ubuntu14.30 -y
+sudo apt-get install --only-upgrade qemu-utils=1.0+noroms-0ubuntu14.30 -y
+sudo apt-get install --only-upgrade qemu-common=1.0+noroms-0ubuntu14.30 -y
