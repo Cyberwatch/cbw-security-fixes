@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1766
 #
 # Security announcement date: 2014-10-30 20:53:42 UTC
-# Script generation date:     2016-05-12 18:12:27 UTC
+# Script generation date:     2016-08-12 21:41:25 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -40,34 +40,34 @@
 #   - php55-php-xmlrpc.x86_64:5.5.6-13.el6
 #
 # Last versions recommanded by security team:
-#   - php55-php.x86_64:5.5.21-4.el6
-#   - php55-php-bcmath.x86_64:5.5.21-4.el6
-#   - php55-php-cli.x86_64:5.5.21-4.el6
-#   - php55-php-common.x86_64:5.5.21-4.el6
-#   - php55-php-dba.x86_64:5.5.21-4.el6
-#   - php55-php-debuginfo.x86_64:5.5.21-4.el6
-#   - php55-php-devel.x86_64:5.5.21-4.el6
-#   - php55-php-enchant.x86_64:5.5.21-4.el6
-#   - php55-php-fpm.x86_64:5.5.21-4.el6
-#   - php55-php-gd.x86_64:5.5.21-4.el6
-#   - php55-php-gmp.x86_64:5.5.21-4.el6
-#   - php55-php-imap.x86_64:5.5.21-4.el6
-#   - php55-php-intl.x86_64:5.5.21-4.el6
-#   - php55-php-ldap.x86_64:5.5.21-4.el6
-#   - php55-php-mbstring.x86_64:5.5.21-4.el6
-#   - php55-php-mysqlnd.x86_64:5.5.21-4.el6
-#   - php55-php-odbc.x86_64:5.5.21-4.el6
-#   - php55-php-opcache.x86_64:5.5.21-4.el6
-#   - php55-php-pdo.x86_64:5.5.21-4.el6
-#   - php55-php-pgsql.x86_64:5.5.21-4.el6
-#   - php55-php-process.x86_64:5.5.21-4.el6
-#   - php55-php-pspell.x86_64:5.5.21-4.el6
-#   - php55-php-recode.x86_64:5.5.21-4.el6
-#   - php55-php-snmp.x86_64:5.5.21-4.el6
-#   - php55-php-soap.x86_64:5.5.21-4.el6
-#   - php55-php-tidy.x86_64:5.5.21-4.el6
-#   - php55-php-xml.x86_64:5.5.21-4.el6
-#   - php55-php-xmlrpc.x86_64:5.5.21-4.el6
+#   - php55-php.x86_64:5.5.21-5.el6
+#   - php55-php-bcmath.x86_64:5.5.21-5.el6
+#   - php55-php-cli.x86_64:5.5.21-5.el6
+#   - php55-php-common.x86_64:5.5.21-5.el6
+#   - php55-php-dba.x86_64:5.5.21-5.el6
+#   - php55-php-debuginfo.x86_64:5.5.21-5.el6
+#   - php55-php-devel.x86_64:5.5.21-5.el6
+#   - php55-php-enchant.x86_64:5.5.21-5.el6
+#   - php55-php-fpm.x86_64:5.5.21-5.el6
+#   - php55-php-gd.x86_64:5.5.21-5.el6
+#   - php55-php-gmp.x86_64:5.5.21-5.el6
+#   - php55-php-imap.x86_64:5.5.21-5.el6
+#   - php55-php-intl.x86_64:5.5.21-5.el6
+#   - php55-php-ldap.x86_64:5.5.21-5.el6
+#   - php55-php-mbstring.x86_64:5.5.21-5.el6
+#   - php55-php-mysqlnd.x86_64:5.5.21-5.el6
+#   - php55-php-odbc.x86_64:5.5.21-5.el6
+#   - php55-php-opcache.x86_64:5.5.21-5.el6
+#   - php55-php-pdo.x86_64:5.5.21-5.el6
+#   - php55-php-pgsql.x86_64:5.5.21-5.el6
+#   - php55-php-process.x86_64:5.5.21-5.el6
+#   - php55-php-pspell.x86_64:5.5.21-5.el6
+#   - php55-php-recode.x86_64:5.5.21-5.el6
+#   - php55-php-snmp.x86_64:5.5.21-5.el6
+#   - php55-php-soap.x86_64:5.5.21-5.el6
+#   - php55-php-tidy.x86_64:5.5.21-5.el6
+#   - php55-php-xml.x86_64:5.5.21-5.el6
+#   - php55-php-xmlrpc.x86_64:5.5.21-5.el6
 #
 # CVE List:
 #   - CVE-2014-0207

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1796
 #
 # Security announcement date: 2014-11-03 20:15:35 UTC
-# Script generation date:     2016-06-22 12:44:05 UTC
+# Script generation date:     2016-08-12 21:41:27 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -860,14 +860,14 @@
 #   - pam_openshift-debuginfo.x86_64:1.12.1.0-1.el6op
 #   - perl-Clone.x86_64:0.31-3.1.el6
 #   - perl-Clone-debuginfo.x86_64:0.31-3.1.el6
-#   - php-bcmath.x86_64:5.3.3-46.el6_7.1
-#   - php-debuginfo.x86_64:5.3.3-46.el6_7.1
-#   - php-devel.x86_64:5.3.3-46.el6_7.1
+#   - php-bcmath.x86_64:5.3.3-48.el6_8
+#   - php-debuginfo.x86_64:5.3.3-48.el6_8
+#   - php-devel.x86_64:5.3.3-48.el6_8
 #   - php-extras-debuginfo.x86_64:5.3.3-3.el6op
-#   - php-fpm.x86_64:5.3.3-46.el6_7.1
-#   - php-imap.x86_64:5.3.3-46.el6_7.1
-#   - php-intl.x86_64:5.3.3-46.el6_7.1
-#   - php-mbstring.x86_64:5.3.3-46.el6_7.1
+#   - php-fpm.x86_64:5.3.3-48.el6_8
+#   - php-imap.x86_64:5.3.3-48.el6_8
+#   - php-intl.x86_64:5.3.3-48.el6_8
+#   - php-mbstring.x86_64:5.3.3-48.el6_8
 #   - php-mcrypt.x86_64:5.3.3-3.el6op
 #   - php-pecl-imagick.x86_64:3.1.2-1.el6_5
 #   - php-pecl-imagick-debuginfo.x86_64:3.1.2-1.el6_5
@@ -875,7 +875,7 @@
 #   - php-pecl-mongo-debuginfo.x86_64:1.4.4-1.el6op
 #   - php-pecl-xdebug.x86_64:2.1.4-1.el6op
 #   - php-pecl-xdebug-debuginfo.x86_64:2.1.4-1.el6op
-#   - php-process.x86_64:5.3.3-46.el6_7.1
+#   - php-process.x86_64:5.3.3-48.el6_8
 #   - php54-php-pecl-imagick.x86_64:3.1.2-1.el6op
 #   - php54-php-pecl-imagick-debuginfo.x86_64:3.1.2-1.el6op
 #   - php54-php-pecl-mongo.x86_64:1.4.5-1.el6op

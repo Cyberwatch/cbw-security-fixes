@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1013
 #
 # Security announcement date: 2014-08-06 06:11:32 UTC
-# Script generation date:     2016-05-12 18:12:10 UTC
+# Script generation date:     2016-08-12 21:40:32 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -38,32 +38,32 @@
 #   - php-xmlrpc.x86_64:5.4.16-23.el7_0
 #
 # Last versions recommanded by security team:
-#   - php.x86_64:5.4.16-36.el7_1
-#   - php-bcmath.x86_64:5.4.16-36.el7_1
-#   - php-cli.x86_64:5.4.16-36.el7_1
-#   - php-common.x86_64:5.4.16-36.el7_1
-#   - php-dba.x86_64:5.4.16-36.el7_1
-#   - php-debuginfo.x86_64:5.4.16-36.el7_1
-#   - php-devel.x86_64:5.4.16-36.el7_1
-#   - php-embedded.x86_64:5.4.16-36.el7_1
-#   - php-enchant.x86_64:5.4.16-36.el7_1
-#   - php-fpm.x86_64:5.4.16-36.el7_1
-#   - php-gd.x86_64:5.4.16-36.el7_1
-#   - php-intl.x86_64:5.4.16-36.el7_1
-#   - php-ldap.x86_64:5.4.16-36.el7_1
-#   - php-mbstring.x86_64:5.4.16-36.el7_1
-#   - php-mysql.x86_64:5.4.16-36.el7_1
-#   - php-mysqlnd.x86_64:5.4.16-36.el7_1
-#   - php-odbc.x86_64:5.4.16-36.el7_1
-#   - php-pdo.x86_64:5.4.16-36.el7_1
-#   - php-pgsql.x86_64:5.4.16-36.el7_1
-#   - php-process.x86_64:5.4.16-36.el7_1
-#   - php-pspell.x86_64:5.4.16-36.el7_1
-#   - php-recode.x86_64:5.4.16-36.el7_1
-#   - php-snmp.x86_64:5.4.16-36.el7_1
-#   - php-soap.x86_64:5.4.16-36.el7_1
-#   - php-xml.x86_64:5.4.16-36.el7_1
-#   - php-xmlrpc.x86_64:5.4.16-36.el7_1
+#   - php.x86_64:5.4.16-36.3.el7_2
+#   - php-bcmath.x86_64:5.4.16-36.3.el7_2
+#   - php-cli.x86_64:5.4.16-36.3.el7_2
+#   - php-common.x86_64:5.4.16-36.3.el7_2
+#   - php-dba.x86_64:5.4.16-36.3.el7_2
+#   - php-debuginfo.x86_64:5.4.16-36.3.el7_2
+#   - php-devel.x86_64:5.4.16-36.3.el7_2
+#   - php-embedded.x86_64:5.4.16-36.3.el7_2
+#   - php-enchant.x86_64:5.4.16-36.3.el7_2
+#   - php-fpm.x86_64:5.4.16-36.3.el7_2
+#   - php-gd.x86_64:5.4.16-36.3.el7_2
+#   - php-intl.x86_64:5.4.16-36.3.el7_2
+#   - php-ldap.x86_64:5.4.16-36.3.el7_2
+#   - php-mbstring.x86_64:5.4.16-36.3.el7_2
+#   - php-mysql.x86_64:5.4.16-36.3.el7_2
+#   - php-mysqlnd.x86_64:5.4.16-36.3.el7_2
+#   - php-odbc.x86_64:5.4.16-36.3.el7_2
+#   - php-pdo.x86_64:5.4.16-36.3.el7_2
+#   - php-pgsql.x86_64:5.4.16-36.3.el7_2
+#   - php-process.x86_64:5.4.16-36.3.el7_2
+#   - php-pspell.x86_64:5.4.16-36.3.el7_2
+#   - php-recode.x86_64:5.4.16-36.3.el7_2
+#   - php-snmp.x86_64:5.4.16-36.3.el7_2
+#   - php-soap.x86_64:5.4.16-36.3.el7_2
+#   - php-xml.x86_64:5.4.16-36.3.el7_2
+#   - php-xmlrpc.x86_64:5.4.16-36.3.el7_2
 #
 # CVE List:
 #   - CVE-2013-7345

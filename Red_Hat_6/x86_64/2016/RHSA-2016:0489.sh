@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0489
 #
 # Security announcement date: 2016-03-22 16:51:51 UTC
-# Script generation date:     2016-05-12 18:13:45 UTC
+# Script generation date:     2016-08-12 21:46:18 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -54,14 +54,14 @@
 #   - rubygem-openshift-origin-common.noarch:1.29.5.2-1.el6op
 #   - rubygem-openshift-origin-frontend-apache-vhost.noarch:0.13.2.1-1.el6op
 #   - rubygem-openshift-origin-node.noarch:1.38.5.3-1.el6op
-#   - php-bcmath.x86_64:5.3.3-46.el6_7.1
-#   - php-debuginfo.x86_64:5.3.3-46.el6_7.1
-#   - php-devel.x86_64:5.3.3-46.el6_7.1
-#   - php-fpm.x86_64:5.3.3-46.el6_7.1
-#   - php-imap.x86_64:5.3.3-46.el6_7.1
-#   - php-intl.x86_64:5.3.3-46.el6_7.1
-#   - php-mbstring.x86_64:5.3.3-46.el6_7.1
-#   - php-process.x86_64:5.3.3-46.el6_7.1
+#   - php-bcmath.x86_64:5.3.3-48.el6_8
+#   - php-debuginfo.x86_64:5.3.3-48.el6_8
+#   - php-devel.x86_64:5.3.3-48.el6_8
+#   - php-fpm.x86_64:5.3.3-48.el6_8
+#   - php-imap.x86_64:5.3.3-48.el6_8
+#   - php-intl.x86_64:5.3.3-48.el6_8
+#   - php-mbstring.x86_64:5.3.3-48.el6_8
+#   - php-process.x86_64:5.3.3-48.el6_8
 #
 # CVE List:
 #   - CVE-2015-5254
