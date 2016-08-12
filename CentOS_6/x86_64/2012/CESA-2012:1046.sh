@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1046
 #
 # Security announcement date: 2012-07-10 17:36:22 UTC
-# Script generation date:     2016-05-12 18:07:45 UTC
+# Script generation date:     2016-08-12 21:20:30 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -38,32 +38,32 @@
 #   - php-zts.x86_64:5.3.3-14.el6_3
 #
 # Last versions recommanded by security team:
-#   - php.x86_64:5.3.3-46.el6_6
-#   - php-bcmath.x86_64:5.3.3-46.el6_6
-#   - php-cli.x86_64:5.3.3-46.el6_6
-#   - php-common.x86_64:5.3.3-46.el6_6
-#   - php-dba.x86_64:5.3.3-46.el6_6
-#   - php-devel.x86_64:5.3.3-46.el6_6
-#   - php-embedded.x86_64:5.3.3-46.el6_6
-#   - php-enchant.x86_64:5.3.3-46.el6_6
-#   - php-gd.x86_64:5.3.3-46.el6_6
-#   - php-imap.x86_64:5.3.3-46.el6_6
-#   - php-intl.x86_64:5.3.3-46.el6_6
-#   - php-ldap.x86_64:5.3.3-46.el6_6
-#   - php-mbstring.x86_64:5.3.3-46.el6_6
-#   - php-mysql.x86_64:5.3.3-46.el6_6
-#   - php-odbc.x86_64:5.3.3-46.el6_6
-#   - php-pdo.x86_64:5.3.3-46.el6_6
-#   - php-pgsql.x86_64:5.3.3-46.el6_6
-#   - php-process.x86_64:5.3.3-46.el6_6
-#   - php-pspell.x86_64:5.3.3-46.el6_6
-#   - php-recode.x86_64:5.3.3-46.el6_6
-#   - php-snmp.x86_64:5.3.3-46.el6_6
-#   - php-soap.x86_64:5.3.3-46.el6_6
-#   - php-tidy.x86_64:5.3.3-46.el6_6
-#   - php-xml.x86_64:5.3.3-46.el6_6
-#   - php-xmlrpc.x86_64:5.3.3-46.el6_6
-#   - php-zts.x86_64:5.3.3-46.el6_6
+#   - php.x86_64:5.3.3-48.el6_8
+#   - php-bcmath.x86_64:5.3.3-48.el6_8
+#   - php-cli.x86_64:5.3.3-48.el6_8
+#   - php-common.x86_64:5.3.3-48.el6_8
+#   - php-dba.x86_64:5.3.3-48.el6_8
+#   - php-devel.x86_64:5.3.3-48.el6_8
+#   - php-embedded.x86_64:5.3.3-48.el6_8
+#   - php-enchant.x86_64:5.3.3-48.el6_8
+#   - php-gd.x86_64:5.3.3-48.el6_8
+#   - php-imap.x86_64:5.3.3-48.el6_8
+#   - php-intl.x86_64:5.3.3-48.el6_8
+#   - php-ldap.x86_64:5.3.3-48.el6_8
+#   - php-mbstring.x86_64:5.3.3-48.el6_8
+#   - php-mysql.x86_64:5.3.3-48.el6_8
+#   - php-odbc.x86_64:5.3.3-48.el6_8
+#   - php-pdo.x86_64:5.3.3-48.el6_8
+#   - php-pgsql.x86_64:5.3.3-48.el6_8
+#   - php-process.x86_64:5.3.3-48.el6_8
+#   - php-pspell.x86_64:5.3.3-48.el6_8
+#   - php-recode.x86_64:5.3.3-48.el6_8
+#   - php-snmp.x86_64:5.3.3-48.el6_8
+#   - php-soap.x86_64:5.3.3-48.el6_8
+#   - php-tidy.x86_64:5.3.3-48.el6_8
+#   - php-xml.x86_64:5.3.3-48.el6_8
+#   - php-xmlrpc.x86_64:5.3.3-48.el6_8
+#   - php-zts.x86_64:5.3.3-48.el6_8
 #
 # CVE List:
 #   - CVE-2012-2143
