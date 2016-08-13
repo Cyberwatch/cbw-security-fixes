@@ -1,20 +1,20 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DSA-3491-1
+# Security fix for DSA-3647-1
 #
-# Security announcement date: 2016-02-24 00:00:00 UTC
-# Script generation date:     2016-08-13 21:10:31 UTC
+# Security announcement date: 2016-08-11 00:00:00 UTC
+# Script generation date:     2016-08-13 21:10:53 UTC
 #
 # Operating System: Debian 8 (Jessie)
-# Architecture: i386
+# Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - icedove:38.6.0-1~deb8u1
-#   - icedove-dev:38.6.0-1~deb8u1
-#   - icedove-dbg:38.6.0-1~deb8u1
-#   - iceowl-extension:38.6.0-1~deb8u1
-#   - calendar-google-provider:38.6.0-1~deb8u1
+#   - icedove:1:45.2.0-1~deb8u1
+#   - icedove-dev:1:45.2.0-1~deb8u1
+#   - icedove-dbg:1:45.2.0-1~deb8u1
+#   - iceowl-extension:1:45.2.0-1~deb8u1
+#   - calendar-google-provider:1:45.2.0-1~deb8u1
 #
 # Last versions recommanded by security team:
 #   - icedove:1:45.2.0-1~deb8u1
@@ -24,11 +24,7 @@
 #   - calendar-google-provider:1:45.2.0-1~deb8u1
 #
 # CVE List:
-#   - CVE-2015-7575
-#   - CVE-2016-1523
-#   - CVE-2016-1930
-#   - CVE-2016-1935
-#   - CVE-2016-1526
+#   - CVE-2016-2818
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
