@@ -4,16 +4,18 @@
 # Security fix for DLA-588-2
 #
 # Security announcement date: 2016-08-09 00:00:00 UTC
-# Script generation date:     2016-08-11 21:14:20 UTC
+# Script generation date:     2016-08-13 21:13:57 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
 #
 # Vulnerable packages fix on version:
 #   - mongodb:2.0.6-1.1+deb7u1
+#   - mongodb:1:2.0.6-1.1+deb7u1
 #
 # Last versions recommanded by security team:
-#   - mongodb:2.0.6-1.1+deb7u1
+#   - mongodb:1:2.0.6-1.1+deb7u1
+#   - mongodb:1:2.0.6-1.1+deb7u1
 #
 # CVE List:
 #
@@ -21,4 +23,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mongodb=2.0.6-1.1+deb7u1 -y
+sudo apt-get install --only-upgrade mongodb=1:2.0.6-1.1+deb7u1 -y
+sudo apt-get install --only-upgrade mongodb=1:2.0.6-1.1+deb7u1 -y
