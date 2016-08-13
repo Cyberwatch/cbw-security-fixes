@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:0999
 #
 # Security announcement date: 2015-05-13 16:57:36 UTC
-# Script generation date:     2016-05-12 18:08:38 UTC
+# Script generation date:     2016-08-13 21:22:24 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -21,15 +21,15 @@
 #   - libcacard-devel.i686:1.5.3-86.el7_1.2
 #
 # Last versions recommanded by security team:
-#   - libcacard.x86_64:1.5.3-105.el7_2.4
-#   - libcacard-devel.x86_64:1.5.3-105.el7_2.4
-#   - libcacard-tools.x86_64:1.5.3-105.el7_2.4
-#   - qemu-img.x86_64:1.5.3-105.el7_2.4
-#   - qemu-kvm.x86_64:1.5.3-105.el7_2.4
-#   - qemu-kvm-common.x86_64:1.5.3-105.el7_2.4
-#   - qemu-kvm-tools.x86_64:1.5.3-105.el7_2.4
-#   - libcacard.i686:1.5.3-105.el7_2.4
-#   - libcacard-devel.i686:1.5.3-105.el7_2.4
+#   - libcacard.x86_64:1.5.3-105.el7_2.7
+#   - libcacard-devel.x86_64:1.5.3-105.el7_2.7
+#   - libcacard-tools.x86_64:1.5.3-105.el7_2.7
+#   - qemu-img.x86_64:1.5.3-105.el7_2.7
+#   - qemu-kvm.x86_64:1.5.3-105.el7_2.7
+#   - qemu-kvm-common.x86_64:1.5.3-105.el7_2.7
+#   - qemu-kvm-tools.x86_64:1.5.3-105.el7_2.7
+#   - libcacard.i686:1.5.3-105.el7_2.7
+#   - libcacard-devel.i686:1.5.3-105.el7_2.7
 #
 # CVE List:
 #   - CVE-2015-3456
