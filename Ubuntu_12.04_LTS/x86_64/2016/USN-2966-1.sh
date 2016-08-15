@@ -4,7 +4,7 @@
 # Security fix for USN-2966-1
 #
 # Security announcement date: 2016-05-09 00:00:00 UTC
-# Script generation date:     2016-06-21 01:25:48 UTC
+# Script generation date:     2016-08-15 21:07:58 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - openssh-server:1:5.9p1-5ubuntu1.9
 #
 # Last versions recommanded by security team:
-#   - openssh-server:1:5.9p1-5ubuntu1.9
+#   - openssh-server:1:5.9p1-5ubuntu1.10
 #
 # CVE List:
 #   - CVE-2015-8325
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssh-server=1:5.9p1-5ubuntu1.9 -y
+sudo apt-get install --only-upgrade openssh-server=1:5.9p1-5ubuntu1.10 -y

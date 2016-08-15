@@ -4,7 +4,7 @@
 # Security fix for USN-2155-1
 #
 # Security announcement date: 2014-03-25 00:00:00 UTC
-# Script generation date:     2016-06-20 13:26:31 UTC
+# Script generation date:     2016-08-15 21:01:54 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - openssh-server:1:5.9p1-5ubuntu1.2
 #
 # Last versions recommanded by security team:
-#   - openssh-server:1:5.9p1-5ubuntu1.9
+#   - openssh-server:1:5.9p1-5ubuntu1.10
 #
 # CVE List:
 #   - CVE-2014-2532
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssh-server=1:5.9p1-5ubuntu1.9 -y
+sudo apt-get install --only-upgrade openssh-server=1:5.9p1-5ubuntu1.10 -y
