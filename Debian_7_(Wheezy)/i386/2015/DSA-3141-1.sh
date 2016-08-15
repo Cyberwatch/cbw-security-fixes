@@ -4,7 +4,7 @@
 # Security fix for DSA-3141-1
 #
 # Security announcement date: 2015-01-27 00:00:00 UTC
-# Script generation date:     2016-07-01 21:08:44 UTC
+# Script generation date:     2016-08-15 21:12:16 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -25,19 +25,19 @@
 #   - libwiretap-dev:1.8.2-5wheezy14
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.12.1+g01b65bf-4+deb8u6~deb7u2
-#   - wireshark-common:1.12.1+g01b65bf-4+deb8u6~deb7u2
-#   - tshark:1.12.1+g01b65bf-4+deb8u6~deb7u2
-#   - wireshark-dev:1.12.1+g01b65bf-4+deb8u6~deb7u2
-#   - wireshark-dbg:1.12.1+g01b65bf-4+deb8u6~deb7u2
-#   - wireshark-doc:1.12.1+g01b65bf-4+deb8u6~deb7u2
+#   - wireshark:1.12.1+g01b65bf-4+deb8u6~deb7u3
+#   - wireshark-common:1.12.1+g01b65bf-4+deb8u6~deb7u3
+#   - tshark:1.12.1+g01b65bf-4+deb8u6~deb7u3
+#   - wireshark-dev:1.12.1+g01b65bf-4+deb8u6~deb7u3
+#   - wireshark-dbg:1.12.1+g01b65bf-4+deb8u6~deb7u3
+#   - wireshark-doc:1.12.1+g01b65bf-4+deb8u6~deb7u3
 #   - libwireshark2:1.8.2-5wheezy18
 #   - libwsutil2:1.8.2-5wheezy18
-#   - libwsutil-dev:1.12.1+g01b65bf-4+deb8u6~deb7u2
-#   - libwireshark-data:1.12.1+g01b65bf-4+deb8u6~deb7u2
-#   - libwireshark-dev:1.12.1+g01b65bf-4+deb8u6~deb7u2
+#   - libwsutil-dev:1.12.1+g01b65bf-4+deb8u6~deb7u3
+#   - libwireshark-data:1.12.1+g01b65bf-4+deb8u6~deb7u3
+#   - libwireshark-dev:1.12.1+g01b65bf-4+deb8u6~deb7u3
 #   - libwiretap2:1.8.2-5wheezy18
-#   - libwiretap-dev:1.12.1+g01b65bf-4+deb8u6~deb7u2
+#   - libwiretap-dev:1.12.1+g01b65bf-4+deb8u6~deb7u3
 #
 # CVE List:
 #   - CVE-2015-0562
@@ -47,16 +47,16 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wireshark=1.12.1+g01b65bf-4+deb8u6~deb7u2 -y
-sudo apt-get install --only-upgrade wireshark-common=1.12.1+g01b65bf-4+deb8u6~deb7u2 -y
-sudo apt-get install --only-upgrade tshark=1.12.1+g01b65bf-4+deb8u6~deb7u2 -y
-sudo apt-get install --only-upgrade wireshark-dev=1.12.1+g01b65bf-4+deb8u6~deb7u2 -y
-sudo apt-get install --only-upgrade wireshark-dbg=1.12.1+g01b65bf-4+deb8u6~deb7u2 -y
-sudo apt-get install --only-upgrade wireshark-doc=1.12.1+g01b65bf-4+deb8u6~deb7u2 -y
+sudo apt-get install --only-upgrade wireshark=1.12.1+g01b65bf-4+deb8u6~deb7u3 -y
+sudo apt-get install --only-upgrade wireshark-common=1.12.1+g01b65bf-4+deb8u6~deb7u3 -y
+sudo apt-get install --only-upgrade tshark=1.12.1+g01b65bf-4+deb8u6~deb7u3 -y
+sudo apt-get install --only-upgrade wireshark-dev=1.12.1+g01b65bf-4+deb8u6~deb7u3 -y
+sudo apt-get install --only-upgrade wireshark-dbg=1.12.1+g01b65bf-4+deb8u6~deb7u3 -y
+sudo apt-get install --only-upgrade wireshark-doc=1.12.1+g01b65bf-4+deb8u6~deb7u3 -y
 sudo apt-get install --only-upgrade libwireshark2=1.8.2-5wheezy18 -y
 sudo apt-get install --only-upgrade libwsutil2=1.8.2-5wheezy18 -y
-sudo apt-get install --only-upgrade libwsutil-dev=1.12.1+g01b65bf-4+deb8u6~deb7u2 -y
-sudo apt-get install --only-upgrade libwireshark-data=1.12.1+g01b65bf-4+deb8u6~deb7u2 -y
-sudo apt-get install --only-upgrade libwireshark-dev=1.12.1+g01b65bf-4+deb8u6~deb7u2 -y
+sudo apt-get install --only-upgrade libwsutil-dev=1.12.1+g01b65bf-4+deb8u6~deb7u3 -y
+sudo apt-get install --only-upgrade libwireshark-data=1.12.1+g01b65bf-4+deb8u6~deb7u3 -y
+sudo apt-get install --only-upgrade libwireshark-dev=1.12.1+g01b65bf-4+deb8u6~deb7u3 -y
 sudo apt-get install --only-upgrade libwiretap2=1.8.2-5wheezy18 -y
-sudo apt-get install --only-upgrade libwiretap-dev=1.12.1+g01b65bf-4+deb8u6~deb7u2 -y
+sudo apt-get install --only-upgrade libwiretap-dev=1.12.1+g01b65bf-4+deb8u6~deb7u3 -y
