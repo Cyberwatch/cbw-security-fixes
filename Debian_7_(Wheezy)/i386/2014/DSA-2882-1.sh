@@ -4,7 +4,7 @@
 # Security fix for DSA-2882-1
 #
 # Security announcement date: 2014-03-20 00:00:00 UTC
-# Script generation date:     2016-06-22 12:16:34 UTC
+# Script generation date:     2016-08-16 21:09:20 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - extplorer:2.1.0b6+dfsg.3-4+deb7u1
 #
 # Last versions recommanded by security team:
-#   - extplorer:2.1.0b6+dfsg.3-4+deb7u3
+#   - extplorer:2.1.0b6+dfsg.3-4+deb7u4
 #
 # CVE List:
 #   - CVE-2013-5951
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade extplorer=2.1.0b6+dfsg.3-4+deb7u3 -y
+sudo apt-get install --only-upgrade extplorer=2.1.0b6+dfsg.3-4+deb7u4 -y
