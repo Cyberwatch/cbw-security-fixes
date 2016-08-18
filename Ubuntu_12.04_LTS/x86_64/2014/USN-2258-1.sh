@@ -4,7 +4,7 @@
 # Security fix for USN-2258-1
 #
 # Security announcement date: 2014-06-26 00:00:00 UTC
-# Script generation date:     2016-06-20 13:26:46 UTC
+# Script generation date:     2016-08-18 21:02:24 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -19,7 +19,7 @@
 #   - gnupg2:2.0.17-2ubuntu2.12.04.6
 #   - gnupg-agent:2.0.17-2ubuntu2.12.04.6
 #   - gpgsm:2.0.17-2ubuntu2.12.04.6
-#   - gnupg:1.4.11-3ubuntu2.9
+#   - gnupg:1.4.11-3ubuntu2.10
 #
 # CVE List:
 #   - CVE-2014-4617
@@ -31,4 +31,4 @@
 sudo apt-get install --only-upgrade gnupg2=2.0.17-2ubuntu2.12.04.6 -y
 sudo apt-get install --only-upgrade gnupg-agent=2.0.17-2ubuntu2.12.04.6 -y
 sudo apt-get install --only-upgrade gpgsm=2.0.17-2ubuntu2.12.04.6 -y
-sudo apt-get install --only-upgrade gnupg=1.4.11-3ubuntu2.9 -y
+sudo apt-get install --only-upgrade gnupg=1.4.11-3ubuntu2.10 -y

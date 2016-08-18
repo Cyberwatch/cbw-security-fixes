@@ -4,7 +4,7 @@
 # Security fix for USN-1682-1
 #
 # Security announcement date: 2013-01-09 00:00:00 UTC
-# Script generation date:     2016-06-20 21:31:53 UTC
+# Script generation date:     2016-08-18 21:01:08 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -15,7 +15,7 @@
 #
 # Last versions recommanded by security team:
 #   - gnupg2:2.0.17-2ubuntu2.12.04.6
-#   - gnupg:1.4.11-3ubuntu2.9
+#   - gnupg:1.4.11-3ubuntu2.10
 #
 # CVE List:
 #   - CVE-2012-6085
@@ -25,4 +25,4 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade gnupg2=2.0.17-2ubuntu2.12.04.6 -y
-sudo apt-get install --only-upgrade gnupg=1.4.11-3ubuntu2.9 -y
+sudo apt-get install --only-upgrade gnupg=1.4.11-3ubuntu2.10 -y

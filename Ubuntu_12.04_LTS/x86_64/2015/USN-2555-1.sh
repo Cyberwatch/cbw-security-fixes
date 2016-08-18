@@ -4,7 +4,7 @@
 # Security fix for USN-2555-1
 #
 # Security announcement date: 2015-04-01 00:00:00 UTC
-# Script generation date:     2016-06-20 12:39:57 UTC
+# Script generation date:     2016-08-18 21:04:07 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -16,10 +16,10 @@
 #   - libgcrypt11-dbg:1.5.0-3ubuntu0.4
 #
 # Last versions recommanded by security team:
-#   - libgcrypt11:1.5.0-3ubuntu0.5
-#   - libgcrypt11-doc:1.5.0-3ubuntu0.5
-#   - libgcrypt11-dev:1.5.0-3ubuntu0.5
-#   - libgcrypt11-dbg:1.5.0-3ubuntu0.5
+#   - libgcrypt11:1.5.0-3ubuntu0.6
+#   - libgcrypt11-doc:1.5.0-3ubuntu0.6
+#   - libgcrypt11-dev:1.5.0-3ubuntu0.6
+#   - libgcrypt11-dbg:1.5.0-3ubuntu0.6
 #
 # CVE List:
 #   - CVE-2014-3591
@@ -29,7 +29,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgcrypt11=1.5.0-3ubuntu0.5 -y
-sudo apt-get install --only-upgrade libgcrypt11-doc=1.5.0-3ubuntu0.5 -y
-sudo apt-get install --only-upgrade libgcrypt11-dev=1.5.0-3ubuntu0.5 -y
-sudo apt-get install --only-upgrade libgcrypt11-dbg=1.5.0-3ubuntu0.5 -y
+sudo apt-get install --only-upgrade libgcrypt11=1.5.0-3ubuntu0.6 -y
+sudo apt-get install --only-upgrade libgcrypt11-doc=1.5.0-3ubuntu0.6 -y
+sudo apt-get install --only-upgrade libgcrypt11-dev=1.5.0-3ubuntu0.6 -y
+sudo apt-get install --only-upgrade libgcrypt11-dbg=1.5.0-3ubuntu0.6 -y
