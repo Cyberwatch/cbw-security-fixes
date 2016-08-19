@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0744
 #
 # Security announcement date: 2012-06-18 16:35:36 UTC
-# Script generation date:     2016-05-12 18:07:43 UTC
+# Script generation date:     2016-08-19 21:16:07 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -21,15 +21,15 @@
 #   - python-libs.i686:2.6.6-29.el6_2.2
 #
 # Last versions recommanded by security team:
-#   - python.x86_64:2.6.6-64.el6
-#   - python-devel.x86_64:2.6.6-64.el6
-#   - python-libs.x86_64:2.6.6-64.el6
-#   - python-test.x86_64:2.6.6-64.el6
-#   - python-tools.x86_64:2.6.6-64.el6
-#   - tkinter.x86_64:2.6.6-64.el6
+#   - python.x86_64:2.6.6-66.el6_8
+#   - python-devel.x86_64:2.6.6-66.el6_8
+#   - python-libs.x86_64:2.6.6-66.el6_8
+#   - python-test.x86_64:2.6.6-66.el6_8
+#   - python-tools.x86_64:2.6.6-66.el6_8
+#   - tkinter.x86_64:2.6.6-66.el6_8
 #   - python.i686:2.6.6-29.el6_2.2
-#   - python-devel.i686:2.6.6-64.el6
-#   - python-libs.i686:2.6.6-64.el6
+#   - python-devel.i686:2.6.6-66.el6_8
+#   - python-libs.i686:2.6.6-66.el6_8
 #
 # CVE List:
 #   - CVE-2011-4940
