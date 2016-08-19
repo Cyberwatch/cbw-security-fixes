@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:1087
 #
 # Security announcement date: 2016-05-17 16:32:08 UTC
-# Script generation date:     2016-05-19 18:17:45 UTC
+# Script generation date:     2016-08-19 21:43:22 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -22,16 +22,16 @@
 #   - mod_ssl24.x86_64:2.4.6-61.ep7.el6
 #
 # Last versions recommanded by security team:
-#   - httpd24.x86_64:2.4.6-61.ep7.el6
-#   - httpd24-debuginfo.x86_64:2.4.6-61.ep7.el6
-#   - httpd24-devel.x86_64:2.4.6-61.ep7.el6
-#   - httpd24-tools.x86_64:2.4.6-61.ep7.el6
-#   - mod_ldap24.x86_64:2.4.6-61.ep7.el6
-#   - mod_proxy24_html.x86_64:2.4.6-61.ep7.el6
+#   - httpd24.x86_64:2.4.6-62.ep7.el6
+#   - httpd24-debuginfo.x86_64:2.4.6-62.ep7.el6
+#   - httpd24-devel.x86_64:2.4.6-62.ep7.el6
+#   - httpd24-tools.x86_64:2.4.6-62.ep7.el6
+#   - mod_ldap24.x86_64:2.4.6-62.ep7.el6
+#   - mod_proxy24_html.x86_64:2.4.6-62.ep7.el6
 #   - mod_security-jws3.x86_64:2.8.0-7.GA.ep7.el6
 #   - mod_security-jws3-debuginfo.x86_64:2.8.0-7.GA.ep7.el6
-#   - mod_session24.x86_64:2.4.6-61.ep7.el6
-#   - mod_ssl24.x86_64:2.4.6-61.ep7.el6
+#   - mod_session24.x86_64:2.4.6-62.ep7.el6
+#   - mod_ssl24.x86_64:2.4.6-62.ep7.el6
 #
 # CVE List:
 #   - CVE-2015-5345

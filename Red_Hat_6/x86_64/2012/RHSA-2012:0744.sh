@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:0744
 #
 # Security announcement date: 2012-06-18 13:54:04 UTC
-# Script generation date:     2016-05-12 18:10:50 UTC
+# Script generation date:     2016-08-19 21:30:41 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - python-tools.x86_64:2.6.6-29.el6_2.2
 #
 # Last versions recommanded by security team:
-#   - python.x86_64:2.6.6-64.el6
-#   - python-debuginfo.x86_64:2.6.6-64.el6
-#   - python-libs.x86_64:2.6.6-64.el6
-#   - tkinter.x86_64:2.6.6-64.el6
-#   - python-devel.x86_64:2.6.6-64.el6
-#   - python-test.x86_64:2.6.6-64.el6
-#   - python-tools.x86_64:2.6.6-64.el6
+#   - python.x86_64:2.6.6-66.el6_8
+#   - python-debuginfo.x86_64:2.6.6-66.el6_8
+#   - python-libs.x86_64:2.6.6-66.el6_8
+#   - tkinter.x86_64:2.6.6-66.el6_8
+#   - python-devel.x86_64:2.6.6-66.el6_8
+#   - python-test.x86_64:2.6.6-66.el6_8
+#   - python-tools.x86_64:2.6.6-66.el6_8
 #
 # CVE List:
 #   - CVE-2011-4940

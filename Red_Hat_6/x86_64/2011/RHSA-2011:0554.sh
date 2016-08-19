@@ -4,7 +4,7 @@
 # Security fix for RHSA-2011:0554
 #
 # Security announcement date: 2011-05-19 12:18:28 UTC
-# Script generation date:     2016-05-12 18:10:15 UTC
+# Script generation date:     2016-08-19 21:27:53 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -20,13 +20,13 @@
 #   - python-docs.noarch:2.6.6-2.el6
 #
 # Last versions recommanded by security team:
-#   - python.x86_64:2.6.6-64.el6
-#   - python-debuginfo.x86_64:2.6.6-64.el6
-#   - python-libs.x86_64:2.6.6-64.el6
-#   - tkinter.x86_64:2.6.6-64.el6
-#   - python-devel.x86_64:2.6.6-64.el6
-#   - python-test.x86_64:2.6.6-64.el6
-#   - python-tools.x86_64:2.6.6-64.el6
+#   - python.x86_64:2.6.6-66.el6_8
+#   - python-debuginfo.x86_64:2.6.6-66.el6_8
+#   - python-libs.x86_64:2.6.6-66.el6_8
+#   - tkinter.x86_64:2.6.6-66.el6_8
+#   - python-devel.x86_64:2.6.6-66.el6_8
+#   - python-test.x86_64:2.6.6-66.el6_8
+#   - python-tools.x86_64:2.6.6-66.el6_8
 #   - python-docs.noarch:2.6.6-2.el6
 #
 # CVE List:

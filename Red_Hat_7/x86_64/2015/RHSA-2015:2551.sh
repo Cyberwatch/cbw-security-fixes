@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:2551
 #
 # Security announcement date: 2015-12-08 15:52:31 UTC
-# Script generation date:     2016-05-12 18:13:31 UTC
+# Script generation date:     2016-08-19 21:41:58 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -54,11 +54,11 @@
 #   - rh-ruby22-rubygem-redhat_access_cfme.noarch:0.0.7-1.el7cf
 #   - rh-ruby22-rubygem-redhat_access_lib.noarch:0.0.6-1.el7cf
 #   - rh-ruby22-rubygem-unf_ext-doc.noarch:0.0.7.1-3.el7cf
-#   - cfme.x86_64:5.5.0.13-2.el7cf
-#   - cfme-appliance.x86_64:5.5.0.13-1.el7cf
-#   - cfme-appliance-debuginfo.x86_64:5.5.0.13-1.el7cf
-#   - cfme-debuginfo.x86_64:5.5.0.13-2.el7cf
-#   - cfme-gemset.x86_64:5.5.0.13-1.el7cf
+#   - cfme.x86_64:5.6.1.2-1.el7cf
+#   - cfme-appliance.x86_64:5.6.1.2-1.el7cf
+#   - cfme-appliance-debuginfo.x86_64:5.6.1.2-1.el7cf
+#   - cfme-debuginfo.x86_64:5.6.1.2-1.el7cf
+#   - cfme-gemset.x86_64:5.6.1.2-1.el7cf
 #   - prince.x86_64:9.0r2-10.el7cf
 #   - rh-ruby22-rubygem-bcrypt.x86_64:3.1.10-3.el7cf
 #   - rh-ruby22-rubygem-bcrypt-debuginfo.x86_64:3.1.10-3.el7cf
@@ -101,11 +101,11 @@
 sudo yum install rh-ruby22-rubygem-redhat_access_cfme.noarch-0.0.7 -y 
 sudo yum install rh-ruby22-rubygem-redhat_access_lib.noarch-0.0.6 -y 
 sudo yum install rh-ruby22-rubygem-unf_ext-doc.noarch-0.0.7.1 -y 
-sudo yum install cfme.x86_64-5.5.0.13 -y 
-sudo yum install cfme-appliance.x86_64-5.5.0.13 -y 
-sudo yum install cfme-appliance-debuginfo.x86_64-5.5.0.13 -y 
-sudo yum install cfme-debuginfo.x86_64-5.5.0.13 -y 
-sudo yum install cfme-gemset.x86_64-5.5.0.13 -y 
+sudo yum install cfme.x86_64-5.6.1.2 -y 
+sudo yum install cfme-appliance.x86_64-5.6.1.2 -y 
+sudo yum install cfme-appliance-debuginfo.x86_64-5.6.1.2 -y 
+sudo yum install cfme-debuginfo.x86_64-5.6.1.2 -y 
+sudo yum install cfme-gemset.x86_64-5.6.1.2 -y 
 sudo yum install prince.x86_64-9.0r2 -y 
 sudo yum install rh-ruby22-rubygem-bcrypt.x86_64-3.1.10 -y 
 sudo yum install rh-ruby22-rubygem-bcrypt-debuginfo.x86_64-3.1.10 -y 
