@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:0920
 #
 # Security announcement date: 2014-07-23 10:13:24 UTC
-# Script generation date:     2016-07-18 21:39:37 UTC
+# Script generation date:     2016-08-22 21:13:21 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -20,12 +20,12 @@
 #   - httpd-devel.i686:2.2.15-31.el6_5
 #
 # Last versions recommanded by security team:
-#   - httpd.x86_64:2.2.15-54.el6_8
-#   - httpd-debuginfo.x86_64:2.2.15-54.el6_8
-#   - httpd-tools.x86_64:2.2.15-54.el6_8
+#   - httpd.x86_64:2.2.26-54.ep6.el6
+#   - httpd-debuginfo.x86_64:2.2.26-54.ep6.el6
+#   - httpd-tools.x86_64:2.2.26-54.ep6.el6
 #   - httpd-manual.noarch:2.2.15-54.el6_8
-#   - httpd-devel.x86_64:2.2.15-54.el6_8
-#   - mod_ssl.x86_64:2.2.15-54.el6_8
+#   - httpd-devel.x86_64:2.2.26-54.ep6.el6
+#   - mod_ssl.x86_64:2.2.26-54.ep6.el6
 #   - httpd-debuginfo.i686:2.2.15-54.el6_8
 #   - httpd-devel.i686:2.2.15-54.el6_8
 #
@@ -38,11 +38,11 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install httpd.x86_64-2.2.15 -y 
-sudo yum install httpd-debuginfo.x86_64-2.2.15 -y 
-sudo yum install httpd-tools.x86_64-2.2.15 -y 
+sudo yum install httpd.x86_64-2.2.26 -y 
+sudo yum install httpd-debuginfo.x86_64-2.2.26 -y 
+sudo yum install httpd-tools.x86_64-2.2.26 -y 
 sudo yum install httpd-manual.noarch-2.2.15 -y 
-sudo yum install httpd-devel.x86_64-2.2.15 -y 
-sudo yum install mod_ssl.x86_64-2.2.15 -y 
+sudo yum install httpd-devel.x86_64-2.2.26 -y 
+sudo yum install mod_ssl.x86_64-2.2.26 -y 
 sudo yum install httpd-debuginfo.i686-2.2.15 -y 
 sudo yum install httpd-devel.i686-2.2.15 -y 

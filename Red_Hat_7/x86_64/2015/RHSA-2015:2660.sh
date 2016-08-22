@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:2660
 #
 # Security announcement date: 2015-12-16 18:23:51 UTC
-# Script generation date:     2016-08-19 21:42:12 UTC
+# Script generation date:     2016-08-22 21:14:47 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -78,8 +78,8 @@
 #   - httpd24-tools.x86_64:2.4.6-62.ep7.el7
 #   - mod_bmx.x86_64:0.9.5-7.GA.ep7.el7
 #   - mod_bmx-debuginfo.x86_64:0.9.5-7.GA.ep7.el7
-#   - mod_cluster-native.x86_64:1.2.9-6.Final_redhat_2.ep6.el7
-#   - mod_cluster-native-debuginfo.x86_64:1.2.9-6.Final_redhat_2.ep6.el7
+#   - mod_cluster-native.x86_64:1.2.13-3.Final_redhat_2.ep6.el7
+#   - mod_cluster-native-debuginfo.x86_64:1.2.13-3.Final_redhat_2.ep6.el7
 #   - mod_ldap24.x86_64:2.4.6-62.ep7.el7
 #   - mod_proxy24_html.x86_64:2.4.6-62.ep7.el7
 #   - mod_session24.x86_64:2.4.6-62.ep7.el7
@@ -124,8 +124,8 @@ sudo yum install httpd24-devel.x86_64-2.4.6 -y
 sudo yum install httpd24-tools.x86_64-2.4.6 -y 
 sudo yum install mod_bmx.x86_64-0.9.5 -y 
 sudo yum install mod_bmx-debuginfo.x86_64-0.9.5 -y 
-sudo yum install mod_cluster-native.x86_64-1.2.9 -y 
-sudo yum install mod_cluster-native-debuginfo.x86_64-1.2.9 -y 
+sudo yum install mod_cluster-native.x86_64-1.2.13 -y 
+sudo yum install mod_cluster-native-debuginfo.x86_64-1.2.13 -y 
 sudo yum install mod_ldap24.x86_64-2.4.6 -y 
 sudo yum install mod_proxy24_html.x86_64-2.4.6 -y 
 sudo yum install mod_session24.x86_64-2.4.6 -y 

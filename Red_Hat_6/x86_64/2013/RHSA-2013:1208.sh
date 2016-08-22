@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:1208
 #
 # Security announcement date: 2013-09-04 19:05:17 UTC
-# Script generation date:     2016-07-18 21:37:14 UTC
+# Script generation date:     2016-08-22 21:12:46 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -258,12 +258,12 @@
 #   - apache-commons-daemon-jsvc-eap6-debuginfo.x86_64:1.0.15-6.redhat_2.ep6.el6
 #   - hornetq-native.x86_64:2.3.25-3.Final_redhat_1.ep6.el6
 #   - hornetq-native-debuginfo.x86_64:2.3.25-3.Final_redhat_1.ep6.el6
-#   - httpd.x86_64:2.2.15-54.el6_8
-#   - httpd-debuginfo.x86_64:2.2.15-54.el6_8
-#   - httpd-devel.x86_64:2.2.15-54.el6_8
-#   - httpd-tools.x86_64:2.2.15-54.el6_8
+#   - httpd.x86_64:2.2.26-54.ep6.el6
+#   - httpd-debuginfo.x86_64:2.2.26-54.ep6.el6
+#   - httpd-devel.x86_64:2.2.26-54.ep6.el6
+#   - httpd-tools.x86_64:2.2.26-54.ep6.el6
 #   - jbossas-hornetq-native.x86_64:2.3.25-3.Final_redhat_1.ep6.el6
-#   - mod_ssl.x86_64:2.2.15-54.el6_8
+#   - mod_ssl.x86_64:2.2.26-54.ep6.el6
 #
 # CVE List:
 #   - CVE-2012-3499
@@ -398,9 +398,9 @@ sudo yum install apache-commons-daemon-jsvc-eap6.x86_64-1.0.15 -y
 sudo yum install apache-commons-daemon-jsvc-eap6-debuginfo.x86_64-1.0.15 -y 
 sudo yum install hornetq-native.x86_64-2.3.25 -y 
 sudo yum install hornetq-native-debuginfo.x86_64-2.3.25 -y 
-sudo yum install httpd.x86_64-2.2.15 -y 
-sudo yum install httpd-debuginfo.x86_64-2.2.15 -y 
-sudo yum install httpd-devel.x86_64-2.2.15 -y 
-sudo yum install httpd-tools.x86_64-2.2.15 -y 
+sudo yum install httpd.x86_64-2.2.26 -y 
+sudo yum install httpd-debuginfo.x86_64-2.2.26 -y 
+sudo yum install httpd-devel.x86_64-2.2.26 -y 
+sudo yum install httpd-tools.x86_64-2.2.26 -y 
 sudo yum install jbossas-hornetq-native.x86_64-2.3.25 -y 
-sudo yum install mod_ssl.x86_64-2.2.15 -y 
+sudo yum install mod_ssl.x86_64-2.2.26 -y 

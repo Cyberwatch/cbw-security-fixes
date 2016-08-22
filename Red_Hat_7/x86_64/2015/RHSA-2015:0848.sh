@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:0848
 #
 # Security announcement date: 2015-04-16 16:45:02 UTC
-# Script generation date:     2016-05-12 18:12:54 UTC
+# Script generation date:     2016-08-22 21:14:08 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -436,24 +436,24 @@
 #   - xml-commons-resolver-eap6.noarch:1.2.0-1.redhat_10.2.ep6.el7
 #   - hornetq-native.x86_64:2.3.25-3.Final_redhat_1.ep6.el7
 #   - hornetq-native-debuginfo.x86_64:2.3.25-3.Final_redhat_1.ep6.el7
-#   - httpd22.x86_64:2.2.26-42.ep6.el7
-#   - httpd22-debuginfo.x86_64:2.2.26-42.ep6.el7
-#   - httpd22-devel.x86_64:2.2.26-42.ep6.el7
-#   - httpd22-manual.x86_64:2.2.26-42.ep6.el7
-#   - httpd22-tools.x86_64:2.2.26-42.ep6.el7
+#   - httpd22.x86_64:2.2.26-56.ep6.el7
+#   - httpd22-debuginfo.x86_64:2.2.26-56.ep6.el7
+#   - httpd22-devel.x86_64:2.2.26-56.ep6.el7
+#   - httpd22-manual.x86_64:2.2.26-56.ep6.el7
+#   - httpd22-tools.x86_64:2.2.26-56.ep6.el7
 #   - jbossas-hornetq-native.x86_64:2.3.25-3.Final_redhat_1.ep6.el7
 #   - jbossas-jbossweb-native.x86_64:1.1.32-3.redhat_1.ep6.el7
-#   - mod_cluster-native.x86_64:1.2.9-6.Final_redhat_2.ep6.el7
-#   - mod_cluster-native-debuginfo.x86_64:1.2.9-6.Final_redhat_2.ep6.el7
-#   - mod_jk-ap22.x86_64:1.2.40-4.redhat_2.ep6.el7
-#   - mod_jk-debuginfo.x86_64:1.2.40-4.redhat_2.ep6.el7
+#   - mod_cluster-native.x86_64:1.2.13-3.Final_redhat_2.ep6.el7
+#   - mod_cluster-native-debuginfo.x86_64:1.2.13-3.Final_redhat_2.ep6.el7
+#   - mod_jk-ap22.x86_64:1.2.41-2.redhat_3.ep6.el7
+#   - mod_jk-debuginfo.x86_64:1.2.41-2.redhat_3.ep6.el7
 #   - mod_rt.x86_64:2.4.1-6.GA.ep6.el7
 #   - mod_rt-debuginfo.x86_64:2.4.1-6.GA.ep6.el7
 #   - mod_snmp.x86_64:2.4.1-13.GA.ep6.el7
 #   - mod_snmp-debuginfo.x86_64:2.4.1-13.GA.ep6.el7
-#   - mod_ssl22.x86_64:2.2.26-42.ep6.el7
-#   - tomcat-native.x86_64:1.1.32-3.redhat_1.ep6.el7
-#   - tomcat-native-debuginfo.x86_64:1.1.32-3.redhat_1.ep6.el7
+#   - mod_ssl22.x86_64:2.2.26-56.ep6.el7
+#   - tomcat-native.x86_64:1.1.34-5.redhat_1.ep6.el7
+#   - tomcat-native-debuginfo.x86_64:1.1.34-5.redhat_1.ep6.el7
 #
 # CVE List:
 #   - CVE-2014-3586
@@ -677,14 +677,14 @@ sudo yum install httpd22-manual.x86_64-2.2.26 -y
 sudo yum install httpd22-tools.x86_64-2.2.26 -y 
 sudo yum install jbossas-hornetq-native.x86_64-2.3.25 -y 
 sudo yum install jbossas-jbossweb-native.x86_64-1.1.32 -y 
-sudo yum install mod_cluster-native.x86_64-1.2.9 -y 
-sudo yum install mod_cluster-native-debuginfo.x86_64-1.2.9 -y 
-sudo yum install mod_jk-ap22.x86_64-1.2.40 -y 
-sudo yum install mod_jk-debuginfo.x86_64-1.2.40 -y 
+sudo yum install mod_cluster-native.x86_64-1.2.13 -y 
+sudo yum install mod_cluster-native-debuginfo.x86_64-1.2.13 -y 
+sudo yum install mod_jk-ap22.x86_64-1.2.41 -y 
+sudo yum install mod_jk-debuginfo.x86_64-1.2.41 -y 
 sudo yum install mod_rt.x86_64-2.4.1 -y 
 sudo yum install mod_rt-debuginfo.x86_64-2.4.1 -y 
 sudo yum install mod_snmp.x86_64-2.4.1 -y 
 sudo yum install mod_snmp-debuginfo.x86_64-2.4.1 -y 
 sudo yum install mod_ssl22.x86_64-2.2.26 -y 
-sudo yum install tomcat-native.x86_64-1.1.32 -y 
-sudo yum install tomcat-native-debuginfo.x86_64-1.1.32 -y 
+sudo yum install tomcat-native.x86_64-1.1.34 -y 
+sudo yum install tomcat-native-debuginfo.x86_64-1.1.34 -y 

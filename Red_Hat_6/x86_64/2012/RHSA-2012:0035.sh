@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:0035
 #
 # Security announcement date: 2012-01-18 19:30:54 UTC
-# Script generation date:     2016-05-12 18:10:37 UTC
+# Script generation date:     2016-08-22 21:11:53 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -22,8 +22,8 @@
 #   - mod_cluster-jbossas.noarch:1.0.10-12.2.GA_CP04.ep5.el6
 #   - mod_cluster-jbossweb2.noarch:1.0.10-12.2.GA_CP04.ep5.el6
 #   - mod_cluster-tomcat6.noarch:1.2.9-1.Final_redhat_1.1.ep6.el6
-#   - mod_cluster-native.x86_64:1.2.9-6.Final_redhat_2.ep6.el6
-#   - mod_cluster-native-debuginfo.x86_64:1.2.9-6.Final_redhat_2.ep6.el6
+#   - mod_cluster-native.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
+#   - mod_cluster-native-debuginfo.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
 #
 # CVE List:
 #   - CVE-2011-4608
@@ -36,5 +36,5 @@ sudo yum install mod_cluster-demo.noarch-1.2.11 -y
 sudo yum install mod_cluster-jbossas.noarch-1.0.10 -y 
 sudo yum install mod_cluster-jbossweb2.noarch-1.0.10 -y 
 sudo yum install mod_cluster-tomcat6.noarch-1.2.9 -y 
-sudo yum install mod_cluster-native.x86_64-1.2.9 -y 
-sudo yum install mod_cluster-native-debuginfo.x86_64-1.2.9 -y 
+sudo yum install mod_cluster-native.x86_64-1.2.13 -y 
+sudo yum install mod_cluster-native-debuginfo.x86_64-1.2.13 -y 

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2011:0946
 #
 # Security announcement date: 2011-07-18 22:07:29 UTC
-# Script generation date:     2016-05-12 18:10:22 UTC
+# Script generation date:     2016-08-22 21:11:36 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -584,12 +584,12 @@
 #   - xml-commons-which11.noarch:1.3.04-8.2_patch_01.ep5.el6
 #   - xml-security.noarch:1.5.7-2.redhat_1.1.ep6.el6
 #   - jboss-eap5-native.x86_64:5.2.0-6.ep5.el6
-#   - mod_cluster-native.x86_64:1.2.9-6.Final_redhat_2.ep6.el6
-#   - mod_cluster-native-debuginfo.x86_64:1.2.9-6.Final_redhat_2.ep6.el6
+#   - mod_cluster-native.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
+#   - mod_cluster-native-debuginfo.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
 #   - mod_jk-ap20.x86_64:1.2.31-1.1.2.ep5.el6
-#   - mod_jk-debuginfo.x86_64:1.2.40-4.redhat_2.ep6.el6
-#   - tomcat-native.x86_64:1.1.32-3.redhat_1.ep6.el6
-#   - tomcat-native-debuginfo.x86_64:1.1.32-3.redhat_1.ep6.el6
+#   - mod_jk-debuginfo.x86_64:1.2.41-2.redhat_3.ep6.el6
+#   - tomcat-native.x86_64:1.1.34-5.redhat_1.ep6.el6
+#   - tomcat-native-debuginfo.x86_64:1.1.34-5.redhat_1.ep6.el6
 #
 # CVE List:
 #   - CVE-2011-2196
@@ -882,9 +882,9 @@ sudo yum install xml-commons-which10.noarch-1.3.04 -y
 sudo yum install xml-commons-which11.noarch-1.3.04 -y 
 sudo yum install xml-security.noarch-1.5.7 -y 
 sudo yum install jboss-eap5-native.x86_64-5.2.0 -y 
-sudo yum install mod_cluster-native.x86_64-1.2.9 -y 
-sudo yum install mod_cluster-native-debuginfo.x86_64-1.2.9 -y 
+sudo yum install mod_cluster-native.x86_64-1.2.13 -y 
+sudo yum install mod_cluster-native-debuginfo.x86_64-1.2.13 -y 
 sudo yum install mod_jk-ap20.x86_64-1.2.31 -y 
-sudo yum install mod_jk-debuginfo.x86_64-1.2.40 -y 
-sudo yum install tomcat-native.x86_64-1.1.32 -y 
-sudo yum install tomcat-native-debuginfo.x86_64-1.1.32 -y 
+sudo yum install mod_jk-debuginfo.x86_64-1.2.41 -y 
+sudo yum install tomcat-native.x86_64-1.1.34 -y 
+sudo yum install tomcat-native-debuginfo.x86_64-1.1.34 -y 

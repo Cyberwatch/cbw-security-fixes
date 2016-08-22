@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:1786
 #
 # Security announcement date: 2013-12-04 18:35:58 UTC
-# Script generation date:     2016-05-12 18:11:43 UTC
+# Script generation date:     2016-08-22 21:12:54 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -360,10 +360,10 @@
 #   - hornetq-native.x86_64:2.3.25-3.Final_redhat_1.ep6.el6
 #   - hornetq-native-debuginfo.x86_64:2.3.25-3.Final_redhat_1.ep6.el6
 #   - jbossas-hornetq-native.x86_64:2.3.25-3.Final_redhat_1.ep6.el6
-#   - mod_cluster-native.x86_64:1.2.9-6.Final_redhat_2.ep6.el6
-#   - mod_cluster-native-debuginfo.x86_64:1.2.9-6.Final_redhat_2.ep6.el6
-#   - mod_jk-ap22.x86_64:1.2.40-4.redhat_2.ep6.el6
-#   - mod_jk-debuginfo.x86_64:1.2.40-4.redhat_2.ep6.el6
+#   - mod_cluster-native.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
+#   - mod_cluster-native-debuginfo.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
+#   - mod_jk-ap22.x86_64:1.2.41-2.redhat_3.ep6.el6
+#   - mod_jk-debuginfo.x86_64:1.2.41-2.redhat_3.ep6.el6
 #
 # CVE List:
 #   - CVE-2013-2035
@@ -545,7 +545,7 @@ sudo yum install xom.noarch-1.2.7 -y
 sudo yum install hornetq-native.x86_64-2.3.25 -y 
 sudo yum install hornetq-native-debuginfo.x86_64-2.3.25 -y 
 sudo yum install jbossas-hornetq-native.x86_64-2.3.25 -y 
-sudo yum install mod_cluster-native.x86_64-1.2.9 -y 
-sudo yum install mod_cluster-native-debuginfo.x86_64-1.2.9 -y 
-sudo yum install mod_jk-ap22.x86_64-1.2.40 -y 
-sudo yum install mod_jk-debuginfo.x86_64-1.2.40 -y 
+sudo yum install mod_cluster-native.x86_64-1.2.13 -y 
+sudo yum install mod_cluster-native-debuginfo.x86_64-1.2.13 -y 
+sudo yum install mod_jk-ap22.x86_64-1.2.41 -y 
+sudo yum install mod_jk-debuginfo.x86_64-1.2.41 -y 
