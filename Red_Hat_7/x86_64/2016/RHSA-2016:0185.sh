@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0185
 #
 # Security announcement date: 2016-02-16 13:25:26 UTC
-# Script generation date:     2016-08-19 21:42:42 UTC
+# Script generation date:     2016-08-23 21:18:06 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -30,24 +30,24 @@
 #   - kernel-doc.noarch:3.10.0-327.10.1.el7
 #
 # Last versions recommanded by security team:
-#   - kernel.x86_64:3.10.0-327.28.3.el7
-#   - kernel-debug.x86_64:3.10.0-327.28.3.el7
-#   - kernel-debug-debuginfo.x86_64:3.10.0-327.28.3.el7
-#   - kernel-debug-devel.x86_64:3.10.0-327.28.3.el7
-#   - kernel-debuginfo.x86_64:3.10.0-327.28.3.el7
-#   - kernel-debuginfo-common-x86_64.x86_64:3.10.0-327.28.3.el7
-#   - kernel-devel.x86_64:3.10.0-327.28.3.el7
-#   - kernel-headers.x86_64:3.10.0-327.28.3.el7
-#   - kernel-tools.x86_64:3.10.0-327.28.3.el7
-#   - kernel-tools-debuginfo.x86_64:3.10.0-327.28.3.el7
-#   - kernel-tools-libs.x86_64:3.10.0-327.28.3.el7
-#   - perf.x86_64:3.10.0-327.28.3.el7
-#   - perf-debuginfo.x86_64:3.10.0-327.28.3.el7
-#   - python-perf.x86_64:3.10.0-327.28.3.el7
-#   - python-perf-debuginfo.x86_64:3.10.0-327.28.3.el7
-#   - kernel-tools-libs-devel.x86_64:3.10.0-327.28.3.el7
-#   - kernel-abi-whitelists.noarch:3.10.0-327.28.3.el7
-#   - kernel-doc.noarch:3.10.0-327.28.3.el7
+#   - kernel.x86_64:3.10.0-229.40.1.el7
+#   - kernel-debug.x86_64:3.10.0-229.40.1.el7
+#   - kernel-debug-debuginfo.x86_64:3.10.0-229.40.1.el7
+#   - kernel-debug-devel.x86_64:3.10.0-229.40.1.el7
+#   - kernel-debuginfo.x86_64:3.10.0-229.40.1.el7
+#   - kernel-debuginfo-common-x86_64.x86_64:3.10.0-229.40.1.el7
+#   - kernel-devel.x86_64:3.10.0-229.40.1.el7
+#   - kernel-headers.x86_64:3.10.0-229.40.1.el7
+#   - kernel-tools.x86_64:3.10.0-229.40.1.el7
+#   - kernel-tools-debuginfo.x86_64:3.10.0-229.40.1.el7
+#   - kernel-tools-libs.x86_64:3.10.0-229.40.1.el7
+#   - perf.x86_64:3.10.0-229.40.1.el7
+#   - perf-debuginfo.x86_64:3.10.0-229.40.1.el7
+#   - python-perf.x86_64:3.10.0-229.40.1.el7
+#   - python-perf-debuginfo.x86_64:3.10.0-229.40.1.el7
+#   - kernel-tools-libs-devel.x86_64:3.10.0-229.40.1.el7
+#   - kernel-abi-whitelists.noarch:3.10.0-229.40.1.ael7b
+#   - kernel-doc.noarch:3.10.0-229.40.1.ael7b
 #
 # CVE List:
 #   - CVE-2015-5157
