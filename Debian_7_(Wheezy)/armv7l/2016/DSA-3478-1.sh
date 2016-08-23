@@ -4,7 +4,7 @@
 # Security fix for DSA-3478-1
 #
 # Security announcement date: 2016-02-15 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:59 UTC
+# Script generation date:     2016-08-23 21:07:04 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - libgcrypt11:1.5.0-5+deb7u4
 #
 # Last versions recommanded by security team:
-#   - libgcrypt11:1.5.0-5+deb7u3
+#   - libgcrypt11:1.5.0-5+deb7u5
 #
 # CVE List:
 #   - CVE-2015-7511
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgcrypt11=1.5.0-5+deb7u3 -y
+sudo apt-get install --only-upgrade libgcrypt11=1.5.0-5+deb7u5 -y

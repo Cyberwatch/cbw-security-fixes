@@ -4,7 +4,7 @@
 # Security fix for DSA-3185-1
 #
 # Security announcement date: 2015-03-12 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:18 UTC
+# Script generation date:     2016-08-23 21:06:05 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -16,10 +16,10 @@
 #   - libgcrypt11-dbg:1.5.0-5+deb7u3
 #
 # Last versions recommanded by security team:
-#   - libgcrypt11:1.5.0-5+deb7u4
-#   - libgcrypt11-doc:1.5.0-5+deb7u4
-#   - libgcrypt11-dev:1.5.0-5+deb7u4
-#   - libgcrypt11-dbg:1.5.0-5+deb7u4
+#   - libgcrypt11:1.5.0-5+deb7u5
+#   - libgcrypt11-doc:1.5.0-5+deb7u5
+#   - libgcrypt11-dev:1.5.0-5+deb7u5
+#   - libgcrypt11-dbg:1.5.0-5+deb7u5
 #
 # CVE List:
 #   - CVE-2014-3591
@@ -29,7 +29,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgcrypt11=1.5.0-5+deb7u4 -y
-sudo apt-get install --only-upgrade libgcrypt11-doc=1.5.0-5+deb7u4 -y
-sudo apt-get install --only-upgrade libgcrypt11-dev=1.5.0-5+deb7u4 -y
-sudo apt-get install --only-upgrade libgcrypt11-dbg=1.5.0-5+deb7u4 -y
+sudo apt-get install --only-upgrade libgcrypt11=1.5.0-5+deb7u5 -y
+sudo apt-get install --only-upgrade libgcrypt11-doc=1.5.0-5+deb7u5 -y
+sudo apt-get install --only-upgrade libgcrypt11-dev=1.5.0-5+deb7u5 -y
+sudo apt-get install --only-upgrade libgcrypt11-dbg=1.5.0-5+deb7u5 -y

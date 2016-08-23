@@ -4,7 +4,7 @@
 # Security fix for DSA-3619-1
 #
 # Security announcement date: 2016-07-15 00:00:00 UTC
-# Script generation date:     2016-07-28 21:11:31 UTC
+# Script generation date:     2016-08-23 21:07:33 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -34,6 +34,7 @@
 #   - CVE-2016-6132
 #   - CVE-2016-6161
 #   - CVE-2016-6214
+#   - CVE-2016-6905
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
