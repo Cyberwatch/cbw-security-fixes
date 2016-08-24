@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:2666
 #
 # Security announcement date: 2015-12-17 17:12:14 UTC
-# Script generation date:     2016-05-12 18:13:34 UTC
+# Script generation date:     2016-08-24 21:15:55 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -37,13 +37,13 @@
 #   - rubygem-openshift-origin-common.noarch:1.29.5.2-1.el6op
 #   - rubygem-openshift-origin-controller.noarch:1.38.4.2-1.el6op
 #   - rubygem-openshift-origin-routing-daemon.noarch:0.26.4.4-1.el6op
-#   - openshift-origin-cartridge-jbosseap.noarch:2.27.3.1-1.el6op
+#   - openshift-origin-cartridge-jbosseap.noarch:2.27.4.2-1.el6op
 #   - openshift-enterprise-upgrade-node.noarch:2.2.9-1.el6op
-#   - openshift-origin-cartridge-haproxy.noarch:1.31.5.1-1.el6op
-#   - openshift-origin-cartridge-jbossews.noarch:1.35.3.2-1.el6op
-#   - openshift-origin-cartridge-python.noarch:1.34.2.1-1.el6op
-#   - openshift-origin-node-util.noarch:1.38.6.2-1.el6op
-#   - rubygem-openshift-origin-node.noarch:1.38.5.3-1.el6op
+#   - openshift-origin-cartridge-haproxy.noarch:1.31.6.2-1.el6op
+#   - openshift-origin-cartridge-jbossews.noarch:1.35.5.2-1.el6op
+#   - openshift-origin-cartridge-python.noarch:1.34.3.2-1.el6op
+#   - openshift-origin-node-util.noarch:1.38.7.1-1.el6op
+#   - rubygem-openshift-origin-node.noarch:1.38.6.4-1.el6op
 #   - haproxy15side.x86_64:1.5.4-2.el6op
 #   - haproxy15side-debuginfo.x86_64:1.5.4-2.el6op
 #
@@ -62,12 +62,12 @@ sudo yum install openshift-origin-broker-util.noarch-1.37.4.2 -y
 sudo yum install rubygem-openshift-origin-common.noarch-1.29.5.2 -y 
 sudo yum install rubygem-openshift-origin-controller.noarch-1.38.4.2 -y 
 sudo yum install rubygem-openshift-origin-routing-daemon.noarch-0.26.4.4 -y 
-sudo yum install openshift-origin-cartridge-jbosseap.noarch-2.27.3.1 -y 
+sudo yum install openshift-origin-cartridge-jbosseap.noarch-2.27.4.2 -y 
 sudo yum install openshift-enterprise-upgrade-node.noarch-2.2.9 -y 
-sudo yum install openshift-origin-cartridge-haproxy.noarch-1.31.5.1 -y 
-sudo yum install openshift-origin-cartridge-jbossews.noarch-1.35.3.2 -y 
-sudo yum install openshift-origin-cartridge-python.noarch-1.34.2.1 -y 
-sudo yum install openshift-origin-node-util.noarch-1.38.6.2 -y 
-sudo yum install rubygem-openshift-origin-node.noarch-1.38.5.3 -y 
+sudo yum install openshift-origin-cartridge-haproxy.noarch-1.31.6.2 -y 
+sudo yum install openshift-origin-cartridge-jbossews.noarch-1.35.5.2 -y 
+sudo yum install openshift-origin-cartridge-python.noarch-1.34.3.2 -y 
+sudo yum install openshift-origin-node-util.noarch-1.38.7.1 -y 
+sudo yum install rubygem-openshift-origin-node.noarch-1.38.6.4 -y 
 sudo yum install haproxy15side.x86_64-1.5.4 -y 
 sudo yum install haproxy15side-debuginfo.x86_64-1.5.4 -y 

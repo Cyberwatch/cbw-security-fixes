@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0489
 #
 # Security announcement date: 2016-03-22 16:51:51 UTC
-# Script generation date:     2016-08-12 21:46:18 UTC
+# Script generation date:     2016-08-24 21:16:11 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -37,23 +37,23 @@
 #   - php-process.x86_64:5.3.3-46.el6_7.1
 #
 # Last versions recommanded by security team:
-#   - activemq.x86_64:5.9.0-6.redhat.611454.el6op
-#   - activemq-client.x86_64:5.9.0-6.redhat.611454.el6op
-#   - jenkins.noarch:1.625.3-1.el6op
+#   - activemq.x86_64:5.9.0-6.redhat.611463.el6op
+#   - activemq-client.x86_64:5.9.0-6.redhat.611463.el6op
+#   - jenkins.noarch:1.651.2-1.el6op
 #   - openshift-enterprise-release.noarch:2.2.9-1.el6op
 #   - openshift-enterprise-upgrade-node.noarch:2.2.9-1.el6op
 #   - openshift-enterprise-yum-validator.noarch:2.2.9-1.el6op
-#   - openshift-origin-cartridge-cron.noarch:1.25.2.1-1.el6op
-#   - openshift-origin-cartridge-haproxy.noarch:1.31.5.1-1.el6op
-#   - openshift-origin-cartridge-mysql.noarch:1.31.2.1-1.el6op
-#   - openshift-origin-cartridge-php.noarch:1.35.3.1-1.el6op
-#   - openshift-origin-cartridge-python.noarch:1.34.2.1-1.el6op
-#   - openshift-origin-msg-node-mcollective.noarch:1.30.2.1-1.el6op
-#   - openshift-origin-node-proxy.noarch:1.26.2.1-1.el6op
-#   - openshift-origin-node-util.noarch:1.38.6.2-1.el6op
+#   - openshift-origin-cartridge-cron.noarch:1.25.4.2-1.el6op
+#   - openshift-origin-cartridge-haproxy.noarch:1.31.6.2-1.el6op
+#   - openshift-origin-cartridge-mysql.noarch:1.31.3.3-1.el6op
+#   - openshift-origin-cartridge-php.noarch:1.35.4.2-1.el6op
+#   - openshift-origin-cartridge-python.noarch:1.34.3.2-1.el6op
+#   - openshift-origin-msg-node-mcollective.noarch:1.30.2.2-1.el6op
+#   - openshift-origin-node-proxy.noarch:1.26.3.1-1.el6op
+#   - openshift-origin-node-util.noarch:1.38.7.1-1.el6op
 #   - rubygem-openshift-origin-common.noarch:1.29.5.2-1.el6op
 #   - rubygem-openshift-origin-frontend-apache-vhost.noarch:0.13.2.1-1.el6op
-#   - rubygem-openshift-origin-node.noarch:1.38.5.3-1.el6op
+#   - rubygem-openshift-origin-node.noarch:1.38.6.4-1.el6op
 #   - php-bcmath.x86_64:5.3.3-48.el6_8
 #   - php-debuginfo.x86_64:5.3.3-48.el6_8
 #   - php-devel.x86_64:5.3.3-48.el6_8
@@ -86,21 +86,21 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install activemq.x86_64-5.9.0 -y 
 sudo yum install activemq-client.x86_64-5.9.0 -y 
-sudo yum install jenkins.noarch-1.625.3 -y 
+sudo yum install jenkins.noarch-1.651.2 -y 
 sudo yum install openshift-enterprise-release.noarch-2.2.9 -y 
 sudo yum install openshift-enterprise-upgrade-node.noarch-2.2.9 -y 
 sudo yum install openshift-enterprise-yum-validator.noarch-2.2.9 -y 
-sudo yum install openshift-origin-cartridge-cron.noarch-1.25.2.1 -y 
-sudo yum install openshift-origin-cartridge-haproxy.noarch-1.31.5.1 -y 
-sudo yum install openshift-origin-cartridge-mysql.noarch-1.31.2.1 -y 
-sudo yum install openshift-origin-cartridge-php.noarch-1.35.3.1 -y 
-sudo yum install openshift-origin-cartridge-python.noarch-1.34.2.1 -y 
-sudo yum install openshift-origin-msg-node-mcollective.noarch-1.30.2.1 -y 
-sudo yum install openshift-origin-node-proxy.noarch-1.26.2.1 -y 
-sudo yum install openshift-origin-node-util.noarch-1.38.6.2 -y 
+sudo yum install openshift-origin-cartridge-cron.noarch-1.25.4.2 -y 
+sudo yum install openshift-origin-cartridge-haproxy.noarch-1.31.6.2 -y 
+sudo yum install openshift-origin-cartridge-mysql.noarch-1.31.3.3 -y 
+sudo yum install openshift-origin-cartridge-php.noarch-1.35.4.2 -y 
+sudo yum install openshift-origin-cartridge-python.noarch-1.34.3.2 -y 
+sudo yum install openshift-origin-msg-node-mcollective.noarch-1.30.2.2 -y 
+sudo yum install openshift-origin-node-proxy.noarch-1.26.3.1 -y 
+sudo yum install openshift-origin-node-util.noarch-1.38.7.1 -y 
 sudo yum install rubygem-openshift-origin-common.noarch-1.29.5.2 -y 
 sudo yum install rubygem-openshift-origin-frontend-apache-vhost.noarch-0.13.2.1 -y 
-sudo yum install rubygem-openshift-origin-node.noarch-1.38.5.3 -y 
+sudo yum install rubygem-openshift-origin-node.noarch-1.38.6.4 -y 
 sudo yum install php-bcmath.x86_64-5.3.3 -y 
 sudo yum install php-debuginfo.x86_64-5.3.3 -y 
 sudo yum install php-devel.x86_64-5.3.3 -y 

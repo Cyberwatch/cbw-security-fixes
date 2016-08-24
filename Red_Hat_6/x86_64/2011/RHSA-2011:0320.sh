@@ -4,7 +4,7 @@
 # Security fix for RHSA-2011:0320
 #
 # Security announcement date: 2011-03-03 23:18:50 UTC
-# Script generation date:     2016-05-12 18:10:09 UTC
+# Script generation date:     2016-08-24 21:12:18 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -21,9 +21,9 @@
 #
 # Last versions recommanded by security team:
 #   - libcgroup.x86_64:0.36.1-6.el6_0.1
-#   - libcgroup-debuginfo.x86_64:0.40.rc1-15.el6_6
+#   - libcgroup-debuginfo.x86_64:0.40.rc1-18.el6_8
 #   - libcgroup-devel.x86_64:0.36.1-6.el6_0.1
-#   - libcgroup-pam.x86_64:0.40.rc1-15.el6_6
+#   - libcgroup-pam.x86_64:0.40.rc1-18.el6_8
 #   - libcgroup.i686:0.36.1-6.el6_0.1
 #   - libcgroup-debuginfo.i686:0.36.1-6.el6_0.1
 #   - libcgroup-devel.i686:0.36.1-6.el6_0.1

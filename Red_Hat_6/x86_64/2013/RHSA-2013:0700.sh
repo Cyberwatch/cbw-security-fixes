@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:0700
 #
 # Security announcement date: 2013-04-02 20:13:58 UTC
-# Script generation date:     2016-05-12 18:11:20 UTC
+# Script generation date:     2016-08-24 21:13:30 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - jenkins.noarch:1.506-1.el6op
 #
 # Last versions recommanded by security team:
-#   - jenkins.noarch:1.625.3-1.el6op
+#   - jenkins.noarch:1.651.2-1.el6op
 #
 # CVE List:
 #   - CVE-2013-0253
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install jenkins.noarch-1.625.3 -y 
+sudo yum install jenkins.noarch-1.651.2 -y 

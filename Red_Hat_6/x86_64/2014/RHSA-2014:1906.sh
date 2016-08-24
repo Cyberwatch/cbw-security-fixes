@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1906
 #
 # Security announcement date: 2014-11-25 18:35:23 UTC
-# Script generation date:     2016-05-12 18:12:34 UTC
+# Script generation date:     2016-08-24 21:14:55 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -36,16 +36,16 @@
 #   - openshift-origin-broker-util.noarch:1.37.4.2-1.el6op
 #   - rubygem-openshift-origin-controller.noarch:1.38.4.2-1.el6op
 #   - rubygem-openshift-origin-msg-broker-mcollective.noarch:1.35.3.1-1.el6op
-#   - openshift-origin-cartridge-jbosseap.noarch:2.27.3.1-1.el6op
+#   - openshift-origin-cartridge-jbosseap.noarch:2.27.4.2-1.el6op
 #   - openshift-enterprise-upgrade-node.noarch:2.2.9-1.el6op
-#   - openshift-origin-cartridge-jbossews.noarch:1.35.3.2-1.el6op
-#   - openshift-origin-msg-node-mcollective.noarch:1.30.2.1-1.el6op
-#   - openshift-origin-node-util.noarch:1.38.6.2-1.el6op
+#   - openshift-origin-cartridge-jbossews.noarch:1.35.5.2-1.el6op
+#   - openshift-origin-msg-node-mcollective.noarch:1.30.2.2-1.el6op
+#   - openshift-origin-node-util.noarch:1.38.7.1-1.el6op
 #   - rubygem-openshift-origin-frontend-apache-mod-rewrite.noarch:0.5.2.2-1.el6op
 #   - rubygem-openshift-origin-frontend-apache-vhost.noarch:0.13.2.1-1.el6op
 #   - rubygem-openshift-origin-frontend-apachedb.noarch:0.4.1.2-1.el6op
-#   - rubygem-openshift-origin-frontend-haproxy-sni-proxy.noarch:0.3.2.2-1.el6op
-#   - rubygem-openshift-origin-node.noarch:1.38.5.3-1.el6op
+#   - rubygem-openshift-origin-frontend-haproxy-sni-proxy.noarch:0.5.2.1-1.el6op
+#   - rubygem-openshift-origin-node.noarch:1.38.6.4-1.el6op
 #
 # CVE List:
 #   - CVE-2014-3602
@@ -62,13 +62,13 @@ sudo yum install openshift-origin-broker.noarch-1.16.2.10 -y
 sudo yum install openshift-origin-broker-util.noarch-1.37.4.2 -y 
 sudo yum install rubygem-openshift-origin-controller.noarch-1.38.4.2 -y 
 sudo yum install rubygem-openshift-origin-msg-broker-mcollective.noarch-1.35.3.1 -y 
-sudo yum install openshift-origin-cartridge-jbosseap.noarch-2.27.3.1 -y 
+sudo yum install openshift-origin-cartridge-jbosseap.noarch-2.27.4.2 -y 
 sudo yum install openshift-enterprise-upgrade-node.noarch-2.2.9 -y 
-sudo yum install openshift-origin-cartridge-jbossews.noarch-1.35.3.2 -y 
-sudo yum install openshift-origin-msg-node-mcollective.noarch-1.30.2.1 -y 
-sudo yum install openshift-origin-node-util.noarch-1.38.6.2 -y 
+sudo yum install openshift-origin-cartridge-jbossews.noarch-1.35.5.2 -y 
+sudo yum install openshift-origin-msg-node-mcollective.noarch-1.30.2.2 -y 
+sudo yum install openshift-origin-node-util.noarch-1.38.7.1 -y 
 sudo yum install rubygem-openshift-origin-frontend-apache-mod-rewrite.noarch-0.5.2.2 -y 
 sudo yum install rubygem-openshift-origin-frontend-apache-vhost.noarch-0.13.2.1 -y 
 sudo yum install rubygem-openshift-origin-frontend-apachedb.noarch-0.4.1.2 -y 
-sudo yum install rubygem-openshift-origin-frontend-haproxy-sni-proxy.noarch-0.3.2.2 -y 
-sudo yum install rubygem-openshift-origin-node.noarch-1.38.5.3 -y 
+sudo yum install rubygem-openshift-origin-frontend-haproxy-sni-proxy.noarch-0.5.2.1 -y 
+sudo yum install rubygem-openshift-origin-node.noarch-1.38.6.4 -y 

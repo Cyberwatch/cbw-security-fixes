@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1796
 #
 # Security announcement date: 2014-11-03 20:15:35 UTC
-# Script generation date:     2016-08-12 21:41:27 UTC
+# Script generation date:     2016-08-24 21:14:50 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -581,8 +581,8 @@
 #   - rubygem-systemu.noarch:1.2.0-3.el6op
 #   - rubygem-thor.noarch:0.14.6-2.el6op
 #   - yum-plugin-priorities.noarch:1.1.30-17.el6_5
-#   - activemq.x86_64:5.9.0-6.redhat.611454.el6op
-#   - activemq-client.x86_64:5.9.0-6.redhat.611454.el6op
+#   - activemq.x86_64:5.9.0-6.redhat.611463.el6op
+#   - activemq-client.x86_64:5.9.0-6.redhat.611463.el6op
 #   - js.x86_64:1.70-12.el6op
 #   - js-debuginfo.x86_64:1.70-12.el6op
 #   - js-devel.x86_64:1.70-12.el6op
@@ -646,13 +646,13 @@
 #   - v8-devel.x86_64:3.14.5.10-2.el6op
 #   - openshift-origin-cartridge-dependencies-optional-jbosseap.noarch:1.27.1.0-1.el6op
 #   - openshift-origin-cartridge-dependencies-recommended-jbosseap.noarch:1.27.1.0-1.el6op
-#   - openshift-origin-cartridge-jbosseap.noarch:2.27.3.1-1.el6op
+#   - openshift-origin-cartridge-jbosseap.noarch:2.27.4.2-1.el6op
 #   - cfitsio-docs.noarch:3.240-3.el6op
 #   - gdal-doc.noarch:1.9.2-8.el6op
 #   - gdal-javadoc.noarch:1.9.2-8.el6op
 #   - jboss-eap6-modules.noarch:6.0.0.GA-8.el6op
 #   - jboss-openshift-metrics-module.noarch:1.0.2.redhat_1-1.2.el6_5
-#   - jenkins.noarch:1.625.3-1.el6op
+#   - jenkins.noarch:1.651.2-1.el6op
 #   - libgta-doc.noarch:1.0.2-2.el6op
 #   - nodejs010-nodejs-bignumber.js.noarch:1.1.1-2.el6op
 #   - nodejs010-nodejs-buffer-crc32.noarch:0.2.1-2.el6op
@@ -682,7 +682,7 @@
 #   - nodejs010-nodejs-tinycolor.noarch:0.0.1-5.el6op
 #   - nodejs010-nodejs-wordwrap.noarch:0.0.2-2.el6op
 #   - openshift-enterprise-upgrade-node.noarch:2.2.9-1.el6op
-#   - openshift-origin-cartridge-cron.noarch:1.25.2.1-1.el6op
+#   - openshift-origin-cartridge-cron.noarch:1.25.4.2-1.el6op
 #   - openshift-origin-cartridge-dependencies-optional-jbossews.noarch:1.27.1.0-1.el6op
 #   - openshift-origin-cartridge-dependencies-optional-nodejs.noarch:1.27.1.0-1.el6op
 #   - openshift-origin-cartridge-dependencies-optional-perl.noarch:1.27.1.0-1.el6op
@@ -695,24 +695,24 @@
 #   - openshift-origin-cartridge-dependencies-recommended-php.noarch:1.27.1.0-1.el6op
 #   - openshift-origin-cartridge-dependencies-recommended-python.noarch:1.27.1.0-1.el6op
 #   - openshift-origin-cartridge-dependencies-recommended-ruby.noarch:1.27.1.0-1.el6op
-#   - openshift-origin-cartridge-diy.noarch:1.26.1.1-1.el6op
-#   - openshift-origin-cartridge-haproxy.noarch:1.31.5.1-1.el6op
-#   - openshift-origin-cartridge-jbossews.noarch:1.35.3.2-1.el6op
-#   - openshift-origin-cartridge-jenkins.noarch:1.28.2.1-1.el6op
-#   - openshift-origin-cartridge-jenkins-client.noarch:1.25.1.0-1.el6op
+#   - openshift-origin-cartridge-diy.noarch:1.26.2.2-1.el6op
+#   - openshift-origin-cartridge-haproxy.noarch:1.31.6.2-1.el6op
+#   - openshift-origin-cartridge-jbossews.noarch:1.35.5.2-1.el6op
+#   - openshift-origin-cartridge-jenkins.noarch:1.29.2.2-1.el6op
+#   - openshift-origin-cartridge-jenkins-client.noarch:1.26.1.1-1.el6op
 #   - openshift-origin-cartridge-mock.noarch:1.22.1.1-1.el6op
 #   - openshift-origin-cartridge-mock-plugin.noarch:1.20.1.0-1.el6op
-#   - openshift-origin-cartridge-mongodb.noarch:1.23.2.0-1.el6op
-#   - openshift-origin-cartridge-mysql.noarch:1.31.2.1-1.el6op
-#   - openshift-origin-cartridge-nodejs.noarch:1.33.1.1-1.el6op
-#   - openshift-origin-cartridge-perl.noarch:1.30.1.1-1.el6op
-#   - openshift-origin-cartridge-php.noarch:1.35.3.1-1.el6op
+#   - openshift-origin-cartridge-mongodb.noarch:1.26.2.2-1.el6op
+#   - openshift-origin-cartridge-mysql.noarch:1.31.3.3-1.el6op
+#   - openshift-origin-cartridge-nodejs.noarch:1.33.1.2-1.el6op
+#   - openshift-origin-cartridge-perl.noarch:1.30.2.2-1.el6op
+#   - openshift-origin-cartridge-php.noarch:1.35.4.2-1.el6op
 #   - openshift-origin-cartridge-postgresql.noarch:1.29.2.0-1.el6op
-#   - openshift-origin-cartridge-python.noarch:1.34.2.1-1.el6op
-#   - openshift-origin-cartridge-ruby.noarch:1.32.1.1-1.el6op
-#   - openshift-origin-msg-node-mcollective.noarch:1.30.2.1-1.el6op
-#   - openshift-origin-node-proxy.noarch:1.26.2.1-1.el6op
-#   - openshift-origin-node-util.noarch:1.38.6.2-1.el6op
+#   - openshift-origin-cartridge-python.noarch:1.34.3.2-1.el6op
+#   - openshift-origin-cartridge-ruby.noarch:1.32.2.2-1.el6op
+#   - openshift-origin-msg-node-mcollective.noarch:1.30.2.2-1.el6op
+#   - openshift-origin-node-proxy.noarch:1.26.3.1-1.el6op
+#   - openshift-origin-node-util.noarch:1.38.7.1-1.el6op
 #   - openshift-origin-port-proxy.noarch:1.9.1.0-1.el6op
 #   - perl-App-cpanminus.noarch:1.4008-1.el6op
 #   - perl-Class-Accessor.noarch:0.31-6.1.el6
@@ -744,9 +744,9 @@
 #   - rubygem-openshift-origin-frontend-apache-mod-rewrite.noarch:0.5.2.2-1.el6op
 #   - rubygem-openshift-origin-frontend-apache-vhost.noarch:0.13.2.1-1.el6op
 #   - rubygem-openshift-origin-frontend-apachedb.noarch:0.4.1.2-1.el6op
-#   - rubygem-openshift-origin-frontend-haproxy-sni-proxy.noarch:0.3.2.2-1.el6op
+#   - rubygem-openshift-origin-frontend-haproxy-sni-proxy.noarch:0.5.2.1-1.el6op
 #   - rubygem-openshift-origin-frontend-nodejs-websocket.noarch:0.4.1.0-1.el6op
-#   - rubygem-openshift-origin-node.noarch:1.38.5.3-1.el6op
+#   - rubygem-openshift-origin-node.noarch:1.38.6.4-1.el6op
 #   - xerces-c-doc.noarch:3.0.1-20.el6
 #   - CharLS.x86_64:1.0-1.el6op
 #   - CharLS-debuginfo.x86_64:1.0-1.el6op
@@ -817,8 +817,8 @@
 #   - libc-client.x86_64:2007e-11.el6
 #   - libc-client-debuginfo.x86_64:2007e-11.el6
 #   - libc-client-devel.x86_64:2007e-11.el6
-#   - libcgroup-debuginfo.x86_64:0.40.rc1-15.el6_6
-#   - libcgroup-pam.x86_64:0.40.rc1-15.el6_6
+#   - libcgroup-debuginfo.x86_64:0.40.rc1-18.el6_8
+#   - libcgroup-pam.x86_64:0.40.rc1-18.el6_8
 #   - libdap.x86_64:3.11.0-1.el6op
 #   - libdap-debuginfo.x86_64:3.11.0-1.el6op
 #   - libdap-devel.x86_64:3.11.0-1.el6op
@@ -1117,13 +1117,13 @@ sudo yum install v8-debuginfo.x86_64-3.14.5.10 -y
 sudo yum install v8-devel.x86_64-3.14.5.10 -y 
 sudo yum install openshift-origin-cartridge-dependencies-optional-jbosseap.noarch-1.27.1.0 -y 
 sudo yum install openshift-origin-cartridge-dependencies-recommended-jbosseap.noarch-1.27.1.0 -y 
-sudo yum install openshift-origin-cartridge-jbosseap.noarch-2.27.3.1 -y 
+sudo yum install openshift-origin-cartridge-jbosseap.noarch-2.27.4.2 -y 
 sudo yum install cfitsio-docs.noarch-3.240 -y 
 sudo yum install gdal-doc.noarch-1.9.2 -y 
 sudo yum install gdal-javadoc.noarch-1.9.2 -y 
 sudo yum install jboss-eap6-modules.noarch-6.0.0.GA -y 
 sudo yum install jboss-openshift-metrics-module.noarch-1.0.2.redhat_1 -y 
-sudo yum install jenkins.noarch-1.625.3 -y 
+sudo yum install jenkins.noarch-1.651.2 -y 
 sudo yum install libgta-doc.noarch-1.0.2 -y 
 sudo yum install nodejs010-nodejs-bignumber.js.noarch-1.1.1 -y 
 sudo yum install nodejs010-nodejs-buffer-crc32.noarch-0.2.1 -y 
@@ -1153,7 +1153,7 @@ sudo yum install nodejs010-nodejs-supervisor.noarch-0.5.2 -y
 sudo yum install nodejs010-nodejs-tinycolor.noarch-0.0.1 -y 
 sudo yum install nodejs010-nodejs-wordwrap.noarch-0.0.2 -y 
 sudo yum install openshift-enterprise-upgrade-node.noarch-2.2.9 -y 
-sudo yum install openshift-origin-cartridge-cron.noarch-1.25.2.1 -y 
+sudo yum install openshift-origin-cartridge-cron.noarch-1.25.4.2 -y 
 sudo yum install openshift-origin-cartridge-dependencies-optional-jbossews.noarch-1.27.1.0 -y 
 sudo yum install openshift-origin-cartridge-dependencies-optional-nodejs.noarch-1.27.1.0 -y 
 sudo yum install openshift-origin-cartridge-dependencies-optional-perl.noarch-1.27.1.0 -y 
@@ -1166,24 +1166,24 @@ sudo yum install openshift-origin-cartridge-dependencies-recommended-perl.noarch
 sudo yum install openshift-origin-cartridge-dependencies-recommended-php.noarch-1.27.1.0 -y 
 sudo yum install openshift-origin-cartridge-dependencies-recommended-python.noarch-1.27.1.0 -y 
 sudo yum install openshift-origin-cartridge-dependencies-recommended-ruby.noarch-1.27.1.0 -y 
-sudo yum install openshift-origin-cartridge-diy.noarch-1.26.1.1 -y 
-sudo yum install openshift-origin-cartridge-haproxy.noarch-1.31.5.1 -y 
-sudo yum install openshift-origin-cartridge-jbossews.noarch-1.35.3.2 -y 
-sudo yum install openshift-origin-cartridge-jenkins.noarch-1.28.2.1 -y 
-sudo yum install openshift-origin-cartridge-jenkins-client.noarch-1.25.1.0 -y 
+sudo yum install openshift-origin-cartridge-diy.noarch-1.26.2.2 -y 
+sudo yum install openshift-origin-cartridge-haproxy.noarch-1.31.6.2 -y 
+sudo yum install openshift-origin-cartridge-jbossews.noarch-1.35.5.2 -y 
+sudo yum install openshift-origin-cartridge-jenkins.noarch-1.29.2.2 -y 
+sudo yum install openshift-origin-cartridge-jenkins-client.noarch-1.26.1.1 -y 
 sudo yum install openshift-origin-cartridge-mock.noarch-1.22.1.1 -y 
 sudo yum install openshift-origin-cartridge-mock-plugin.noarch-1.20.1.0 -y 
-sudo yum install openshift-origin-cartridge-mongodb.noarch-1.23.2.0 -y 
-sudo yum install openshift-origin-cartridge-mysql.noarch-1.31.2.1 -y 
-sudo yum install openshift-origin-cartridge-nodejs.noarch-1.33.1.1 -y 
-sudo yum install openshift-origin-cartridge-perl.noarch-1.30.1.1 -y 
-sudo yum install openshift-origin-cartridge-php.noarch-1.35.3.1 -y 
+sudo yum install openshift-origin-cartridge-mongodb.noarch-1.26.2.2 -y 
+sudo yum install openshift-origin-cartridge-mysql.noarch-1.31.3.3 -y 
+sudo yum install openshift-origin-cartridge-nodejs.noarch-1.33.1.2 -y 
+sudo yum install openshift-origin-cartridge-perl.noarch-1.30.2.2 -y 
+sudo yum install openshift-origin-cartridge-php.noarch-1.35.4.2 -y 
 sudo yum install openshift-origin-cartridge-postgresql.noarch-1.29.2.0 -y 
-sudo yum install openshift-origin-cartridge-python.noarch-1.34.2.1 -y 
-sudo yum install openshift-origin-cartridge-ruby.noarch-1.32.1.1 -y 
-sudo yum install openshift-origin-msg-node-mcollective.noarch-1.30.2.1 -y 
-sudo yum install openshift-origin-node-proxy.noarch-1.26.2.1 -y 
-sudo yum install openshift-origin-node-util.noarch-1.38.6.2 -y 
+sudo yum install openshift-origin-cartridge-python.noarch-1.34.3.2 -y 
+sudo yum install openshift-origin-cartridge-ruby.noarch-1.32.2.2 -y 
+sudo yum install openshift-origin-msg-node-mcollective.noarch-1.30.2.2 -y 
+sudo yum install openshift-origin-node-proxy.noarch-1.26.3.1 -y 
+sudo yum install openshift-origin-node-util.noarch-1.38.7.1 -y 
 sudo yum install openshift-origin-port-proxy.noarch-1.9.1.0 -y 
 sudo yum install perl-App-cpanminus.noarch-1.4008 -y 
 sudo yum install perl-Class-Accessor.noarch-0.31 -y 
@@ -1215,9 +1215,9 @@ sudo yum install rubygem-openshift-origin-container-selinux.noarch-0.10.1.0 -y
 sudo yum install rubygem-openshift-origin-frontend-apache-mod-rewrite.noarch-0.5.2.2 -y 
 sudo yum install rubygem-openshift-origin-frontend-apache-vhost.noarch-0.13.2.1 -y 
 sudo yum install rubygem-openshift-origin-frontend-apachedb.noarch-0.4.1.2 -y 
-sudo yum install rubygem-openshift-origin-frontend-haproxy-sni-proxy.noarch-0.3.2.2 -y 
+sudo yum install rubygem-openshift-origin-frontend-haproxy-sni-proxy.noarch-0.5.2.1 -y 
 sudo yum install rubygem-openshift-origin-frontend-nodejs-websocket.noarch-0.4.1.0 -y 
-sudo yum install rubygem-openshift-origin-node.noarch-1.38.5.3 -y 
+sudo yum install rubygem-openshift-origin-node.noarch-1.38.6.4 -y 
 sudo yum install xerces-c-doc.noarch-3.0.1 -y 
 sudo yum install CharLS.x86_64-1.0 -y 
 sudo yum install CharLS-debuginfo.x86_64-1.0 -y 
