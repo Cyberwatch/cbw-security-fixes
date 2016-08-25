@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:0087
 #
 # Security announcement date: 2015-01-28 22:43:51 UTC
-# Script generation date:     2016-07-13 21:21:06 UTC
+# Script generation date:     2016-08-25 21:09:11 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -22,16 +22,16 @@
 #   - python-perf.x86_64:2.6.32-504.8.1.el6
 #
 # Last versions recommanded by security team:
-#   - kernel-abi-whitelists.noarch:2.6.32-642.3.1.el6
-#   - kernel-doc.noarch:2.6.32-642.3.1.el6
-#   - kernel-firmware.noarch:2.6.32-642.3.1.el6
-#   - kernel.x86_64:2.6.32-642.3.1.el6
-#   - kernel-debug.x86_64:2.6.32-642.3.1.el6
-#   - kernel-debug-devel.x86_64:2.6.32-642.3.1.el6
-#   - kernel-devel.x86_64:2.6.32-642.3.1.el6
-#   - kernel-headers.x86_64:2.6.32-642.3.1.el6
-#   - perf.x86_64:2.6.32-642.3.1.el6
-#   - python-perf.x86_64:2.6.32-642.3.1.el6
+#   - kernel-abi-whitelists.noarch:2.6.32-642.4.2.el6
+#   - kernel-doc.noarch:2.6.32-642.4.2.el6
+#   - kernel-firmware.noarch:2.6.32-642.4.2.el6
+#   - kernel.x86_64:2.6.32-642.4.2.el6
+#   - kernel-debug.x86_64:2.6.32-642.4.2.el6
+#   - kernel-debug-devel.x86_64:2.6.32-642.4.2.el6
+#   - kernel-devel.x86_64:2.6.32-642.4.2.el6
+#   - kernel-headers.x86_64:2.6.32-642.4.2.el6
+#   - perf.x86_64:2.6.32-642.4.2.el6
+#   - python-perf.x86_64:2.6.32-642.4.2.el6
 #
 # CVE List:
 #   - CVE-2014-4656
