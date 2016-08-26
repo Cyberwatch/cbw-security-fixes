@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:0408
 #
 # Security announcement date: 2014-04-16 11:49:35 UTC
-# Script generation date:     2016-05-12 18:11:55 UTC
+# Script generation date:     2016-08-26 21:16:49 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - java-1.6.0-openjdk-src.x86_64:1.6.0.0-5.1.13.3.el6_5
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-openjdk.x86_64:1.6.0.39-1.13.11.0.el6_7
-#   - java-1.6.0-openjdk-debuginfo.x86_64:1.6.0.39-1.13.11.0.el6_7
-#   - java-1.6.0-openjdk-demo.x86_64:1.6.0.39-1.13.11.0.el6_7
-#   - java-1.6.0-openjdk-devel.x86_64:1.6.0.39-1.13.11.0.el6_7
-#   - java-1.6.0-openjdk-javadoc.x86_64:1.6.0.39-1.13.11.0.el6_7
-#   - java-1.6.0-openjdk-src.x86_64:1.6.0.39-1.13.11.0.el6_7
+#   - java-1.6.0-openjdk.x86_64:1.6.0.40-1.13.12.6.el6_8
+#   - java-1.6.0-openjdk-debuginfo.x86_64:1.6.0.40-1.13.12.6.el6_8
+#   - java-1.6.0-openjdk-demo.x86_64:1.6.0.40-1.13.12.6.el6_8
+#   - java-1.6.0-openjdk-devel.x86_64:1.6.0.40-1.13.12.6.el6_8
+#   - java-1.6.0-openjdk-javadoc.x86_64:1.6.0.40-1.13.12.6.el6_8
+#   - java-1.6.0-openjdk-src.x86_64:1.6.0.40-1.13.12.6.el6_8
 #
 # CVE List:
 #   - CVE-2014-0429
@@ -51,9 +51,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-openjdk.x86_64-1.6.0.39 -y 
-sudo yum install java-1.6.0-openjdk-debuginfo.x86_64-1.6.0.39 -y 
-sudo yum install java-1.6.0-openjdk-demo.x86_64-1.6.0.39 -y 
-sudo yum install java-1.6.0-openjdk-devel.x86_64-1.6.0.39 -y 
-sudo yum install java-1.6.0-openjdk-javadoc.x86_64-1.6.0.39 -y 
-sudo yum install java-1.6.0-openjdk-src.x86_64-1.6.0.39 -y 
+sudo yum install java-1.6.0-openjdk.x86_64-1.6.0.40 -y 
+sudo yum install java-1.6.0-openjdk-debuginfo.x86_64-1.6.0.40 -y 
+sudo yum install java-1.6.0-openjdk-demo.x86_64-1.6.0.40 -y 
+sudo yum install java-1.6.0-openjdk-devel.x86_64-1.6.0.40 -y 
+sudo yum install java-1.6.0-openjdk-javadoc.x86_64-1.6.0.40 -y 
+sudo yum install java-1.6.0-openjdk-src.x86_64-1.6.0.40 -y 
