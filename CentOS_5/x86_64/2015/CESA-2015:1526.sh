@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:1526
 #
 # Security announcement date: 2015-07-30 23:45:17 UTC
-# Script generation date:     2016-05-12 18:08:41 UTC
+# Script generation date:     2016-08-27 21:13:19 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - java-1.6.0-openjdk-src.x86_64:1.6.0.36-1.13.8.1.el5_11
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-openjdk.x86_64:1.6.0.39-1.13.11.0.el5_11
-#   - java-1.6.0-openjdk-demo.x86_64:1.6.0.39-1.13.11.0.el5_11
-#   - java-1.6.0-openjdk-devel.x86_64:1.6.0.39-1.13.11.0.el5_11
-#   - java-1.6.0-openjdk-javadoc.x86_64:1.6.0.39-1.13.11.0.el5_11
-#   - java-1.6.0-openjdk-src.x86_64:1.6.0.39-1.13.11.0.el5_11
+#   - java-1.6.0-openjdk.x86_64:1.6.0.40-1.13.12.4.el5_11
+#   - java-1.6.0-openjdk-demo.x86_64:1.6.0.40-1.13.12.4.el5_11
+#   - java-1.6.0-openjdk-devel.x86_64:1.6.0.40-1.13.12.4.el5_11
+#   - java-1.6.0-openjdk-javadoc.x86_64:1.6.0.40-1.13.12.4.el5_11
+#   - java-1.6.0-openjdk-src.x86_64:1.6.0.40-1.13.12.4.el5_11
 #
 # CVE List:
 #   - CVE-2015-2808
@@ -43,8 +43,8 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-openjdk.x86_64-1.6.0.39 -y 
-sudo yum install java-1.6.0-openjdk-demo.x86_64-1.6.0.39 -y 
-sudo yum install java-1.6.0-openjdk-devel.x86_64-1.6.0.39 -y 
-sudo yum install java-1.6.0-openjdk-javadoc.x86_64-1.6.0.39 -y 
-sudo yum install java-1.6.0-openjdk-src.x86_64-1.6.0.39 -y 
+sudo yum install java-1.6.0-openjdk.x86_64-1.6.0.40 -y 
+sudo yum install java-1.6.0-openjdk-demo.x86_64-1.6.0.40 -y 
+sudo yum install java-1.6.0-openjdk-devel.x86_64-1.6.0.40 -y 
+sudo yum install java-1.6.0-openjdk-javadoc.x86_64-1.6.0.40 -y 
+sudo yum install java-1.6.0-openjdk-src.x86_64-1.6.0.40 -y 
