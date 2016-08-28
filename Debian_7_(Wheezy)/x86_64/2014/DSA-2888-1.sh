@@ -4,7 +4,7 @@
 # Security fix for DSA-2888-1
 #
 # Security announcement date: 2014-03-27 00:00:00 UTC
-# Script generation date:     2016-05-12 18:04:52 UTC
+# Script generation date:     2016-08-28 21:05:34 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - ruby-actionpack-3.2:3.2.6-6+deb7u1
 #
 # Last versions recommanded by security team:
-#   - ruby-actionpack-3.2:3.2.6-6+deb7u2
+#   - ruby-actionpack-3.2:3.2.6-6+deb7u3
 #
 # CVE List:
 #   - CVE-2013-4389
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ruby-actionpack-3.2=3.2.6-6+deb7u2 -y
+sudo apt-get install --only-upgrade ruby-actionpack-3.2=3.2.6-6+deb7u3 -y
