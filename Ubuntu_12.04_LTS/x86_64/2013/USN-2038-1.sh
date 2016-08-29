@@ -4,7 +4,7 @@
 # Security fix for USN-2038-1
 #
 # Security announcement date: 2013-12-03 00:00:00 UTC
-# Script generation date:     2016-08-08 21:01:40 UTC
+# Script generation date:     2016-08-29 21:00:44 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -26,9 +26,9 @@
 #   - linux-image-3.2.0-57-powerpc64-smp:3.2.0-57.87
 #   - linux-image-3.2.0-57-powerpc-smp:3.2.0-57.87
 #   - linux-image-3.2.0-57-generic-pae:3.2.0-57.87
-#   - linux-source-3.2.0:3.2.0-107.148
-#   - linux-doc:3.2.0-107.148
-#   - linux-tools-common:3.2.0-107.148
+#   - linux-source-3.2.0:3.2.0-109.150
+#   - linux-doc:3.2.0-109.150
+#   - linux-tools-common:3.2.0-109.150
 #   - linux-image-3.2.0-57-virtual:3.2.0-57.87
 #   - linux-image-3.2.0-57-omap:3.2.0-57.87
 #   - linux-image-3.2.0-57-generic:3.2.0-57.87
@@ -55,9 +55,9 @@ sudo apt-get install --only-upgrade linux-image-3.2.0-57-highbank=3.2.0-57.87 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-57-powerpc64-smp=3.2.0-57.87 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-57-powerpc-smp=3.2.0-57.87 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-57-generic-pae=3.2.0-57.87 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-107.148 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-107.148 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-107.148 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-109.150 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-109.150 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-109.150 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-57-virtual=3.2.0-57.87 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-57-omap=3.2.0-57.87 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-57-generic=3.2.0-57.87 -y

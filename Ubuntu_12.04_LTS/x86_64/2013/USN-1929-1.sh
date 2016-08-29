@@ -4,7 +4,7 @@
 # Security fix for USN-1929-1
 #
 # Security announcement date: 2013-08-20 00:00:00 UTC
-# Script generation date:     2016-08-08 21:01:27 UTC
+# Script generation date:     2016-08-29 21:00:41 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -24,9 +24,9 @@
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-52-highbank:3.2.0-52.78
 #   - linux-image-3.2.0-52-generic-pae:3.2.0-52.78
-#   - linux-source-3.2.0:3.2.0-107.148
-#   - linux-doc:3.2.0-107.148
-#   - linux-tools-common:3.2.0-107.148
+#   - linux-source-3.2.0:3.2.0-109.150
+#   - linux-doc:3.2.0-109.150
+#   - linux-tools-common:3.2.0-109.150
 #   - linux-image-3.2.0-52-powerpc64-smp:3.2.0-52.78
 #   - linux-image-3.2.0-52-omap:3.2.0-52.78
 #   - linux-image-3.2.0-52-generic:3.2.0-52.78
@@ -42,9 +42,9 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-52-highbank=3.2.0-52.78 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-52-generic-pae=3.2.0-52.78 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-107.148 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-107.148 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-107.148 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-109.150 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-109.150 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-109.150 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-52-powerpc64-smp=3.2.0-52.78 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-52-omap=3.2.0-52.78 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-52-generic=3.2.0-52.78 -y
