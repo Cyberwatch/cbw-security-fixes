@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:0442
 #
 # Security announcement date: 2015-03-05 14:37:15 UTC
-# Script generation date:     2016-05-12 18:12:46 UTC
+# Script generation date:     2016-09-01 21:23:57 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - ipa-server-trust-ad.x86_64:4.1.0-18.el7
 #
 # Last versions recommanded by security team:
-#   - ipa-client.x86_64:4.1.0-18.el7_1.6
-#   - ipa-debuginfo.x86_64:4.1.0-18.el7_1.6
-#   - ipa-python.x86_64:4.1.0-18.el7_1.6
-#   - ipa-admintools.x86_64:4.1.0-18.el7_1.6
-#   - ipa-server.x86_64:4.1.0-18.el7_1.6
-#   - ipa-server-trust-ad.x86_64:4.1.0-18.el7_1.6
+#   - ipa-client.x86_64:4.2.0-15.el7_2.19
+#   - ipa-debuginfo.x86_64:4.2.0-15.el7_2.19
+#   - ipa-python.x86_64:4.2.0-15.el7_2.19
+#   - ipa-admintools.x86_64:4.2.0-15.el7_2.19
+#   - ipa-server.x86_64:4.2.0-15.el7_2.19
+#   - ipa-server-trust-ad.x86_64:4.2.0-15.el7_2.19
 #
 # CVE List:
 #   - CVE-2010-5312
@@ -33,9 +33,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install ipa-client.x86_64-4.1.0 -y 
-sudo yum install ipa-debuginfo.x86_64-4.1.0 -y 
-sudo yum install ipa-python.x86_64-4.1.0 -y 
-sudo yum install ipa-admintools.x86_64-4.1.0 -y 
-sudo yum install ipa-server.x86_64-4.1.0 -y 
-sudo yum install ipa-server-trust-ad.x86_64-4.1.0 -y 
+sudo yum install ipa-client.x86_64-4.2.0 -y 
+sudo yum install ipa-debuginfo.x86_64-4.2.0 -y 
+sudo yum install ipa-python.x86_64-4.2.0 -y 
+sudo yum install ipa-admintools.x86_64-4.2.0 -y 
+sudo yum install ipa-server.x86_64-4.2.0 -y 
+sudo yum install ipa-server-trust-ad.x86_64-4.2.0 -y 

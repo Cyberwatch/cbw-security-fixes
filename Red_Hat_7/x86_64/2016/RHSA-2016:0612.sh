@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0612
 #
 # Security announcement date: 2016-04-13 01:34:19 UTC
-# Script generation date:     2016-07-26 21:43:20 UTC
+# Script generation date:     2016-09-01 21:25:32 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -104,9 +104,9 @@
 #
 # Last versions recommanded by security team:
 #   - samba-common.noarch:4.2.10-7.el7_2
-#   - ipa-client.x86_64:4.1.0-18.el7_1.6
-#   - ipa-debuginfo.x86_64:4.1.0-18.el7_1.6
-#   - ipa-python.x86_64:4.1.0-18.el7_1.6
+#   - ipa-client.x86_64:4.2.0-15.el7_2.19
+#   - ipa-debuginfo.x86_64:4.2.0-15.el7_2.19
+#   - ipa-python.x86_64:4.2.0-15.el7_2.19
 #   - libldb.i686:1.1.25-1.el7_1
 #   - libldb.x86_64:1.1.25-1.el7_1
 #   - libldb-debuginfo.i686:1.1.25-1.el7_1
@@ -148,10 +148,10 @@
 #   - samba-winbind-modules.x86_64:4.2.10-7.el7_2
 #   - openchange-devel-docs.noarch:2.0-4.ael7b_1.1
 #   - samba-pidl.noarch:4.2.10-7.el7_2
-#   - ipa-admintools.x86_64:4.1.0-18.el7_1.6
-#   - ipa-server.x86_64:4.1.0-18.el7_1.6
-#   - ipa-server-dns.x86_64:4.2.0-15.el7_2.6.1
-#   - ipa-server-trust-ad.x86_64:4.1.0-18.el7_1.6
+#   - ipa-admintools.x86_64:4.2.0-15.el7_2.19
+#   - ipa-server.x86_64:4.2.0-15.el7_2.19
+#   - ipa-server-dns.x86_64:4.2.0-15.el7_2.19
+#   - ipa-server-trust-ad.x86_64:4.2.0-15.el7_2.19
 #   - ldb-tools.x86_64:1.1.25-1.el7_1
 #   - libldb-devel.i686:1.1.25-1.el7_1
 #   - libldb-devel.x86_64:1.1.25-1.el7_1
@@ -210,9 +210,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install samba-common.noarch-4.2.10 -y 
-sudo yum install ipa-client.x86_64-4.1.0 -y 
-sudo yum install ipa-debuginfo.x86_64-4.1.0 -y 
-sudo yum install ipa-python.x86_64-4.1.0 -y 
+sudo yum install ipa-client.x86_64-4.2.0 -y 
+sudo yum install ipa-debuginfo.x86_64-4.2.0 -y 
+sudo yum install ipa-python.x86_64-4.2.0 -y 
 sudo yum install libldb.i686-1.1.25 -y 
 sudo yum install libldb.x86_64-1.1.25 -y 
 sudo yum install libldb-debuginfo.i686-1.1.25 -y 
@@ -254,10 +254,10 @@ sudo yum install samba-winbind-modules.i686-4.2.10 -y
 sudo yum install samba-winbind-modules.x86_64-4.2.10 -y 
 sudo yum install openchange-devel-docs.noarch-2.0 -y 
 sudo yum install samba-pidl.noarch-4.2.10 -y 
-sudo yum install ipa-admintools.x86_64-4.1.0 -y 
-sudo yum install ipa-server.x86_64-4.1.0 -y 
+sudo yum install ipa-admintools.x86_64-4.2.0 -y 
+sudo yum install ipa-server.x86_64-4.2.0 -y 
 sudo yum install ipa-server-dns.x86_64-4.2.0 -y 
-sudo yum install ipa-server-trust-ad.x86_64-4.1.0 -y 
+sudo yum install ipa-server-trust-ad.x86_64-4.2.0 -y 
 sudo yum install ldb-tools.x86_64-1.1.25 -y 
 sudo yum install libldb-devel.i686-1.1.25 -y 
 sudo yum install libldb-devel.x86_64-1.1.25 -y 

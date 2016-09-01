@@ -4,7 +4,7 @@
 # Security fix for RHSA-2011:1533
 #
 # Security announcement date: 2011-12-06 15:28:04 UTC
-# Script generation date:     2016-05-12 18:10:33 UTC
+# Script generation date:     2016-09-01 21:20:31 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - ipa-server-selinux.x86_64:2.1.3-9.el6
 #
 # Last versions recommanded by security team:
-#   - ipa-client.x86_64:3.0.0-47.el6_7.2
-#   - ipa-debuginfo.x86_64:3.0.0-47.el6_7.2
-#   - ipa-python.x86_64:3.0.0-47.el6_7.2
-#   - ipa-admintools.x86_64:3.0.0-47.el6_7.2
-#   - ipa-server.x86_64:3.0.0-47.el6_7.2
-#   - ipa-server-selinux.x86_64:3.0.0-47.el6_7.2
+#   - ipa-client.x86_64:3.0.0-50.el6_8.2
+#   - ipa-debuginfo.x86_64:3.0.0-50.el6_8.2
+#   - ipa-python.x86_64:3.0.0-50.el6_8.2
+#   - ipa-admintools.x86_64:3.0.0-50.el6_8.2
+#   - ipa-server.x86_64:3.0.0-50.el6_8.2
+#   - ipa-server-selinux.x86_64:3.0.0-50.el6_8.2
 #
 # CVE List:
 #   - CVE-2011-3636

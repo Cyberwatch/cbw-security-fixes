@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0612
 #
 # Security announcement date: 2016-04-13 01:34:19 UTC
-# Script generation date:     2016-07-26 21:43:19 UTC
+# Script generation date:     2016-09-01 21:25:32 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -70,9 +70,9 @@
 #   - tdb-tools.x86_64:1.3.8-1.el6_7
 #
 # Last versions recommanded by security team:
-#   - ipa-client.x86_64:3.0.0-47.el6_7.2
-#   - ipa-debuginfo.x86_64:3.0.0-47.el6_7.2
-#   - ipa-python.x86_64:3.0.0-47.el6_7.2
+#   - ipa-client.x86_64:3.0.0-50.el6_8.2
+#   - ipa-debuginfo.x86_64:3.0.0-50.el6_8.2
+#   - ipa-python.x86_64:3.0.0-50.el6_8.2
 #   - libldb.i686:1.1.25-2.el6_7
 #   - libldb.x86_64:1.1.25-2.el6_7
 #   - libldb-debuginfo.i686:1.1.25-2.el6_7
@@ -117,10 +117,10 @@
 #   - samba4-winbind.x86_64:4.2.10-7.el6_8
 #   - samba4-winbind-clients.x86_64:4.2.10-7.el6_8
 #   - samba4-winbind-krb5-locator.x86_64:4.2.10-7.el6_8
-#   - ipa-admintools.x86_64:3.0.0-47.el6_7.2
-#   - ipa-server.x86_64:3.0.0-47.el6_7.2
-#   - ipa-server-selinux.x86_64:3.0.0-47.el6_7.2
-#   - ipa-server-trust-ad.x86_64:3.0.0-47.el6_7.2
+#   - ipa-admintools.x86_64:3.0.0-50.el6_8.2
+#   - ipa-server.x86_64:3.0.0-50.el6_8.2
+#   - ipa-server-selinux.x86_64:3.0.0-50.el6_8.2
+#   - ipa-server-trust-ad.x86_64:3.0.0-50.el6_8.2
 #   - ldb-tools.x86_64:1.1.25-2.el6_7
 #   - openchange-client.x86_64:1.0-7.el6_7
 #   - openchange-devel.x86_64:1.0-7.el6_7
