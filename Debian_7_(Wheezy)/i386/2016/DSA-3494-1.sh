@@ -4,7 +4,7 @@
 # Security fix for DSA-3494-1
 #
 # Security announcement date: 2016-02-27 00:00:00 UTC
-# Script generation date:     2016-07-26 21:12:19 UTC
+# Script generation date:     2016-09-01 21:09:57 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - cacti:0.8.8a+dfsg-5+deb7u8
 #
 # Last versions recommanded by security team:
-#   - cacti:0.8.8a+dfsg-5+deb7u9
+#   - cacti:0.8.8a+dfsg-5+deb7u10
 #
 # CVE List:
 #   - CVE-2015-8377
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade cacti=0.8.8a+dfsg-5+deb7u9 -y
+sudo apt-get install --only-upgrade cacti=0.8.8a+dfsg-5+deb7u10 -y
