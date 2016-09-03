@@ -4,7 +4,7 @@
 # Security fix for DSA-2745-1
 #
 # Security announcement date: 2013-08-28 00:00:00 UTC
-# Script generation date:     2016-06-22 12:16:23 UTC
+# Script generation date:     2016-09-03 21:04:53 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - linux:3.2.46-1+deb7u1
 #
 # Last versions recommanded by security team:
-#   - linux:3.2.81-1
+#   - linux:3.2.81-2
 #
 # CVE List:
 #   - CVE-2013-1059
@@ -31,4 +31,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux=3.2.81-1 -y
+sudo apt-get install --only-upgrade linux=3.2.81-2 -y

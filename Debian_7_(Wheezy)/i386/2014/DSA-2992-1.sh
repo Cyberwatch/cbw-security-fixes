@@ -4,7 +4,7 @@
 # Security fix for DSA-2992-1
 #
 # Security announcement date: 2014-07-29 00:00:00 UTC
-# Script generation date:     2016-06-22 12:16:44 UTC
+# Script generation date:     2016-09-03 21:05:19 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - linux:3.2.60-1+deb7u3
 #
 # Last versions recommanded by security team:
-#   - linux:3.2.81-1
+#   - linux:3.2.81-2
 #
 # CVE List:
 #   - CVE-2014-3534
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux=3.2.81-1 -y
+sudo apt-get install --only-upgrade linux=3.2.81-2 -y
