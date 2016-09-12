@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:1064
 #
 # Security announcement date: 2016-05-12 16:30:04 UTC
-# Script generation date:     2016-07-14 21:44:21 UTC
+# Script generation date:     2016-09-12 12:03:03 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -107,8 +107,8 @@
 #   - jenkins-plugin-openshift-pipeline.x86_64:1.0.12-1.el7
 #   - jenkins-plugin-promoted-builds.x86_64:2.23-1.el7aos
 #   - jenkins-plugin-swarm.x86_64:2.0-2.el7aos
-#   - kibana.x86_64:4.1.2-2.el7aos
-#   - kibana-debuginfo.x86_64:4.1.2-2.el7aos
+#   - kibana.x86_64:4.1.11-1.el7
+#   - kibana-debuginfo.x86_64:4.1.11-1.el7
 #   - libuv.x86_64:0.10.34-1.el7ost
 #   - libuv-debuginfo.x86_64:0.10.34-1.el7ost
 #   - libuv-devel.x86_64:0.10.34-1.el7ost
@@ -186,8 +186,8 @@ sudo yum install jenkins-plugin-openshift.x86_64-0.6.41 -y
 sudo yum install jenkins-plugin-openshift-pipeline.x86_64-1.0.12 -y 
 sudo yum install jenkins-plugin-promoted-builds.x86_64-2.23 -y 
 sudo yum install jenkins-plugin-swarm.x86_64-2.0 -y 
-sudo yum install kibana.x86_64-4.1.2 -y 
-sudo yum install kibana-debuginfo.x86_64-4.1.2 -y 
+sudo yum install kibana.x86_64-4.1.11 -y 
+sudo yum install kibana-debuginfo.x86_64-4.1.11 -y 
 sudo yum install libuv.x86_64-0.10.34 -y 
 sudo yum install libuv-debuginfo.x86_64-0.10.34 -y 
 sudo yum install libuv-devel.x86_64-0.10.34 -y 
