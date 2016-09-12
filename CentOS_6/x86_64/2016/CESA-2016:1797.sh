@@ -1,21 +1,21 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for CESA-2013:0528
+# Security fix for CESA-2016:1797
 #
-# Security announcement date: 2013-03-09 00:40:51 UTC
-# Script generation date:     2016-09-12 11:54:59 UTC
+# Security announcement date: 2016-09-05 21:43:35 UTC
+# Script generation date:     2016-09-12 11:55:59 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - ipa-admintools.x86_64:3.0.0-25.el6
-#   - ipa-client.x86_64:3.0.0-25.el6
-#   - ipa-python.x86_64:3.0.0-25.el6
-#   - ipa-server.x86_64:3.0.0-25.el6
-#   - ipa-server-selinux.x86_64:3.0.0-25.el6
-#   - ipa-server-trust-ad.x86_64:3.0.0-25.el6
+#   - ipa-admintools.x86_64:3.0.0-50.el6.centos.2
+#   - ipa-client.x86_64:3.0.0-50.el6.centos.2
+#   - ipa-python.x86_64:3.0.0-50.el6.centos.2
+#   - ipa-server.x86_64:3.0.0-50.el6.centos.2
+#   - ipa-server-selinux.x86_64:3.0.0-50.el6.centos.2
+#   - ipa-server-trust-ad.x86_64:3.0.0-50.el6.centos.2
 #
 # Last versions recommanded by security team:
 #   - ipa-admintools.x86_64:3.0.0-50.el6.centos.2
@@ -26,6 +26,7 @@
 #   - ipa-server-trust-ad.x86_64:3.0.0-50.el6.centos.2
 #
 # CVE List:
+#   - CVE-2016-5404
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:0612
 #
 # Security announcement date: 2016-04-13 03:11:17 UTC
-# Script generation date:     2016-05-12 18:09:00 UTC
+# Script generation date:     2016-09-12 11:55:53 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - ipa-server-trust-ad.x86_64:4.2.0-15.0.1.el7.centos.6.1
 #
 # Last versions recommanded by security team:
-#   - ipa-admintools.x86_64:4.2.0-15.0.1.el7.centos.6.1
-#   - ipa-client.x86_64:4.2.0-15.0.1.el7.centos.6.1
-#   - ipa-python.x86_64:4.2.0-15.0.1.el7.centos.6.1
-#   - ipa-server.x86_64:4.2.0-15.0.1.el7.centos.6.1
-#   - ipa-server-dns.x86_64:4.2.0-15.0.1.el7.centos.6.1
-#   - ipa-server-trust-ad.x86_64:4.2.0-15.0.1.el7.centos.6.1
+#   - ipa-admintools.x86_64:4.2.0-15.0.1.el7.centos.19
+#   - ipa-client.x86_64:4.2.0-15.0.1.el7.centos.19
+#   - ipa-python.x86_64:4.2.0-15.0.1.el7.centos.19
+#   - ipa-server.x86_64:4.2.0-15.0.1.el7.centos.19
+#   - ipa-server-dns.x86_64:4.2.0-15.0.1.el7.centos.19
+#   - ipa-server-trust-ad.x86_64:4.2.0-15.0.1.el7.centos.19
 #
 # CVE List:
 #   - CVE-2015-5370

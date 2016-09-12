@@ -1,23 +1,22 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for CESA-2014:1145
+# Security fix for CESA-2016:1809
 #
-# Security announcement date: 2014-09-03 23:55:41 UTC
-# Script generation date:     2016-09-12 11:55:23 UTC
+# Security announcement date: 2016-09-06 03:19:56 UTC
+# Script generation date:     2016-09-12 11:55:59 UTC
 #
-# Operating System: CentOS 6
+# Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - thunderbird.x86_64:24.8.0-1.el6.centos
+#   - thunderbird.x86_64:45.3.0-1.el5.centos
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:45.3.0-1.el6.centos
+#   - thunderbird.x86_64:45.3.0-1.el5.centos
 #
 # CVE List:
-#   - CVE-2014-1562
-#   - CVE-2014-1567
+#   - CVE-2016-2836
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
