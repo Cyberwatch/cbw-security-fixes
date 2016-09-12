@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:1064
 #
 # Security announcement date: 2016-05-12 16:30:04 UTC
-# Script generation date:     2016-09-12 12:03:03 UTC
+# Script generation date:     2016-09-12 21:14:17 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -81,21 +81,21 @@
 #   - v8-devel.x86_64:3.14.5.10-17.el7ost
 #
 # Last versions recommanded by security team:
-#   - atomic-openshift.x86_64:3.2.1.7-1.git.0.2702170.el7
-#   - atomic-openshift-clients.x86_64:3.2.1.7-1.git.0.2702170.el7
-#   - atomic-openshift-clients-redistributable.x86_64:3.2.1.7-1.git.0.2702170.el7
-#   - atomic-openshift-dockerregistry.x86_64:3.2.1.7-1.git.0.2702170.el7
-#   - atomic-openshift-master.x86_64:3.2.1.7-1.git.0.2702170.el7
-#   - atomic-openshift-node.x86_64:3.2.1.7-1.git.0.2702170.el7
-#   - atomic-openshift-pod.x86_64:3.2.1.7-1.git.0.2702170.el7
-#   - atomic-openshift-recycle.x86_64:3.2.1.7-1.git.0.2702170.el7
-#   - atomic-openshift-sdn-ovs.x86_64:3.2.1.7-1.git.0.2702170.el7
-#   - atomic-openshift-tests.x86_64:3.2.1.7-1.git.0.2702170.el7
+#   - atomic-openshift.x86_64:3.2.1.15-1.git.0.d84be7f.el7
+#   - atomic-openshift-clients.x86_64:3.2.1.15-1.git.0.d84be7f.el7
+#   - atomic-openshift-clients-redistributable.x86_64:3.2.1.15-1.git.0.d84be7f.el7
+#   - atomic-openshift-dockerregistry.x86_64:3.2.1.15-1.git.0.d84be7f.el7
+#   - atomic-openshift-master.x86_64:3.2.1.15-1.git.0.d84be7f.el7
+#   - atomic-openshift-node.x86_64:3.2.1.15-1.git.0.d84be7f.el7
+#   - atomic-openshift-pod.x86_64:3.2.1.15-1.git.0.d84be7f.el7
+#   - atomic-openshift-recycle.x86_64:3.2.1.15-1.git.0.d84be7f.el7
+#   - atomic-openshift-sdn-ovs.x86_64:3.2.1.15-1.git.0.d84be7f.el7
+#   - atomic-openshift-tests.x86_64:3.2.1.15-1.git.0.d84be7f.el7
 #   - cockpit-debuginfo.x86_64:0.93-3.el7
 #   - cockpit-kubernetes.x86_64:0.93-3.el7
 #   - fb303.x86_64:0.9.1-12.el7
 #   - fb303-devel.x86_64:0.9.1-12.el7
-#   - heapster.x86_64:0.18.2-4.gitaf4752e.el7
+#   - heapster.x86_64:1.1.0-1.beta2.el7.1
 #   - http-parser.x86_64:2.0-4.20121128gitcd01361.el7ost
 #   - http-parser-debuginfo.x86_64:2.0-4.20121128gitcd01361.el7ost
 #   - http-parser-devel.x86_64:2.0-4.20121128gitcd01361.el7ost
@@ -146,7 +146,7 @@
 #   - thrift.x86_64:0.9.1-12.el7
 #   - thrift-debuginfo.x86_64:0.9.1-12.el7
 #   - thrift-devel.x86_64:0.9.1-12.el7
-#   - tuned-profiles-atomic-openshift-node.x86_64:3.2.1.7-1.git.0.2702170.el7
+#   - tuned-profiles-atomic-openshift-node.x86_64:3.2.1.15-1.git.0.d84be7f.el7
 #   - v8.x86_64:3.14.5.10-17.el7ost
 #   - v8-debuginfo.x86_64:3.14.5.10-17.el7ost
 #   - v8-devel.x86_64:3.14.5.10-17.el7ost
@@ -160,21 +160,21 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install atomic-openshift.x86_64-3.2.1.7 -y 
-sudo yum install atomic-openshift-clients.x86_64-3.2.1.7 -y 
-sudo yum install atomic-openshift-clients-redistributable.x86_64-3.2.1.7 -y 
-sudo yum install atomic-openshift-dockerregistry.x86_64-3.2.1.7 -y 
-sudo yum install atomic-openshift-master.x86_64-3.2.1.7 -y 
-sudo yum install atomic-openshift-node.x86_64-3.2.1.7 -y 
-sudo yum install atomic-openshift-pod.x86_64-3.2.1.7 -y 
-sudo yum install atomic-openshift-recycle.x86_64-3.2.1.7 -y 
-sudo yum install atomic-openshift-sdn-ovs.x86_64-3.2.1.7 -y 
-sudo yum install atomic-openshift-tests.x86_64-3.2.1.7 -y 
+sudo yum install atomic-openshift.x86_64-3.2.1.15 -y 
+sudo yum install atomic-openshift-clients.x86_64-3.2.1.15 -y 
+sudo yum install atomic-openshift-clients-redistributable.x86_64-3.2.1.15 -y 
+sudo yum install atomic-openshift-dockerregistry.x86_64-3.2.1.15 -y 
+sudo yum install atomic-openshift-master.x86_64-3.2.1.15 -y 
+sudo yum install atomic-openshift-node.x86_64-3.2.1.15 -y 
+sudo yum install atomic-openshift-pod.x86_64-3.2.1.15 -y 
+sudo yum install atomic-openshift-recycle.x86_64-3.2.1.15 -y 
+sudo yum install atomic-openshift-sdn-ovs.x86_64-3.2.1.15 -y 
+sudo yum install atomic-openshift-tests.x86_64-3.2.1.15 -y 
 sudo yum install cockpit-debuginfo.x86_64-0.93 -y 
 sudo yum install cockpit-kubernetes.x86_64-0.93 -y 
 sudo yum install fb303.x86_64-0.9.1 -y 
 sudo yum install fb303-devel.x86_64-0.9.1 -y 
-sudo yum install heapster.x86_64-0.18.2 -y 
+sudo yum install heapster.x86_64-1.1.0 -y 
 sudo yum install http-parser.x86_64-2.0 -y 
 sudo yum install http-parser-debuginfo.x86_64-2.0 -y 
 sudo yum install http-parser-devel.x86_64-2.0 -y 
@@ -225,7 +225,7 @@ sudo yum install sshpass-debuginfo.x86_64-1.05 -y
 sudo yum install thrift.x86_64-0.9.1 -y 
 sudo yum install thrift-debuginfo.x86_64-0.9.1 -y 
 sudo yum install thrift-devel.x86_64-0.9.1 -y 
-sudo yum install tuned-profiles-atomic-openshift-node.x86_64-3.2.1.7 -y 
+sudo yum install tuned-profiles-atomic-openshift-node.x86_64-3.2.1.15 -y 
 sudo yum install v8.x86_64-3.14.5.10 -y 
 sudo yum install v8-debuginfo.x86_64-3.14.5.10 -y 
 sudo yum install v8-devel.x86_64-3.14.5.10 -y 
