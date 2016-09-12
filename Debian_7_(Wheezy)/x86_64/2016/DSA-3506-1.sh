@@ -4,7 +4,7 @@
 # Security fix for DSA-3506-1
 #
 # Security announcement date: 2016-03-04 00:00:00 UTC
-# Script generation date:     2016-07-28 21:11:15 UTC
+# Script generation date:     2016-09-12 11:49:36 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -75,6 +75,7 @@
 #   - CVE-2016-1897
 #   - CVE-2016-1898
 #   - CVE-2016-2326
+#   - CVE-2016-7393
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

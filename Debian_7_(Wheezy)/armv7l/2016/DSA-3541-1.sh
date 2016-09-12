@@ -4,7 +4,7 @@
 # Security fix for DSA-3541-1
 #
 # Security announcement date: 2016-04-05 00:00:00 UTC
-# Script generation date:     2016-08-04 21:14:26 UTC
+# Script generation date:     2016-09-12 11:49:41 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - roundcube:0.7.2-9+deb7u2
 #
 # Last versions recommanded by security team:
-#   - roundcube:0.7.2-9+deb7u3
+#   - roundcube:0.7.2-9+deb7u4
 #
 # CVE List:
 #   - CVE-2015-8770
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade roundcube=0.7.2-9+deb7u3 -y
+sudo apt-get install --only-upgrade roundcube=0.7.2-9+deb7u4 -y

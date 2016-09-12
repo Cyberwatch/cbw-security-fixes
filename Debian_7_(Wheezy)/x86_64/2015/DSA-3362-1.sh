@@ -4,7 +4,7 @@
 # Security fix for DSA-3362-1
 #
 # Security announcement date: 2015-09-18 00:00:00 UTC
-# Script generation date:     2016-07-30 21:10:13 UTC
+# Script generation date:     2016-09-12 11:49:14 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - qemu-kvm-dbg:1.1.2+dfsg-6+deb7u11
 #
 # Last versions recommanded by security team:
-#   - qemu-kvm:1.1.2+dfsg-6+deb7u14
-#   - qemu-kvm-dbg:1.1.2+dfsg-6+deb7u14
+#   - qemu-kvm:1.1.2+dfsg-6+deb7u15
+#   - qemu-kvm-dbg:1.1.2+dfsg-6+deb7u15
 #
 # CVE List:
 #   - CVE-2015-5278
@@ -27,5 +27,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu-kvm=1.1.2+dfsg-6+deb7u14 -y
-sudo apt-get install --only-upgrade qemu-kvm-dbg=1.1.2+dfsg-6+deb7u14 -y
+sudo apt-get install --only-upgrade qemu-kvm=1.1.2+dfsg-6+deb7u15 -y
+sudo apt-get install --only-upgrade qemu-kvm-dbg=1.1.2+dfsg-6+deb7u15 -y

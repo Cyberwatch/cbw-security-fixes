@@ -4,7 +4,7 @@
 # Security fix for DSA-3286-1
 #
 # Security announcement date: 2015-06-13 00:00:00 UTC
-# Script generation date:     2016-07-30 21:09:57 UTC
+# Script generation date:     2016-09-12 11:49:01 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -26,7 +26,7 @@
 #   - xen-system-i386:4.1.4-3+deb7u8
 #
 # Last versions recommanded by security team:
-#   - xen:4.1.6.lts1-1
+#   - xen:4.1.6.lts1-2
 #   - xen-docs-4.1:4.1.6.1-1+deb7u1
 #   - libxen-4.1:4.1.6.1-1+deb7u1
 #   - libxenstore3.0:4.1.6.1-1+deb7u1
@@ -54,7 +54,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade xen=4.1.6.lts1-1 -y
+sudo apt-get install --only-upgrade xen=4.1.6.lts1-2 -y
 sudo apt-get install --only-upgrade xen-docs-4.1=4.1.6.1-1+deb7u1 -y
 sudo apt-get install --only-upgrade libxen-4.1=4.1.6.1-1+deb7u1 -y
 sudo apt-get install --only-upgrade libxenstore3.0=4.1.6.1-1+deb7u1 -y

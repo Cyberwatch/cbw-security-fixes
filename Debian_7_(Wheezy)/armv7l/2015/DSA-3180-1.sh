@@ -4,7 +4,7 @@
 # Security fix for DSA-3180-1
 #
 # Security announcement date: 2015-03-05 00:00:00 UTC
-# Script generation date:     2016-08-04 21:13:14 UTC
+# Script generation date:     2016-09-12 11:48:45 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -17,7 +17,7 @@
 #   - bsdcpio:3.0.4-3+wheezy1
 #
 # Last versions recommanded by security team:
-#   - libarchive:3.0.4-3+wheezy2
+#   - libarchive:3.0.4-3+wheezy3
 #   - libarchive-dev:3.0.4-3+wheezy1
 #   - libarchive12:3.0.4-3+wheezy1
 #   - bsdtar:3.0.4-3+wheezy1
@@ -30,7 +30,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libarchive=3.0.4-3+wheezy2 -y
+sudo apt-get install --only-upgrade libarchive=3.0.4-3+wheezy3 -y
 sudo apt-get install --only-upgrade libarchive-dev=3.0.4-3+wheezy1 -y
 sudo apt-get install --only-upgrade libarchive12=3.0.4-3+wheezy1 -y
 sudo apt-get install --only-upgrade bsdtar=3.0.4-3+wheezy1 -y

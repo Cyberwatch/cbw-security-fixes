@@ -4,7 +4,7 @@
 # Security fix for DSA-3469-1
 #
 # Security announcement date: 2016-02-08 00:00:00 UTC
-# Script generation date:     2016-07-30 21:10:34 UTC
+# Script generation date:     2016-09-12 11:49:31 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -18,7 +18,7 @@
 #   - qemu-utils:1.1.2+dfsg-6a+deb7u12
 #
 # Last versions recommanded by security team:
-#   - qemu:1.1.2+dfsg-6+deb7u14
+#   - qemu:1.1.2+dfsg-6+deb7u15
 #   - qemu-keymaps:1.1.2+dfsg-6a+deb7u13
 #   - qemu-system:1.1.2+dfsg-6a+deb7u13
 #   - qemu-user:1.1.2+dfsg-6a+deb7u13
@@ -42,7 +42,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu=1.1.2+dfsg-6+deb7u14 -y
+sudo apt-get install --only-upgrade qemu=1.1.2+dfsg-6+deb7u15 -y
 sudo apt-get install --only-upgrade qemu-keymaps=1.1.2+dfsg-6a+deb7u13 -y
 sudo apt-get install --only-upgrade qemu-system=1.1.2+dfsg-6a+deb7u13 -y
 sudo apt-get install --only-upgrade qemu-user=1.1.2+dfsg-6a+deb7u13 -y

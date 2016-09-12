@@ -4,7 +4,7 @@
 # Security fix for DSA-2787-1
 #
 # Security announcement date: 2013-10-27 00:00:00 UTC
-# Script generation date:     2016-08-04 21:12:28 UTC
+# Script generation date:     2016-09-12 11:48:05 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -17,7 +17,7 @@
 #   - roundcube-plugins:0.7.2-9+deb7u1
 #
 # Last versions recommanded by security team:
-#   - roundcube:0.7.2-9+deb7u3
+#   - roundcube:0.7.2-9+deb7u4
 #   - roundcube-core:0.7.2-9+deb7u1
 #   - roundcube-mysql:0.7.2-9+deb7u1
 #   - roundcube-pgsql:0.7.2-9+deb7u1
@@ -30,7 +30,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade roundcube=0.7.2-9+deb7u3 -y
+sudo apt-get install --only-upgrade roundcube=0.7.2-9+deb7u4 -y
 sudo apt-get install --only-upgrade roundcube-core=0.7.2-9+deb7u1 -y
 sudo apt-get install --only-upgrade roundcube-mysql=0.7.2-9+deb7u1 -y
 sudo apt-get install --only-upgrade roundcube-pgsql=0.7.2-9+deb7u1 -y
