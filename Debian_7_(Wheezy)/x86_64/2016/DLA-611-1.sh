@@ -1,26 +1,25 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-537-1
+# Security fix for DLA-611-1
 #
-# Security announcement date: 2016-06-30 00:00:00 UTC
-# Script generation date:     2016-09-12 11:52:55 UTC
+# Security announcement date: 2016-09-05 00:00:00 UTC
+# Script generation date:     2016-09-12 11:52:59 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - roundcube:0.7.2-9+deb7u3
+#   - jsch:0.1.42-2+deb7u1
 #
 # Last versions recommanded by security team:
-#   - roundcube:0.7.2-9+deb7u4
+#   - jsch:0.1.42-2+deb7u1
 #
 # CVE List:
-#   - CVE-2015-8864
-#   - CVE-2016-4068
+#   - CVE-2016-5725
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade roundcube=0.7.2-9+deb7u4 -y
+sudo apt-get install --only-upgrade jsch=0.1.42-2+deb7u1 -y

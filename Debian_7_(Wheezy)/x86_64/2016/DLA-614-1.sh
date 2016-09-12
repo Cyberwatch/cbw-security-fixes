@@ -1,29 +1,23 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-571-1
+# Security fix for DLA-614-1
 #
-# Security announcement date: 2016-07-30 00:00:00 UTC
-# Script generation date:     2016-09-12 11:52:57 UTC
+# Security announcement date: 2016-09-08 00:00:00 UTC
+# Script generation date:     2016-09-12 11:53:00 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - xen:4.1.6.lts1-1
+#   - xen:4.1.6.lts1-2
 #
 # Last versions recommanded by security team:
 #   - xen:4.1.6.lts1-2
 #
 # CVE List:
-#   - CVE-2014-3672
-#   - CVE-2016-3158
-#   - CVE-2016-3159
-#   - CVE-2016-3710
-#   - CVE-2016-3712
-#   - CVE-2016-3960
-#   - CVE-2016-4480
-#   - CVE-2016-6258
+#   - CVE-2016-7092
+#   - CVE-2016-7094
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

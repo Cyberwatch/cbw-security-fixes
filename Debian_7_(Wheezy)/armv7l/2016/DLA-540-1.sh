@@ -4,7 +4,7 @@
 # Security fix for DLA-540-1
 #
 # Security announcement date: 2016-07-01 00:00:00 UTC
-# Script generation date:     2016-08-04 21:16:52 UTC
+# Script generation date:     2016-09-12 11:52:55 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - qemu:1.1.2+dfsg-6a+deb7u13
 #
 # Last versions recommanded by security team:
-#   - qemu:1.1.2+dfsg-6+deb7u14
+#   - qemu:1.1.2+dfsg-6+deb7u15
 #
 # CVE List:
 #   - CVE-2016-3710
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu=1.1.2+dfsg-6+deb7u14 -y
+sudo apt-get install --only-upgrade qemu=1.1.2+dfsg-6+deb7u15 -y
