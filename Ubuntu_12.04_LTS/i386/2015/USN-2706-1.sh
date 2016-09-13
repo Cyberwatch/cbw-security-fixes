@@ -4,7 +4,7 @@
 # Security fix for USN-2706-1
 #
 # Security announcement date: 2015-08-06 00:00:00 UTC
-# Script generation date:     2016-06-20 14:22:56 UTC
+# Script generation date:     2016-09-13 00:19:44 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -30,24 +30,24 @@
 #   - openjdk-6-jre-lib:6b36-1.13.8-0ubuntu1~12.04
 #
 # Last versions recommanded by security team:
-#   - icedtea-6-jre-cacao:6b39-1.13.11-0ubuntu0.12.04.1
-#   - openjdk-6-jdk:6b39-1.13.11-0ubuntu0.12.04.1
-#   - openjdk-6-jre-headless:6b39-1.13.11-0ubuntu0.12.04.1
-#   - openjdk-6-jre:6b39-1.13.11-0ubuntu0.12.04.1
-#   - openjdk-6-jre-lib:6b39-1.13.11-0ubuntu0.12.04.1
-#   - openjdk-6-demo:6b39-1.13.11-0ubuntu0.12.04.1
-#   - openjdk-6-source:6b39-1.13.11-0ubuntu0.12.04.1
-#   - openjdk-6-doc:6b39-1.13.11-0ubuntu0.12.04.1
-#   - openjdk-6-dbg:6b39-1.13.11-0ubuntu0.12.04.1
-#   - icedtea-6-jre-jamvm:6b39-1.13.11-0ubuntu0.12.04.1
+#   - icedtea-6-jre-cacao:6b40-1.13.12-0ubuntu0.12.04.1
+#   - openjdk-6-jdk:6b40-1.13.12-0ubuntu0.12.04.1
+#   - openjdk-6-jre-headless:6b40-1.13.12-0ubuntu0.12.04.1
+#   - openjdk-6-jre:6b40-1.13.12-0ubuntu0.12.04.1
+#   - openjdk-6-jre-lib:6b40-1.13.12-0ubuntu0.12.04.1
+#   - openjdk-6-demo:6b40-1.13.12-0ubuntu0.12.04.1
+#   - openjdk-6-source:6b40-1.13.12-0ubuntu0.12.04.1
+#   - openjdk-6-doc:6b40-1.13.12-0ubuntu0.12.04.1
+#   - openjdk-6-dbg:6b40-1.13.12-0ubuntu0.12.04.1
+#   - icedtea-6-jre-jamvm:6b40-1.13.12-0ubuntu0.12.04.1
 #   - openjdk-6-jre-zero:6b36-1.13.8-0ubuntu1~12.04
-#   - icedtea-6-jre-jamvm:6b39-1.13.11-0ubuntu0.12.04.1
-#   - openjdk-6-jdk:6b39-1.13.11-0ubuntu0.12.04.1
-#   - openjdk-6-source:6b39-1.13.11-0ubuntu0.12.04.1
-#   - openjdk-6-jre:6b39-1.13.11-0ubuntu0.12.04.1
-#   - openjdk-6-jre-headless:6b39-1.13.11-0ubuntu0.12.04.1
+#   - icedtea-6-jre-jamvm:6b40-1.13.12-0ubuntu0.12.04.1
+#   - openjdk-6-jdk:6b40-1.13.12-0ubuntu0.12.04.1
+#   - openjdk-6-source:6b40-1.13.12-0ubuntu0.12.04.1
+#   - openjdk-6-jre:6b40-1.13.12-0ubuntu0.12.04.1
+#   - openjdk-6-jre-headless:6b40-1.13.12-0ubuntu0.12.04.1
 #   - openjdk-6-jre-zero:6b36-1.13.8-0ubuntu1~12.04
-#   - openjdk-6-jre-lib:6b39-1.13.11-0ubuntu0.12.04.1
+#   - openjdk-6-jre-lib:6b40-1.13.12-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2015-2590
@@ -70,21 +70,21 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedtea-6-jre-cacao=6b39-1.13.11-0ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade openjdk-6-jdk=6b39-1.13.11-0ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade openjdk-6-jre-headless=6b39-1.13.11-0ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade openjdk-6-jre=6b39-1.13.11-0ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade openjdk-6-jre-lib=6b39-1.13.11-0ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade openjdk-6-demo=6b39-1.13.11-0ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade openjdk-6-source=6b39-1.13.11-0ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade openjdk-6-doc=6b39-1.13.11-0ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade openjdk-6-dbg=6b39-1.13.11-0ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade icedtea-6-jre-jamvm=6b39-1.13.11-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade icedtea-6-jre-cacao=6b40-1.13.12-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jdk=6b40-1.13.12-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jre-headless=6b40-1.13.12-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jre=6b40-1.13.12-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jre-lib=6b40-1.13.12-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-demo=6b40-1.13.12-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-source=6b40-1.13.12-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-doc=6b40-1.13.12-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-dbg=6b40-1.13.12-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade icedtea-6-jre-jamvm=6b40-1.13.12-0ubuntu0.12.04.1 -y
 sudo apt-get install --only-upgrade openjdk-6-jre-zero=6b36-1.13.8-0ubuntu1~12.04 -y
-sudo apt-get install --only-upgrade icedtea-6-jre-jamvm=6b39-1.13.11-0ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade openjdk-6-jdk=6b39-1.13.11-0ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade openjdk-6-source=6b39-1.13.11-0ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade openjdk-6-jre=6b39-1.13.11-0ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade openjdk-6-jre-headless=6b39-1.13.11-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade icedtea-6-jre-jamvm=6b40-1.13.12-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jdk=6b40-1.13.12-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-source=6b40-1.13.12-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jre=6b40-1.13.12-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jre-headless=6b40-1.13.12-0ubuntu0.12.04.1 -y
 sudo apt-get install --only-upgrade openjdk-6-jre-zero=6b36-1.13.8-0ubuntu1~12.04 -y
-sudo apt-get install --only-upgrade openjdk-6-jre-lib=6b39-1.13.11-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade openjdk-6-jre-lib=6b40-1.13.12-0ubuntu0.12.04.1 -y
