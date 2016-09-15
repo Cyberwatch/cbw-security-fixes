@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:0439
 #
 # Security announcement date: 2014-04-28 16:48:09 UTC
-# Script generation date:     2016-08-19 21:35:42 UTC
+# Script generation date:     2016-09-15 21:19:42 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -29,19 +29,19 @@
 # Last versions recommanded by security team:
 #   - kernel-rt-doc.noarch:3.10.0-327.rt56.170.el6rt
 #   - kernel-rt-firmware.noarch:3.10.0-327.rt56.170.el6rt
-#   - kernel-rt.x86_64:3.10.0-327.rt56.195.el6rt
-#   - kernel-rt-debug.x86_64:3.10.0-327.rt56.195.el6rt
-#   - kernel-rt-debug-debuginfo.x86_64:3.10.0-327.rt56.195.el6rt
-#   - kernel-rt-debug-devel.x86_64:3.10.0-327.rt56.195.el6rt
-#   - kernel-rt-debuginfo.x86_64:3.10.0-327.rt56.195.el6rt
-#   - kernel-rt-debuginfo-common-x86_64.x86_64:3.10.0-327.rt56.195.el6rt
-#   - kernel-rt-devel.x86_64:3.10.0-327.rt56.195.el6rt
-#   - kernel-rt-trace.x86_64:3.10.0-327.rt56.195.el6rt
-#   - kernel-rt-trace-debuginfo.x86_64:3.10.0-327.rt56.195.el6rt
-#   - kernel-rt-trace-devel.x86_64:3.10.0-327.rt56.195.el6rt
-#   - kernel-rt-vanilla.x86_64:3.10.0-327.rt56.195.el6rt
-#   - kernel-rt-vanilla-debuginfo.x86_64:3.10.0-327.rt56.195.el6rt
-#   - kernel-rt-vanilla-devel.x86_64:3.10.0-327.rt56.195.el6rt
+#   - kernel-rt.x86_64:3.10.0-327.rt56.197.el6rt
+#   - kernel-rt-debug.x86_64:3.10.0-327.rt56.197.el6rt
+#   - kernel-rt-debug-debuginfo.x86_64:3.10.0-327.rt56.197.el6rt
+#   - kernel-rt-debug-devel.x86_64:3.10.0-327.rt56.197.el6rt
+#   - kernel-rt-debuginfo.x86_64:3.10.0-327.rt56.197.el6rt
+#   - kernel-rt-debuginfo-common-x86_64.x86_64:3.10.0-327.rt56.197.el6rt
+#   - kernel-rt-devel.x86_64:3.10.0-327.rt56.197.el6rt
+#   - kernel-rt-trace.x86_64:3.10.0-327.rt56.197.el6rt
+#   - kernel-rt-trace-debuginfo.x86_64:3.10.0-327.rt56.197.el6rt
+#   - kernel-rt-trace-devel.x86_64:3.10.0-327.rt56.197.el6rt
+#   - kernel-rt-vanilla.x86_64:3.10.0-327.rt56.197.el6rt
+#   - kernel-rt-vanilla-debuginfo.x86_64:3.10.0-327.rt56.197.el6rt
+#   - kernel-rt-vanilla-devel.x86_64:3.10.0-327.rt56.197.el6rt
 #
 # CVE List:
 #   - CVE-2013-7263
