@@ -4,7 +4,7 @@
 # Security fix for DSA-2897-1
 #
 # Security announcement date: 2014-04-08 00:00:00 UTC
-# Script generation date:     2016-08-04 21:12:41 UTC
+# Script generation date:     2016-09-15 21:08:08 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -21,7 +21,7 @@
 #   - tomcat7-docs:7.0.28-4+deb7u1
 #
 # Last versions recommanded by security team:
-#   - tomcat7:7.0.28-4+deb7u5
+#   - tomcat7:7.0.28-4+deb7u6
 #   - tomcat7-common:7.0.28-4+deb7u1
 #   - tomcat7-user:7.0.28-4+deb7u1
 #   - libtomcat7-java:7.0.28-4+deb7u1
@@ -43,7 +43,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tomcat7=7.0.28-4+deb7u5 -y
+sudo apt-get install --only-upgrade tomcat7=7.0.28-4+deb7u6 -y
 sudo apt-get install --only-upgrade tomcat7-common=7.0.28-4+deb7u1 -y
 sudo apt-get install --only-upgrade tomcat7-user=7.0.28-4+deb7u1 -y
 sudo apt-get install --only-upgrade libtomcat7-java=7.0.28-4+deb7u1 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3552-1
 #
 # Security announcement date: 2016-04-17 00:00:00 UTC
-# Script generation date:     2016-06-26 21:08:57 UTC
+# Script generation date:     2016-09-15 21:09:50 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -21,15 +21,15 @@
 #   - tomcat7-docs:7.0.28-4+deb7u4
 #
 # Last versions recommanded by security team:
-#   - tomcat7:7.0.28-4+deb7u5
-#   - tomcat7-common:7.0.28-4+deb7u5
-#   - tomcat7-user:7.0.28-4+deb7u5
-#   - libtomcat7-java:7.0.28-4+deb7u5
-#   - libservlet3.0-java:7.0.28-4+deb7u5
-#   - libservlet3.0-java-doc:7.0.28-4+deb7u5
-#   - tomcat7-admin:7.0.28-4+deb7u5
-#   - tomcat7-examples:7.0.28-4+deb7u5
-#   - tomcat7-docs:7.0.28-4+deb7u5
+#   - tomcat7:7.0.28-4+deb7u6
+#   - tomcat7-common:7.0.28-4+deb7u6
+#   - tomcat7-user:7.0.28-4+deb7u6
+#   - libtomcat7-java:7.0.28-4+deb7u6
+#   - libservlet3.0-java:7.0.28-4+deb7u6
+#   - libservlet3.0-java-doc:7.0.28-4+deb7u6
+#   - tomcat7-admin:7.0.28-4+deb7u6
+#   - tomcat7-examples:7.0.28-4+deb7u6
+#   - tomcat7-docs:7.0.28-4+deb7u6
 #
 # CVE List:
 #   - CVE-2015-5174
@@ -44,12 +44,12 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tomcat7=7.0.28-4+deb7u5 -y
-sudo apt-get install --only-upgrade tomcat7-common=7.0.28-4+deb7u5 -y
-sudo apt-get install --only-upgrade tomcat7-user=7.0.28-4+deb7u5 -y
-sudo apt-get install --only-upgrade libtomcat7-java=7.0.28-4+deb7u5 -y
-sudo apt-get install --only-upgrade libservlet3.0-java=7.0.28-4+deb7u5 -y
-sudo apt-get install --only-upgrade libservlet3.0-java-doc=7.0.28-4+deb7u5 -y
-sudo apt-get install --only-upgrade tomcat7-admin=7.0.28-4+deb7u5 -y
-sudo apt-get install --only-upgrade tomcat7-examples=7.0.28-4+deb7u5 -y
-sudo apt-get install --only-upgrade tomcat7-docs=7.0.28-4+deb7u5 -y
+sudo apt-get install --only-upgrade tomcat7=7.0.28-4+deb7u6 -y
+sudo apt-get install --only-upgrade tomcat7-common=7.0.28-4+deb7u6 -y
+sudo apt-get install --only-upgrade tomcat7-user=7.0.28-4+deb7u6 -y
+sudo apt-get install --only-upgrade libtomcat7-java=7.0.28-4+deb7u6 -y
+sudo apt-get install --only-upgrade libservlet3.0-java=7.0.28-4+deb7u6 -y
+sudo apt-get install --only-upgrade libservlet3.0-java-doc=7.0.28-4+deb7u6 -y
+sudo apt-get install --only-upgrade tomcat7-admin=7.0.28-4+deb7u6 -y
+sudo apt-get install --only-upgrade tomcat7-examples=7.0.28-4+deb7u6 -y
+sudo apt-get install --only-upgrade tomcat7-docs=7.0.28-4+deb7u6 -y
