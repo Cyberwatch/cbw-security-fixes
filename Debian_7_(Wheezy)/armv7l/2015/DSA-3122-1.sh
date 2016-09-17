@@ -4,7 +4,7 @@
 # Security fix for DSA-3122-1
 #
 # Security announcement date: 2015-01-08 00:00:00 UTC
-# Script generation date:     2016-09-12 11:48:37 UTC
+# Script generation date:     2016-09-17 21:05:24 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - curl:7.26.0-1+wheezy12
 #
 # Last versions recommanded by security team:
-#   - curl:7.26.0-1+wheezy15
+#   - curl:7.26.0-1+wheezy16
 #
 # CVE List:
 #   - CVE-2014-8150
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade curl=7.26.0-1+wheezy15 -y
+sudo apt-get install --only-upgrade curl=7.26.0-1+wheezy16 -y
