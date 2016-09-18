@@ -4,7 +4,7 @@
 # Security fix for DSA-3198-2
 #
 # Security announcement date: 2015-03-28 00:00:00 UTC
-# Script generation date:     2016-08-04 21:13:20 UTC
+# Script generation date:     2016-09-18 21:05:45 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -44,7 +44,7 @@
 #   - php5-xsl:5.4.39-0+deb7u2
 #
 # Last versions recommanded by security team:
-#   - php5:5.4.45-0+deb7u4
+#   - php5:5.4.45-0+deb7u5
 #   - php5-common:5.4.45-0+deb7u1
 #   - libapache2-mod-php5:5.4.45-0+deb7u1
 #   - libapache2-mod-php5filter:5.4.45-0+deb7u1
@@ -83,7 +83,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u4 -y
+sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u5 -y
 sudo apt-get install --only-upgrade php5-common=5.4.45-0+deb7u1 -y
 sudo apt-get install --only-upgrade libapache2-mod-php5=5.4.45-0+deb7u1 -y
 sudo apt-get install --only-upgrade libapache2-mod-php5filter=5.4.45-0+deb7u1 -y

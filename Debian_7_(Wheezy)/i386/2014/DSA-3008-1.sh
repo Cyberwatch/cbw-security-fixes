@@ -4,7 +4,7 @@
 # Security fix for DSA-3008-1
 #
 # Security announcement date: 2014-08-21 00:00:00 UTC
-# Script generation date:     2016-06-29 21:11:32 UTC
+# Script generation date:     2016-09-18 21:05:17 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - php5:5.4.4-14+deb7u13
 #
 # Last versions recommanded by security team:
-#   - php5:5.4.45-0+deb7u4
+#   - php5:5.4.45-0+deb7u5
 #
 # CVE List:
 #   - CVE-2014-3538
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u4 -y
+sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u5 -y
