@@ -4,7 +4,7 @@
 # Security fix for DLA-533-1
 #
 # Security announcement date: 2016-06-29 00:00:00 UTC
-# Script generation date:     2016-08-04 21:16:52 UTC
+# Script generation date:     2016-09-18 21:10:18 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - php5:5.4.45-0+deb7u4
 #
 # Last versions recommanded by security team:
-#   - php5:5.4.45-0+deb7u4
+#   - php5:5.4.45-0+deb7u5
 #
 # CVE List:
 #   - CVE-2016-5093
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u4 -y
+sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u5 -y

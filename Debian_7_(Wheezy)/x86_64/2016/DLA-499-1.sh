@@ -4,7 +4,7 @@
 # Security fix for DLA-499-1
 #
 # Security announcement date: 2016-05-31 00:00:00 UTC
-# Script generation date:     2016-06-29 21:16:27 UTC
+# Script generation date:     2016-09-18 21:10:17 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - php5:5.4.45-0+deb7u3
 #
 # Last versions recommanded by security team:
-#   - php5:5.4.45-0+deb7u4
+#   - php5:5.4.45-0+deb7u5
 #
 # CVE List:
 #   - CVE-2015-8865
@@ -37,4 +37,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u4 -y
+sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u5 -y
