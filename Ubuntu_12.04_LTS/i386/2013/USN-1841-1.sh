@@ -4,7 +4,7 @@
 # Security fix for USN-1841-1
 #
 # Security announcement date: 2013-05-28 00:00:00 UTC
-# Script generation date:     2016-07-05 21:00:58 UTC
+# Script generation date:     2016-09-19 21:00:35 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libtomcat6-java:6.0.35-1ubuntu3.3
 #
 # Last versions recommanded by security team:
-#   - libtomcat6-java:6.0.35-1ubuntu3.7
+#   - libtomcat6-java:6.0.35-1ubuntu3.8
 #
 # CVE List:
 #   - CVE-2012-3544
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libtomcat6-java=6.0.35-1ubuntu3.7 -y
+sudo apt-get install --only-upgrade libtomcat6-java=6.0.35-1ubuntu3.8 -y

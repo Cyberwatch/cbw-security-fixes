@@ -4,7 +4,7 @@
 # Security fix for USN-1878-1
 #
 # Security announcement date: 2013-06-14 00:00:00 UTC
-# Script generation date:     2016-08-29 21:00:36 UTC
+# Script generation date:     2016-09-19 21:00:36 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -26,9 +26,9 @@
 #   - linux-image-3.2.0-48-powerpc-smp:3.2.0-48.74
 #   - linux-image-3.2.0-48-powerpc64-smp:3.2.0-48.74
 #   - linux-image-3.2.0-48-virtual:3.2.0-48.74
-#   - linux-source-3.2.0:3.2.0-109.150
-#   - linux-doc:3.2.0-109.150
-#   - linux-tools-common:3.2.0-109.150
+#   - linux-source-3.2.0:3.2.0-110.151
+#   - linux-doc:3.2.0-110.151
+#   - linux-tools-common:3.2.0-110.151
 #   - linux-image-3.2.0-48-generic-pae:3.2.0-48.74
 #   - linux-image-3.2.0-48-omap:3.2.0-48.74
 #   - linux-image-3.2.0-48-generic:3.2.0-48.74
@@ -57,9 +57,9 @@ sudo apt-get install --only-upgrade linux-image-3.2.0-48-highbank=3.2.0-48.74 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-48-powerpc-smp=3.2.0-48.74 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-48-powerpc64-smp=3.2.0-48.74 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-48-virtual=3.2.0-48.74 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-109.150 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-109.150 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-109.150 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-110.151 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-110.151 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-110.151 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-48-generic-pae=3.2.0-48.74 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-48-omap=3.2.0-48.74 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-48-generic=3.2.0-48.74 -y
