@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0071
 #
 # Security announcement date: 2016-01-27 04:37:30 UTC
-# Script generation date:     2016-08-03 21:42:04 UTC
+# Script generation date:     2016-09-21 21:20:01 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -16,10 +16,10 @@
 #   - firefox-debuginfo.i686:38.6.0-1.el7_2
 #
 # Last versions recommanded by security team:
-#   - firefox.x86_64:45.3.0-1.el7_2
-#   - firefox-debuginfo.x86_64:45.3.0-1.el7_2
-#   - firefox.i686:45.3.0-1.el7_2
-#   - firefox-debuginfo.i686:45.3.0-1.el7_2
+#   - firefox.x86_64:45.4.0-1.el7_2
+#   - firefox-debuginfo.x86_64:45.4.0-1.el7_2
+#   - firefox.i686:45.4.0-1.el7_2
+#   - firefox-debuginfo.i686:45.4.0-1.el7_2
 #
 # CVE List:
 #   - CVE-2016-1930
@@ -29,7 +29,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.x86_64-45.3.0 -y 
-sudo yum install firefox-debuginfo.x86_64-45.3.0 -y 
-sudo yum install firefox.i686-45.3.0 -y 
-sudo yum install firefox-debuginfo.i686-45.3.0 -y 
+sudo yum install firefox.x86_64-45.4.0 -y 
+sudo yum install firefox-debuginfo.x86_64-45.4.0 -y 
+sudo yum install firefox.i686-45.4.0 -y 
+sudo yum install firefox-debuginfo.i686-45.4.0 -y 
