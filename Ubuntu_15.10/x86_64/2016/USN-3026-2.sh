@@ -1,25 +1,25 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for USN-2981-1
+# Security fix for USN-3026-2
 #
-# Security announcement date: 2016-05-17 00:00:00 UTC
-# Script generation date:     2016-09-21 21:03:47 UTC
+# Security announcement date: 2016-07-05 00:00:00 UTC
+# Script generation date:     2016-09-21 21:03:55 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libarchive13:3.1.2-11ubuntu0.15.10.1
+#   - libusbmuxd2:1.0.9-1ubuntu0.1
 #
 # Last versions recommanded by security team:
-#   - libarchive13:3.1.2-11ubuntu0.15.10.2
+#   - libusbmuxd2:1.0.9-1ubuntu0.1
 #
 # CVE List:
-#   - CVE-2016-1541
+#   - CVE-2016-5104
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libarchive13=3.1.2-11ubuntu0.15.10.2 -y
+sudo apt-get install --only-upgrade libusbmuxd2=1.0.9-1ubuntu0.1 -y

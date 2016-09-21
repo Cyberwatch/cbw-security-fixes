@@ -1,26 +1,23 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for USN-2973-1
+# Security fix for USN-3023-1
 #
-# Security announcement date: 2016-05-18 00:00:00 UTC
-# Script generation date:     2016-09-21 21:03:50 UTC
+# Security announcement date: 2016-07-18 00:00:00 UTC
+# Script generation date:     2016-09-21 21:03:57 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - thunderbird:1:38.8.0+build1-0ubuntu0.15.10.1
+#   - thunderbird:1:45.2.0+build1-0ubuntu0.15.10.1
 #
 # Last versions recommanded by security team:
 #   - thunderbird:1:45.2.0+build1-0ubuntu0.15.10.1
 #
 # CVE List:
-#   - CVE-2016-2805
-#   - CVE-2016-2807
-#   - CVE-2016-1938
-#   - CVE-2016-1978
-#   - CVE-2016-1979
+#   - CVE-2016-1951
+#   - CVE-2016-2818
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
