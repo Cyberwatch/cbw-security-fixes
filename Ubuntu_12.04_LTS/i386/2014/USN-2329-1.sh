@@ -4,7 +4,7 @@
 # Security fix for USN-2329-1
 #
 # Security announcement date: 2014-09-02 00:00:00 UTC
-# Script generation date:     2016-08-05 21:02:22 UTC
+# Script generation date:     2016-09-22 21:01:16 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox:32.0+build1-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:48.0+build2-0ubuntu0.12.04.1
+#   - firefox:49.0+build4-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2014-1553
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=48.0+build2-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade firefox=49.0+build4-0ubuntu0.12.04.1 -y

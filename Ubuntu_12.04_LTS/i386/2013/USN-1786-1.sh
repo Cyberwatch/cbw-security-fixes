@@ -4,7 +4,7 @@
 # Security fix for USN-1786-1
 #
 # Security announcement date: 2013-04-04 00:00:00 UTC
-# Script generation date:     2016-08-05 21:00:58 UTC
+# Script generation date:     2016-09-22 21:00:34 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox:20.0+build1-0ubuntu0.12.04.3
 #
 # Last versions recommanded by security team:
-#   - firefox:48.0+build2-0ubuntu0.12.04.1
+#   - firefox:49.0+build4-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2013-0788
@@ -30,4 +30,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=48.0+build2-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade firefox=49.0+build4-0ubuntu0.12.04.1 -y

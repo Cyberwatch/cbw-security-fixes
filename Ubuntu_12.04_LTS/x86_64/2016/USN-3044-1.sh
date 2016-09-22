@@ -4,7 +4,7 @@
 # Security fix for USN-3044-1
 #
 # Security announcement date: 2016-08-05 00:00:00 UTC
-# Script generation date:     2016-08-07 21:08:29 UTC
+# Script generation date:     2016-09-22 21:04:15 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - firefox:48.0+build2-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:48.0+build2-0ubuntu0.12.04.1
+#   - firefox:49.0+build4-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2016-0718
@@ -43,4 +43,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=48.0+build2-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade firefox=49.0+build4-0ubuntu0.12.04.1 -y

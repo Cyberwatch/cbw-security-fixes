@@ -4,7 +4,7 @@
 # Security fix for USN-1823-1
 #
 # Security announcement date: 2013-05-14 00:00:00 UTC
-# Script generation date:     2016-07-18 21:01:16 UTC
+# Script generation date:     2016-09-22 21:00:36 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - thunderbird:17.0.6+build1-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - thunderbird:1:45.2.0+build1-0ubuntu0.12.04.1
+#   - thunderbird:1:45.3.0+build1-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2013-0801
@@ -32,4 +32,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade thunderbird=1:45.2.0+build1-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade thunderbird=1:45.3.0+build1-0ubuntu0.12.04.1 -y
