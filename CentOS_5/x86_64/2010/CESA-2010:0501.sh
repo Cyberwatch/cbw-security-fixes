@@ -4,7 +4,7 @@
 # Security fix for CESA-2010:0501
 #
 # Security announcement date: 2010-06-24 16:14:17 UTC
-# Script generation date:     2016-08-04 21:19:13 UTC
+# Script generation date:     2016-09-23 21:13:26 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -37,7 +37,7 @@
 #   - devhelp.x86_64:0.12-23.el5_9
 #   - devhelp-devel.x86_64:0.12-23.el5_9
 #   - esc.x86_64:1.1.0-12.el5
-#   - firefox.x86_64:45.3.0-1.el5.centos
+#   - firefox.x86_64:45.4.0-1.el5.centos
 #   - gnome-python2-extras.x86_64:2.14.2-6.el5
 #   - gnome-python2-gtkhtml2.x86_64:2.14.2-6.el5
 #   - gnome-python2-gtkmozembed.x86_64:2.14.2-6.el5
@@ -51,7 +51,7 @@
 #   - yelp.x86_64:2.16.0-30.el5_9
 #   - devhelp.i386:0.12-23.el5_9
 #   - devhelp-devel.i386:0.12-23.el5_9
-#   - firefox.i386:45.3.0-1.el5.centos
+#   - firefox.i386:45.4.0-1.el5.centos
 #   - totem.i386:2.16.7-7.el5
 #   - totem-devel.i386:2.16.7-7.el5
 #   - xulrunner.i386:17.0.10-1.el5_10
@@ -77,7 +77,7 @@
 sudo yum install devhelp.x86_64-0.12 -y 
 sudo yum install devhelp-devel.x86_64-0.12 -y 
 sudo yum install esc.x86_64-1.1.0 -y 
-sudo yum install firefox.x86_64-45.3.0 -y 
+sudo yum install firefox.x86_64-45.4.0 -y 
 sudo yum install gnome-python2-extras.x86_64-2.14.2 -y 
 sudo yum install gnome-python2-gtkhtml2.x86_64-2.14.2 -y 
 sudo yum install gnome-python2-gtkmozembed.x86_64-2.14.2 -y 
@@ -91,7 +91,7 @@ sudo yum install xulrunner-devel.x86_64-17.0.10 -y
 sudo yum install yelp.x86_64-2.16.0 -y 
 sudo yum install devhelp.i386-0.12 -y 
 sudo yum install devhelp-devel.i386-0.12 -y 
-sudo yum install firefox.i386-45.3.0 -y 
+sudo yum install firefox.i386-45.4.0 -y 
 sudo yum install totem.i386-2.16.7 -y 
 sudo yum install totem-devel.i386-2.16.7 -y 
 sudo yum install xulrunner.i386-17.0.10 -y 

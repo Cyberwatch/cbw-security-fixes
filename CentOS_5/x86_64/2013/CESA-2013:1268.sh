@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1268
 #
 # Security announcement date: 2013-09-17 21:32:06 UTC
-# Script generation date:     2016-08-04 21:23:11 UTC
+# Script generation date:     2016-09-23 21:14:14 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -18,10 +18,10 @@
 #   - xulrunner-devel.i386:17.0.9-1.el5_9
 #
 # Last versions recommanded by security team:
-#   - firefox.x86_64:45.3.0-1.el5.centos
+#   - firefox.x86_64:45.4.0-1.el5.centos
 #   - xulrunner.x86_64:17.0.10-1.el5_10
 #   - xulrunner-devel.x86_64:17.0.10-1.el5_10
-#   - firefox.i386:45.3.0-1.el5.centos
+#   - firefox.i386:45.4.0-1.el5.centos
 #   - xulrunner.i386:17.0.10-1.el5_10
 #   - xulrunner-devel.i386:17.0.10-1.el5_10
 #
@@ -39,9 +39,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.x86_64-45.3.0 -y 
+sudo yum install firefox.x86_64-45.4.0 -y 
 sudo yum install xulrunner.x86_64-17.0.10 -y 
 sudo yum install xulrunner-devel.x86_64-17.0.10 -y 
-sudo yum install firefox.i386-45.3.0 -y 
+sudo yum install firefox.i386-45.4.0 -y 
 sudo yum install xulrunner.i386-17.0.10 -y 
 sudo yum install xulrunner-devel.i386-17.0.10 -y 

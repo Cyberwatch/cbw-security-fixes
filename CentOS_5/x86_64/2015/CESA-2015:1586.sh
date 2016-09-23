@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:1586
 #
 # Security announcement date: 2015-08-12 03:00:24 UTC
-# Script generation date:     2016-08-04 21:26:05 UTC
+# Script generation date:     2016-09-23 21:14:45 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - firefox.i386:38.2.0-4.el5.centos
 #
 # Last versions recommanded by security team:
-#   - firefox.x86_64:45.3.0-1.el5.centos
-#   - firefox.i386:45.3.0-1.el5.centos
+#   - firefox.x86_64:45.4.0-1.el5.centos
+#   - firefox.i386:45.4.0-1.el5.centos
 #
 # CVE List:
 #   - CVE-2015-4473
@@ -37,5 +37,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.x86_64-45.3.0 -y 
-sudo yum install firefox.i386-45.3.0 -y 
+sudo yum install firefox.x86_64-45.4.0 -y 
+sudo yum install firefox.i386-45.4.0 -y 
