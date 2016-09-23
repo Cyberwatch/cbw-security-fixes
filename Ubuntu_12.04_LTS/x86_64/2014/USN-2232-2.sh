@@ -4,7 +4,7 @@
 # Security fix for USN-2232-2
 #
 # Security announcement date: 2014-06-12 00:00:00 UTC
-# Script generation date:     2016-06-20 13:26:44 UTC
+# Script generation date:     2016-09-23 21:01:03 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libssl1.0.0:1.0.1-4ubuntu5.15
 #
 # Last versions recommanded by security team:
-#   - libssl1.0.0:1.0.1-4ubuntu5.36
+#   - libssl1.0.0:1.0.1-4ubuntu5.38
 #
 # CVE List:
 #   - CVE-2014-0224
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.36 -y
+sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.38 -y

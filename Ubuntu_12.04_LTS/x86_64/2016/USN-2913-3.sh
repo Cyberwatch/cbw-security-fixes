@@ -4,7 +4,7 @@
 # Security fix for USN-2913-3
 #
 # Security announcement date: 2016-02-24 00:00:00 UTC
-# Script generation date:     2016-06-21 01:25:02 UTC
+# Script generation date:     2016-09-23 21:03:28 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - libssl1.0.0-dbg:1.0.1-4ubuntu5.34
 #
 # Last versions recommanded by security team:
-#   - libssl1.0.0:1.0.1-4ubuntu5.36
-#   - openssl:1.0.1-4ubuntu5.36
-#   - libssl-dev:1.0.1-4ubuntu5.36
-#   - libssl-doc:1.0.1-4ubuntu5.36
-#   - libssl1.0.0-dbg:1.0.1-4ubuntu5.36
+#   - libssl1.0.0:1.0.1-4ubuntu5.38
+#   - openssl:1.0.1-4ubuntu5.38
+#   - libssl-dev:1.0.1-4ubuntu5.38
+#   - libssl-doc:1.0.1-4ubuntu5.38
+#   - libssl1.0.0-dbg:1.0.1-4ubuntu5.38
 #
 # CVE List:
 #
@@ -29,8 +29,8 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.36 -y
-sudo apt-get install --only-upgrade openssl=1.0.1-4ubuntu5.36 -y
-sudo apt-get install --only-upgrade libssl-dev=1.0.1-4ubuntu5.36 -y
-sudo apt-get install --only-upgrade libssl-doc=1.0.1-4ubuntu5.36 -y
-sudo apt-get install --only-upgrade libssl1.0.0-dbg=1.0.1-4ubuntu5.36 -y
+sudo apt-get install --only-upgrade libssl1.0.0=1.0.1-4ubuntu5.38 -y
+sudo apt-get install --only-upgrade openssl=1.0.1-4ubuntu5.38 -y
+sudo apt-get install --only-upgrade libssl-dev=1.0.1-4ubuntu5.38 -y
+sudo apt-get install --only-upgrade libssl-doc=1.0.1-4ubuntu5.38 -y
+sudo apt-get install --only-upgrade libssl1.0.0-dbg=1.0.1-4ubuntu5.38 -y
