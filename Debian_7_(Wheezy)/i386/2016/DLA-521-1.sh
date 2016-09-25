@@ -4,7 +4,7 @@
 # Security fix for DLA-521-1
 #
 # Security announcement date: 2016-06-19 00:00:00 UTC
-# Script generation date:     2016-08-04 21:16:51 UTC
+# Script generation date:     2016-09-25 21:10:50 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox-esr:45.2.0esr-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - firefox-esr:45.3.0esr-1~deb7u1
+#   - firefox-esr:45.4.0esr-1~deb7u1
 #
 # CVE List:
 #   - CVE-2016-2818
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox-esr=45.3.0esr-1~deb7u1 -y
+sudo apt-get install --only-upgrade firefox-esr=45.4.0esr-1~deb7u1 -y
