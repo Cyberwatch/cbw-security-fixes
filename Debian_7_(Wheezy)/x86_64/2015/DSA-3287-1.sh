@@ -4,7 +4,7 @@
 # Security fix for DSA-3287-1
 #
 # Security announcement date: 2015-06-13 00:00:00 UTC
-# Script generation date:     2016-06-22 12:17:16 UTC
+# Script generation date:     2016-09-25 21:06:24 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - libssl1.0.0-dbg:1.0.1e-2+deb7u17
 #
 # Last versions recommanded by security team:
-#   - openssl:1.0.1e-2+deb7u21
-#   - libssl1.0.0:1.0.1e-2+deb7u21
-#   - libssl-dev:1.0.1e-2+deb7u21
-#   - libssl-doc:1.0.1e-2+deb7u21
-#   - libssl1.0.0-dbg:1.0.1e-2+deb7u21
+#   - openssl:1.0.1t-1+deb7u1
+#   - libssl1.0.0:1.0.1t-1+deb7u1
+#   - libssl-dev:1.0.1t-1+deb7u1
+#   - libssl-doc:1.0.1t-1+deb7u1
+#   - libssl1.0.0-dbg:1.0.1t-1+deb7u1
 #
 # CVE List:
 #   - CVE-2014-8176
@@ -36,8 +36,8 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=1.0.1e-2+deb7u21 -y
-sudo apt-get install --only-upgrade libssl1.0.0=1.0.1e-2+deb7u21 -y
-sudo apt-get install --only-upgrade libssl-dev=1.0.1e-2+deb7u21 -y
-sudo apt-get install --only-upgrade libssl-doc=1.0.1e-2+deb7u21 -y
-sudo apt-get install --only-upgrade libssl1.0.0-dbg=1.0.1e-2+deb7u21 -y
+sudo apt-get install --only-upgrade openssl=1.0.1t-1+deb7u1 -y
+sudo apt-get install --only-upgrade libssl1.0.0=1.0.1t-1+deb7u1 -y
+sudo apt-get install --only-upgrade libssl-dev=1.0.1t-1+deb7u1 -y
+sudo apt-get install --only-upgrade libssl-doc=1.0.1t-1+deb7u1 -y
+sudo apt-get install --only-upgrade libssl1.0.0-dbg=1.0.1t-1+deb7u1 -y
