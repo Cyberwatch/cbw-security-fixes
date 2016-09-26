@@ -4,7 +4,7 @@
 # Security fix for DSA-3652-1
 #
 # Security announcement date: 2016-08-25 00:00:00 UTC
-# Script generation date:     2016-09-23 21:09:37 UTC
+# Script generation date:     2016-09-26 21:07:14 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -102,6 +102,7 @@
 #   - CVE-2014-9907
 #   - CVE-2016-7539
 #   - CVE-2016-7540
+#   - CVE-2016-6823
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
