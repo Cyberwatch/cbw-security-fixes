@@ -1,33 +1,33 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-585-1
+# Security fix for DLA-636-1
 #
-# Security announcement date: 2016-08-04 00:00:00 UTC
-# Script generation date:     2016-09-27 21:13:21 UTC
+# Security announcement date: 2016-09-25 00:00:00 UTC
+# Script generation date:     2016-09-27 21:13:24 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
 #
 # Vulnerable packages fix on version:
-#   - firefox-esr:45.3.0esr-1~deb7u1
+#   - firefox-esr:45.4.0esr-1~deb7u1
 #
 # Last versions recommanded by security team:
 #   - firefox-esr:45.4.0esr-1~deb7u2
 #
 # CVE List:
-#   - CVE-2016-2830
-#   - CVE-2016-2836
-#   - CVE-2016-2837
-#   - CVE-2016-2838
-#   - CVE-2016-5252
-#   - CVE-2016-5254
-#   - CVE-2016-5258
-#   - CVE-2016-5259
-#   - CVE-2016-5262
-#   - CVE-2016-5263
-#   - CVE-2016-5264
-#   - CVE-2016-5265
+#   - CVE-2016-5250
+#   - CVE-2016-5257
+#   - CVE-2016-5261
+#   - CVE-2016-5270
+#   - CVE-2016-5272
+#   - CVE-2016-5274
+#   - CVE-2016-5276
+#   - CVE-2016-5277
+#   - CVE-2016-5278
+#   - CVE-2016-5280
+#   - CVE-2016-5281
+#   - CVE-2016-5284
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
