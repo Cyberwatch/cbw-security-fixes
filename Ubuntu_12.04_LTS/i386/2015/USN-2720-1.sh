@@ -4,7 +4,7 @@
 # Security fix for USN-2720-1
 #
 # Security announcement date: 2015-08-18 00:00:00 UTC
-# Script generation date:     2016-06-20 14:23:05 UTC
+# Script generation date:     2016-09-27 21:02:42 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -14,8 +14,8 @@
 #   - python-django-doc:1.3.1-4ubuntu1.18
 #
 # Last versions recommanded by security team:
-#   - python-django:1.3.1-4ubuntu1.20
-#   - python-django-doc:1.3.1-4ubuntu1.20
+#   - python-django:1.3.1-4ubuntu1.21
+#   - python-django-doc:1.3.1-4ubuntu1.21
 #
 # CVE List:
 #   - CVE-2015-5963
@@ -25,5 +25,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.3.1-4ubuntu1.20 -y
-sudo apt-get install --only-upgrade python-django-doc=1.3.1-4ubuntu1.20 -y
+sudo apt-get install --only-upgrade python-django=1.3.1-4ubuntu1.21 -y
+sudo apt-get install --only-upgrade python-django-doc=1.3.1-4ubuntu1.21 -y
