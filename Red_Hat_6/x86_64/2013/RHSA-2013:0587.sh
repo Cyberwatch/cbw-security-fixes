@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:0587
 #
 # Security announcement date: 2013-03-04 21:19:15 UTC
-# Script generation date:     2016-05-12 18:11:14 UTC
+# Script generation date:     2016-09-27 21:18:29 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - openssl-devel.i686:1.0.0-27.el6_4.2
 #
 # Last versions recommanded by security team:
-#   - openssl.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-debuginfo.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-devel.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-perl.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-static.x86_64:1.0.1e-48.el6_8.1
-#   - openssl.i686:1.0.1e-48.el6_8.1
-#   - openssl-debuginfo.i686:1.0.1e-48.el6_8.1
-#   - openssl-devel.i686:1.0.1e-48.el6_8.1
+#   - openssl.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-debuginfo.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-devel.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-perl.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-static.x86_64:1.0.1e-48.el6_8.3
+#   - openssl.i686:1.0.1e-48.el6_8.3
+#   - openssl-debuginfo.i686:1.0.1e-48.el6_8.3
+#   - openssl-devel.i686:1.0.1e-48.el6_8.3
 #
 # CVE List:
 #   - CVE-2012-4929

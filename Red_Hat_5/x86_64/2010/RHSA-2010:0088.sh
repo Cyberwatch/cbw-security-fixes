@@ -4,7 +4,7 @@
 # Security fix for RHSA-2010:0088
 #
 # Security announcement date: 2010-02-09 12:14:12 UTC
-# Script generation date:     2016-05-12 18:09:43 UTC
+# Script generation date:     2016-09-27 21:17:07 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - kvm-tools.x86_64:83-105.el5_4.22
 #
 # Last versions recommanded by security team:
-#   - kmod-kvm.x86_64:83-274.el5_11
-#   - kvm.x86_64:83-274.el5_11
-#   - kvm-debuginfo.x86_64:83-274.el5_11
-#   - kvm-qemu-img.x86_64:83-274.el5_11
-#   - kvm-tools.x86_64:83-274.el5_11
+#   - kmod-kvm.x86_64:83-276.el5_11
+#   - kvm.x86_64:83-276.el5_11
+#   - kvm-debuginfo.x86_64:83-276.el5_11
+#   - kvm-qemu-img.x86_64:83-276.el5_11
+#   - kvm-tools.x86_64:83-276.el5_11
 #
 # CVE List:
 #   - CVE-2010-0297

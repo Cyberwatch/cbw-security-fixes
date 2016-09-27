@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1692
 #
 # Security announcement date: 2014-10-22 18:11:53 UTC
-# Script generation date:     2016-05-12 18:12:26 UTC
+# Script generation date:     2016-09-27 21:19:45 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - openssl-static.x86_64:1.0.1e-30.el6_6.2
 #
 # Last versions recommanded by security team:
-#   - openssl.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-debuginfo.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-devel.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-perl.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-static.x86_64:1.0.1e-48.el6_8.1
+#   - openssl.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-debuginfo.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-devel.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-perl.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-static.x86_64:1.0.1e-48.el6_8.3
 #
 # CVE List:
 #   - CVE-2014-3513

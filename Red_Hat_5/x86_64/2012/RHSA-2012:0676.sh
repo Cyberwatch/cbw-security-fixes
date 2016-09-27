@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:0676
 #
 # Security announcement date: 2012-05-21 17:16:12 UTC
-# Script generation date:     2016-05-12 18:10:48 UTC
+# Script generation date:     2016-09-27 21:18:01 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - kvm-tools.x86_64:83-249.el5_8.4
 #
 # Last versions recommanded by security team:
-#   - kmod-kvm.x86_64:83-274.el5_11
-#   - kmod-kvm-debug.x86_64:83-274.el5_11
-#   - kvm.x86_64:83-274.el5_11
-#   - kvm-debuginfo.x86_64:83-274.el5_11
-#   - kvm-qemu-img.x86_64:83-274.el5_11
-#   - kvm-tools.x86_64:83-274.el5_11
+#   - kmod-kvm.x86_64:83-276.el5_11
+#   - kmod-kvm-debug.x86_64:83-276.el5_11
+#   - kvm.x86_64:83-276.el5_11
+#   - kvm-debuginfo.x86_64:83-276.el5_11
+#   - kvm-qemu-img.x86_64:83-276.el5_11
+#   - kvm-tools.x86_64:83-276.el5_11
 #
 # CVE List:
 #   - CVE-2012-1601

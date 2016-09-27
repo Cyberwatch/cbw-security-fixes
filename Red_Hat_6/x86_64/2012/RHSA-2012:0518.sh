@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:0518
 #
 # Security announcement date: 2012-04-24 20:39:07 UTC
-# Script generation date:     2016-05-12 18:10:45 UTC
+# Script generation date:     2016-09-27 21:17:59 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -24,18 +24,18 @@
 #   - openssl-devel.i686:1.0.0-20.el6_2.4
 #
 # Last versions recommanded by security team:
-#   - openssl.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-debuginfo.x86_64:1.0.1e-48.el6_8.1
+#   - openssl.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-debuginfo.x86_64:1.0.1e-48.el6_8.3
 #   - openssl098e.x86_64:0.9.8e-20.el6_7.1
 #   - openssl098e-debuginfo.x86_64:0.9.8e-20.el6_7.1
-#   - openssl-devel.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-perl.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-static.x86_64:1.0.1e-48.el6_8.1
-#   - openssl.i686:1.0.1e-48.el6_8.1
-#   - openssl-debuginfo.i686:1.0.1e-48.el6_8.1
+#   - openssl-devel.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-perl.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-static.x86_64:1.0.1e-48.el6_8.3
+#   - openssl.i686:1.0.1e-48.el6_8.3
+#   - openssl-debuginfo.i686:1.0.1e-48.el6_8.3
 #   - openssl098e.i686:0.9.8e-20.el6_7.1
 #   - openssl098e-debuginfo.i686:0.9.8e-20.el6_7.1
-#   - openssl-devel.i686:1.0.1e-48.el6_8.1
+#   - openssl-devel.i686:1.0.1e-48.el6_8.3
 #
 # CVE List:
 #   - CVE-2012-2110

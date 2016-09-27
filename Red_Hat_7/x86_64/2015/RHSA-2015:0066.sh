@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:0066
 #
 # Security announcement date: 2015-01-21 23:06:58 UTC
-# Script generation date:     2016-05-12 18:12:40 UTC
+# Script generation date:     2016-09-27 21:19:58 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -22,16 +22,16 @@
 #   - openssl-static.i686:1.0.1e-34.el7_0.7
 #
 # Last versions recommanded by security team:
-#   - openssl.x86_64:1.0.1e-51.el7_2.5
-#   - openssl-debuginfo.x86_64:1.0.1e-51.el7_2.5
-#   - openssl-libs.x86_64:1.0.1e-51.el7_2.5
-#   - openssl-devel.x86_64:1.0.1e-51.el7_2.5
-#   - openssl-perl.x86_64:1.0.1e-51.el7_2.5
-#   - openssl-static.x86_64:1.0.1e-51.el7_2.5
-#   - openssl-debuginfo.i686:1.0.1e-51.el7_2.5
-#   - openssl-libs.i686:1.0.1e-51.el7_2.5
-#   - openssl-devel.i686:1.0.1e-51.el7_2.5
-#   - openssl-static.i686:1.0.1e-51.el7_2.5
+#   - openssl.x86_64:1.0.1e-51.el7_2.7
+#   - openssl-debuginfo.x86_64:1.0.1e-51.el7_2.7
+#   - openssl-libs.x86_64:1.0.1e-51.el7_2.7
+#   - openssl-devel.x86_64:1.0.1e-51.el7_2.7
+#   - openssl-perl.x86_64:1.0.1e-51.el7_2.7
+#   - openssl-static.x86_64:1.0.1e-51.el7_2.7
+#   - openssl-debuginfo.i686:1.0.1e-51.el7_2.7
+#   - openssl-libs.i686:1.0.1e-51.el7_2.7
+#   - openssl-devel.i686:1.0.1e-51.el7_2.7
+#   - openssl-static.i686:1.0.1e-51.el7_2.7
 #
 # CVE List:
 #   - CVE-2014-3570

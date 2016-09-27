@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:2617
 #
 # Security announcement date: 2015-12-14 05:57:00 UTC
-# Script generation date:     2016-05-12 18:13:32 UTC
+# Script generation date:     2016-09-27 21:20:50 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - openssl-devel.i686:1.0.1e-42.el6_7.1
 #
 # Last versions recommanded by security team:
-#   - openssl.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-debuginfo.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-devel.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-perl.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-static.x86_64:1.0.1e-48.el6_8.1
-#   - openssl.i686:1.0.1e-48.el6_8.1
-#   - openssl-debuginfo.i686:1.0.1e-48.el6_8.1
-#   - openssl-devel.i686:1.0.1e-48.el6_8.1
+#   - openssl.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-debuginfo.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-devel.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-perl.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-static.x86_64:1.0.1e-48.el6_8.3
+#   - openssl.i686:1.0.1e-48.el6_8.3
+#   - openssl-debuginfo.i686:1.0.1e-48.el6_8.3
+#   - openssl-devel.i686:1.0.1e-48.el6_8.3
 #
 # CVE List:
 #   - CVE-2015-3194
