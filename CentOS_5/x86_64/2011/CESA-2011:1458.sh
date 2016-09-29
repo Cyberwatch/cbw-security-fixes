@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:1458
 #
 # Security announcement date: 2011-11-18 13:24:22 UTC
-# Script generation date:     2016-06-22 16:33:28 UTC
+# Script generation date:     2016-09-29 21:11:21 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -23,17 +23,17 @@
 #   - bind-libs.i386:9.3.6-16.P1.el5_7.1
 #
 # Last versions recommanded by security team:
-#   - bind.x86_64:9.3.6-25.P1.el5_11.8
-#   - bind-chroot.x86_64:9.3.6-25.P1.el5_11.8
-#   - bind-devel.x86_64:9.3.6-25.P1.el5_11.8
-#   - bind-libbind-devel.x86_64:9.3.6-25.P1.el5_11.8
-#   - bind-libs.x86_64:9.3.6-25.P1.el5_11.8
-#   - bind-sdb.x86_64:9.3.6-25.P1.el5_11.8
-#   - bind-utils.x86_64:9.3.6-25.P1.el5_11.8
-#   - caching-nameserver.x86_64:9.3.6-25.P1.el5_11.8
-#   - bind-devel.i386:9.3.6-25.P1.el5_11.8
-#   - bind-libbind-devel.i386:9.3.6-25.P1.el5_11.8
-#   - bind-libs.i386:9.3.6-25.P1.el5_11.8
+#   - bind.x86_64:9.3.6-25.P1.el5_11.9
+#   - bind-chroot.x86_64:9.3.6-25.P1.el5_11.9
+#   - bind-devel.x86_64:9.3.6-25.P1.el5_11.9
+#   - bind-libbind-devel.x86_64:9.3.6-25.P1.el5_11.9
+#   - bind-libs.x86_64:9.3.6-25.P1.el5_11.9
+#   - bind-sdb.x86_64:9.3.6-25.P1.el5_11.9
+#   - bind-utils.x86_64:9.3.6-25.P1.el5_11.9
+#   - caching-nameserver.x86_64:9.3.6-25.P1.el5_11.9
+#   - bind-devel.i386:9.3.6-25.P1.el5_11.9
+#   - bind-libbind-devel.i386:9.3.6-25.P1.el5_11.9
+#   - bind-libs.i386:9.3.6-25.P1.el5_11.9
 #
 # CVE List:
 #   - CVE-2011-4313

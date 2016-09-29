@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:2658
 #
 # Security announcement date: 2015-12-16 20:24:27 UTC
-# Script generation date:     2016-05-12 18:08:52 UTC
+# Script generation date:     2016-09-29 21:12:35 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - bind97-libs.i386:9.7.0-21.P2.el5_11.4
 #
 # Last versions recommanded by security team:
-#   - bind97.x86_64:9.7.0-21.P2.el5_11.6
-#   - bind97-chroot.x86_64:9.7.0-21.P2.el5_11.6
-#   - bind97-devel.x86_64:9.7.0-21.P2.el5_11.6
-#   - bind97-libs.x86_64:9.7.0-21.P2.el5_11.6
-#   - bind97-utils.x86_64:9.7.0-21.P2.el5_11.6
-#   - bind97-devel.i386:9.7.0-21.P2.el5_11.6
-#   - bind97-libs.i386:9.7.0-21.P2.el5_11.6
+#   - bind97.x86_64:9.7.0-21.P2.el5_11.7
+#   - bind97-chroot.x86_64:9.7.0-21.P2.el5_11.7
+#   - bind97-devel.x86_64:9.7.0-21.P2.el5_11.7
+#   - bind97-libs.x86_64:9.7.0-21.P2.el5_11.7
+#   - bind97-utils.x86_64:9.7.0-21.P2.el5_11.7
+#   - bind97-devel.i386:9.7.0-21.P2.el5_11.7
+#   - bind97-libs.i386:9.7.0-21.P2.el5_11.7
 #
 # CVE List:
 #   - CVE-2015-8000

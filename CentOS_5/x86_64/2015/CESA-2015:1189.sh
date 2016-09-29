@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:1189
 #
 # Security announcement date: 2015-06-26 12:05:54 UTC
-# Script generation date:     2016-05-12 18:08:40 UTC
+# Script generation date:     2016-09-29 21:12:26 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - kvm-tools.x86_64:83-273.el5.centos
 #
 # Last versions recommanded by security team:
-#   - kmod-kvm.x86_64:83-274.el5.centos
-#   - kmod-kvm-debug.x86_64:83-274.el5.centos
-#   - kvm.x86_64:83-274.el5.centos
-#   - kvm-qemu-img.x86_64:83-274.el5.centos
-#   - kvm-tools.x86_64:83-274.el5.centos
+#   - kmod-kvm.x86_64:83-276.el5.centos
+#   - kmod-kvm-debug.x86_64:83-276.el5.centos
+#   - kvm.x86_64:83-276.el5.centos
+#   - kvm-qemu-img.x86_64:83-276.el5.centos
+#   - kvm-tools.x86_64:83-276.el5.centos
 #
 # CVE List:
 #   - CVE-2015-3209

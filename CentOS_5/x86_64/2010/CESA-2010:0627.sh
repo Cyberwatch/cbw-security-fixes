@@ -4,7 +4,7 @@
 # Security fix for CESA-2010:0627
 #
 # Security announcement date: 2010-08-27 15:11:15 UTC
-# Script generation date:     2016-05-12 18:07:22 UTC
+# Script generation date:     2016-09-29 21:11:10 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,10 +16,10 @@
 #   - kvm-tools.x86_64:83-164.el5_5.21
 #
 # Last versions recommanded by security team:
-#   - kmod-kvm.x86_64:83-274.el5.centos
-#   - kvm.x86_64:83-274.el5.centos
-#   - kvm-qemu-img.x86_64:83-274.el5.centos
-#   - kvm-tools.x86_64:83-274.el5.centos
+#   - kmod-kvm.x86_64:83-276.el5.centos
+#   - kvm.x86_64:83-276.el5.centos
+#   - kvm-qemu-img.x86_64:83-276.el5.centos
+#   - kvm-tools.x86_64:83-276.el5.centos
 #
 # CVE List:
 #   - CVE-2010-0431

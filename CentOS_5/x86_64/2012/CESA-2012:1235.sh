@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1235
 #
 # Security announcement date: 2012-09-05 18:11:48 UTC
-# Script generation date:     2016-05-12 18:07:48 UTC
+# Script generation date:     2016-09-29 21:11:36 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - kvm-tools.x86_64:83-249.el5.centos.5
 #
 # Last versions recommanded by security team:
-#   - kmod-kvm.x86_64:83-274.el5.centos
-#   - kmod-kvm-debug.x86_64:83-274.el5.centos
-#   - kvm.x86_64:83-274.el5.centos
-#   - kvm-qemu-img.x86_64:83-274.el5.centos
-#   - kvm-tools.x86_64:83-274.el5.centos
+#   - kmod-kvm.x86_64:83-276.el5.centos
+#   - kmod-kvm-debug.x86_64:83-276.el5.centos
+#   - kvm.x86_64:83-276.el5.centos
+#   - kvm-qemu-img.x86_64:83-276.el5.centos
+#   - kvm-tools.x86_64:83-276.el5.centos
 #
 # CVE List:
 #   - CVE-2012-3515
