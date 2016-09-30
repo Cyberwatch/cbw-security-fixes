@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0587
 #
 # Security announcement date: 2013-03-04 22:46:45 UTC
-# Script generation date:     2016-05-17 06:11:39 UTC
+# Script generation date:     2016-09-30 21:12:40 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - openssl-devel.i686:1.0.0-27.el6_4.2
 #
 # Last versions recommanded by security team:
-#   - openssl.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-devel.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-perl.x86_64:1.0.1e-48.el6_8.1
-#   - openssl-static.x86_64:1.0.1e-48.el6_8.1
-#   - openssl.i686:1.0.1e-48.el6_8.1
-#   - openssl-devel.i686:1.0.1e-48.el6_8.1
+#   - openssl.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-devel.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-perl.x86_64:1.0.1e-48.el6_8.3
+#   - openssl-static.x86_64:1.0.1e-48.el6_8.3
+#   - openssl.i686:1.0.1e-48.el6_8.3
+#   - openssl-devel.i686:1.0.1e-48.el6_8.3
 #
 # CVE List:
 #   - CVE-2013-0166
