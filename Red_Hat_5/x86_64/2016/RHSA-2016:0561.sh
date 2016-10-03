@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0561
 #
 # Security announcement date: 2016-04-19 12:44:54 UTC
-# Script generation date:     2016-05-12 18:13:51 UTC
+# Script generation date:     2016-10-03 21:17:40 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - redhat-release.x86_64:5Server-5.11.0.4
 #
 # Last versions recommanded by security team:
-#   - redhat-release.x86_64:5Server-5.11.0.4
-#   - redhat-release.x86_64:5Server-5.11.0.4
+#   - redhat-release.x86_64:5Server-5.11.0.6
+#   - redhat-release.x86_64:5Server-5.11.0.6
 #
 # CVE List:
 #

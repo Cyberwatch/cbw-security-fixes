@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:2519
 #
 # Security announcement date: 2015-11-26 14:14:39 UTC
-# Script generation date:     2016-09-12 12:02:01 UTC
+# Script generation date:     2016-10-03 21:17:21 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - thunderbird-debuginfo.x86_64:38.4.0-1.el7_2
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:45.3.0-1.el7_2
-#   - thunderbird-debuginfo.x86_64:45.3.0-1.el7_2
+#   - thunderbird.x86_64:45.4.0-1.el7_2
+#   - thunderbird-debuginfo.x86_64:45.4.0-1.el7_2
 #
 # CVE List:
 #   - CVE-2015-4513
@@ -30,5 +30,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.x86_64-45.3.0 -y 
-sudo yum install thunderbird-debuginfo.x86_64-45.3.0 -y 
+sudo yum install thunderbird.x86_64-45.4.0 -y 
+sudo yum install thunderbird-debuginfo.x86_64-45.4.0 -y 
