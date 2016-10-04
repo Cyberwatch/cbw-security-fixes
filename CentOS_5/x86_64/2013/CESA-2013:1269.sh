@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1269
 #
 # Security announcement date: 2013-09-17 21:34:04 UTC
-# Script generation date:     2016-09-12 11:55:07 UTC
+# Script generation date:     2016-10-04 21:15:16 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - thunderbird.x86_64:17.0.9-1.el5.centos
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:45.3.0-1.el5.centos
+#   - thunderbird.x86_64:45.4.0-1.el5.centos
 #
 # CVE List:
 #   - CVE-2013-1718
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.x86_64-45.3.0 -y 
+sudo yum install thunderbird.x86_64-45.4.0 -y 
