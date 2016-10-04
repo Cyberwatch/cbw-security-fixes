@@ -4,7 +4,7 @@
 # Security fix for USN-1448-1
 #
 # Security announcement date: 2012-05-21 00:00:00 UTC
-# Script generation date:     2016-09-19 21:00:16 UTC
+# Script generation date:     2016-10-04 21:00:22 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -22,9 +22,9 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-24-generic-pae:3.2.0-24.38
-#   - linux-source-3.2.0:3.2.0-110.151
-#   - linux-doc:3.2.0-110.151
-#   - linux-tools-common:3.2.0-110.151
+#   - linux-source-3.2.0:3.2.0-99.139
+#   - linux-doc:3.2.0-99.139
+#   - linux-tools-common:3.2.0-99.139
 #   - linux-image-3.2.0-24-powerpc64-smp:3.2.0-24.38
 #   - linux-image-3.2.0-24-generic:3.2.0-24.38
 #   - linux-image-3.2.0-24-virtual:3.2.0-24.38
@@ -41,9 +41,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-24-generic-pae=3.2.0-24.38 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-110.151 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-110.151 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-110.151 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-99.139 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-99.139 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-99.139 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-24-powerpc64-smp=3.2.0-24.38 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-24-generic=3.2.0-24.38 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-24-virtual=3.2.0-24.38 -y

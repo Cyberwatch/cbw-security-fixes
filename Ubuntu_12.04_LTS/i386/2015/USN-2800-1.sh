@@ -4,7 +4,7 @@
 # Security fix for USN-2800-1
 #
 # Security announcement date: 2015-11-09 00:00:00 UTC
-# Script generation date:     2016-09-19 21:02:57 UTC
+# Script generation date:     2016-10-04 21:03:11 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -28,9 +28,9 @@
 #   - linux-image-3.2.0-94-highbank:3.2.0-94.134
 #   - linux-image-3.2.0-94-powerpc64-smp:3.2.0-94.134
 #   - linux-image-3.2.0-94-generic-pae:3.2.0-94.134
-#   - linux-source-3.2.0:3.2.0-110.151
-#   - linux-doc:3.2.0-110.151
-#   - linux-tools-common:3.2.0-110.151
+#   - linux-source-3.2.0:3.2.0-99.139
+#   - linux-doc:3.2.0-99.139
+#   - linux-tools-common:3.2.0-99.139
 #   - linux-libc-dev:3.2.0-110.151
 #   - linux-image-3.2.0-94-virtual:3.2.0-94.134
 #   - linux-image-3.2.0-94-generic:3.2.0-94.134
@@ -47,9 +47,9 @@ sudo apt-get install --only-upgrade linux-image-3.2.0-94-powerpc-smp=3.2.0-94.13
 sudo apt-get install --only-upgrade linux-image-3.2.0-94-highbank=3.2.0-94.134 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-94-powerpc64-smp=3.2.0-94.134 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-94-generic-pae=3.2.0-94.134 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-110.151 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-110.151 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-110.151 -y
+sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-99.139 -y
+sudo apt-get install --only-upgrade linux-doc=3.2.0-99.139 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.2.0-99.139 -y
 sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-110.151 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-94-virtual=3.2.0-94.134 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-94-generic=3.2.0-94.134 -y

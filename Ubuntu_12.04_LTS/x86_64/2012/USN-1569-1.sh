@@ -4,7 +4,7 @@
 # Security fix for USN-1569-1
 #
 # Security announcement date: 2012-09-17 00:00:00 UTC
-# Script generation date:     2016-08-02 21:00:32 UTC
+# Script generation date:     2016-10-04 21:00:30 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - php5:5.3.10-1ubuntu3.4
 #
 # Last versions recommanded by security team:
-#   - php5:5.3.10-1ubuntu3.24
+#   - php5:5.3.10-1ubuntu3.25
 #
 # CVE List:
 #   - CVE-2011-1398
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.3.10-1ubuntu3.24 -y
+sudo apt-get install --only-upgrade php5=5.3.10-1ubuntu3.25 -y
