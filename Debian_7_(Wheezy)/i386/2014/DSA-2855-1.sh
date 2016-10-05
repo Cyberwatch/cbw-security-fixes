@@ -4,7 +4,7 @@
 # Security fix for DSA-2855-1
 #
 # Security announcement date: 2014-02-05 00:00:00 UTC
-# Script generation date:     2016-06-22 12:16:32 UTC
+# Script generation date:     2016-10-05 21:07:59 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libav:6:0.8.10-1
 #
 # Last versions recommanded by security team:
-#   - libav:6:0.8.17-2+deb7u2
+#   - libav:6:0.8.18-0+deb7u1
 #
 # CVE List:
 #   - CVE-2011-3944
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libav=6:0.8.17-2+deb7u2 -y
+sudo apt-get install --only-upgrade libav=6:0.8.18-0+deb7u1 -y

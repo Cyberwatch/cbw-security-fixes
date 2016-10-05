@@ -4,7 +4,7 @@
 # Security fix for DSA-3506-1
 #
 # Security announcement date: 2016-03-04 00:00:00 UTC
-# Script generation date:     2016-10-04 21:09:59 UTC
+# Script generation date:     2016-10-05 21:09:38 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -41,7 +41,7 @@
 #   - libswscale-extra-2:6:0.8.17-2
 #
 # Last versions recommanded by security team:
-#   - libav:6:0.8.17-2+deb7u2
+#   - libav:6:0.8.18-0+deb7u1
 #   - libav-tools:6:0.8.18-0+deb7u1
 #   - ffmpeg:6:0.8.18-0+deb7u1
 #   - ffmpeg-dbg:6:0.8.18-0+deb7u1
@@ -81,7 +81,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libav=6:0.8.17-2+deb7u2 -y
+sudo apt-get install --only-upgrade libav=6:0.8.18-0+deb7u1 -y
 sudo apt-get install --only-upgrade libav-tools=6:0.8.18-0+deb7u1 -y
 sudo apt-get install --only-upgrade ffmpeg=6:0.8.18-0+deb7u1 -y
 sudo apt-get install --only-upgrade ffmpeg-dbg=6:0.8.18-0+deb7u1 -y
