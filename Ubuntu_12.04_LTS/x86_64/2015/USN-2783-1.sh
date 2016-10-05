@@ -4,7 +4,7 @@
 # Security fix for USN-2783-1
 #
 # Security announcement date: 2015-10-27 00:00:00 UTC
-# Script generation date:     2016-06-20 14:23:40 UTC
+# Script generation date:     2016-10-05 21:02:55 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - ntp-doc:1:4.2.6.p3+dfsg-1ubuntu3.6
 #
 # Last versions recommanded by security team:
-#   - ntp:1:4.2.6.p3+dfsg-1ubuntu3.6
-#   - ntpdate:1:4.2.6.p3+dfsg-1ubuntu3.6
-#   - ntp-doc:1:4.2.6.p3+dfsg-1ubuntu3.6
+#   - ntp:1:4.2.6.p3+dfsg-1ubuntu3.11
+#   - ntpdate:1:4.2.6.p3+dfsg-1ubuntu3.11
+#   - ntp-doc:1:4.2.6.p3+dfsg-1ubuntu3.11
 #
 # CVE List:
 #   - CVE-2015-5146
@@ -43,6 +43,6 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ntp=1:4.2.6.p3+dfsg-1ubuntu3.6 -y
-sudo apt-get install --only-upgrade ntpdate=1:4.2.6.p3+dfsg-1ubuntu3.6 -y
-sudo apt-get install --only-upgrade ntp-doc=1:4.2.6.p3+dfsg-1ubuntu3.6 -y
+sudo apt-get install --only-upgrade ntp=1:4.2.6.p3+dfsg-1ubuntu3.11 -y
+sudo apt-get install --only-upgrade ntpdate=1:4.2.6.p3+dfsg-1ubuntu3.11 -y
+sudo apt-get install --only-upgrade ntp-doc=1:4.2.6.p3+dfsg-1ubuntu3.11 -y
