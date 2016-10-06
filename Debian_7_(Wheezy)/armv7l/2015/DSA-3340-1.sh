@@ -4,7 +4,7 @@
 # Security fix for DSA-3340-1
 #
 # Security announcement date: 2015-08-19 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:39 UTC
+# Script generation date:     2016-10-06 21:06:30 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -15,7 +15,7 @@
 #   - zendframework-resources:1.11.13-1.1+deb7u3
 #
 # Last versions recommanded by security team:
-#   - zendframework:1.11.13-1.1+deb7u4
+#   - zendframework:1.11.13-1.1+deb7u5
 #   - zendframework-bin:1.11.13-1.1+deb7u4
 #   - zendframework-resources:1.11.13-1.1+deb7u4
 #
@@ -26,6 +26,6 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade zendframework=1.11.13-1.1+deb7u4 -y
+sudo apt-get install --only-upgrade zendframework=1.11.13-1.1+deb7u5 -y
 sudo apt-get install --only-upgrade zendframework-bin=1.11.13-1.1+deb7u4 -y
 sudo apt-get install --only-upgrade zendframework-resources=1.11.13-1.1+deb7u4 -y

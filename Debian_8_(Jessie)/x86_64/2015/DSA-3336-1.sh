@@ -4,7 +4,7 @@
 # Security fix for DSA-3336-1
 #
 # Security announcement date: 2015-08-17 00:00:00 UTC
-# Script generation date:     2016-07-28 21:10:40 UTC
+# Script generation date:     2016-10-06 21:06:29 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -19,11 +19,11 @@
 #
 # Last versions recommanded by security team:
 #   - nss:2:3.17.2-1.1+deb8u1
-#   - libnss3:2:3.17.2-1.1+deb8u1
-#   - libnss3-1d:2:3.17.2-1.1+deb8u1
-#   - libnss3-tools:2:3.17.2-1.1+deb8u1
-#   - libnss3-dev:2:3.17.2-1.1+deb8u1
-#   - libnss3-dbg:2:3.17.2-1.1+deb8u1
+#   - libnss3:2:3.26-1+debu8u1
+#   - libnss3-1d:2:3.26-1+debu8u1
+#   - libnss3-tools:2:3.26-1+debu8u1
+#   - libnss3-dev:2:3.26-1+debu8u1
+#   - libnss3-dbg:2:3.26-1+debu8u1
 #
 # CVE List:
 #   - CVE-2015-2721
@@ -34,8 +34,8 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade nss=2:3.17.2-1.1+deb8u1 -y
-sudo apt-get install --only-upgrade libnss3=2:3.17.2-1.1+deb8u1 -y
-sudo apt-get install --only-upgrade libnss3-1d=2:3.17.2-1.1+deb8u1 -y
-sudo apt-get install --only-upgrade libnss3-tools=2:3.17.2-1.1+deb8u1 -y
-sudo apt-get install --only-upgrade libnss3-dev=2:3.17.2-1.1+deb8u1 -y
-sudo apt-get install --only-upgrade libnss3-dbg=2:3.17.2-1.1+deb8u1 -y
+sudo apt-get install --only-upgrade libnss3=2:3.26-1+debu8u1 -y
+sudo apt-get install --only-upgrade libnss3-1d=2:3.26-1+debu8u1 -y
+sudo apt-get install --only-upgrade libnss3-tools=2:3.26-1+debu8u1 -y
+sudo apt-get install --only-upgrade libnss3-dev=2:3.26-1+debu8u1 -y
+sudo apt-get install --only-upgrade libnss3-dbg=2:3.26-1+debu8u1 -y

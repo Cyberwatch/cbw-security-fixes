@@ -4,7 +4,7 @@
 # Security fix for DSA-3265-1
 #
 # Security announcement date: 2015-05-20 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:27 UTC
+# Script generation date:     2016-10-06 21:06:12 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - zendframework:1.11.13-1.1+deb7u1
 #
 # Last versions recommanded by security team:
-#   - zendframework:1.11.13-1.1+deb7u4
+#   - zendframework:1.11.13-1.1+deb7u5
 #
 # CVE List:
 #   - CVE-2014-2681
@@ -30,4 +30,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade zendframework=1.11.13-1.1+deb7u4 -y
+sudo apt-get install --only-upgrade zendframework=1.11.13-1.1+deb7u5 -y
