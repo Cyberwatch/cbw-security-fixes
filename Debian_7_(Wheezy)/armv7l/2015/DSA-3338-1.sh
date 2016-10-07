@@ -4,7 +4,7 @@
 # Security fix for DSA-3338-1
 #
 # Security announcement date: 2015-08-18 00:00:00 UTC
-# Script generation date:     2016-08-09 21:11:01 UTC
+# Script generation date:     2016-10-07 21:09:37 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -14,7 +14,7 @@
 #   - python-django-doc:1.4.5-1+deb7u13
 #
 # Last versions recommanded by security team:
-#   - python-django:1.4.22-1
+#   - python-django:1.4.22-1+deb7u1
 #   - python-django-doc:1.4.5-1+deb7u13
 #
 # CVE List:
@@ -25,5 +25,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.4.22-1 -y
+sudo apt-get install --only-upgrade python-django=1.4.22-1+deb7u1 -y
 sudo apt-get install --only-upgrade python-django-doc=1.4.5-1+deb7u13 -y
