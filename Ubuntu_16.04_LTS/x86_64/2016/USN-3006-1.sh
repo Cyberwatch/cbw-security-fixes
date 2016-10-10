@@ -4,7 +4,7 @@
 # Security fix for USN-3006-1
 #
 # Security announcement date: 2016-06-10 00:00:00 UTC
-# Script generation date:     2016-09-19 21:04:00 UTC
+# Script generation date:     2016-10-10 21:04:23 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: x86_64
@@ -35,13 +35,13 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-4.4.0-24-generic:4.4.0-24.43
-#   - linux-source-4.4.0:4.4.0-38.57
-#   - linux-doc:4.4.0-38.57
+#   - linux-source-4.4.0:4.4.0-42.62
+#   - linux-doc:4.4.0-42.62
 #   - linux-headers-4.4.0-24:4.4.0-24.43
-#   - linux-libc-dev:4.4.0-38.57
-#   - linux-tools-common:4.4.0-38.57
+#   - linux-libc-dev:4.4.0-42.62
+#   - linux-tools-common:4.4.0-42.62
 #   - linux-tools-4.4.0-24:4.4.0-24.43
-#   - linux-cloud-tools-common:4.4.0-38.57
+#   - linux-cloud-tools-common:4.4.0-42.62
 #   - linux-cloud-tools-4.4.0-24:4.4.0-24.43
 #   - linux-image-extra-4.4.0-24-generic:4.4.0-24.43
 #   - linux-headers-4.4.0-24-generic:4.4.0-24.43
@@ -74,13 +74,13 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-4.4.0-24-generic=4.4.0-24.43 -y
-sudo apt-get install --only-upgrade linux-source-4.4.0=4.4.0-38.57 -y
-sudo apt-get install --only-upgrade linux-doc=4.4.0-38.57 -y
+sudo apt-get install --only-upgrade linux-source-4.4.0=4.4.0-42.62 -y
+sudo apt-get install --only-upgrade linux-doc=4.4.0-42.62 -y
 sudo apt-get install --only-upgrade linux-headers-4.4.0-24=4.4.0-24.43 -y
-sudo apt-get install --only-upgrade linux-libc-dev=4.4.0-38.57 -y
-sudo apt-get install --only-upgrade linux-tools-common=4.4.0-38.57 -y
+sudo apt-get install --only-upgrade linux-libc-dev=4.4.0-42.62 -y
+sudo apt-get install --only-upgrade linux-tools-common=4.4.0-42.62 -y
 sudo apt-get install --only-upgrade linux-tools-4.4.0-24=4.4.0-24.43 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=4.4.0-38.57 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=4.4.0-42.62 -y
 sudo apt-get install --only-upgrade linux-cloud-tools-4.4.0-24=4.4.0-24.43 -y
 sudo apt-get install --only-upgrade linux-image-extra-4.4.0-24-generic=4.4.0-24.43 -y
 sudo apt-get install --only-upgrade linux-headers-4.4.0-24-generic=4.4.0-24.43 -y
