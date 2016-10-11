@@ -4,7 +4,7 @@
 # Security fix for DSA-3361-1
 #
 # Security announcement date: 2015-09-18 00:00:00 UTC
-# Script generation date:     2016-10-10 21:09:48 UTC
+# Script generation date:     2016-10-11 21:06:46 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -18,7 +18,7 @@
 #   - qemu-utils:1.1.2+dfsg-6a+deb7u11
 #
 # Last versions recommanded by security team:
-#   - qemu:1.1.2+dfsg-6+deb7u15
+#   - qemu:1.1.2+dfsg-6+deb7u16
 #   - qemu-keymaps:1.1.2+dfsg-6+deb7u16
 #   - qemu-system:1.1.2+dfsg-6+deb7u16
 #   - qemu-user:1.1.2+dfsg-6+deb7u16
@@ -35,7 +35,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu=1.1.2+dfsg-6+deb7u15 -y
+sudo apt-get install --only-upgrade qemu=1.1.2+dfsg-6+deb7u16 -y
 sudo apt-get install --only-upgrade qemu-keymaps=1.1.2+dfsg-6+deb7u16 -y
 sudo apt-get install --only-upgrade qemu-system=1.1.2+dfsg-6+deb7u16 -y
 sudo apt-get install --only-upgrade qemu-user=1.1.2+dfsg-6+deb7u16 -y
