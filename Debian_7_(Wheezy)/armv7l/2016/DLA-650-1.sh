@@ -1,25 +1,24 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-618-1
+# Security fix for DLA-650-1
 #
-# Security announcement date: 2016-09-11 00:00:00 UTC
-# Script generation date:     2016-10-11 21:11:16 UTC
+# Security announcement date: 2016-10-09 00:00:00 UTC
+# Script generation date:     2016-10-11 21:11:19 UTC
 #
 # Operating System: Debian 7 (Wheezy)
-# Architecture: i386
+# Architecture: armv7l
 #
 # Vulnerable packages fix on version:
-#   - qemu:1.1.2+dfsg-6+deb7u15
+#   - mat:0.3.2-1+deb7u1
 #
 # Last versions recommanded by security team:
-#   - qemu:1.1.2+dfsg-6+deb7u16
+#   - mat:0.3.2-1+deb7u1
 #
 # CVE List:
-#   - CVE-2016-7116
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu=1.1.2+dfsg-6+deb7u16 -y
+sudo apt-get install --only-upgrade mat=0.3.2-1+deb7u1 -y
