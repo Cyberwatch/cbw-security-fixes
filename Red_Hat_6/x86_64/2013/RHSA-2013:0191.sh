@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:0191
 #
 # Security announcement date: 2013-01-24 19:19:01 UTC
-# Script generation date:     2016-08-22 21:12:23 UTC
+# Script generation date:     2016-10-12 21:19:52 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -311,8 +311,8 @@
 #   - xml-commons-which10.noarch:1.3.04-8.2_patch_01.ep5.el6
 #   - xml-commons-which11.noarch:1.3.04-8.2_patch_01.ep5.el6
 #   - xml-security.noarch:1.5.7-2.redhat_1.1.ep6.el6
-#   - hornetq-native.x86_64:2.3.25-3.Final_redhat_1.ep6.el6
-#   - hornetq-native-debuginfo.x86_64:2.3.25-3.Final_redhat_1.ep6.el6
+#   - hornetq-native.x86_64:2.3.25-4.SP11_redhat_1.ep6.el6
+#   - hornetq-native-debuginfo.x86_64:2.3.25-4.SP11_redhat_1.ep6.el6
 #   - jboss-eap5-native.x86_64:5.2.0-6.ep5.el6
 #   - mod_cluster-native.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
 #   - mod_cluster-native-debuginfo.x86_64:1.2.13-3.Final_redhat_2.ep6.el6

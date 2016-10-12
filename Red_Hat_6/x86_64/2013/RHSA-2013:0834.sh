@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:0834
 #
 # Security announcement date: 2013-05-20 19:49:14 UTC
-# Script generation date:     2016-08-22 21:12:37 UTC
+# Script generation date:     2016-10-12 21:20:08 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -391,18 +391,18 @@
 #   - xmltooling.noarch:1.3.4-6.redhat_3.1.ep6.el6
 #   - apache-commons-daemon-jsvc-eap6.x86_64:1.0.15-6.redhat_2.ep6.el6
 #   - apache-commons-daemon-jsvc-eap6-debuginfo.x86_64:1.0.15-6.redhat_2.ep6.el6
-#   - hornetq-native.x86_64:2.3.25-3.Final_redhat_1.ep6.el6
-#   - hornetq-native-debuginfo.x86_64:2.3.25-3.Final_redhat_1.ep6.el6
+#   - hornetq-native.x86_64:2.3.25-4.SP11_redhat_1.ep6.el6
+#   - hornetq-native-debuginfo.x86_64:2.3.25-4.SP11_redhat_1.ep6.el6
 #   - httpd.x86_64:2.2.26-54.ep6.el6
 #   - httpd-debuginfo.x86_64:2.2.26-54.ep6.el6
 #   - httpd-devel.x86_64:2.2.26-54.ep6.el6
 #   - httpd-tools.x86_64:2.2.26-54.ep6.el6
-#   - jbossas-hornetq-native.x86_64:2.3.25-3.Final_redhat_1.ep6.el6
-#   - jbossas-jbossweb-native.x86_64:1.1.32-3.redhat_1.ep6.el6
+#   - jbossas-hornetq-native.x86_64:2.3.25-4.SP11_redhat_1.ep6.el6
+#   - jbossas-jbossweb-native.x86_64:1.1.34-5.redhat_1.ep6.el6
 #   - mod_cluster-native.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
 #   - mod_cluster-native-debuginfo.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
-#   - mod_jk-ap22.x86_64:1.2.41-2.redhat_3.ep6.el6
-#   - mod_jk-debuginfo.x86_64:1.2.41-2.redhat_3.ep6.el6
+#   - mod_jk-ap22.x86_64:1.2.41-2.redhat_4.ep6.el6
+#   - mod_jk-debuginfo.x86_64:1.2.41-2.redhat_4.ep6.el6
 #   - mod_ssl.x86_64:2.2.26-54.ep6.el6
 #   - tomcat-native.x86_64:1.1.34-5.redhat_1.ep6.el6
 #   - tomcat-native-debuginfo.x86_64:1.1.34-5.redhat_1.ep6.el6
@@ -607,7 +607,7 @@ sudo yum install httpd-debuginfo.x86_64-2.2.26 -y
 sudo yum install httpd-devel.x86_64-2.2.26 -y 
 sudo yum install httpd-tools.x86_64-2.2.26 -y 
 sudo yum install jbossas-hornetq-native.x86_64-2.3.25 -y 
-sudo yum install jbossas-jbossweb-native.x86_64-1.1.32 -y 
+sudo yum install jbossas-jbossweb-native.x86_64-1.1.34 -y 
 sudo yum install mod_cluster-native.x86_64-1.2.13 -y 
 sudo yum install mod_cluster-native-debuginfo.x86_64-1.2.13 -y 
 sudo yum install mod_jk-ap22.x86_64-1.2.41 -y 

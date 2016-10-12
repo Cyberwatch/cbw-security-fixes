@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:1786
 #
 # Security announcement date: 2013-12-04 18:35:58 UTC
-# Script generation date:     2016-08-22 21:12:54 UTC
+# Script generation date:     2016-10-12 21:20:35 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -357,13 +357,13 @@
 #   - xml-security.noarch:1.5.7-2.redhat_1.1.ep6.el6
 #   - xmltooling.noarch:1.3.4-6.redhat_3.1.ep6.el6
 #   - xom.noarch:1.2.7-3.redhat_4.1.ep6.el6
-#   - hornetq-native.x86_64:2.3.25-3.Final_redhat_1.ep6.el6
-#   - hornetq-native-debuginfo.x86_64:2.3.25-3.Final_redhat_1.ep6.el6
-#   - jbossas-hornetq-native.x86_64:2.3.25-3.Final_redhat_1.ep6.el6
+#   - hornetq-native.x86_64:2.3.25-4.SP11_redhat_1.ep6.el6
+#   - hornetq-native-debuginfo.x86_64:2.3.25-4.SP11_redhat_1.ep6.el6
+#   - jbossas-hornetq-native.x86_64:2.3.25-4.SP11_redhat_1.ep6.el6
 #   - mod_cluster-native.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
 #   - mod_cluster-native-debuginfo.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
-#   - mod_jk-ap22.x86_64:1.2.41-2.redhat_3.ep6.el6
-#   - mod_jk-debuginfo.x86_64:1.2.41-2.redhat_3.ep6.el6
+#   - mod_jk-ap22.x86_64:1.2.41-2.redhat_4.ep6.el6
+#   - mod_jk-debuginfo.x86_64:1.2.41-2.redhat_4.ep6.el6
 #
 # CVE List:
 #   - CVE-2013-2035

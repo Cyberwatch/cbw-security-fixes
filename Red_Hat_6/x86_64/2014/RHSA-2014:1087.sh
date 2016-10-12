@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1087
 #
 # Security announcement date: 2014-08-21 16:02:14 UTC
-# Script generation date:     2016-08-22 21:13:26 UTC
+# Script generation date:     2016-10-12 21:21:10 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -128,8 +128,8 @@
 #   - httpd-tools.x86_64:2.2.26-54.ep6.el6
 #   - mod_cluster-native.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
 #   - mod_cluster-native-debuginfo.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
-#   - mod_jk-ap22.x86_64:1.2.41-2.redhat_3.ep6.el6
-#   - mod_jk-debuginfo.x86_64:1.2.41-2.redhat_3.ep6.el6
+#   - mod_jk-ap22.x86_64:1.2.41-2.redhat_4.ep6.el6
+#   - mod_jk-debuginfo.x86_64:1.2.41-2.redhat_4.ep6.el6
 #   - mod_jk-manual.x86_64:1.2.41-2.redhat_3.ep6.el6
 #   - mod_rt.x86_64:2.4.1-6.GA.ep6.el6
 #   - mod_rt-debuginfo.x86_64:2.4.1-6.GA.ep6.el6

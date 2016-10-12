@@ -4,7 +4,7 @@
 # Security fix for RHSA-2011:0945
 #
 # Security announcement date: 2011-07-18 22:04:52 UTC
-# Script generation date:     2016-08-22 21:11:34 UTC
+# Script generation date:     2016-10-12 21:18:52 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -581,7 +581,7 @@
 #   - mod_cluster-native.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
 #   - mod_cluster-native-debuginfo.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
 #   - mod_jk-ap20.x86_64:1.2.31-1.1.2.ep5.el6
-#   - mod_jk-debuginfo.x86_64:1.2.41-2.redhat_3.ep6.el6
+#   - mod_jk-debuginfo.x86_64:1.2.41-2.redhat_4.ep6.el6
 #   - tomcat-native.x86_64:1.1.34-5.redhat_1.ep6.el6
 #   - tomcat-native-debuginfo.x86_64:1.1.34-5.redhat_1.ep6.el6
 #

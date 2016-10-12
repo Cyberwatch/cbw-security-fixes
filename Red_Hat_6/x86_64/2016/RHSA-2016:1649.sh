@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:1649
 #
 # Security announcement date: 2016-08-22 18:08:59 UTC
-# Script generation date:     2016-08-24 21:16:28 UTC
+# Script generation date:     2016-10-12 21:23:12 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -44,8 +44,8 @@
 #   - jbcs-httpd24-openssl-static.x86_64:1.0.2h-4.jbcs.el6
 #   - mod_cluster-native.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
 #   - mod_cluster-native-debuginfo.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
-#   - mod_jk-ap22.x86_64:1.2.41-2.redhat_3.ep6.el6
-#   - mod_jk-debuginfo.x86_64:1.2.41-2.redhat_3.ep6.el6
+#   - mod_jk-ap22.x86_64:1.2.41-2.redhat_4.ep6.el6
+#   - mod_jk-debuginfo.x86_64:1.2.41-2.redhat_4.ep6.el6
 #   - mod_jk-manual.x86_64:1.2.41-2.redhat_3.ep6.el6
 #   - mod_ssl.x86_64:2.2.26-54.ep6.el6
 #   - tomcat-native.x86_64:1.1.34-5.redhat_1.ep6.el6

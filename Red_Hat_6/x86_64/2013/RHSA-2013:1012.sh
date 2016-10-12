@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:1012
 #
 # Security announcement date: 2013-07-03 17:13:32 UTC
-# Script generation date:     2016-08-22 21:12:42 UTC
+# Script generation date:     2016-10-12 21:20:14 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -94,8 +94,8 @@
 #   - httpd-tools.x86_64:2.2.26-54.ep6.el6
 #   - mod_cluster-native.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
 #   - mod_cluster-native-debuginfo.x86_64:1.2.13-3.Final_redhat_2.ep6.el6
-#   - mod_jk-ap22.x86_64:1.2.41-2.redhat_3.ep6.el6
-#   - mod_jk-debuginfo.x86_64:1.2.41-2.redhat_3.ep6.el6
+#   - mod_jk-ap22.x86_64:1.2.41-2.redhat_4.ep6.el6
+#   - mod_jk-debuginfo.x86_64:1.2.41-2.redhat_4.ep6.el6
 #   - mod_jk-manual.x86_64:1.2.41-2.redhat_3.ep6.el6
 #   - mod_ssl.x86_64:2.2.26-54.ep6.el6
 #   - tomcat-native.x86_64:1.1.34-5.redhat_1.ep6.el6

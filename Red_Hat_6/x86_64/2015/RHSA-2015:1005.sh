@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1005
 #
 # Security announcement date: 2015-05-13 14:23:26 UTC
-# Script generation date:     2016-09-14 21:23:51 UTC
+# Script generation date:     2016-10-12 21:22:01 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - flash-plugin.i686:11.2.202.460-1.el6_6
 #
 # Last versions recommanded by security team:
-#   - flash-plugin.i686:11.2.202.635-1.el6_8
+#   - flash-plugin.i686:11.2.202.637-1.el6_8
 #
 # CVE List:
 #   - CVE-2015-3077
@@ -37,4 +37,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install flash-plugin.i686-11.2.202.635 -y 
+sudo yum install flash-plugin.i686-11.2.202.637 -y 
