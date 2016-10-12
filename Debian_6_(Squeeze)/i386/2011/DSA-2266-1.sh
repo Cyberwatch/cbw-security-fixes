@@ -4,7 +4,7 @@
 # Security fix for DSA-2266-1
 #
 # Security announcement date: 2011-06-29 00:00:00 UTC
-# Script generation date:     2016-08-04 21:11:49 UTC
+# Script generation date:     2016-10-12 21:05:38 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - php5:5.3.3-7+squeeze3
 #
 # Last versions recommanded by security team:
-#   - php5:5.3.3.1-7+squeeze29
+#   - php5:5.3.3.1-7+squeeze28
 #
 # CVE List:
 #   - CVE-2010-2531
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze29 -y
+sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze28 -y

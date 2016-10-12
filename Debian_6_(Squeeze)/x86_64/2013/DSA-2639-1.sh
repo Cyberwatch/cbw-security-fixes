@@ -4,7 +4,7 @@
 # Security fix for DSA-2639-1
 #
 # Security announcement date: 2013-03-05 00:00:00 UTC
-# Script generation date:     2016-08-04 21:12:14 UTC
+# Script generation date:     2016-10-12 21:05:58 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - php5:5.3.3-7+squeeze15
 #
 # Last versions recommanded by security team:
-#   - php5:5.3.3.1-7+squeeze29
+#   - php5:5.3.3.1-7+squeeze28
 #
 # CVE List:
 #   - CVE-2013-1635
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze29 -y
+sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze28 -y

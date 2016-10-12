@@ -4,7 +4,7 @@
 # Security fix for DSA-2492-1
 #
 # Security announcement date: 2012-06-10 00:00:00 UTC
-# Script generation date:     2016-08-04 21:12:02 UTC
+# Script generation date:     2016-10-12 21:05:50 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - php5:5.3.3-7+squeeze13
 #
 # Last versions recommanded by security team:
-#   - php5:5.3.3.1-7+squeeze29
+#   - php5:5.3.3.1-7+squeeze28
 #
 # CVE List:
 #   - CVE-2012-2386
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze29 -y
+sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze28 -y
