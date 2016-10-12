@@ -4,7 +4,7 @@
 # Security fix for DLA-146-1
 #
 # Security announcement date: 2015-02-06 00:00:00 UTC
-# Script generation date:     2016-08-04 21:16:31 UTC
+# Script generation date:     2016-10-12 21:12:07 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - krb5:1.8.3+dfsg-4squeeze9
 #
 # Last versions recommanded by security team:
-#   - krb5:1.8.3+dfsg-4squeeze11
+#   - krb5:1.8.3+dfsg-4squeeze10
 #
 # CVE List:
 #   - CVE-2014-5352
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade krb5=1.8.3+dfsg-4squeeze11 -y
+sudo apt-get install --only-upgrade krb5=1.8.3+dfsg-4squeeze10 -y

@@ -4,7 +4,7 @@
 # Security fix for DLA-95-1
 #
 # Security announcement date: 2014-11-27 00:00:00 UTC
-# Script generation date:     2016-08-04 21:16:29 UTC
+# Script generation date:     2016-10-12 21:12:05 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - clamav:0.98.1+dfsg-1+deb6u4
 #
 # Last versions recommanded by security team:
-#   - clamav:0.99+dfsg-0+deb6u1
+#   - clamav:0.98.7+dfsg-0+deb6u1
 #
 # CVE List:
 #   - CVE-2014-9050
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade clamav=0.99+dfsg-0+deb6u1 -y
+sudo apt-get install --only-upgrade clamav=0.98.7+dfsg-0+deb6u1 -y

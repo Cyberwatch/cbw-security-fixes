@@ -4,7 +4,7 @@
 # Security fix for DLA-154-1
 #
 # Security announcement date: 2015-02-16 00:00:00 UTC
-# Script generation date:     2016-08-04 21:16:32 UTC
+# Script generation date:     2016-10-12 21:12:07 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - nss:3.12.8-1+squeeze11
 #
 # Last versions recommanded by security team:
-#   - nss:3.12.8-1+squeeze14
+#   - nss:3.12.8-1+squeeze13
 #
 # CVE List:
 #   - CVE-2011-3389
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade nss=3.12.8-1+squeeze14 -y
+sudo apt-get install --only-upgrade nss=3.12.8-1+squeeze13 -y
