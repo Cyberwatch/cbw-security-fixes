@@ -4,7 +4,7 @@
 # Security fix for DSA-2518-1
 #
 # Security announcement date: 2012-07-31 00:00:00 UTC
-# Script generation date:     2016-10-12 21:05:51 UTC
+# Script generation date:     2016-10-13 21:07:20 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - krb5:1.8.3+dfsg-4squeeze6
 #
 # Last versions recommanded by security team:
-#   - krb5:1.8.3+dfsg-4squeeze10
+#   - krb5:1.8.3+dfsg-4squeeze11
 #
 # CVE List:
 #   - CVE-2012-1014
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade krb5=1.8.3+dfsg-4squeeze10 -y
+sudo apt-get install --only-upgrade krb5=1.8.3+dfsg-4squeeze11 -y

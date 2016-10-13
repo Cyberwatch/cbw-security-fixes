@@ -4,7 +4,7 @@
 # Security fix for DSA-2657-1
 #
 # Security announcement date: 2013-04-04 00:00:00 UTC
-# Script generation date:     2016-10-12 21:05:58 UTC
+# Script generation date:     2016-10-13 21:07:25 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - postgresql-8.4:8.4.17-0squeeze1
 #
 # Last versions recommanded by security team:
-#   - postgresql-8.4:8.4.22lts5-0+deb6u1
+#   - postgresql-8.4:8.4.22lts6-0+deb6u1
 #
 # CVE List:
 #   - CVE-2013-1900
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade postgresql-8.4=8.4.22lts5-0+deb6u1 -y
+sudo apt-get install --only-upgrade postgresql-8.4=8.4.22lts6-0+deb6u1 -y

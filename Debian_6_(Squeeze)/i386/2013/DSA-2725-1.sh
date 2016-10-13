@@ -4,7 +4,7 @@
 # Security fix for DSA-2725-1
 #
 # Security announcement date: 2013-07-18 00:00:00 UTC
-# Script generation date:     2016-10-12 21:06:08 UTC
+# Script generation date:     2016-10-13 21:07:32 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - tomcat6:6.0.35-1+squeeze3
 #
 # Last versions recommanded by security team:
-#   - tomcat6:6.0.41-2+squeeze7
+#   - tomcat6:6.0.45-1~deb6u1
 #
 # CVE List:
 #   - CVE-2012-3544
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tomcat6=6.0.41-2+squeeze7 -y
+sudo apt-get install --only-upgrade tomcat6=6.0.45-1~deb6u1 -y
