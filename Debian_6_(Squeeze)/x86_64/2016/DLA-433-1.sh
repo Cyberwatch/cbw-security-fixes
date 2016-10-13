@@ -4,7 +4,7 @@
 # Security fix for DLA-433-1
 #
 # Security announcement date: 2016-02-25 00:00:00 UTC
-# Script generation date:     2016-10-12 21:12:25 UTC
+# Script generation date:     2016-10-13 21:12:44 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - xerces-c:3.1.1-1+deb6u2
 #
 # Last versions recommanded by security team:
-#   - xerces-c:3.1.1-1+deb6u1
+#   - xerces-c:3.1.1-1+deb6u2
 #
 # CVE List:
 #   - CVE-2016-0729
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade xerces-c=3.1.1-1+deb6u1 -y
+sudo apt-get install --only-upgrade xerces-c=3.1.1-1+deb6u2 -y

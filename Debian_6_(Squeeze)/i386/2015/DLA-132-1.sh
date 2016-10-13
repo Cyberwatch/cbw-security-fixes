@@ -4,7 +4,7 @@
 # Security fix for DLA-132-1
 #
 # Security announcement date: 2015-01-11 00:00:00 UTC
-# Script generation date:     2016-10-12 21:12:06 UTC
+# Script generation date:     2016-10-13 21:12:30 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - openssl:0.9.8o-4squeeze19
 #
 # Last versions recommanded by security team:
-#   - openssl:0.9.8o-4squeeze19
+#   - openssl:0.9.8o-4squeeze23
 #
 # CVE List:
 #   - CVE-2014-3570
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze19 -y
+sudo apt-get install --only-upgrade openssl=0.9.8o-4squeeze23 -y

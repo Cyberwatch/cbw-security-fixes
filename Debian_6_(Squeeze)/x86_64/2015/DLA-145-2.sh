@@ -4,7 +4,7 @@
 # Security fix for DLA-145-2
 #
 # Security announcement date: 2015-02-02 00:00:00 UTC
-# Script generation date:     2016-10-12 21:12:07 UTC
+# Script generation date:     2016-10-13 21:12:30 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - php5:5.3.3-7+squeeze25
 #
 # Last versions recommanded by security team:
-#   - php5:5.3.3.1-7+squeeze28
+#   - php5:5.3.3.1-7+squeeze29
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze28 -y
+sudo apt-get install --only-upgrade php5=5.3.3.1-7+squeeze29 -y

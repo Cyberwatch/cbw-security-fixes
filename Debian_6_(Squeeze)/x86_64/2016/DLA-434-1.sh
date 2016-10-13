@@ -4,7 +4,7 @@
 # Security fix for DLA-434-1
 #
 # Security announcement date: 2016-02-27 00:00:00 UTC
-# Script generation date:     2016-10-12 21:12:25 UTC
+# Script generation date:     2016-10-13 21:12:44 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - gtk+2.0:2.20.1-2+deb6u2
 #
 # Last versions recommanded by security team:
-#   - gtk+2.0:2.20.1-2+deb6u1
+#   - gtk+2.0:2.20.1-2+deb6u2
 #
 # CVE List:
 #   - CVE-2015-4491
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade gtk+2.0=2.20.1-2+deb6u1 -y
+sudo apt-get install --only-upgrade gtk+2.0=2.20.1-2+deb6u2 -y

@@ -4,7 +4,7 @@
 # Security fix for DLA-437-1
 #
 # Security announcement date: 2016-02-28 00:00:00 UTC
-# Script generation date:     2016-10-12 21:12:25 UTC
+# Script generation date:     2016-10-13 21:12:44 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - clamav:0.99+dfsg-0+deb6u1
 #
 # Last versions recommanded by security team:
-#   - clamav:0.98.7+dfsg-0+deb6u1
+#   - clamav:0.99+dfsg-0+deb6u1
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade clamav=0.98.7+dfsg-0+deb6u1 -y
+sudo apt-get install --only-upgrade clamav=0.99+dfsg-0+deb6u1 -y

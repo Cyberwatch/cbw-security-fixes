@@ -4,7 +4,7 @@
 # Security fix for DLA-428-1
 #
 # Security announcement date: 2016-02-24 00:00:00 UTC
-# Script generation date:     2016-10-12 21:12:25 UTC
+# Script generation date:     2016-10-13 21:12:43 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - websvn:2.3.1-1+deb6u2
 #
 # Last versions recommanded by security team:
-#   - websvn:2.3.1-1+deb6u1
+#   - websvn:2.3.1-1+deb6u2
 #
 # CVE List:
 #   - CVE-2016-2511
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade websvn=2.3.1-1+deb6u1 -y
+sudo apt-get install --only-upgrade websvn=2.3.1-1+deb6u2 -y
