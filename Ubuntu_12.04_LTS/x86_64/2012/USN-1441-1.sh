@@ -4,7 +4,7 @@
 # Security fix for USN-1441-1
 #
 # Security announcement date: 2012-05-15 00:00:00 UTC
-# Script generation date:     2016-06-20 21:31:22 UTC
+# Script generation date:     2016-10-13 21:00:21 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - quagga:0.99.20.1-0ubuntu0.12.04.2
 #
 # Last versions recommanded by security team:
-#   - quagga:0.99.20.1-0ubuntu0.12.04.4
+#   - quagga:0.99.20.1-0ubuntu0.12.04.5
 #
 # CVE List:
 #   - CVE-2012-0249
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade quagga=0.99.20.1-0ubuntu0.12.04.4 -y
+sudo apt-get install --only-upgrade quagga=0.99.20.1-0ubuntu0.12.04.5 -y
