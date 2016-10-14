@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1937
 #
 # Security announcement date: 2014-12-02 17:15:10 UTC
-# Script generation date:     2016-05-12 18:12:35 UTC
+# Script generation date:     2016-10-14 21:16:37 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - mariadb-galera-server.x86_64:5.5.40-2.el6ost
 #
 # Last versions recommanded by security team:
-#   - mariadb-galera-common.x86_64:5.5.40-2.el6ost
-#   - mariadb-galera-debuginfo.x86_64:5.5.40-2.el6ost
-#   - mariadb-galera-server.x86_64:5.5.40-2.el6ost
+#   - mariadb-galera-common.x86_64:5.5.42-1.1.el6ost
+#   - mariadb-galera-debuginfo.x86_64:5.5.42-1.1.el6ost
+#   - mariadb-galera-server.x86_64:5.5.42-1.1.el6ost
 #
 # CVE List:
 #   - CVE-2012-5615
@@ -43,6 +43,6 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install mariadb-galera-common.x86_64-5.5.40 -y 
-sudo yum install mariadb-galera-debuginfo.x86_64-5.5.40 -y 
-sudo yum install mariadb-galera-server.x86_64-5.5.40 -y 
+sudo yum install mariadb-galera-common.x86_64-5.5.42 -y 
+sudo yum install mariadb-galera-debuginfo.x86_64-5.5.42 -y 
+sudo yum install mariadb-galera-server.x86_64-5.5.42 -y 
