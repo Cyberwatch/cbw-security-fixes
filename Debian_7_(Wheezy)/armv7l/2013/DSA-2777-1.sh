@@ -4,7 +4,7 @@
 # Security fix for DSA-2777-1
 #
 # Security announcement date: 2013-10-11 00:00:00 UTC
-# Script generation date:     2016-05-12 18:04:41 UTC
+# Script generation date:     2016-10-17 21:05:03 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -24,7 +24,7 @@
 #   - libsystemd-id128-dev:44-11+deb7u4
 #
 # Last versions recommanded by security team:
-#   - systemd:44-11+deb7u4
+#   - systemd:44-11+deb7u5
 #   - systemd-sysv:44-11+deb7u4
 #   - libpam-systemd:44-11+deb7u4
 #   - systemd-gui:44-11+deb7u4
@@ -46,7 +46,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade systemd=44-11+deb7u4 -y
+sudo apt-get install --only-upgrade systemd=44-11+deb7u5 -y
 sudo apt-get install --only-upgrade systemd-sysv=44-11+deb7u4 -y
 sudo apt-get install --only-upgrade libpam-systemd=44-11+deb7u4 -y
 sudo apt-get install --only-upgrade systemd-gui=44-11+deb7u4 -y
