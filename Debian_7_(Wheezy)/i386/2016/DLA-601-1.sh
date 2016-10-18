@@ -4,7 +4,7 @@
 # Security fix for DLA-601-1
 #
 # Security announcement date: 2016-08-26 00:00:00 UTC
-# Script generation date:     2016-08-28 21:11:03 UTC
+# Script generation date:     2016-10-18 21:10:45 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - quagga:0.99.22.4-1+wheezy3
 #
 # Last versions recommanded by security team:
-#   - quagga:0.99.22.4-1+wheezy3
+#   - quagga:0.99.22.4-1+wheezy3+deb7u1
 #
 # CVE List:
 #   - CVE-2016-4036
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade quagga=0.99.22.4-1+wheezy3 -y
+sudo apt-get install --only-upgrade quagga=0.99.22.4-1+wheezy3+deb7u1 -y
