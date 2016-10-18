@@ -4,7 +4,7 @@
 # Security fix for DSA-3654-1
 #
 # Security announcement date: 2016-08-26 00:00:00 UTC
-# Script generation date:     2016-08-28 21:07:47 UTC
+# Script generation date:     2016-10-18 21:07:11 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - quagga-doc:0.99.23.1-1+deb8u2
 #
 # Last versions recommanded by security team:
-#   - quagga:0.99.23.1-1+deb8u2
-#   - quagga-dbg:0.99.23.1-1+deb8u2
-#   - quagga-doc:0.99.23.1-1+deb8u2
+#   - quagga:0.99.23.1-1+deb8u3
+#   - quagga-dbg:0.99.23.1-1+deb8u3
+#   - quagga-doc:0.99.23.1-1+deb8u3
 #
 # CVE List:
 #   - CVE-2016-4036
@@ -27,6 +27,6 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade quagga=0.99.23.1-1+deb8u2 -y
-sudo apt-get install --only-upgrade quagga-dbg=0.99.23.1-1+deb8u2 -y
-sudo apt-get install --only-upgrade quagga-doc=0.99.23.1-1+deb8u2 -y
+sudo apt-get install --only-upgrade quagga=0.99.23.1-1+deb8u3 -y
+sudo apt-get install --only-upgrade quagga-dbg=0.99.23.1-1+deb8u3 -y
+sudo apt-get install --only-upgrade quagga-doc=0.99.23.1-1+deb8u3 -y

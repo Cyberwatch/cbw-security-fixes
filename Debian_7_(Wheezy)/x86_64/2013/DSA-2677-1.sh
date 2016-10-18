@@ -4,7 +4,7 @@
 # Security fix for DSA-2677-1
 #
 # Security announcement date: 2013-05-23 00:00:00 UTC
-# Script generation date:     2016-07-28 21:09:11 UTC
+# Script generation date:     2016-10-18 21:04:55 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -16,10 +16,10 @@
 #   - libxrender-dev:1:0.9.7-1+deb7u1
 #
 # Last versions recommanded by security team:
-#   - libxrender:1:0.9.7-1+deb7u1
-#   - libxrender1:1:0.9.7-1+deb7u2
-#   - libxrender1-dbg:1:0.9.7-1+deb7u2
-#   - libxrender-dev:1:0.9.7-1+deb7u2
+#   - libxrender:1:0.9.7-1+deb7u3
+#   - libxrender1:1:0.9.7-1+deb7u3
+#   - libxrender1-dbg:1:0.9.7-1+deb7u3
+#   - libxrender-dev:1:0.9.7-1+deb7u3
 #
 # CVE List:
 #   - CVE-2013-1987
@@ -28,7 +28,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxrender=1:0.9.7-1+deb7u1 -y
-sudo apt-get install --only-upgrade libxrender1=1:0.9.7-1+deb7u2 -y
-sudo apt-get install --only-upgrade libxrender1-dbg=1:0.9.7-1+deb7u2 -y
-sudo apt-get install --only-upgrade libxrender-dev=1:0.9.7-1+deb7u2 -y
+sudo apt-get install --only-upgrade libxrender=1:0.9.7-1+deb7u3 -y
+sudo apt-get install --only-upgrade libxrender1=1:0.9.7-1+deb7u3 -y
+sudo apt-get install --only-upgrade libxrender1-dbg=1:0.9.7-1+deb7u3 -y
+sudo apt-get install --only-upgrade libxrender-dev=1:0.9.7-1+deb7u3 -y
