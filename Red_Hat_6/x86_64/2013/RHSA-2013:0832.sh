@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:0832
 #
 # Security announcement date: 2013-05-17 15:19:50 UTC
-# Script generation date:     2016-10-05 21:18:42 UTC
+# Script generation date:     2016-10-18 21:16:11 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -28,18 +28,18 @@
 # Last versions recommanded by security team:
 #   - kernel-doc.noarch:2.6.32-642.6.1.el6
 #   - kernel-firmware.noarch:2.6.32-642.6.1.el6
-#   - kernel.x86_64:2.6.32-642.6.1.el6
-#   - kernel-debug.x86_64:2.6.32-642.6.1.el6
-#   - kernel-debug-debuginfo.x86_64:2.6.32-642.6.1.el6
-#   - kernel-debug-devel.x86_64:2.6.32-642.6.1.el6
-#   - kernel-debuginfo.x86_64:2.6.32-642.6.1.el6
-#   - kernel-debuginfo-common-x86_64.x86_64:2.6.32-642.6.1.el6
-#   - kernel-devel.x86_64:2.6.32-642.6.1.el6
-#   - kernel-headers.x86_64:2.6.32-642.6.1.el6
-#   - perf.x86_64:2.6.32-642.6.1.el6
-#   - perf-debuginfo.x86_64:2.6.32-642.6.1.el6
-#   - python-perf-debuginfo.x86_64:2.6.32-642.6.1.el6
-#   - python-perf.x86_64:2.6.32-642.6.1.el6
+#   - kernel.x86_64:2.6.32-573.35.1.el6
+#   - kernel-debug.x86_64:2.6.32-573.35.1.el6
+#   - kernel-debug-debuginfo.x86_64:2.6.32-573.35.1.el6
+#   - kernel-debug-devel.x86_64:2.6.32-573.35.1.el6
+#   - kernel-debuginfo.x86_64:2.6.32-573.35.1.el6
+#   - kernel-debuginfo-common-x86_64.x86_64:2.6.32-573.35.1.el6
+#   - kernel-devel.x86_64:2.6.32-573.35.1.el6
+#   - kernel-headers.x86_64:2.6.32-573.35.1.el6
+#   - perf.x86_64:2.6.32-573.35.1.el6
+#   - perf-debuginfo.x86_64:2.6.32-573.35.1.el6
+#   - python-perf-debuginfo.x86_64:2.6.32-573.35.1.el6
+#   - python-perf.x86_64:2.6.32-573.35.1.el6
 #
 # CVE List:
 #   - CVE-2013-2094

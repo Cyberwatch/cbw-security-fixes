@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0996
 #
 # Security announcement date: 2016-05-10 05:39:21 UTC
-# Script generation date:     2016-09-27 21:21:08 UTC
+# Script generation date:     2016-10-18 21:18:31 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - openssl-static.x86_64:1.0.1e-48.el6_8.1
 #
 # Last versions recommanded by security team:
-#   - openssl.i686:1.0.1e-48.el6_8.3
-#   - openssl.x86_64:1.0.1e-48.el6_8.3
-#   - openssl-debuginfo.i686:1.0.1e-48.el6_8.3
-#   - openssl-debuginfo.x86_64:1.0.1e-48.el6_8.3
-#   - openssl-devel.i686:1.0.1e-48.el6_8.3
-#   - openssl-devel.x86_64:1.0.1e-48.el6_8.3
-#   - openssl-perl.x86_64:1.0.1e-48.el6_8.3
-#   - openssl-static.x86_64:1.0.1e-48.el6_8.3
+#   - openssl.i686:1.0.1e-42.el6_7.5
+#   - openssl.x86_64:1.0.1e-42.el6_7.5
+#   - openssl-debuginfo.i686:1.0.1e-42.el6_7.5
+#   - openssl-debuginfo.x86_64:1.0.1e-42.el6_7.5
+#   - openssl-devel.i686:1.0.1e-42.el6_7.5
+#   - openssl-devel.x86_64:1.0.1e-42.el6_7.5
+#   - openssl-perl.x86_64:1.0.1e-42.el6_7.5
+#   - openssl-static.x86_64:1.0.1e-42.el6_7.5
 #
 # CVE List:
 #   - CVE-2016-0799
