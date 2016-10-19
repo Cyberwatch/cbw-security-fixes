@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1636
 #
 # Security announcement date: 2014-10-15 03:20:47 UTC
-# Script generation date:     2016-07-20 21:39:09 UTC
+# Script generation date:     2016-10-19 21:16:58 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - java-1.8.0-openjdk-src.x86_64:1.8.0.25-1.b17.el6
 #
 # Last versions recommanded by security team:
-#   - java-1.8.0-openjdk.x86_64:1.8.0.101-3.b13.el6_8
-#   - java-1.8.0-openjdk-debuginfo.x86_64:1.8.0.101-3.b13.el6_8
-#   - java-1.8.0-openjdk-headless.x86_64:1.8.0.101-3.b13.el6_8
-#   - java-1.8.0-openjdk-javadoc.noarch:1.8.0.101-3.b13.el6_8
-#   - java-1.8.0-openjdk-demo.x86_64:1.8.0.101-3.b13.el6_8
-#   - java-1.8.0-openjdk-devel.x86_64:1.8.0.101-3.b13.el6_8
-#   - java-1.8.0-openjdk-src.x86_64:1.8.0.101-3.b13.el6_8
+#   - java-1.8.0-openjdk.x86_64:1.8.0.111-0.b15.el6_8
+#   - java-1.8.0-openjdk-debuginfo.x86_64:1.8.0.111-0.b15.el6_8
+#   - java-1.8.0-openjdk-headless.x86_64:1.8.0.111-0.b15.el6_8
+#   - java-1.8.0-openjdk-javadoc.noarch:1.8.0.111-0.b15.el6_8
+#   - java-1.8.0-openjdk-demo.x86_64:1.8.0.111-0.b15.el6_8
+#   - java-1.8.0-openjdk-devel.x86_64:1.8.0.111-0.b15.el6_8
+#   - java-1.8.0-openjdk-src.x86_64:1.8.0.111-0.b15.el6_8
 #
 # CVE List:
 #   - CVE-2014-6457
@@ -45,10 +45,10 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.8.0-openjdk.x86_64-1.8.0.101 -y 
-sudo yum install java-1.8.0-openjdk-debuginfo.x86_64-1.8.0.101 -y 
-sudo yum install java-1.8.0-openjdk-headless.x86_64-1.8.0.101 -y 
-sudo yum install java-1.8.0-openjdk-javadoc.noarch-1.8.0.101 -y 
-sudo yum install java-1.8.0-openjdk-demo.x86_64-1.8.0.101 -y 
-sudo yum install java-1.8.0-openjdk-devel.x86_64-1.8.0.101 -y 
-sudo yum install java-1.8.0-openjdk-src.x86_64-1.8.0.101 -y 
+sudo yum install java-1.8.0-openjdk.x86_64-1.8.0.111 -y 
+sudo yum install java-1.8.0-openjdk-debuginfo.x86_64-1.8.0.111 -y 
+sudo yum install java-1.8.0-openjdk-headless.x86_64-1.8.0.111 -y 
+sudo yum install java-1.8.0-openjdk-javadoc.noarch-1.8.0.111 -y 
+sudo yum install java-1.8.0-openjdk-demo.x86_64-1.8.0.111 -y 
+sudo yum install java-1.8.0-openjdk-devel.x86_64-1.8.0.111 -y 
+sudo yum install java-1.8.0-openjdk-src.x86_64-1.8.0.111 -y 
