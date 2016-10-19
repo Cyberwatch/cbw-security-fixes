@@ -4,7 +4,7 @@
 # Security fix for DLA-482-1
 #
 # Security announcement date: 2016-05-19 00:00:00 UTC
-# Script generation date:     2016-08-04 21:16:49 UTC
+# Script generation date:     2016-10-19 21:10:26 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - libgd2:2.0.36~rc1~dfsg-6.1+deb7u3
 #
 # Last versions recommanded by security team:
-#   - libgd2:2.0.36~rc1~dfsg-6.1+deb7u5
+#   - libgd2:2.0.36~rc1~dfsg-6.1+deb7u6
 #
 # CVE List:
 #   - CVE-2015-8874
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgd2=2.0.36~rc1~dfsg-6.1+deb7u5 -y
+sudo apt-get install --only-upgrade libgd2=2.0.36~rc1~dfsg-6.1+deb7u6 -y

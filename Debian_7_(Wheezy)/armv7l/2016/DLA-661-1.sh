@@ -1,26 +1,27 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-635-1
+# Security fix for DLA-661-1
 #
-# Security announcement date: 2016-09-24 00:00:00 UTC
-# Script generation date:     2016-10-19 21:10:36 UTC
+# Security announcement date: 2016-10-17 00:00:00 UTC
+# Script generation date:     2016-10-19 21:10:39 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
 #
 # Vulnerable packages fix on version:
-#   - dwarfutils:20120410-2+deb7u1
+#   - libarchive:3.0.4-3+wheezy5
 #
 # Last versions recommanded by security team:
-#   - dwarfutils:20120410-2+deb7u2
+#   - libarchive:3.0.4-3+wheezy5
 #
 # CVE List:
-#   - CVE-2016-7510
-#   - CVE-2016-7511
+#   - CVE-2016-8687
+#   - CVE-2016-8688
+#   - CVE-2016-8689
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade dwarfutils=20120410-2+deb7u2 -y
+sudo apt-get install --only-upgrade libarchive=3.0.4-3+wheezy5 -y

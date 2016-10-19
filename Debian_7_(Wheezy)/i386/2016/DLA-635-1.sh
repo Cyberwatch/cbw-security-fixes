@@ -4,7 +4,7 @@
 # Security fix for DLA-635-1
 #
 # Security announcement date: 2016-09-24 00:00:00 UTC
-# Script generation date:     2016-09-26 21:10:52 UTC
+# Script generation date:     2016-10-19 21:10:36 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - dwarfutils:20120410-2+deb7u1
 #
 # Last versions recommanded by security team:
-#   - dwarfutils:20120410-2+deb7u1
+#   - dwarfutils:20120410-2+deb7u2
 #
 # CVE List:
 #   - CVE-2016-7510
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade dwarfutils=20120410-2+deb7u1 -y
+sudo apt-get install --only-upgrade dwarfutils=20120410-2+deb7u2 -y
