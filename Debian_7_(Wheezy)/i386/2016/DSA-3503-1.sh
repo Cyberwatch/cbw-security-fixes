@@ -4,7 +4,7 @@
 # Security fix for DSA-3503-1
 #
 # Security announcement date: 2016-03-03 00:00:00 UTC
-# Script generation date:     2016-09-03 21:06:49 UTC
+# Script generation date:     2016-10-19 21:06:41 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -20,7 +20,7 @@
 #   - linux-headers-3.2.0-4-common:3.2.73-2+deb7u3
 #
 # Last versions recommanded by security team:
-#   - linux:3.2.81-2
+#   - linux:3.2.82-1
 #   - linux-source-3.2:3.2.81-2
 #   - linux-doc-3.2:3.2.81-2
 #   - linux-manual-3.2:3.2.81-2
@@ -50,7 +50,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux=3.2.81-2 -y
+sudo apt-get install --only-upgrade linux=3.2.82-1 -y
 sudo apt-get install --only-upgrade linux-source-3.2=3.2.81-2 -y
 sudo apt-get install --only-upgrade linux-doc-3.2=3.2.81-2 -y
 sudo apt-get install --only-upgrade linux-manual-3.2=3.2.81-2 -y

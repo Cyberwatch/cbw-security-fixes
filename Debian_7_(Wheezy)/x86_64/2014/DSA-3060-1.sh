@@ -4,7 +4,7 @@
 # Security fix for DSA-3060-1
 #
 # Security announcement date: 2014-10-31 00:00:00 UTC
-# Script generation date:     2016-09-03 21:05:29 UTC
+# Script generation date:     2016-10-19 21:05:25 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - linux:3.2.63-2+deb7u1
 #
 # Last versions recommanded by security team:
-#   - linux:3.2.81-2
+#   - linux:3.2.82-1
 #
 # CVE List:
 #   - CVE-2014-3610
@@ -31,4 +31,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux=3.2.81-2 -y
+sudo apt-get install --only-upgrade linux=3.2.82-1 -y

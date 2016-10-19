@@ -4,7 +4,7 @@
 # Security fix for DSA-3372-1
 #
 # Security announcement date: 2015-10-13 00:00:00 UTC
-# Script generation date:     2016-09-03 21:06:23 UTC
+# Script generation date:     2016-10-19 21:06:18 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -21,7 +21,7 @@
 #   - linux-headers-3.2.0-4-all-amd64:3.2.68-1+deb7u5
 #
 # Last versions recommanded by security team:
-#   - linux:3.2.81-2
+#   - linux:3.2.82-1
 #   - linux-source-3.2:3.2.81-2
 #   - linux-doc-3.2:3.2.81-2
 #   - linux-manual-3.2:3.2.81-2
@@ -39,7 +39,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux=3.2.81-2 -y
+sudo apt-get install --only-upgrade linux=3.2.82-1 -y
 sudo apt-get install --only-upgrade linux-source-3.2=3.2.81-2 -y
 sudo apt-get install --only-upgrade linux-doc-3.2=3.2.81-2 -y
 sudo apt-get install --only-upgrade linux-manual-3.2=3.2.81-2 -y
