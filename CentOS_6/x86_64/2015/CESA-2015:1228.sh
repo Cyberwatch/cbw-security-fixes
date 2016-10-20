@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:1228
 #
 # Security announcement date: 2015-07-15 15:08:42 UTC
-# Script generation date:     2016-07-21 21:24:47 UTC
+# Script generation date:     2016-10-20 21:16:16 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - java-1.8.0-openjdk-src.x86_64:1.8.0.51-0.b16.el6_6
 #
 # Last versions recommanded by security team:
-#   - java-1.8.0-openjdk-javadoc.noarch:1.8.0.101-3.b13.el6_8
-#   - java-1.8.0-openjdk.x86_64:1.8.0.101-3.b13.el6_8
-#   - java-1.8.0-openjdk-demo.x86_64:1.8.0.101-3.b13.el6_8
-#   - java-1.8.0-openjdk-devel.x86_64:1.8.0.101-3.b13.el6_8
-#   - java-1.8.0-openjdk-headless.x86_64:1.8.0.101-3.b13.el6_8
-#   - java-1.8.0-openjdk-src.x86_64:1.8.0.101-3.b13.el6_8
+#   - java-1.8.0-openjdk-javadoc.noarch:1.8.0.111-0.b15.el6_8
+#   - java-1.8.0-openjdk.x86_64:1.8.0.111-0.b15.el6_8
+#   - java-1.8.0-openjdk-demo.x86_64:1.8.0.111-0.b15.el6_8
+#   - java-1.8.0-openjdk-devel.x86_64:1.8.0.111-0.b15.el6_8
+#   - java-1.8.0-openjdk-headless.x86_64:1.8.0.111-0.b15.el6_8
+#   - java-1.8.0-openjdk-src.x86_64:1.8.0.111-0.b15.el6_8
 #
 # CVE List:
 #   - CVE-2015-0383
@@ -48,9 +48,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.8.0-openjdk-javadoc.noarch-1.8.0.101 -y 
-sudo yum install java-1.8.0-openjdk.x86_64-1.8.0.101 -y 
-sudo yum install java-1.8.0-openjdk-demo.x86_64-1.8.0.101 -y 
-sudo yum install java-1.8.0-openjdk-devel.x86_64-1.8.0.101 -y 
-sudo yum install java-1.8.0-openjdk-headless.x86_64-1.8.0.101 -y 
-sudo yum install java-1.8.0-openjdk-src.x86_64-1.8.0.101 -y 
+sudo yum install java-1.8.0-openjdk-javadoc.noarch-1.8.0.111 -y 
+sudo yum install java-1.8.0-openjdk.x86_64-1.8.0.111 -y 
+sudo yum install java-1.8.0-openjdk-demo.x86_64-1.8.0.111 -y 
+sudo yum install java-1.8.0-openjdk-devel.x86_64-1.8.0.111 -y 
+sudo yum install java-1.8.0-openjdk-headless.x86_64-1.8.0.111 -y 
+sudo yum install java-1.8.0-openjdk-src.x86_64-1.8.0.111 -y 
