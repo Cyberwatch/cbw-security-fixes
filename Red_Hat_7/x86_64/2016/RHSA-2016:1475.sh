@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:1475
 #
 # Security announcement date: 2016-07-21 11:12:30 UTC
-# Script generation date:     2016-07-23 21:41:48 UTC
+# Script generation date:     2016-10-20 21:22:40 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - java-1.8.0-oracle-src.x86_64:1.8.0.101-1jpp.1.el7
 #
 # Last versions recommanded by security team:
-#   - java-1.8.0-oracle.x86_64:1.8.0.101-1jpp.1.el7
-#   - java-1.8.0-oracle-devel.x86_64:1.8.0.101-1jpp.1.el7
-#   - java-1.8.0-oracle-javafx.x86_64:1.8.0.101-1jpp.1.el7
-#   - java-1.8.0-oracle-jdbc.x86_64:1.8.0.101-1jpp.1.el7
-#   - java-1.8.0-oracle-plugin.x86_64:1.8.0.101-1jpp.1.el7
-#   - java-1.8.0-oracle-src.x86_64:1.8.0.101-1jpp.1.el7
+#   - java-1.8.0-oracle.x86_64:1.8.0.111-1jpp.4.el7
+#   - java-1.8.0-oracle-devel.x86_64:1.8.0.111-1jpp.4.el7
+#   - java-1.8.0-oracle-javafx.x86_64:1.8.0.111-1jpp.4.el7
+#   - java-1.8.0-oracle-jdbc.x86_64:1.8.0.111-1jpp.4.el7
+#   - java-1.8.0-oracle-plugin.x86_64:1.8.0.111-1jpp.4.el7
+#   - java-1.8.0-oracle-src.x86_64:1.8.0.111-1jpp.4.el7
 #
 # CVE List:
 #   - CVE-2016-3458
@@ -43,9 +43,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.8.0-oracle.x86_64-1.8.0.101 -y 
-sudo yum install java-1.8.0-oracle-devel.x86_64-1.8.0.101 -y 
-sudo yum install java-1.8.0-oracle-javafx.x86_64-1.8.0.101 -y 
-sudo yum install java-1.8.0-oracle-jdbc.x86_64-1.8.0.101 -y 
-sudo yum install java-1.8.0-oracle-plugin.x86_64-1.8.0.101 -y 
-sudo yum install java-1.8.0-oracle-src.x86_64-1.8.0.101 -y 
+sudo yum install java-1.8.0-oracle.x86_64-1.8.0.111 -y 
+sudo yum install java-1.8.0-oracle-devel.x86_64-1.8.0.111 -y 
+sudo yum install java-1.8.0-oracle-javafx.x86_64-1.8.0.111 -y 
+sudo yum install java-1.8.0-oracle-jdbc.x86_64-1.8.0.111 -y 
+sudo yum install java-1.8.0-oracle-plugin.x86_64-1.8.0.111 -y 
+sudo yum install java-1.8.0-oracle-src.x86_64-1.8.0.111 -y 

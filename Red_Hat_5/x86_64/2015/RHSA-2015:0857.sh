@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:0857
 #
 # Security announcement date: 2015-04-20 14:43:21 UTC
-# Script generation date:     2016-07-21 21:43:52 UTC
+# Script generation date:     2016-10-20 21:21:38 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - java-1.7.0-oracle-src.x86_64:1.7.0.79-1jpp.1.el5_11
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-oracle.x86_64:1.7.0.111-1jpp.1.el5_11
-#   - java-1.7.0-oracle-devel.x86_64:1.7.0.111-1jpp.1.el5_11
-#   - java-1.7.0-oracle-javafx.x86_64:1.7.0.111-1jpp.1.el5_11
-#   - java-1.7.0-oracle-jdbc.x86_64:1.7.0.111-1jpp.1.el5_11
-#   - java-1.7.0-oracle-plugin.x86_64:1.7.0.111-1jpp.1.el5_11
-#   - java-1.7.0-oracle-src.x86_64:1.7.0.111-1jpp.1.el5_11
+#   - java-1.7.0-oracle.x86_64:1.7.0.121-1jpp.1.el5_11
+#   - java-1.7.0-oracle-devel.x86_64:1.7.0.121-1jpp.1.el5_11
+#   - java-1.7.0-oracle-javafx.x86_64:1.7.0.121-1jpp.1.el5_11
+#   - java-1.7.0-oracle-jdbc.x86_64:1.7.0.121-1jpp.1.el5_11
+#   - java-1.7.0-oracle-plugin.x86_64:1.7.0.121-1jpp.1.el5_11
+#   - java-1.7.0-oracle-src.x86_64:1.7.0.121-1jpp.1.el5_11
 #
 # CVE List:
 #   - CVE-2005-1080
@@ -43,9 +43,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.0-oracle.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-oracle-devel.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-oracle-javafx.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-oracle-jdbc.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-oracle-plugin.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-oracle-src.x86_64-1.7.0.111 -y 
+sudo yum install java-1.7.0-oracle.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-oracle-devel.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-oracle-javafx.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-oracle-jdbc.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-oracle-plugin.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-oracle-src.x86_64-1.7.0.121 -y 

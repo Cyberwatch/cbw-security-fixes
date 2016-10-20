@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:0156
 #
 # Security announcement date: 2013-01-14 21:04:38 UTC
-# Script generation date:     2016-07-21 21:36:17 UTC
+# Script generation date:     2016-10-20 21:19:53 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - java-1.7.0-oracle-src.x86_64:1.7.0.11-1jpp.3.el5_9
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-oracle.x86_64:1.7.0.111-1jpp.1.el5_11
-#   - java-1.7.0-oracle-devel.x86_64:1.7.0.111-1jpp.1.el5_11
-#   - java-1.7.0-oracle-javafx.x86_64:1.7.0.111-1jpp.1.el5_11
-#   - java-1.7.0-oracle-jdbc.x86_64:1.7.0.111-1jpp.1.el5_11
-#   - java-1.7.0-oracle-plugin.x86_64:1.7.0.111-1jpp.1.el5_11
-#   - java-1.7.0-oracle-src.x86_64:1.7.0.111-1jpp.1.el5_11
+#   - java-1.7.0-oracle.x86_64:1.7.0.121-1jpp.1.el5_11
+#   - java-1.7.0-oracle-devel.x86_64:1.7.0.121-1jpp.1.el5_11
+#   - java-1.7.0-oracle-javafx.x86_64:1.7.0.121-1jpp.1.el5_11
+#   - java-1.7.0-oracle-jdbc.x86_64:1.7.0.121-1jpp.1.el5_11
+#   - java-1.7.0-oracle-plugin.x86_64:1.7.0.121-1jpp.1.el5_11
+#   - java-1.7.0-oracle-src.x86_64:1.7.0.121-1jpp.1.el5_11
 #
 # CVE List:
 #   - CVE-2012-3174
@@ -33,9 +33,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.0-oracle.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-oracle-devel.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-oracle-javafx.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-oracle-jdbc.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-oracle-plugin.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-oracle-src.x86_64-1.7.0.111 -y 
+sudo yum install java-1.7.0-oracle.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-oracle-devel.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-oracle-javafx.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-oracle-jdbc.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-oracle-plugin.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-oracle-src.x86_64-1.7.0.121 -y 
