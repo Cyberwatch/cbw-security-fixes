@@ -4,7 +4,7 @@
 # Security fix for USN-2987-1
 #
 # Security announcement date: 2016-05-31 00:00:00 UTC
-# Script generation date:     2016-07-11 21:08:40 UTC
+# Script generation date:     2016-10-22 21:03:56 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - libgd3:2.1.0-3ubuntu0.1
 #
 # Last versions recommanded by security team:
-#   - libgd3:2.1.0-3ubuntu0.2
+#   - libgd3:2.1.0-3ubuntu0.3
 #
 # CVE List:
 #   - CVE-2014-2497
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgd3=2.1.0-3ubuntu0.2 -y
+sudo apt-get install --only-upgrade libgd3=2.1.0-3ubuntu0.3 -y

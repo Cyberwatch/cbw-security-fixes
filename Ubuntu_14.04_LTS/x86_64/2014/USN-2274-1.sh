@@ -4,7 +4,7 @@
 # Security fix for USN-2274-1
 #
 # Security announcement date: 2014-07-05 00:00:00 UTC
-# Script generation date:     2016-07-14 21:02:09 UTC
+# Script generation date:     2016-10-22 21:01:08 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -30,10 +30,10 @@
 #   - linux-image-3.13.0-30-powerpc-smp:3.13.0-30.55
 #   - linux-image-3.13.0-30-powerpc64-smp:3.13.0-30.55
 #   - linux-image-3.13.0-30-lowlatency:3.13.0-30.55
-#   - linux-source-3.13.0:3.13.0-92.139
-#   - linux-doc:3.13.0-92.139
-#   - linux-tools-common:3.13.0-92.139
-#   - linux-cloud-tools-common:3.13.0-92.139
+#   - linux-source-3.13.0:3.13.0-98.145
+#   - linux-doc:3.13.0-98.145
+#   - linux-tools-common:3.13.0-98.145
+#   - linux-cloud-tools-common:3.13.0-98.145
 #   - linux-image-3.13.0-30-generic:3.13.0-30.55
 #   - linux-image-3.13.0-30-generic-lpae:3.13.0-30.55
 #
@@ -50,9 +50,9 @@ sudo apt-get install --only-upgrade linux-image-3.13.0-30-powerpc64-emb=3.13.0-3
 sudo apt-get install --only-upgrade linux-image-3.13.0-30-powerpc-smp=3.13.0-30.55 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-30-powerpc64-smp=3.13.0-30.55 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-30-lowlatency=3.13.0-30.55 -y
-sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-92.139 -y
-sudo apt-get install --only-upgrade linux-doc=3.13.0-92.139 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.13.0-92.139 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-92.139 -y
+sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-98.145 -y
+sudo apt-get install --only-upgrade linux-doc=3.13.0-98.145 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.13.0-98.145 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-98.145 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-30-generic=3.13.0-30.55 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-30-generic-lpae=3.13.0-30.55 -y

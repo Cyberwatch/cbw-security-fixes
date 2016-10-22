@@ -1,0 +1,25 @@
+#!/bin/sh
+# CYBERWATCH SAS - 2016
+#
+# Security fix for USN-3074-1
+#
+# Security announcement date: 2016-09-08 00:00:00 UTC
+# Script generation date:     2016-10-22 21:04:07 UTC
+#
+# Operating System: Ubuntu 14.04 LTS
+# Architecture: i686
+#
+# Vulnerable packages fix on version:
+#   - file-roller:3.10.2.1-0ubuntu4.2
+#
+# Last versions recommanded by security team:
+#   - file-roller:3.10.2.1-0ubuntu4.2
+#
+# CVE List:
+#   - CVE-2016-7162
+#
+# More details:
+#   - https://www.cyberwatch.fr/vulnerabilites
+#
+# Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade file-roller=3.10.2.1-0ubuntu4.2 -y

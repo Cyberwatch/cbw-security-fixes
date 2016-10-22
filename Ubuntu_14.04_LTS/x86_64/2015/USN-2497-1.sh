@@ -4,7 +4,7 @@
 # Security fix for USN-2497-1
 #
 # Security announcement date: 2015-02-09 00:00:00 UTC
-# Script generation date:     2016-06-20 13:20:35 UTC
+# Script generation date:     2016-10-22 21:01:42 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - ntp-doc:1:4.2.6.p5+dfsg-3ubuntu2.14.04.2
 #
 # Last versions recommanded by security team:
-#   - ntp:1:4.2.6.p5+dfsg-3ubuntu2.14.04.5
-#   - ntpdate:1:4.2.6.p5+dfsg-3ubuntu2.14.04.5
-#   - ntp-doc:1:4.2.6.p5+dfsg-3ubuntu2.14.04.5
+#   - ntp:1:4.2.6.p5+dfsg-3ubuntu2.14.04.10
+#   - ntpdate:1:4.2.6.p5+dfsg-3ubuntu2.14.04.10
+#   - ntp-doc:1:4.2.6.p5+dfsg-3ubuntu2.14.04.10
 #
 # CVE List:
 #   - CVE-2014-9297
@@ -27,6 +27,6 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ntp=1:4.2.6.p5+dfsg-3ubuntu2.14.04.5 -y
-sudo apt-get install --only-upgrade ntpdate=1:4.2.6.p5+dfsg-3ubuntu2.14.04.5 -y
-sudo apt-get install --only-upgrade ntp-doc=1:4.2.6.p5+dfsg-3ubuntu2.14.04.5 -y
+sudo apt-get install --only-upgrade ntp=1:4.2.6.p5+dfsg-3ubuntu2.14.04.10 -y
+sudo apt-get install --only-upgrade ntpdate=1:4.2.6.p5+dfsg-3ubuntu2.14.04.10 -y
+sudo apt-get install --only-upgrade ntp-doc=1:4.2.6.p5+dfsg-3ubuntu2.14.04.10 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2487-1
 #
 # Security announcement date: 2015-01-27 00:00:00 UTC
-# Script generation date:     2016-06-20 13:20:33 UTC
+# Script generation date:     2016-10-22 21:01:41 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -27,19 +27,19 @@
 #
 # Last versions recommanded by security team:
 #   - openjdk-7-jre-zero:7u75-2.5.4-1~trusty1
-#   - openjdk-7-source:7u101-2.6.6-0ubuntu0.14.04.1
-#   - openjdk-7-jdk:7u101-2.6.6-0ubuntu0.14.04.1
-#   - openjdk-7-jre-headless:7u101-2.6.6-0ubuntu0.14.04.1
-#   - openjdk-7-jre:7u101-2.6.6-0ubuntu0.14.04.1
+#   - openjdk-7-source:7u79-2.5.6-0ubuntu1.14.04.1
+#   - openjdk-7-jdk:7u111-2.6.7-0ubuntu0.14.04.3
+#   - openjdk-7-jre-headless:7u111-2.6.7-0ubuntu0.14.04.3
+#   - openjdk-7-jre:7u111-2.6.7-0ubuntu0.14.04.3
 #   - openjdk-7-jre-lib:7u75-2.5.4-1~trusty1
-#   - openjdk-7-demo:7u101-2.6.6-0ubuntu0.14.04.1
-#   - openjdk-7-doc:7u101-2.6.6-0ubuntu0.14.04.1
-#   - openjdk-7-dbg:7u101-2.6.6-0ubuntu0.14.04.1
-#   - icedtea-7-jre-jamvm:7u101-2.6.6-0ubuntu0.14.04.1
-#   - icedtea-7-jre-jamvm:7u101-2.6.6-0ubuntu0.14.04.1
+#   - openjdk-7-demo:7u111-2.6.7-0ubuntu0.14.04.3
+#   - openjdk-7-doc:7u79-2.5.6-0ubuntu1.14.04.1
+#   - openjdk-7-dbg:7u111-2.6.7-0ubuntu0.14.04.3
+#   - icedtea-7-jre-jamvm:7u111-2.6.7-0ubuntu0.14.04.3
+#   - icedtea-7-jre-jamvm:7u111-2.6.7-0ubuntu0.14.04.3
 #   - openjdk-7-jre-lib:7u75-2.5.4-1~trusty1
-#   - openjdk-7-jre-headless:7u101-2.6.6-0ubuntu0.14.04.1
-#   - openjdk-7-jre:7u101-2.6.6-0ubuntu0.14.04.1
+#   - openjdk-7-jre-headless:7u111-2.6.7-0ubuntu0.14.04.3
+#   - openjdk-7-jre:7u111-2.6.7-0ubuntu0.14.04.3
 #
 # CVE List:
 #   - CVE-2014-3566
@@ -62,16 +62,16 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade openjdk-7-jre-zero=7u75-2.5.4-1~trusty1 -y
-sudo apt-get install --only-upgrade openjdk-7-source=7u101-2.6.6-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jdk=7u101-2.6.6-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u101-2.6.6-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre=7u101-2.6.6-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-source=7u79-2.5.6-0ubuntu1.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-jdk=7u111-2.6.7-0ubuntu0.14.04.3 -y
+sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u111-2.6.7-0ubuntu0.14.04.3 -y
+sudo apt-get install --only-upgrade openjdk-7-jre=7u111-2.6.7-0ubuntu0.14.04.3 -y
 sudo apt-get install --only-upgrade openjdk-7-jre-lib=7u75-2.5.4-1~trusty1 -y
-sudo apt-get install --only-upgrade openjdk-7-demo=7u101-2.6.6-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-doc=7u101-2.6.6-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-dbg=7u101-2.6.6-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u101-2.6.6-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u101-2.6.6-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-demo=7u111-2.6.7-0ubuntu0.14.04.3 -y
+sudo apt-get install --only-upgrade openjdk-7-doc=7u79-2.5.6-0ubuntu1.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-dbg=7u111-2.6.7-0ubuntu0.14.04.3 -y
+sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u111-2.6.7-0ubuntu0.14.04.3 -y
+sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u111-2.6.7-0ubuntu0.14.04.3 -y
 sudo apt-get install --only-upgrade openjdk-7-jre-lib=7u75-2.5.4-1~trusty1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u101-2.6.6-0ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre=7u101-2.6.6-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u111-2.6.7-0ubuntu0.14.04.3 -y
+sudo apt-get install --only-upgrade openjdk-7-jre=7u111-2.6.7-0ubuntu0.14.04.3 -y

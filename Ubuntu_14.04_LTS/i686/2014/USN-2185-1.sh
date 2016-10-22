@@ -4,7 +4,7 @@
 # Security fix for USN-2185-1
 #
 # Security announcement date: 2014-04-29 00:00:00 UTC
-# Script generation date:     2016-06-20 13:26:33 UTC
+# Script generation date:     2016-10-22 21:00:58 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - firefox:29.0+build1-0ubuntu0.14.04.2
 #
 # Last versions recommanded by security team:
-#   - firefox:47.0+build3-0ubuntu0.14.04.1
+#   - firefox:49.0+build4-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2014-1518
@@ -34,4 +34,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=47.0+build3-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade firefox=49.0+build4-0ubuntu0.14.04.1 -y

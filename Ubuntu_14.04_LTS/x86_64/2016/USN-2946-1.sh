@@ -4,7 +4,7 @@
 # Security fix for USN-2946-1
 #
 # Security announcement date: 2016-04-06 00:00:00 UTC
-# Script generation date:     2016-07-14 21:07:42 UTC
+# Script generation date:     2016-10-22 21:03:43 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -39,13 +39,13 @@
 #   - linux-image-3.13.0-85-powerpc-e500mc:3.13.0-85.129
 #   - linux-image-3.13.0-85-powerpc64-smp:3.13.0-85.129
 #   - linux-image-3.13.0-85-generic:3.13.0-85.129
-#   - linux-source-3.13.0:3.13.0-92.139
-#   - linux-doc:3.13.0-92.139
+#   - linux-source-3.13.0:3.13.0-98.145
+#   - linux-doc:3.13.0-98.145
 #   - linux-headers-3.13.0-85:3.13.0-85.129
-#   - linux-libc-dev:3.13.0-92.139
-#   - linux-tools-common:3.13.0-92.139
+#   - linux-libc-dev:3.13.0-100.147
+#   - linux-tools-common:3.13.0-98.145
 #   - linux-tools-3.13.0-85:3.13.0-85.129
-#   - linux-cloud-tools-common:3.13.0-92.139
+#   - linux-cloud-tools-common:3.13.0-98.145
 #   - linux-cloud-tools-3.13.0-85:3.13.0-85.129
 #   - linux-image-extra-3.13.0-85-generic:3.13.0-85.129
 #   - linux-headers-3.13.0-85-generic:3.13.0-85.129
@@ -73,13 +73,13 @@ sudo apt-get install --only-upgrade linux-image-3.13.0-85-powerpc-smp=3.13.0-85.
 sudo apt-get install --only-upgrade linux-image-3.13.0-85-powerpc-e500mc=3.13.0-85.129 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-85-powerpc64-smp=3.13.0-85.129 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-85-generic=3.13.0-85.129 -y
-sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-92.139 -y
-sudo apt-get install --only-upgrade linux-doc=3.13.0-92.139 -y
+sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-98.145 -y
+sudo apt-get install --only-upgrade linux-doc=3.13.0-98.145 -y
 sudo apt-get install --only-upgrade linux-headers-3.13.0-85=3.13.0-85.129 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-92.139 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.13.0-92.139 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-100.147 -y
+sudo apt-get install --only-upgrade linux-tools-common=3.13.0-98.145 -y
 sudo apt-get install --only-upgrade linux-tools-3.13.0-85=3.13.0-85.129 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-92.139 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-98.145 -y
 sudo apt-get install --only-upgrade linux-cloud-tools-3.13.0-85=3.13.0-85.129 -y
 sudo apt-get install --only-upgrade linux-image-extra-3.13.0-85-generic=3.13.0-85.129 -y
 sudo apt-get install --only-upgrade linux-headers-3.13.0-85-generic=3.13.0-85.129 -y

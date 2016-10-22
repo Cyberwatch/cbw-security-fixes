@@ -4,7 +4,7 @@
 # Security fix for USN-2915-2
 #
 # Security announcement date: 2016-03-07 00:00:00 UTC
-# Script generation date:     2016-06-21 01:25:08 UTC
+# Script generation date:     2016-10-22 21:03:32 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -14,8 +14,8 @@
 #   - python-django-doc:1.6.1-2ubuntu0.13
 #
 # Last versions recommanded by security team:
-#   - python-django:1.6.1-2ubuntu0.14
-#   - python-django-doc:1.6.1-2ubuntu0.14
+#   - python-django:1.6.1-2ubuntu0.15
+#   - python-django-doc:1.6.1-2ubuntu0.15
 #
 # CVE List:
 #   - CVE-2016-2512
@@ -25,5 +25,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.6.1-2ubuntu0.14 -y
-sudo apt-get install --only-upgrade python-django-doc=1.6.1-2ubuntu0.14 -y
+sudo apt-get install --only-upgrade python-django=1.6.1-2ubuntu0.15 -y
+sudo apt-get install --only-upgrade python-django-doc=1.6.1-2ubuntu0.15 -y

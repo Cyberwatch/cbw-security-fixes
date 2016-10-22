@@ -4,7 +4,7 @@
 # Security fix for USN-2212-1
 #
 # Security announcement date: 2014-05-14 00:00:00 UTC
-# Script generation date:     2016-06-20 13:26:38 UTC
+# Script generation date:     2016-10-22 21:01:02 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - python-django:1.6.1-2ubuntu0.3
 #
 # Last versions recommanded by security team:
-#   - python-django:1.6.1-2ubuntu0.14
+#   - python-django:1.6.1-2ubuntu0.15
 #
 # CVE List:
 #   - CVE-2014-1418
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.6.1-2ubuntu0.14 -y
+sudo apt-get install --only-upgrade python-django=1.6.1-2ubuntu0.15 -y

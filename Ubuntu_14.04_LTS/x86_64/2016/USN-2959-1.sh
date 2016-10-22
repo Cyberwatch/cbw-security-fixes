@@ -4,7 +4,7 @@
 # Security fix for USN-2959-1
 #
 # Security announcement date: 2016-05-03 00:00:00 UTC
-# Script generation date:     2016-06-21 01:25:46 UTC
+# Script generation date:     2016-10-22 21:03:49 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libssl1.0.0:1.0.1f-1ubuntu2.19
 #
 # Last versions recommanded by security team:
-#   - libssl1.0.0:1.0.1f-1ubuntu2.19
+#   - libssl1.0.0:1.0.1f-1ubuntu2.21
 #
 # CVE List:
 #   - CVE-2016-2108
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libssl1.0.0=1.0.1f-1ubuntu2.19 -y
+sudo apt-get install --only-upgrade libssl1.0.0=1.0.1f-1ubuntu2.21 -y

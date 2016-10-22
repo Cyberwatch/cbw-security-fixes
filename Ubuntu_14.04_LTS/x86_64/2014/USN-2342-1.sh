@@ -4,7 +4,7 @@
 # Security fix for USN-2342-1
 #
 # Security announcement date: 2014-09-08 00:00:00 UTC
-# Script generation date:     2016-06-20 13:27:03 UTC
+# Script generation date:     2016-10-22 21:01:16 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -27,21 +27,21 @@
 #   - qemu-system-mips:2.0.0+dfsg-2ubuntu1.3
 #
 # Last versions recommanded by security team:
-#   - qemu-system-misc:2.0.0+dfsg-2ubuntu1.24
-#   - qemu-system:2.0.0+dfsg-2ubuntu1.24
-#   - qemu-system-arm:2.0.0+dfsg-2ubuntu1.24
-#   - qemu-system-mips:2.0.0+dfsg-2ubuntu1.24
-#   - qemu-system-ppc:2.0.0+dfsg-2ubuntu1.24
-#   - qemu-system-sparc:2.0.0+dfsg-2ubuntu1.24
-#   - qemu-system-x86:2.0.0+dfsg-2ubuntu1.24
+#   - qemu-system-misc:2.0.0+dfsg-2ubuntu1.27
+#   - qemu-system:2.0.0+dfsg-2ubuntu1.27
+#   - qemu-system-arm:2.0.0+dfsg-2ubuntu1.27
+#   - qemu-system-mips:2.0.0+dfsg-2ubuntu1.27
+#   - qemu-system-ppc:2.0.0+dfsg-2ubuntu1.27
+#   - qemu-system-sparc:2.0.0+dfsg-2ubuntu1.27
+#   - qemu-system-x86:2.0.0+dfsg-2ubuntu1.27
 #   - qemu-system-aarch64:2.0.0+dfsg-2ubuntu1.3
-#   - qemu-system:2.0.0+dfsg-2ubuntu1.24
+#   - qemu-system:2.0.0+dfsg-2ubuntu1.27
 #   - qemu-system-aarch64:2.0.0+dfsg-2ubuntu1.3
-#   - qemu-system-x86:2.0.0+dfsg-2ubuntu1.24
-#   - qemu-system-sparc:2.0.0+dfsg-2ubuntu1.24
-#   - qemu-system-arm:2.0.0+dfsg-2ubuntu1.24
-#   - qemu-system-ppc:2.0.0+dfsg-2ubuntu1.24
-#   - qemu-system-mips:2.0.0+dfsg-2ubuntu1.24
+#   - qemu-system-x86:2.0.0+dfsg-2ubuntu1.27
+#   - qemu-system-sparc:2.0.0+dfsg-2ubuntu1.27
+#   - qemu-system-arm:2.0.0+dfsg-2ubuntu1.27
+#   - qemu-system-ppc:2.0.0+dfsg-2ubuntu1.27
+#   - qemu-system-mips:2.0.0+dfsg-2ubuntu1.27
 #
 # CVE List:
 #   - CVE-2013-4148
@@ -81,18 +81,18 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu-system-misc=2.0.0+dfsg-2ubuntu1.24 -y
-sudo apt-get install --only-upgrade qemu-system=2.0.0+dfsg-2ubuntu1.24 -y
-sudo apt-get install --only-upgrade qemu-system-arm=2.0.0+dfsg-2ubuntu1.24 -y
-sudo apt-get install --only-upgrade qemu-system-mips=2.0.0+dfsg-2ubuntu1.24 -y
-sudo apt-get install --only-upgrade qemu-system-ppc=2.0.0+dfsg-2ubuntu1.24 -y
-sudo apt-get install --only-upgrade qemu-system-sparc=2.0.0+dfsg-2ubuntu1.24 -y
-sudo apt-get install --only-upgrade qemu-system-x86=2.0.0+dfsg-2ubuntu1.24 -y
+sudo apt-get install --only-upgrade qemu-system-misc=2.0.0+dfsg-2ubuntu1.27 -y
+sudo apt-get install --only-upgrade qemu-system=2.0.0+dfsg-2ubuntu1.27 -y
+sudo apt-get install --only-upgrade qemu-system-arm=2.0.0+dfsg-2ubuntu1.27 -y
+sudo apt-get install --only-upgrade qemu-system-mips=2.0.0+dfsg-2ubuntu1.27 -y
+sudo apt-get install --only-upgrade qemu-system-ppc=2.0.0+dfsg-2ubuntu1.27 -y
+sudo apt-get install --only-upgrade qemu-system-sparc=2.0.0+dfsg-2ubuntu1.27 -y
+sudo apt-get install --only-upgrade qemu-system-x86=2.0.0+dfsg-2ubuntu1.27 -y
 sudo apt-get install --only-upgrade qemu-system-aarch64=2.0.0+dfsg-2ubuntu1.3 -y
-sudo apt-get install --only-upgrade qemu-system=2.0.0+dfsg-2ubuntu1.24 -y
+sudo apt-get install --only-upgrade qemu-system=2.0.0+dfsg-2ubuntu1.27 -y
 sudo apt-get install --only-upgrade qemu-system-aarch64=2.0.0+dfsg-2ubuntu1.3 -y
-sudo apt-get install --only-upgrade qemu-system-x86=2.0.0+dfsg-2ubuntu1.24 -y
-sudo apt-get install --only-upgrade qemu-system-sparc=2.0.0+dfsg-2ubuntu1.24 -y
-sudo apt-get install --only-upgrade qemu-system-arm=2.0.0+dfsg-2ubuntu1.24 -y
-sudo apt-get install --only-upgrade qemu-system-ppc=2.0.0+dfsg-2ubuntu1.24 -y
-sudo apt-get install --only-upgrade qemu-system-mips=2.0.0+dfsg-2ubuntu1.24 -y
+sudo apt-get install --only-upgrade qemu-system-x86=2.0.0+dfsg-2ubuntu1.27 -y
+sudo apt-get install --only-upgrade qemu-system-sparc=2.0.0+dfsg-2ubuntu1.27 -y
+sudo apt-get install --only-upgrade qemu-system-arm=2.0.0+dfsg-2ubuntu1.27 -y
+sudo apt-get install --only-upgrade qemu-system-ppc=2.0.0+dfsg-2ubuntu1.27 -y
+sudo apt-get install --only-upgrade qemu-system-mips=2.0.0+dfsg-2ubuntu1.27 -y

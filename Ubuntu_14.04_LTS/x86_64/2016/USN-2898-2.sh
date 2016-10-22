@@ -4,7 +4,7 @@
 # Security fix for USN-2898-2
 #
 # Security announcement date: 2016-02-15 00:00:00 UTC
-# Script generation date:     2016-06-20 21:41:32 UTC
+# Script generation date:     2016-10-22 21:03:26 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - eog-dev:3.10.2-0ubuntu5.1
 #
 # Last versions recommanded by security team:
-#   - eog:3.10.2-0ubuntu5.1
-#   - eog-dbg:3.10.2-0ubuntu5.1
-#   - eog-dev:3.10.2-0ubuntu5.1
+#   - eog:3.10.2-0ubuntu5.2
+#   - eog-dbg:3.10.2-0ubuntu5.2
+#   - eog-dev:3.10.2-0ubuntu5.2
 #
 # CVE List:
 #   - CVE-2013-7447
@@ -26,6 +26,6 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade eog=3.10.2-0ubuntu5.1 -y
-sudo apt-get install --only-upgrade eog-dbg=3.10.2-0ubuntu5.1 -y
-sudo apt-get install --only-upgrade eog-dev=3.10.2-0ubuntu5.1 -y
+sudo apt-get install --only-upgrade eog=3.10.2-0ubuntu5.2 -y
+sudo apt-get install --only-upgrade eog-dbg=3.10.2-0ubuntu5.2 -y
+sudo apt-get install --only-upgrade eog-dev=3.10.2-0ubuntu5.2 -y

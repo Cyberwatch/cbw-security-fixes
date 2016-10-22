@@ -4,7 +4,7 @@
 # Security fix for USN-2973-1
 #
 # Security announcement date: 2016-05-18 00:00:00 UTC
-# Script generation date:     2016-07-18 21:08:52 UTC
+# Script generation date:     2016-10-22 21:03:54 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - thunderbird:1:38.8.0+build1-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - thunderbird:1:45.2.0+build1-0ubuntu0.14.04.3
+#   - thunderbird:1:45.3.0+build1-0ubuntu0.14.04.4
 #
 # CVE List:
 #   - CVE-2016-2805
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade thunderbird=1:45.2.0+build1-0ubuntu0.14.04.3 -y
+sudo apt-get install --only-upgrade thunderbird=1:45.3.0+build1-0ubuntu0.14.04.4 -y
