@@ -4,7 +4,7 @@
 # Security fix for DSA-3336-1
 #
 # Security announcement date: 2015-08-17 00:00:00 UTC
-# Script generation date:     2016-07-28 21:10:40 UTC
+# Script generation date:     2016-10-25 21:10:39 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -18,7 +18,7 @@
 #   - libnss3-dbg:2:3.14.5-1+deb7u5
 #
 # Last versions recommanded by security team:
-#   - nss:2:3.14.5-1+deb7u8
+#   - nss:2:3.26-1+debu7u1
 #   - libnss3:2:3.14.5-1+deb7u8
 #   - libnss3-1d:2:3.14.5-1+deb7u8
 #   - libnss3-tools:2:3.14.5-1+deb7u8
@@ -33,7 +33,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade nss=2:3.14.5-1+deb7u8 -y
+sudo apt-get install --only-upgrade nss=2:3.26-1+debu7u1 -y
 sudo apt-get install --only-upgrade libnss3=2:3.14.5-1+deb7u8 -y
 sudo apt-get install --only-upgrade libnss3-1d=2:3.14.5-1+deb7u8 -y
 sudo apt-get install --only-upgrade libnss3-tools=2:3.14.5-1+deb7u8 -y

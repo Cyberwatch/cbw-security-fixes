@@ -4,7 +4,7 @@
 # Security fix for DSA-2962-1
 #
 # Security announcement date: 2014-06-17 00:00:00 UTC
-# Script generation date:     2016-08-04 21:12:49 UTC
+# Script generation date:     2016-10-25 21:09:46 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -17,7 +17,7 @@
 #   - libnspr4-dbg:2:4.9.2-1+deb7u2
 #
 # Last versions recommanded by security team:
-#   - nspr:2:4.9.2-1+deb7u4
+#   - nspr:2:4.12-1+deb7u1
 #   - libnspr4:2:4.9.2-1+deb7u2
 #   - libnspr4-0d:2:4.9.2-1+deb7u2
 #   - libnspr4-dev:2:4.9.2-1+deb7u2
@@ -30,7 +30,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade nspr=2:4.9.2-1+deb7u4 -y
+sudo apt-get install --only-upgrade nspr=2:4.12-1+deb7u1 -y
 sudo apt-get install --only-upgrade libnspr4=2:4.9.2-1+deb7u2 -y
 sudo apt-get install --only-upgrade libnspr4-0d=2:4.9.2-1+deb7u2 -y
 sudo apt-get install --only-upgrade libnspr4-dev=2:4.9.2-1+deb7u2 -y
