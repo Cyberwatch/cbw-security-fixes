@@ -4,7 +4,7 @@
 # Security fix for USN-3102-1
 #
 # Security announcement date: 2016-10-13 00:00:00 UTC
-# Script generation date:     2016-10-15 21:04:11 UTC
+# Script generation date:     2016-10-25 21:05:06 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: i386
@@ -15,9 +15,9 @@
 #   - quagga-doc:0.99.24.1-2ubuntu1.1
 #
 # Last versions recommanded by security team:
-#   - quagga:0.99.24.1-2ubuntu1.1
-#   - quagga-dbg:0.99.24.1-2ubuntu1.1
-#   - quagga-doc:0.99.24.1-2ubuntu1.1
+#   - quagga:0.99.24.1-2ubuntu1.2
+#   - quagga-dbg:0.99.24.1-2ubuntu1.2
+#   - quagga-doc:0.99.24.1-2ubuntu1.2
 #
 # CVE List:
 #   - CVE-2016-4049
@@ -27,6 +27,6 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade quagga=0.99.24.1-2ubuntu1.1 -y
-sudo apt-get install --only-upgrade quagga-dbg=0.99.24.1-2ubuntu1.1 -y
-sudo apt-get install --only-upgrade quagga-doc=0.99.24.1-2ubuntu1.1 -y
+sudo apt-get install --only-upgrade quagga=0.99.24.1-2ubuntu1.2 -y
+sudo apt-get install --only-upgrade quagga-dbg=0.99.24.1-2ubuntu1.2 -y
+sudo apt-get install --only-upgrade quagga-doc=0.99.24.1-2ubuntu1.2 -y

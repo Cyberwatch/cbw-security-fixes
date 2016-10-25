@@ -4,7 +4,7 @@
 # Security fix for USN-2991-1
 #
 # Security announcement date: 2016-06-02 00:00:00 UTC
-# Script generation date:     2016-06-21 01:25:59 UTC
+# Script generation date:     2016-10-25 21:04:46 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - nginx-core:1.4.6-1ubuntu3.5
 #
 # Last versions recommanded by security team:
-#   - nginx-core:1.4.6-1ubuntu3.5
+#   - nginx-core:1.4.6-1ubuntu3.6
 #
 # CVE List:
 #   - CVE-2016-4450
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade nginx-core=1.4.6-1ubuntu3.5 -y
+sudo apt-get install --only-upgrade nginx-core=1.4.6-1ubuntu3.6 -y
