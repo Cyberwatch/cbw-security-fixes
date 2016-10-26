@@ -4,7 +4,7 @@
 # Security fix for DSA-3470-1
 #
 # Security announcement date: 2016-02-08 00:00:00 UTC
-# Script generation date:     2016-10-11 21:07:09 UTC
+# Script generation date:     2016-10-26 21:07:19 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - qemu-kvm:1.1.2+dfsg-6+deb7u12
 #
 # Last versions recommanded by security team:
-#   - qemu-kvm:1.1.2+dfsg-6+deb7u16
+#   - qemu-kvm:1.1.2+dfsg-6+deb7u17
 #
 # CVE List:
 #   - CVE-2015-7295
@@ -32,4 +32,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu-kvm=1.1.2+dfsg-6+deb7u16 -y
+sudo apt-get install --only-upgrade qemu-kvm=1.1.2+dfsg-6+deb7u17 -y
