@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:1064
 #
 # Security announcement date: 2016-05-12 16:30:04 UTC
-# Script generation date:     2016-10-17 21:17:57 UTC
+# Script generation date:     2016-10-27 21:23:25 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -113,9 +113,9 @@
 #   - libuv-debuginfo.x86_64:0.10.34-1.el7ost
 #   - libuv-devel.x86_64:0.10.34-1.el7ost
 #   - libuv-static.x86_64:0.10.34-1.el7ost
-#   - nodejs.x86_64:0.10.36-3.el7ost
-#   - nodejs-debuginfo.x86_64:0.10.36-3.el7ost
-#   - nodejs-devel.x86_64:0.10.36-3.el7ost
+#   - nodejs.x86_64:0.10.47-2.el7
+#   - nodejs-debuginfo.x86_64:0.10.47-2.el7
+#   - nodejs-devel.x86_64:0.10.47-2.el7
 #   - nss_wrapper.x86_64:1.0.3-1.el7
 #   - nss_wrapper-debuginfo.x86_64:1.0.3-1.el7
 #   - openvswitch.x86_64:2.4.0-2.el7_2
@@ -192,9 +192,9 @@ sudo yum install libuv.x86_64-0.10.34 -y
 sudo yum install libuv-debuginfo.x86_64-0.10.34 -y 
 sudo yum install libuv-devel.x86_64-0.10.34 -y 
 sudo yum install libuv-static.x86_64-0.10.34 -y 
-sudo yum install nodejs.x86_64-0.10.36 -y 
-sudo yum install nodejs-debuginfo.x86_64-0.10.36 -y 
-sudo yum install nodejs-devel.x86_64-0.10.36 -y 
+sudo yum install nodejs.x86_64-0.10.47 -y 
+sudo yum install nodejs-debuginfo.x86_64-0.10.47 -y 
+sudo yum install nodejs-devel.x86_64-0.10.47 -y 
 sudo yum install nss_wrapper.x86_64-1.0.3 -y 
 sudo yum install nss_wrapper-debuginfo.x86_64-1.0.3 -y 
 sudo yum install openvswitch.x86_64-2.4.0 -y 

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:1203
 #
 # Security announcement date: 2012-08-23 16:54:05 UTC
-# Script generation date:     2016-10-12 21:19:34 UTC
+# Script generation date:     2016-10-27 21:20:20 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - flash-plugin.i386:11.2.202.238-1.el5
 #
 # Last versions recommanded by security team:
-#   - flash-plugin.i386:11.2.202.637-1.el5_11
+#   - flash-plugin.i386:11.2.202.643-1.el5_11
 #
 # CVE List:
 #   - CVE-2012-1535
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install flash-plugin.i386-11.2.202.637 -y 
+sudo yum install flash-plugin.i386-11.2.202.643 -y 
