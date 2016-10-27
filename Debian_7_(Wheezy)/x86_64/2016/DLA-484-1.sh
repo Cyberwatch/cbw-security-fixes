@@ -4,7 +4,7 @@
 # Security fix for DLA-484-1
 #
 # Security announcement date: 2016-05-21 00:00:00 UTC
-# Script generation date:     2016-10-11 21:11:06 UTC
+# Script generation date:     2016-10-27 21:13:53 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - graphicsmagick:1.3.16-1.1+deb7u1
 #
 # Last versions recommanded by security team:
-#   - graphicsmagick:1.3.16-1.1+deb7u4
+#   - graphicsmagick:1.3.16-1.1+deb7u5
 #
 # CVE List:
 #   - CVE-2015-8808
@@ -30,4 +30,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade graphicsmagick=1.3.16-1.1+deb7u4 -y
+sudo apt-get install --only-upgrade graphicsmagick=1.3.16-1.1+deb7u5 -y
