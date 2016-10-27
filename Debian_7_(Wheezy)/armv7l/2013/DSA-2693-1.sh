@@ -4,7 +4,7 @@
 # Security fix for DSA-2693-1
 #
 # Security announcement date: 2013-05-24 00:00:00 UTC
-# Script generation date:     2016-05-12 18:04:34 UTC
+# Script generation date:     2016-10-27 21:08:13 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - libx11:2:1.5.0-1+deb7u1
 #
 # Last versions recommanded by security team:
-#   - libx11:2:1.5.0-1+deb7u1
+#   - libx11:2:1.5.0-1+deb7u3
 #
 # CVE List:
 #   - CVE-2013-1981
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libx11=2:1.5.0-1+deb7u1 -y
+sudo apt-get install --only-upgrade libx11=2:1.5.0-1+deb7u3 -y
