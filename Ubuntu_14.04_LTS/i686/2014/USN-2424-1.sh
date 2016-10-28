@@ -4,7 +4,7 @@
 # Security fix for USN-2424-1
 #
 # Security announcement date: 2014-12-02 00:00:00 UTC
-# Script generation date:     2016-10-22 21:01:27 UTC
+# Script generation date:     2016-10-28 21:02:14 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - firefox:34.0+build2-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:49.0+build4-0ubuntu0.14.04.1
+#   - firefox:49.0.2+build2-0ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2014-1587
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=49.0+build4-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade firefox=49.0.2+build2-0ubuntu0.14.04.1 -y
