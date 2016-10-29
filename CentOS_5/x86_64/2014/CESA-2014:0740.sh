@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:0740
 #
 # Security announcement date: 2014-06-11 11:01:17 UTC
-# Script generation date:     2016-05-12 18:08:18 UTC
+# Script generation date:     2016-10-29 21:16:08 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - kernel-xen-devel.x86_64:2.6.18-371.9.1.el5
 #
 # Last versions recommanded by security team:
-#   - kernel-doc.noarch:2.6.18-409.el5
-#   - kernel.x86_64:2.6.18-409.el5
-#   - kernel-debug.x86_64:2.6.18-409.el5
-#   - kernel-debug-devel.x86_64:2.6.18-409.el5
-#   - kernel-devel.x86_64:2.6.18-409.el5
-#   - kernel-headers.x86_64:2.6.18-409.el5
-#   - kernel-xen.x86_64:2.6.18-409.el5
-#   - kernel-xen-devel.x86_64:2.6.18-409.el5
+#   - kernel-doc.noarch:2.6.18-416.el5
+#   - kernel.x86_64:2.6.18-416.el5
+#   - kernel-debug.x86_64:2.6.18-416.el5
+#   - kernel-debug-devel.x86_64:2.6.18-416.el5
+#   - kernel-devel.x86_64:2.6.18-416.el5
+#   - kernel-headers.x86_64:2.6.18-416.el5
+#   - kernel-xen.x86_64:2.6.18-416.el5
+#   - kernel-xen-devel.x86_64:2.6.18-416.el5
 #
 # CVE List:
 #   - CVE-2013-7339

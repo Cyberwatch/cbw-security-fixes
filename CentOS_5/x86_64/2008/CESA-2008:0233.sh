@@ -4,7 +4,7 @@
 # Security fix for CESA-2008:0233
 #
 # Security announcement date: 2008-05-09 09:41:46 UTC
-# Script generation date:     2016-05-12 18:07:01 UTC
+# Script generation date:     2016-10-29 21:14:54 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - kernel-xen-devel.x86_64:2.6.18-53.1.19.el5
 #
 # Last versions recommanded by security team:
-#   - kernel.x86_64:2.6.18-409.el5
-#   - kernel-debug.x86_64:2.6.18-409.el5
-#   - kernel-debug-devel.x86_64:2.6.18-409.el5
-#   - kernel-devel.x86_64:2.6.18-409.el5
-#   - kernel-doc.noarch:2.6.18-409.el5
-#   - kernel-headers.x86_64:2.6.18-409.el5
-#   - kernel-xen.x86_64:2.6.18-409.el5
-#   - kernel-xen-devel.x86_64:2.6.18-409.el5
+#   - kernel.x86_64:2.6.18-416.el5
+#   - kernel-debug.x86_64:2.6.18-416.el5
+#   - kernel-debug-devel.x86_64:2.6.18-416.el5
+#   - kernel-devel.x86_64:2.6.18-416.el5
+#   - kernel-doc.noarch:2.6.18-416.el5
+#   - kernel-headers.x86_64:2.6.18-416.el5
+#   - kernel-xen.x86_64:2.6.18-416.el5
+#   - kernel-xen-devel.x86_64:2.6.18-416.el5
 #
 # CVE List:
 #   - CVE-2008-1375

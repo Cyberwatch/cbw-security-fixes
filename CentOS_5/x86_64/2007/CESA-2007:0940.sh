@@ -4,7 +4,7 @@
 # Security fix for CESA-2007:0940
 #
 # Security announcement date: 2007-10-23 21:54:29 UTC
-# Script generation date:     2016-06-22 12:20:57 UTC
+# Script generation date:     2016-10-29 21:14:49 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -33,12 +33,12 @@
 #   - php-pgsql.i386:4.1.2-2.19
 #
 # Last versions recommanded by security team:
-#   - kernel.x86_64:2.6.18-409.el5
-#   - kernel-devel.x86_64:2.6.18-409.el5
-#   - kernel-doc.noarch:2.6.18-409.el5
-#   - kernel-headers.x86_64:2.6.18-409.el5
-#   - kernel-xen.x86_64:2.6.18-409.el5
-#   - kernel-xen-devel.x86_64:2.6.18-409.el5
+#   - kernel.x86_64:2.6.18-416.el5
+#   - kernel-devel.x86_64:2.6.18-416.el5
+#   - kernel-doc.noarch:2.6.18-416.el5
+#   - kernel-headers.x86_64:2.6.18-416.el5
+#   - kernel-xen.x86_64:2.6.18-416.el5
+#   - kernel-xen-devel.x86_64:2.6.18-416.el5
 #   - openssl.i386:0.9.8b-10.el5_2.1
 #   - openssl-devel.i386:0.9.8e-40.el5_11
 #   - openssl-perl.i386:0.9.6b-48
