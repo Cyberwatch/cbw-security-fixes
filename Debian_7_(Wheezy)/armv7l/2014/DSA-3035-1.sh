@@ -4,7 +4,7 @@
 # Security fix for DSA-3035-1
 #
 # Security announcement date: 2014-09-25 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:04 UTC
+# Script generation date:     2016-10-29 21:08:20 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -16,7 +16,7 @@
 #   - bash-doc:4.2+dfsg-0.1+deb7u3
 #
 # Last versions recommanded by security team:
-#   - bash:4.2+dfsg-0.1+deb7u3
+#   - bash:4.2+dfsg-0.1+deb7u4
 #   - bash-static:4.2+dfsg-0.1+deb7u3
 #   - bash-builtins:4.2+dfsg-0.1+deb7u3
 #   - bash-doc:4.2+dfsg-0.1+deb7u3
@@ -30,7 +30,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade bash=4.2+dfsg-0.1+deb7u3 -y
+sudo apt-get install --only-upgrade bash=4.2+dfsg-0.1+deb7u4 -y
 sudo apt-get install --only-upgrade bash-static=4.2+dfsg-0.1+deb7u3 -y
 sudo apt-get install --only-upgrade bash-builtins=4.2+dfsg-0.1+deb7u3 -y
 sudo apt-get install --only-upgrade bash-doc=4.2+dfsg-0.1+deb7u3 -y
