@@ -1,25 +1,24 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-619-1
+# Security fix for DLA-674-2
 #
-# Security announcement date: 2016-09-11 00:00:00 UTC
-# Script generation date:     2016-10-30 21:14:11 UTC
+# Security announcement date: 2016-10-28 00:00:00 UTC
+# Script generation date:     2016-10-30 21:14:15 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - qemu-kvm:1.1.2+dfsg-6+deb7u15
+#   - ghostscript:9.05~dfsg-6.3+deb7u4
 #
 # Last versions recommanded by security team:
-#   - qemu-kvm:1.1.2+dfsg-6+deb7u18
+#   - ghostscript:9.05~dfsg-6.3+deb7u4
 #
 # CVE List:
-#   - CVE-2016-7116
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu-kvm=1.1.2+dfsg-6+deb7u18 -y
+sudo apt-get install --only-upgrade ghostscript=9.05~dfsg-6.3+deb7u4 -y

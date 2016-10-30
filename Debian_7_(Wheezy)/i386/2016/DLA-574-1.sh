@@ -4,7 +4,7 @@
 # Security fix for DLA-574-1
 #
 # Security announcement date: 2016-07-30 00:00:00 UTC
-# Script generation date:     2016-10-26 21:11:21 UTC
+# Script generation date:     2016-10-30 21:14:09 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - qemu-kvm:1.1.2+dfsg-6+deb7u14
 #
 # Last versions recommanded by security team:
-#   - qemu-kvm:1.1.2+dfsg-6+deb7u17
+#   - qemu-kvm:1.1.2+dfsg-6+deb7u18
 #
 # CVE List:
 #   - CVE-2015-5239
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu-kvm=1.1.2+dfsg-6+deb7u17 -y
+sudo apt-get install --only-upgrade qemu-kvm=1.1.2+dfsg-6+deb7u18 -y
