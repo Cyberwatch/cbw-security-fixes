@@ -4,7 +4,7 @@
 # Security fix for DSA-3057-1
 #
 # Security announcement date: 2014-10-26 00:00:00 UTC
-# Script generation date:     2016-08-04 21:12:59 UTC
+# Script generation date:     2016-10-31 21:08:04 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - libxml2:2.8.0+dfsg1-7+wheezy2
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.8.0+dfsg1-7+wheezy6
+#   - libxml2:2.8.0+dfsg1-7+wheezy7
 #
 # CVE List:
 #   - CVE-2014-3660
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.8.0+dfsg1-7+wheezy6 -y
+sudo apt-get install --only-upgrade libxml2=2.8.0+dfsg1-7+wheezy7 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3430-1
 #
 # Security announcement date: 2015-12-23 00:00:00 UTC
-# Script generation date:     2016-08-04 21:14:06 UTC
+# Script generation date:     2016-10-31 21:09:35 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - libxml2:2.8.0+dfsg1-7+wheezy5
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.8.0+dfsg1-7+wheezy6
+#   - libxml2:2.8.0+dfsg1-7+wheezy7
 #
 # CVE List:
 #   - CVE-2015-1819
@@ -33,4 +33,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.8.0+dfsg1-7+wheezy6 -y
+sudo apt-get install --only-upgrade libxml2=2.8.0+dfsg1-7+wheezy7 -y
