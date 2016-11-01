@@ -4,7 +4,7 @@
 # Security fix for USN-3030-1
 #
 # Security announcement date: 2016-07-11 00:00:00 UTC
-# Script generation date:     2016-07-13 21:08:18 UTC
+# Script generation date:     2016-11-01 21:05:36 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -14,8 +14,8 @@
 #   - libgd2-noxpm:2.0.36~rc1~dfsg-6ubuntu2.2
 #
 # Last versions recommanded by security team:
-#   - libgd2-xpm:2.0.36~rc1~dfsg-6ubuntu2.2
-#   - libgd2-noxpm:2.0.36~rc1~dfsg-6ubuntu2.2
+#   - libgd2-xpm:2.0.36~rc1~dfsg-6ubuntu2.3
+#   - libgd2-noxpm:2.0.36~rc1~dfsg-6ubuntu2.3
 #
 # CVE List:
 #   - CVE-2013-7456
@@ -28,5 +28,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgd2-xpm=2.0.36~rc1~dfsg-6ubuntu2.2 -y
-sudo apt-get install --only-upgrade libgd2-noxpm=2.0.36~rc1~dfsg-6ubuntu2.2 -y
+sudo apt-get install --only-upgrade libgd2-xpm=2.0.36~rc1~dfsg-6ubuntu2.3 -y
+sudo apt-get install --only-upgrade libgd2-noxpm=2.0.36~rc1~dfsg-6ubuntu2.3 -y

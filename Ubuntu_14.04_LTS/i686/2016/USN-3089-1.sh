@@ -4,7 +4,7 @@
 # Security fix for USN-3089-1
 #
 # Security announcement date: 2016-09-27 00:00:00 UTC
-# Script generation date:     2016-10-22 21:04:10 UTC
+# Script generation date:     2016-11-01 21:05:48 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,7 +13,7 @@
 #   - python-django:1.6.1-2ubuntu0.15
 #
 # Last versions recommanded by security team:
-#   - python-django:1.6.1-2ubuntu0.15
+#   - python-django:1.6.1-2ubuntu0.16
 #
 # CVE List:
 #   - CVE-2016-7401
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.6.1-2ubuntu0.15 -y
+sudo apt-get install --only-upgrade python-django=1.6.1-2ubuntu0.16 -y

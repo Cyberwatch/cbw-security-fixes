@@ -4,7 +4,7 @@
 # Security fix for USN-3030-1
 #
 # Security announcement date: 2016-07-11 00:00:00 UTC
-# Script generation date:     2016-10-22 21:04:01 UTC
+# Script generation date:     2016-11-01 21:05:36 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libgd3:2.1.0-3ubuntu0.2
 #
 # Last versions recommanded by security team:
-#   - libgd3:2.1.0-3ubuntu0.3
+#   - libgd3:2.1.0-3ubuntu0.5
 #
 # CVE List:
 #   - CVE-2013-7456
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgd3=2.1.0-3ubuntu0.3 -y
+sudo apt-get install --only-upgrade libgd3=2.1.0-3ubuntu0.5 -y

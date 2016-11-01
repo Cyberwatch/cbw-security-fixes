@@ -4,7 +4,7 @@
 # Security fix for USN-2347-1
 #
 # Security announcement date: 2014-09-16 00:00:00 UTC
-# Script generation date:     2016-10-22 21:01:16 UTC
+# Script generation date:     2016-11-01 21:01:27 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - python-django:1.6.1-2ubuntu0.4
 #
 # Last versions recommanded by security team:
-#   - python-django:1.6.1-2ubuntu0.15
+#   - python-django:1.6.1-2ubuntu0.16
 #
 # CVE List:
 #   - CVE-2014-0480
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-django=1.6.1-2ubuntu0.15 -y
+sudo apt-get install --only-upgrade python-django=1.6.1-2ubuntu0.16 -y
