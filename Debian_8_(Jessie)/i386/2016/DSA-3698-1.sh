@@ -4,7 +4,7 @@
 # Security fix for DSA-3698-1
 #
 # Security announcement date: 2016-10-24 00:00:00 UTC
-# Script generation date:     2016-10-26 21:07:55 UTC
+# Script generation date:     2016-11-01 21:13:22 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
@@ -82,6 +82,7 @@
 #   - php5-xsl:5.6.27+dfsg-0+deb8u1
 #
 # CVE List:
+#   - CVE-2016-9137
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
