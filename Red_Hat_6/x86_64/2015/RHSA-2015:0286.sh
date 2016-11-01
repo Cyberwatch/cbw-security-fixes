@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:0286
 #
 # Security announcement date: 2015-03-03 13:55:31 UTC
-# Script generation date:     2016-05-12 18:12:46 UTC
+# Script generation date:     2016-11-01 21:24:22 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -15,7 +15,7 @@
 #
 # Last versions recommanded by security team:
 #   - redhat-release-computenode.x86_64:6ComputeNode-6.5.0.3.el6_5
-#   - redhat-release-server.x86_64:6Server-6.5.0.3.el6_5.2
+#   - redhat-release-server.x86_64:6Server-6.6.0.5.el6_6
 #
 # CVE List:
 #
