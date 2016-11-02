@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:0690
 #
 # Security announcement date: 2013-03-28 22:24:25 UTC
-# Script generation date:     2016-10-21 21:14:32 UTC
+# Script generation date:     2016-11-02 21:24:05 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -21,15 +21,15 @@
 #   - bind97-libs.i386:9.7.0-17.P2.el5_9.1
 #
 # Last versions recommanded by security team:
-#   - bind97.x86_64:9.7.0-21.P2.el5_11.8
-#   - bind97-chroot.x86_64:9.7.0-21.P2.el5_11.8
-#   - bind97-debuginfo.x86_64:9.7.0-21.P2.el5_11.8
-#   - bind97-devel.x86_64:9.7.0-21.P2.el5_11.8
-#   - bind97-libs.x86_64:9.7.0-21.P2.el5_11.8
-#   - bind97-utils.x86_64:9.7.0-21.P2.el5_11.8
-#   - bind97-debuginfo.i386:9.7.0-21.P2.el5_11.8
-#   - bind97-devel.i386:9.7.0-21.P2.el5_11.8
-#   - bind97-libs.i386:9.7.0-21.P2.el5_11.8
+#   - bind97.x86_64:9.7.0-21.P2.el5_11.9
+#   - bind97-chroot.x86_64:9.7.0-21.P2.el5_11.9
+#   - bind97-debuginfo.x86_64:9.7.0-21.P2.el5_11.9
+#   - bind97-devel.x86_64:9.7.0-21.P2.el5_11.9
+#   - bind97-libs.x86_64:9.7.0-21.P2.el5_11.9
+#   - bind97-utils.x86_64:9.7.0-21.P2.el5_11.9
+#   - bind97-debuginfo.i386:9.7.0-21.P2.el5_11.9
+#   - bind97-devel.i386:9.7.0-21.P2.el5_11.9
+#   - bind97-libs.i386:9.7.0-21.P2.el5_11.9
 #
 # CVE List:
 #   - CVE-2013-2266
