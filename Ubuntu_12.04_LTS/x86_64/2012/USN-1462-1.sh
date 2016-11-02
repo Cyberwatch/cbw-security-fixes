@@ -4,7 +4,7 @@
 # Security fix for USN-1462-1
 #
 # Security announcement date: 2012-06-05 00:00:00 UTC
-# Script generation date:     2016-10-21 21:00:25 UTC
+# Script generation date:     2016-11-02 21:00:19 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libdns81:1:9.8.1.dfsg.P1-4ubuntu0.1
 #
 # Last versions recommanded by security team:
-#   - libdns81:1:9.8.1.dfsg.P1-4ubuntu0.18
+#   - libdns81:1:9.8.1.dfsg.P1-4ubuntu0.19
 #
 # CVE List:
 #   - CVE-2012-1667
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libdns81=1:9.8.1.dfsg.P1-4ubuntu0.18 -y
+sudo apt-get install --only-upgrade libdns81=1:9.8.1.dfsg.P1-4ubuntu0.19 -y
