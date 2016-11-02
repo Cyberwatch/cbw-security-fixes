@@ -4,7 +4,7 @@
 # Security fix for DLA-606-1
 #
 # Security announcement date: 2016-08-30 00:00:00 UTC
-# Script generation date:     2016-09-01 21:14:19 UTC
+# Script generation date:     2016-11-02 21:17:43 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - tiff:4.0.2-6+deb7u6
 #
 # Last versions recommanded by security team:
-#   - tiff:4.0.2-6+deb7u6
+#   - tiff:4.0.2-6+deb7u7
 #
 # CVE List:
 #   - CVE-2016-3991
@@ -31,4 +31,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tiff=4.0.2-6+deb7u6 -y
+sudo apt-get install --only-upgrade tiff=4.0.2-6+deb7u7 -y
