@@ -4,7 +4,7 @@
 # Security fix for DSA-3273-1
 #
 # Security announcement date: 2015-05-25 00:00:00 UTC
-# Script generation date:     2016-08-31 21:08:49 UTC
+# Script generation date:     2016-11-02 21:12:57 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -20,7 +20,7 @@
 #   - libtiff-doc:4.0.2-6+deb7u4
 #
 # Last versions recommanded by security team:
-#   - tiff:4.0.2-6+deb7u6
+#   - tiff:4.0.2-6+deb7u7
 #   - libtiff5:4.0.2-6+deb7u4
 #   - libtiffxx5:4.0.2-6+deb7u4
 #   - libtiff5-dev:4.0.2-6+deb7u4
@@ -41,7 +41,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tiff=4.0.2-6+deb7u6 -y
+sudo apt-get install --only-upgrade tiff=4.0.2-6+deb7u7 -y
 sudo apt-get install --only-upgrade libtiff5=4.0.2-6+deb7u4 -y
 sudo apt-get install --only-upgrade libtiffxx5=4.0.2-6+deb7u4 -y
 sudo apt-get install --only-upgrade libtiff5-dev=4.0.2-6+deb7u4 -y
