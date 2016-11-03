@@ -4,7 +4,7 @@
 # Security fix for DLA-645-1
 #
 # Security announcement date: 2016-10-05 00:00:00 UTC
-# Script generation date:     2016-10-20 21:13:26 UTC
+# Script generation date:     2016-11-03 21:15:26 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - bind9:1:9.8.4.dfsg.P1-6+nmu2+deb7u11
 #
 # Last versions recommanded by security team:
-#   - bind9:1:9.8.4.dfsg.P1-6+nmu2+deb7u12
+#   - bind9:1:9.8.4.dfsg.P1-6+nmu2+deb7u13
 #
 # CVE List:
 #   - CVE-2016-2775
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade bind9=1:9.8.4.dfsg.P1-6+nmu2+deb7u12 -y
+sudo apt-get install --only-upgrade bind9=1:9.8.4.dfsg.P1-6+nmu2+deb7u13 -y

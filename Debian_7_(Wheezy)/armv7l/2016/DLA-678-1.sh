@@ -4,7 +4,7 @@
 # Security fix for DLA-678-1
 #
 # Security announcement date: 2016-10-25 00:00:00 UTC
-# Script generation date:     2016-10-27 21:14:04 UTC
+# Script generation date:     2016-11-03 21:15:28 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - qemu:1.1.2+dfsg-6+deb7u17
 #
 # Last versions recommanded by security team:
-#   - qemu:1.1.2+dfsg-6+deb7u17
+#   - qemu:1.1.2+dfsg-6+deb7u18
 #
 # CVE List:
 #   - CVE-2016-8576
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu=1.1.2+dfsg-6+deb7u17 -y
+sudo apt-get install --only-upgrade qemu=1.1.2+dfsg-6+deb7u18 -y
