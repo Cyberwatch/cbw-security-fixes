@@ -4,7 +4,7 @@
 # Security fix for USN-2080-1
 #
 # Security announcement date: 2014-01-13 00:00:00 UTC
-# Script generation date:     2016-06-20 13:26:23 UTC
+# Script generation date:     2016-11-03 21:00:49 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - memcached:1.4.13-0ubuntu2.1
 #
 # Last versions recommanded by security team:
-#   - memcached:1.4.13-0ubuntu2.1
+#   - memcached:1.4.13-0ubuntu2.2
 #
 # CVE List:
 #   - CVE-2011-4971
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade memcached=1.4.13-0ubuntu2.1 -y
+sudo apt-get install --only-upgrade memcached=1.4.13-0ubuntu2.2 -y
