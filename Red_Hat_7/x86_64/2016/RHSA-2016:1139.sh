@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:1139
 #
 # Security announcement date: 2016-05-31 06:22:53 UTC
-# Script generation date:     2016-06-02 18:17:59 UTC
+# Script generation date:     2016-11-03 21:24:24 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - squid-sysvinit.x86_64:3.3.8-26.el7_2.3
 #
 # Last versions recommanded by security team:
-#   - squid.x86_64:3.3.8-26.el7_2.3
-#   - squid-debuginfo.x86_64:3.3.8-26.el7_2.3
-#   - squid-sysvinit.x86_64:3.3.8-26.el7_2.3
+#   - squid.x86_64:3.5.20-2.el7
+#   - squid-debuginfo.x86_64:3.5.20-2.el7
+#   - squid-sysvinit.x86_64:3.5.20-2.el7
 #
 # CVE List:
 #   - CVE-2016-4051
@@ -34,6 +34,6 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install squid.x86_64-3.3.8 -y 
-sudo yum install squid-debuginfo.x86_64-3.3.8 -y 
-sudo yum install squid-sysvinit.x86_64-3.3.8 -y 
+sudo yum install squid.x86_64-3.5.20 -y 
+sudo yum install squid-debuginfo.x86_64-3.5.20 -y 
+sudo yum install squid-sysvinit.x86_64-3.5.20 -y 

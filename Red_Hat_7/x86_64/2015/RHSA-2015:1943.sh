@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1943
 #
 # Security announcement date: 2015-10-27 09:00:19 UTC
-# Script generation date:     2016-08-12 21:45:04 UTC
+# Script generation date:     2016-11-03 21:23:55 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -24,11 +24,11 @@
 #
 # Last versions recommanded by security team:
 #   - libcacard.x86_64:1.5.3-105.el7_2.7
-#   - qemu-img.x86_64:1.5.3-105.el7_2.7
-#   - qemu-kvm.x86_64:1.5.3-105.el7_2.7
-#   - qemu-kvm-common.x86_64:1.5.3-105.el7_2.7
-#   - qemu-kvm-debuginfo.x86_64:1.5.3-105.el7_2.7
-#   - qemu-kvm-tools.x86_64:1.5.3-105.el7_2.7
+#   - qemu-img.x86_64:1.5.3-126.el7
+#   - qemu-kvm.x86_64:1.5.3-126.el7
+#   - qemu-kvm-common.x86_64:1.5.3-126.el7
+#   - qemu-kvm-debuginfo.x86_64:1.5.3-126.el7
+#   - qemu-kvm-tools.x86_64:1.5.3-126.el7
 #   - libcacard-devel.x86_64:1.5.3-105.el7_2.7
 #   - libcacard-tools.x86_64:1.5.3-105.el7_2.7
 #   - libcacard.i686:1.5.3-105.el7_2.7

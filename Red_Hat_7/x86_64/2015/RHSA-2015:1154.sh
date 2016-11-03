@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1154
 #
 # Security announcement date: 2015-06-23 12:07:45 UTC
-# Script generation date:     2016-05-12 18:13:02 UTC
+# Script generation date:     2016-11-03 21:23:31 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - libreswan-debuginfo.x86_64:3.12-10.1.el7_1
 #
 # Last versions recommanded by security team:
-#   - libreswan.x86_64:3.15-5.el7_1
-#   - libreswan-debuginfo.x86_64:3.15-5.el7_1
+#   - libreswan.x86_64:3.15-8.el7
+#   - libreswan-debuginfo.x86_64:3.15-8.el7
 #
 # CVE List:
 #   - CVE-2015-3204

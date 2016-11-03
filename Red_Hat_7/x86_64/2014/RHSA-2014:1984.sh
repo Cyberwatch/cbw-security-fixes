@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1984
 #
 # Security announcement date: 2014-12-12 03:48:59 UTC
-# Script generation date:     2016-09-28 21:16:04 UTC
+# Script generation date:     2016-11-03 21:23:06 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -28,22 +28,22 @@
 #   - bind-lite-devel.i686:9.9.4-14.el7_0.1
 #
 # Last versions recommanded by security team:
-#   - bind-license.noarch:9.9.4-29.el7_2.4
-#   - bind-debuginfo.x86_64:9.9.4-29.el7_2.4
-#   - bind-libs.x86_64:9.9.4-29.el7_2.4
-#   - bind-libs-lite.x86_64:9.9.4-29.el7_2.4
-#   - bind-utils.x86_64:9.9.4-29.el7_2.4
-#   - bind.x86_64:9.9.4-29.el7_2.4
-#   - bind-chroot.x86_64:9.9.4-29.el7_2.4
-#   - bind-devel.x86_64:9.9.4-29.el7_2.4
-#   - bind-lite-devel.x86_64:9.9.4-29.el7_2.4
-#   - bind-sdb.x86_64:9.9.4-29.el7_2.4
-#   - bind-sdb-chroot.x86_64:9.9.4-29.el7_2.4
-#   - bind-debuginfo.i686:9.9.4-29.el7_2.4
-#   - bind-libs.i686:9.9.4-29.el7_2.4
-#   - bind-libs-lite.i686:9.9.4-29.el7_2.4
-#   - bind-devel.i686:9.9.4-29.el7_2.4
-#   - bind-lite-devel.i686:9.9.4-29.el7_2.4
+#   - bind-license.noarch:9.9.4-38.el7_3
+#   - bind-debuginfo.x86_64:9.9.4-38.el7_3
+#   - bind-libs.x86_64:9.9.4-38.el7_3
+#   - bind-libs-lite.x86_64:9.9.4-38.el7_3
+#   - bind-utils.x86_64:9.9.4-38.el7_3
+#   - bind.x86_64:9.9.4-38.el7_3
+#   - bind-chroot.x86_64:9.9.4-38.el7_3
+#   - bind-devel.x86_64:9.9.4-38.el7_3
+#   - bind-lite-devel.x86_64:9.9.4-38.el7_3
+#   - bind-sdb.x86_64:9.9.4-38.el7_3
+#   - bind-sdb-chroot.x86_64:9.9.4-38.el7_3
+#   - bind-debuginfo.i686:9.9.4-38.el7_3
+#   - bind-libs.i686:9.9.4-38.el7_3
+#   - bind-libs-lite.i686:9.9.4-38.el7_3
+#   - bind-devel.i686:9.9.4-38.el7_3
+#   - bind-lite-devel.i686:9.9.4-38.el7_3
 #
 # CVE List:
 #   - CVE-2014-8500

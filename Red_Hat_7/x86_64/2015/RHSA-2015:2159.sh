@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:2159
 #
 # Security announcement date: 2015-11-19 21:36:36 UTC
-# Script generation date:     2016-05-12 18:13:26 UTC
+# Script generation date:     2016-11-03 21:23:58 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - libcurl-devel.i686:7.29.0-25.el7
 #
 # Last versions recommanded by security team:
-#   - curl.x86_64:7.29.0-25.el7
-#   - curl-debuginfo.x86_64:7.29.0-25.el7
-#   - libcurl.x86_64:7.29.0-25.el7
-#   - libcurl-devel.x86_64:7.29.0-25.el7
-#   - curl-debuginfo.i686:7.29.0-25.el7
-#   - libcurl.i686:7.29.0-25.el7
-#   - libcurl-devel.i686:7.29.0-25.el7
+#   - curl.x86_64:7.29.0-35.el7
+#   - curl-debuginfo.x86_64:7.29.0-35.el7
+#   - libcurl.x86_64:7.29.0-35.el7
+#   - libcurl-devel.x86_64:7.29.0-35.el7
+#   - curl-debuginfo.i686:7.29.0-35.el7
+#   - libcurl.i686:7.29.0-35.el7
+#   - libcurl-devel.i686:7.29.0-35.el7
 #
 # CVE List:
 #   - CVE-2014-3613

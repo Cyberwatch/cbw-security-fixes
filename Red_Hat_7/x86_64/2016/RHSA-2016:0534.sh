@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0534
 #
 # Security announcement date: 2016-04-01 06:46:28 UTC
-# Script generation date:     2016-08-11 21:42:23 UTC
+# Script generation date:     2016-11-03 21:24:16 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -26,20 +26,20 @@
 #   - mariadb-test.x86_64:5.5.47-1.el7_2
 #
 # Last versions recommanded by security team:
-#   - mariadb.x86_64:5.5.50-1.el7_2
-#   - mariadb-debuginfo.i686:5.5.50-1.el7_2
-#   - mariadb-debuginfo.x86_64:5.5.50-1.el7_2
-#   - mariadb-libs.i686:5.5.50-1.el7_2
-#   - mariadb-libs.x86_64:5.5.50-1.el7_2
-#   - mariadb-server.x86_64:5.5.50-1.el7_2
-#   - mariadb-bench.x86_64:5.5.50-1.el7_2
-#   - mariadb-devel.i686:5.5.50-1.el7_2
-#   - mariadb-devel.x86_64:5.5.50-1.el7_2
-#   - mariadb-embedded.i686:5.5.50-1.el7_2
-#   - mariadb-embedded.x86_64:5.5.50-1.el7_2
-#   - mariadb-embedded-devel.i686:5.5.50-1.el7_2
-#   - mariadb-embedded-devel.x86_64:5.5.50-1.el7_2
-#   - mariadb-test.x86_64:5.5.50-1.el7_2
+#   - mariadb.x86_64:5.5.52-1.el7
+#   - mariadb-debuginfo.i686:5.5.52-1.el7
+#   - mariadb-debuginfo.x86_64:5.5.52-1.el7
+#   - mariadb-libs.i686:5.5.52-1.el7
+#   - mariadb-libs.x86_64:5.5.52-1.el7
+#   - mariadb-server.x86_64:5.5.52-1.el7
+#   - mariadb-bench.x86_64:5.5.52-1.el7
+#   - mariadb-devel.i686:5.5.52-1.el7
+#   - mariadb-devel.x86_64:5.5.52-1.el7
+#   - mariadb-embedded.i686:5.5.52-1.el7
+#   - mariadb-embedded.x86_64:5.5.52-1.el7
+#   - mariadb-embedded-devel.i686:5.5.52-1.el7
+#   - mariadb-embedded-devel.x86_64:5.5.52-1.el7
+#   - mariadb-test.x86_64:5.5.52-1.el7
 #
 # CVE List:
 #   - CVE-2015-4792
@@ -71,17 +71,17 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install mariadb.x86_64-5.5.50 -y 
-sudo yum install mariadb-debuginfo.i686-5.5.50 -y 
-sudo yum install mariadb-debuginfo.x86_64-5.5.50 -y 
-sudo yum install mariadb-libs.i686-5.5.50 -y 
-sudo yum install mariadb-libs.x86_64-5.5.50 -y 
-sudo yum install mariadb-server.x86_64-5.5.50 -y 
-sudo yum install mariadb-bench.x86_64-5.5.50 -y 
-sudo yum install mariadb-devel.i686-5.5.50 -y 
-sudo yum install mariadb-devel.x86_64-5.5.50 -y 
-sudo yum install mariadb-embedded.i686-5.5.50 -y 
-sudo yum install mariadb-embedded.x86_64-5.5.50 -y 
-sudo yum install mariadb-embedded-devel.i686-5.5.50 -y 
-sudo yum install mariadb-embedded-devel.x86_64-5.5.50 -y 
-sudo yum install mariadb-test.x86_64-5.5.50 -y 
+sudo yum install mariadb.x86_64-5.5.52 -y 
+sudo yum install mariadb-debuginfo.i686-5.5.52 -y 
+sudo yum install mariadb-debuginfo.x86_64-5.5.52 -y 
+sudo yum install mariadb-libs.i686-5.5.52 -y 
+sudo yum install mariadb-libs.x86_64-5.5.52 -y 
+sudo yum install mariadb-server.x86_64-5.5.52 -y 
+sudo yum install mariadb-bench.x86_64-5.5.52 -y 
+sudo yum install mariadb-devel.i686-5.5.52 -y 
+sudo yum install mariadb-devel.x86_64-5.5.52 -y 
+sudo yum install mariadb-embedded.i686-5.5.52 -y 
+sudo yum install mariadb-embedded.x86_64-5.5.52 -y 
+sudo yum install mariadb-embedded-devel.i686-5.5.52 -y 
+sudo yum install mariadb-embedded-devel.x86_64-5.5.52 -y 
+sudo yum install mariadb-test.x86_64-5.5.52 -y 

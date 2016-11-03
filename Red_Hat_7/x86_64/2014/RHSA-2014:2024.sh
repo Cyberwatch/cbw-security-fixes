@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:2024
 #
 # Security announcement date: 2014-12-20 02:45:01 UTC
-# Script generation date:     2016-06-01 11:13:32 UTC
+# Script generation date:     2016-11-03 21:23:07 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - sntp.x86_64:4.2.6p5-19.el7_0
 #
 # Last versions recommanded by security team:
-#   - ntp.x86_64:4.2.6p5-22.el7_2.2
-#   - ntp-debuginfo.x86_64:4.2.6p5-22.el7_2.2
-#   - ntpdate.x86_64:4.2.6p5-22.el7_2.2
-#   - ntp-doc.noarch:4.2.6p5-22.el7_2.2
-#   - ntp-perl.noarch:4.2.6p5-22.el7_2.2
-#   - sntp.x86_64:4.2.6p5-22.el7_2.2
+#   - ntp.x86_64:4.2.6p5-25.el7
+#   - ntp-debuginfo.x86_64:4.2.6p5-25.el7
+#   - ntpdate.x86_64:4.2.6p5-25.el7
+#   - ntp-doc.noarch:4.2.6p5-25.el7
+#   - ntp-perl.noarch:4.2.6p5-25.el7
+#   - sntp.x86_64:4.2.6p5-25.el7
 #
 # CVE List:
 #   - CVE-2014-9293

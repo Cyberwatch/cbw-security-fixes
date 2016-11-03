@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:2231
 #
 # Security announcement date: 2015-11-19 21:38:21 UTC
-# Script generation date:     2016-06-01 11:14:14 UTC
+# Script generation date:     2016-11-03 21:23:58 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - sntp.x86_64:4.2.6p5-22.el7
 #
 # Last versions recommanded by security team:
-#   - ntp.x86_64:4.2.6p5-22.el7_2.2
-#   - ntp-debuginfo.x86_64:4.2.6p5-22.el7_2.2
-#   - ntpdate.x86_64:4.2.6p5-22.el7_2.2
-#   - ntp-doc.noarch:4.2.6p5-22.el7_2.2
-#   - ntp-perl.noarch:4.2.6p5-22.el7_2.2
-#   - sntp.x86_64:4.2.6p5-22.el7_2.2
+#   - ntp.x86_64:4.2.6p5-25.el7
+#   - ntp-debuginfo.x86_64:4.2.6p5-25.el7
+#   - ntpdate.x86_64:4.2.6p5-25.el7
+#   - ntp-doc.noarch:4.2.6p5-25.el7
+#   - ntp-perl.noarch:4.2.6p5-25.el7
+#   - sntp.x86_64:4.2.6p5-25.el7
 #
 # CVE List:
 #   - CVE-2014-9297

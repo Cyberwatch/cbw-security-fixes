@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:0776
 #
 # Security announcement date: 2015-04-02 19:35:13 UTC
-# Script generation date:     2016-05-13 06:14:11 UTC
+# Script generation date:     2016-11-03 21:23:22 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -19,8 +19,8 @@
 # Last versions recommanded by security team:
 #   - python-websocket-client.noarch:0.14.1-65.el7
 #   - atomic.x86_64:0-0.9.git4ff7dbd.el7
-#   - docker.x86_64:1.9.1-40.el7
-#   - docker-logrotate.x86_64:1.9.1-40.el7
+#   - docker.x86_64:1.10.3-55.el7
+#   - docker-logrotate.x86_64:1.10.3-55.el7
 #   - docker-python.x86_64:1.0.0-22.el7
 #
 # CVE List:
@@ -33,6 +33,6 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install python-websocket-client.noarch-0.14.1 -y 
 sudo yum install atomic.x86_64-0 -y 
-sudo yum install docker.x86_64-1.9.1 -y 
-sudo yum install docker-logrotate.x86_64-1.9.1 -y 
+sudo yum install docker.x86_64-1.10.3 -y 
+sudo yum install docker-logrotate.x86_64-1.10.3 -y 
 sudo yum install docker-python.x86_64-1.0.0 -y 

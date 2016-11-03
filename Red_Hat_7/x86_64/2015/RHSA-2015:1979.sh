@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1979
 #
 # Security announcement date: 2015-11-04 10:00:17 UTC
-# Script generation date:     2016-05-12 18:13:23 UTC
+# Script generation date:     2016-11-03 21:23:55 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - libreswan-debuginfo.x86_64:3.15-5.el7_1
 #
 # Last versions recommanded by security team:
-#   - libreswan.x86_64:3.15-5.el7_1
-#   - libreswan-debuginfo.x86_64:3.15-5.el7_1
+#   - libreswan.x86_64:3.15-8.el7
+#   - libreswan-debuginfo.x86_64:3.15-8.el7
 #
 # CVE List:
 #   - CVE-2015-3240
