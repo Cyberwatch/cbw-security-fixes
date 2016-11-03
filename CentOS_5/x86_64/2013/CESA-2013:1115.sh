@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1115
 #
 # Security announcement date: 2013-07-30 04:50:14 UTC
-# Script generation date:     2016-10-22 21:11:28 UTC
+# Script generation date:     2016-11-03 21:17:44 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - bind97-libs.i386:9.7.0-17.P2.el5_9.2
 #
 # Last versions recommanded by security team:
-#   - bind97.x86_64:9.7.0-21.P2.el5_11.8
-#   - bind97-chroot.x86_64:9.7.0-21.P2.el5_11.8
-#   - bind97-devel.x86_64:9.7.0-21.P2.el5_11.8
-#   - bind97-libs.x86_64:9.7.0-21.P2.el5_11.8
-#   - bind97-utils.x86_64:9.7.0-21.P2.el5_11.8
-#   - bind97-devel.i386:9.7.0-21.P2.el5_11.8
-#   - bind97-libs.i386:9.7.0-21.P2.el5_11.8
+#   - bind97.x86_64:9.7.0-21.P2.el5_11.9
+#   - bind97-chroot.x86_64:9.7.0-21.P2.el5_11.9
+#   - bind97-devel.x86_64:9.7.0-21.P2.el5_11.9
+#   - bind97-libs.x86_64:9.7.0-21.P2.el5_11.9
+#   - bind97-utils.x86_64:9.7.0-21.P2.el5_11.9
+#   - bind97-devel.i386:9.7.0-21.P2.el5_11.9
+#   - bind97-libs.i386:9.7.0-21.P2.el5_11.9
 #
 # CVE List:
 #   - CVE-2013-4854

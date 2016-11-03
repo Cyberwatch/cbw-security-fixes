@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:1459
 #
 # Security announcement date: 2011-11-18 13:25:41 UTC
-# Script generation date:     2016-10-22 21:10:56 UTC
+# Script generation date:     2016-11-03 21:17:11 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - bind97-libs.i386:9.7.0-6.P2.el5_7.4
 #
 # Last versions recommanded by security team:
-#   - bind97.x86_64:9.7.0-21.P2.el5_11.8
-#   - bind97-chroot.x86_64:9.7.0-21.P2.el5_11.8
-#   - bind97-devel.x86_64:9.7.0-21.P2.el5_11.8
-#   - bind97-libs.x86_64:9.7.0-21.P2.el5_11.8
-#   - bind97-utils.x86_64:9.7.0-21.P2.el5_11.8
-#   - bind97-devel.i386:9.7.0-21.P2.el5_11.8
-#   - bind97-libs.i386:9.7.0-21.P2.el5_11.8
+#   - bind97.x86_64:9.7.0-21.P2.el5_11.9
+#   - bind97-chroot.x86_64:9.7.0-21.P2.el5_11.9
+#   - bind97-devel.x86_64:9.7.0-21.P2.el5_11.9
+#   - bind97-libs.x86_64:9.7.0-21.P2.el5_11.9
+#   - bind97-utils.x86_64:9.7.0-21.P2.el5_11.9
+#   - bind97-devel.i386:9.7.0-21.P2.el5_11.9
+#   - bind97-libs.i386:9.7.0-21.P2.el5_11.9
 #
 # CVE List:
 #   - CVE-2011-4313
