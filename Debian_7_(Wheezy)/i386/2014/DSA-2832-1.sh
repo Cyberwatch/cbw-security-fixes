@@ -4,7 +4,7 @@
 # Security fix for DSA-2832-1
 #
 # Security announcement date: 2014-01-01 00:00:00 UTC
-# Script generation date:     2016-05-12 18:04:47 UTC
+# Script generation date:     2016-11-05 21:07:54 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - memcached:1.4.13-0.2+deb7u1
 #
 # Last versions recommanded by security team:
-#   - memcached:1.4.13-0.2+deb7u1
+#   - memcached:1.4.13-0.2+deb7u2
 #
 # CVE List:
 #   - CVE-2011-4971
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade memcached=1.4.13-0.2+deb7u1 -y
+sudo apt-get install --only-upgrade memcached=1.4.13-0.2+deb7u2 -y
