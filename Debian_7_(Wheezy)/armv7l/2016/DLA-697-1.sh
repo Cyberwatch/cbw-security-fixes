@@ -1,27 +1,25 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-514-1
+# Security fix for DLA-697-1
 #
-# Security announcement date: 2016-06-12 00:00:00 UTC
-# Script generation date:     2016-11-05 21:13:32 UTC
+# Security announcement date: 2016-11-03 00:00:00 UTC
+# Script generation date:     2016-11-05 21:13:41 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
 #
 # Vulnerable packages fix on version:
-#   - libxslt:1.1.26-14.1+deb7u1
+#   - bsdiff:4.3-14+deb7u1
 #
 # Last versions recommanded by security team:
-#   - libxslt:1.1.26-14.1+deb7u2
+#   - bsdiff:4.3-14+deb7u1
 #
 # CVE List:
-#   - CVE-2015-7995
-#   - CVE-2016-1683
-#   - CVE-2016-1684
+#   - CVE-2014-9862
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxslt=1.1.26-14.1+deb7u2 -y
+sudo apt-get install --only-upgrade bsdiff=4.3-14+deb7u1 -y
