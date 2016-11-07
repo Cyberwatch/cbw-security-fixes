@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1268
 #
 # Security announcement date: 2014-09-22 04:08:45 UTC
-# Script generation date:     2016-08-12 21:40:58 UTC
+# Script generation date:     2016-11-07 21:19:48 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -23,11 +23,11 @@
 #   - libcacard-devel-rhev.x86_64:2.3.0-31.el7_2.21
 #   - libcacard-rhev.x86_64:2.3.0-31.el7_2.21
 #   - libcacard-tools-rhev.x86_64:2.3.0-31.el7_2.21
-#   - qemu-img-rhev.x86_64:2.3.0-31.el7_2.21
-#   - qemu-kvm-common-rhev.x86_64:2.3.0-31.el7_2.21
-#   - qemu-kvm-rhev.x86_64:2.3.0-31.el7_2.21
-#   - qemu-kvm-rhev-debuginfo.x86_64:2.3.0-31.el7_2.21
-#   - qemu-kvm-tools-rhev.x86_64:2.3.0-31.el7_2.21
+#   - qemu-img-rhev.x86_64:2.6.0-27.el7
+#   - qemu-kvm-common-rhev.x86_64:2.6.0-27.el7
+#   - qemu-kvm-rhev.x86_64:2.6.0-27.el7
+#   - qemu-kvm-rhev-debuginfo.x86_64:2.6.0-27.el7
+#   - qemu-kvm-tools-rhev.x86_64:2.6.0-27.el7
 #
 # CVE List:
 #   - CVE-2013-4148
@@ -53,8 +53,8 @@
 sudo yum install libcacard-devel-rhev.x86_64-2.3.0 -y 
 sudo yum install libcacard-rhev.x86_64-2.3.0 -y 
 sudo yum install libcacard-tools-rhev.x86_64-2.3.0 -y 
-sudo yum install qemu-img-rhev.x86_64-2.3.0 -y 
-sudo yum install qemu-kvm-common-rhev.x86_64-2.3.0 -y 
-sudo yum install qemu-kvm-rhev.x86_64-2.3.0 -y 
-sudo yum install qemu-kvm-rhev-debuginfo.x86_64-2.3.0 -y 
-sudo yum install qemu-kvm-tools-rhev.x86_64-2.3.0 -y 
+sudo yum install qemu-img-rhev.x86_64-2.6.0 -y 
+sudo yum install qemu-kvm-common-rhev.x86_64-2.6.0 -y 
+sudo yum install qemu-kvm-rhev.x86_64-2.6.0 -y 
+sudo yum install qemu-kvm-rhev-debuginfo.x86_64-2.6.0 -y 
+sudo yum install qemu-kvm-tools-rhev.x86_64-2.6.0 -y 

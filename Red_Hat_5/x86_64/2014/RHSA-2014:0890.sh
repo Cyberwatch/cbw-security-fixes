@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:0890
 #
 # Security announcement date: 2014-07-16 05:29:56 UTC
-# Script generation date:     2016-07-27 21:39:20 UTC
+# Script generation date:     2016-11-07 21:19:38 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - java-1.7.0-openjdk-src.x86_64:1.7.0.65-2.5.1.2.el5_10
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-openjdk.x86_64:1.7.0.111-2.6.7.1.el5_11
-#   - java-1.7.0-openjdk-debuginfo.x86_64:1.7.0.111-2.6.7.1.el5_11
-#   - java-1.7.0-openjdk-demo.x86_64:1.7.0.111-2.6.7.1.el5_11
-#   - java-1.7.0-openjdk-devel.x86_64:1.7.0.111-2.6.7.1.el5_11
-#   - java-1.7.0-openjdk-javadoc.x86_64:1.7.0.111-2.6.7.1.el5_11
-#   - java-1.7.0-openjdk-src.x86_64:1.7.0.111-2.6.7.1.el5_11
+#   - java-1.7.0-openjdk.x86_64:1.7.0.121-2.6.8.1.el5_11
+#   - java-1.7.0-openjdk-debuginfo.x86_64:1.7.0.121-2.6.8.1.el5_11
+#   - java-1.7.0-openjdk-demo.x86_64:1.7.0.121-2.6.8.1.el5_11
+#   - java-1.7.0-openjdk-devel.x86_64:1.7.0.121-2.6.8.1.el5_11
+#   - java-1.7.0-openjdk-javadoc.x86_64:1.7.0.121-2.6.8.1.el5_11
+#   - java-1.7.0-openjdk-src.x86_64:1.7.0.121-2.6.8.1.el5_11
 #
 # CVE List:
 #   - CVE-2014-2483
@@ -44,9 +44,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.0-openjdk.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-openjdk-debuginfo.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-openjdk-demo.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-openjdk-devel.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-openjdk-javadoc.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-openjdk-src.x86_64-1.7.0.111 -y 
+sudo yum install java-1.7.0-openjdk.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-openjdk-debuginfo.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-openjdk-demo.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-openjdk-devel.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-openjdk-javadoc.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-openjdk-src.x86_64-1.7.0.121 -y 

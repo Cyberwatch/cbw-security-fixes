@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1091
 #
 # Security announcement date: 2015-06-11 18:31:48 UTC
-# Script generation date:     2016-05-12 18:13:01 UTC
+# Script generation date:     2016-11-07 21:20:31 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - java-1.6.0-ibm-devel.x86_64:1.6.0.16.4-1jpp.1.el6_6
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-ibm.x86_64:1.6.0.16.25-1jpp.1.el6_7
-#   - java-1.6.0-ibm-devel.x86_64:1.6.0.16.25-1jpp.1.el6_7
+#   - java-1.6.0-ibm.x86_64:1.6.0.16.35-1jpp.1.el6_8
+#   - java-1.6.0-ibm-devel.x86_64:1.6.0.16.35-1jpp.1.el6_8
 #
 # CVE List:
 #   - CVE-2005-1080
@@ -36,5 +36,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-ibm.x86_64-1.6.0.16.25 -y 
-sudo yum install java-1.6.0-ibm-devel.x86_64-1.6.0.16.25 -y 
+sudo yum install java-1.6.0-ibm.x86_64-1.6.0.16.35 -y 
+sudo yum install java-1.6.0-ibm-devel.x86_64-1.6.0.16.35 -y 

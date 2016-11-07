@@ -4,7 +4,7 @@
 # Security fix for RHSA-2010:0043
 #
 # Security announcement date: 2010-01-14 16:55:12 UTC
-# Script generation date:     2016-05-12 18:09:42 UTC
+# Script generation date:     2016-11-07 21:17:28 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - java-1.6.0-ibm-devel.x86_64:1.6.0.7-1jpp.2.el5
 #
 # Last versions recommanded by security team:
-#   - java-1.6.0-ibm.x86_64:1.6.0.16.25-1jpp.1.el5
-#   - java-1.6.0-ibm-devel.x86_64:1.6.0.16.25-1jpp.1.el5
+#   - java-1.6.0-ibm.x86_64:1.6.0.16.35-1jpp.1.el5_11
+#   - java-1.6.0-ibm-devel.x86_64:1.6.0.16.35-1jpp.1.el5_11
 #
 # CVE List:
 #   - CVE-2009-0217
@@ -58,5 +58,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.6.0-ibm.x86_64-1.6.0.16.25 -y 
-sudo yum install java-1.6.0-ibm-devel.x86_64-1.6.0.16.25 -y 
+sudo yum install java-1.6.0-ibm.x86_64-1.6.0.16.35 -y 
+sudo yum install java-1.6.0-ibm-devel.x86_64-1.6.0.16.35 -y 

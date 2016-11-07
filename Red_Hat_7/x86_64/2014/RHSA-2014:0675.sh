@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:0675
 #
 # Security announcement date: 2014-06-10 19:34:22 UTC
-# Script generation date:     2016-07-27 21:38:52 UTC
+# Script generation date:     2016-11-07 21:19:31 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - java-1.7.0-openjdk-src.x86_64:1.7.0.55-2.4.7.2.el7_0
 #
 # Last versions recommanded by security team:
-#   - java-1.7.0-openjdk.x86_64:1.7.0.111-2.6.7.2.el7_2
-#   - java-1.7.0-openjdk-debuginfo.x86_64:1.7.0.111-2.6.7.2.el7_2
-#   - java-1.7.0-openjdk-headless.x86_64:1.7.0.111-2.6.7.2.el7_2
-#   - java-1.7.0-openjdk-javadoc.noarch:1.7.0.111-2.6.7.2.el7_2
-#   - java-1.7.0-openjdk-accessibility.x86_64:1.7.0.111-2.6.7.2.el7_2
-#   - java-1.7.0-openjdk-demo.x86_64:1.7.0.111-2.6.7.2.el7_2
-#   - java-1.7.0-openjdk-devel.x86_64:1.7.0.111-2.6.7.2.el7_2
-#   - java-1.7.0-openjdk-src.x86_64:1.7.0.111-2.6.7.2.el7_2
+#   - java-1.7.0-openjdk.x86_64:1.7.0.121-2.6.8.0.el7_3
+#   - java-1.7.0-openjdk-debuginfo.x86_64:1.7.0.121-2.6.8.0.el7_3
+#   - java-1.7.0-openjdk-headless.x86_64:1.7.0.121-2.6.8.0.el7_3
+#   - java-1.7.0-openjdk-javadoc.noarch:1.7.0.121-2.6.8.0.el7_3
+#   - java-1.7.0-openjdk-accessibility.x86_64:1.7.0.121-2.6.8.0.el7_3
+#   - java-1.7.0-openjdk-demo.x86_64:1.7.0.121-2.6.8.0.el7_3
+#   - java-1.7.0-openjdk-devel.x86_64:1.7.0.121-2.6.8.0.el7_3
+#   - java-1.7.0-openjdk-src.x86_64:1.7.0.121-2.6.8.0.el7_3
 #
 # CVE List:
 #   - CVE-2014-0429
@@ -60,11 +60,11 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install java-1.7.0-openjdk.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-openjdk-debuginfo.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-openjdk-headless.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-openjdk-javadoc.noarch-1.7.0.111 -y 
-sudo yum install java-1.7.0-openjdk-accessibility.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-openjdk-demo.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-openjdk-devel.x86_64-1.7.0.111 -y 
-sudo yum install java-1.7.0-openjdk-src.x86_64-1.7.0.111 -y 
+sudo yum install java-1.7.0-openjdk.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-openjdk-debuginfo.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-openjdk-headless.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-openjdk-javadoc.noarch-1.7.0.121 -y 
+sudo yum install java-1.7.0-openjdk-accessibility.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-openjdk-demo.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-openjdk-devel.x86_64-1.7.0.121 -y 
+sudo yum install java-1.7.0-openjdk-src.x86_64-1.7.0.121 -y 
