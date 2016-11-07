@@ -4,7 +4,7 @@
 # Security fix for DSA-2923-1
 #
 # Security announcement date: 2014-05-05 00:00:00 UTC
-# Script generation date:     2016-08-04 21:12:45 UTC
+# Script generation date:     2016-11-07 21:07:33 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -13,7 +13,7 @@
 #   - openjdk-7:7u55-2.4.7-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - openjdk-7:7u111-2.6.7-1~deb7u1
+#   - openjdk-7:7u111-2.6.7-2~deb7u1
 #
 # CVE List:
 #   - CVE-2013-6629
@@ -47,4 +47,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openjdk-7=7u111-2.6.7-1~deb7u1 -y
+sudo apt-get install --only-upgrade openjdk-7=7u111-2.6.7-2~deb7u1 -y
