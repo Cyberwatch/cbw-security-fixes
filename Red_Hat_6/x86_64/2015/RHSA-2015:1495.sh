@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1495
 #
 # Security announcement date: 2015-07-29 05:44:17 UTC
-# Script generation date:     2016-05-12 18:13:08 UTC
+# Script generation date:     2016-11-08 21:17:40 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -279,15 +279,15 @@
 #   - openais-debuginfo.x86_64:1.1.1-7.el6
 #   - openaislib.x86_64:1.1.1-7.el6
 #   - openaislib-devel.x86_64:1.1.1-7.el6
-#   - pacemaker.x86_64:1.1.12-8.el6
-#   - pacemaker-cli.x86_64:1.1.12-8.el6
-#   - pacemaker-cluster-libs.x86_64:1.1.12-8.el6
-#   - pacemaker-cts.x86_64:1.1.12-8.el6
-#   - pacemaker-debuginfo.x86_64:1.1.12-8.el6
-#   - pacemaker-doc.x86_64:1.1.12-8.el6
-#   - pacemaker-libs.x86_64:1.1.12-8.el6
-#   - pacemaker-libs-devel.x86_64:1.1.12-8.el6
-#   - pacemaker-remote.x86_64:1.1.12-8.el6
+#   - pacemaker.x86_64:1.1.14-8.el6_8.2
+#   - pacemaker-cli.x86_64:1.1.14-8.el6_8.2
+#   - pacemaker-cluster-libs.x86_64:1.1.14-8.el6_8.2
+#   - pacemaker-cts.x86_64:1.1.14-8.el6_8.2
+#   - pacemaker-debuginfo.x86_64:1.1.14-8.el6_8.2
+#   - pacemaker-doc.x86_64:1.1.14-8.el6_8.2
+#   - pacemaker-libs.x86_64:1.1.14-8.el6_8.2
+#   - pacemaker-libs-devel.x86_64:1.1.14-8.el6_8.2
+#   - pacemaker-remote.x86_64:1.1.14-8.el6_8.2
 #   - pcs.x86_64:0.9.139-9.el6_7.1
 #   - pcs-debuginfo.x86_64:0.9.139-9.el6_7.1
 #   - pytalloc.x86_64:2.1.5-1.el6_7
@@ -443,15 +443,15 @@ sudo yum install openais.x86_64-1.1.1 -y
 sudo yum install openais-debuginfo.x86_64-1.1.1 -y 
 sudo yum install openaislib.x86_64-1.1.1 -y 
 sudo yum install openaislib-devel.x86_64-1.1.1 -y 
-sudo yum install pacemaker.x86_64-1.1.12 -y 
-sudo yum install pacemaker-cli.x86_64-1.1.12 -y 
-sudo yum install pacemaker-cluster-libs.x86_64-1.1.12 -y 
-sudo yum install pacemaker-cts.x86_64-1.1.12 -y 
-sudo yum install pacemaker-debuginfo.x86_64-1.1.12 -y 
-sudo yum install pacemaker-doc.x86_64-1.1.12 -y 
-sudo yum install pacemaker-libs.x86_64-1.1.12 -y 
-sudo yum install pacemaker-libs-devel.x86_64-1.1.12 -y 
-sudo yum install pacemaker-remote.x86_64-1.1.12 -y 
+sudo yum install pacemaker.x86_64-1.1.14 -y 
+sudo yum install pacemaker-cli.x86_64-1.1.14 -y 
+sudo yum install pacemaker-cluster-libs.x86_64-1.1.14 -y 
+sudo yum install pacemaker-cts.x86_64-1.1.14 -y 
+sudo yum install pacemaker-debuginfo.x86_64-1.1.14 -y 
+sudo yum install pacemaker-doc.x86_64-1.1.14 -y 
+sudo yum install pacemaker-libs.x86_64-1.1.14 -y 
+sudo yum install pacemaker-libs-devel.x86_64-1.1.14 -y 
+sudo yum install pacemaker-remote.x86_64-1.1.14 -y 
 sudo yum install pcs.x86_64-0.9.139 -y 
 sudo yum install pcs-debuginfo.x86_64-0.9.139 -y 
 sudo yum install pytalloc.x86_64-2.1.5 -y 
