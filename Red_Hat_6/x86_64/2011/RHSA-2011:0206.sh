@@ -4,7 +4,7 @@
 # Security fix for RHSA-2011:0206
 #
 # Security announcement date: 2011-02-09 18:00:02 UTC
-# Script generation date:     2016-10-27 21:19:33 UTC
+# Script generation date:     2016-11-09 21:20:23 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - flash-plugin.i686:10.2.152.27-1.el6
 #
 # Last versions recommanded by security team:
-#   - flash-plugin.i686:11.2.202.643-1.el6_8
+#   - flash-plugin.i686:11.2.202.644-1.el6_8
 #
 # CVE List:
 #   - CVE-2011-0558
@@ -34,4 +34,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install flash-plugin.i686-11.2.202.643 -y 
+sudo yum install flash-plugin.i686-11.2.202.644 -y 
