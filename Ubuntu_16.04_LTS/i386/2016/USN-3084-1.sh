@@ -4,7 +4,7 @@
 # Security fix for USN-3084-1
 #
 # Security announcement date: 2016-09-19 00:00:00 UTC
-# Script generation date:     2016-10-20 21:04:20 UTC
+# Script generation date:     2016-11-09 21:05:33 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: i386
@@ -37,13 +37,13 @@
 #   - linux-image-4.4.0-38-powerpc64-emb:4.4.0-38.57
 #   - linux-image-4.4.0-38-powerpc64-smp:4.4.0-38.57
 #   - linux-image-4.4.0-38-generic:4.4.0-38.57
-#   - linux-source-4.4.0:4.4.0-45.66
-#   - linux-doc:4.4.0-45.66
+#   - linux-source-4.4.0:4.4.0-47.68
+#   - linux-doc:4.4.0-47.68
 #   - linux-headers-4.4.0-38:4.4.0-38.57
-#   - linux-libc-dev:4.4.0-45.66
-#   - linux-tools-common:4.4.0-45.66
+#   - linux-libc-dev:4.4.0-47.68
+#   - linux-tools-common:4.4.0-47.68
 #   - linux-tools-4.4.0-38:4.4.0-38.57
-#   - linux-cloud-tools-common:4.4.0-45.66
+#   - linux-cloud-tools-common:4.4.0-47.68
 #   - linux-cloud-tools-4.4.0-38:4.4.0-38.57
 #   - linux-image-extra-4.4.0-38-generic:4.4.0-38.57
 #   - linux-headers-4.4.0-38-generic:4.4.0-38.57
@@ -69,13 +69,13 @@
 sudo apt-get install --only-upgrade linux-image-4.4.0-38-powerpc64-emb=4.4.0-38.57 -y
 sudo apt-get install --only-upgrade linux-image-4.4.0-38-powerpc64-smp=4.4.0-38.57 -y
 sudo apt-get install --only-upgrade linux-image-4.4.0-38-generic=4.4.0-38.57 -y
-sudo apt-get install --only-upgrade linux-source-4.4.0=4.4.0-45.66 -y
-sudo apt-get install --only-upgrade linux-doc=4.4.0-45.66 -y
+sudo apt-get install --only-upgrade linux-source-4.4.0=4.4.0-47.68 -y
+sudo apt-get install --only-upgrade linux-doc=4.4.0-47.68 -y
 sudo apt-get install --only-upgrade linux-headers-4.4.0-38=4.4.0-38.57 -y
-sudo apt-get install --only-upgrade linux-libc-dev=4.4.0-45.66 -y
-sudo apt-get install --only-upgrade linux-tools-common=4.4.0-45.66 -y
+sudo apt-get install --only-upgrade linux-libc-dev=4.4.0-47.68 -y
+sudo apt-get install --only-upgrade linux-tools-common=4.4.0-47.68 -y
 sudo apt-get install --only-upgrade linux-tools-4.4.0-38=4.4.0-38.57 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=4.4.0-45.66 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-common=4.4.0-47.68 -y
 sudo apt-get install --only-upgrade linux-cloud-tools-4.4.0-38=4.4.0-38.57 -y
 sudo apt-get install --only-upgrade linux-image-extra-4.4.0-38-generic=4.4.0-38.57 -y
 sudo apt-get install --only-upgrade linux-headers-4.4.0-38-generic=4.4.0-38.57 -y

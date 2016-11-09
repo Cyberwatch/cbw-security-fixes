@@ -4,7 +4,7 @@
 # Security fix for USN-2678-1
 #
 # Security announcement date: 2015-07-23 00:00:00 UTC
-# Script generation date:     2016-10-20 21:02:39 UTC
+# Script generation date:     2016-11-09 21:03:01 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -27,7 +27,7 @@
 #   - linux-source-3.2.0:3.2.0-99.139
 #   - linux-doc:3.2.0-99.139
 #   - linux-tools-common:3.2.0-99.139
-#   - linux-libc-dev:3.2.0-113.155
+#   - linux-libc-dev:3.2.0-115.157
 #   - linux-image-3.2.0-88-powerpc64-smp:3.2.0-88.126
 #   - linux-image-3.2.0-88-virtual:3.2.0-88.126
 #   - linux-image-3.2.0-88-omap:3.2.0-88.126
@@ -47,7 +47,7 @@ sudo apt-get install --only-upgrade linux-image-3.2.0-88-generic-pae=3.2.0-88.12
 sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-99.139 -y
 sudo apt-get install --only-upgrade linux-doc=3.2.0-99.139 -y
 sudo apt-get install --only-upgrade linux-tools-common=3.2.0-99.139 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-113.155 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-115.157 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-88-powerpc64-smp=3.2.0-88.126 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-88-virtual=3.2.0-88.126 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-88-omap=3.2.0-88.126 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2840-1
 #
 # Security announcement date: 2015-12-17 00:00:00 UTC
-# Script generation date:     2016-10-20 21:03:17 UTC
+# Script generation date:     2016-11-09 21:04:06 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -27,7 +27,7 @@
 #   - linux-source-3.2.0:3.2.0-99.139
 #   - linux-doc:3.2.0-99.139
 #   - linux-tools-common:3.2.0-99.139
-#   - linux-libc-dev:3.2.0-113.155
+#   - linux-libc-dev:3.2.0-115.157
 #   - linux-image-3.2.0-96-powerpc-smp:3.2.0-96.136
 #   - linux-image-3.2.0-96-virtual:3.2.0-96.136
 #   - linux-image-3.2.0-96-highbank:3.2.0-96.136
@@ -47,7 +47,7 @@ sudo apt-get install --only-upgrade linux-image-3.2.0-96-generic=3.2.0-96.136 -y
 sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-99.139 -y
 sudo apt-get install --only-upgrade linux-doc=3.2.0-99.139 -y
 sudo apt-get install --only-upgrade linux-tools-common=3.2.0-99.139 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-113.155 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-115.157 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-96-powerpc-smp=3.2.0-96.136 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-96-virtual=3.2.0-96.136 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-96-highbank=3.2.0-96.136 -y

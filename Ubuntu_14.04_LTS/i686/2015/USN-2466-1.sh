@@ -4,7 +4,7 @@
 # Security fix for USN-2466-1
 #
 # Security announcement date: 2015-01-13 00:00:00 UTC
-# Script generation date:     2016-10-22 21:01:34 UTC
+# Script generation date:     2016-11-09 21:01:39 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -29,7 +29,7 @@
 #   - linux-image-3.13.0-44-lowlatency:3.13.0-44.73
 #   - linux-source-3.13.0:3.13.0-98.145
 #   - linux-doc:3.13.0-98.145
-#   - linux-libc-dev:3.13.0-100.147
+#   - linux-libc-dev:3.13.0-101.148
 #   - linux-tools-common:3.13.0-98.145
 #   - linux-cloud-tools-common:3.13.0-98.145
 #   - linux-image-3.13.0-44-powerpc64-smp:3.13.0-44.73
@@ -53,7 +53,7 @@ sudo apt-get install --only-upgrade linux-image-3.13.0-44-powerpc-smp=3.13.0-44.
 sudo apt-get install --only-upgrade linux-image-3.13.0-44-lowlatency=3.13.0-44.73 -y
 sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-98.145 -y
 sudo apt-get install --only-upgrade linux-doc=3.13.0-98.145 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-100.147 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-101.148 -y
 sudo apt-get install --only-upgrade linux-tools-common=3.13.0-98.145 -y
 sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-98.145 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-44-powerpc64-smp=3.13.0-44.73 -y

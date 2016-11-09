@@ -4,7 +4,7 @@
 # Security fix for USN-3047-2
 #
 # Security announcement date: 2016-08-12 00:00:00 UTC
-# Script generation date:     2016-08-14 21:08:41 UTC
+# Script generation date:     2016-11-09 21:05:29 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: x86_64
@@ -25,17 +25,17 @@
 #   - qemu-system-aarch64:1:2.5+dfsg-5ubuntu10.4
 #
 # Last versions recommanded by security team:
-#   - qemu-system-misc:1:2.5+dfsg-5ubuntu10.4
-#   - qemu-system:1:2.5+dfsg-5ubuntu10.4
-#   - qemu-block-extra:1:2.5+dfsg-5ubuntu10.4
-#   - qemu-system-common:1:2.5+dfsg-5ubuntu10.4
-#   - qemu-system-arm:1:2.5+dfsg-5ubuntu10.4
-#   - qemu-system-mips:1:2.5+dfsg-5ubuntu10.4
-#   - qemu-system-ppc:1:2.5+dfsg-5ubuntu10.4
-#   - qemu-system-sparc:1:2.5+dfsg-5ubuntu10.4
-#   - qemu-system-x86:1:2.5+dfsg-5ubuntu10.4
-#   - qemu-utils:1:2.5+dfsg-5ubuntu10.4
-#   - qemu-kvm:1:2.5+dfsg-5ubuntu10.4
+#   - qemu-system-misc:1:2.5+dfsg-5ubuntu10.6
+#   - qemu-system:1:2.5+dfsg-5ubuntu10.6
+#   - qemu-block-extra:1:2.5+dfsg-5ubuntu10.6
+#   - qemu-system-common:1:2.5+dfsg-5ubuntu10.6
+#   - qemu-system-arm:1:2.5+dfsg-5ubuntu10.6
+#   - qemu-system-mips:1:2.5+dfsg-5ubuntu10.6
+#   - qemu-system-ppc:1:2.5+dfsg-5ubuntu10.6
+#   - qemu-system-sparc:1:2.5+dfsg-5ubuntu10.6
+#   - qemu-system-x86:1:2.5+dfsg-5ubuntu10.6
+#   - qemu-utils:1:2.5+dfsg-5ubuntu10.6
+#   - qemu-kvm:1:2.5+dfsg-5ubuntu10.6
 #   - qemu-system-s390x:1:2.5+dfsg-5ubuntu10.4
 #   - qemu-system-aarch64:1:2.5+dfsg-5ubuntu10.4
 #
@@ -59,16 +59,16 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade qemu-system-misc=1:2.5+dfsg-5ubuntu10.4 -y
-sudo apt-get install --only-upgrade qemu-system=1:2.5+dfsg-5ubuntu10.4 -y
-sudo apt-get install --only-upgrade qemu-block-extra=1:2.5+dfsg-5ubuntu10.4 -y
-sudo apt-get install --only-upgrade qemu-system-common=1:2.5+dfsg-5ubuntu10.4 -y
-sudo apt-get install --only-upgrade qemu-system-arm=1:2.5+dfsg-5ubuntu10.4 -y
-sudo apt-get install --only-upgrade qemu-system-mips=1:2.5+dfsg-5ubuntu10.4 -y
-sudo apt-get install --only-upgrade qemu-system-ppc=1:2.5+dfsg-5ubuntu10.4 -y
-sudo apt-get install --only-upgrade qemu-system-sparc=1:2.5+dfsg-5ubuntu10.4 -y
-sudo apt-get install --only-upgrade qemu-system-x86=1:2.5+dfsg-5ubuntu10.4 -y
-sudo apt-get install --only-upgrade qemu-utils=1:2.5+dfsg-5ubuntu10.4 -y
-sudo apt-get install --only-upgrade qemu-kvm=1:2.5+dfsg-5ubuntu10.4 -y
+sudo apt-get install --only-upgrade qemu-system-misc=1:2.5+dfsg-5ubuntu10.6 -y
+sudo apt-get install --only-upgrade qemu-system=1:2.5+dfsg-5ubuntu10.6 -y
+sudo apt-get install --only-upgrade qemu-block-extra=1:2.5+dfsg-5ubuntu10.6 -y
+sudo apt-get install --only-upgrade qemu-system-common=1:2.5+dfsg-5ubuntu10.6 -y
+sudo apt-get install --only-upgrade qemu-system-arm=1:2.5+dfsg-5ubuntu10.6 -y
+sudo apt-get install --only-upgrade qemu-system-mips=1:2.5+dfsg-5ubuntu10.6 -y
+sudo apt-get install --only-upgrade qemu-system-ppc=1:2.5+dfsg-5ubuntu10.6 -y
+sudo apt-get install --only-upgrade qemu-system-sparc=1:2.5+dfsg-5ubuntu10.6 -y
+sudo apt-get install --only-upgrade qemu-system-x86=1:2.5+dfsg-5ubuntu10.6 -y
+sudo apt-get install --only-upgrade qemu-utils=1:2.5+dfsg-5ubuntu10.6 -y
+sudo apt-get install --only-upgrade qemu-kvm=1:2.5+dfsg-5ubuntu10.6 -y
 sudo apt-get install --only-upgrade qemu-system-s390x=1:2.5+dfsg-5ubuntu10.4 -y
 sudo apt-get install --only-upgrade qemu-system-aarch64=1:2.5+dfsg-5ubuntu10.4 -y

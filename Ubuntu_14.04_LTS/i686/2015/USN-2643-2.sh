@@ -4,7 +4,7 @@
 # Security fix for USN-2643-2
 #
 # Security announcement date: 2015-06-21 00:00:00 UTC
-# Script generation date:     2016-10-22 21:02:24 UTC
+# Script generation date:     2016-11-09 21:02:53 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -29,7 +29,7 @@
 #   - linux-image-3.13.0-55-generic:3.13.0-55.94
 #   - linux-source-3.13.0:3.13.0-98.145
 #   - linux-doc:3.13.0-98.145
-#   - linux-libc-dev:3.13.0-100.147
+#   - linux-libc-dev:3.13.0-101.148
 #   - linux-tools-common:3.13.0-98.145
 #   - linux-cloud-tools-common:3.13.0-98.145
 #   - linux-image-3.13.0-55-powerpc-e500mc:3.13.0-55.94
@@ -50,7 +50,7 @@ sudo apt-get install --only-upgrade linux-image-3.13.0-55-generic-lpae=3.13.0-55
 sudo apt-get install --only-upgrade linux-image-3.13.0-55-generic=3.13.0-55.94 -y
 sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-98.145 -y
 sudo apt-get install --only-upgrade linux-doc=3.13.0-98.145 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-100.147 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-101.148 -y
 sudo apt-get install --only-upgrade linux-tools-common=3.13.0-98.145 -y
 sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-98.145 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-55-powerpc-e500mc=3.13.0-55.94 -y
