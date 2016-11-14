@@ -4,7 +4,7 @@
 # Security fix for DSA-3440-1
 #
 # Security announcement date: 2016-01-11 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:54 UTC
+# Script generation date:     2016-11-14 21:06:32 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - sudo-ldap:1.8.5p2-1+nmu3+deb7u1
 #
 # Last versions recommanded by security team:
-#   - sudo:1.8.5p2-1+nmu3+deb7u1
-#   - sudo-ldap:1.8.5p2-1+nmu3+deb7u1
+#   - sudo:1.8.5p2-1+nmu3+deb7u2
+#   - sudo-ldap:1.8.5p2-1+nmu3+deb7u2
 #
 # CVE List:
 #   - CVE-2015-5602
@@ -24,5 +24,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade sudo=1.8.5p2-1+nmu3+deb7u1 -y
-sudo apt-get install --only-upgrade sudo-ldap=1.8.5p2-1+nmu3+deb7u1 -y
+sudo apt-get install --only-upgrade sudo=1.8.5p2-1+nmu3+deb7u2 -y
+sudo apt-get install --only-upgrade sudo-ldap=1.8.5p2-1+nmu3+deb7u2 -y

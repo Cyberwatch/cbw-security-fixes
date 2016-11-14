@@ -4,7 +4,7 @@
 # Security fix for DSA-3167-1
 #
 # Security announcement date: 2015-02-22 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:16 UTC
+# Script generation date:     2016-11-14 21:05:41 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -14,7 +14,7 @@
 #   - sudo-ldap:1.8.5p2-1+nmu2
 #
 # Last versions recommanded by security team:
-#   - sudo:1.8.5p2-1+nmu2
+#   - sudo:1.8.5p2-1+nmu3+deb7u2
 #   - sudo-ldap:1.8.5p2-1+nmu2
 #
 # CVE List:
@@ -24,5 +24,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade sudo=1.8.5p2-1+nmu2 -y
+sudo apt-get install --only-upgrade sudo=1.8.5p2-1+nmu3+deb7u2 -y
 sudo apt-get install --only-upgrade sudo-ldap=1.8.5p2-1+nmu2 -y
