@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:0628
 #
 # Security announcement date: 2015-03-05 13:58:20 UTC
-# Script generation date:     2016-05-12 18:12:46 UTC
+# Script generation date:     2016-11-15 21:14:03 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - 389-ds-base-libs.i686:1.2.11.15-50.el6_6
 #
 # Last versions recommanded by security team:
-#   - 389-ds-base.x86_64:1.2.11.15-50.el6_6
-#   - 389-ds-base-debuginfo.x86_64:1.2.11.15-50.el6_6
-#   - 389-ds-base-devel.x86_64:1.2.11.15-50.el6_6
-#   - 389-ds-base-libs.x86_64:1.2.11.15-50.el6_6
-#   - 389-ds-base-debuginfo.i686:1.2.11.15-50.el6_6
-#   - 389-ds-base-devel.i686:1.2.11.15-50.el6_6
-#   - 389-ds-base-libs.i686:1.2.11.15-50.el6_6
+#   - 389-ds-base.x86_64:1.2.11.15-84.el6_8
+#   - 389-ds-base-debuginfo.x86_64:1.2.11.15-84.el6_8
+#   - 389-ds-base-devel.x86_64:1.2.11.15-84.el6_8
+#   - 389-ds-base-libs.x86_64:1.2.11.15-84.el6_8
+#   - 389-ds-base-debuginfo.i686:1.2.11.15-84.el6_8
+#   - 389-ds-base-devel.i686:1.2.11.15-84.el6_8
+#   - 389-ds-base-libs.i686:1.2.11.15-84.el6_8
 #
 # CVE List:
 #   - CVE-2014-8105
