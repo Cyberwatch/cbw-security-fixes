@@ -1,26 +1,26 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-592-1
+# Security fix for DLA-707-1
 #
-# Security announcement date: 2016-08-11 00:00:00 UTC
-# Script generation date:     2016-11-16 21:11:16 UTC
+# Security announcement date: 2016-11-14 00:00:00 UTC
+# Script generation date:     2016-11-16 21:11:23 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - postgresql-9.1:9.1.23-0+deb7u1
+#   - sudo:1.8.5p2-1+nmu3+deb7u2
 #
 # Last versions recommanded by security team:
-#   - postgresql-9.1:9.1.24-0+deb7u1
+#   - sudo:1.8.5p2-1+nmu3+deb7u2
 #
 # CVE List:
-#   - CVE-2016-5423
-#   - CVE-2016-5424
+#   - CVE-2016-7032
+#   - CVE-2016-7076
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade postgresql-9.1=9.1.24-0+deb7u1 -y
+sudo apt-get install --only-upgrade sudo=1.8.5p2-1+nmu3+deb7u2 -y

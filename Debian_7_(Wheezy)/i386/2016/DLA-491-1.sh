@@ -4,7 +4,7 @@
 # Security fix for DLA-491-1
 #
 # Security announcement date: 2016-05-27 00:00:00 UTC
-# Script generation date:     2016-08-11 21:14:16 UTC
+# Script generation date:     2016-11-16 21:11:10 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - postgresql-9.1:9.1.22-0+deb7u1
 #
 # Last versions recommanded by security team:
-#   - postgresql-9.1:9.1.23-0+deb7u1
+#   - postgresql-9.1:9.1.24-0+deb7u1
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade postgresql-9.1=9.1.23-0+deb7u1 -y
+sudo apt-get install --only-upgrade postgresql-9.1=9.1.24-0+deb7u1 -y
