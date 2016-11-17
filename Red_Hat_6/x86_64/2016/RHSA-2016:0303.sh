@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0303
 #
 # Security announcement date: 2016-03-01 16:20:41 UTC
-# Script generation date:     2016-10-18 21:18:22 UTC
+# Script generation date:     2016-11-17 21:21:53 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -36,30 +36,30 @@
 #   - openssl-static.x86_64:1.0.1e-16.el6_5.16
 #
 # Last versions recommanded by security team:
-#   - openssl.i686:1.0.1e-42.el6_7.5
-#   - openssl.x86_64:1.0.1e-42.el6_7.5
-#   - openssl-debuginfo.i686:1.0.1e-42.el6_7.5
-#   - openssl-debuginfo.x86_64:1.0.1e-42.el6_7.5
-#   - openssl-devel.i686:1.0.1e-42.el6_7.5
-#   - openssl-devel.x86_64:1.0.1e-42.el6_7.5
-#   - openssl.i686:1.0.1e-42.el6_7.5
-#   - openssl.x86_64:1.0.1e-42.el6_7.5
-#   - openssl-debuginfo.i686:1.0.1e-42.el6_7.5
-#   - openssl-debuginfo.x86_64:1.0.1e-42.el6_7.5
-#   - openssl-devel.i686:1.0.1e-42.el6_7.5
-#   - openssl-devel.x86_64:1.0.1e-42.el6_7.5
-#   - openssl.i686:1.0.1e-42.el6_7.5
-#   - openssl.x86_64:1.0.1e-42.el6_7.5
-#   - openssl-debuginfo.i686:1.0.1e-42.el6_7.5
-#   - openssl-debuginfo.x86_64:1.0.1e-42.el6_7.5
-#   - openssl-devel.i686:1.0.1e-42.el6_7.5
-#   - openssl-devel.x86_64:1.0.1e-42.el6_7.5
-#   - openssl-perl.x86_64:1.0.1e-42.el6_7.5
-#   - openssl-static.x86_64:1.0.1e-42.el6_7.5
-#   - openssl-perl.x86_64:1.0.1e-42.el6_7.5
-#   - openssl-static.x86_64:1.0.1e-42.el6_7.5
-#   - openssl-perl.x86_64:1.0.1e-42.el6_7.5
-#   - openssl-static.x86_64:1.0.1e-42.el6_7.5
+#   - openssl.i686:1.0.1e-30.el6_6.13
+#   - openssl.x86_64:1.0.1e-30.el6_6.13
+#   - openssl-debuginfo.i686:1.0.1e-30.el6_6.13
+#   - openssl-debuginfo.x86_64:1.0.1e-30.el6_6.13
+#   - openssl-devel.i686:1.0.1e-30.el6_6.13
+#   - openssl-devel.x86_64:1.0.1e-30.el6_6.13
+#   - openssl.i686:1.0.1e-30.el6_6.13
+#   - openssl.x86_64:1.0.1e-30.el6_6.13
+#   - openssl-debuginfo.i686:1.0.1e-30.el6_6.13
+#   - openssl-debuginfo.x86_64:1.0.1e-30.el6_6.13
+#   - openssl-devel.i686:1.0.1e-30.el6_6.13
+#   - openssl-devel.x86_64:1.0.1e-30.el6_6.13
+#   - openssl.i686:1.0.1e-30.el6_6.13
+#   - openssl.x86_64:1.0.1e-30.el6_6.13
+#   - openssl-debuginfo.i686:1.0.1e-30.el6_6.13
+#   - openssl-debuginfo.x86_64:1.0.1e-30.el6_6.13
+#   - openssl-devel.i686:1.0.1e-30.el6_6.13
+#   - openssl-devel.x86_64:1.0.1e-30.el6_6.13
+#   - openssl-perl.x86_64:1.0.1e-30.el6_6.13
+#   - openssl-static.x86_64:1.0.1e-30.el6_6.13
+#   - openssl-perl.x86_64:1.0.1e-30.el6_6.13
+#   - openssl-static.x86_64:1.0.1e-30.el6_6.13
+#   - openssl-perl.x86_64:1.0.1e-30.el6_6.13
+#   - openssl-static.x86_64:1.0.1e-30.el6_6.13
 #
 # CVE List:
 #   - CVE-2015-0293

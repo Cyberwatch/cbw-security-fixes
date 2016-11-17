@@ -4,7 +4,7 @@
 # Security fix for RHSA-2011:1409
 #
 # Security announcement date: 2011-10-26 17:26:20 UTC
-# Script generation date:     2016-10-18 21:15:22 UTC
+# Script generation date:     2016-11-17 21:18:48 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - openssl-devel.i686:1.0.0-10.el6_1.5
 #
 # Last versions recommanded by security team:
-#   - openssl.x86_64:1.0.1e-42.el6_7.5
-#   - openssl-debuginfo.x86_64:1.0.1e-42.el6_7.5
-#   - openssl-devel.x86_64:1.0.1e-42.el6_7.5
-#   - openssl-perl.x86_64:1.0.1e-42.el6_7.5
-#   - openssl-static.x86_64:1.0.1e-42.el6_7.5
-#   - openssl.i686:1.0.1e-42.el6_7.5
-#   - openssl-debuginfo.i686:1.0.1e-42.el6_7.5
-#   - openssl-devel.i686:1.0.1e-42.el6_7.5
+#   - openssl.x86_64:1.0.1e-30.el6_6.13
+#   - openssl-debuginfo.x86_64:1.0.1e-30.el6_6.13
+#   - openssl-devel.x86_64:1.0.1e-30.el6_6.13
+#   - openssl-perl.x86_64:1.0.1e-30.el6_6.13
+#   - openssl-static.x86_64:1.0.1e-30.el6_6.13
+#   - openssl.i686:1.0.1e-30.el6_6.13
+#   - openssl-debuginfo.i686:1.0.1e-30.el6_6.13
+#   - openssl-devel.i686:1.0.1e-30.el6_6.13
 #
 # CVE List:
 #   - CVE-2011-3207
