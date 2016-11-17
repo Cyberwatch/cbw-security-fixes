@@ -4,7 +4,7 @@
 # Security fix for USN-2319-1
 #
 # Security announcement date: 2014-08-19 00:00:00 UTC
-# Script generation date:     2016-10-22 21:01:14 UTC
+# Script generation date:     2016-11-17 21:01:14 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -21,11 +21,11 @@
 # Last versions recommanded by security team:
 #   - openjdk-7-jre-lib:7u65-2.5.1-4ubuntu1~0.14.04.1
 #   - openjdk-7-jre-zero:7u65-2.5.1-4ubuntu1~0.14.04.1
-#   - icedtea-7-jre-jamvm:7u111-2.6.7-0ubuntu0.14.04.3
-#   - openjdk-7-jre-headless:7u111-2.6.7-0ubuntu0.14.04.3
-#   - openjdk-7-jre:7u111-2.6.7-0ubuntu0.14.04.3
-#   - openjdk-7-jre-headless:7u111-2.6.7-0ubuntu0.14.04.3
-#   - openjdk-7-jre:7u111-2.6.7-0ubuntu0.14.04.3
+#   - icedtea-7-jre-jamvm:7u121-2.6.8-1ubuntu0.14.04.1
+#   - openjdk-7-jre-headless:7u121-2.6.8-1ubuntu0.14.04.1
+#   - openjdk-7-jre:7u121-2.6.8-1ubuntu0.14.04.1
+#   - openjdk-7-jre-headless:7u121-2.6.8-1ubuntu0.14.04.1
+#   - openjdk-7-jre:7u121-2.6.8-1ubuntu0.14.04.1
 #
 # CVE List:
 #   - CVE-2014-2483
@@ -50,8 +50,8 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade openjdk-7-jre-lib=7u65-2.5.1-4ubuntu1~0.14.04.1 -y
 sudo apt-get install --only-upgrade openjdk-7-jre-zero=7u65-2.5.1-4ubuntu1~0.14.04.1 -y
-sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u111-2.6.7-0ubuntu0.14.04.3 -y
-sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u111-2.6.7-0ubuntu0.14.04.3 -y
-sudo apt-get install --only-upgrade openjdk-7-jre=7u111-2.6.7-0ubuntu0.14.04.3 -y
-sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u111-2.6.7-0ubuntu0.14.04.3 -y
-sudo apt-get install --only-upgrade openjdk-7-jre=7u111-2.6.7-0ubuntu0.14.04.3 -y
+sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u121-2.6.8-1ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u121-2.6.8-1ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-jre=7u121-2.6.8-1ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u121-2.6.8-1ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade openjdk-7-jre=7u121-2.6.8-1ubuntu0.14.04.1 -y
