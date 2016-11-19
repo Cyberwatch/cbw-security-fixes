@@ -4,7 +4,7 @@
 # Security fix for DSA-3225-1
 #
 # Security announcement date: 2015-04-15 00:00:00 UTC
-# Script generation date:     2016-07-28 21:10:18 UTC
+# Script generation date:     2016-11-19 21:09:02 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -19,11 +19,11 @@
 #
 # Last versions recommanded by security team:
 #   - gst-plugins-bad0.10:0.10.23-7.1+deb7u2
-#   - gstreamer0.10-plugins-bad-doc:0.10.23-7.1+deb7u2
-#   - gstreamer0.10-plugins-bad:0.10.23-7.1+deb7u2
-#   - gstreamer0.10-plugins-bad-dbg:0.10.23-7.1+deb7u2
-#   - libgstreamer-plugins-bad0.10-0:0.10.23-7.1+deb7u2
-#   - libgstreamer-plugins-bad0.10-dev:0.10.23-7.1+deb7u2
+#   - gstreamer0.10-plugins-bad-doc:0.10.23-7.1+deb7u3
+#   - gstreamer0.10-plugins-bad:0.10.23-7.1+deb7u3
+#   - gstreamer0.10-plugins-bad-dbg:0.10.23-7.1+deb7u3
+#   - libgstreamer-plugins-bad0.10-0:0.10.23-7.1+deb7u3
+#   - libgstreamer-plugins-bad0.10-dev:0.10.23-7.1+deb7u3
 #
 # CVE List:
 #   - CVE-2015-0797
@@ -33,8 +33,8 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade gst-plugins-bad0.10=0.10.23-7.1+deb7u2 -y
-sudo apt-get install --only-upgrade gstreamer0.10-plugins-bad-doc=0.10.23-7.1+deb7u2 -y
-sudo apt-get install --only-upgrade gstreamer0.10-plugins-bad=0.10.23-7.1+deb7u2 -y
-sudo apt-get install --only-upgrade gstreamer0.10-plugins-bad-dbg=0.10.23-7.1+deb7u2 -y
-sudo apt-get install --only-upgrade libgstreamer-plugins-bad0.10-0=0.10.23-7.1+deb7u2 -y
-sudo apt-get install --only-upgrade libgstreamer-plugins-bad0.10-dev=0.10.23-7.1+deb7u2 -y
+sudo apt-get install --only-upgrade gstreamer0.10-plugins-bad-doc=0.10.23-7.1+deb7u3 -y
+sudo apt-get install --only-upgrade gstreamer0.10-plugins-bad=0.10.23-7.1+deb7u3 -y
+sudo apt-get install --only-upgrade gstreamer0.10-plugins-bad-dbg=0.10.23-7.1+deb7u3 -y
+sudo apt-get install --only-upgrade libgstreamer-plugins-bad0.10-0=0.10.23-7.1+deb7u3 -y
+sudo apt-get install --only-upgrade libgstreamer-plugins-bad0.10-dev=0.10.23-7.1+deb7u3 -y
