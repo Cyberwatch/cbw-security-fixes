@@ -4,7 +4,7 @@
 # Security fix for USN-1430-1
 #
 # Security announcement date: 2012-04-27 00:00:00 UTC
-# Script generation date:     2016-10-28 21:00:23 UTC
+# Script generation date:     2016-11-19 21:00:16 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox:12.0+build1-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:49.0.2+build2-0ubuntu0.12.04.1
+#   - firefox:50.0+build2-0ubuntu0.12.04.2
 #
 # CVE List:
 #   - CVE-2012-0467
@@ -34,4 +34,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=49.0.2+build2-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade firefox=50.0+build2-0ubuntu0.12.04.2 -y
