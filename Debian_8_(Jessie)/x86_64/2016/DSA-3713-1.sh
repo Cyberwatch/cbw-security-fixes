@@ -4,7 +4,7 @@
 # Security fix for DSA-3713-1
 #
 # Security announcement date: 2016-11-15 00:00:00 UTC
-# Script generation date:     2016-11-17 21:10:39 UTC
+# Script generation date:     2016-11-20 21:07:41 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -26,6 +26,7 @@
 #   - libgstreamer-plugins-bad0.10-dev:0.10.23-7.4+deb8u2
 #
 # CVE List:
+#   - CVE-2016-9447
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
