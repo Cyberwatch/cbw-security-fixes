@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0813
 #
 # Security announcement date: 2012-07-10 17:23:02 UTC
-# Script generation date:     2016-05-12 18:07:44 UTC
+# Script generation date:     2016-11-20 21:12:23 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - 389-ds-base-libs.i686:1.2.10.2-15.el6
 #
 # Last versions recommanded by security team:
-#   - 389-ds-base.x86_64:1.2.11.15-34.el6_5
-#   - 389-ds-base-devel.x86_64:1.2.11.15-34.el6_5
-#   - 389-ds-base-libs.x86_64:1.2.11.15-34.el6_5
-#   - 389-ds-base-devel.i686:1.2.11.15-34.el6_5
-#   - 389-ds-base-libs.i686:1.2.11.15-34.el6_5
+#   - 389-ds-base.x86_64:1.2.11.15-84.el6_8
+#   - 389-ds-base-devel.x86_64:1.2.11.15-84.el6_8
+#   - 389-ds-base-libs.x86_64:1.2.11.15-84.el6_8
+#   - 389-ds-base-devel.i686:1.2.11.15-84.el6_8
+#   - 389-ds-base-libs.i686:1.2.11.15-84.el6_8
 #
 # CVE List:
 #   - CVE-2012-0833

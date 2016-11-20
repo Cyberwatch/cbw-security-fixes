@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1091
 #
 # Security announcement date: 2012-07-18 01:04:20 UTC
-# Script generation date:     2016-05-12 18:07:46 UTC
+# Script generation date:     2016-11-20 21:12:24 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -30,20 +30,20 @@
 # Last versions recommanded by security team:
 #   - nspr.x86_64:4.11.0-0.1.el6_7
 #   - nspr-devel.x86_64:4.11.0-0.1.el6_7
-#   - nss.x86_64:3.21.0-0.3.el6_7
-#   - nss-devel.x86_64:3.21.0-0.3.el6_7
-#   - nss-pkcs11-devel.x86_64:3.21.0-0.3.el6_7
-#   - nss-sysinit.x86_64:3.21.0-0.3.el6_7
-#   - nss-tools.x86_64:3.21.0-0.3.el6_7
-#   - nss-util.x86_64:3.21.0-0.3.el6_7
-#   - nss-util-devel.x86_64:3.21.0-0.3.el6_7
+#   - nss.x86_64:3.21.3-2.el6_8
+#   - nss-devel.x86_64:3.21.3-2.el6_8
+#   - nss-pkcs11-devel.x86_64:3.21.3-2.el6_8
+#   - nss-sysinit.x86_64:3.21.3-2.el6_8
+#   - nss-tools.x86_64:3.21.3-2.el6_8
+#   - nss-util.x86_64:3.21.3-1.el6_8
+#   - nss-util-devel.x86_64:3.21.3-1.el6_8
 #   - nspr.i686:4.11.0-0.1.el6_7
 #   - nspr-devel.i686:4.11.0-0.1.el6_7
-#   - nss.i686:3.21.0-0.3.el6_7
-#   - nss-devel.i686:3.21.0-0.3.el6_7
-#   - nss-pkcs11-devel.i686:3.21.0-0.3.el6_7
-#   - nss-util.i686:3.21.0-0.3.el6_7
-#   - nss-util-devel.i686:3.21.0-0.3.el6_7
+#   - nss.i686:3.21.3-2.el6_8
+#   - nss-devel.i686:3.21.3-2.el6_8
+#   - nss-pkcs11-devel.i686:3.21.3-2.el6_8
+#   - nss-util.i686:3.21.3-1.el6_8
+#   - nss-util-devel.i686:3.21.3-1.el6_8
 #
 # CVE List:
 #   - CVE-2012-0441
@@ -54,17 +54,17 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install nspr.x86_64-4.11.0 -y 
 sudo yum install nspr-devel.x86_64-4.11.0 -y 
-sudo yum install nss.x86_64-3.21.0 -y 
-sudo yum install nss-devel.x86_64-3.21.0 -y 
-sudo yum install nss-pkcs11-devel.x86_64-3.21.0 -y 
-sudo yum install nss-sysinit.x86_64-3.21.0 -y 
-sudo yum install nss-tools.x86_64-3.21.0 -y 
-sudo yum install nss-util.x86_64-3.21.0 -y 
-sudo yum install nss-util-devel.x86_64-3.21.0 -y 
+sudo yum install nss.x86_64-3.21.3 -y 
+sudo yum install nss-devel.x86_64-3.21.3 -y 
+sudo yum install nss-pkcs11-devel.x86_64-3.21.3 -y 
+sudo yum install nss-sysinit.x86_64-3.21.3 -y 
+sudo yum install nss-tools.x86_64-3.21.3 -y 
+sudo yum install nss-util.x86_64-3.21.3 -y 
+sudo yum install nss-util-devel.x86_64-3.21.3 -y 
 sudo yum install nspr.i686-4.11.0 -y 
 sudo yum install nspr-devel.i686-4.11.0 -y 
-sudo yum install nss.i686-3.21.0 -y 
-sudo yum install nss-devel.i686-3.21.0 -y 
-sudo yum install nss-pkcs11-devel.i686-3.21.0 -y 
-sudo yum install nss-util.i686-3.21.0 -y 
-sudo yum install nss-util-devel.i686-3.21.0 -y 
+sudo yum install nss.i686-3.21.3 -y 
+sudo yum install nss-devel.i686-3.21.3 -y 
+sudo yum install nss-pkcs11-devel.i686-3.21.3 -y 
+sudo yum install nss-util.i686-3.21.3 -y 
+sudo yum install nss-util-devel.i686-3.21.3 -y 
