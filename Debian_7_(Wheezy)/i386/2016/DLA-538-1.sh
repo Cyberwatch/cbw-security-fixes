@@ -4,7 +4,7 @@
 # Security fix for DLA-538-1
 #
 # Security announcement date: 2016-06-30 00:00:00 UTC
-# Script generation date:     2016-09-21 21:12:35 UTC
+# Script generation date:     2016-11-21 21:14:52 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - wireshark:1.12.1+g01b65bf-4+deb8u6~deb7u2
 #
 # Last versions recommanded by security team:
-#   - wireshark:1.12.1+g01b65bf-4+deb8u6~deb7u4
+#   - wireshark:1.12.1+g01b65bf-4+deb8u6~deb7u5
 #
 # CVE List:
 #   - CVE-2016-5350
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wireshark=1.12.1+g01b65bf-4+deb8u6~deb7u4 -y
+sudo apt-get install --only-upgrade wireshark=1.12.1+g01b65bf-4+deb8u6~deb7u5 -y
