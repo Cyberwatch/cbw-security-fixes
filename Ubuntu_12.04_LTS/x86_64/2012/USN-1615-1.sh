@@ -4,7 +4,7 @@
 # Security fix for USN-1615-1
 #
 # Security announcement date: 2012-10-23 00:00:00 UTC
-# Script generation date:     2016-06-20 21:31:44 UTC
+# Script generation date:     2016-11-22 21:00:28 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - python3.2:3.2.3-0ubuntu3.2
 #
 # Last versions recommanded by security team:
-#   - python3.2-minimal:3.2.3-0ubuntu3.7
-#   - python3.2:3.2.3-0ubuntu3.7
-#   - python3.2:3.2.3-0ubuntu3.7
+#   - python3.2-minimal:3.2.3-0ubuntu3.8
+#   - python3.2:3.2.3-0ubuntu3.8
+#   - python3.2:3.2.3-0ubuntu3.8
 #
 # CVE List:
 #   - CVE-2011-4944
@@ -29,6 +29,6 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python3.2-minimal=3.2.3-0ubuntu3.7 -y
-sudo apt-get install --only-upgrade python3.2=3.2.3-0ubuntu3.7 -y
-sudo apt-get install --only-upgrade python3.2=3.2.3-0ubuntu3.7 -y
+sudo apt-get install --only-upgrade python3.2-minimal=3.2.3-0ubuntu3.8 -y
+sudo apt-get install --only-upgrade python3.2=3.2.3-0ubuntu3.8 -y
+sudo apt-get install --only-upgrade python3.2=3.2.3-0ubuntu3.8 -y
