@@ -1,26 +1,25 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for USN-1604-1
+# Security fix for USN-3132-1
 #
-# Security announcement date: 2012-10-11 00:00:00 UTC
-# Script generation date:     2016-11-23 21:00:29 UTC
+# Security announcement date: 2016-11-21 00:00:00 UTC
+# Script generation date:     2016-11-23 21:04:47 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
-#   - python-moinmoin:1.9.3-1ubuntu2.1
+#   - tar:1.26-4ubuntu1.1
 #
 # Last versions recommanded by security team:
-#   - python-moinmoin:1.9.3-1ubuntu2.3
+#   - tar:1.26-4ubuntu1.1
 #
 # CVE List:
-#   - CVE-2011-1058
-#   - CVE-2012-4404
+#   - CVE-2016-6321
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-moinmoin=1.9.3-1ubuntu2.3 -y
+sudo apt-get install --only-upgrade tar=1.26-4ubuntu1.1 -y

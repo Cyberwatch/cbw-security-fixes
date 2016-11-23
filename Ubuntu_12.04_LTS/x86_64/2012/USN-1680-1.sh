@@ -4,7 +4,7 @@
 # Security fix for USN-1680-1
 #
 # Security announcement date: 2012-12-29 00:00:00 UTC
-# Script generation date:     2016-06-20 21:31:51 UTC
+# Script generation date:     2016-11-23 21:00:33 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - python-moinmoin:1.9.3-1ubuntu2.2
 #
 # Last versions recommanded by security team:
-#   - python-moinmoin:1.9.3-1ubuntu2.2
+#   - python-moinmoin:1.9.3-1ubuntu2.3
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-moinmoin=1.9.3-1ubuntu2.2 -y
+sudo apt-get install --only-upgrade python-moinmoin=1.9.3-1ubuntu2.3 -y
