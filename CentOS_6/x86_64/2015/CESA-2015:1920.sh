@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2015:1920
 #
-# Security announcement date: 2015-10-21 23:14:14 UTC
-# Script generation date:     2016-11-13 21:13:24 UTC
+# Security announcement date: 2015-10-22 00:07:57 UTC
+# Script generation date:     2016-11-24 21:12:55 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64

@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2008:0616
 #
-# Security announcement date: 2008-07-24 19:42:04 UTC
-# Script generation date:     2016-10-04 21:14:07 UTC
+# Security announcement date: 2008-07-24 19:42:11 UTC
+# Script generation date:     2016-11-24 21:11:18 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -26,9 +26,9 @@
 #   - CVE-2008-2805
 #   - CVE-2008-2807
 #   - CVE-2008-2808
+#   - CVE-2008-2809
 #   - CVE-2008-2810
 #   - CVE-2008-2811
-#   - CVE-2008-2809
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

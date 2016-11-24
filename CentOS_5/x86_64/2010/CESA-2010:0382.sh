@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2010:0382
 #
-# Security announcement date: 2010-05-28 10:43:33 UTC
-# Script generation date:     2016-05-12 18:07:19 UTC
+# Security announcement date: 2010-05-28 10:43:32 UTC
+# Script generation date:     2016-11-24 21:11:31 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64

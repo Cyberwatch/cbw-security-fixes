@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:1217
 #
 # Security announcement date: 2016-06-16 15:30:39 UTC
-# Script generation date:     2016-09-23 21:15:04 UTC
+# Script generation date:     2016-11-24 21:13:09 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -21,9 +21,9 @@
 #   - CVE-2016-2818
 #   - CVE-2016-2819
 #   - CVE-2016-2821
+#   - CVE-2016-2822
 #   - CVE-2016-2828
 #   - CVE-2016-2831
-#   - CVE-2016-2822
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

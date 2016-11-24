@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1149
 #
 # Security announcement date: 2012-08-07 17:20:02 UTC
-# Script generation date:     2016-05-12 18:07:48 UTC
+# Script generation date:     2016-11-24 21:11:57 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,7 +16,6 @@
 #   - sudo.x86_64:1.7.2p1-29.el5_10
 #
 # CVE List:
-#   - CVE-2012-3440
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

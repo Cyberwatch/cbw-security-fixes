@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:0771
 #
 # Security announcement date: 2014-06-20 10:10:41 UTC
-# Script generation date:     2016-11-20 21:12:55 UTC
+# Script generation date:     2016-11-24 21:12:28 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -34,8 +34,8 @@
 #   - python-perf.x86_64:2.6.32-642.11.1.el6
 #
 # CVE List:
-#   - CVE-2014-0203
 #   - CVE-2013-6378
+#   - CVE-2014-0203
 #   - CVE-2014-1737
 #   - CVE-2014-1738
 #   - CVE-2014-1874

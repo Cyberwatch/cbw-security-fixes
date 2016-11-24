@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1292
 #
 # Security announcement date: 2013-09-27 13:27:33 UTC
-# Script generation date:     2016-10-29 21:15:58 UTC
+# Script generation date:     2016-11-24 21:12:12 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -31,8 +31,8 @@
 #
 # CVE List:
 #   - CVE-2012-3511
-#   - CVE-2013-4162
 #   - CVE-2013-2141
+#   - CVE-2013-4162
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

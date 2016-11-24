@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:1380
 #
 # Security announcement date: 2011-10-19 21:07:19 UTC
-# Script generation date:     2016-08-27 21:12:10 UTC
+# Script generation date:     2016-11-24 21:11:41 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -24,19 +24,19 @@
 #   - java-1.6.0-openjdk-src.x86_64:1.6.0.40-1.13.12.4.el5_11
 #
 # CVE List:
+#   - CVE-2011-3389
+#   - CVE-2011-3521
+#   - CVE-2011-3544
 #   - CVE-2011-3547
+#   - CVE-2011-3548
 #   - CVE-2011-3551
+#   - CVE-2011-3552
 #   - CVE-2011-3553
+#   - CVE-2011-3554
 #   - CVE-2011-3556
 #   - CVE-2011-3557
-#   - CVE-2011-3548
-#   - CVE-2011-3552
-#   - CVE-2011-3560
-#   - CVE-2011-3521
-#   - CVE-2011-3554
-#   - CVE-2011-3544
 #   - CVE-2011-3558
-#   - CVE-2011-3389
+#   - CVE-2011-3560
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

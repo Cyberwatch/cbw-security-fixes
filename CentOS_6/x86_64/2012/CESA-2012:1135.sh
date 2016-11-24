@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1135
 #
 # Security announcement date: 2012-08-02 05:10:15 UTC
-# Script generation date:     2016-05-12 18:07:47 UTC
+# Script generation date:     2016-11-24 21:11:56 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -262,7 +262,6 @@
 #   - libreoffice-xsltfilter.x86_64:4.2.8.2-11.el6_7.1
 #
 # CVE List:
-#   - CVE-2012-2665
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

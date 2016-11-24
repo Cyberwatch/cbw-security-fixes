@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1304
 #
 # Security announcement date: 2012-09-26 01:59:30 UTC
-# Script generation date:     2016-11-20 21:12:28 UTC
+# Script generation date:     2016-11-24 21:11:59 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -32,11 +32,11 @@
 #   - python-perf.x86_64:2.6.32-642.11.1.el6
 #
 # CVE List:
-#   - CVE-2012-3552
-#   - CVE-2012-3430
 #   - CVE-2012-2313
 #   - CVE-2012-2384
 #   - CVE-2012-2390
+#   - CVE-2012-3430
+#   - CVE-2012-3552
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

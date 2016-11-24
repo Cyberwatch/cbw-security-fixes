@@ -4,12 +4,14 @@
 # Security fix for CESA-2012:0677
 #
 # Security announcement date: 2012-05-21 16:39:19 UTC
-# Script generation date:     2016-05-12 18:07:41 UTC
+# Script generation date:     2016-11-24 21:11:50 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - postgresql-devel.i386:8.1.23-4.el5_8
+#   - postgresql-libs.i386:8.1.23-4.el5_8
 #   - postgresql.x86_64:8.1.23-4.el5_8
 #   - postgresql-contrib.x86_64:8.1.23-4.el5_8
 #   - postgresql-devel.x86_64:8.1.23-4.el5_8
@@ -20,10 +22,10 @@
 #   - postgresql-server.x86_64:8.1.23-4.el5_8
 #   - postgresql-tcl.x86_64:8.1.23-4.el5_8
 #   - postgresql-test.x86_64:8.1.23-4.el5_8
-#   - postgresql-devel.i386:8.1.23-4.el5_8
-#   - postgresql-libs.i386:8.1.23-4.el5_8
 #
 # Last versions recommanded by security team:
+#   - postgresql-devel.i386:8.1.23-10.el5_10
+#   - postgresql-libs.i386:8.1.23-10.el5_10
 #   - postgresql.x86_64:8.1.23-10.el5_10
 #   - postgresql-contrib.x86_64:8.1.23-10.el5_10
 #   - postgresql-devel.x86_64:8.1.23-10.el5_10
@@ -34,8 +36,6 @@
 #   - postgresql-server.x86_64:8.1.23-10.el5_10
 #   - postgresql-tcl.x86_64:8.1.23-10.el5_10
 #   - postgresql-test.x86_64:8.1.23-10.el5_10
-#   - postgresql-devel.i386:8.1.23-10.el5_10
-#   - postgresql-libs.i386:8.1.23-10.el5_10
 #
 # CVE List:
 #   - CVE-2012-0866
@@ -45,6 +45,8 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install postgresql-devel.i386-8.1.23 -y 
+sudo yum install postgresql-libs.i386-8.1.23 -y 
 sudo yum install postgresql.x86_64-8.1.23 -y 
 sudo yum install postgresql-contrib.x86_64-8.1.23 -y 
 sudo yum install postgresql-devel.x86_64-8.1.23 -y 
@@ -55,5 +57,3 @@ sudo yum install postgresql-python.x86_64-8.1.23 -y
 sudo yum install postgresql-server.x86_64-8.1.23 -y 
 sudo yum install postgresql-tcl.x86_64-8.1.23 -y 
 sudo yum install postgresql-test.x86_64-8.1.23 -y 
-sudo yum install postgresql-devel.i386-8.1.23 -y 
-sudo yum install postgresql-libs.i386-8.1.23 -y 

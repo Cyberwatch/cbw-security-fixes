@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1012
 #
 # Security announcement date: 2014-08-06 18:20:19 UTC
-# Script generation date:     2016-05-12 18:08:22 UTC
+# Script generation date:     2016-11-24 21:12:34 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -56,17 +56,17 @@
 #   - php53-xmlrpc.x86_64:5.3.3-26.el5_11
 #
 # CVE List:
+#   - CVE-2012-1571
+#   - CVE-2013-6712
+#   - CVE-2014-0237
+#   - CVE-2014-0238
+#   - CVE-2014-1943
 #   - CVE-2014-2270
 #   - CVE-2014-3479
 #   - CVE-2014-3480
-#   - CVE-2012-1571
-#   - CVE-2014-0237
-#   - CVE-2014-0238
-#   - CVE-2014-4721
 #   - CVE-2014-3515
-#   - CVE-2013-6712
 #   - CVE-2014-4049
-#   - CVE-2014-1943
+#   - CVE-2014-4721
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

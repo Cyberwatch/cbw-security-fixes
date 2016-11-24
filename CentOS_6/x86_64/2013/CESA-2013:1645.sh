@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1645
 #
 # Security announcement date: 2013-11-26 13:32:01 UTC
-# Script generation date:     2016-11-20 21:12:48 UTC
+# Script generation date:     2016-11-24 21:12:15 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -34,23 +34,23 @@
 #   - python-perf.x86_64:2.6.32-642.11.1.el6
 #
 # CVE List:
-#   - CVE-2013-4345
 #   - CVE-2012-6542
 #   - CVE-2012-6545
 #   - CVE-2013-0343
 #   - CVE-2013-1928
+#   - CVE-2013-1929
 #   - CVE-2013-2164
 #   - CVE-2013-2234
+#   - CVE-2013-2851
 #   - CVE-2013-2888
 #   - CVE-2013-2889
 #   - CVE-2013-2892
+#   - CVE-2013-3231
+#   - CVE-2013-4345
 #   - CVE-2013-4387
 #   - CVE-2013-4591
 #   - CVE-2013-4592
 #   - CVE-2012-2375
-#   - CVE-2013-1929
-#   - CVE-2013-2851
-#   - CVE-2013-3231
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

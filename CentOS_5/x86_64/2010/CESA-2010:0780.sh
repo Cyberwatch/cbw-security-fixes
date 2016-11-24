@@ -4,7 +4,7 @@
 # Security fix for CESA-2010:0780
 #
 # Security announcement date: 2010-10-20 14:21:34 UTC
-# Script generation date:     2016-10-04 21:14:27 UTC
+# Script generation date:     2016-11-24 21:11:35 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,9 +16,9 @@
 #   - thunderbird.x86_64:45.4.0-1.el5.centos
 #
 # CVE List:
+#   - CVE-2010-3176
 #   - CVE-2010-3180
 #   - CVE-2010-3182
-#   - CVE-2010-3176
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

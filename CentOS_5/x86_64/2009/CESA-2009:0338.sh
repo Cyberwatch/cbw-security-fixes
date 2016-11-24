@@ -4,7 +4,7 @@
 # Security fix for CESA-2009:0338
 #
 # Security announcement date: 2009-04-07 12:21:16 UTC
-# Script generation date:     2016-05-12 18:07:09 UTC
+# Script generation date:     2016-11-24 21:11:23 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -52,12 +52,12 @@
 #   - php-xmlrpc.x86_64:5.1.6-45.el5_11
 #
 # CVE List:
-#   - CVE-2008-5814
-#   - CVE-2008-5557
 #   - CVE-2008-3658
 #   - CVE-2008-3660
-#   - CVE-2009-0754
 #   - CVE-2008-5498
+#   - CVE-2008-5557
+#   - CVE-2008-5814
+#   - CVE-2009-0754
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

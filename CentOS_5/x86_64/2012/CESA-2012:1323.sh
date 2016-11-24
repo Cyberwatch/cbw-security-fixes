@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1323
 #
 # Security announcement date: 2012-10-03 11:39:10 UTC
-# Script generation date:     2016-10-29 21:15:42 UTC
+# Script generation date:     2016-11-24 21:11:59 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,11 +30,11 @@
 #   - kernel-xen-devel.x86_64:2.6.18-416.el5
 #
 # CVE List:
+#   - CVE-2012-2319
+#   - CVE-2012-3412
+#   - CVE-2012-3430
 #   - CVE-2012-3510
 #   - CVE-2009-4020
-#   - CVE-2012-3430
-#   - CVE-2012-3412
-#   - CVE-2012-2319
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2016:1940
 #
-# Security announcement date: 2016-09-28 14:48:04 UTC
-# Script generation date:     2016-09-30 21:13:36 UTC
+# Security announcement date: 2016-09-29 15:15:39 UTC
+# Script generation date:     2016-11-24 21:13:12 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64

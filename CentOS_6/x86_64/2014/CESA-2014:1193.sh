@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2014:1193
 #
-# Security announcement date: 2014-09-15 16:46:18 UTC
-# Script generation date:     2016-05-12 18:08:24 UTC
+# Security announcement date: 2014-09-15 16:53:13 UTC
+# Script generation date:     2016-11-24 21:12:36 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -20,8 +20,8 @@
 #   - axis-manual.noarch:1.2.1-7.5.el6_5
 #
 # CVE List:
-#   - CVE-2012-5784
 #   - CVE-2014-3596
+#   - CVE-2012-5784
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

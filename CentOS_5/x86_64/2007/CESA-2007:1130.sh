@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2007:1130
 #
-# Security announcement date: 2007-12-21 00:10:40 UTC
-# Script generation date:     2016-05-12 18:06:58 UTC
+# Security announcement date: 2007-12-21 00:10:41 UTC
+# Script generation date:     2016-11-24 21:11:13 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64

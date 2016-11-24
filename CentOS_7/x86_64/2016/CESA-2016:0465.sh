@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:0465
 #
 # Security announcement date: 2016-03-21 22:38:14 UTC
-# Script generation date:     2016-05-12 18:08:58 UTC
+# Script generation date:     2016-11-24 21:13:05 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -32,8 +32,8 @@
 #   - pam_ssh_agent_auth.x86_64:0.9.3-9.25.el7_2
 #
 # CVE List:
-#   - CVE-2016-3115
 #   - CVE-2016-1908
+#   - CVE-2016-3115
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

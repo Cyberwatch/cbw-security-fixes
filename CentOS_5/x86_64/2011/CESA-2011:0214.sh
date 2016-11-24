@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:0214
 #
 # Security announcement date: 2011-04-14 14:31:40 UTC
-# Script generation date:     2016-08-27 21:11:59 UTC
+# Script generation date:     2016-11-24 21:11:36 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -24,7 +24,6 @@
 #   - java-1.6.0-openjdk-src.x86_64:1.6.0.40-1.13.12.4.el5_11
 #
 # CVE List:
-#   - CVE-2010-4476
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

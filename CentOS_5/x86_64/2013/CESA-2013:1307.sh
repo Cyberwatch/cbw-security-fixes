@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1307
 #
 # Security announcement date: 2013-10-07 12:42:03 UTC
-# Script generation date:     2016-05-12 18:08:09 UTC
+# Script generation date:     2016-11-24 21:12:14 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -56,12 +56,12 @@
 #   - php53-xmlrpc.x86_64:5.3.3-26.el5_11
 #
 # CVE List:
-#   - CVE-2013-4248
 #   - CVE-2006-7243
+#   - CVE-2011-1398
 #   - CVE-2012-0831
 #   - CVE-2012-2688
 #   - CVE-2013-1643
-#   - CVE-2011-1398
+#   - CVE-2013-4248
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

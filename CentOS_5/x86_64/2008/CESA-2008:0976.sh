@@ -4,7 +4,7 @@
 # Security fix for CESA-2008:0976
 #
 # Security announcement date: 2008-11-23 13:34:06 UTC
-# Script generation date:     2016-10-04 21:14:10 UTC
+# Script generation date:     2016-11-24 21:11:20 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,14 +16,14 @@
 #   - thunderbird.x86_64:45.4.0-1.el5.centos
 #
 # CVE List:
-#   - CVE-2008-5012
 #   - CVE-2008-5014
+#   - CVE-2008-5016
 #   - CVE-2008-5017
 #   - CVE-2008-5018
 #   - CVE-2008-5021
+#   - CVE-2008-5012
 #   - CVE-2008-5022
 #   - CVE-2008-5024
-#   - CVE-2008-5016
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

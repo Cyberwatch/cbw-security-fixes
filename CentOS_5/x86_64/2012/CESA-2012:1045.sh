@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1045
 #
 # Security announcement date: 2012-06-27 20:21:47 UTC
-# Script generation date:     2016-05-12 18:07:44 UTC
+# Script generation date:     2016-11-24 21:11:52 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -52,12 +52,6 @@
 #   - php-xmlrpc.x86_64:5.1.6-45.el5_11
 #
 # CVE List:
-#   - CVE-2012-2336
-#   - CVE-2012-0057
-#   - CVE-2012-0789
-#   - CVE-2012-1172
-#   - CVE-2012-1823
-#   - CVE-2011-4153
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

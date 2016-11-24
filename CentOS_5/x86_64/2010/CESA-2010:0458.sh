@@ -4,7 +4,7 @@
 # Security fix for CESA-2010:0458
 #
 # Security announcement date: 2010-06-12 12:59:15 UTC
-# Script generation date:     2016-05-12 18:07:19 UTC
+# Script generation date:     2016-11-24 21:11:31 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,16 +14,16 @@
 #   - perl-suidperl.x86_64:5.8.8-32.el5_5.1
 #
 # Last versions recommanded by security team:
-#   - perl.x86_64:5.8.8-40.el5_9
-#   - perl-suidperl.x86_64:5.8.8-40.el5_9
+#   - perl.x86_64:5.8.8-41.el5
+#   - perl-suidperl.x86_64:5.8.8-41.el5
 #
 # CVE List:
+#   - CVE-2008-5302
+#   - CVE-2008-5303
+#   - CVE-2010-1168
 #   - CVE-2010-1447
 #   - CVE-2005-0448
 #   - CVE-2004-0452
-#   - CVE-2008-5302
-#   - CVE-2010-1168
-#   - CVE-2008-5303
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

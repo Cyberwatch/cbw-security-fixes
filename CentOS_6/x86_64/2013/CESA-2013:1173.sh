@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1173
 #
 # Security announcement date: 2013-08-28 19:03:34 UTC
-# Script generation date:     2016-11-20 21:12:46 UTC
+# Script generation date:     2016-11-24 21:12:11 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -32,13 +32,13 @@
 #   - python-perf.x86_64:2.6.32-642.11.1.el6
 #
 # CVE List:
-#   - CVE-2012-3552
 #   - CVE-2012-6544
+#   - CVE-2013-2146
 #   - CVE-2013-2206
+#   - CVE-2013-2224
 #   - CVE-2013-2232
 #   - CVE-2013-2237
-#   - CVE-2013-2146
-#   - CVE-2013-2224
+#   - CVE-2012-3552
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

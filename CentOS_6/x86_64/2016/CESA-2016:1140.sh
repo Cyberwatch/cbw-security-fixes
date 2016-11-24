@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:1140
 #
 # Security announcement date: 2016-05-31 10:58:08 UTC
-# Script generation date:     2016-06-22 12:29:41 UTC
+# Script generation date:     2016-11-24 21:13:08 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -16,7 +16,6 @@
 #   - squid34.x86_64:3.4.14-9.el6_8.3
 #
 # CVE List:
-#   - CVE-2009-0801
 #   - CVE-2016-4051
 #   - CVE-2016-4052
 #   - CVE-2016-4053
@@ -25,6 +24,7 @@
 #   - CVE-2016-4554
 #   - CVE-2016-4555
 #   - CVE-2016-4556
+#   - CVE-2009-0801
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

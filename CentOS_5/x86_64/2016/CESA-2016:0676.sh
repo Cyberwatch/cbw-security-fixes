@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2016:0676
 #
-# Security announcement date: 2016-04-21 15:42:31 UTC
-# Script generation date:     2016-11-20 21:13:34 UTC
+# Security announcement date: 2016-04-21 16:45:32 UTC
+# Script generation date:     2016-11-24 21:13:07 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64

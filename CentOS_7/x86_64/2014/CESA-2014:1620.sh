@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2014:1620
 #
-# Security announcement date: 2014-10-15 12:22:05 UTC
-# Script generation date:     2016-07-28 21:21:30 UTC
+# Security announcement date: 2014-10-20 18:15:04 UTC
+# Script generation date:     2016-11-24 21:12:39 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -34,10 +34,10 @@
 #   - CVE-2014-6506
 #   - CVE-2014-6511
 #   - CVE-2014-6512
-#   - CVE-2014-6531
-#   - CVE-2014-6558
 #   - CVE-2014-6517
 #   - CVE-2014-6519
+#   - CVE-2014-6531
+#   - CVE-2014-6558
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

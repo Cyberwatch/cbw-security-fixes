@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0721
 #
 # Security announcement date: 2012-06-13 00:11:19 UTC
-# Script generation date:     2016-10-29 21:15:35 UTC
+# Script generation date:     2016-11-24 21:11:52 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,8 +30,6 @@
 #   - kernel-xen-devel.x86_64:2.6.18-416.el5
 #
 # CVE List:
-#   - CVE-2012-0217
-#   - CVE-2012-2934
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

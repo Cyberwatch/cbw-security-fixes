@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:0188
 #
 # Security announcement date: 2016-02-17 01:50:23 UTC
-# Script generation date:     2016-05-12 18:08:57 UTC
+# Script generation date:     2016-11-24 21:13:03 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -16,7 +16,6 @@
 #   - sos.noarch:3.2-35.el7.centos.3
 #
 # CVE List:
-#   - CVE-2015-7529
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

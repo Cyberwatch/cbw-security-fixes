@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:0182
 #
 # Security announcement date: 2011-05-07 09:10:59 UTC
-# Script generation date:     2016-06-22 16:26:16 UTC
+# Script generation date:     2016-11-24 21:11:38 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -173,9 +173,9 @@
 #   - CVE-2010-3452
 #   - CVE-2010-3453
 #   - CVE-2010-3454
+#   - CVE-2010-3689
 #   - CVE-2010-4253
 #   - CVE-2010-4643
-#   - CVE-2010-3689
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

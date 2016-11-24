@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:2671
 #
 # Security announcement date: 2015-12-21 11:17:35 UTC
-# Script generation date:     2016-05-12 18:08:52 UTC
+# Script generation date:     2016-11-24 21:13:00 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -24,7 +24,6 @@
 #   - jakarta-commons-collections-tomcat5.x86_64:3.2-2jpp.4
 #
 # CVE List:
-#   - CVE-2015-7501
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

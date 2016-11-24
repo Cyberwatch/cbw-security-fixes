@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1243
 #
 # Security announcement date: 2014-09-30 11:21:28 UTC
-# Script generation date:     2016-05-12 18:08:25 UTC
+# Script generation date:     2016-11-24 21:12:36 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,7 +16,6 @@
 #   - automake.noarch:1.9.6-3.el5
 #
 # CVE List:
-#   - CVE-2012-3386
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

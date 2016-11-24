@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0033
 #
 # Security announcement date: 2012-01-18 19:55:58 UTC
-# Script generation date:     2016-06-22 16:33:36 UTC
+# Script generation date:     2016-11-24 21:11:44 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -57,8 +57,8 @@
 #   - CVE-2011-1466
 #   - CVE-2011-1469
 #   - CVE-2011-2202
-#   - CVE-2011-4885
 #   - CVE-2011-4566
+#   - CVE-2011-4885
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

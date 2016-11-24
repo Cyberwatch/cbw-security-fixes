@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:1135
 #
 # Security announcement date: 2015-06-24 03:28:02 UTC
-# Script generation date:     2016-08-13 21:22:31 UTC
+# Script generation date:     2016-11-24 21:12:49 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -64,30 +64,29 @@
 #   - php-xmlrpc.x86_64:5.4.16-36.3.el7_2
 #
 # CVE List:
-#   - CVE-2015-2301
+#   - CVE-2014-8142
 #   - CVE-2014-9652
+#   - CVE-2014-9705
 #   - CVE-2014-9709
-#   - CVE-2006-7243
 #   - CVE-2015-0231
 #   - CVE-2015-0232
-#   - CVE-2014-8142
-#   - CVE-2015-2787
-#   - CVE-2014-9705
 #   - CVE-2015-0273
+#   - CVE-2015-2301
 #   - CVE-2015-2348
 #   - CVE-2015-2783
-#   - CVE-2015-4022
+#   - CVE-2015-2787
 #   - CVE-2015-3307
 #   - CVE-2015-3329
 #   - CVE-2015-3330
+#   - CVE-2015-3411
+#   - CVE-2015-3412
 #   - CVE-2015-4021
+#   - CVE-2015-4022
 #   - CVE-2015-4024
 #   - CVE-2015-4025
 #   - CVE-2015-4026
 #   - CVE-2015-4147
 #   - CVE-2015-4148
-#   - CVE-2015-3411
-#   - CVE-2015-3412
 #   - CVE-2015-4598
 #   - CVE-2015-4599
 #   - CVE-2015-4600
@@ -96,6 +95,7 @@
 #   - CVE-2015-4603
 #   - CVE-2015-4604
 #   - CVE-2015-4605
+#   - CVE-2006-7243
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

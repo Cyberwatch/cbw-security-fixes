@@ -4,7 +4,7 @@
 # Security fix for CESA-2010:0088
 #
 # Security announcement date: 2010-02-09 13:51:39 UTC
-# Script generation date:     2016-09-29 21:11:06 UTC
+# Script generation date:     2016-11-24 21:11:30 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -24,8 +24,8 @@
 # CVE List:
 #   - CVE-2010-0297
 #   - CVE-2010-0298
-#   - CVE-2010-0309
 #   - CVE-2010-0306
+#   - CVE-2010-0309
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

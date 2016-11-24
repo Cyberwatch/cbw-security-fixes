@@ -4,7 +4,7 @@
 # Security fix for CESA-2010:0768
 #
 # Security announcement date: 2010-10-14 10:59:21 UTC
-# Script generation date:     2016-08-27 21:11:57 UTC
+# Script generation date:     2016-11-24 21:11:34 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -25,23 +25,23 @@
 #
 # CVE List:
 #   - CVE-2009-3555
-#   - CVE-2010-3564
 #   - CVE-2010-3541
+#   - CVE-2010-3548
 #   - CVE-2010-3549
+#   - CVE-2010-3551
 #   - CVE-2010-3553
 #   - CVE-2010-3554
 #   - CVE-2010-3557
-#   - CVE-2010-3562
-#   - CVE-2010-3574
-#   - CVE-2010-3548
-#   - CVE-2010-3551
 #   - CVE-2010-3561
+#   - CVE-2010-3562
+#   - CVE-2010-3564
 #   - CVE-2010-3565
-#   - CVE-2010-3566
 #   - CVE-2010-3567
 #   - CVE-2010-3568
 #   - CVE-2010-3569
 #   - CVE-2010-3573
+#   - CVE-2010-3574
+#   - CVE-2010-3566
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

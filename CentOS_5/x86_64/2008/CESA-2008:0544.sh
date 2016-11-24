@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2008:0544
 #
-# Security announcement date: 2008-07-17 03:00:08 UTC
-# Script generation date:     2016-05-12 18:07:04 UTC
+# Security announcement date: 2008-07-17 03:00:12 UTC
+# Script generation date:     2016-11-24 21:11:18 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -54,12 +54,12 @@
 #   - php.i386:5.1.6-20.el5_2.1
 #
 # CVE List:
-#   - CVE-2008-2107
-#   - CVE-2008-2108
 #   - CVE-2008-2051
-#   - CVE-2007-4782
 #   - CVE-2007-5898
 #   - CVE-2007-5899
+#   - CVE-2007-4782
+#   - CVE-2008-2107
+#   - CVE-2008-2108
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

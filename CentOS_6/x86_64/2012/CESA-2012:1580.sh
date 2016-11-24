@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1580
 #
 # Security announcement date: 2012-12-19 16:28:42 UTC
-# Script generation date:     2016-11-20 21:12:31 UTC
+# Script generation date:     2016-11-24 21:12:01 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -32,13 +32,13 @@
 #   - python-perf.x86_64:2.6.32-642.11.1.el6
 #
 # CVE List:
-#   - CVE-2009-4307
-#   - CVE-2012-4444
-#   - CVE-2012-5517
-#   - CVE-2011-4131
 #   - CVE-2012-2100
 #   - CVE-2012-2375
+#   - CVE-2012-4444
 #   - CVE-2012-4565
+#   - CVE-2012-5517
+#   - CVE-2011-4131
+#   - CVE-2009-4307
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

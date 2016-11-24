@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:0370
 #
 # Security announcement date: 2011-04-14 23:48:30 UTC
-# Script generation date:     2016-06-22 16:26:14 UTC
+# Script generation date:     2016-11-24 21:11:37 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -18,13 +18,13 @@
 #   - wireshark-gnome.x86_64:1.0.15-7.el5_11
 #
 # CVE List:
-#   - CVE-2011-0024
-#   - CVE-2011-1143
-#   - CVE-2011-1140
-#   - CVE-2011-1141
 #   - CVE-2010-3445
+#   - CVE-2011-0024
 #   - CVE-2011-0538
 #   - CVE-2011-1139
+#   - CVE-2011-1140
+#   - CVE-2011-1141
+#   - CVE-2011-1143
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

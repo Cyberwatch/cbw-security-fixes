@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1982
 #
 # Security announcement date: 2014-12-11 20:11:55 UTC
-# Script generation date:     2016-05-12 18:08:30 UTC
+# Script generation date:     2016-11-24 21:12:42 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -28,17 +28,17 @@
 #   - xorg-x11-server-Xvnc-source.x86_64:1.1.1-48.107.el5.centos
 #
 # CVE List:
-#   - CVE-2014-8095
-#   - CVE-2014-8098
-#   - CVE-2014-8102
-#   - CVE-2014-8092
 #   - CVE-2014-8091
+#   - CVE-2014-8092
+#   - CVE-2014-8093
+#   - CVE-2014-8095
 #   - CVE-2014-8096
 #   - CVE-2014-8097
-#   - CVE-2014-8093
+#   - CVE-2014-8098
 #   - CVE-2014-8099
 #   - CVE-2014-8100
 #   - CVE-2014-8101
+#   - CVE-2014-8102
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

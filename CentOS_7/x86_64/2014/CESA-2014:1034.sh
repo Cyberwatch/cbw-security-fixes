@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1034
 #
 # Security announcement date: 2014-08-07 18:48:52 UTC
-# Script generation date:     2016-10-12 21:15:34 UTC
+# Script generation date:     2016-11-24 21:12:34 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -34,7 +34,6 @@
 #   - tomcat-webapps.noarch:7.0.54-8.el7_2
 #
 # CVE List:
-#   - CVE-2014-0119
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

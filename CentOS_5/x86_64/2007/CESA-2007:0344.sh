@@ -3,23 +3,31 @@
 #
 # Security fix for CESA-2007:0344
 #
-# Security announcement date: 2007-05-31 10:11:03 UTC
-# Script generation date:     2016-05-12 18:06:52 UTC
+# Security announcement date: 2007-05-31 10:11:09 UTC
+# Script generation date:     2016-11-24 21:11:05 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - evolution-data-server.i386:1.8.0-15.0.3.el5
 #   - evolution-data-server.x86_64:1.8.0-15.0.3.el5
-#   - evolution-data-server-devel.x86_64:1.8.0-15.0.3.el5
 #   - evolution-data-server.i386:1.8.0-15.0.3.el5
 #   - evolution-data-server-devel.i386:1.8.0-15.0.3.el5
+#   - evolution-data-server.x86_64:1.8.0-15.0.3.el5
+#   - evolution-data-server-devel.x86_64:1.8.0-15.0.3.el5
+#   - evolution-data-server-devel.i386:1.8.0-15.0.3.el5
+#   - evolution-data-server-devel.x86_64:1.8.0-15.0.3.el5
 #
 # Last versions recommanded by security team:
+#   - evolution-data-server.i386:1.8.0-15.0.4.el5
 #   - evolution-data-server.x86_64:1.8.0-15.0.4.el5
-#   - evolution-data-server-devel.x86_64:1.8.0-15.0.4.el5
 #   - evolution-data-server.i386:1.8.0-15.0.4.el5
 #   - evolution-data-server-devel.i386:1.8.0-15.0.4.el5
+#   - evolution-data-server.x86_64:1.8.0-15.0.4.el5
+#   - evolution-data-server-devel.x86_64:1.8.0-15.0.4.el5
+#   - evolution-data-server-devel.i386:1.8.0-15.0.4.el5
+#   - evolution-data-server-devel.x86_64:1.8.0-15.0.4.el5
 #
 # CVE List:
 #
@@ -27,7 +35,11 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install evolution-data-server.i386-1.8.0 -y 
 sudo yum install evolution-data-server.x86_64-1.8.0 -y 
-sudo yum install evolution-data-server-devel.x86_64-1.8.0 -y 
 sudo yum install evolution-data-server.i386-1.8.0 -y 
 sudo yum install evolution-data-server-devel.i386-1.8.0 -y 
+sudo yum install evolution-data-server.x86_64-1.8.0 -y 
+sudo yum install evolution-data-server-devel.x86_64-1.8.0 -y 
+sudo yum install evolution-data-server-devel.i386-1.8.0 -y 
+sudo yum install evolution-data-server-devel.x86_64-1.8.0 -y 

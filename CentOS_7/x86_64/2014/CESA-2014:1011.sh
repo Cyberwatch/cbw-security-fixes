@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1011
 #
 # Security announcement date: 2014-08-06 14:38:38 UTC
-# Script generation date:     2016-05-12 18:08:22 UTC
+# Script generation date:     2016-11-24 21:12:34 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -36,8 +36,6 @@
 #   - resteasy-base-tjws.noarch:2.3.5-3.el7_0
 #
 # CVE List:
-#   - CVE-2014-3490
-#   - CVE-2012-0818
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

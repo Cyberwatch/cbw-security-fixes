@@ -3,13 +3,15 @@
 #
 # Security fix for CESA-2014:0866
 #
-# Security announcement date: 2014-07-09 18:04:17 UTC
-# Script generation date:     2016-05-12 18:08:19 UTC
+# Security announcement date: 2014-07-09 18:25:19 UTC
+# Script generation date:     2016-11-24 21:12:28 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - samba3x-winbind.i386:3.6.6-0.140.el5_10
+#   - samba3x-winbind-devel.i386:3.6.6-0.140.el5_10
 #   - samba3x.x86_64:3.6.6-0.140.el5_10
 #   - samba3x-client.x86_64:3.6.6-0.140.el5_10
 #   - samba3x-common.x86_64:3.6.6-0.140.el5_10
@@ -18,10 +20,10 @@
 #   - samba3x-swat.x86_64:3.6.6-0.140.el5_10
 #   - samba3x-winbind.x86_64:3.6.6-0.140.el5_10
 #   - samba3x-winbind-devel.x86_64:3.6.6-0.140.el5_10
-#   - samba3x-winbind.i386:3.6.6-0.140.el5_10
-#   - samba3x-winbind-devel.i386:3.6.6-0.140.el5_10
 #
 # Last versions recommanded by security team:
+#   - samba3x-winbind.i386:3.6.23-12.el5_11
+#   - samba3x-winbind-devel.i386:3.6.23-12.el5_11
 #   - samba3x.x86_64:3.6.23-12.el5_11
 #   - samba3x-client.x86_64:3.6.23-12.el5_11
 #   - samba3x-common.x86_64:3.6.23-12.el5_11
@@ -30,8 +32,6 @@
 #   - samba3x-swat.x86_64:3.6.23-12.el5_11
 #   - samba3x-winbind.x86_64:3.6.23-12.el5_11
 #   - samba3x-winbind-devel.x86_64:3.6.23-12.el5_11
-#   - samba3x-winbind.i386:3.6.23-12.el5_11
-#   - samba3x-winbind-devel.i386:3.6.23-12.el5_11
 #
 # CVE List:
 #   - CVE-2014-0244
@@ -41,6 +41,8 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install samba3x-winbind.i386-3.6.23 -y 
+sudo yum install samba3x-winbind-devel.i386-3.6.23 -y 
 sudo yum install samba3x.x86_64-3.6.23 -y 
 sudo yum install samba3x-client.x86_64-3.6.23 -y 
 sudo yum install samba3x-common.x86_64-3.6.23 -y 
@@ -49,5 +51,3 @@ sudo yum install samba3x-domainjoin-gui.x86_64-3.6.23 -y
 sudo yum install samba3x-swat.x86_64-3.6.23 -y 
 sudo yum install samba3x-winbind.x86_64-3.6.23 -y 
 sudo yum install samba3x-winbind-devel.x86_64-3.6.23 -y 
-sudo yum install samba3x-winbind.i386-3.6.23 -y 
-sudo yum install samba3x-winbind-devel.i386-3.6.23 -y 

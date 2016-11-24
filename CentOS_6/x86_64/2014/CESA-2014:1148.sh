@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2014:1148
 #
-# Security announcement date: 2014-09-03 23:16:08 UTC
-# Script generation date:     2016-08-05 21:23:25 UTC
+# Security announcement date: 2014-09-04 00:18:56 UTC
+# Script generation date:     2016-11-24 21:12:35 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64

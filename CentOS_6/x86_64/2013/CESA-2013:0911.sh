@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0911
 #
 # Security announcement date: 2013-06-12 13:37:13 UTC
-# Script generation date:     2016-11-20 21:12:44 UTC
+# Script generation date:     2016-11-24 21:12:10 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -32,9 +32,9 @@
 #   - python-perf.x86_64:2.6.32-642.11.1.el6
 #
 # CVE List:
+#   - CVE-2013-1935
 #   - CVE-2013-1943
 #   - CVE-2013-2017
-#   - CVE-2013-1935
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

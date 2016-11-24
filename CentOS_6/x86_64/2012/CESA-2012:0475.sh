@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0475
 #
 # Security announcement date: 2012-04-11 20:13:41 UTC
-# Script generation date:     2016-10-12 21:14:39 UTC
+# Script generation date:     2016-11-24 21:11:49 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -32,8 +32,6 @@
 #   - tomcat6-webapps.noarch:6.0.24-98.el6_8
 #
 # CVE List:
-#   - CVE-2012-0022
-#   - CVE-2011-4858
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

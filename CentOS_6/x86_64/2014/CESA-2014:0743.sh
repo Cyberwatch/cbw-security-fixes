@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:0743
 #
 # Security announcement date: 2014-06-11 11:37:18 UTC
-# Script generation date:     2016-08-10 21:23:54 UTC
+# Script generation date:     2016-11-24 21:12:28 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -22,16 +22,16 @@
 #   - qemu-kvm-tools.x86_64:0.12.1.2-2.491.el6_8.3
 #
 # CVE List:
+#   - CVE-2013-4148
+#   - CVE-2013-4151
+#   - CVE-2013-4535
+#   - CVE-2013-4536
 #   - CVE-2013-4541
 #   - CVE-2013-4542
 #   - CVE-2013-6399
 #   - CVE-2014-0182
 #   - CVE-2014-2894
-#   - CVE-2013-4148
-#   - CVE-2013-4151
 #   - CVE-2014-3461
-#   - CVE-2013-4535
-#   - CVE-2013-4536
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

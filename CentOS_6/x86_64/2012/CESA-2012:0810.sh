@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0810
 #
 # Security announcement date: 2012-07-10 17:22:13 UTC
-# Script generation date:     2016-05-12 18:07:44 UTC
+# Script generation date:     2016-11-24 21:11:53 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -18,8 +18,6 @@
 #   - busybox-petitboot.x86_64:1.15.1-20.el6
 #
 # CVE List:
-#   - CVE-2011-2716
-#   - CVE-2006-1168
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

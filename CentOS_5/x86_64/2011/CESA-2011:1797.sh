@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:1797
 #
 # Security announcement date: 2011-12-09 08:14:32 UTC
-# Script generation date:     2016-06-22 16:33:30 UTC
+# Script generation date:     2016-11-24 21:11:41 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - perl-suidperl.x86_64:5.8.8-32.el5_7.6
 #
 # Last versions recommanded by security team:
-#   - perl.x86_64:5.8.8-40.el5_9
-#   - perl-suidperl.x86_64:5.8.8-40.el5_9
+#   - perl.x86_64:5.8.8-41.el5
+#   - perl-suidperl.x86_64:5.8.8-41.el5
 #
 # CVE List:
 #   - CVE-2010-2761

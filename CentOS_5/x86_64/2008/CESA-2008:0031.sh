@@ -4,12 +4,18 @@
 # Security fix for CESA-2008:0031
 #
 # Security announcement date: 2008-01-20 03:46:29 UTC
-# Script generation date:     2016-05-12 18:06:59 UTC
+# Script generation date:     2016-11-24 21:11:14 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - xorg-x11-server-sdk.x86_64:1.1.1-48.26.el5_1.4
+#   - xorg-x11-server-Xdmx.x86_64:1.1.1-48.26.el5_1.4
+#   - xorg-x11-server-Xephyr.x86_64:1.1.1-48.26.el5_1.4
+#   - xorg-x11-server-Xnest.x86_64:1.1.1-48.26.el5_1.4
+#   - xorg-x11-server-Xorg.x86_64:1.1.1-48.26.el5_1.4
+#   - xorg-x11-server-Xvfb.x86_64:1.1.1-48.26.el5_1.4
 #   - xorg-x11-server-sdk.x86_64:1.1.1-48.26.el5_1.5
 #   - xorg-x11-server-Xdmx.x86_64:1.1.1-48.26.el5_1.5
 #   - xorg-x11-server-Xephyr.x86_64:1.1.1-48.26.el5_1.5
@@ -38,6 +44,12 @@
 #   - XFree86-Xvfb.i386:4.1.0-86.EL
 #
 # Last versions recommanded by security team:
+#   - xorg-x11-server-sdk.x86_64:1.1.1-48.107.el5.centos
+#   - xorg-x11-server-Xdmx.x86_64:1.1.1-48.107.el5.centos
+#   - xorg-x11-server-Xephyr.x86_64:1.1.1-48.107.el5.centos
+#   - xorg-x11-server-Xnest.x86_64:1.1.1-48.107.el5.centos
+#   - xorg-x11-server-Xorg.x86_64:1.1.1-48.107.el5.centos
+#   - xorg-x11-server-Xvfb.x86_64:1.1.1-48.107.el5.centos
 #   - xorg-x11-server-sdk.x86_64:1.1.1-48.107.el5.centos
 #   - xorg-x11-server-Xdmx.x86_64:1.1.1-48.107.el5.centos
 #   - xorg-x11-server-Xephyr.x86_64:1.1.1-48.107.el5.centos
@@ -76,6 +88,12 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install xorg-x11-server-sdk.x86_64-1.1.1 -y 
+sudo yum install xorg-x11-server-Xdmx.x86_64-1.1.1 -y 
+sudo yum install xorg-x11-server-Xephyr.x86_64-1.1.1 -y 
+sudo yum install xorg-x11-server-Xnest.x86_64-1.1.1 -y 
+sudo yum install xorg-x11-server-Xorg.x86_64-1.1.1 -y 
+sudo yum install xorg-x11-server-Xvfb.x86_64-1.1.1 -y 
 sudo yum install xorg-x11-server-sdk.x86_64-1.1.1 -y 
 sudo yum install xorg-x11-server-Xdmx.x86_64-1.1.1 -y 
 sudo yum install xorg-x11-server-Xephyr.x86_64-1.1.1 -y 

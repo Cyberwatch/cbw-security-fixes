@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:1423
 #
 # Security announcement date: 2011-11-03 03:59:22 UTC
-# Script generation date:     2016-06-22 16:33:26 UTC
+# Script generation date:     2016-11-24 21:11:41 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -62,9 +62,9 @@
 #   - CVE-2011-1468
 #   - CVE-2011-1469
 #   - CVE-2011-1471
+#   - CVE-2011-1938
 #   - CVE-2011-2202
 #   - CVE-2011-2483
-#   - CVE-2011-1938
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

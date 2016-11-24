@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:0043
 #
 # Security announcement date: 2016-01-14 23:31:46 UTC
-# Script generation date:     2016-05-12 18:08:55 UTC
+# Script generation date:     2016-11-24 21:13:02 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -17,8 +17,8 @@
 #   - openssh-ldap.x86_64:6.6.1p1-23.el7_2
 #   - openssh-server.x86_64:6.6.1p1-23.el7_2
 #   - openssh-server-sysvinit.x86_64:6.6.1p1-23.el7_2
-#   - pam_ssh_agent_auth.x86_64:0.9.3-9.23.el7_2
 #   - pam_ssh_agent_auth.i686:0.9.3-9.23.el7_2
+#   - pam_ssh_agent_auth.x86_64:0.9.3-9.23.el7_2
 #
 # Last versions recommanded by security team:
 #   - openssh.x86_64:6.6.1p1-25.el7_2
@@ -28,8 +28,8 @@
 #   - openssh-ldap.x86_64:6.6.1p1-25.el7_2
 #   - openssh-server.x86_64:6.6.1p1-25.el7_2
 #   - openssh-server-sysvinit.x86_64:6.6.1p1-25.el7_2
-#   - pam_ssh_agent_auth.x86_64:0.9.3-9.25.el7_2
 #   - pam_ssh_agent_auth.i686:0.9.3-9.25.el7_2
+#   - pam_ssh_agent_auth.x86_64:0.9.3-9.25.el7_2
 #
 # CVE List:
 #   - CVE-2016-0777
@@ -46,5 +46,5 @@ sudo yum install openssh-keycat.x86_64-6.6.1p1 -y
 sudo yum install openssh-ldap.x86_64-6.6.1p1 -y 
 sudo yum install openssh-server.x86_64-6.6.1p1 -y 
 sudo yum install openssh-server-sysvinit.x86_64-6.6.1p1 -y 
-sudo yum install pam_ssh_agent_auth.x86_64-0.9.3 -y 
 sudo yum install pam_ssh_agent_auth.i686-0.9.3 -y 
+sudo yum install pam_ssh_agent_auth.x86_64-0.9.3 -y 

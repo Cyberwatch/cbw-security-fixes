@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2007:0386
 #
-# Security announcement date: 2007-06-04 11:52:46 UTC
-# Script generation date:     2016-05-12 18:06:52 UTC
+# Security announcement date: 2007-06-04 11:52:51 UTC
+# Script generation date:     2016-11-24 21:11:05 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64

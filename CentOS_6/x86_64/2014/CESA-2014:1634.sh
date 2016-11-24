@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1634
 #
 # Security announcement date: 2014-10-20 18:15:01 UTC
-# Script generation date:     2016-08-27 21:13:07 UTC
+# Script generation date:     2016-11-24 21:12:39 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -30,10 +30,10 @@
 #   - CVE-2014-6506
 #   - CVE-2014-6511
 #   - CVE-2014-6512
-#   - CVE-2014-6531
-#   - CVE-2014-6558
 #   - CVE-2014-6517
 #   - CVE-2014-6519
+#   - CVE-2014-6531
+#   - CVE-2014-6558
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

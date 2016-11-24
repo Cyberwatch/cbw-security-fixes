@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0676
 #
 # Security announcement date: 2012-05-21 16:43:32 UTC
-# Script generation date:     2016-09-29 21:11:30 UTC
+# Script generation date:     2016-11-24 21:11:50 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -24,8 +24,8 @@
 #   - kvm-tools.x86_64:83-276.el5.centos
 #
 # CVE List:
-#   - CVE-2012-2121
 #   - CVE-2012-1601
+#   - CVE-2012-2121
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

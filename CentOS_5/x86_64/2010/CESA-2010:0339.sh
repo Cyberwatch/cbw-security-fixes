@@ -4,7 +4,7 @@
 # Security fix for CESA-2010:0339
 #
 # Security announcement date: 2010-06-12 15:56:24 UTC
-# Script generation date:     2016-08-27 21:11:53 UTC
+# Script generation date:     2016-11-24 21:11:32 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -26,11 +26,9 @@
 # CVE List:
 #   - CVE-2009-3555
 #   - CVE-2010-0082
+#   - CVE-2010-0084
 #   - CVE-2010-0085
 #   - CVE-2010-0088
-#   - CVE-2010-0847
-#   - CVE-2010-0848
-#   - CVE-2010-0084
 #   - CVE-2010-0091
 #   - CVE-2010-0092
 #   - CVE-2010-0093
@@ -40,6 +38,8 @@
 #   - CVE-2010-0838
 #   - CVE-2010-0840
 #   - CVE-2010-0845
+#   - CVE-2010-0847
+#   - CVE-2010-0848
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2016:1626
 #
-# Security announcement date: 2016-08-18 17:23:01 UTC
-# Script generation date:     2016-08-20 21:22:46 UTC
+# Security announcement date: 2016-08-18 17:23:23 UTC
+# Script generation date:     2016-11-24 21:13:11 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -31,8 +31,8 @@
 #
 # CVE List:
 #   - CVE-2016-0772
-#   - CVE-2016-5699
 #   - CVE-2016-1000110
+#   - CVE-2016-5699
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

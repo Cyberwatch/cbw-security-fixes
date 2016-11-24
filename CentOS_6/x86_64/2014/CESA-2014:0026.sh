@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:0026
 #
 # Security announcement date: 2014-01-15 11:04:23 UTC
-# Script generation date:     2016-11-13 21:12:46 UTC
+# Script generation date:     2016-11-24 21:12:24 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -24,9 +24,12 @@
 #   - java-1.7.0-openjdk-src.x86_64:1.7.0.121-2.6.8.1.el6_8
 #
 # CVE List:
+#   - CVE-2013-5878
 #   - CVE-2013-5884
+#   - CVE-2013-5893
 #   - CVE-2013-5896
 #   - CVE-2013-5907
+#   - CVE-2013-5910
 #   - CVE-2014-0368
 #   - CVE-2014-0373
 #   - CVE-2014-0376
@@ -35,9 +38,6 @@
 #   - CVE-2014-0422
 #   - CVE-2014-0423
 #   - CVE-2014-0428
-#   - CVE-2013-5878
-#   - CVE-2013-5910
-#   - CVE-2013-5893
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

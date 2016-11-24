@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:1778
 #
 # Security announcement date: 2015-09-16 12:54:26 UTC
-# Script generation date:     2016-10-26 21:14:26 UTC
+# Script generation date:     2016-11-24 21:12:55 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -40,11 +40,11 @@
 # CVE List:
 #   - CVE-2014-9585
 #   - CVE-2015-0275
+#   - CVE-2015-1333
+#   - CVE-2015-3212
 #   - CVE-2015-4700
 #   - CVE-2015-5364
 #   - CVE-2015-5366
-#   - CVE-2015-1333
-#   - CVE-2015-3212
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

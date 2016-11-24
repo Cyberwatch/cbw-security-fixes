@@ -1,0 +1,39 @@
+#!/bin/sh
+# CYBERWATCH SAS - 2016
+#
+# Security fix for CESA-2012:0062
+#
+# Security announcement date: 2012-01-30 20:25:25 UTC
+# Script generation date:     2016-11-24 21:11:44 UTC
+#
+# Operating System: CentOS 6
+# Architecture: i386
+#
+# Vulnerable packages fix on version:
+#   - t1lib.i686:5.1.2-6.el6_2.1
+#   - t1lib-apps.i686:5.1.2-6.el6_2.1
+#   - t1lib-devel.i686:5.1.2-6.el6_2.1
+#   - t1lib-static.i686:5.1.2-6.el6_2.1
+#
+# Last versions recommanded by security team:
+#   - t1lib.i686:5.1.2-6.el6_2.1
+#   - t1lib-apps.i686:5.1.2-6.el6_2.1
+#   - t1lib-devel.i686:5.1.2-6.el6_2.1
+#   - t1lib-static.i686:5.1.2-6.el6_2.1
+#
+# CVE List:
+#   - CVE-2010-2642
+#   - CVE-2011-0433
+#   - CVE-2011-0764
+#   - CVE-2011-1552
+#   - CVE-2011-1553
+#   - CVE-2011-1554
+#
+# More details:
+#   - https://www.cyberwatch.fr/vulnerabilites
+#
+# Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install t1lib.i686-5.1.2 -y 
+sudo yum install t1lib-apps.i686-5.1.2 -y 
+sudo yum install t1lib-devel.i686-5.1.2 -y 
+sudo yum install t1lib-static.i686-5.1.2 -y 

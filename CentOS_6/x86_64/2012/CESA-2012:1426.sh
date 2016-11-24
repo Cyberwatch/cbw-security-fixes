@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1426
 #
 # Security announcement date: 2012-11-07 12:15:29 UTC
-# Script generation date:     2016-11-20 21:12:30 UTC
+# Script generation date:     2016-11-24 21:12:00 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -33,9 +33,9 @@
 #
 # CVE List:
 #   - CVE-2012-1568
+#   - CVE-2012-2133
 #   - CVE-2012-3400
 #   - CVE-2012-3511
-#   - CVE-2012-2133
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

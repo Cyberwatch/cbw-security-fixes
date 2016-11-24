@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1445
 #
 # Security announcement date: 2012-11-13 20:46:28 UTC
-# Script generation date:     2016-10-29 21:15:43 UTC
+# Script generation date:     2016-11-24 21:12:00 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,8 +30,8 @@
 #   - kernel-xen-devel.x86_64:2.6.18-416.el5
 #
 # CVE List:
-#   - CVE-2009-4307
 #   - CVE-2012-2100
+#   - CVE-2009-4307
 #   - CVE-2012-2934
 #
 # More details:

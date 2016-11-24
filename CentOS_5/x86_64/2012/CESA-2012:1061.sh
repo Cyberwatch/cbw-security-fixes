@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1061
 #
 # Security announcement date: 2012-07-10 16:58:44 UTC
-# Script generation date:     2016-10-29 21:15:36 UTC
+# Script generation date:     2016-11-24 21:11:52 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,8 +30,8 @@
 #   - kernel-xen-devel.x86_64:2.6.18-416.el5
 #
 # CVE List:
-#   - CVE-2011-1083
 #   - CVE-2012-3375
+#   - CVE-2011-1083
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

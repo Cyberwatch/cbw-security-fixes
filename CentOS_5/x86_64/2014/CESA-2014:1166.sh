@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2014:1166
 #
-# Security announcement date: 2014-09-08 16:54:16 UTC
-# Script generation date:     2016-05-12 18:08:23 UTC
+# Security announcement date: 2014-09-08 17:24:40 UTC
+# Script generation date:     2016-11-24 21:12:35 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -22,8 +22,8 @@
 #   - jakarta-commons-httpclient-manual.x86_64:3.0-7jpp.4.el5_10
 #
 # CVE List:
-#   - CVE-2012-6153
 #   - CVE-2014-3577
+#   - CVE-2012-6153
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

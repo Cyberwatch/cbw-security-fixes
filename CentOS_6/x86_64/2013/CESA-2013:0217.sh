@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0217
 #
 # Security announcement date: 2013-02-01 00:53:30 UTC
-# Script generation date:     2016-05-12 18:07:54 UTC
+# Script generation date:     2016-11-24 21:12:02 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -18,17 +18,6 @@
 #   - mingw32-libxml2-static.noarch:2.7.6-6.el6_3
 #
 # CVE List:
-#   - CVE-2011-3102
-#   - CVE-2012-0841
-#   - CVE-2012-5134
-#   - CVE-2010-4008
-#   - CVE-2011-0216
-#   - CVE-2010-4494
-#   - CVE-2011-2821
-#   - CVE-2011-2834
-#   - CVE-2011-3905
-#   - CVE-2011-3919
-#   - CVE-2011-1944
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

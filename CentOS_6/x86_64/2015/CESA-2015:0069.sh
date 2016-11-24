@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:0069
 #
 # Security announcement date: 2015-01-21 05:43:50 UTC
-# Script generation date:     2016-10-20 21:16:07 UTC
+# Script generation date:     2016-11-24 21:12:43 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -27,18 +27,18 @@
 #
 # CVE List:
 #   - CVE-2014-3566
+#   - CVE-2014-6549
 #   - CVE-2014-6585
-#   - CVE-2014-6593
-#   - CVE-2015-0383
-#   - CVE-2015-0410
+#   - CVE-2014-6587
 #   - CVE-2014-6591
+#   - CVE-2014-6593
+#   - CVE-2014-6601
+#   - CVE-2015-0383
 #   - CVE-2015-0395
 #   - CVE-2015-0407
 #   - CVE-2015-0408
-#   - CVE-2014-6601
-#   - CVE-2014-6587
+#   - CVE-2015-0410
 #   - CVE-2015-0412
-#   - CVE-2014-6549
 #   - CVE-2015-0437
 #
 # More details:

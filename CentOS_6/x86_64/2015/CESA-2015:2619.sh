@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2015:2619
 #
-# Security announcement date: 2015-12-14 23:10:44 UTC
-# Script generation date:     2016-05-12 18:08:50 UTC
+# Security announcement date: 2015-12-14 23:41:10 UTC
+# Script generation date:     2016-11-24 21:12:58 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -43,6 +43,7 @@
 #   - autocorr-tr.noarch:4.2.8.2-11.el6_7.1
 #   - autocorr-vi.noarch:4.2.8.2-11.el6_7.1
 #   - autocorr-zh.noarch:4.2.8.2-11.el6_7.1
+#   - libreoffice-gdb-debug-support.i686:4.2.8.2-11.el6_7.1
 #   - libreoffice-opensymbol-fonts.noarch:4.2.8.2-11.el6_7.1
 #   - libreoffice.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-base.x86_64:4.2.8.2-11.el6_7.1
@@ -135,7 +136,6 @@
 #   - libreoffice-wiki-publisher.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-writer.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-xsltfilter.x86_64:4.2.8.2-11.el6_7.1
-#   - libreoffice-gdb-debug-support.i686:4.2.8.2-11.el6_7.1
 #
 # Last versions recommanded by security team:
 #   - autocorr-af.noarch:4.2.8.2-11.el6_7.1
@@ -171,6 +171,7 @@
 #   - autocorr-tr.noarch:4.2.8.2-11.el6_7.1
 #   - autocorr-vi.noarch:4.2.8.2-11.el6_7.1
 #   - autocorr-zh.noarch:4.2.8.2-11.el6_7.1
+#   - libreoffice-gdb-debug-support.i686:4.2.8.2-11.el6_7.1
 #   - libreoffice-opensymbol-fonts.noarch:4.2.8.2-11.el6_7.1
 #   - libreoffice.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-base.x86_64:4.2.8.2-11.el6_7.1
@@ -263,7 +264,6 @@
 #   - libreoffice-wiki-publisher.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-writer.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-xsltfilter.x86_64:4.2.8.2-11.el6_7.1
-#   - libreoffice-gdb-debug-support.i686:4.2.8.2-11.el6_7.1
 #
 # CVE List:
 #   - CVE-2015-4551
@@ -308,6 +308,7 @@ sudo yum install autocorr-sv.noarch-4.2.8.2 -y
 sudo yum install autocorr-tr.noarch-4.2.8.2 -y 
 sudo yum install autocorr-vi.noarch-4.2.8.2 -y 
 sudo yum install autocorr-zh.noarch-4.2.8.2 -y 
+sudo yum install libreoffice-gdb-debug-support.i686-4.2.8.2 -y 
 sudo yum install libreoffice-opensymbol-fonts.noarch-4.2.8.2 -y 
 sudo yum install libreoffice.x86_64-4.2.8.2 -y 
 sudo yum install libreoffice-base.x86_64-4.2.8.2 -y 
@@ -400,4 +401,3 @@ sudo yum install libreoffice-ure.x86_64-4.2.8.2 -y
 sudo yum install libreoffice-wiki-publisher.x86_64-4.2.8.2 -y 
 sudo yum install libreoffice-writer.x86_64-4.2.8.2 -y 
 sudo yum install libreoffice-xsltfilter.x86_64-4.2.8.2 -y 
-sudo yum install libreoffice-gdb-debug-support.i686-4.2.8.2 -y 

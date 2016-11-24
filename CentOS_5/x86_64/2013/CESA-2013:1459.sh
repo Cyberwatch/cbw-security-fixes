@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1459
 #
 # Security announcement date: 2013-10-25 13:57:55 UTC
-# Script generation date:     2016-05-12 18:08:08 UTC
+# Script generation date:     2016-11-24 21:12:13 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,9 +16,9 @@
 #   - gnupg2.x86_64:2.0.10-6.el5_10
 #
 # CVE List:
-#   - CVE-2013-4402
 #   - CVE-2012-6085
 #   - CVE-2013-4351
+#   - CVE-2013-4402
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

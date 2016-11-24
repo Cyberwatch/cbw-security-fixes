@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:1237
 #
 # Security announcement date: 2016-06-16 23:49:33 UTC
-# Script generation date:     2016-06-22 12:29:40 UTC
+# Script generation date:     2016-11-24 21:13:09 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -34,12 +34,12 @@
 #   - ImageMagick-perl.x86_64:6.7.8.9-15.el7_2
 #
 # CVE List:
-#   - CVE-2016-5118
-#   - CVE-2015-8896
 #   - CVE-2015-8895
-#   - CVE-2016-5239
+#   - CVE-2015-8896
 #   - CVE-2015-8897
 #   - CVE-2015-8898
+#   - CVE-2016-5118
+#   - CVE-2016-5239
 #   - CVE-2016-5240
 #
 # More details:

@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2016:1392
 #
-# Security announcement date: 2016-07-11 23:09:28 UTC
-# Script generation date:     2016-10-04 21:16:12 UTC
+# Security announcement date: 2016-07-11 23:27:07 UTC
+# Script generation date:     2016-11-24 21:13:09 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64

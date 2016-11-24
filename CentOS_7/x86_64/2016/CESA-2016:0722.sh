@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:0722
 #
 # Security announcement date: 2016-05-09 08:40:50 UTC
-# Script generation date:     2016-09-29 21:12:42 UTC
+# Script generation date:     2016-11-24 21:13:07 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -31,12 +31,12 @@
 #
 # CVE List:
 #   - CVE-2016-0799
-#   - CVE-2016-2842
-#   - CVE-2016-2108
-#   - CVE-2016-2107
 #   - CVE-2016-2105
 #   - CVE-2016-2106
+#   - CVE-2016-2107
+#   - CVE-2016-2108
 #   - CVE-2016-2109
+#   - CVE-2016-2842
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

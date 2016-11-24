@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2010:0919
 #
-# Security announcement date: 2010-11-30 12:21:15 UTC
-# Script generation date:     2016-05-12 18:07:25 UTC
+# Security announcement date: 2010-11-30 12:21:14 UTC
+# Script generation date:     2016-11-24 21:11:35 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -53,12 +53,12 @@
 #
 # CVE List:
 #   - CVE-2009-5016
-#   - CVE-2010-3870
+#   - CVE-2010-0397
 #   - CVE-2010-1128
 #   - CVE-2010-1917
 #   - CVE-2010-2531
 #   - CVE-2010-3065
-#   - CVE-2010-0397
+#   - CVE-2010-3870
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

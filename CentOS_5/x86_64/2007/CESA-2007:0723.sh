@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2007:0723
 #
-# Security announcement date: 2007-07-20 05:50:46 UTC
-# Script generation date:     2016-10-04 21:13:57 UTC
+# Security announcement date: 2007-07-20 05:51:01 UTC
+# Script generation date:     2016-11-24 21:11:08 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64

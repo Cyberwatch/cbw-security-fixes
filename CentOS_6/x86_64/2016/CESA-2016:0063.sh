@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2016:0063
 #
-# Security announcement date: 2016-01-25 14:27:37 UTC
-# Script generation date:     2016-06-22 12:29:10 UTC
+# Security announcement date: 2016-01-25 15:08:59 UTC
+# Script generation date:     2016-11-24 21:13:02 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -16,10 +16,10 @@
 #   - ntp-perl.x86_64:4.2.6p5-5.el6.centos.4
 #
 # Last versions recommanded by security team:
-#   - ntp-doc.noarch:4.2.6p5-10.el6.centos.1
-#   - ntp.x86_64:4.2.6p5-10.el6.centos.1
-#   - ntpdate.x86_64:4.2.6p5-10.el6.centos.1
-#   - ntp-perl.x86_64:4.2.6p5-10.el6.centos.1
+#   - ntp-doc.noarch:4.2.6p5-10.el6.centos
+#   - ntp.x86_64:4.2.6p5-10.el6.centos
+#   - ntpdate.x86_64:4.2.6p5-10.el6.centos
+#   - ntp-perl.x86_64:4.2.6p5-10.el6.centos
 #
 # CVE List:
 #   - CVE-2015-8138

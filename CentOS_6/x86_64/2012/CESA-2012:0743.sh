@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0743
 #
 # Security announcement date: 2012-06-19 10:27:24 UTC
-# Script generation date:     2016-11-20 21:12:22 UTC
+# Script generation date:     2016-11-24 21:11:52 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -32,15 +32,6 @@
 #   - python-perf.x86_64:2.6.32-642.11.1.el6
 #
 # CVE List:
-#   - CVE-2012-0044
-#   - CVE-2012-2137
-#   - CVE-2012-1179
-#   - CVE-2012-2123
-#   - CVE-2012-2121
-#   - CVE-2012-2119
-#   - CVE-2012-2136
-#   - CVE-2012-2373
-#   - CVE-2012-2372
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:1546
 #
 # Security announcement date: 2016-08-02 21:57:58 UTC
-# Script generation date:     2016-08-05 21:26:01 UTC
+# Script generation date:     2016-11-24 21:13:10 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -28,15 +28,15 @@
 #   - libtiff-tools.x86_64:4.0.3-25.el7_2
 #
 # CVE List:
-#   - CVE-2014-9330
 #   - CVE-2014-8127
 #   - CVE-2014-8129
 #   - CVE-2014-8130
+#   - CVE-2014-9330
 #   - CVE-2014-9655
 #   - CVE-2015-1547
 #   - CVE-2015-7554
-#   - CVE-2015-8668
 #   - CVE-2015-8665
+#   - CVE-2015-8668
 #   - CVE-2015-8683
 #   - CVE-2015-8781
 #   - CVE-2015-8782

@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0747
 #
 # Security announcement date: 2013-04-17 04:13:17 UTC
-# Script generation date:     2016-10-29 21:15:54 UTC
+# Script generation date:     2016-11-24 21:12:08 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,14 +30,14 @@
 #   - kernel-xen-devel.x86_64:2.6.18-416.el5
 #
 # CVE List:
-#   - CVE-2013-0231
 #   - CVE-2012-6537
 #   - CVE-2012-6542
 #   - CVE-2012-6546
 #   - CVE-2012-6547
 #   - CVE-2013-0216
-#   - CVE-2013-0217
+#   - CVE-2013-0231
 #   - CVE-2013-1826
+#   - CVE-2013-0217
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

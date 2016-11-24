@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2014:0097
 #
-# Security announcement date: 2014-01-27 22:53:27 UTC
-# Script generation date:     2016-08-27 21:12:53 UTC
+# Security announcement date: 2014-01-28 00:15:19 UTC
+# Script generation date:     2016-11-24 21:12:24 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -24,9 +24,11 @@
 #   - java-1.6.0-openjdk-src.x86_64:1.6.0.40-1.13.12.6.el6_8
 #
 # CVE List:
+#   - CVE-2013-5878
 #   - CVE-2013-5884
 #   - CVE-2013-5896
 #   - CVE-2013-5907
+#   - CVE-2013-5910
 #   - CVE-2014-0368
 #   - CVE-2014-0373
 #   - CVE-2014-0376
@@ -35,8 +37,6 @@
 #   - CVE-2014-0422
 #   - CVE-2014-0423
 #   - CVE-2014-0428
-#   - CVE-2013-5878
-#   - CVE-2013-5910
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

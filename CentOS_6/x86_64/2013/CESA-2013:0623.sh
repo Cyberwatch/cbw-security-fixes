@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0623
 #
 # Security announcement date: 2013-03-12 05:31:44 UTC
-# Script generation date:     2016-10-12 21:15:04 UTC
+# Script generation date:     2016-11-24 21:12:06 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -32,11 +32,6 @@
 #   - tomcat6-webapps.noarch:6.0.24-98.el6_8
 #
 # CVE List:
-#   - CVE-2012-5885
-#   - CVE-2012-5886
-#   - CVE-2012-5887
-#   - CVE-2012-3546
-#   - CVE-2012-4534
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

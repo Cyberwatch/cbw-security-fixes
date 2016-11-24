@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1441
 #
 # Security announcement date: 2013-10-18 12:42:23 UTC
-# Script generation date:     2016-05-12 18:08:08 UTC
+# Script generation date:     2016-11-24 21:12:12 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -13,12 +13,9 @@
 #   - rubygems.noarch:1.3.7-4.el6_4
 #
 # Last versions recommanded by security team:
-#   - rubygems.noarch:1.3.7-4.el6_4
+#   - rubygems.noarch:1.3.7-5.el6
 #
 # CVE List:
-#   - CVE-2013-4287
-#   - CVE-2012-2125
-#   - CVE-2012-2126
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

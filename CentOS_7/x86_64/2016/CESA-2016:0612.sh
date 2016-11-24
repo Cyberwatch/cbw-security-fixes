@@ -4,12 +4,84 @@
 # Security fix for CESA-2016:0612
 #
 # Security announcement date: 2016-04-13 03:11:17 UTC
-# Script generation date:     2016-09-12 11:55:53 UTC
+# Script generation date:     2016-11-24 21:13:06 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - libtalloc.i686:2.1.5-1.el7_2
+#   - libtalloc.x86_64:2.1.5-1.el7_2
+#   - libtalloc-devel.i686:2.1.5-1.el7_2
+#   - libtalloc-devel.x86_64:2.1.5-1.el7_2
+#   - pytalloc.i686:2.1.5-1.el7_2
+#   - pytalloc.x86_64:2.1.5-1.el7_2
+#   - pytalloc-devel.i686:2.1.5-1.el7_2
+#   - pytalloc-devel.x86_64:2.1.5-1.el7_2
+#   - libtdb.i686:1.3.8-1.el7_2
+#   - libtdb.x86_64:1.3.8-1.el7_2
+#   - libtdb-devel.i686:1.3.8-1.el7_2
+#   - libtdb-devel.x86_64:1.3.8-1.el7_2
+#   - python-tdb.i686:1.3.8-1.el7_2
+#   - python-tdb.x86_64:1.3.8-1.el7_2
+#   - tdb-tools.x86_64:1.3.8-1.el7_2
+#   - libtevent.i686:0.9.26-1.el7_2
+#   - libtevent.x86_64:0.9.26-1.el7_2
+#   - libtevent-devel.i686:0.9.26-1.el7_2
+#   - libtevent-devel.x86_64:0.9.26-1.el7_2
+#   - python-tevent.x86_64:0.9.26-1.el7_2
+#   - ldb-tools.x86_64:1.1.25-1.el7_2
+#   - libldb.i686:1.1.25-1.el7_2
+#   - libldb.x86_64:1.1.25-1.el7_2
+#   - libldb-devel.i686:1.1.25-1.el7_2
+#   - libldb-devel.x86_64:1.1.25-1.el7_2
+#   - pyldb.i686:1.1.25-1.el7_2
+#   - pyldb.x86_64:1.1.25-1.el7_2
+#   - pyldb-devel.i686:1.1.25-1.el7_2
+#   - pyldb-devel.x86_64:1.1.25-1.el7_2
+#   - ctdb.x86_64:4.2.10-6.el7_2
+#   - ctdb-devel.i686:4.2.10-6.el7_2
+#   - ctdb-devel.x86_64:4.2.10-6.el7_2
+#   - ctdb-tests.x86_64:4.2.10-6.el7_2
+#   - libsmbclient.i686:4.2.10-6.el7_2
+#   - libsmbclient.x86_64:4.2.10-6.el7_2
+#   - libsmbclient-devel.i686:4.2.10-6.el7_2
+#   - libsmbclient-devel.x86_64:4.2.10-6.el7_2
+#   - libwbclient.i686:4.2.10-6.el7_2
+#   - libwbclient.x86_64:4.2.10-6.el7_2
+#   - libwbclient-devel.i686:4.2.10-6.el7_2
+#   - libwbclient-devel.x86_64:4.2.10-6.el7_2
+#   - samba.x86_64:4.2.10-6.el7_2
+#   - samba-client.x86_64:4.2.10-6.el7_2
+#   - samba-client-libs.i686:4.2.10-6.el7_2
+#   - samba-client-libs.x86_64:4.2.10-6.el7_2
+#   - samba-common.noarch:4.2.10-6.el7_2
+#   - samba-common-libs.x86_64:4.2.10-6.el7_2
+#   - samba-common-tools.x86_64:4.2.10-6.el7_2
+#   - samba-dc.x86_64:4.2.10-6.el7_2
+#   - samba-dc-libs.x86_64:4.2.10-6.el7_2
+#   - samba-devel.i686:4.2.10-6.el7_2
+#   - samba-devel.x86_64:4.2.10-6.el7_2
+#   - samba-libs.i686:4.2.10-6.el7_2
+#   - samba-libs.x86_64:4.2.10-6.el7_2
+#   - samba-pidl.noarch:4.2.10-6.el7_2
+#   - samba-python.x86_64:4.2.10-6.el7_2
+#   - samba-test.x86_64:4.2.10-6.el7_2
+#   - samba-test-devel.x86_64:4.2.10-6.el7_2
+#   - samba-test-libs.i686:4.2.10-6.el7_2
+#   - samba-test-libs.x86_64:4.2.10-6.el7_2
+#   - samba-vfs-glusterfs.x86_64:4.2.10-6.el7_2
+#   - samba-winbind.x86_64:4.2.10-6.el7_2
+#   - samba-winbind-clients.x86_64:4.2.10-6.el7_2
+#   - samba-winbind-krb5-locator.x86_64:4.2.10-6.el7_2
+#   - samba-winbind-modules.i686:4.2.10-6.el7_2
+#   - samba-winbind-modules.x86_64:4.2.10-6.el7_2
+#   - openchange.i686:2.0-10.el7_2
+#   - openchange.x86_64:2.0-10.el7_2
+#   - openchange-client.x86_64:2.0-10.el7_2
+#   - openchange-devel.i686:2.0-10.el7_2
+#   - openchange-devel.x86_64:2.0-10.el7_2
+#   - openchange-devel-docs.noarch:2.0-10.el7_2
 #   - ipa-admintools.x86_64:4.2.0-15.0.1.el7.centos.6.1
 #   - ipa-client.x86_64:4.2.0-15.0.1.el7.centos.6.1
 #   - ipa-python.x86_64:4.2.0-15.0.1.el7.centos.6.1
@@ -18,6 +90,78 @@
 #   - ipa-server-trust-ad.x86_64:4.2.0-15.0.1.el7.centos.6.1
 #
 # Last versions recommanded by security team:
+#   - libtalloc.i686:2.1.5-1.el7_2
+#   - libtalloc.x86_64:2.1.5-1.el7_2
+#   - libtalloc-devel.i686:2.1.5-1.el7_2
+#   - libtalloc-devel.x86_64:2.1.5-1.el7_2
+#   - pytalloc.i686:2.1.5-1.el7_2
+#   - pytalloc.x86_64:2.1.5-1.el7_2
+#   - pytalloc-devel.i686:2.1.5-1.el7_2
+#   - pytalloc-devel.x86_64:2.1.5-1.el7_2
+#   - libtdb.i686:1.3.8-1.el7_2
+#   - libtdb.x86_64:1.3.8-1.el7_2
+#   - libtdb-devel.i686:1.3.8-1.el7_2
+#   - libtdb-devel.x86_64:1.3.8-1.el7_2
+#   - python-tdb.i686:1.3.8-1.el7_2
+#   - python-tdb.x86_64:1.3.8-1.el7_2
+#   - tdb-tools.x86_64:1.3.8-1.el7_2
+#   - libtevent.i686:0.9.26-1.el7_2
+#   - libtevent.x86_64:0.9.26-1.el7_2
+#   - libtevent-devel.i686:0.9.26-1.el7_2
+#   - libtevent-devel.x86_64:0.9.26-1.el7_2
+#   - python-tevent.x86_64:0.9.26-1.el7_2
+#   - ldb-tools.x86_64:1.1.25-1.el7_2
+#   - libldb.i686:1.1.25-1.el7_2
+#   - libldb.x86_64:1.1.25-1.el7_2
+#   - libldb-devel.i686:1.1.25-1.el7_2
+#   - libldb-devel.x86_64:1.1.25-1.el7_2
+#   - pyldb.i686:1.1.25-1.el7_2
+#   - pyldb.x86_64:1.1.25-1.el7_2
+#   - pyldb-devel.i686:1.1.25-1.el7_2
+#   - pyldb-devel.x86_64:1.1.25-1.el7_2
+#   - ctdb.x86_64:4.2.10-7.el7_2
+#   - ctdb-devel.i686:4.2.10-7.el7_2
+#   - ctdb-devel.x86_64:4.2.10-7.el7_2
+#   - ctdb-tests.x86_64:4.2.10-7.el7_2
+#   - libsmbclient.i686:4.2.10-7.el7_2
+#   - libsmbclient.x86_64:4.2.10-7.el7_2
+#   - libsmbclient-devel.i686:4.2.10-7.el7_2
+#   - libsmbclient-devel.x86_64:4.2.10-7.el7_2
+#   - libwbclient.i686:4.2.10-7.el7_2
+#   - libwbclient.x86_64:4.2.10-7.el7_2
+#   - libwbclient-devel.i686:4.2.10-7.el7_2
+#   - libwbclient-devel.x86_64:4.2.10-7.el7_2
+#   - samba.x86_64:4.2.10-7.el7_2
+#   - samba-client.x86_64:4.2.10-7.el7_2
+#   - samba-client-libs.i686:4.2.10-7.el7_2
+#   - samba-client-libs.x86_64:4.2.10-7.el7_2
+#   - samba-common.noarch:4.2.10-7.el7_2
+#   - samba-common-libs.x86_64:4.2.10-7.el7_2
+#   - samba-common-tools.x86_64:4.2.10-7.el7_2
+#   - samba-dc.x86_64:4.2.10-7.el7_2
+#   - samba-dc-libs.x86_64:4.2.10-7.el7_2
+#   - samba-devel.i686:4.2.10-7.el7_2
+#   - samba-devel.x86_64:4.2.10-7.el7_2
+#   - samba-libs.i686:4.2.10-7.el7_2
+#   - samba-libs.x86_64:4.2.10-7.el7_2
+#   - samba-pidl.noarch:4.2.10-7.el7_2
+#   - samba-python.x86_64:4.2.10-7.el7_2
+#   - samba-test.x86_64:4.2.10-7.el7_2
+#   - samba-test-devel.x86_64:4.2.10-7.el7_2
+#   - samba-test-libs.i686:4.2.10-7.el7_2
+#   - samba-test-libs.x86_64:4.2.10-7.el7_2
+#   - samba-vfs-glusterfs.x86_64:4.2.10-7.el7_2
+#   - samba-winbind.x86_64:4.2.10-7.el7_2
+#   - samba-winbind-clients.x86_64:4.2.10-7.el7_2
+#   - samba-winbind-krb5-locator.x86_64:4.2.10-7.el7_2
+#   - samba-winbind-modules.i686:4.2.10-7.el7_2
+#   - samba-winbind-modules.x86_64:4.2.10-7.el7_2
+#   - openchange.i686:2.0-10.el7_2
+#   - openchange.x86_64:2.0-10.el7_2
+#   - openchange-client.x86_64:2.0-10.el7_2
+#   - openchange-devel.i686:2.0-10.el7_2
+#   - openchange-devel.x86_64:2.0-10.el7_2
+#   - openchange-devel-docs.noarch:2.0-10.el7_2
 #   - ipa-admintools.x86_64:4.2.0-15.0.1.el7.centos.19
 #   - ipa-client.x86_64:4.2.0-15.0.1.el7.centos.19
 #   - ipa-python.x86_64:4.2.0-15.0.1.el7.centos.19
@@ -27,18 +171,90 @@
 #
 # CVE List:
 #   - CVE-2015-5370
+#   - CVE-2016-2110
 #   - CVE-2016-2111
 #   - CVE-2016-2112
-#   - CVE-2016-2115
-#   - CVE-2016-2118
-#   - CVE-2016-2110
 #   - CVE-2016-2113
 #   - CVE-2016-2114
+#   - CVE-2016-2115
+#   - CVE-2016-2118
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install libtalloc.i686-2.1.5 -y 
+sudo yum install libtalloc.x86_64-2.1.5 -y 
+sudo yum install libtalloc-devel.i686-2.1.5 -y 
+sudo yum install libtalloc-devel.x86_64-2.1.5 -y 
+sudo yum install pytalloc.i686-2.1.5 -y 
+sudo yum install pytalloc.x86_64-2.1.5 -y 
+sudo yum install pytalloc-devel.i686-2.1.5 -y 
+sudo yum install pytalloc-devel.x86_64-2.1.5 -y 
+sudo yum install libtdb.i686-1.3.8 -y 
+sudo yum install libtdb.x86_64-1.3.8 -y 
+sudo yum install libtdb-devel.i686-1.3.8 -y 
+sudo yum install libtdb-devel.x86_64-1.3.8 -y 
+sudo yum install python-tdb.i686-1.3.8 -y 
+sudo yum install python-tdb.x86_64-1.3.8 -y 
+sudo yum install tdb-tools.x86_64-1.3.8 -y 
+sudo yum install libtevent.i686-0.9.26 -y 
+sudo yum install libtevent.x86_64-0.9.26 -y 
+sudo yum install libtevent-devel.i686-0.9.26 -y 
+sudo yum install libtevent-devel.x86_64-0.9.26 -y 
+sudo yum install python-tevent.x86_64-0.9.26 -y 
+sudo yum install ldb-tools.x86_64-1.1.25 -y 
+sudo yum install libldb.i686-1.1.25 -y 
+sudo yum install libldb.x86_64-1.1.25 -y 
+sudo yum install libldb-devel.i686-1.1.25 -y 
+sudo yum install libldb-devel.x86_64-1.1.25 -y 
+sudo yum install pyldb.i686-1.1.25 -y 
+sudo yum install pyldb.x86_64-1.1.25 -y 
+sudo yum install pyldb-devel.i686-1.1.25 -y 
+sudo yum install pyldb-devel.x86_64-1.1.25 -y 
+sudo yum install ctdb.x86_64-4.2.10 -y 
+sudo yum install ctdb-devel.i686-4.2.10 -y 
+sudo yum install ctdb-devel.x86_64-4.2.10 -y 
+sudo yum install ctdb-tests.x86_64-4.2.10 -y 
+sudo yum install libsmbclient.i686-4.2.10 -y 
+sudo yum install libsmbclient.x86_64-4.2.10 -y 
+sudo yum install libsmbclient-devel.i686-4.2.10 -y 
+sudo yum install libsmbclient-devel.x86_64-4.2.10 -y 
+sudo yum install libwbclient.i686-4.2.10 -y 
+sudo yum install libwbclient.x86_64-4.2.10 -y 
+sudo yum install libwbclient-devel.i686-4.2.10 -y 
+sudo yum install libwbclient-devel.x86_64-4.2.10 -y 
+sudo yum install samba.x86_64-4.2.10 -y 
+sudo yum install samba-client.x86_64-4.2.10 -y 
+sudo yum install samba-client-libs.i686-4.2.10 -y 
+sudo yum install samba-client-libs.x86_64-4.2.10 -y 
+sudo yum install samba-common.noarch-4.2.10 -y 
+sudo yum install samba-common-libs.x86_64-4.2.10 -y 
+sudo yum install samba-common-tools.x86_64-4.2.10 -y 
+sudo yum install samba-dc.x86_64-4.2.10 -y 
+sudo yum install samba-dc-libs.x86_64-4.2.10 -y 
+sudo yum install samba-devel.i686-4.2.10 -y 
+sudo yum install samba-devel.x86_64-4.2.10 -y 
+sudo yum install samba-libs.i686-4.2.10 -y 
+sudo yum install samba-libs.x86_64-4.2.10 -y 
+sudo yum install samba-pidl.noarch-4.2.10 -y 
+sudo yum install samba-python.x86_64-4.2.10 -y 
+sudo yum install samba-test.x86_64-4.2.10 -y 
+sudo yum install samba-test-devel.x86_64-4.2.10 -y 
+sudo yum install samba-test-libs.i686-4.2.10 -y 
+sudo yum install samba-test-libs.x86_64-4.2.10 -y 
+sudo yum install samba-vfs-glusterfs.x86_64-4.2.10 -y 
+sudo yum install samba-winbind.x86_64-4.2.10 -y 
+sudo yum install samba-winbind-clients.x86_64-4.2.10 -y 
+sudo yum install samba-winbind-krb5-locator.x86_64-4.2.10 -y 
+sudo yum install samba-winbind-modules.i686-4.2.10 -y 
+sudo yum install samba-winbind-modules.x86_64-4.2.10 -y 
+sudo yum install openchange.i686-2.0 -y 
+sudo yum install openchange.x86_64-2.0 -y 
+sudo yum install openchange-client.x86_64-2.0 -y 
+sudo yum install openchange-devel.i686-2.0 -y 
+sudo yum install openchange-devel.x86_64-2.0 -y 
+sudo yum install openchange-devel-docs.noarch-2.0 -y 
 sudo yum install ipa-admintools.x86_64-4.2.0 -y 
 sudo yum install ipa-client.x86_64-4.2.0 -y 
 sudo yum install ipa-python.x86_64-4.2.0 -y 

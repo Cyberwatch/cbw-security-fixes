@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2014:0889
 #
-# Security announcement date: 2014-07-16 10:46:11 UTC
-# Script generation date:     2016-11-13 21:12:52 UTC
+# Security announcement date: 2014-07-16 12:38:27 UTC
+# Script generation date:     2016-11-24 21:12:29 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -24,18 +24,18 @@
 #   - java-1.7.0-openjdk-src.x86_64:1.7.0.121-2.6.8.1.el6_8
 #
 # CVE List:
+#   - CVE-2014-2483
+#   - CVE-2014-2490
 #   - CVE-2014-4209
 #   - CVE-2014-4216
 #   - CVE-2014-4218
+#   - CVE-2014-4219
+#   - CVE-2014-4221
+#   - CVE-2014-4223
 #   - CVE-2014-4244
 #   - CVE-2014-4252
 #   - CVE-2014-4262
 #   - CVE-2014-4263
-#   - CVE-2014-4219
-#   - CVE-2014-2483
-#   - CVE-2014-2490
-#   - CVE-2014-4221
-#   - CVE-2014-4223
 #   - CVE-2014-4266
 #
 # More details:

@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0350
 #
 # Security announcement date: 2012-03-07 18:09:51 UTC
-# Script generation date:     2016-11-20 21:12:17 UTC
+# Script generation date:     2016-11-24 21:11:47 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -32,16 +32,16 @@
 #   - python-perf.x86_64:2.6.32-642.11.1.el6
 #
 # CVE List:
+#   - CVE-2011-4077
 #   - CVE-2011-4081
+#   - CVE-2011-4132
+#   - CVE-2011-4347
 #   - CVE-2011-4594
 #   - CVE-2011-4611
-#   - CVE-2012-0038
-#   - CVE-2012-0207
-#   - CVE-2011-4077
-#   - CVE-2012-0045
-#   - CVE-2011-4347
 #   - CVE-2011-4622
-#   - CVE-2011-4132
+#   - CVE-2012-0038
+#   - CVE-2012-0045
+#   - CVE-2012-0207
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

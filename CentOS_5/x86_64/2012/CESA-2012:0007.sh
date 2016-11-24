@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0007
 #
 # Security announcement date: 2012-01-11 19:18:33 UTC
-# Script generation date:     2016-10-29 21:15:28 UTC
+# Script generation date:     2016-11-24 21:11:43 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,15 +30,15 @@
 #   - kernel-xen-devel.x86_64:2.6.18-416.el5
 #
 # CVE List:
-#   - CVE-2011-3637
 #   - CVE-2011-1020
-#   - CVE-2011-2482
+#   - CVE-2011-3637
 #   - CVE-2011-4077
-#   - CVE-2011-4325
-#   - CVE-2011-4324
-#   - CVE-2011-4348
 #   - CVE-2011-4132
+#   - CVE-2011-4324
+#   - CVE-2011-4325
 #   - CVE-2011-4330
+#   - CVE-2011-4348
+#   - CVE-2011-2482
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

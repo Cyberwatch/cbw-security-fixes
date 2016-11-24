@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2012:0705
 #
-# Security announcement date: 2012-06-05 10:03:16 UTC
-# Script generation date:     2016-05-12 18:07:42 UTC
+# Security announcement date: 2012-06-05 13:05:33 UTC
+# Script generation date:     2016-11-24 21:11:50 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -168,8 +168,6 @@
 #   - openoffice.org-xsltfilter.x86_64:3.1.1-19.10.el5_8.4
 #
 # CVE List:
-#   - CVE-2012-1149
-#   - CVE-2012-2334
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

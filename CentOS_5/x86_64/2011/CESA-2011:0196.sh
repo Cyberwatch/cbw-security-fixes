@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:0196
 #
 # Security announcement date: 2011-04-14 23:48:18 UTC
-# Script generation date:     2016-06-22 16:26:14 UTC
+# Script generation date:     2016-11-24 21:11:37 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -56,9 +56,6 @@
 #   - php53-xmlrpc.x86_64:5.3.3-26.el5_11
 #
 # CVE List:
-#   - CVE-2010-3710
-#   - CVE-2010-4645
-#   - CVE-2010-4156
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

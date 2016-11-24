@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1013
 #
 # Security announcement date: 2014-08-06 14:38:20 UTC
-# Script generation date:     2016-08-13 21:21:15 UTC
+# Script generation date:     2016-11-24 21:12:32 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -66,14 +66,14 @@
 # CVE List:
 #   - CVE-2013-7345
 #   - CVE-2014-0207
+#   - CVE-2014-0237
+#   - CVE-2014-0238
 #   - CVE-2014-3479
 #   - CVE-2014-3480
 #   - CVE-2014-3487
-#   - CVE-2014-0237
-#   - CVE-2014-0238
-#   - CVE-2014-4721
 #   - CVE-2014-3515
 #   - CVE-2014-4049
+#   - CVE-2014-4721
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

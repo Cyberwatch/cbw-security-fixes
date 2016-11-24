@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2045
 #
 # Security announcement date: 2016-10-11 18:36:02 UTC
-# Script generation date:     2016-10-13 21:16:00 UTC
+# Script generation date:     2016-11-24 21:13:12 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -32,12 +32,6 @@
 #   - tomcat6-webapps.noarch:6.0.24-98.el6_8
 #
 # CVE List:
-#   - CVE-2015-5174
-#   - CVE-2015-5345
-#   - CVE-2016-0706
-#   - CVE-2016-0714
-#   - CVE-2016-5388
-#   - CVE-2016-6325
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

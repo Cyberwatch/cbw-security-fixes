@@ -4,7 +4,7 @@
 # Security fix for CESA-2009:1619
 #
 # Security announcement date: 2009-12-17 12:39:29 UTC
-# Script generation date:     2016-05-12 18:07:15 UTC
+# Script generation date:     2016-11-24 21:11:29 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,7 +16,6 @@
 #   - dstat.noarch:0.6.6-3.el5_4.1
 #
 # CVE List:
-#   - CVE-2009-3894
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

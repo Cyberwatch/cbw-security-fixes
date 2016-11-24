@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1392
 #
 # Security announcement date: 2014-10-20 18:09:23 UTC
-# Script generation date:     2016-11-20 21:13:04 UTC
+# Script generation date:     2016-11-24 21:12:38 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -34,17 +34,17 @@
 #   - python-perf.x86_64:2.6.32-642.11.1.el6
 #
 # CVE List:
+#   - CVE-2013-2596
 #   - CVE-2013-4483
 #   - CVE-2014-0181
 #   - CVE-2014-3122
+#   - CVE-2014-3601
 #   - CVE-2014-4608
 #   - CVE-2014-4653
 #   - CVE-2014-4654
 #   - CVE-2014-4655
 #   - CVE-2014-5045
 #   - CVE-2014-5077
-#   - CVE-2014-3601
-#   - CVE-2013-2596
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

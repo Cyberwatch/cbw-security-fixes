@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0697
 #
 # Security announcement date: 2013-04-03 10:58:05 UTC
-# Script generation date:     2016-10-04 21:15:10 UTC
+# Script generation date:     2016-11-24 21:12:08 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - thunderbird.x86_64:45.4.0-1.el6.centos
 #
 # CVE List:
-#   - CVE-2013-0800
 #   - CVE-2013-0788
 #   - CVE-2013-0793
 #   - CVE-2013-0795
 #   - CVE-2013-0796
+#   - CVE-2013-0800
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

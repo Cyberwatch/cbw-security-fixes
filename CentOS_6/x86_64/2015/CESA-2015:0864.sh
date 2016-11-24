@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:0864
 #
 # Security announcement date: 2015-04-22 09:51:52 UTC
-# Script generation date:     2016-11-20 21:13:16 UTC
+# Script generation date:     2016-11-24 21:12:48 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -34,15 +34,15 @@
 #   - python-perf.x86_64:2.6.32-642.11.1.el6
 #
 # CVE List:
-#   - CVE-2014-9529
-#   - CVE-2014-9584
+#   - CVE-2014-3215
 #   - CVE-2014-3690
 #   - CVE-2014-7825
 #   - CVE-2014-7826
-#   - CVE-2014-8884
-#   - CVE-2014-3215
-#   - CVE-2015-1421
 #   - CVE-2014-8171
+#   - CVE-2014-8884
+#   - CVE-2014-9529
+#   - CVE-2014-9584
+#   - CVE-2015-1421
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

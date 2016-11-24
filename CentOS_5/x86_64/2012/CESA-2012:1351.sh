@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2012:1351
 #
-# Security announcement date: 2012-10-10 13:53:37 UTC
-# Script generation date:     2016-10-04 21:14:57 UTC
+# Security announcement date: 2012-10-10 19:06:06 UTC
+# Script generation date:     2016-11-24 21:11:59 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64

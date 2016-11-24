@@ -4,12 +4,31 @@
 # Security fix for CESA-2013:0668
 #
 # Security announcement date: 2013-03-21 22:37:55 UTC
-# Script generation date:     2016-05-12 18:08:02 UTC
+# Script generation date:     2016-11-24 21:12:06 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - boost-date-time.i686:1.41.0-15.el6_4
+#   - boost-devel.i686:1.41.0-15.el6_4
+#   - boost-filesystem.i686:1.41.0-15.el6_4
+#   - boost-graph.i686:1.41.0-15.el6_4
+#   - boost-graph-mpich2.i686:1.41.0-15.el6_4
+#   - boost-iostreams.i686:1.41.0-15.el6_4
+#   - boost-mpich2.i686:1.41.0-15.el6_4
+#   - boost-mpich2-devel.i686:1.41.0-15.el6_4
+#   - boost-mpich2-python.i686:1.41.0-15.el6_4
+#   - boost-openmpi-devel.i686:1.41.0-15.el6_4
+#   - boost-program-options.i686:1.41.0-15.el6_4
+#   - boost-python.i686:1.41.0-15.el6_4
+#   - boost-regex.i686:1.41.0-15.el6_4
+#   - boost-serialization.i686:1.41.0-15.el6_4
+#   - boost-signals.i686:1.41.0-15.el6_4
+#   - boost-system.i686:1.41.0-15.el6_4
+#   - boost-test.i686:1.41.0-15.el6_4
+#   - boost-thread.i686:1.41.0-15.el6_4
+#   - boost-wave.i686:1.41.0-15.el6_4
 #   - boost.x86_64:1.41.0-15.el6_4
 #   - boost-date-time.x86_64:1.41.0-15.el6_4
 #   - boost-devel.x86_64:1.41.0-15.el6_4
@@ -36,27 +55,27 @@
 #   - boost-test.x86_64:1.41.0-15.el6_4
 #   - boost-thread.x86_64:1.41.0-15.el6_4
 #   - boost-wave.x86_64:1.41.0-15.el6_4
-#   - boost-date-time.i686:1.41.0-15.el6_4
-#   - boost-devel.i686:1.41.0-15.el6_4
-#   - boost-filesystem.i686:1.41.0-15.el6_4
-#   - boost-graph.i686:1.41.0-15.el6_4
-#   - boost-graph-mpich2.i686:1.41.0-15.el6_4
-#   - boost-iostreams.i686:1.41.0-15.el6_4
-#   - boost-mpich2.i686:1.41.0-15.el6_4
-#   - boost-mpich2-devel.i686:1.41.0-15.el6_4
-#   - boost-mpich2-python.i686:1.41.0-15.el6_4
-#   - boost-openmpi-devel.i686:1.41.0-15.el6_4
-#   - boost-program-options.i686:1.41.0-15.el6_4
-#   - boost-python.i686:1.41.0-15.el6_4
-#   - boost-regex.i686:1.41.0-15.el6_4
-#   - boost-serialization.i686:1.41.0-15.el6_4
-#   - boost-signals.i686:1.41.0-15.el6_4
-#   - boost-system.i686:1.41.0-15.el6_4
-#   - boost-test.i686:1.41.0-15.el6_4
-#   - boost-thread.i686:1.41.0-15.el6_4
-#   - boost-wave.i686:1.41.0-15.el6_4
 #
 # Last versions recommanded by security team:
+#   - boost-date-time.i686:1.41.0-15.el6_4
+#   - boost-devel.i686:1.41.0-15.el6_4
+#   - boost-filesystem.i686:1.41.0-15.el6_4
+#   - boost-graph.i686:1.41.0-15.el6_4
+#   - boost-graph-mpich2.i686:1.41.0-15.el6_4
+#   - boost-iostreams.i686:1.41.0-15.el6_4
+#   - boost-mpich2.i686:1.41.0-15.el6_4
+#   - boost-mpich2-devel.i686:1.41.0-15.el6_4
+#   - boost-mpich2-python.i686:1.41.0-15.el6_4
+#   - boost-openmpi-devel.i686:1.41.0-15.el6_4
+#   - boost-program-options.i686:1.41.0-15.el6_4
+#   - boost-python.i686:1.41.0-15.el6_4
+#   - boost-regex.i686:1.41.0-15.el6_4
+#   - boost-serialization.i686:1.41.0-15.el6_4
+#   - boost-signals.i686:1.41.0-15.el6_4
+#   - boost-system.i686:1.41.0-15.el6_4
+#   - boost-test.i686:1.41.0-15.el6_4
+#   - boost-thread.i686:1.41.0-15.el6_4
+#   - boost-wave.i686:1.41.0-15.el6_4
 #   - boost.x86_64:1.41.0-15.el6_4
 #   - boost-date-time.x86_64:1.41.0-15.el6_4
 #   - boost-devel.x86_64:1.41.0-15.el6_4
@@ -83,25 +102,6 @@
 #   - boost-test.x86_64:1.41.0-15.el6_4
 #   - boost-thread.x86_64:1.41.0-15.el6_4
 #   - boost-wave.x86_64:1.41.0-15.el6_4
-#   - boost-date-time.i686:1.41.0-15.el6_4
-#   - boost-devel.i686:1.41.0-15.el6_4
-#   - boost-filesystem.i686:1.41.0-15.el6_4
-#   - boost-graph.i686:1.41.0-15.el6_4
-#   - boost-graph-mpich2.i686:1.41.0-15.el6_4
-#   - boost-iostreams.i686:1.41.0-15.el6_4
-#   - boost-mpich2.i686:1.41.0-15.el6_4
-#   - boost-mpich2-devel.i686:1.41.0-15.el6_4
-#   - boost-mpich2-python.i686:1.41.0-15.el6_4
-#   - boost-openmpi-devel.i686:1.41.0-15.el6_4
-#   - boost-program-options.i686:1.41.0-15.el6_4
-#   - boost-python.i686:1.41.0-15.el6_4
-#   - boost-regex.i686:1.41.0-15.el6_4
-#   - boost-serialization.i686:1.41.0-15.el6_4
-#   - boost-signals.i686:1.41.0-15.el6_4
-#   - boost-system.i686:1.41.0-15.el6_4
-#   - boost-test.i686:1.41.0-15.el6_4
-#   - boost-thread.i686:1.41.0-15.el6_4
-#   - boost-wave.i686:1.41.0-15.el6_4
 #
 # CVE List:
 #   - CVE-2012-2677
@@ -110,6 +110,25 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install boost-date-time.i686-1.41.0 -y 
+sudo yum install boost-devel.i686-1.41.0 -y 
+sudo yum install boost-filesystem.i686-1.41.0 -y 
+sudo yum install boost-graph.i686-1.41.0 -y 
+sudo yum install boost-graph-mpich2.i686-1.41.0 -y 
+sudo yum install boost-iostreams.i686-1.41.0 -y 
+sudo yum install boost-mpich2.i686-1.41.0 -y 
+sudo yum install boost-mpich2-devel.i686-1.41.0 -y 
+sudo yum install boost-mpich2-python.i686-1.41.0 -y 
+sudo yum install boost-openmpi-devel.i686-1.41.0 -y 
+sudo yum install boost-program-options.i686-1.41.0 -y 
+sudo yum install boost-python.i686-1.41.0 -y 
+sudo yum install boost-regex.i686-1.41.0 -y 
+sudo yum install boost-serialization.i686-1.41.0 -y 
+sudo yum install boost-signals.i686-1.41.0 -y 
+sudo yum install boost-system.i686-1.41.0 -y 
+sudo yum install boost-test.i686-1.41.0 -y 
+sudo yum install boost-thread.i686-1.41.0 -y 
+sudo yum install boost-wave.i686-1.41.0 -y 
 sudo yum install boost.x86_64-1.41.0 -y 
 sudo yum install boost-date-time.x86_64-1.41.0 -y 
 sudo yum install boost-devel.x86_64-1.41.0 -y 
@@ -136,22 +155,3 @@ sudo yum install boost-system.x86_64-1.41.0 -y
 sudo yum install boost-test.x86_64-1.41.0 -y 
 sudo yum install boost-thread.x86_64-1.41.0 -y 
 sudo yum install boost-wave.x86_64-1.41.0 -y 
-sudo yum install boost-date-time.i686-1.41.0 -y 
-sudo yum install boost-devel.i686-1.41.0 -y 
-sudo yum install boost-filesystem.i686-1.41.0 -y 
-sudo yum install boost-graph.i686-1.41.0 -y 
-sudo yum install boost-graph-mpich2.i686-1.41.0 -y 
-sudo yum install boost-iostreams.i686-1.41.0 -y 
-sudo yum install boost-mpich2.i686-1.41.0 -y 
-sudo yum install boost-mpich2-devel.i686-1.41.0 -y 
-sudo yum install boost-mpich2-python.i686-1.41.0 -y 
-sudo yum install boost-openmpi-devel.i686-1.41.0 -y 
-sudo yum install boost-program-options.i686-1.41.0 -y 
-sudo yum install boost-python.i686-1.41.0 -y 
-sudo yum install boost-regex.i686-1.41.0 -y 
-sudo yum install boost-serialization.i686-1.41.0 -y 
-sudo yum install boost-signals.i686-1.41.0 -y 
-sudo yum install boost-system.i686-1.41.0 -y 
-sudo yum install boost-test.i686-1.41.0 -y 
-sudo yum install boost-thread.i686-1.41.0 -y 
-sudo yum install boost-wave.i686-1.41.0 -y 

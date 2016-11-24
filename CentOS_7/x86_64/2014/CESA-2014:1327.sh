@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1327
 #
 # Security announcement date: 2014-09-30 10:59:18 UTC
-# Script generation date:     2016-08-13 21:21:27 UTC
+# Script generation date:     2016-11-24 21:12:36 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -64,15 +64,15 @@
 #   - php-xmlrpc.x86_64:5.4.16-36.3.el7_2
 #
 # CVE List:
+#   - CVE-2014-2497
 #   - CVE-2014-3478
 #   - CVE-2014-3538
 #   - CVE-2014-3587
-#   - CVE-2012-1571
-#   - CVE-2014-2497
 #   - CVE-2014-3597
-#   - CVE-2014-5120
 #   - CVE-2014-4670
 #   - CVE-2014-4698
+#   - CVE-2014-5120
+#   - CVE-2012-1571
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

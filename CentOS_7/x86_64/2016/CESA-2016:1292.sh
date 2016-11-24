@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:1292
 #
 # Security announcement date: 2016-06-23 23:41:40 UTC
-# Script generation date:     2016-06-26 21:21:09 UTC
+# Script generation date:     2016-11-24 21:13:09 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -29,8 +29,6 @@
 #
 # CVE List:
 #   - CVE-2016-1762
-#   - CVE-2016-3627
-#   - CVE-2016-3705
 #   - CVE-2016-1833
 #   - CVE-2016-1834
 #   - CVE-2016-1835
@@ -39,9 +37,11 @@
 #   - CVE-2016-1838
 #   - CVE-2016-1839
 #   - CVE-2016-1840
+#   - CVE-2016-3627
+#   - CVE-2016-3705
 #   - CVE-2016-4447
-#   - CVE-2016-4449
 #   - CVE-2016-4448
+#   - CVE-2016-4449
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

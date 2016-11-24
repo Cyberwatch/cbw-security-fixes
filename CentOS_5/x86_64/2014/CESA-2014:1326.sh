@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1326
 #
 # Security announcement date: 2014-09-30 11:23:15 UTC
-# Script generation date:     2016-05-12 18:08:25 UTC
+# Script generation date:     2016-11-24 21:12:37 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -56,12 +56,12 @@
 #   - php53-xmlrpc.x86_64:5.3.3-26.el5_11
 #
 # CVE List:
-#   - CVE-2014-3587
-#   - CVE-2012-1571
 #   - CVE-2014-2497
+#   - CVE-2014-3587
 #   - CVE-2014-3597
 #   - CVE-2014-4670
 #   - CVE-2014-4698
+#   - CVE-2012-1571
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

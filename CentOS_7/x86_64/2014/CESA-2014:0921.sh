@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:0921
 #
 # Security announcement date: 2014-07-23 15:36:55 UTC
-# Script generation date:     2016-07-19 21:20:56 UTC
+# Script generation date:     2016-11-24 21:12:30 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -30,11 +30,11 @@
 #   - mod_ssl.x86_64:2.4.6-40.el7.centos.4
 #
 # CVE List:
-#   - CVE-2014-0231
-#   - CVE-2014-0118
-#   - CVE-2014-0226
 #   - CVE-2013-4352
 #   - CVE-2014-0117
+#   - CVE-2014-0118
+#   - CVE-2014-0226
+#   - CVE-2014-0231
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

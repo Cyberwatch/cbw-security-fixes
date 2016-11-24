@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0744
 #
 # Security announcement date: 2013-04-24 02:13:29 UTC
-# Script generation date:     2016-11-20 21:12:42 UTC
+# Script generation date:     2016-11-24 21:12:08 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -40,12 +40,12 @@
 #   - CVE-2013-1767
 #   - CVE-2013-1773
 #   - CVE-2013-1774
-#   - CVE-2013-1826
-#   - CVE-2013-1827
 #   - CVE-2013-1792
 #   - CVE-2013-1796
 #   - CVE-2013-1797
 #   - CVE-2013-1798
+#   - CVE-2013-1826
+#   - CVE-2013-1827
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

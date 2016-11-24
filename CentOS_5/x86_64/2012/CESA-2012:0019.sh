@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2012:0019
 #
-# Security announcement date: 2012-01-11 19:19:36 UTC
-# Script generation date:     2016-06-22 16:33:35 UTC
+# Security announcement date: 2012-01-11 20:04:37 UTC
+# Script generation date:     2016-11-24 21:11:44 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -56,8 +56,8 @@
 #   - php53-xmlrpc.x86_64:5.3.3-26.el5_11
 #
 # CVE List:
-#   - CVE-2011-4885
 #   - CVE-2011-4566
+#   - CVE-2011-4885
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

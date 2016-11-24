@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:1852
 #
 # Security announcement date: 2015-10-01 21:53:20 UTC
-# Script generation date:     2016-10-04 21:15:58 UTC
+# Script generation date:     2016-11-24 21:12:55 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -19,6 +19,8 @@
 #   - CVE-2015-4500
 #   - CVE-2015-4509
 #   - CVE-2015-4517
+#   - CVE-2015-4519
+#   - CVE-2015-4520
 #   - CVE-2015-4521
 #   - CVE-2015-4522
 #   - CVE-2015-7174
@@ -26,8 +28,6 @@
 #   - CVE-2015-7176
 #   - CVE-2015-7177
 #   - CVE-2015-7180
-#   - CVE-2015-4519
-#   - CVE-2015-4520
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

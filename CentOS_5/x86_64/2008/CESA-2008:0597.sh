@@ -4,7 +4,7 @@
 # Security fix for CESA-2008:0597
 #
 # Security announcement date: 2008-07-17 02:42:21 UTC
-# Script generation date:     2016-11-20 21:11:42 UTC
+# Script generation date:     2016-11-24 21:11:17 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -26,8 +26,8 @@
 #   - xulrunner-devel-unstable.x86_64:1.9.0.18-1.el5_4
 #
 # CVE List:
-#   - CVE-2008-2933
 #   - CVE-2008-2785
+#   - CVE-2008-2933
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1652
 #
 # Security announcement date: 2013-11-26 13:31:16 UTC
-# Script generation date:     2016-05-12 18:08:10 UTC
+# Script generation date:     2016-11-24 21:12:15 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -18,9 +18,9 @@
 #   - coreutils-libs.x86_64:8.4-31.el6
 #
 # CVE List:
+#   - CVE-2013-0221
 #   - CVE-2013-0222
 #   - CVE-2013-0223
-#   - CVE-2013-0221
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

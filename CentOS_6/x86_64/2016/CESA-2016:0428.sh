@@ -3,23 +3,23 @@
 #
 # Security fix for CESA-2016:0428
 #
-# Security announcement date: 2016-03-10 12:05:04 UTC
-# Script generation date:     2016-05-12 18:08:58 UTC
+# Security announcement date: 2016-03-10 12:53:35 UTC
+# Script generation date:     2016-11-24 21:13:04 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - libssh2.i686:1.4.2-2.el6_7.1
-#   - libssh2.x86_64:1.4.2-2.el6_7.1
 #   - libssh2-devel.i686:1.4.2-2.el6_7.1
+#   - libssh2.x86_64:1.4.2-2.el6_7.1
 #   - libssh2-devel.x86_64:1.4.2-2.el6_7.1
 #   - libssh2-docs.x86_64:1.4.2-2.el6_7.1
 #
 # Last versions recommanded by security team:
 #   - libssh2.i686:1.4.2-2.el6_7.1
-#   - libssh2.x86_64:1.4.2-2.el6_7.1
 #   - libssh2-devel.i686:1.4.2-2.el6_7.1
+#   - libssh2.x86_64:1.4.2-2.el6_7.1
 #   - libssh2-devel.x86_64:1.4.2-2.el6_7.1
 #   - libssh2-docs.x86_64:1.4.2-2.el6_7.1
 #
@@ -31,7 +31,7 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install libssh2.i686-1.4.2 -y 
-sudo yum install libssh2.x86_64-1.4.2 -y 
 sudo yum install libssh2-devel.i686-1.4.2 -y 
+sudo yum install libssh2.x86_64-1.4.2 -y 
 sudo yum install libssh2-devel.x86_64-1.4.2 -y 
 sudo yum install libssh2-docs.x86_64-1.4.2 -y 

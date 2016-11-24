@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:0887
 #
 # Security announcement date: 2011-06-22 23:49:49 UTC
-# Script generation date:     2016-10-04 21:14:32 UTC
+# Script generation date:     2016-11-24 21:11:39 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - CVE-2011-0085
 #   - CVE-2011-2362
 #   - CVE-2011-2363
+#   - CVE-2011-2364
+#   - CVE-2011-2365
 #   - CVE-2011-2371
 #   - CVE-2011-2373
 #   - CVE-2011-2374
 #   - CVE-2011-2375
 #   - CVE-2011-2376
 #   - CVE-2011-2377
-#   - CVE-2011-2364
-#   - CVE-2011-2365
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

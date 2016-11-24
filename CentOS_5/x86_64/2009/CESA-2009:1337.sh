@@ -4,7 +4,7 @@
 # Security fix for CESA-2009:1337
 #
 # Security announcement date: 2009-09-15 18:43:21 UTC
-# Script generation date:     2016-05-12 18:07:13 UTC
+# Script generation date:     2016-11-24 21:11:27 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - gfs2-utils.x86_64:0.1.62-1.el5
 #
 # Last versions recommanded by security team:
-#   - gfs2-utils.x86_64:0.1.62-1.el5
+#   - gfs2-utils.x86_64:0.1.62-39.el5
 #
 # CVE List:
 #   - CVE-2008-6552

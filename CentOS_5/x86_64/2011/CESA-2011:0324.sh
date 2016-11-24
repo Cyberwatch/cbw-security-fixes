@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:0324
 #
 # Security announcement date: 2011-04-14 23:48:13 UTC
-# Script generation date:     2016-06-22 16:26:14 UTC
+# Script generation date:     2016-11-24 21:11:37 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,7 +16,6 @@
 #   - logwatch.noarch:7.3-9.el5_6
 #
 # CVE List:
-#   - CVE-2011-1018
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

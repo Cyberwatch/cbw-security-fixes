@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2014:0408
 #
-# Security announcement date: 2014-04-16 13:16:06 UTC
-# Script generation date:     2016-08-27 21:12:55 UTC
+# Security announcement date: 2014-04-16 13:25:29 UTC
+# Script generation date:     2016-11-24 21:12:27 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -24,26 +24,26 @@
 #   - java-1.6.0-openjdk-src.x86_64:1.6.0.40-1.13.12.6.el6_8
 #
 # CVE List:
-#   - CVE-2013-5797
-#   - CVE-2014-2398
-#   - CVE-2014-2421
 #   - CVE-2014-0429
 #   - CVE-2014-0446
 #   - CVE-2014-0451
-#   - CVE-2014-0453
-#   - CVE-2014-0457
-#   - CVE-2014-0460
-#   - CVE-2014-2412
-#   - CVE-2014-2427
 #   - CVE-2014-0452
-#   - CVE-2014-0458
-#   - CVE-2014-0461
-#   - CVE-2014-2403
-#   - CVE-2014-2414
-#   - CVE-2014-2423
+#   - CVE-2014-0453
 #   - CVE-2014-0456
-#   - CVE-2014-2397
+#   - CVE-2014-0457
+#   - CVE-2014-0458
+#   - CVE-2014-0460
+#   - CVE-2014-0461
 #   - CVE-2014-1876
+#   - CVE-2014-2397
+#   - CVE-2014-2398
+#   - CVE-2014-2403
+#   - CVE-2014-2412
+#   - CVE-2014-2414
+#   - CVE-2014-2421
+#   - CVE-2014-2423
+#   - CVE-2014-2427
+#   - CVE-2013-5797
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

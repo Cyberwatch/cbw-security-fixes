@@ -4,7 +4,7 @@
 # Security fix for CESA-2009:0377
 #
 # Security announcement date: 2009-04-08 11:56:08 UTC
-# Script generation date:     2016-08-27 21:11:43 UTC
+# Script generation date:     2016-11-24 21:11:23 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -25,18 +25,18 @@
 #
 # CVE List:
 #   - CVE-2006-2426
-#   - CVE-2009-1093
-#   - CVE-2009-1094
-#   - CVE-2009-1095
-#   - CVE-2009-1096
-#   - CVE-2009-1098
-#   - CVE-2009-1097
-#   - CVE-2009-1101
-#   - CVE-2009-1102
 #   - CVE-2009-0581
 #   - CVE-2009-0723
 #   - CVE-2009-0733
 #   - CVE-2009-0793
+#   - CVE-2009-1093
+#   - CVE-2009-1094
+#   - CVE-2009-1095
+#   - CVE-2009-1096
+#   - CVE-2009-1097
+#   - CVE-2009-1098
+#   - CVE-2009-1101
+#   - CVE-2009-1102
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:1221
 #
 # Security announcement date: 2015-07-15 15:04:33 UTC
-# Script generation date:     2016-11-20 21:13:19 UTC
+# Script generation date:     2016-11-24 21:12:50 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -34,11 +34,11 @@
 #   - python-perf.x86_64:2.6.32-642.11.1.el6
 #
 # CVE List:
-#   - CVE-2015-1593
-#   - CVE-2015-2922
-#   - CVE-2015-2830
-#   - CVE-2015-3636
 #   - CVE-2011-5321
+#   - CVE-2015-1593
+#   - CVE-2015-2830
+#   - CVE-2015-2922
+#   - CVE-2015-3636
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

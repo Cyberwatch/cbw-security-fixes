@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:0290
 #
 # Security announcement date: 2015-03-17 13:28:28 UTC
-# Script generation date:     2016-10-26 21:14:14 UTC
+# Script generation date:     2016-11-24 21:12:45 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -38,16 +38,16 @@
 #   - python-perf.x86_64:3.10.0-327.36.3.el7
 #
 # CVE List:
-#   - CVE-2014-8160
 #   - CVE-2014-3690
+#   - CVE-2014-3940
 #   - CVE-2014-7825
 #   - CVE-2014-7826
 #   - CVE-2014-8086
-#   - CVE-2014-8884
+#   - CVE-2014-8160
 #   - CVE-2014-8172
 #   - CVE-2014-8173
 #   - CVE-2014-8709
-#   - CVE-2014-3940
+#   - CVE-2014-8884
 #   - CVE-2015-0274
 #
 # More details:

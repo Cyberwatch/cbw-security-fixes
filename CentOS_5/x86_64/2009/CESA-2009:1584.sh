@@ -4,7 +4,7 @@
 # Security fix for CESA-2009:1584
 #
 # Security announcement date: 2009-11-18 10:19:03 UTC
-# Script generation date:     2016-08-27 21:11:50 UTC
+# Script generation date:     2016-11-24 21:11:28 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -25,6 +25,7 @@
 #
 # CVE List:
 #   - CVE-2009-2409
+#   - CVE-2009-3728
 #   - CVE-2009-3869
 #   - CVE-2009-3871
 #   - CVE-2009-3873
@@ -32,12 +33,11 @@
 #   - CVE-2009-3875
 #   - CVE-2009-3876
 #   - CVE-2009-3877
-#   - CVE-2009-3882
-#   - CVE-2009-3883
-#   - CVE-2009-3728
 #   - CVE-2009-3879
 #   - CVE-2009-3880
 #   - CVE-2009-3881
+#   - CVE-2009-3882
+#   - CVE-2009-3883
 #   - CVE-2009-3884
 #
 # More details:

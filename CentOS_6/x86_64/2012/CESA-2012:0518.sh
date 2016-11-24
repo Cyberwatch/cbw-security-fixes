@@ -4,30 +4,30 @@
 # Security fix for CESA-2012:0518
 #
 # Security announcement date: 2012-04-25 03:48:26 UTC
-# Script generation date:     2016-09-30 21:12:20 UTC
+# Script generation date:     2016-11-24 21:11:49 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - openssl098e.i686:0.9.8e-17.el6.centos.2
+#   - openssl.i686:1.0.0-20.el6_2.4
+#   - openssl-devel.i686:1.0.0-20.el6_2.4
 #   - openssl098e.x86_64:0.9.8e-17.el6.centos.2
 #   - openssl.x86_64:1.0.0-20.el6_2.4
 #   - openssl-devel.x86_64:1.0.0-20.el6_2.4
 #   - openssl-perl.x86_64:1.0.0-20.el6_2.4
 #   - openssl-static.x86_64:1.0.0-20.el6_2.4
-#   - openssl098e.i686:0.9.8e-17.el6.centos.2
-#   - openssl.i686:1.0.0-20.el6_2.4
-#   - openssl-devel.i686:1.0.0-20.el6_2.4
 #
 # Last versions recommanded by security team:
+#   - openssl098e.i686:0.9.8e-20.el6.centos.1
+#   - openssl.i686:1.0.1e-48.el6_8.3
+#   - openssl-devel.i686:1.0.1e-48.el6_8.3
 #   - openssl098e.x86_64:0.9.8e-20.el6.centos.1
 #   - openssl.x86_64:1.0.1e-48.el6_8.3
 #   - openssl-devel.x86_64:1.0.1e-48.el6_8.3
 #   - openssl-perl.x86_64:1.0.1e-48.el6_8.3
 #   - openssl-static.x86_64:1.0.1e-48.el6_8.3
-#   - openssl098e.i686:0.9.8e-20.el6.centos.1
-#   - openssl.i686:1.0.1e-48.el6_8.3
-#   - openssl-devel.i686:1.0.1e-48.el6_8.3
 #
 # CVE List:
 #   - CVE-2012-2110
@@ -36,11 +36,11 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install openssl098e.i686-0.9.8e -y 
+sudo yum install openssl.i686-1.0.1e -y 
+sudo yum install openssl-devel.i686-1.0.1e -y 
 sudo yum install openssl098e.x86_64-0.9.8e -y 
 sudo yum install openssl.x86_64-1.0.1e -y 
 sudo yum install openssl-devel.x86_64-1.0.1e -y 
 sudo yum install openssl-perl.x86_64-1.0.1e -y 
 sudo yum install openssl-static.x86_64-1.0.1e -y 
-sudo yum install openssl098e.i686-0.9.8e -y 
-sudo yum install openssl.i686-1.0.1e -y 
-sudo yum install openssl-devel.i686-1.0.1e -y 

@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:0983
 #
 # Security announcement date: 2015-05-13 00:54:05 UTC
-# Script generation date:     2016-10-12 21:15:51 UTC
+# Script generation date:     2016-11-24 21:12:48 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -34,7 +34,6 @@
 #   - tomcat-webapps.noarch:7.0.54-8.el7_2
 #
 # CVE List:
-#   - CVE-2014-0227
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

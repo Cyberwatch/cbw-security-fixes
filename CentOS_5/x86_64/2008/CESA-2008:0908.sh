@@ -4,7 +4,7 @@
 # Security fix for CESA-2008:0908
 #
 # Security announcement date: 2008-10-03 18:55:25 UTC
-# Script generation date:     2016-10-04 21:14:08 UTC
+# Script generation date:     2016-11-24 21:11:19 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -24,9 +24,9 @@
 #   - CVE-2008-4061
 #   - CVE-2008-4062
 #   - CVE-2008-4065
+#   - CVE-2008-4066
 #   - CVE-2008-4067
 #   - CVE-2008-4068
-#   - CVE-2008-4066
 #   - CVE-2008-4070
 #
 # More details:

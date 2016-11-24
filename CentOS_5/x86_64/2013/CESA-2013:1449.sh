@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1449
 #
 # Security announcement date: 2013-10-23 00:10:49 UTC
-# Script generation date:     2016-10-29 21:15:58 UTC
+# Script generation date:     2016-11-24 21:12:12 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,9 +30,9 @@
 #   - kernel-xen-devel.x86_64:2.6.18-416.el5
 #
 # CVE List:
-#   - CVE-2013-4345
 #   - CVE-2013-0343
 #   - CVE-2013-4299
+#   - CVE-2013-4345
 #   - CVE-2013-4368
 #
 # More details:

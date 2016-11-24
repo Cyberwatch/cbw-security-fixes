@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1146
 #
 # Security announcement date: 2014-09-03 23:09:02 UTC
-# Script generation date:     2016-05-12 18:08:23 UTC
+# Script generation date:     2016-11-24 21:12:35 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -18,8 +18,6 @@
 #   - httpcomponents-client-javadoc.noarch:4.2.5-5.el7_0
 #
 # CVE List:
-#   - CVE-2012-6153
-#   - CVE-2014-3577
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

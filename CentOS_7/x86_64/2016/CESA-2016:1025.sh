@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:1025
 #
 # Security announcement date: 2016-05-13 00:44:08 UTC
-# Script generation date:     2016-05-15 06:08:51 UTC
+# Script generation date:     2016-11-24 21:13:08 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -28,14 +28,14 @@
 #   - pcre-tools.x86_64:8.32-15.el7_2.1
 #
 # CVE List:
-#   - CVE-2015-5073
 #   - CVE-2015-2328
+#   - CVE-2015-3217
+#   - CVE-2015-5073
 #   - CVE-2015-8385
 #   - CVE-2015-8386
 #   - CVE-2015-8388
 #   - CVE-2015-8391
 #   - CVE-2016-3191
-#   - CVE-2015-3217
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

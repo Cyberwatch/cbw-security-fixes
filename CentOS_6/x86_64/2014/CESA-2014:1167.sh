@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1167
 #
 # Security announcement date: 2014-09-09 23:10:17 UTC
-# Script generation date:     2016-11-20 21:13:01 UTC
+# Script generation date:     2016-11-24 21:12:36 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -34,10 +34,10 @@
 #   - python-perf.x86_64:2.6.32-642.11.1.el6
 #
 # CVE List:
-#   - CVE-2014-3535
 #   - CVE-2014-0205
-#   - CVE-2014-4667
+#   - CVE-2014-3535
 #   - CVE-2014-3917
+#   - CVE-2014-4667
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

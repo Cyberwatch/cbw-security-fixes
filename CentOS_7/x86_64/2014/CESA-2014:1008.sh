@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1008
 #
 # Security announcement date: 2014-08-05 22:01:05 UTC
-# Script generation date:     2016-07-27 21:22:53 UTC
+# Script generation date:     2016-11-24 21:12:32 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -38,12 +38,12 @@
 #   - libwbclient-devel.x86_64:4.2.10-7.el7_2
 #   - samba.x86_64:4.2.10-7.el7_2
 #   - samba-client.x86_64:4.2.10-7.el7_2
-#   - samba-common.x86_64:4.1.1-37.el7_0
+#   - samba-common.x86_64:4.1.1-38.el7_0
 #   - samba-dc.x86_64:4.2.10-7.el7_2
 #   - samba-dc-libs.x86_64:4.2.10-7.el7_2
 #   - samba-devel.x86_64:4.2.10-7.el7_2
 #   - samba-libs.x86_64:4.2.10-7.el7_2
-#   - samba-pidl.x86_64:4.1.1-37.el7_0
+#   - samba-pidl.x86_64:4.1.1-38.el7_0
 #   - samba-python.x86_64:4.2.10-7.el7_2
 #   - samba-test.x86_64:4.2.10-7.el7_2
 #   - samba-test-devel.x86_64:4.2.10-7.el7_2

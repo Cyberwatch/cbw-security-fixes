@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0958
 #
 # Security announcement date: 2012-07-10 17:27:19 UTC
-# Script generation date:     2016-05-12 18:07:45 UTC
+# Script generation date:     2016-11-24 21:11:53 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -16,7 +16,6 @@
 #   - sos.noarch:3.2-28.el6.centos.2
 #
 # CVE List:
-#   - CVE-2012-2664
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

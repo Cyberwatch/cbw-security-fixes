@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1156
 #
 # Security announcement date: 2012-08-15 04:21:07 UTC
-# Script generation date:     2016-11-20 21:12:26 UTC
+# Script generation date:     2016-11-24 21:11:57 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -32,8 +32,6 @@
 #   - python-perf.x86_64:2.6.32-642.11.1.el6
 #
 # CVE List:
-#   - CVE-2011-1078
-#   - CVE-2012-2383
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

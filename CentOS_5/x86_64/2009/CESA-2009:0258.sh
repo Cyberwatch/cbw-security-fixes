@@ -4,7 +4,7 @@
 # Security fix for CESA-2009:0258
 #
 # Security announcement date: 2009-05-19 14:34:53 UTC
-# Script generation date:     2016-10-04 21:14:15 UTC
+# Script generation date:     2016-11-24 21:11:24 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,13 +16,13 @@
 #   - thunderbird.x86_64:45.4.0-1.el5.centos
 #
 # CVE List:
+#   - CVE-2009-0352
+#   - CVE-2009-0353
 #   - CVE-2009-0355
 #   - CVE-2009-0772
 #   - CVE-2009-0774
 #   - CVE-2009-0775
 #   - CVE-2009-0776
-#   - CVE-2009-0352
-#   - CVE-2009-0353
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

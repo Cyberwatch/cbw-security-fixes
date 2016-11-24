@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:0809
 #
 # Security announcement date: 2015-04-15 11:19:16 UTC
-# Script generation date:     2016-10-20 21:16:12 UTC
+# Script generation date:     2016-11-24 21:12:47 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -29,10 +29,10 @@
 #   - CVE-2005-1080
 #   - CVE-2015-0460
 #   - CVE-2015-0469
+#   - CVE-2015-0470
 #   - CVE-2015-0477
 #   - CVE-2015-0478
 #   - CVE-2015-0480
-#   - CVE-2015-0470
 #   - CVE-2015-0488
 #
 # More details:

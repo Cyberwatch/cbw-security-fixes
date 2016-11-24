@@ -4,7 +4,7 @@
 # Security fix for CESA-2009:1126
 #
 # Security announcement date: 2009-06-26 14:08:25 UTC
-# Script generation date:     2016-10-04 21:14:16 UTC
+# Script generation date:     2016-11-24 21:11:25 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,15 +17,15 @@
 #
 # CVE List:
 #   - CVE-2009-1303
+#   - CVE-2009-1305
 #   - CVE-2009-1306
 #   - CVE-2009-1307
 #   - CVE-2009-1308
 #   - CVE-2009-1309
+#   - CVE-2009-1392
 #   - CVE-2009-1833
 #   - CVE-2009-1836
 #   - CVE-2009-1838
-#   - CVE-2009-1305
-#   - CVE-2009-1392
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

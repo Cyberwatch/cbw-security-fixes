@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:1359
 #
 # Security announcement date: 2011-10-06 22:11:34 UTC
-# Script generation date:     2016-06-22 16:33:23 UTC
+# Script generation date:     2016-11-24 21:11:40 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -28,8 +28,8 @@
 #   - xorg-x11-server-Xvnc-source.x86_64:1.1.1-48.107.el5.centos
 #
 # CVE List:
-#   - CVE-2010-4819
 #   - CVE-2010-4818
+#   - CVE-2010-4819
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

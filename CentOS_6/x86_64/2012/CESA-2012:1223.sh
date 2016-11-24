@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1223
 #
 # Security announcement date: 2012-09-03 14:37:23 UTC
-# Script generation date:     2016-11-13 21:12:19 UTC
+# Script generation date:     2016-11-24 21:11:57 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -24,10 +24,10 @@
 #   - java-1.7.0-openjdk-src.x86_64:1.7.0.121-2.6.8.1.el6_8
 #
 # CVE List:
-#   - CVE-2012-4681
 #   - CVE-2012-0547
 #   - CVE-2012-1682
 #   - CVE-2012-3136
+#   - CVE-2012-4681
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

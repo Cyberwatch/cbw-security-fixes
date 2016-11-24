@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1206
 #
 # Security announcement date: 2012-08-27 19:18:21 UTC
-# Script generation date:     2016-05-12 18:07:48 UTC
+# Script generation date:     2016-11-24 21:11:57 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -16,7 +16,6 @@
 #   - python-paste-script.noarch:1.7.3-5.el6_3
 #
 # CVE List:
-#   - CVE-2012-0878
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

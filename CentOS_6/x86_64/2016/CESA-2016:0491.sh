@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:0491
 #
 # Security announcement date: 2016-03-23 13:11:25 UTC
-# Script generation date:     2016-05-12 18:08:59 UTC
+# Script generation date:     2016-11-24 21:13:05 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -16,9 +16,9 @@
 #   - foomatic.x86_64:4.0.4-5.el6_7
 #
 # CVE List:
+#   - CVE-2010-5325
 #   - CVE-2015-8327
 #   - CVE-2015-8560
-#   - CVE-2010-5325
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:0311
 #
 # Security announcement date: 2014-03-19 01:15:26 UTC
-# Script generation date:     2016-05-12 18:08:16 UTC
+# Script generation date:     2016-11-24 21:12:26 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -52,8 +52,8 @@
 #   - php-xmlrpc.x86_64:5.1.6-45.el5_11
 #
 # CVE List:
-#   - CVE-2009-0689
 #   - CVE-2006-7243
+#   - CVE-2009-0689
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

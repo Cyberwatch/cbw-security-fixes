@@ -4,7 +4,7 @@
 # Security fix for CESA-2008:0522
 #
 # Security announcement date: 2008-06-26 00:43:00 UTC
-# Script generation date:     2016-05-12 18:07:02 UTC
+# Script generation date:     2016-11-24 21:11:17 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - perl-suidperl.x86_64:5.8.8-10.el5_2.3
 #
 # Last versions recommanded by security team:
-#   - perl.x86_64:5.8.8-40.el5_9
-#   - perl-suidperl.x86_64:5.8.8-40.el5_9
+#   - perl.x86_64:5.8.8-41.el5
+#   - perl-suidperl.x86_64:5.8.8-41.el5
 #
 # CVE List:
 #   - CVE-2008-1927

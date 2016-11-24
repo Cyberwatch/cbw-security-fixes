@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0811
 #
 # Security announcement date: 2012-07-10 17:22:34 UTC
-# Script generation date:     2016-05-12 18:07:44 UTC
+# Script generation date:     2016-11-24 21:11:53 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -18,7 +18,6 @@
 #   - php-pecl-apc-devel.x86_64:3.1.9-2.el6
 #
 # CVE List:
-#   - CVE-2010-3294
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1615
 #
 # Security announcement date: 2013-11-26 13:32:36 UTC
-# Script generation date:     2016-08-12 21:22:32 UTC
+# Script generation date:     2016-11-24 21:12:15 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -68,9 +68,9 @@
 #   - php-zts.x86_64:5.3.3-48.el6_8
 #
 # CVE List:
-#   - CVE-2013-4248
 #   - CVE-2006-7243
 #   - CVE-2013-1643
+#   - CVE-2013-4248
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

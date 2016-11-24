@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1843
 #
 # Security announcement date: 2014-11-11 19:31:00 UTC
-# Script generation date:     2016-11-20 21:13:05 UTC
+# Script generation date:     2016-11-24 21:12:40 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -34,10 +34,10 @@
 #   - python-perf.x86_64:2.6.32-642.11.1.el6
 #
 # CVE List:
+#   - CVE-2014-3185
 #   - CVE-2014-3611
 #   - CVE-2014-3645
 #   - CVE-2014-3646
-#   - CVE-2014-3185
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

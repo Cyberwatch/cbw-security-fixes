@@ -3,35 +3,35 @@
 #
 # Security fix for CESA-2015:2617
 #
-# Security announcement date: 2015-12-14 23:41:45 UTC
-# Script generation date:     2016-09-29 21:12:34 UTC
+# Security announcement date: 2015-12-14 23:44:26 UTC
+# Script generation date:     2016-11-24 21:13:00 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - openssl.x86_64:1.0.1e-51.el7_2.1
+#   - openssl-devel.i686:1.0.1e-51.el7_2.1
 #   - openssl-devel.x86_64:1.0.1e-51.el7_2.1
+#   - openssl-libs.i686:1.0.1e-51.el7_2.1
 #   - openssl-libs.x86_64:1.0.1e-51.el7_2.1
 #   - openssl-perl.x86_64:1.0.1e-51.el7_2.1
-#   - openssl-static.x86_64:1.0.1e-51.el7_2.1
-#   - openssl-devel.i686:1.0.1e-51.el7_2.1
-#   - openssl-libs.i686:1.0.1e-51.el7_2.1
 #   - openssl-static.i686:1.0.1e-51.el7_2.1
+#   - openssl-static.x86_64:1.0.1e-51.el7_2.1
 #
 # Last versions recommanded by security team:
 #   - openssl.x86_64:1.0.1e-51.el7_2.7
+#   - openssl-devel.i686:1.0.1e-51.el7_2.7
 #   - openssl-devel.x86_64:1.0.1e-51.el7_2.7
+#   - openssl-libs.i686:1.0.1e-51.el7_2.7
 #   - openssl-libs.x86_64:1.0.1e-51.el7_2.7
 #   - openssl-perl.x86_64:1.0.1e-51.el7_2.7
-#   - openssl-static.x86_64:1.0.1e-51.el7_2.7
-#   - openssl-devel.i686:1.0.1e-51.el7_2.7
-#   - openssl-libs.i686:1.0.1e-51.el7_2.7
 #   - openssl-static.i686:1.0.1e-51.el7_2.7
+#   - openssl-static.x86_64:1.0.1e-51.el7_2.7
 #
 # CVE List:
-#   - CVE-2015-3195
 #   - CVE-2015-3194
+#   - CVE-2015-3195
 #   - CVE-2015-3196
 #
 # More details:
@@ -39,10 +39,10 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openssl.x86_64-1.0.1e -y 
+sudo yum install openssl-devel.i686-1.0.1e -y 
 sudo yum install openssl-devel.x86_64-1.0.1e -y 
+sudo yum install openssl-libs.i686-1.0.1e -y 
 sudo yum install openssl-libs.x86_64-1.0.1e -y 
 sudo yum install openssl-perl.x86_64-1.0.1e -y 
-sudo yum install openssl-static.x86_64-1.0.1e -y 
-sudo yum install openssl-devel.i686-1.0.1e -y 
-sudo yum install openssl-libs.i686-1.0.1e -y 
 sudo yum install openssl-static.i686-1.0.1e -y 
+sudo yum install openssl-static.x86_64-1.0.1e -y 

@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1051
 #
 # Security announcement date: 2013-07-17 04:56:29 UTC
-# Script generation date:     2016-11-20 21:12:45 UTC
+# Script generation date:     2016-11-24 21:12:10 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -32,17 +32,17 @@
 #   - python-perf.x86_64:2.6.32-642.11.1.el6
 #
 # CVE List:
-#   - CVE-2013-2128
 #   - CVE-2012-6548
-#   - CVE-2013-3301
 #   - CVE-2013-0914
 #   - CVE-2013-1848
+#   - CVE-2013-2128
 #   - CVE-2013-2634
 #   - CVE-2013-2635
 #   - CVE-2013-2852
 #   - CVE-2013-3222
 #   - CVE-2013-3224
 #   - CVE-2013-3225
+#   - CVE-2013-3301
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

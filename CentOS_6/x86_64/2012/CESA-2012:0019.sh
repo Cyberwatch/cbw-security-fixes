@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0019
 #
 # Security announcement date: 2012-01-11 20:04:37 UTC
-# Script generation date:     2016-08-12 21:19:51 UTC
+# Script generation date:     2016-11-24 21:11:44 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -66,8 +66,8 @@
 #   - php-zts.x86_64:5.3.3-48.el6_8
 #
 # CVE List:
-#   - CVE-2011-4885
 #   - CVE-2011-4566
+#   - CVE-2011-4885
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

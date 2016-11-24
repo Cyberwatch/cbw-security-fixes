@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:0429
 #
 # Security announcement date: 2014-04-23 19:07:14 UTC
-# Script generation date:     2016-10-12 21:15:23 UTC
+# Script generation date:     2016-11-24 21:12:27 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -32,10 +32,6 @@
 #   - tomcat6-webapps.noarch:6.0.24-98.el6_8
 #
 # CVE List:
-#   - CVE-2014-0050
-#   - CVE-2013-4286
-#   - CVE-2013-4322
-#   - CVE-2012-3544
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

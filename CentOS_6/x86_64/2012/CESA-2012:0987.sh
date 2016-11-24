@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0987
 #
 # Security announcement date: 2012-07-10 17:30:24 UTC
-# Script generation date:     2016-05-12 18:07:45 UTC
+# Script generation date:     2016-11-24 21:11:54 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -20,7 +20,6 @@
 #   - sblim-cim-client2-manual.noarch:2.1.3-2.el6
 #
 # CVE List:
-#   - CVE-2012-2328
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

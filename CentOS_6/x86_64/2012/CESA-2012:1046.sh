@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1046
 #
 # Security announcement date: 2012-07-10 17:36:22 UTC
-# Script generation date:     2016-08-12 21:20:30 UTC
+# Script generation date:     2016-11-24 21:11:54 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -66,16 +66,6 @@
 #   - php-zts.x86_64:5.3.3-48.el6_8
 #
 # CVE List:
-#   - CVE-2012-2143
-#   - CVE-2012-2336
-#   - CVE-2012-2386
-#   - CVE-2012-0057
-#   - CVE-2012-0789
-#   - CVE-2012-1172
-#   - CVE-2012-1823
-#   - CVE-2010-2950
-#   - CVE-2011-4153
-#   - CVE-2012-0781
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

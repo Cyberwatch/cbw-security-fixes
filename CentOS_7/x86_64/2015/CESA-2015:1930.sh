@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:1930
 #
 # Security announcement date: 2015-10-26 16:40:24 UTC
-# Script generation date:     2016-06-22 12:28:49 UTC
+# Script generation date:     2016-11-24 21:12:55 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -24,8 +24,8 @@
 #   - sntp.x86_64:4.2.6p5-22.el7.centos.2
 #
 # CVE List:
-#   - CVE-2015-7704
 #   - CVE-2015-5300
+#   - CVE-2015-7704
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

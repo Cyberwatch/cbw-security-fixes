@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1912
 #
 # Security announcement date: 2014-12-01 13:45:48 UTC
-# Script generation date:     2016-05-12 18:08:29 UTC
+# Script generation date:     2016-11-24 21:12:41 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -23,9 +23,9 @@
 #   - rubygems.noarch:2.0.14-22.el7_0
 #   - rubygems-devel.noarch:2.0.14-22.el7_0
 #   - ruby-irb.noarch:2.0.0.353-22.el7_0
+#   - ruby-libs.i686:2.0.0.353-22.el7_0
 #   - ruby-libs.x86_64:2.0.0.353-22.el7_0
 #   - ruby-tcltk.x86_64:2.0.0.353-22.el7_0
-#   - ruby-libs.i686:2.0.0.353-22.el7_0
 #
 # Last versions recommanded by security team:
 #   - ruby.x86_64:2.0.0.353-22.el7_0
@@ -41,14 +41,14 @@
 #   - rubygems.noarch:2.0.14-22.el7_0
 #   - rubygems-devel.noarch:2.0.14-22.el7_0
 #   - ruby-irb.noarch:2.0.0.353-22.el7_0
+#   - ruby-libs.i686:2.0.0.353-22.el7_0
 #   - ruby-libs.x86_64:2.0.0.353-22.el7_0
 #   - ruby-tcltk.x86_64:2.0.0.353-22.el7_0
-#   - ruby-libs.i686:2.0.0.353-22.el7_0
 #
 # CVE List:
+#   - CVE-2014-4975
 #   - CVE-2014-8080
 #   - CVE-2014-8090
-#   - CVE-2014-4975
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
@@ -67,6 +67,6 @@ sudo yum install rubygem-rdoc.noarch-4.0.0 -y
 sudo yum install rubygems.noarch-2.0.14 -y 
 sudo yum install rubygems-devel.noarch-2.0.14 -y 
 sudo yum install ruby-irb.noarch-2.0.0.353 -y 
+sudo yum install ruby-libs.i686-2.0.0.353 -y 
 sudo yum install ruby-libs.x86_64-2.0.0.353 -y 
 sudo yum install ruby-tcltk.x86_64-2.0.0.353 -y 
-sudo yum install ruby-libs.i686-2.0.0.353 -y 

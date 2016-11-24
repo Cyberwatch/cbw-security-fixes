@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2007:1083
 #
-# Security announcement date: 2007-12-22 19:36:00 UTC
-# Script generation date:     2016-10-04 21:14:01 UTC
+# Security announcement date: 2007-12-22 19:36:01 UTC
+# Script generation date:     2016-11-24 21:11:13 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64

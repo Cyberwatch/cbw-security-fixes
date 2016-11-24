@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1014
 #
 # Security announcement date: 2013-07-04 10:17:25 UTC
-# Script generation date:     2016-08-27 21:12:42 UTC
+# Script generation date:     2016-11-24 21:12:10 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -24,20 +24,24 @@
 #   - java-1.6.0-openjdk-src.x86_64:1.6.0.40-1.13.12.6.el6_8
 #
 # CVE List:
-#   - CVE-2013-1571
-#   - CVE-2013-2444
 #   - CVE-2013-1500
+#   - CVE-2013-1571
+#   - CVE-2013-2407
+#   - CVE-2013-2412
 #   - CVE-2013-2443
+#   - CVE-2013-2444
 #   - CVE-2013-2445
 #   - CVE-2013-2446
 #   - CVE-2013-2447
 #   - CVE-2013-2448
 #   - CVE-2013-2450
 #   - CVE-2013-2452
+#   - CVE-2013-2453
 #   - CVE-2013-2455
 #   - CVE-2013-2456
 #   - CVE-2013-2457
 #   - CVE-2013-2459
+#   - CVE-2013-2461
 #   - CVE-2013-2463
 #   - CVE-2013-2465
 #   - CVE-2013-2469
@@ -45,10 +49,6 @@
 #   - CVE-2013-2471
 #   - CVE-2013-2472
 #   - CVE-2013-2473
-#   - CVE-2013-2407
-#   - CVE-2013-2412
-#   - CVE-2013-2453
-#   - CVE-2013-2461
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

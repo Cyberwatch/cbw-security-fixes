@@ -4,7 +4,7 @@
 # Security fix for CESA-2008:0175
 #
 # Security announcement date: 2008-04-23 22:26:12 UTC
-# Script generation date:     2016-05-12 18:07:01 UTC
+# Script generation date:     2016-11-24 21:11:16 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -160,10 +160,6 @@
 #   - openoffice.org-xsltfilter.x86_64:3.1.1-19.10.el5_8.4
 #
 # CVE List:
-#   - CVE-2007-5747
-#   - CVE-2007-5745
-#   - CVE-2007-5746
-#   - CVE-2008-0320
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0640
 #
 # Security announcement date: 2013-03-12 19:14:34 UTC
-# Script generation date:     2016-05-12 18:08:01 UTC
+# Script generation date:     2016-11-24 21:12:06 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -36,10 +36,10 @@
 #   - tomcat5-webapps.x86_64:5.5.23-0jpp.40.el5_9
 #
 # CVE List:
+#   - CVE-2012-3546
 #   - CVE-2012-5885
 #   - CVE-2012-5886
 #   - CVE-2012-5887
-#   - CVE-2012-3546
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1201
 #
 # Security announcement date: 2012-08-23 23:12:26 UTC
-# Script generation date:     2016-05-12 18:07:48 UTC
+# Script generation date:     2016-11-24 21:11:57 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -28,14 +28,6 @@
 #   - tetex-xdvi.x86_64:3.0-33.15.el5_8.1
 #
 # CVE List:
-#   - CVE-2010-3702
-#   - CVE-2010-3704
-#   - CVE-2011-0764
-#   - CVE-2011-1552
-#   - CVE-2011-1553
-#   - CVE-2011-1554
-#   - CVE-2010-2642
-#   - CVE-2011-0433
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

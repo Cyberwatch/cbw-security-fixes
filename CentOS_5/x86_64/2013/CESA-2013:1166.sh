@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1166
 #
 # Security announcement date: 2013-08-21 14:07:08 UTC
-# Script generation date:     2016-10-29 21:15:57 UTC
+# Script generation date:     2016-11-24 21:12:11 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,14 +30,14 @@
 #   - kernel-xen-devel.x86_64:2.6.18-416.el5
 #
 # CVE List:
-#   - CVE-2012-3552
+#   - CVE-2013-2147
 #   - CVE-2013-2164
 #   - CVE-2013-2206
+#   - CVE-2013-2224
 #   - CVE-2013-2232
 #   - CVE-2013-2234
 #   - CVE-2013-2237
-#   - CVE-2013-2147
-#   - CVE-2013-2224
+#   - CVE-2012-3552
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:1218
 #
 # Security announcement date: 2015-07-09 19:23:41 UTC
-# Script generation date:     2016-08-12 21:24:50 UTC
+# Script generation date:     2016-11-24 21:12:49 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -68,24 +68,24 @@
 #   - php-zts.x86_64:5.3.3-48.el6_8
 #
 # CVE List:
-#   - CVE-2015-2301
+#   - CVE-2014-9425
+#   - CVE-2014-9705
 #   - CVE-2014-9709
 #   - CVE-2015-0232
-#   - CVE-2015-2787
-#   - CVE-2014-9705
 #   - CVE-2015-0273
-#   - CVE-2014-9425
+#   - CVE-2015-2301
 #   - CVE-2015-2783
-#   - CVE-2015-4022
+#   - CVE-2015-2787
 #   - CVE-2015-3307
 #   - CVE-2015-3329
+#   - CVE-2015-3411
+#   - CVE-2015-3412
 #   - CVE-2015-4021
+#   - CVE-2015-4022
 #   - CVE-2015-4024
 #   - CVE-2015-4026
 #   - CVE-2015-4147
 #   - CVE-2015-4148
-#   - CVE-2015-3411
-#   - CVE-2015-3412
 #   - CVE-2015-4598
 #   - CVE-2015-4599
 #   - CVE-2015-4600

@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2014:0907
 #
-# Security announcement date: 2014-07-21 18:20:14 UTC
-# Script generation date:     2016-08-27 21:12:57 UTC
+# Security announcement date: 2014-07-21 23:09:02 UTC
+# Script generation date:     2016-11-24 21:12:29 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -24,15 +24,15 @@
 #   - java-1.6.0-openjdk-src.x86_64:1.6.0.40-1.13.12.4.el5_11
 #
 # CVE List:
+#   - CVE-2014-2490
 #   - CVE-2014-4209
 #   - CVE-2014-4216
 #   - CVE-2014-4218
+#   - CVE-2014-4219
 #   - CVE-2014-4244
 #   - CVE-2014-4252
 #   - CVE-2014-4262
 #   - CVE-2014-4263
-#   - CVE-2014-4219
-#   - CVE-2014-2490
 #   - CVE-2014-4266
 #
 # More details:

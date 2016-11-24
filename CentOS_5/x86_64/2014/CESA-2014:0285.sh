@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:0285
 #
 # Security announcement date: 2014-03-13 10:35:06 UTC
-# Script generation date:     2016-10-29 21:16:06 UTC
+# Script generation date:     2016-11-24 21:12:26 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,14 +30,14 @@
 #   - kernel-xen-devel.x86_64:2.6.18-416.el5
 #
 # CVE List:
-#   - CVE-2013-6885
 #   - CVE-2013-2929
 #   - CVE-2013-4483
+#   - CVE-2013-4554
 #   - CVE-2013-6381
 #   - CVE-2013-6383
+#   - CVE-2013-6885
 #   - CVE-2013-7263
 #   - CVE-2013-7265
-#   - CVE-2013-4554
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

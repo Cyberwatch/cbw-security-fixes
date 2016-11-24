@@ -4,26 +4,26 @@
 # Security fix for CESA-2016:0371
 #
 # Security announcement date: 2016-03-09 05:42:52 UTC
-# Script generation date:     2016-11-20 21:13:31 UTC
+# Script generation date:     2016-11-24 21:13:04 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - nss.i386:3.19.1-4.el5_11
-#   - nss.x86_64:3.19.1-4.el5_11
 #   - nss-devel.i386:3.19.1-4.el5_11
-#   - nss-devel.x86_64:3.19.1-4.el5_11
 #   - nss-pkcs11-devel.i386:3.19.1-4.el5_11
+#   - nss.x86_64:3.19.1-4.el5_11
+#   - nss-devel.x86_64:3.19.1-4.el5_11
 #   - nss-pkcs11-devel.x86_64:3.19.1-4.el5_11
 #   - nss-tools.x86_64:3.19.1-4.el5_11
 #
 # Last versions recommanded by security team:
 #   - nss.i386:3.21.3-2.el5_11
-#   - nss.x86_64:3.21.3-2.el5_11
 #   - nss-devel.i386:3.21.3-2.el5_11
-#   - nss-devel.x86_64:3.21.3-2.el5_11
 #   - nss-pkcs11-devel.i386:3.21.3-2.el5_11
+#   - nss.x86_64:3.21.3-2.el5_11
+#   - nss-devel.x86_64:3.21.3-2.el5_11
 #   - nss-pkcs11-devel.x86_64:3.21.3-2.el5_11
 #   - nss-tools.x86_64:3.21.3-2.el5_11
 #
@@ -35,9 +35,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install nss.i386-3.21.3 -y 
-sudo yum install nss.x86_64-3.21.3 -y 
 sudo yum install nss-devel.i386-3.21.3 -y 
-sudo yum install nss-devel.x86_64-3.21.3 -y 
 sudo yum install nss-pkcs11-devel.i386-3.21.3 -y 
+sudo yum install nss.x86_64-3.21.3 -y 
+sudo yum install nss-devel.x86_64-3.21.3 -y 
 sudo yum install nss-pkcs11-devel.x86_64-3.21.3 -y 
 sudo yum install nss-tools.x86_64-3.21.3 -y 

@@ -4,7 +4,7 @@
 # Security fix for CESA-2010:0040
 #
 # Security announcement date: 2010-01-13 22:42:15 UTC
-# Script generation date:     2016-05-12 18:07:16 UTC
+# Script generation date:     2016-11-24 21:11:29 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -52,12 +52,12 @@
 #   - php-xmlrpc.x86_64:5.1.6-45.el5_11
 #
 # CVE List:
+#   - CVE-2009-2687
 #   - CVE-2009-3291
 #   - CVE-2009-3292
-#   - CVE-2009-4142
-#   - CVE-2009-2687
 #   - CVE-2009-3546
 #   - CVE-2009-4017
+#   - CVE-2009-4142
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

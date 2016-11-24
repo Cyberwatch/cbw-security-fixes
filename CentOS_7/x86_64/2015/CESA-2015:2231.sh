@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:2231
 #
 # Security announcement date: 2015-11-30 19:45:44 UTC
-# Script generation date:     2016-06-22 12:29:04 UTC
+# Script generation date:     2016-11-24 21:12:57 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -24,13 +24,13 @@
 #   - sntp.x86_64:4.2.6p5-22.el7.centos.2
 #
 # CVE List:
-#   - CVE-2015-1798
-#   - CVE-2015-1799
 #   - CVE-2014-9297
 #   - CVE-2014-9298
-#   - CVE-2015-3405
 #   - CVE-2014-9750
 #   - CVE-2014-9751
+#   - CVE-2015-1798
+#   - CVE-2015-1799
+#   - CVE-2015-3405
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

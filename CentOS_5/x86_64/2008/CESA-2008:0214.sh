@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2008:0214
 #
-# Security announcement date: 2008-04-18 16:57:39 UTC
-# Script generation date:     2016-05-12 18:07:01 UTC
+# Security announcement date: 2008-04-18 16:57:40 UTC
+# Script generation date:     2016-11-24 21:11:16 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,8 +16,8 @@
 #   - squid.x86_64:2.6.STABLE21-7.el5_10
 #
 # CVE List:
-#   - CVE-2007-6239
 #   - CVE-2008-1612
+#   - CVE-2007-6239
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

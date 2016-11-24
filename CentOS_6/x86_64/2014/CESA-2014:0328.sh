@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:0328
 #
 # Security announcement date: 2014-03-25 21:39:34 UTC
-# Script generation date:     2016-11-20 21:12:53 UTC
+# Script generation date:     2016-11-24 21:12:26 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -34,10 +34,10 @@
 #   - python-perf.x86_64:2.6.32-642.11.1.el6
 #
 # CVE List:
-#   - CVE-2014-0069
-#   - CVE-2014-0101
 #   - CVE-2013-1860
 #   - CVE-2014-0055
+#   - CVE-2014-0069
+#   - CVE-2014-0101
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

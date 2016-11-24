@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0705
 #
 # Security announcement date: 2012-06-05 13:05:33 UTC
-# Script generation date:     2016-05-12 18:07:42 UTC
+# Script generation date:     2016-11-24 21:11:50 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -39,6 +39,7 @@
 #   - autocorr-tr.noarch:3.2.1-19.6.el6_2.7
 #   - autocorr-vi.noarch:3.2.1-19.6.el6_2.7
 #   - autocorr-zh.noarch:3.2.1-19.6.el6_2.7
+#   - openoffice.org-devel.i686:3.2.1-19.6.el6_2.7
 #   - openoffice.org-opensymbol-fonts.noarch:3.2.1-19.6.el6_2.7
 #   - broffice.org-base.x86_64:3.2.1-19.6.el6_2.7
 #   - broffice.org-brand.x86_64:3.2.1-19.6.el6_2.7
@@ -145,7 +146,6 @@
 #   - openoffice.org-writer.x86_64:3.2.1-19.6.el6_2.7
 #   - openoffice.org-writer-core.x86_64:3.2.1-19.6.el6_2.7
 #   - openoffice.org-xsltfilter.x86_64:3.2.1-19.6.el6_2.7
-#   - openoffice.org-devel.i686:3.2.1-19.6.el6_2.7
 #
 # Last versions recommanded by security team:
 #   - autocorr-af.noarch:4.2.8.2-11.el6_7.1
@@ -177,6 +177,7 @@
 #   - autocorr-tr.noarch:4.2.8.2-11.el6_7.1
 #   - autocorr-vi.noarch:4.2.8.2-11.el6_7.1
 #   - autocorr-zh.noarch:4.2.8.2-11.el6_7.1
+#   - openoffice.org-devel.i686:3.2.1-19.6.el6_2.7
 #   - openoffice.org-opensymbol-fonts.noarch:3.2.1-19.6.el6_2.7
 #   - broffice.org-base.x86_64:3.2.1-19.6.el6_2.7
 #   - broffice.org-brand.x86_64:3.2.1-19.6.el6_2.7
@@ -283,11 +284,8 @@
 #   - openoffice.org-writer.x86_64:3.2.1-19.6.el6_2.7
 #   - openoffice.org-writer-core.x86_64:3.2.1-19.6.el6_2.7
 #   - openoffice.org-xsltfilter.x86_64:3.2.1-19.6.el6_2.7
-#   - openoffice.org-devel.i686:3.2.1-19.6.el6_2.7
 #
 # CVE List:
-#   - CVE-2012-1149
-#   - CVE-2012-2334
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
@@ -322,6 +320,7 @@ sudo yum install autocorr-sv.noarch-4.2.8.2 -y
 sudo yum install autocorr-tr.noarch-4.2.8.2 -y 
 sudo yum install autocorr-vi.noarch-4.2.8.2 -y 
 sudo yum install autocorr-zh.noarch-4.2.8.2 -y 
+sudo yum install openoffice.org-devel.i686-3.2.1 -y 
 sudo yum install openoffice.org-opensymbol-fonts.noarch-3.2.1 -y 
 sudo yum install broffice.org-base.x86_64-3.2.1 -y 
 sudo yum install broffice.org-brand.x86_64-3.2.1 -y 
@@ -428,4 +427,3 @@ sudo yum install openoffice.org-wiki-publisher.x86_64-3.2.1 -y
 sudo yum install openoffice.org-writer.x86_64-3.2.1 -y 
 sudo yum install openoffice.org-writer-core.x86_64-3.2.1 -y 
 sudo yum install openoffice.org-xsltfilter.x86_64-3.2.1 -y 
-sudo yum install openoffice.org-devel.i686-3.2.1 -y 

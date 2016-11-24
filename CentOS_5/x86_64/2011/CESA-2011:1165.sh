@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:1165
 #
 # Security announcement date: 2011-09-02 16:37:10 UTC
-# Script generation date:     2016-10-04 21:14:35 UTC
+# Script generation date:     2016-11-24 21:11:40 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,8 +16,6 @@
 #   - thunderbird.x86_64:45.4.0-1.el5.centos
 #
 # CVE List:
-#   - CVE-2011-2982
-#   - CVE-2011-2983
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1814
 #
 # Security announcement date: 2013-12-11 09:34:01 UTC
-# Script generation date:     2016-05-12 18:08:13 UTC
+# Script generation date:     2016-11-24 21:12:23 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -52,9 +52,9 @@
 #   - php-xmlrpc.x86_64:5.1.6-45.el5_11
 #
 # CVE List:
+#   - CVE-2011-1398
 #   - CVE-2012-2688
 #   - CVE-2013-1643
-#   - CVE-2011-1398
 #   - CVE-2013-6420
 #
 # More details:

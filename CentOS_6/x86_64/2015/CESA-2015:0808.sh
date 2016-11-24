@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2015:0808
 #
-# Security announcement date: 2015-04-15 11:15:16 UTC
-# Script generation date:     2016-08-27 21:13:15 UTC
+# Security announcement date: 2015-04-15 11:35:10 UTC
+# Script generation date:     2016-11-24 21:12:47 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64

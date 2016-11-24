@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:0771
 #
 # Security announcement date: 2015-04-01 18:06:44 UTC
-# Script generation date:     2016-10-04 21:15:48 UTC
+# Script generation date:     2016-11-24 21:12:47 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -18,9 +18,9 @@
 # CVE List:
 #   - CVE-2015-0801
 #   - CVE-2015-0807
-#   - CVE-2015-0816
 #   - CVE-2015-0813
 #   - CVE-2015-0815
+#   - CVE-2015-0816
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

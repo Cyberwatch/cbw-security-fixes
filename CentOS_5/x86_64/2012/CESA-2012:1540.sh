@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1540
 #
 # Security announcement date: 2012-12-05 10:07:09 UTC
-# Script generation date:     2016-10-29 21:15:43 UTC
+# Script generation date:     2016-11-24 21:12:00 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,12 +30,12 @@
 #   - kernel-xen-devel.x86_64:2.6.18-416.el5
 #
 # CVE List:
+#   - CVE-2012-2372
 #   - CVE-2012-3552
 #   - CVE-2012-4508
-#   - CVE-2012-2372
-#   - CVE-2012-5513
 #   - CVE-2012-4535
 #   - CVE-2012-4537
+#   - CVE-2012-5513
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

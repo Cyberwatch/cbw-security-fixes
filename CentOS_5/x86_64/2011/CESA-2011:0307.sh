@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:0307
 #
 # Security announcement date: 2011-04-14 23:48:14 UTC
-# Script generation date:     2016-06-22 16:26:14 UTC
+# Script generation date:     2016-11-24 21:11:37 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -16,9 +16,9 @@
 #   - mailman.x86_64:2.1.9-6.el5_6.1
 #
 # CVE List:
-#   - CVE-2011-0707
-#   - CVE-2010-3089
 #   - CVE-2008-0564
+#   - CVE-2010-3089
+#   - CVE-2011-0707
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

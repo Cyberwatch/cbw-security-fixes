@@ -4,7 +4,7 @@
 # Security fix for CESA-2008:0042
 #
 # Security announcement date: 2008-03-19 00:04:07 UTC
-# Script generation date:     2016-05-12 18:07:00 UTC
+# Script generation date:     2016-11-24 21:11:15 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -36,8 +36,8 @@
 #   - tomcat5-webapps.x86_64:5.5.23-0jpp.40.el5_9
 #
 # CVE List:
-#   - CVE-2007-5342
 #   - CVE-2007-5461
+#   - CVE-2007-5342
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

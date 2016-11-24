@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:1137
 #
 # Security announcement date: 2015-06-24 03:36:55 UTC
-# Script generation date:     2016-10-26 21:14:19 UTC
+# Script generation date:     2016-11-24 21:12:49 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -38,13 +38,13 @@
 #   - python-perf.x86_64:3.10.0-327.36.3.el7
 #
 # CVE List:
+#   - CVE-2014-9420
 #   - CVE-2014-9529
 #   - CVE-2014-9584
-#   - CVE-2014-9420
-#   - CVE-2015-1593
-#   - CVE-2015-2830
-#   - CVE-2015-1805
 #   - CVE-2015-1573
+#   - CVE-2015-1593
+#   - CVE-2015-1805
+#   - CVE-2015-2830
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

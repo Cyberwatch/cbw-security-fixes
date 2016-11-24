@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2009:0046
 #
-# Security announcement date: 2009-04-09 17:43:49 UTC
-# Script generation date:     2016-05-12 18:07:09 UTC
+# Security announcement date: 2009-04-09 17:43:48 UTC
+# Script generation date:     2016-11-24 21:11:23 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64

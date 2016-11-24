@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0169
 #
 # Security announcement date: 2013-01-22 02:41:09 UTC
-# Script generation date:     2016-05-12 18:07:53 UTC
+# Script generation date:     2016-11-24 21:12:01 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -16,11 +16,11 @@
 #   - vino.x86_64:2.28.1-9.el6_4
 #
 # CVE List:
-#   - CVE-2011-1165
-#   - CVE-2012-4429
 #   - CVE-2011-0904
 #   - CVE-2011-0905
 #   - CVE-2011-1164
+#   - CVE-2011-1165
+#   - CVE-2012-4429
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

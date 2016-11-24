@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:0532
 #
 # Security announcement date: 2016-03-31 20:56:46 UTC
-# Script generation date:     2016-06-22 12:29:41 UTC
+# Script generation date:     2016-11-24 21:13:06 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -31,8 +31,8 @@
 #
 # CVE List:
 #   - CVE-2015-8629
-#   - CVE-2015-8631
 #   - CVE-2015-8630
+#   - CVE-2015-8631
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

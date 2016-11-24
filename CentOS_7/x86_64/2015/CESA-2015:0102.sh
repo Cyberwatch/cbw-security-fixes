@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:0102
 #
 # Security announcement date: 2015-01-30 00:20:47 UTC
-# Script generation date:     2016-10-26 21:14:13 UTC
+# Script generation date:     2016-11-24 21:12:44 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -39,11 +39,11 @@
 #
 # CVE List:
 #   - CVE-2014-4171
-#   - CVE-2014-7841
-#   - CVE-2014-7822
 #   - CVE-2014-5471
 #   - CVE-2014-5472
 #   - CVE-2014-7145
+#   - CVE-2014-7822
+#   - CVE-2014-7841
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

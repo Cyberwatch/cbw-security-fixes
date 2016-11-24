@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2016:0373
 #
-# Security announcement date: 2016-03-09 13:15:56 UTC
-# Script generation date:     2016-11-20 21:13:31 UTC
+# Security announcement date: 2016-03-09 13:26:30 UTC
+# Script generation date:     2016-11-24 21:13:04 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64

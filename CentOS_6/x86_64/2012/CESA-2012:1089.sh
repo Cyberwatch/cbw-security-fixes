@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1089
 #
 # Security announcement date: 2012-07-18 01:08:26 UTC
-# Script generation date:     2016-10-04 21:14:52 UTC
+# Script generation date:     2016-11-24 21:11:55 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -17,7 +17,6 @@
 #
 # CVE List:
 #   - CVE-2012-1948
-#   - CVE-2012-1949
 #   - CVE-2012-1951
 #   - CVE-2012-1952
 #   - CVE-2012-1953
@@ -32,6 +31,7 @@
 #   - CVE-2012-1964
 #   - CVE-2012-1967
 #   - CVE-2011-3389
+#   - CVE-2012-1949
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

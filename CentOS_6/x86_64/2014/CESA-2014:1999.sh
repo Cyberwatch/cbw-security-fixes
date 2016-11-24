@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2014:1999
 #
-# Security announcement date: 2014-12-16 20:39:59 UTC
-# Script generation date:     2016-05-12 18:08:30 UTC
+# Security announcement date: 2014-12-16 20:46:34 UTC
+# Script generation date:     2016-11-24 21:12:42 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64

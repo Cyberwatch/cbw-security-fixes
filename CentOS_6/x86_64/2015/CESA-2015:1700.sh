@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2015:1700
 #
-# Security announcement date: 2015-09-01 15:34:49 UTC
-# Script generation date:     2016-05-12 18:08:45 UTC
+# Security announcement date: 2015-09-01 23:36:33 UTC
+# Script generation date:     2016-11-24 21:12:54 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64

@@ -4,12 +4,14 @@
 # Security fix for CESA-2012:0137
 #
 # Security announcement date: 2012-02-16 13:36:55 UTC
-# Script generation date:     2016-06-22 16:33:44 UTC
+# Script generation date:     2016-11-24 21:11:47 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - kpathsea.i686:2007-57.el6_2
+#   - kpathsea-devel.i686:2007-57.el6_2
 #   - kpathsea.x86_64:2007-57.el6_2
 #   - kpathsea-devel.x86_64:2007-57.el6_2
 #   - mendexk.x86_64:2.6e-57.el6_2
@@ -22,10 +24,10 @@
 #   - texlive-latex.x86_64:2007-57.el6_2
 #   - texlive-utils.x86_64:2007-57.el6_2
 #   - texlive-xetex.x86_64:2007-57.el6_2
-#   - kpathsea.i686:2007-57.el6_2
-#   - kpathsea-devel.i686:2007-57.el6_2
 #
 # Last versions recommanded by security team:
+#   - kpathsea.i686:2007-57.el6_2
+#   - kpathsea-devel.i686:2007-57.el6_2
 #   - kpathsea.x86_64:2007-57.el6_2
 #   - kpathsea-devel.x86_64:2007-57.el6_2
 #   - mendexk.x86_64:2.6e-57.el6_2
@@ -38,21 +40,21 @@
 #   - texlive-latex.x86_64:2007-57.el6_2
 #   - texlive-utils.x86_64:2007-57.el6_2
 #   - texlive-xetex.x86_64:2007-57.el6_2
-#   - kpathsea.i686:2007-57.el6_2
-#   - kpathsea-devel.i686:2007-57.el6_2
 #
 # CVE List:
+#   - CVE-2010-2642
+#   - CVE-2011-0433
 #   - CVE-2011-0764
 #   - CVE-2011-1552
 #   - CVE-2011-1553
 #   - CVE-2011-1554
-#   - CVE-2010-2642
-#   - CVE-2011-0433
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install kpathsea.i686-2007 -y 
+sudo yum install kpathsea-devel.i686-2007 -y 
 sudo yum install kpathsea.x86_64-2007 -y 
 sudo yum install kpathsea-devel.x86_64-2007 -y 
 sudo yum install mendexk.x86_64-2.6e -y 
@@ -65,5 +67,3 @@ sudo yum install texlive-east-asian.x86_64-2007 -y
 sudo yum install texlive-latex.x86_64-2007 -y 
 sudo yum install texlive-utils.x86_64-2007 -y 
 sudo yum install texlive-xetex.x86_64-2007 -y 
-sudo yum install kpathsea.i686-2007 -y 
-sudo yum install kpathsea-devel.i686-2007 -y 

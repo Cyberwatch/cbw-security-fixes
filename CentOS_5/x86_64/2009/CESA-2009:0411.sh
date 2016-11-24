@@ -4,7 +4,7 @@
 # Security fix for CESA-2009:0411
 #
 # Security announcement date: 2009-04-08 12:02:09 UTC
-# Script generation date:     2016-05-12 18:07:09 UTC
+# Script generation date:     2016-11-24 21:11:23 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - kpartx.x86_64:0.4.7-23.el5_3.2
 #
 # Last versions recommanded by security team:
-#   - device-mapper-multipath.x86_64:0.4.7-23.el5_3.2
-#   - kpartx.x86_64:0.4.7-23.el5_3.2
+#   - device-mapper-multipath.x86_64:0.4.7-59.el5
+#   - kpartx.x86_64:0.4.7-59.el5
 #
 # CVE List:
 #   - CVE-2009-0115

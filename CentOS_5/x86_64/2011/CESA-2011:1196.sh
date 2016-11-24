@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:1196
 #
 # Security announcement date: 2011-09-02 00:16:53 UTC
-# Script generation date:     2016-06-22 16:33:19 UTC
+# Script generation date:     2016-11-24 21:11:40 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -18,7 +18,6 @@
 #   - system-config-printer-libs.x86_64:0.7.32.10-1.el5_7.1
 #
 # CVE List:
-#   - CVE-2011-2899
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
