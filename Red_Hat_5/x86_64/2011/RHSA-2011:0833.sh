@@ -4,7 +4,7 @@
 # Security fix for RHSA-2011:0833
 #
 # Security announcement date: 2011-05-31 15:00:44 UTC
-# Script generation date:     2016-10-31 21:18:01 UTC
+# Script generation date:     2016-11-24 21:14:32 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -24,7 +24,7 @@
 #   - kernel-xen-devel.x86_64:2.6.18-238.12.1.el5
 #
 # Last versions recommanded by security team:
-#   - kernel-doc.noarch:2.6.18-408.el5
+#   - kernel-doc.noarch:2.6.18-238.12.1.el5
 #   - kernel.x86_64:2.6.18-238.57.1.el5
 #   - kernel-debug.x86_64:2.6.18-238.57.1.el5
 #   - kernel-debug-debuginfo.x86_64:2.6.18-238.57.1.el5

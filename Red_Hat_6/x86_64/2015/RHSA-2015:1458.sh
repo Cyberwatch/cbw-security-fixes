@@ -4,12 +4,13 @@
 # Security fix for RHSA-2015:1458
 #
 # Security announcement date: 2015-07-22 06:40:58 UTC
-# Script generation date:     2016-05-12 18:13:07 UTC
+# Script generation date:     2016-11-24 21:16:53 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - libreoffice-debuginfo.i686:4.2.8.2-11.el6
 #   - autocorr-af.noarch:4.2.8.2-11.el6
 #   - autocorr-bg.noarch:4.2.8.2-11.el6
 #   - autocorr-ca.noarch:4.2.8.2-11.el6
@@ -125,6 +126,7 @@
 #   - libreoffice-wiki-publisher.x86_64:4.2.8.2-11.el6
 #   - libreoffice-writer.x86_64:4.2.8.2-11.el6
 #   - libreoffice-xsltfilter.x86_64:4.2.8.2-11.el6
+#   - libreoffice-gdb-debug-support.i686:4.2.8.2-11.el6
 #   - autocorr-is.noarch:4.2.8.2-11.el6
 #   - libreoffice.x86_64:4.2.8.2-11.el6
 #   - libreoffice-bsh.x86_64:4.2.8.2-11.el6
@@ -136,43 +138,42 @@
 #   - libreoffice-rhino.x86_64:4.2.8.2-11.el6
 #   - libreoffice-sdk.x86_64:4.2.8.2-11.el6
 #   - libreoffice-sdk-doc.x86_64:4.2.8.2-11.el6
-#   - libreoffice-debuginfo.i686:4.2.8.2-11.el6
-#   - libreoffice-gdb-debug-support.i686:4.2.8.2-11.el6
 #
 # Last versions recommanded by security team:
-#   - autocorr-af.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-bg.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-ca.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-cs.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-da.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-de.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-en.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-es.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-fa.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-fi.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-fr.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-ga.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-hr.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-hu.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-it.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-ja.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-ko.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-lb.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-lt.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-mn.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-nl.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-pl.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-pt.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-ro.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-ru.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-sk.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-sl.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-sr.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-sv.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-tr.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-vi.noarch:4.2.8.2-11.el6_7.1
-#   - autocorr-zh.noarch:4.2.8.2-11.el6_7.1
-#   - libreoffice-opensymbol-fonts.noarch:4.2.8.2-11.el6_7.1
+#   - libreoffice-debuginfo.i686:4.2.8.2-11.el6_7.1
+#   - autocorr-af.noarch:4.2.8.2-11.el6
+#   - autocorr-bg.noarch:4.2.8.2-11.el6
+#   - autocorr-ca.noarch:4.2.8.2-11.el6
+#   - autocorr-cs.noarch:4.2.8.2-11.el6
+#   - autocorr-da.noarch:4.2.8.2-11.el6
+#   - autocorr-de.noarch:4.2.8.2-11.el6
+#   - autocorr-en.noarch:4.2.8.2-11.el6
+#   - autocorr-es.noarch:4.2.8.2-11.el6
+#   - autocorr-fa.noarch:4.2.8.2-11.el6
+#   - autocorr-fi.noarch:4.2.8.2-11.el6
+#   - autocorr-fr.noarch:4.2.8.2-11.el6
+#   - autocorr-ga.noarch:4.2.8.2-11.el6
+#   - autocorr-hr.noarch:4.2.8.2-11.el6
+#   - autocorr-hu.noarch:4.2.8.2-11.el6
+#   - autocorr-it.noarch:4.2.8.2-11.el6
+#   - autocorr-ja.noarch:4.2.8.2-11.el6
+#   - autocorr-ko.noarch:4.2.8.2-11.el6
+#   - autocorr-lb.noarch:4.2.8.2-11.el6
+#   - autocorr-lt.noarch:4.2.8.2-11.el6
+#   - autocorr-mn.noarch:4.2.8.2-11.el6
+#   - autocorr-nl.noarch:4.2.8.2-11.el6
+#   - autocorr-pl.noarch:4.2.8.2-11.el6
+#   - autocorr-pt.noarch:4.2.8.2-11.el6
+#   - autocorr-ro.noarch:4.2.8.2-11.el6
+#   - autocorr-ru.noarch:4.2.8.2-11.el6
+#   - autocorr-sk.noarch:4.2.8.2-11.el6
+#   - autocorr-sl.noarch:4.2.8.2-11.el6
+#   - autocorr-sr.noarch:4.2.8.2-11.el6
+#   - autocorr-sv.noarch:4.2.8.2-11.el6
+#   - autocorr-tr.noarch:4.2.8.2-11.el6
+#   - autocorr-vi.noarch:4.2.8.2-11.el6
+#   - autocorr-zh.noarch:4.2.8.2-11.el6
+#   - libreoffice-opensymbol-fonts.noarch:4.2.8.2-11.el6
 #   - libreoffice-base.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-calc.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-core.x86_64:4.2.8.2-11.el6_7.1
@@ -255,7 +256,8 @@
 #   - libreoffice-wiki-publisher.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-writer.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-xsltfilter.x86_64:4.2.8.2-11.el6_7.1
-#   - autocorr-is.noarch:4.2.8.2-11.el6_7.1
+#   - libreoffice-gdb-debug-support.i686:4.2.8.2-11.el6_7.1
+#   - autocorr-is.noarch:4.2.8.2-11.el6
 #   - libreoffice.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-bsh.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-filters.x86_64:4.2.8.2-11.el6_7.1
@@ -266,8 +268,6 @@
 #   - libreoffice-rhino.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-sdk.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-sdk-doc.x86_64:4.2.8.2-11.el6_7.1
-#   - libreoffice-debuginfo.i686:4.2.8.2-11.el6_7.1
-#   - libreoffice-gdb-debug-support.i686:4.2.8.2-11.el6_7.1
 #
 # CVE List:
 #   - CVE-2015-1774
@@ -276,6 +276,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install libreoffice-debuginfo.i686-4.2.8.2 -y 
 sudo yum install autocorr-af.noarch-4.2.8.2 -y 
 sudo yum install autocorr-bg.noarch-4.2.8.2 -y 
 sudo yum install autocorr-ca.noarch-4.2.8.2 -y 
@@ -391,6 +392,7 @@ sudo yum install libreoffice-ure.x86_64-4.2.8.2 -y
 sudo yum install libreoffice-wiki-publisher.x86_64-4.2.8.2 -y 
 sudo yum install libreoffice-writer.x86_64-4.2.8.2 -y 
 sudo yum install libreoffice-xsltfilter.x86_64-4.2.8.2 -y 
+sudo yum install libreoffice-gdb-debug-support.i686-4.2.8.2 -y 
 sudo yum install autocorr-is.noarch-4.2.8.2 -y 
 sudo yum install libreoffice.x86_64-4.2.8.2 -y 
 sudo yum install libreoffice-bsh.x86_64-4.2.8.2 -y 
@@ -402,5 +404,3 @@ sudo yum install libreoffice-nlpsolver.x86_64-4.2.8.2 -y
 sudo yum install libreoffice-rhino.x86_64-4.2.8.2 -y 
 sudo yum install libreoffice-sdk.x86_64-4.2.8.2 -y 
 sudo yum install libreoffice-sdk-doc.x86_64-4.2.8.2 -y 
-sudo yum install libreoffice-debuginfo.i686-4.2.8.2 -y 
-sudo yum install libreoffice-gdb-debug-support.i686-4.2.8.2 -y 

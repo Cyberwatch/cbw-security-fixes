@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:0528
 #
 # Security announcement date: 2012-04-30 18:00:29 UTC
-# Script generation date:     2016-05-12 18:10:46 UTC
+# Script generation date:     2016-11-24 21:15:01 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -48,12 +48,12 @@
 #   - sesame-debuginfo.x86_64:1.0-8.el6
 #   - condor-aviary.x86_64:7.8.10-0.2.el6
 #   - condor-plumage.x86_64:7.8.10-0.2.el6
-#   - qpid-cpp-client-devel-docs.noarch:0.22-51.el6
+#   - qpid-cpp-client-devel-docs.noarch:0.14-14.el6_2
 #   - qpid-java-client.noarch:0.30-3.el6
 #   - qpid-java-common.noarch:0.30-3.el6
-#   - qpid-java-example.noarch:0.18-8.el6_4
-#   - qpid-jca.noarch:0.18-8.el6
-#   - qpid-jca-xarecovery.noarch:0.18-8.el6
+#   - qpid-java-example.noarch:0.14-3.el6
+#   - qpid-jca.noarch:0.14-9.el6
+#   - qpid-jca-xarecovery.noarch:0.14-9.el6
 #   - qpid-cpp-client-devel.x86_64:0.30-9.el6
 #   - qpid-cpp-client-rdma.x86_64:0.22-51.el6
 #   - qpid-cpp-debuginfo.x86_64:0.30-9.el6
@@ -82,12 +82,12 @@ sudo yum install sesame.x86_64-1.0 -y
 sudo yum install sesame-debuginfo.x86_64-1.0 -y 
 sudo yum install condor-aviary.x86_64-7.8.10 -y 
 sudo yum install condor-plumage.x86_64-7.8.10 -y 
-sudo yum install qpid-cpp-client-devel-docs.noarch-0.22 -y 
+sudo yum install qpid-cpp-client-devel-docs.noarch-0.14 -y 
 sudo yum install qpid-java-client.noarch-0.30 -y 
 sudo yum install qpid-java-common.noarch-0.30 -y 
-sudo yum install qpid-java-example.noarch-0.18 -y 
-sudo yum install qpid-jca.noarch-0.18 -y 
-sudo yum install qpid-jca-xarecovery.noarch-0.18 -y 
+sudo yum install qpid-java-example.noarch-0.14 -y 
+sudo yum install qpid-jca.noarch-0.14 -y 
+sudo yum install qpid-jca-xarecovery.noarch-0.14 -y 
 sudo yum install qpid-cpp-client-devel.x86_64-0.30 -y 
 sudo yum install qpid-cpp-client-rdma.x86_64-0.22 -y 
 sudo yum install qpid-cpp-debuginfo.x86_64-0.30 -y 

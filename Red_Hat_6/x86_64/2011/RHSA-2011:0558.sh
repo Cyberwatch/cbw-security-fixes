@@ -4,12 +4,15 @@
 # Security fix for RHSA-2011:0558
 #
 # Security announcement date: 2011-05-19 12:19:58 UTC
-# Script generation date:     2016-05-12 18:10:15 UTC
+# Script generation date:     2016-11-24 21:14:30 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - perl-debuginfo.i686:5.10.1-119.el6
+#   - perl-devel.i686:5.10.1-119.el6
+#   - perl-libs.i686:5.10.1-119.el6
 #   - perl.x86_64:5.10.1-119.el6
 #   - perl-Archive-Extract.x86_64:0.38-119.el6
 #   - perl-Archive-Tar.x86_64:1.58-119.el6
@@ -55,11 +58,11 @@
 #   - perl-parent.x86_64:0.221-119.el6
 #   - perl-suidperl.x86_64:5.10.1-119.el6
 #   - perl-version.x86_64:0.77-119.el6
-#   - perl-debuginfo.i686:5.10.1-119.el6
-#   - perl-devel.i686:5.10.1-119.el6
-#   - perl-libs.i686:5.10.1-119.el6
 #
 # Last versions recommanded by security team:
+#   - perl-debuginfo.i686:5.10.1-130.el6_4
+#   - perl-devel.i686:5.10.1-130.el6_4
+#   - perl-libs.i686:5.10.1-130.el6_4
 #   - perl.x86_64:5.10.1-130.el6_4
 #   - perl-Archive-Extract.x86_64:0.38-130.el6_4
 #   - perl-Archive-Tar.x86_64:1.58-130.el6_4
@@ -105,9 +108,6 @@
 #   - perl-parent.x86_64:0.221-130.el6_4
 #   - perl-suidperl.x86_64:5.10.1-130.el6_4
 #   - perl-version.x86_64:0.77-130.el6_4
-#   - perl-debuginfo.i686:5.10.1-130.el6_4
-#   - perl-devel.i686:5.10.1-130.el6_4
-#   - perl-libs.i686:5.10.1-130.el6_4
 #
 # CVE List:
 #   - CVE-2010-2761
@@ -118,6 +118,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install perl-debuginfo.i686-5.10.1 -y 
+sudo yum install perl-devel.i686-5.10.1 -y 
+sudo yum install perl-libs.i686-5.10.1 -y 
 sudo yum install perl.x86_64-5.10.1 -y 
 sudo yum install perl-Archive-Extract.x86_64-0.38 -y 
 sudo yum install perl-Archive-Tar.x86_64-1.58 -y 
@@ -163,6 +166,3 @@ sudo yum install perl-libs.x86_64-5.10.1 -y
 sudo yum install perl-parent.x86_64-0.221 -y 
 sudo yum install perl-suidperl.x86_64-5.10.1 -y 
 sudo yum install perl-version.x86_64-0.77 -y 
-sudo yum install perl-debuginfo.i686-5.10.1 -y 
-sudo yum install perl-devel.i686-5.10.1 -y 
-sudo yum install perl-libs.i686-5.10.1 -y 

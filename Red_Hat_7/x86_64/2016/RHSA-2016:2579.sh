@@ -4,12 +4,46 @@
 # Security fix for RHSA-2016:2579
 #
 # Security announcement date: 2016-11-03 08:53:48 UTC
-# Script generation date:     2016-11-05 21:21:40 UTC
+# Script generation date:     2016-11-24 21:17:55 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - autocorr-af.noarch:5.0.6.2-3.el7
+#   - autocorr-bg.noarch:5.0.6.2-3.el7
+#   - autocorr-ca.noarch:5.0.6.2-3.el7
+#   - autocorr-cs.noarch:5.0.6.2-3.el7
+#   - autocorr-da.noarch:5.0.6.2-3.el7
+#   - autocorr-de.noarch:5.0.6.2-3.el7
+#   - autocorr-en.noarch:5.0.6.2-3.el7
+#   - autocorr-es.noarch:5.0.6.2-3.el7
+#   - autocorr-fa.noarch:5.0.6.2-3.el7
+#   - autocorr-fi.noarch:5.0.6.2-3.el7
+#   - autocorr-fr.noarch:5.0.6.2-3.el7
+#   - autocorr-ga.noarch:5.0.6.2-3.el7
+#   - autocorr-hr.noarch:5.0.6.2-3.el7
+#   - autocorr-hu.noarch:5.0.6.2-3.el7
+#   - autocorr-is.noarch:5.0.6.2-3.el7
+#   - autocorr-it.noarch:5.0.6.2-3.el7
+#   - autocorr-ja.noarch:5.0.6.2-3.el7
+#   - autocorr-ko.noarch:5.0.6.2-3.el7
+#   - autocorr-lb.noarch:5.0.6.2-3.el7
+#   - autocorr-lt.noarch:5.0.6.2-3.el7
+#   - autocorr-mn.noarch:5.0.6.2-3.el7
+#   - autocorr-nl.noarch:5.0.6.2-3.el7
+#   - autocorr-pl.noarch:5.0.6.2-3.el7
+#   - autocorr-pt.noarch:5.0.6.2-3.el7
+#   - autocorr-ro.noarch:5.0.6.2-3.el7
+#   - autocorr-ru.noarch:5.0.6.2-3.el7
+#   - autocorr-sk.noarch:5.0.6.2-3.el7
+#   - autocorr-sl.noarch:5.0.6.2-3.el7
+#   - autocorr-sr.noarch:5.0.6.2-3.el7
+#   - autocorr-sv.noarch:5.0.6.2-3.el7
+#   - autocorr-tr.noarch:5.0.6.2-3.el7
+#   - autocorr-vi.noarch:5.0.6.2-3.el7
+#   - autocorr-zh.noarch:5.0.6.2-3.el7
+#   - libreoffice-opensymbol-fonts.noarch:5.0.6.2-3.el7
 #   - libcmis.i686:0.5.1-2.el7
 #   - libcmis.x86_64:0.5.1-2.el7
 #   - libcmis-debuginfo.i686:0.5.1-2.el7
@@ -122,42 +156,42 @@
 #   - libreoffice-sdk.x86_64:5.0.6.2-3.el7
 #   - libreoffice-sdk-doc.x86_64:5.0.6.2-3.el7
 #   - libreoffice-xsltfilter.x86_64:5.0.6.2-3.el7
-#   - autocorr-af.noarch:5.0.6.2-3.el7
-#   - autocorr-bg.noarch:5.0.6.2-3.el7
-#   - autocorr-ca.noarch:5.0.6.2-3.el7
-#   - autocorr-cs.noarch:5.0.6.2-3.el7
-#   - autocorr-da.noarch:5.0.6.2-3.el7
-#   - autocorr-de.noarch:5.0.6.2-3.el7
-#   - autocorr-en.noarch:5.0.6.2-3.el7
-#   - autocorr-es.noarch:5.0.6.2-3.el7
-#   - autocorr-fa.noarch:5.0.6.2-3.el7
-#   - autocorr-fi.noarch:5.0.6.2-3.el7
-#   - autocorr-fr.noarch:5.0.6.2-3.el7
-#   - autocorr-ga.noarch:5.0.6.2-3.el7
-#   - autocorr-hr.noarch:5.0.6.2-3.el7
-#   - autocorr-hu.noarch:5.0.6.2-3.el7
-#   - autocorr-is.noarch:5.0.6.2-3.el7
-#   - autocorr-it.noarch:5.0.6.2-3.el7
-#   - autocorr-ja.noarch:5.0.6.2-3.el7
-#   - autocorr-ko.noarch:5.0.6.2-3.el7
-#   - autocorr-lb.noarch:5.0.6.2-3.el7
-#   - autocorr-lt.noarch:5.0.6.2-3.el7
-#   - autocorr-mn.noarch:5.0.6.2-3.el7
-#   - autocorr-nl.noarch:5.0.6.2-3.el7
-#   - autocorr-pl.noarch:5.0.6.2-3.el7
-#   - autocorr-pt.noarch:5.0.6.2-3.el7
-#   - autocorr-ro.noarch:5.0.6.2-3.el7
-#   - autocorr-ru.noarch:5.0.6.2-3.el7
-#   - autocorr-sk.noarch:5.0.6.2-3.el7
-#   - autocorr-sl.noarch:5.0.6.2-3.el7
-#   - autocorr-sr.noarch:5.0.6.2-3.el7
-#   - autocorr-sv.noarch:5.0.6.2-3.el7
-#   - autocorr-tr.noarch:5.0.6.2-3.el7
-#   - autocorr-vi.noarch:5.0.6.2-3.el7
-#   - autocorr-zh.noarch:5.0.6.2-3.el7
-#   - libreoffice-opensymbol-fonts.noarch:5.0.6.2-3.el7
 #
 # Last versions recommanded by security team:
+#   - autocorr-af.noarch:5.0.6.2-3.el7
+#   - autocorr-bg.noarch:5.0.6.2-3.el7
+#   - autocorr-ca.noarch:5.0.6.2-3.el7
+#   - autocorr-cs.noarch:5.0.6.2-3.el7
+#   - autocorr-da.noarch:5.0.6.2-3.el7
+#   - autocorr-de.noarch:5.0.6.2-3.el7
+#   - autocorr-en.noarch:5.0.6.2-3.el7
+#   - autocorr-es.noarch:5.0.6.2-3.el7
+#   - autocorr-fa.noarch:5.0.6.2-3.el7
+#   - autocorr-fi.noarch:5.0.6.2-3.el7
+#   - autocorr-fr.noarch:5.0.6.2-3.el7
+#   - autocorr-ga.noarch:5.0.6.2-3.el7
+#   - autocorr-hr.noarch:5.0.6.2-3.el7
+#   - autocorr-hu.noarch:5.0.6.2-3.el7
+#   - autocorr-is.noarch:5.0.6.2-3.el7
+#   - autocorr-it.noarch:5.0.6.2-3.el7
+#   - autocorr-ja.noarch:5.0.6.2-3.el7
+#   - autocorr-ko.noarch:5.0.6.2-3.el7
+#   - autocorr-lb.noarch:5.0.6.2-3.el7
+#   - autocorr-lt.noarch:5.0.6.2-3.el7
+#   - autocorr-mn.noarch:5.0.6.2-3.el7
+#   - autocorr-nl.noarch:5.0.6.2-3.el7
+#   - autocorr-pl.noarch:5.0.6.2-3.el7
+#   - autocorr-pt.noarch:5.0.6.2-3.el7
+#   - autocorr-ro.noarch:5.0.6.2-3.el7
+#   - autocorr-ru.noarch:5.0.6.2-3.el7
+#   - autocorr-sk.noarch:5.0.6.2-3.el7
+#   - autocorr-sl.noarch:5.0.6.2-3.el7
+#   - autocorr-sr.noarch:5.0.6.2-3.el7
+#   - autocorr-sv.noarch:5.0.6.2-3.el7
+#   - autocorr-tr.noarch:5.0.6.2-3.el7
+#   - autocorr-vi.noarch:5.0.6.2-3.el7
+#   - autocorr-zh.noarch:5.0.6.2-3.el7
+#   - libreoffice-opensymbol-fonts.noarch:5.0.6.2-3.el7
 #   - libcmis.i686:0.5.1-2.el7
 #   - libcmis.x86_64:0.5.1-2.el7
 #   - libcmis-debuginfo.i686:0.5.1-2.el7
@@ -270,40 +304,6 @@
 #   - libreoffice-sdk.x86_64:5.0.6.2-3.el7
 #   - libreoffice-sdk-doc.x86_64:5.0.6.2-3.el7
 #   - libreoffice-xsltfilter.x86_64:5.0.6.2-3.el7
-#   - autocorr-af.noarch:5.0.6.2-3.el7
-#   - autocorr-bg.noarch:5.0.6.2-3.el7
-#   - autocorr-ca.noarch:5.0.6.2-3.el7
-#   - autocorr-cs.noarch:5.0.6.2-3.el7
-#   - autocorr-da.noarch:5.0.6.2-3.el7
-#   - autocorr-de.noarch:5.0.6.2-3.el7
-#   - autocorr-en.noarch:5.0.6.2-3.el7
-#   - autocorr-es.noarch:5.0.6.2-3.el7
-#   - autocorr-fa.noarch:5.0.6.2-3.el7
-#   - autocorr-fi.noarch:5.0.6.2-3.el7
-#   - autocorr-fr.noarch:5.0.6.2-3.el7
-#   - autocorr-ga.noarch:5.0.6.2-3.el7
-#   - autocorr-hr.noarch:5.0.6.2-3.el7
-#   - autocorr-hu.noarch:5.0.6.2-3.el7
-#   - autocorr-is.noarch:5.0.6.2-3.el7
-#   - autocorr-it.noarch:5.0.6.2-3.el7
-#   - autocorr-ja.noarch:5.0.6.2-3.el7
-#   - autocorr-ko.noarch:5.0.6.2-3.el7
-#   - autocorr-lb.noarch:5.0.6.2-3.el7
-#   - autocorr-lt.noarch:5.0.6.2-3.el7
-#   - autocorr-mn.noarch:5.0.6.2-3.el7
-#   - autocorr-nl.noarch:5.0.6.2-3.el7
-#   - autocorr-pl.noarch:5.0.6.2-3.el7
-#   - autocorr-pt.noarch:5.0.6.2-3.el7
-#   - autocorr-ro.noarch:5.0.6.2-3.el7
-#   - autocorr-ru.noarch:5.0.6.2-3.el7
-#   - autocorr-sk.noarch:5.0.6.2-3.el7
-#   - autocorr-sl.noarch:5.0.6.2-3.el7
-#   - autocorr-sr.noarch:5.0.6.2-3.el7
-#   - autocorr-sv.noarch:5.0.6.2-3.el7
-#   - autocorr-tr.noarch:5.0.6.2-3.el7
-#   - autocorr-vi.noarch:5.0.6.2-3.el7
-#   - autocorr-zh.noarch:5.0.6.2-3.el7
-#   - libreoffice-opensymbol-fonts.noarch:5.0.6.2-3.el7
 #
 # CVE List:
 #   - CVE-2016-0794
@@ -313,6 +313,40 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install autocorr-af.noarch-5.0.6.2 -y 
+sudo yum install autocorr-bg.noarch-5.0.6.2 -y 
+sudo yum install autocorr-ca.noarch-5.0.6.2 -y 
+sudo yum install autocorr-cs.noarch-5.0.6.2 -y 
+sudo yum install autocorr-da.noarch-5.0.6.2 -y 
+sudo yum install autocorr-de.noarch-5.0.6.2 -y 
+sudo yum install autocorr-en.noarch-5.0.6.2 -y 
+sudo yum install autocorr-es.noarch-5.0.6.2 -y 
+sudo yum install autocorr-fa.noarch-5.0.6.2 -y 
+sudo yum install autocorr-fi.noarch-5.0.6.2 -y 
+sudo yum install autocorr-fr.noarch-5.0.6.2 -y 
+sudo yum install autocorr-ga.noarch-5.0.6.2 -y 
+sudo yum install autocorr-hr.noarch-5.0.6.2 -y 
+sudo yum install autocorr-hu.noarch-5.0.6.2 -y 
+sudo yum install autocorr-is.noarch-5.0.6.2 -y 
+sudo yum install autocorr-it.noarch-5.0.6.2 -y 
+sudo yum install autocorr-ja.noarch-5.0.6.2 -y 
+sudo yum install autocorr-ko.noarch-5.0.6.2 -y 
+sudo yum install autocorr-lb.noarch-5.0.6.2 -y 
+sudo yum install autocorr-lt.noarch-5.0.6.2 -y 
+sudo yum install autocorr-mn.noarch-5.0.6.2 -y 
+sudo yum install autocorr-nl.noarch-5.0.6.2 -y 
+sudo yum install autocorr-pl.noarch-5.0.6.2 -y 
+sudo yum install autocorr-pt.noarch-5.0.6.2 -y 
+sudo yum install autocorr-ro.noarch-5.0.6.2 -y 
+sudo yum install autocorr-ru.noarch-5.0.6.2 -y 
+sudo yum install autocorr-sk.noarch-5.0.6.2 -y 
+sudo yum install autocorr-sl.noarch-5.0.6.2 -y 
+sudo yum install autocorr-sr.noarch-5.0.6.2 -y 
+sudo yum install autocorr-sv.noarch-5.0.6.2 -y 
+sudo yum install autocorr-tr.noarch-5.0.6.2 -y 
+sudo yum install autocorr-vi.noarch-5.0.6.2 -y 
+sudo yum install autocorr-zh.noarch-5.0.6.2 -y 
+sudo yum install libreoffice-opensymbol-fonts.noarch-5.0.6.2 -y 
 sudo yum install libcmis.i686-0.5.1 -y 
 sudo yum install libcmis.x86_64-0.5.1 -y 
 sudo yum install libcmis-debuginfo.i686-0.5.1 -y 
@@ -425,37 +459,3 @@ sudo yum install libreoffice-rhino.x86_64-5.0.6.2 -y
 sudo yum install libreoffice-sdk.x86_64-5.0.6.2 -y 
 sudo yum install libreoffice-sdk-doc.x86_64-5.0.6.2 -y 
 sudo yum install libreoffice-xsltfilter.x86_64-5.0.6.2 -y 
-sudo yum install autocorr-af.noarch-5.0.6.2 -y 
-sudo yum install autocorr-bg.noarch-5.0.6.2 -y 
-sudo yum install autocorr-ca.noarch-5.0.6.2 -y 
-sudo yum install autocorr-cs.noarch-5.0.6.2 -y 
-sudo yum install autocorr-da.noarch-5.0.6.2 -y 
-sudo yum install autocorr-de.noarch-5.0.6.2 -y 
-sudo yum install autocorr-en.noarch-5.0.6.2 -y 
-sudo yum install autocorr-es.noarch-5.0.6.2 -y 
-sudo yum install autocorr-fa.noarch-5.0.6.2 -y 
-sudo yum install autocorr-fi.noarch-5.0.6.2 -y 
-sudo yum install autocorr-fr.noarch-5.0.6.2 -y 
-sudo yum install autocorr-ga.noarch-5.0.6.2 -y 
-sudo yum install autocorr-hr.noarch-5.0.6.2 -y 
-sudo yum install autocorr-hu.noarch-5.0.6.2 -y 
-sudo yum install autocorr-is.noarch-5.0.6.2 -y 
-sudo yum install autocorr-it.noarch-5.0.6.2 -y 
-sudo yum install autocorr-ja.noarch-5.0.6.2 -y 
-sudo yum install autocorr-ko.noarch-5.0.6.2 -y 
-sudo yum install autocorr-lb.noarch-5.0.6.2 -y 
-sudo yum install autocorr-lt.noarch-5.0.6.2 -y 
-sudo yum install autocorr-mn.noarch-5.0.6.2 -y 
-sudo yum install autocorr-nl.noarch-5.0.6.2 -y 
-sudo yum install autocorr-pl.noarch-5.0.6.2 -y 
-sudo yum install autocorr-pt.noarch-5.0.6.2 -y 
-sudo yum install autocorr-ro.noarch-5.0.6.2 -y 
-sudo yum install autocorr-ru.noarch-5.0.6.2 -y 
-sudo yum install autocorr-sk.noarch-5.0.6.2 -y 
-sudo yum install autocorr-sl.noarch-5.0.6.2 -y 
-sudo yum install autocorr-sr.noarch-5.0.6.2 -y 
-sudo yum install autocorr-sv.noarch-5.0.6.2 -y 
-sudo yum install autocorr-tr.noarch-5.0.6.2 -y 
-sudo yum install autocorr-vi.noarch-5.0.6.2 -y 
-sudo yum install autocorr-zh.noarch-5.0.6.2 -y 
-sudo yum install libreoffice-opensymbol-fonts.noarch-5.0.6.2 -y 

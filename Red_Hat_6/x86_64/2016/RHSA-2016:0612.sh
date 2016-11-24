@@ -4,38 +4,38 @@
 # Security fix for RHSA-2016:0612
 #
 # Security announcement date: 2016-04-13 01:34:19 UTC
-# Script generation date:     2016-09-01 21:25:32 UTC
+# Script generation date:     2016-11-24 21:17:29 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - libldb.i686:1.1.25-2.el6_7
+#   - libldb-debuginfo.i686:1.1.25-2.el6_7
+#   - libldb-devel.i686:1.1.25-2.el6_7
+#   - libtalloc.i686:2.1.5-1.el6_7
+#   - libtalloc-debuginfo.i686:2.1.5-1.el6_7
+#   - libtalloc-devel.i686:2.1.5-1.el6_7
+#   - libtdb.i686:1.3.8-1.el6_7
+#   - libtdb-debuginfo.i686:1.3.8-1.el6_7
+#   - libtdb-devel.i686:1.3.8-1.el6_7
+#   - libtevent.i686:0.9.26-2.el6_7
+#   - libtevent-debuginfo.i686:0.9.26-2.el6_7
+#   - libtevent-devel.i686:0.9.26-2.el6_7
 #   - ipa-client.x86_64:3.0.0-47.el6_7.2
 #   - ipa-debuginfo.x86_64:3.0.0-47.el6_7.2
 #   - ipa-python.x86_64:3.0.0-47.el6_7.2
-#   - libldb.i686:1.1.25-2.el6_7
 #   - libldb.x86_64:1.1.25-2.el6_7
-#   - libldb-debuginfo.i686:1.1.25-2.el6_7
 #   - libldb-debuginfo.x86_64:1.1.25-2.el6_7
-#   - libldb-devel.i686:1.1.25-2.el6_7
 #   - libldb-devel.x86_64:1.1.25-2.el6_7
-#   - libtalloc.i686:2.1.5-1.el6_7
 #   - libtalloc.x86_64:2.1.5-1.el6_7
-#   - libtalloc-debuginfo.i686:2.1.5-1.el6_7
 #   - libtalloc-debuginfo.x86_64:2.1.5-1.el6_7
-#   - libtalloc-devel.i686:2.1.5-1.el6_7
 #   - libtalloc-devel.x86_64:2.1.5-1.el6_7
-#   - libtdb.i686:1.3.8-1.el6_7
 #   - libtdb.x86_64:1.3.8-1.el6_7
-#   - libtdb-debuginfo.i686:1.3.8-1.el6_7
 #   - libtdb-debuginfo.x86_64:1.3.8-1.el6_7
-#   - libtdb-devel.i686:1.3.8-1.el6_7
 #   - libtdb-devel.x86_64:1.3.8-1.el6_7
-#   - libtevent.i686:0.9.26-2.el6_7
 #   - libtevent.x86_64:0.9.26-2.el6_7
-#   - libtevent-debuginfo.i686:0.9.26-2.el6_7
 #   - libtevent-debuginfo.x86_64:0.9.26-2.el6_7
-#   - libtevent-devel.i686:0.9.26-2.el6_7
 #   - libtevent-devel.x86_64:0.9.26-2.el6_7
 #   - openchange.x86_64:1.0-7.el6_7
 #   - openchange-debuginfo.x86_64:1.0-7.el6_7
@@ -70,32 +70,32 @@
 #   - tdb-tools.x86_64:1.3.8-1.el6_7
 #
 # Last versions recommanded by security team:
+#   - libldb.i686:1.1.25-2.el6_7
+#   - libldb-debuginfo.i686:1.1.25-2.el6_7
+#   - libldb-devel.i686:1.1.25-2.el6_7
+#   - libtalloc.i686:2.1.5-1.el6_7
+#   - libtalloc-debuginfo.i686:2.1.5-1.el6_7
+#   - libtalloc-devel.i686:2.1.5-1.el6_7
+#   - libtdb.i686:1.3.8-1.el6_7
+#   - libtdb-debuginfo.i686:1.3.8-1.el6_7
+#   - libtdb-devel.i686:1.3.8-1.el6_7
+#   - libtevent.i686:0.9.26-2.el6_7
+#   - libtevent-debuginfo.i686:0.9.26-2.el6_7
+#   - libtevent-devel.i686:0.9.26-2.el6_7
 #   - ipa-client.x86_64:3.0.0-50.el6_8.2
 #   - ipa-debuginfo.x86_64:3.0.0-50.el6_8.2
 #   - ipa-python.x86_64:3.0.0-50.el6_8.2
-#   - libldb.i686:1.1.25-2.el6_7
 #   - libldb.x86_64:1.1.25-2.el6_7
-#   - libldb-debuginfo.i686:1.1.25-2.el6_7
 #   - libldb-debuginfo.x86_64:1.1.25-2.el6_7
-#   - libldb-devel.i686:1.1.25-2.el6_7
 #   - libldb-devel.x86_64:1.1.25-2.el6_7
-#   - libtalloc.i686:2.1.5-1.el6_7
 #   - libtalloc.x86_64:2.1.5-1.el6_7
-#   - libtalloc-debuginfo.i686:2.1.5-1.el6_7
 #   - libtalloc-debuginfo.x86_64:2.1.5-1.el6_7
-#   - libtalloc-devel.i686:2.1.5-1.el6_7
 #   - libtalloc-devel.x86_64:2.1.5-1.el6_7
-#   - libtdb.i686:1.3.8-1.el6_7
 #   - libtdb.x86_64:1.3.8-1.el6_7
-#   - libtdb-debuginfo.i686:1.3.8-1.el6_7
 #   - libtdb-debuginfo.x86_64:1.3.8-1.el6_7
-#   - libtdb-devel.i686:1.3.8-1.el6_7
 #   - libtdb-devel.x86_64:1.3.8-1.el6_7
-#   - libtevent.i686:0.9.26-2.el6_7
 #   - libtevent.x86_64:0.9.26-2.el6_7
-#   - libtevent-debuginfo.i686:0.9.26-2.el6_7
 #   - libtevent-debuginfo.x86_64:0.9.26-2.el6_7
-#   - libtevent-devel.i686:0.9.26-2.el6_7
 #   - libtevent-devel.x86_64:0.9.26-2.el6_7
 #   - openchange.x86_64:1.0-7.el6_7
 #   - openchange-debuginfo.x86_64:1.0-7.el6_7
@@ -143,32 +143,32 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install libldb.i686-1.1.25 -y 
+sudo yum install libldb-debuginfo.i686-1.1.25 -y 
+sudo yum install libldb-devel.i686-1.1.25 -y 
+sudo yum install libtalloc.i686-2.1.5 -y 
+sudo yum install libtalloc-debuginfo.i686-2.1.5 -y 
+sudo yum install libtalloc-devel.i686-2.1.5 -y 
+sudo yum install libtdb.i686-1.3.8 -y 
+sudo yum install libtdb-debuginfo.i686-1.3.8 -y 
+sudo yum install libtdb-devel.i686-1.3.8 -y 
+sudo yum install libtevent.i686-0.9.26 -y 
+sudo yum install libtevent-debuginfo.i686-0.9.26 -y 
+sudo yum install libtevent-devel.i686-0.9.26 -y 
 sudo yum install ipa-client.x86_64-3.0.0 -y 
 sudo yum install ipa-debuginfo.x86_64-3.0.0 -y 
 sudo yum install ipa-python.x86_64-3.0.0 -y 
-sudo yum install libldb.i686-1.1.25 -y 
 sudo yum install libldb.x86_64-1.1.25 -y 
-sudo yum install libldb-debuginfo.i686-1.1.25 -y 
 sudo yum install libldb-debuginfo.x86_64-1.1.25 -y 
-sudo yum install libldb-devel.i686-1.1.25 -y 
 sudo yum install libldb-devel.x86_64-1.1.25 -y 
-sudo yum install libtalloc.i686-2.1.5 -y 
 sudo yum install libtalloc.x86_64-2.1.5 -y 
-sudo yum install libtalloc-debuginfo.i686-2.1.5 -y 
 sudo yum install libtalloc-debuginfo.x86_64-2.1.5 -y 
-sudo yum install libtalloc-devel.i686-2.1.5 -y 
 sudo yum install libtalloc-devel.x86_64-2.1.5 -y 
-sudo yum install libtdb.i686-1.3.8 -y 
 sudo yum install libtdb.x86_64-1.3.8 -y 
-sudo yum install libtdb-debuginfo.i686-1.3.8 -y 
 sudo yum install libtdb-debuginfo.x86_64-1.3.8 -y 
-sudo yum install libtdb-devel.i686-1.3.8 -y 
 sudo yum install libtdb-devel.x86_64-1.3.8 -y 
-sudo yum install libtevent.i686-0.9.26 -y 
 sudo yum install libtevent.x86_64-0.9.26 -y 
-sudo yum install libtevent-debuginfo.i686-0.9.26 -y 
 sudo yum install libtevent-debuginfo.x86_64-0.9.26 -y 
-sudo yum install libtevent-devel.i686-0.9.26 -y 
 sudo yum install libtevent-devel.x86_64-0.9.26 -y 
 sudo yum install openchange.x86_64-1.0 -y 
 sudo yum install openchange-debuginfo.x86_64-1.0 -y 

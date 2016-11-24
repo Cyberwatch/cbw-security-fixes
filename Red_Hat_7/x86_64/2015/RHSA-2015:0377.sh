@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:0377
 #
 # Security announcement date: 2015-03-05 14:47:00 UTC
-# Script generation date:     2016-11-03 21:23:18 UTC
+# Script generation date:     2016-11-24 21:16:35 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -44,19 +44,33 @@
 #   - autocorr-vi.noarch:4.2.6.3-5.el7
 #   - autocorr-zh.noarch:4.2.6.3-5.el7
 #   - libreoffice-opensymbol-fonts.noarch:4.2.6.3-5.el7
+#   - libabw.i686:0.0.2-1.el7
 #   - libabw.x86_64:0.0.2-1.el7
+#   - libabw-debuginfo.i686:0.0.2-1.el7
 #   - libabw-debuginfo.x86_64:0.0.2-1.el7
+#   - libcmis.i686:0.4.1-5.el7
 #   - libcmis.x86_64:0.4.1-5.el7
+#   - libcmis-debuginfo.i686:0.4.1-5.el7
 #   - libcmis-debuginfo.x86_64:0.4.1-5.el7
+#   - libetonyek.i686:0.0.4-2.el7
 #   - libetonyek.x86_64:0.0.4-2.el7
+#   - libetonyek-debuginfo.i686:0.0.4-2.el7
 #   - libetonyek-debuginfo.x86_64:0.0.4-2.el7
+#   - libfreehand.i686:0.0.0-3.el7
 #   - libfreehand.x86_64:0.0.0-3.el7
+#   - libfreehand-debuginfo.i686:0.0.0-3.el7
 #   - libfreehand-debuginfo.x86_64:0.0.0-3.el7
+#   - liblangtag.i686:0.5.4-8.el7
 #   - liblangtag.x86_64:0.5.4-8.el7
+#   - liblangtag-debuginfo.i686:0.5.4-8.el7
 #   - liblangtag-debuginfo.x86_64:0.5.4-8.el7
+#   - libmwaw.i686:0.2.0-4.el7
 #   - libmwaw.x86_64:0.2.0-4.el7
+#   - libmwaw-debuginfo.i686:0.2.0-4.el7
 #   - libmwaw-debuginfo.x86_64:0.2.0-4.el7
+#   - libodfgen.i686:0.0.4-1.el7
 #   - libodfgen.x86_64:0.0.4-1.el7
+#   - libodfgen-debuginfo.i686:0.0.4-1.el7
 #   - libodfgen-debuginfo.x86_64:0.0.4-1.el7
 #   - libreoffice-base.x86_64:4.2.6.3-5.el7
 #   - libreoffice-calc.x86_64:4.2.6.3-5.el7
@@ -148,18 +162,26 @@
 #   - libmwaw-doc.noarch:0.2.0-4.el7
 #   - libodfgen-doc.noarch:0.0.4-1.el7
 #   - mdds-devel.noarch:0.10.3-1.el7
+#   - libabw-devel.i686:0.0.2-1.el7
 #   - libabw-devel.x86_64:0.0.2-1.el7
 #   - libabw-tools.x86_64:0.0.2-1.el7
+#   - libcmis-devel.i686:0.4.1-5.el7
 #   - libcmis-devel.x86_64:0.4.1-5.el7
 #   - libcmis-tools.x86_64:0.4.1-5.el7
+#   - libetonyek-devel.i686:0.0.4-2.el7
 #   - libetonyek-devel.x86_64:0.0.4-2.el7
 #   - libetonyek-tools.x86_64:0.0.4-2.el7
+#   - libfreehand-devel.i686:0.0.0-3.el7
 #   - libfreehand-devel.x86_64:0.0.0-3.el7
 #   - libfreehand-tools.x86_64:0.0.0-3.el7
+#   - liblangtag-devel.i686:0.5.4-8.el7
 #   - liblangtag-devel.x86_64:0.5.4-8.el7
+#   - liblangtag-gobject.i686:0.5.4-8.el7
 #   - liblangtag-gobject.x86_64:0.5.4-8.el7
+#   - libmwaw-devel.i686:0.2.0-4.el7
 #   - libmwaw-devel.x86_64:0.2.0-4.el7
 #   - libmwaw-tools.x86_64:0.2.0-4.el7
+#   - libodfgen-devel.i686:0.0.4-1.el7
 #   - libodfgen-devel.x86_64:0.0.4-1.el7
 #   - libreoffice.x86_64:4.2.6.3-5.el7
 #   - libreoffice-bsh.x86_64:4.2.6.3-5.el7
@@ -174,28 +196,6 @@
 #   - libreoffice-sdk.x86_64:4.2.6.3-5.el7
 #   - libreoffice-sdk-doc.x86_64:4.2.6.3-5.el7
 #   - libreoffice-xsltfilter.x86_64:4.2.6.3-5.el7
-#   - libabw.i686:0.0.2-1.el7
-#   - libabw-debuginfo.i686:0.0.2-1.el7
-#   - libcmis.i686:0.4.1-5.el7
-#   - libcmis-debuginfo.i686:0.4.1-5.el7
-#   - libetonyek.i686:0.0.4-2.el7
-#   - libetonyek-debuginfo.i686:0.0.4-2.el7
-#   - libfreehand.i686:0.0.0-3.el7
-#   - libfreehand-debuginfo.i686:0.0.0-3.el7
-#   - liblangtag.i686:0.5.4-8.el7
-#   - liblangtag-debuginfo.i686:0.5.4-8.el7
-#   - libmwaw.i686:0.2.0-4.el7
-#   - libmwaw-debuginfo.i686:0.2.0-4.el7
-#   - libodfgen.i686:0.0.4-1.el7
-#   - libodfgen-debuginfo.i686:0.0.4-1.el7
-#   - libabw-devel.i686:0.0.2-1.el7
-#   - libcmis-devel.i686:0.4.1-5.el7
-#   - libetonyek-devel.i686:0.0.4-2.el7
-#   - libfreehand-devel.i686:0.0.0-3.el7
-#   - liblangtag-devel.i686:0.5.4-8.el7
-#   - liblangtag-gobject.i686:0.5.4-8.el7
-#   - libmwaw-devel.i686:0.2.0-4.el7
-#   - libodfgen-devel.i686:0.0.4-1.el7
 #
 # Last versions recommanded by security team:
 #   - autocorr-af.noarch:5.0.6.2-3.el7
@@ -232,19 +232,33 @@
 #   - autocorr-vi.noarch:5.0.6.2-3.el7
 #   - autocorr-zh.noarch:5.0.6.2-3.el7
 #   - libreoffice-opensymbol-fonts.noarch:5.0.6.2-3.el7
+#   - libabw.i686:0.0.2-1.el7
 #   - libabw.x86_64:0.0.2-1.el7
+#   - libabw-debuginfo.i686:0.0.2-1.el7
 #   - libabw-debuginfo.x86_64:0.0.2-1.el7
+#   - libcmis.i686:0.5.1-2.el7
 #   - libcmis.x86_64:0.5.1-2.el7
+#   - libcmis-debuginfo.i686:0.5.1-2.el7
 #   - libcmis-debuginfo.x86_64:0.5.1-2.el7
+#   - libetonyek.i686:0.0.4-2.el7
 #   - libetonyek.x86_64:0.0.4-2.el7
+#   - libetonyek-debuginfo.i686:0.0.4-2.el7
 #   - libetonyek-debuginfo.x86_64:0.0.4-2.el7
+#   - libfreehand.i686:0.0.0-3.el7
 #   - libfreehand.x86_64:0.0.0-3.el7
+#   - libfreehand-debuginfo.i686:0.0.0-3.el7
 #   - libfreehand-debuginfo.x86_64:0.0.0-3.el7
+#   - liblangtag.i686:0.5.4-8.el7
 #   - liblangtag.x86_64:0.5.4-8.el7
+#   - liblangtag-debuginfo.i686:0.5.4-8.el7
 #   - liblangtag-debuginfo.x86_64:0.5.4-8.el7
+#   - libmwaw.i686:0.2.0-4.el7
 #   - libmwaw.x86_64:0.2.0-4.el7
+#   - libmwaw-debuginfo.i686:0.2.0-4.el7
 #   - libmwaw-debuginfo.x86_64:0.2.0-4.el7
+#   - libodfgen.i686:0.0.4-1.el7
 #   - libodfgen.x86_64:0.0.4-1.el7
+#   - libodfgen-debuginfo.i686:0.0.4-1.el7
 #   - libodfgen-debuginfo.x86_64:0.0.4-1.el7
 #   - libreoffice-base.x86_64:5.0.6.2-3.el7
 #   - libreoffice-calc.x86_64:5.0.6.2-3.el7
@@ -336,18 +350,26 @@
 #   - libmwaw-doc.noarch:0.2.0-4.el7
 #   - libodfgen-doc.noarch:0.0.4-1.el7
 #   - mdds-devel.noarch:0.12.1-1.el7
+#   - libabw-devel.i686:0.0.2-1.el7
 #   - libabw-devel.x86_64:0.0.2-1.el7
 #   - libabw-tools.x86_64:0.0.2-1.el7
+#   - libcmis-devel.i686:0.5.1-2.el7
 #   - libcmis-devel.x86_64:0.5.1-2.el7
 #   - libcmis-tools.x86_64:0.5.1-2.el7
+#   - libetonyek-devel.i686:0.0.4-2.el7
 #   - libetonyek-devel.x86_64:0.0.4-2.el7
 #   - libetonyek-tools.x86_64:0.0.4-2.el7
+#   - libfreehand-devel.i686:0.0.0-3.el7
 #   - libfreehand-devel.x86_64:0.0.0-3.el7
 #   - libfreehand-tools.x86_64:0.0.0-3.el7
+#   - liblangtag-devel.i686:0.5.4-8.el7
 #   - liblangtag-devel.x86_64:0.5.4-8.el7
+#   - liblangtag-gobject.i686:0.5.4-8.el7
 #   - liblangtag-gobject.x86_64:0.5.4-8.el7
+#   - libmwaw-devel.i686:0.2.0-4.el7
 #   - libmwaw-devel.x86_64:0.2.0-4.el7
 #   - libmwaw-tools.x86_64:0.2.0-4.el7
+#   - libodfgen-devel.i686:0.0.4-1.el7
 #   - libodfgen-devel.x86_64:0.0.4-1.el7
 #   - libreoffice.x86_64:5.0.6.2-3.el7
 #   - libreoffice-bsh.x86_64:5.0.6.2-3.el7
@@ -362,28 +384,6 @@
 #   - libreoffice-sdk.x86_64:5.0.6.2-3.el7
 #   - libreoffice-sdk-doc.x86_64:5.0.6.2-3.el7
 #   - libreoffice-xsltfilter.x86_64:5.0.6.2-3.el7
-#   - libabw.i686:0.0.2-1.el7
-#   - libabw-debuginfo.i686:0.0.2-1.el7
-#   - libcmis.i686:0.5.1-2.el7
-#   - libcmis-debuginfo.i686:0.5.1-2.el7
-#   - libetonyek.i686:0.0.4-2.el7
-#   - libetonyek-debuginfo.i686:0.0.4-2.el7
-#   - libfreehand.i686:0.0.0-3.el7
-#   - libfreehand-debuginfo.i686:0.0.0-3.el7
-#   - liblangtag.i686:0.5.4-8.el7
-#   - liblangtag-debuginfo.i686:0.5.4-8.el7
-#   - libmwaw.i686:0.2.0-4.el7
-#   - libmwaw-debuginfo.i686:0.2.0-4.el7
-#   - libodfgen.i686:0.0.4-1.el7
-#   - libodfgen-debuginfo.i686:0.0.4-1.el7
-#   - libabw-devel.i686:0.0.2-1.el7
-#   - libcmis-devel.i686:0.5.1-2.el7
-#   - libetonyek-devel.i686:0.0.4-2.el7
-#   - libfreehand-devel.i686:0.0.0-3.el7
-#   - liblangtag-devel.i686:0.5.4-8.el7
-#   - liblangtag-gobject.i686:0.5.4-8.el7
-#   - libmwaw-devel.i686:0.2.0-4.el7
-#   - libodfgen-devel.i686:0.0.4-1.el7
 #
 # CVE List:
 #   - CVE-2014-0247
@@ -428,19 +428,33 @@ sudo yum install autocorr-tr.noarch-5.0.6.2 -y
 sudo yum install autocorr-vi.noarch-5.0.6.2 -y 
 sudo yum install autocorr-zh.noarch-5.0.6.2 -y 
 sudo yum install libreoffice-opensymbol-fonts.noarch-5.0.6.2 -y 
+sudo yum install libabw.i686-0.0.2 -y 
 sudo yum install libabw.x86_64-0.0.2 -y 
+sudo yum install libabw-debuginfo.i686-0.0.2 -y 
 sudo yum install libabw-debuginfo.x86_64-0.0.2 -y 
+sudo yum install libcmis.i686-0.5.1 -y 
 sudo yum install libcmis.x86_64-0.5.1 -y 
+sudo yum install libcmis-debuginfo.i686-0.5.1 -y 
 sudo yum install libcmis-debuginfo.x86_64-0.5.1 -y 
+sudo yum install libetonyek.i686-0.0.4 -y 
 sudo yum install libetonyek.x86_64-0.0.4 -y 
+sudo yum install libetonyek-debuginfo.i686-0.0.4 -y 
 sudo yum install libetonyek-debuginfo.x86_64-0.0.4 -y 
+sudo yum install libfreehand.i686-0.0.0 -y 
 sudo yum install libfreehand.x86_64-0.0.0 -y 
+sudo yum install libfreehand-debuginfo.i686-0.0.0 -y 
 sudo yum install libfreehand-debuginfo.x86_64-0.0.0 -y 
+sudo yum install liblangtag.i686-0.5.4 -y 
 sudo yum install liblangtag.x86_64-0.5.4 -y 
+sudo yum install liblangtag-debuginfo.i686-0.5.4 -y 
 sudo yum install liblangtag-debuginfo.x86_64-0.5.4 -y 
+sudo yum install libmwaw.i686-0.2.0 -y 
 sudo yum install libmwaw.x86_64-0.2.0 -y 
+sudo yum install libmwaw-debuginfo.i686-0.2.0 -y 
 sudo yum install libmwaw-debuginfo.x86_64-0.2.0 -y 
+sudo yum install libodfgen.i686-0.0.4 -y 
 sudo yum install libodfgen.x86_64-0.0.4 -y 
+sudo yum install libodfgen-debuginfo.i686-0.0.4 -y 
 sudo yum install libodfgen-debuginfo.x86_64-0.0.4 -y 
 sudo yum install libreoffice-base.x86_64-5.0.6.2 -y 
 sudo yum install libreoffice-calc.x86_64-5.0.6.2 -y 
@@ -532,18 +546,26 @@ sudo yum install liblangtag-doc.noarch-0.5.4 -y
 sudo yum install libmwaw-doc.noarch-0.2.0 -y 
 sudo yum install libodfgen-doc.noarch-0.0.4 -y 
 sudo yum install mdds-devel.noarch-0.12.1 -y 
+sudo yum install libabw-devel.i686-0.0.2 -y 
 sudo yum install libabw-devel.x86_64-0.0.2 -y 
 sudo yum install libabw-tools.x86_64-0.0.2 -y 
+sudo yum install libcmis-devel.i686-0.5.1 -y 
 sudo yum install libcmis-devel.x86_64-0.5.1 -y 
 sudo yum install libcmis-tools.x86_64-0.5.1 -y 
+sudo yum install libetonyek-devel.i686-0.0.4 -y 
 sudo yum install libetonyek-devel.x86_64-0.0.4 -y 
 sudo yum install libetonyek-tools.x86_64-0.0.4 -y 
+sudo yum install libfreehand-devel.i686-0.0.0 -y 
 sudo yum install libfreehand-devel.x86_64-0.0.0 -y 
 sudo yum install libfreehand-tools.x86_64-0.0.0 -y 
+sudo yum install liblangtag-devel.i686-0.5.4 -y 
 sudo yum install liblangtag-devel.x86_64-0.5.4 -y 
+sudo yum install liblangtag-gobject.i686-0.5.4 -y 
 sudo yum install liblangtag-gobject.x86_64-0.5.4 -y 
+sudo yum install libmwaw-devel.i686-0.2.0 -y 
 sudo yum install libmwaw-devel.x86_64-0.2.0 -y 
 sudo yum install libmwaw-tools.x86_64-0.2.0 -y 
+sudo yum install libodfgen-devel.i686-0.0.4 -y 
 sudo yum install libodfgen-devel.x86_64-0.0.4 -y 
 sudo yum install libreoffice.x86_64-5.0.6.2 -y 
 sudo yum install libreoffice-bsh.x86_64-5.0.6.2 -y 
@@ -558,25 +580,3 @@ sudo yum install libreoffice-rhino.x86_64-5.0.6.2 -y
 sudo yum install libreoffice-sdk.x86_64-5.0.6.2 -y 
 sudo yum install libreoffice-sdk-doc.x86_64-5.0.6.2 -y 
 sudo yum install libreoffice-xsltfilter.x86_64-5.0.6.2 -y 
-sudo yum install libabw.i686-0.0.2 -y 
-sudo yum install libabw-debuginfo.i686-0.0.2 -y 
-sudo yum install libcmis.i686-0.5.1 -y 
-sudo yum install libcmis-debuginfo.i686-0.5.1 -y 
-sudo yum install libetonyek.i686-0.0.4 -y 
-sudo yum install libetonyek-debuginfo.i686-0.0.4 -y 
-sudo yum install libfreehand.i686-0.0.0 -y 
-sudo yum install libfreehand-debuginfo.i686-0.0.0 -y 
-sudo yum install liblangtag.i686-0.5.4 -y 
-sudo yum install liblangtag-debuginfo.i686-0.5.4 -y 
-sudo yum install libmwaw.i686-0.2.0 -y 
-sudo yum install libmwaw-debuginfo.i686-0.2.0 -y 
-sudo yum install libodfgen.i686-0.0.4 -y 
-sudo yum install libodfgen-debuginfo.i686-0.0.4 -y 
-sudo yum install libabw-devel.i686-0.0.2 -y 
-sudo yum install libcmis-devel.i686-0.5.1 -y 
-sudo yum install libetonyek-devel.i686-0.0.4 -y 
-sudo yum install libfreehand-devel.i686-0.0.0 -y 
-sudo yum install liblangtag-devel.i686-0.5.4 -y 
-sudo yum install liblangtag-gobject.i686-0.5.4 -y 
-sudo yum install libmwaw-devel.i686-0.2.0 -y 
-sudo yum install libodfgen-devel.i686-0.0.4 -y 

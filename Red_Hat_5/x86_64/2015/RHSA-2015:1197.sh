@@ -4,30 +4,30 @@
 # Security fix for RHSA-2015:1197
 #
 # Security announcement date: 2015-06-30 06:42:37 UTC
-# Script generation date:     2016-06-01 11:13:55 UTC
+# Script generation date:     2016-11-24 21:16:49 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - openssl.i686:0.9.8e-36.el5_11
+#   - openssl-debuginfo.i386:0.9.8e-36.el5_11
+#   - openssl-debuginfo.i686:0.9.8e-36.el5_11
 #   - openssl.x86_64:0.9.8e-36.el5_11
 #   - openssl-debuginfo.x86_64:0.9.8e-36.el5_11
 #   - openssl-perl.x86_64:0.9.8e-36.el5_11
-#   - openssl-devel.x86_64:0.9.8e-36.el5_11
-#   - openssl.i686:0.9.8e-36.el5_11
-#   - openssl-debuginfo.i686:0.9.8e-36.el5_11
-#   - openssl-debuginfo.i386:0.9.8e-36.el5_11
 #   - openssl-devel.i386:0.9.8e-36.el5_11
+#   - openssl-devel.x86_64:0.9.8e-36.el5_11
 #
 # Last versions recommanded by security team:
+#   - openssl.i686:0.9.8e-40.el5_11
+#   - openssl-debuginfo.i386:0.9.8e-40.el5_11
+#   - openssl-debuginfo.i686:0.9.8e-40.el5_11
 #   - openssl.x86_64:0.9.8e-40.el5_11
 #   - openssl-debuginfo.x86_64:0.9.8e-40.el5_11
 #   - openssl-perl.x86_64:0.9.8e-40.el5_11
-#   - openssl-devel.x86_64:0.9.8e-40.el5_11
-#   - openssl.i686:0.9.8e-40.el5_11
-#   - openssl-debuginfo.i686:0.9.8e-40.el5_11
-#   - openssl-debuginfo.i386:0.9.8e-40.el5_11
 #   - openssl-devel.i386:0.9.8e-40.el5_11
+#   - openssl-devel.x86_64:0.9.8e-40.el5_11
 #
 # CVE List:
 #   - CVE-2015-1789
@@ -38,11 +38,11 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install openssl.i686-0.9.8e -y 
+sudo yum install openssl-debuginfo.i386-0.9.8e -y 
+sudo yum install openssl-debuginfo.i686-0.9.8e -y 
 sudo yum install openssl.x86_64-0.9.8e -y 
 sudo yum install openssl-debuginfo.x86_64-0.9.8e -y 
 sudo yum install openssl-perl.x86_64-0.9.8e -y 
-sudo yum install openssl-devel.x86_64-0.9.8e -y 
-sudo yum install openssl.i686-0.9.8e -y 
-sudo yum install openssl-debuginfo.i686-0.9.8e -y 
-sudo yum install openssl-debuginfo.i386-0.9.8e -y 
 sudo yum install openssl-devel.i386-0.9.8e -y 
+sudo yum install openssl-devel.x86_64-0.9.8e -y 

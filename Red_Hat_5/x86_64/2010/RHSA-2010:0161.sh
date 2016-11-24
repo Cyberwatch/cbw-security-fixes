@@ -4,7 +4,7 @@
 # Security fix for RHSA-2010:0161
 #
 # Security announcement date: 2010-03-23 15:57:34 UTC
-# Script generation date:     2016-05-12 18:09:44 UTC
+# Script generation date:     2016-11-24 21:14:07 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -26,7 +26,7 @@
 #   - kernel-rt-vanilla-devel.x86_64:2.6.24.7-149.el5rt
 #
 # Last versions recommanded by security team:
-#   - kernel-rt-doc.noarch:2.6.33.9-rt31.64.el5rt
+#   - kernel-rt-doc.noarch:2.6.24.7-149.el5rt
 #   - kernel-rt.x86_64:2.6.33.9-rt31.64.el5rt
 #   - kernel-rt-debug.x86_64:2.6.33.9-rt31.64.el5rt
 #   - kernel-rt-debug-debuginfo.x86_64:2.6.33.9-rt31.64.el5rt
@@ -56,7 +56,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install kernel-rt-doc.noarch-2.6.33.9 -y 
+sudo yum install kernel-rt-doc.noarch-2.6.24.7 -y 
 sudo yum install kernel-rt.x86_64-2.6.33.9 -y 
 sudo yum install kernel-rt-debug.x86_64-2.6.33.9 -y 
 sudo yum install kernel-rt-debug-debuginfo.x86_64-2.6.33.9 -y 

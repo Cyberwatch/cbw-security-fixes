@@ -4,28 +4,28 @@
 # Security fix for RHSA-2015:2248
 #
 # Security announcement date: 2015-11-19 21:39:19 UTC
-# Script generation date:     2016-05-12 18:13:26 UTC
+# Script generation date:     2016-11-24 21:17:10 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - netcf-debuginfo.i686:0.2.8-1.el7
 #   - netcf-debuginfo.x86_64:0.2.8-1.el7
+#   - netcf-libs.i686:0.2.8-1.el7
 #   - netcf-libs.x86_64:0.2.8-1.el7
 #   - netcf.x86_64:0.2.8-1.el7
-#   - netcf-devel.x86_64:0.2.8-1.el7
-#   - netcf-debuginfo.i686:0.2.8-1.el7
-#   - netcf-libs.i686:0.2.8-1.el7
 #   - netcf-devel.i686:0.2.8-1.el7
+#   - netcf-devel.x86_64:0.2.8-1.el7
 #
 # Last versions recommanded by security team:
+#   - netcf-debuginfo.i686:0.2.8-1.el7
 #   - netcf-debuginfo.x86_64:0.2.8-1.el7
+#   - netcf-libs.i686:0.2.8-1.el7
 #   - netcf-libs.x86_64:0.2.8-1.el7
 #   - netcf.x86_64:0.2.8-1.el7
-#   - netcf-devel.x86_64:0.2.8-1.el7
-#   - netcf-debuginfo.i686:0.2.8-1.el7
-#   - netcf-libs.i686:0.2.8-1.el7
 #   - netcf-devel.i686:0.2.8-1.el7
+#   - netcf-devel.x86_64:0.2.8-1.el7
 #
 # CVE List:
 #   - CVE-2014-8119
@@ -34,10 +34,10 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install netcf-debuginfo.i686-0.2.8 -y 
 sudo yum install netcf-debuginfo.x86_64-0.2.8 -y 
+sudo yum install netcf-libs.i686-0.2.8 -y 
 sudo yum install netcf-libs.x86_64-0.2.8 -y 
 sudo yum install netcf.x86_64-0.2.8 -y 
-sudo yum install netcf-devel.x86_64-0.2.8 -y 
-sudo yum install netcf-debuginfo.i686-0.2.8 -y 
-sudo yum install netcf-libs.i686-0.2.8 -y 
 sudo yum install netcf-devel.i686-0.2.8 -y 
+sudo yum install netcf-devel.x86_64-0.2.8 -y 

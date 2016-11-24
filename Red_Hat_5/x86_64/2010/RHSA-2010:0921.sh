@@ -4,7 +4,7 @@
 # Security fix for RHSA-2010:0921
 #
 # Security announcement date: 2010-11-30 18:40:53 UTC
-# Script generation date:     2016-05-12 18:09:59 UTC
+# Script generation date:     2016-11-24 21:14:20 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -46,11 +46,11 @@
 #   - condor-kbdd.x86_64:7.8.9-0.11.el5
 #   - condor-qmf.x86_64:7.8.9-0.11.el5
 #   - condor-vm-gahp.x86_64:7.8.9-0.11.el5
-#   - cumin.noarch:0.1.5796-4.el5_9
+#   - cumin.noarch:0.1.5786-2.el5_9
 #   - python-qmf.noarch:0.7.946106-14.el5
-#   - qpid-java-client.noarch:0.18-7.el5
-#   - qpid-java-common.noarch:0.18-7.el5
-#   - qpid-java-example.noarch:0.18-7.el5
+#   - qpid-java-client.noarch:0.7.946106-12.el5
+#   - qpid-java-common.noarch:0.7.946106-12.el5
+#   - qpid-java-example.noarch:0.7.946106-12.el5
 #   - qmf.x86_64:0.7.946106-22.el5
 #   - qmf-devel.x86_64:0.7.946106-22.el5
 #   - qpid-cpp-client.x86_64:0.18-38.el5_10
@@ -83,11 +83,11 @@ sudo yum install condor-debuginfo.x86_64-7.8.9 -y
 sudo yum install condor-kbdd.x86_64-7.8.9 -y 
 sudo yum install condor-qmf.x86_64-7.8.9 -y 
 sudo yum install condor-vm-gahp.x86_64-7.8.9 -y 
-sudo yum install cumin.noarch-0.1.5796 -y 
+sudo yum install cumin.noarch-0.1.5786 -y 
 sudo yum install python-qmf.noarch-0.7.946106 -y 
-sudo yum install qpid-java-client.noarch-0.18 -y 
-sudo yum install qpid-java-common.noarch-0.18 -y 
-sudo yum install qpid-java-example.noarch-0.18 -y 
+sudo yum install qpid-java-client.noarch-0.7.946106 -y 
+sudo yum install qpid-java-common.noarch-0.7.946106 -y 
+sudo yum install qpid-java-example.noarch-0.7.946106 -y 
 sudo yum install qmf.x86_64-0.7.946106 -y 
 sudo yum install qmf-devel.x86_64-0.7.946106 -y 
 sudo yum install qpid-cpp-client.x86_64-0.18 -y 

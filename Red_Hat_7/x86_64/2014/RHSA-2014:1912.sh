@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1912
 #
 # Security announcement date: 2014-11-26 22:41:33 UTC
-# Script generation date:     2016-05-12 18:12:34 UTC
+# Script generation date:     2016-11-24 21:16:25 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -14,7 +14,9 @@
 #   - rubygem-rdoc.noarch:4.0.0-22.el7_0
 #   - rubygems.noarch:2.0.14-22.el7_0
 #   - ruby.x86_64:2.0.0.353-22.el7_0
+#   - ruby-debuginfo.i686:2.0.0.353-22.el7_0
 #   - ruby-debuginfo.x86_64:2.0.0.353-22.el7_0
+#   - ruby-libs.i686:2.0.0.353-22.el7_0
 #   - ruby-libs.x86_64:2.0.0.353-22.el7_0
 #   - rubygem-bigdecimal.x86_64:1.2.0-22.el7_0
 #   - rubygem-io-console.x86_64:0.4.2-22.el7_0
@@ -26,15 +28,15 @@
 #   - rubygems-devel.noarch:2.0.14-22.el7_0
 #   - ruby-devel.x86_64:2.0.0.353-22.el7_0
 #   - ruby-tcltk.x86_64:2.0.0.353-22.el7_0
-#   - ruby-debuginfo.i686:2.0.0.353-22.el7_0
-#   - ruby-libs.i686:2.0.0.353-22.el7_0
 #
 # Last versions recommanded by security team:
 #   - ruby-irb.noarch:2.0.0.353-22.el7_0
 #   - rubygem-rdoc.noarch:4.0.0-22.el7_0
 #   - rubygems.noarch:2.0.14-22.el7_0
 #   - ruby.x86_64:2.0.0.353-22.el7_0
+#   - ruby-debuginfo.i686:2.0.0.353-22.el7_0
 #   - ruby-debuginfo.x86_64:2.0.0.353-22.el7_0
+#   - ruby-libs.i686:2.0.0.353-22.el7_0
 #   - ruby-libs.x86_64:2.0.0.353-22.el7_0
 #   - rubygem-bigdecimal.x86_64:1.2.0-22.el7_0
 #   - rubygem-io-console.x86_64:0.4.2-22.el7_0
@@ -46,8 +48,6 @@
 #   - rubygems-devel.noarch:2.0.14-22.el7_0
 #   - ruby-devel.x86_64:2.0.0.353-22.el7_0
 #   - ruby-tcltk.x86_64:2.0.0.353-22.el7_0
-#   - ruby-debuginfo.i686:2.0.0.353-22.el7_0
-#   - ruby-libs.i686:2.0.0.353-22.el7_0
 #
 # CVE List:
 #   - CVE-2014-4975
@@ -62,7 +62,9 @@ sudo yum install ruby-irb.noarch-2.0.0.353 -y
 sudo yum install rubygem-rdoc.noarch-4.0.0 -y 
 sudo yum install rubygems.noarch-2.0.14 -y 
 sudo yum install ruby.x86_64-2.0.0.353 -y 
+sudo yum install ruby-debuginfo.i686-2.0.0.353 -y 
 sudo yum install ruby-debuginfo.x86_64-2.0.0.353 -y 
+sudo yum install ruby-libs.i686-2.0.0.353 -y 
 sudo yum install ruby-libs.x86_64-2.0.0.353 -y 
 sudo yum install rubygem-bigdecimal.x86_64-1.2.0 -y 
 sudo yum install rubygem-io-console.x86_64-0.4.2 -y 
@@ -74,5 +76,3 @@ sudo yum install rubygem-rake.noarch-0.9.6 -y
 sudo yum install rubygems-devel.noarch-2.0.14 -y 
 sudo yum install ruby-devel.x86_64-2.0.0.353 -y 
 sudo yum install ruby-tcltk.x86_64-2.0.0.353 -y 
-sudo yum install ruby-debuginfo.i686-2.0.0.353 -y 
-sudo yum install ruby-libs.i686-2.0.0.353 -y 

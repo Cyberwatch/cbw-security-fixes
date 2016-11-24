@@ -4,16 +4,20 @@
 # Security fix for RHSA-2011:0880
 #
 # Security announcement date: 2011-06-16 19:30:24 UTC
-# Script generation date:     2016-11-07 21:17:55 UTC
+# Script generation date:     2016-11-24 21:14:33 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - java-1.6.0-ibm.i386:1.6.0.9.1-1jpp.1.el5
+#   - java-1.6.0-ibm-devel.i386:1.6.0.9.1-1jpp.1.el5
 #   - java-1.6.0-ibm.x86_64:1.6.0.9.1-1jpp.1.el5
 #   - java-1.6.0-ibm-devel.x86_64:1.6.0.9.1-1jpp.1.el5
 #
 # Last versions recommanded by security team:
+#   - java-1.6.0-ibm.i386:1.6.0.16.35-1jpp.1.el5_11
+#   - java-1.6.0-ibm-devel.i386:1.6.0.16.35-1jpp.1.el5_11
 #   - java-1.6.0-ibm.x86_64:1.6.0.16.35-1jpp.1.el5_11
 #   - java-1.6.0-ibm-devel.x86_64:1.6.0.16.35-1jpp.1.el5_11
 #
@@ -61,5 +65,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install java-1.6.0-ibm.i386-1.6.0.16.35 -y 
+sudo yum install java-1.6.0-ibm-devel.i386-1.6.0.16.35 -y 
 sudo yum install java-1.6.0-ibm.x86_64-1.6.0.16.35 -y 
 sudo yum install java-1.6.0-ibm-devel.x86_64-1.6.0.16.35 -y 

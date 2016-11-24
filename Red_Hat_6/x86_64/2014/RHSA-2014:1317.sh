@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1317
 #
 # Security announcement date: 2014-10-02 19:27:13 UTC
-# Script generation date:     2016-05-12 18:12:21 UTC
+# Script generation date:     2016-11-24 21:16:12 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -317,18 +317,18 @@
 # Last versions recommanded by security team:
 #   - python-sssdconfig.noarch:1.12.4-47.el6_7.4
 #   - ruby193-rubygem-Platform.noarch:0.4.0-4.el6cf
-#   - ruby193-rubygem-actionmailer.noarch:3.2.17-1.el6sam
-#   - ruby193-rubygem-actionpack.noarch:3.2.17-6.el6sam
-#   - ruby193-rubygem-actionpack.noarch:3.2.17-6.el6sam
-#   - ruby193-rubygem-actionpack.noarch:3.2.17-6.el6sam
+#   - ruby193-rubygem-actionmailer.noarch:3.2.17-1.el6cf
+#   - ruby193-rubygem-actionpack.noarch:3.2.13-5.el6cf
+#   - ruby193-rubygem-actionpack.noarch:3.2.17-3.el6cf
+#   - ruby193-rubygem-actionpack.noarch:3.2.17-6.el6cf
 #   - ruby193-rubygem-actionwebservice.noarch:3.1.0-3.el6cf
 #   - ruby193-rubygem-active_hash.noarch:1.3.0-2.el6cf
-#   - ruby193-rubygem-activemodel.noarch:3.2.17-1.el6sam
-#   - ruby193-rubygem-activerecord.noarch:3.2.17-5.el6sam
-#   - ruby193-rubygem-activerecord.noarch:3.2.17-5.el6sam
-#   - ruby193-rubygem-activerecord.noarch:3.2.17-5.el6sam
-#   - ruby193-rubygem-activeresource.noarch:3.2.17-1.el6sam
-#   - ruby193-rubygem-activesupport.noarch:3.2.17-2.el6sam
+#   - ruby193-rubygem-activemodel.noarch:3.2.17-1.el6cf
+#   - ruby193-rubygem-activerecord.noarch:3.2.8-2.el6
+#   - ruby193-rubygem-activerecord.noarch:3.2.8-2.el6
+#   - ruby193-rubygem-activerecord.noarch:3.2.8-2.el6
+#   - ruby193-rubygem-activeresource.noarch:3.2.17-1.el6cf
+#   - ruby193-rubygem-activesupport.noarch:3.2.8-4.el6
 #   - ruby193-rubygem-acts_as_list.noarch:0.1.9-1.el6cf
 #   - ruby193-rubygem-acts_as_tree.noarch:0.1.1-1.el6cf
 #   - ruby193-rubygem-addressable.noarch:2.2.8-1.el6cf
@@ -357,7 +357,7 @@
 #   - ruby193-rubygem-dalli.noarch:2.2.1-1.el6cf
 #   - ruby193-rubygem-default_value_for.noarch:1.0.7-1.el6cf
 #   - ruby193-rubygem-elif.noarch:0.1.0-1.el6cf
-#   - ruby193-rubygem-excon.noarch:0.32.1-2.el6op
+#   - ruby193-rubygem-excon.noarch:0.31.0-1.el6cf
 #   - ruby193-rubygem-execjs.noarch:2.0.2-1.el6cf
 #   - ruby193-rubygem-ezcrypto.noarch:0.7-1.el6cf
 #   - ruby193-rubygem-facade.noarch:1.0.5-1.el6cf
@@ -366,11 +366,11 @@
 #   - ruby193-rubygem-fattr.noarch:2.2.1-1.el6cf
 #   - ruby193-rubygem-flay.noarch:2.3.0-1.el6cf
 #   - ruby193-rubygem-flog.noarch:3.2.3-2.el6cf
-#   - ruby193-rubygem-fog.noarch:1.19.0-2.el6cf
-#   - ruby193-rubygem-formatador.noarch:0.2.1-9.el6op
+#   - ruby193-rubygem-fog.noarch:1.19.0-1.el6cf
+#   - ruby193-rubygem-formatador.noarch:0.2.4-1.el6cf
 #   - ruby193-rubygem-gssapi.noarch:1.1.2-1.el6cf
 #   - ruby193-rubygem-gyoku.noarch:1.0.0-1.el6cf
-#   - ruby193-rubygem-haml.noarch:4.0.3-2.el6op
+#   - ruby193-rubygem-haml.noarch:4.0.5-1.el6cf
 #   - ruby193-rubygem-haml-rails.noarch:0.4-1.el6cf
 #   - ruby193-rubygem-handsoap.noarch:0.2.5-2.el6cf
 #   - ruby193-rubygem-highline.noarch:1.6.16-1.el6op
@@ -378,19 +378,19 @@
 #   - ruby193-rubygem-hmac.noarch:0.4.0-7.el6cf
 #   - ruby193-rubygem-hoe.noarch:2.12.3-2.el6cf
 #   - ruby193-rubygem-httparty.noarch:0.10.2-1.el6cf
-#   - ruby193-rubygem-httpclient.noarch:2.4.0-1.el6op
+#   - ruby193-rubygem-httpclient.noarch:2.2.7-1.el6cf
 #   - ruby193-rubygem-httpi.noarch:2.0.2-1.el6cf
-#   - ruby193-rubygem-i18n.noarch:0.6.9-1.el6sam
+#   - ruby193-rubygem-i18n.noarch:0.6.9-1.el6cf
 #   - ruby193-rubygem-inifile.noarch:2.0.2-1.el6cf
 #   - ruby193-rubygem-japgolly-Saikuro.noarch:1.1.1.0-1.el6cf
 #   - ruby193-rubygem-jbuilder.noarch:2.0.7-1.el6cf
 #   - ruby193-rubygem-json_pure.noarch:1.7.3-1.el6
-#   - ruby193-rubygem-linux_admin.noarch:0.9.4-1.el6cf
-#   - ruby193-rubygem-linux_admin.noarch:0.9.4-1.el6cf
+#   - ruby193-rubygem-linux_admin.noarch:0.7.0-1.el6cf
+#   - ruby193-rubygem-linux_admin.noarch:0.9.1-1.el6cf
 #   - ruby193-rubygem-little-plugger.noarch:1.1.3-1.el6cf
 #   - ruby193-rubygem-log4r.noarch:1.1.8-1.el6cf
 #   - ruby193-rubygem-logging.noarch:1.6.2-1.el6cf
-#   - ruby193-rubygem-mail.noarch:2.5.4-1.el6sam
+#   - ruby193-rubygem-mail.noarch:2.5.4-1.el6cf
 #   - ruby193-rubygem-main.noarch:4.7.1-1.el6cf
 #   - ruby193-rubygem-map.noarch:6.5.1-1.el6cf
 #   - ruby193-rubygem-metric_fu.noarch:3.0.0-1.el6cf
@@ -399,11 +399,11 @@
 #   - ruby193-rubygem-more_core_extensions.noarch:1.2.0-1.el6cf
 #   - ruby193-rubygem-multi_json.noarch:1.7.7-1.el6cf
 #   - ruby193-rubygem-multi_xml.noarch:0.5.2-1.el6cf
-#   - ruby193-rubygem-net-ldap.noarch:0.3.1-1.el6op
+#   - ruby193-rubygem-net-ldap.noarch:0.7.0-1.el6cf
 #   - ruby193-rubygem-net-ping.noarch:1.7.4-2.el6cf
-#   - ruby193-rubygem-net-scp.noarch:1.1.2-1.el6op
+#   - ruby193-rubygem-net-scp.noarch:1.1.2-1.el6cf
 #   - ruby193-rubygem-net-sftp.noarch:2.0.5-7.el6cf
-#   - ruby193-rubygem-net-ssh.noarch:2.7.0-1.el6op
+#   - ruby193-rubygem-net-ssh.noarch:2.9.1-1.el6cf
 #   - ruby193-rubygem-netrc.noarch:0.7.7-3.el6cf
 #   - ruby193-rubygem-nori.noarch:2.1.0-1.el6cf
 #   - ruby193-rubygem-open4.noarch:1.3.0-3.el6op
@@ -414,11 +414,11 @@
 #   - ruby193-rubygem-princely.noarch:1.2.6-1.el6cf
 #   - ruby193-rubygem-progressbar.noarch:0.11.0-2.el6cf
 #   - ruby193-rubygem-prototype-rails.noarch:3.2.1-1.el6cf
-#   - ruby193-rubygem-rack.noarch:1.4.5-3.el6sam
-#   - ruby193-rubygem-rack-test.noarch:0.6.2-1.el6cf
-#   - ruby193-rubygem-rails.noarch:3.2.17-1.el6sam
+#   - ruby193-rubygem-rack.noarch:1.4.1-5.el6
+#   - ruby193-rubygem-rack-test.noarch:0.6.1-3.el6
+#   - ruby193-rubygem-rails.noarch:3.2.17-1.el6cf
 #   - ruby193-rubygem-rails_best_practices.noarch:1.13.8-1.el6cf
-#   - ruby193-rubygem-railties.noarch:3.2.17-1.el6sam
+#   - ruby193-rubygem-railties.noarch:3.2.17-1.el6cf
 #   - ruby193-rubygem-rake.noarch:0.9.2.2-50.el6
 #   - ruby193-rubygem-rake-compiler.noarch:0.8.3-2.el6cf
 #   - ruby193-rubygem-rbovirt.noarch:0.0.17-3.el6cf
@@ -427,7 +427,7 @@
 #   - ruby193-rubygem-reek.noarch:1.3.1-1.el6cf
 #   - ruby193-rubygem-rest-client.noarch:1.6.1-2.el6op
 #   - ruby193-rubygem-roodi.noarch:2.2.0-1.el6cf
-#   - ruby193-rubygem-rspec.noarch:2.12.0-1.el6cf
+#   - ruby193-rubygem-rspec.noarch:2.11.0-2.el6
 #   - ruby193-rubygem-rspec-core.noarch:2.12.2-1.el6cf
 #   - ruby193-rubygem-rspec-expectations.noarch:2.12.1-1.el6cf
 #   - ruby193-rubygem-rspec-fire.noarch:1.3.0-1.el6cf
@@ -459,7 +459,7 @@
 #   - ruby193-rubygem-slim.noarch:1.3.9-1.el6cf
 #   - ruby193-rubygem-snmp.noarch:1.1.0-6.el6cf
 #   - ruby193-rubygem-soap4r.noarch:1.6.0-2.el6cf
-#   - ruby193-rubygem-state_machine.noarch:1.1.2-7.el6op
+#   - ruby193-rubygem-state_machine.noarch:1.1.2-8.el6cf
 #   - ruby193-rubygem-syntax.noarch:1.0.0-8.el6cf
 #   - ruby193-rubygem-temple.noarch:0.6.5-1.el6cf
 #   - ruby193-rubygem-terminal-table.noarch:1.4.5-1.el6cf
@@ -475,14 +475,14 @@
 #   - ruby193-rubygem-wasabi.noarch:3.1.0-1.el6cf
 #   - ruby193-rubygem-webmock.noarch:1.11.0-1.el6cf
 #   - ruby193-rubygem-websocket.noarch:1.0.7-1.el6cf
+#   - ruby193-rubygem-winrm.noarch:1.1.3-1.el6cf
+#   - ruby193-rubygem-winrm.noarch:1.1.3-2.el6cf
 #   - ruby193-rubygem-winrm.noarch:1.1.3-4.el6cf
-#   - ruby193-rubygem-winrm.noarch:1.1.3-4.el6cf
-#   - ruby193-rubygem-winrm.noarch:1.1.3-4.el6cf
-#   - ruby193-rubygem-xml-simple.noarch:1.0.12-1.el6cf
+#   - ruby193-rubygem-xml-simple.noarch:1.0.12-10.el6op
 #   - ruby193-rubygem-xpath.noarch:2.0.0-1.el6cf
 #   - ruby193-rubygem-ziya.noarch:2.3.0-2.el6cf
-#   - selinux-policy.noarch:3.7.19-244.el6
-#   - selinux-policy-targeted.noarch:3.7.19-244.el6
+#   - selinux-policy.noarch:3.7.19-54.el6_0.5
+#   - selinux-policy-targeted.noarch:3.7.19-54.el6_0.5
 #   - sneakernet_ca.noarch:0.1-2.el6cf
 #   - certmonger.x86_64:0.75.13-1.el6
 #   - certmonger-debuginfo.x86_64:0.75.13-1.el6
@@ -630,17 +630,17 @@
 sudo yum install python-sssdconfig.noarch-1.12.4 -y 
 sudo yum install ruby193-rubygem-Platform.noarch-0.4.0 -y 
 sudo yum install ruby193-rubygem-actionmailer.noarch-3.2.17 -y 
-sudo yum install ruby193-rubygem-actionpack.noarch-3.2.17 -y 
+sudo yum install ruby193-rubygem-actionpack.noarch-3.2.13 -y 
 sudo yum install ruby193-rubygem-actionpack.noarch-3.2.17 -y 
 sudo yum install ruby193-rubygem-actionpack.noarch-3.2.17 -y 
 sudo yum install ruby193-rubygem-actionwebservice.noarch-3.1.0 -y 
 sudo yum install ruby193-rubygem-active_hash.noarch-1.3.0 -y 
 sudo yum install ruby193-rubygem-activemodel.noarch-3.2.17 -y 
-sudo yum install ruby193-rubygem-activerecord.noarch-3.2.17 -y 
-sudo yum install ruby193-rubygem-activerecord.noarch-3.2.17 -y 
-sudo yum install ruby193-rubygem-activerecord.noarch-3.2.17 -y 
+sudo yum install ruby193-rubygem-activerecord.noarch-3.2.8 -y 
+sudo yum install ruby193-rubygem-activerecord.noarch-3.2.8 -y 
+sudo yum install ruby193-rubygem-activerecord.noarch-3.2.8 -y 
 sudo yum install ruby193-rubygem-activeresource.noarch-3.2.17 -y 
-sudo yum install ruby193-rubygem-activesupport.noarch-3.2.17 -y 
+sudo yum install ruby193-rubygem-activesupport.noarch-3.2.8 -y 
 sudo yum install ruby193-rubygem-acts_as_list.noarch-0.1.9 -y 
 sudo yum install ruby193-rubygem-acts_as_tree.noarch-0.1.1 -y 
 sudo yum install ruby193-rubygem-addressable.noarch-2.2.8 -y 
@@ -669,7 +669,7 @@ sudo yum install ruby193-rubygem-daemons.noarch-1.0.10 -y
 sudo yum install ruby193-rubygem-dalli.noarch-2.2.1 -y 
 sudo yum install ruby193-rubygem-default_value_for.noarch-1.0.7 -y 
 sudo yum install ruby193-rubygem-elif.noarch-0.1.0 -y 
-sudo yum install ruby193-rubygem-excon.noarch-0.32.1 -y 
+sudo yum install ruby193-rubygem-excon.noarch-0.31.0 -y 
 sudo yum install ruby193-rubygem-execjs.noarch-2.0.2 -y 
 sudo yum install ruby193-rubygem-ezcrypto.noarch-0.7 -y 
 sudo yum install ruby193-rubygem-facade.noarch-1.0.5 -y 
@@ -679,10 +679,10 @@ sudo yum install ruby193-rubygem-fattr.noarch-2.2.1 -y
 sudo yum install ruby193-rubygem-flay.noarch-2.3.0 -y 
 sudo yum install ruby193-rubygem-flog.noarch-3.2.3 -y 
 sudo yum install ruby193-rubygem-fog.noarch-1.19.0 -y 
-sudo yum install ruby193-rubygem-formatador.noarch-0.2.1 -y 
+sudo yum install ruby193-rubygem-formatador.noarch-0.2.4 -y 
 sudo yum install ruby193-rubygem-gssapi.noarch-1.1.2 -y 
 sudo yum install ruby193-rubygem-gyoku.noarch-1.0.0 -y 
-sudo yum install ruby193-rubygem-haml.noarch-4.0.3 -y 
+sudo yum install ruby193-rubygem-haml.noarch-4.0.5 -y 
 sudo yum install ruby193-rubygem-haml-rails.noarch-0.4 -y 
 sudo yum install ruby193-rubygem-handsoap.noarch-0.2.5 -y 
 sudo yum install ruby193-rubygem-highline.noarch-1.6.16 -y 
@@ -690,15 +690,15 @@ sudo yum install ruby193-rubygem-hirb.noarch-0.7.1 -y
 sudo yum install ruby193-rubygem-hmac.noarch-0.4.0 -y 
 sudo yum install ruby193-rubygem-hoe.noarch-2.12.3 -y 
 sudo yum install ruby193-rubygem-httparty.noarch-0.10.2 -y 
-sudo yum install ruby193-rubygem-httpclient.noarch-2.4.0 -y 
+sudo yum install ruby193-rubygem-httpclient.noarch-2.2.7 -y 
 sudo yum install ruby193-rubygem-httpi.noarch-2.0.2 -y 
 sudo yum install ruby193-rubygem-i18n.noarch-0.6.9 -y 
 sudo yum install ruby193-rubygem-inifile.noarch-2.0.2 -y 
 sudo yum install ruby193-rubygem-japgolly-Saikuro.noarch-1.1.1.0 -y 
 sudo yum install ruby193-rubygem-jbuilder.noarch-2.0.7 -y 
 sudo yum install ruby193-rubygem-json_pure.noarch-1.7.3 -y 
-sudo yum install ruby193-rubygem-linux_admin.noarch-0.9.4 -y 
-sudo yum install ruby193-rubygem-linux_admin.noarch-0.9.4 -y 
+sudo yum install ruby193-rubygem-linux_admin.noarch-0.7.0 -y 
+sudo yum install ruby193-rubygem-linux_admin.noarch-0.9.1 -y 
 sudo yum install ruby193-rubygem-little-plugger.noarch-1.1.3 -y 
 sudo yum install ruby193-rubygem-log4r.noarch-1.1.8 -y 
 sudo yum install ruby193-rubygem-logging.noarch-1.6.2 -y 
@@ -711,11 +711,11 @@ sudo yum install ruby193-rubygem-minitest.noarch-2.5.1 -y
 sudo yum install ruby193-rubygem-more_core_extensions.noarch-1.2.0 -y 
 sudo yum install ruby193-rubygem-multi_json.noarch-1.7.7 -y 
 sudo yum install ruby193-rubygem-multi_xml.noarch-0.5.2 -y 
-sudo yum install ruby193-rubygem-net-ldap.noarch-0.3.1 -y 
+sudo yum install ruby193-rubygem-net-ldap.noarch-0.7.0 -y 
 sudo yum install ruby193-rubygem-net-ping.noarch-1.7.4 -y 
 sudo yum install ruby193-rubygem-net-scp.noarch-1.1.2 -y 
 sudo yum install ruby193-rubygem-net-sftp.noarch-2.0.5 -y 
-sudo yum install ruby193-rubygem-net-ssh.noarch-2.7.0 -y 
+sudo yum install ruby193-rubygem-net-ssh.noarch-2.9.1 -y 
 sudo yum install ruby193-rubygem-netrc.noarch-0.7.7 -y 
 sudo yum install ruby193-rubygem-nori.noarch-2.1.0 -y 
 sudo yum install ruby193-rubygem-open4.noarch-1.3.0 -y 
@@ -726,8 +726,8 @@ sudo yum install ruby193-rubygem-pdf-writer.noarch-1.1.8 -y
 sudo yum install ruby193-rubygem-princely.noarch-1.2.6 -y 
 sudo yum install ruby193-rubygem-progressbar.noarch-0.11.0 -y 
 sudo yum install ruby193-rubygem-prototype-rails.noarch-3.2.1 -y 
-sudo yum install ruby193-rubygem-rack.noarch-1.4.5 -y 
-sudo yum install ruby193-rubygem-rack-test.noarch-0.6.2 -y 
+sudo yum install ruby193-rubygem-rack.noarch-1.4.1 -y 
+sudo yum install ruby193-rubygem-rack-test.noarch-0.6.1 -y 
 sudo yum install ruby193-rubygem-rails.noarch-3.2.17 -y 
 sudo yum install ruby193-rubygem-rails_best_practices.noarch-1.13.8 -y 
 sudo yum install ruby193-rubygem-railties.noarch-3.2.17 -y 
@@ -739,7 +739,7 @@ sudo yum install ruby193-rubygem-rdoc.noarch-3.12.2 -y
 sudo yum install ruby193-rubygem-reek.noarch-1.3.1 -y 
 sudo yum install ruby193-rubygem-rest-client.noarch-1.6.1 -y 
 sudo yum install ruby193-rubygem-roodi.noarch-2.2.0 -y 
-sudo yum install ruby193-rubygem-rspec.noarch-2.12.0 -y 
+sudo yum install ruby193-rubygem-rspec.noarch-2.11.0 -y 
 sudo yum install ruby193-rubygem-rspec-core.noarch-2.12.2 -y 
 sudo yum install ruby193-rubygem-rspec-expectations.noarch-2.12.1 -y 
 sudo yum install ruby193-rubygem-rspec-fire.noarch-1.3.0 -y 

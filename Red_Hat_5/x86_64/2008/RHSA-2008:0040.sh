@@ -4,12 +4,15 @@
 # Security fix for RHSA-2008:0040
 #
 # Security announcement date: 2008-02-01 14:56:14 UTC
-# Script generation date:     2016-05-12 18:09:13 UTC
+# Script generation date:     2016-11-24 21:13:39 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - postgresql-debuginfo.i386:8.2.6-1.el5s2
+#   - postgresql-devel.i386:8.2.6-1.el5s2
+#   - postgresql-libs.i386:8.2.6-1.el5s2
 #   - postgresql.x86_64:8.2.6-1.el5s2
 #   - postgresql-contrib.x86_64:8.2.6-1.el5s2
 #   - postgresql-debuginfo.x86_64:8.2.6-1.el5s2
@@ -23,11 +26,11 @@
 #   - postgresql-server.x86_64:8.2.6-1.el5s2
 #   - postgresql-tcl.x86_64:8.2.6-1.el5s2
 #   - postgresql-test.x86_64:8.2.6-1.el5s2
-#   - postgresql-debuginfo.i386:8.2.6-1.el5s2
-#   - postgresql-devel.i386:8.2.6-1.el5s2
-#   - postgresql-libs.i386:8.2.6-1.el5s2
 #
 # Last versions recommanded by security team:
+#   - postgresql-debuginfo.i386:8.1.23-10.el5_10
+#   - postgresql-devel.i386:8.1.23-10.el5_10
+#   - postgresql-libs.i386:8.1.23-10.el5_10
 #   - postgresql.x86_64:8.1.23-10.el5_10
 #   - postgresql-contrib.x86_64:8.1.23-10.el5_10
 #   - postgresql-debuginfo.x86_64:8.1.23-10.el5_10
@@ -41,9 +44,6 @@
 #   - postgresql-server.x86_64:8.1.23-10.el5_10
 #   - postgresql-tcl.x86_64:8.1.23-10.el5_10
 #   - postgresql-test.x86_64:8.1.23-10.el5_10
-#   - postgresql-debuginfo.i386:8.1.23-10.el5_10
-#   - postgresql-devel.i386:8.1.23-10.el5_10
-#   - postgresql-libs.i386:8.1.23-10.el5_10
 #
 # CVE List:
 #   - CVE-2007-3278
@@ -57,6 +57,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install postgresql-debuginfo.i386-8.1.23 -y 
+sudo yum install postgresql-devel.i386-8.1.23 -y 
+sudo yum install postgresql-libs.i386-8.1.23 -y 
 sudo yum install postgresql.x86_64-8.1.23 -y 
 sudo yum install postgresql-contrib.x86_64-8.1.23 -y 
 sudo yum install postgresql-debuginfo.x86_64-8.1.23 -y 
@@ -70,6 +73,3 @@ sudo yum install postgresql-python.x86_64-8.1.23 -y
 sudo yum install postgresql-server.x86_64-8.1.23 -y 
 sudo yum install postgresql-tcl.x86_64-8.1.23 -y 
 sudo yum install postgresql-test.x86_64-8.1.23 -y 
-sudo yum install postgresql-debuginfo.i386-8.1.23 -y 
-sudo yum install postgresql-devel.i386-8.1.23 -y 
-sudo yum install postgresql-libs.i386-8.1.23 -y 

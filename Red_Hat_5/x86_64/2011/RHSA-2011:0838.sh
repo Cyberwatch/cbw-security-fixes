@@ -4,28 +4,28 @@
 # Security fix for RHSA-2011:0838
 #
 # Security announcement date: 2011-05-31 15:05:29 UTC
-# Script generation date:     2016-05-12 18:10:17 UTC
+# Script generation date:     2016-11-24 21:14:32 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - gimp-debuginfo.i386:2.2.13-2.0.7.el5_6.2
+#   - gimp-libs.i386:2.2.13-2.0.7.el5_6.2
 #   - gimp.x86_64:2.2.13-2.0.7.el5_6.2
 #   - gimp-debuginfo.x86_64:2.2.13-2.0.7.el5_6.2
 #   - gimp-libs.x86_64:2.2.13-2.0.7.el5_6.2
-#   - gimp-devel.x86_64:2.2.13-2.0.7.el5_6.2
-#   - gimp-debuginfo.i386:2.2.13-2.0.7.el5_6.2
-#   - gimp-libs.i386:2.2.13-2.0.7.el5_6.2
 #   - gimp-devel.i386:2.2.13-2.0.7.el5_6.2
+#   - gimp-devel.x86_64:2.2.13-2.0.7.el5_6.2
 #
 # Last versions recommanded by security team:
+#   - gimp-debuginfo.i386:2.2.13-3.el5_10
+#   - gimp-libs.i386:2.2.13-3.el5_10
 #   - gimp.x86_64:2.2.13-3.el5_10
 #   - gimp-debuginfo.x86_64:2.2.13-3.el5_10
 #   - gimp-libs.x86_64:2.2.13-3.el5_10
-#   - gimp-devel.x86_64:2.2.13-3.el5_10
-#   - gimp-debuginfo.i386:2.2.13-3.el5_10
-#   - gimp-libs.i386:2.2.13-3.el5_10
 #   - gimp-devel.i386:2.2.13-3.el5_10
+#   - gimp-devel.x86_64:2.2.13-3.el5_10
 #
 # CVE List:
 #   - CVE-2009-1570
@@ -39,10 +39,10 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install gimp-debuginfo.i386-2.2.13 -y 
+sudo yum install gimp-libs.i386-2.2.13 -y 
 sudo yum install gimp.x86_64-2.2.13 -y 
 sudo yum install gimp-debuginfo.x86_64-2.2.13 -y 
 sudo yum install gimp-libs.x86_64-2.2.13 -y 
-sudo yum install gimp-devel.x86_64-2.2.13 -y 
-sudo yum install gimp-debuginfo.i386-2.2.13 -y 
-sudo yum install gimp-libs.i386-2.2.13 -y 
 sudo yum install gimp-devel.i386-2.2.13 -y 
+sudo yum install gimp-devel.x86_64-2.2.13 -y 

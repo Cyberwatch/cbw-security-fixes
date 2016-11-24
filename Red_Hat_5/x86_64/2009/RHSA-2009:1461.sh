@@ -4,12 +4,21 @@
 # Security fix for RHSA-2009:1461
 #
 # Security announcement date: 2009-09-23 21:51:20 UTC
-# Script generation date:     2016-07-18 21:28:35 UTC
+# Script generation date:     2016-11-24 21:14:01 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - httpd-debuginfo.i386:2.2.13-2.el5s2
+#   - httpd-devel.i386:2.2.13-2.el5s2
+#   - mysql.i386:5.0.84-2.el5s2
+#   - mysql-debuginfo.i386:5.0.84-2.el5s2
+#   - mysql-devel.i386:5.0.84-2.el5s2
+#   - mysql-libs.i386:5.0.84-2.el5s2
+#   - postgresql-debuginfo.i386:8.2.14-1.el5s2
+#   - postgresql-devel.i386:8.2.14-1.el5s2
+#   - postgresql-libs.i386:8.2.14-1.el5s2
 #   - php-pear.noarch:1.8.1-2.el5s2
 #   - httpd.x86_64:2.2.13-2.el5s2
 #   - httpd-debuginfo.x86_64:2.2.13-2.el5s2
@@ -63,17 +72,17 @@
 #   - postgresql-server.x86_64:8.2.14-1.el5s2
 #   - postgresql-tcl.x86_64:8.2.14-1.el5s2
 #   - postgresql-test.x86_64:8.2.14-1.el5s2
-#   - httpd-debuginfo.i386:2.2.13-2.el5s2
-#   - httpd-devel.i386:2.2.13-2.el5s2
-#   - mysql.i386:5.0.84-2.el5s2
-#   - mysql-debuginfo.i386:5.0.84-2.el5s2
-#   - mysql-devel.i386:5.0.84-2.el5s2
-#   - mysql-libs.i386:5.0.84-2.el5s2
-#   - postgresql-debuginfo.i386:8.2.14-1.el5s2
-#   - postgresql-devel.i386:8.2.14-1.el5s2
-#   - postgresql-libs.i386:8.2.14-1.el5s2
 #
 # Last versions recommanded by security team:
+#   - httpd-debuginfo.i386:2.2.3-92.el5_11
+#   - httpd-devel.i386:2.2.3-92.el5_11
+#   - mysql.i386:5.0.95-5.el5_9
+#   - mysql-debuginfo.i386:5.0.95-5.el5_9
+#   - mysql-devel.i386:5.0.95-5.el5_9
+#   - mysql-libs.i386:5.0.84-2.el5s2
+#   - postgresql-debuginfo.i386:8.1.23-10.el5_10
+#   - postgresql-devel.i386:8.1.23-10.el5_10
+#   - postgresql-libs.i386:8.1.23-10.el5_10
 #   - php-pear.noarch:1.8.1-2.el5s2
 #   - httpd.x86_64:2.2.3-92.el5_11
 #   - httpd-debuginfo.x86_64:2.2.3-92.el5_11
@@ -127,15 +136,6 @@
 #   - postgresql-server.x86_64:8.1.23-10.el5_10
 #   - postgresql-tcl.x86_64:8.1.23-10.el5_10
 #   - postgresql-test.x86_64:8.1.23-10.el5_10
-#   - httpd-debuginfo.i386:2.2.3-92.el5_11
-#   - httpd-devel.i386:2.2.3-92.el5_11
-#   - mysql.i386:5.0.95-5.el5_9
-#   - mysql-debuginfo.i386:5.0.95-5.el5_9
-#   - mysql-devel.i386:5.0.95-5.el5_9
-#   - mysql-libs.i386:5.0.84-2.el5s2
-#   - postgresql-debuginfo.i386:8.1.23-10.el5_10
-#   - postgresql-devel.i386:8.1.23-10.el5_10
-#   - postgresql-libs.i386:8.1.23-10.el5_10
 #
 # CVE List:
 #   - CVE-2008-4456
@@ -152,6 +152,15 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install httpd-debuginfo.i386-2.2.3 -y 
+sudo yum install httpd-devel.i386-2.2.3 -y 
+sudo yum install mysql.i386-5.0.95 -y 
+sudo yum install mysql-debuginfo.i386-5.0.95 -y 
+sudo yum install mysql-devel.i386-5.0.95 -y 
+sudo yum install mysql-libs.i386-5.0.84 -y 
+sudo yum install postgresql-debuginfo.i386-8.1.23 -y 
+sudo yum install postgresql-devel.i386-8.1.23 -y 
+sudo yum install postgresql-libs.i386-8.1.23 -y 
 sudo yum install php-pear.noarch-1.8.1 -y 
 sudo yum install httpd.x86_64-2.2.3 -y 
 sudo yum install httpd-debuginfo.x86_64-2.2.3 -y 
@@ -205,12 +214,3 @@ sudo yum install postgresql-python.x86_64-8.1.23 -y
 sudo yum install postgresql-server.x86_64-8.1.23 -y 
 sudo yum install postgresql-tcl.x86_64-8.1.23 -y 
 sudo yum install postgresql-test.x86_64-8.1.23 -y 
-sudo yum install httpd-debuginfo.i386-2.2.3 -y 
-sudo yum install httpd-devel.i386-2.2.3 -y 
-sudo yum install mysql.i386-5.0.95 -y 
-sudo yum install mysql-debuginfo.i386-5.0.95 -y 
-sudo yum install mysql-devel.i386-5.0.95 -y 
-sudo yum install mysql-libs.i386-5.0.84 -y 
-sudo yum install postgresql-debuginfo.i386-8.1.23 -y 
-sudo yum install postgresql-devel.i386-8.1.23 -y 
-sudo yum install postgresql-libs.i386-8.1.23 -y 

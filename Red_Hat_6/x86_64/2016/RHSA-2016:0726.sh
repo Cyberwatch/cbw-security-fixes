@@ -4,35 +4,35 @@
 # Security fix for RHSA-2016:0726
 #
 # Security announcement date: 2016-05-09 18:05:12 UTC
-# Script generation date:     2016-06-22 12:49:13 UTC
+# Script generation date:     2016-11-24 21:17:31 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - ImageMagick.i686:6.7.2.7-4.el6_7
+#   - .i686:6.7.2.7-4.el6_7
+#   - ImageMagick-debuginfo.i686:6.7.2.7-4.el6_7
 #   - ImageMagick.x86_64:6.7.2.7-4.el6_7
 #   - .x86_64:6.7.2.7-4.el6_7
-#   - ImageMagick-debuginfo.i686:6.7.2.7-4.el6_7
 #   - ImageMagick-debuginfo.x86_64:6.7.2.7-4.el6_7
-#   - .i686:6.7.2.7-4.el6_7
 #   - -devel.i686:6.7.2.7-4.el6_7
-#   - -devel.x86_64:6.7.2.7-4.el6_7
 #   - ImageMagick-devel.i686:6.7.2.7-4.el6_7
+#   - -devel.x86_64:6.7.2.7-4.el6_7
 #   - ImageMagick-devel.x86_64:6.7.2.7-4.el6_7
 #   - ImageMagick-doc.x86_64:6.7.2.7-4.el6_7
 #   - ImageMagick-perl.x86_64:6.7.2.7-4.el6_7
 #
 # Last versions recommanded by security team:
 #   - ImageMagick.i686:6.7.2.7-5.el6_8
+#   - .i686:6.7.2.7-5.el6_8
+#   - ImageMagick-debuginfo.i686:6.7.2.7-5.el6_8
 #   - ImageMagick.x86_64:6.7.2.7-5.el6_8
 #   - .x86_64:6.7.2.7-5.el6_8
-#   - ImageMagick-debuginfo.i686:6.7.2.7-5.el6_8
 #   - ImageMagick-debuginfo.x86_64:6.7.2.7-5.el6_8
-#   - .i686:6.7.2.7-5.el6_8
 #   - -devel.i686:6.7.2.7-5.el6_8
-#   - -devel.x86_64:6.7.2.7-5.el6_8
 #   - ImageMagick-devel.i686:6.7.2.7-5.el6_8
+#   - -devel.x86_64:6.7.2.7-5.el6_8
 #   - ImageMagick-devel.x86_64:6.7.2.7-5.el6_8
 #   - ImageMagick-doc.x86_64:6.7.2.7-5.el6_8
 #   - ImageMagick-perl.x86_64:6.7.2.7-5.el6_8
@@ -49,14 +49,14 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install ImageMagick.i686-6.7.2.7 -y 
+sudo yum install .i686-6.7.2.7 -y 
+sudo yum install ImageMagick-debuginfo.i686-6.7.2.7 -y 
 sudo yum install ImageMagick.x86_64-6.7.2.7 -y 
 sudo yum install .x86_64-6.7.2.7 -y 
-sudo yum install ImageMagick-debuginfo.i686-6.7.2.7 -y 
 sudo yum install ImageMagick-debuginfo.x86_64-6.7.2.7 -y 
-sudo yum install .i686-6.7.2.7 -y 
 sudo yum install -devel.i686-6.7.2.7 -y 
-sudo yum install -devel.x86_64-6.7.2.7 -y 
 sudo yum install ImageMagick-devel.i686-6.7.2.7 -y 
+sudo yum install -devel.x86_64-6.7.2.7 -y 
 sudo yum install ImageMagick-devel.x86_64-6.7.2.7 -y 
 sudo yum install ImageMagick-doc.x86_64-6.7.2.7 -y 
 sudo yum install ImageMagick-perl.x86_64-6.7.2.7 -y 

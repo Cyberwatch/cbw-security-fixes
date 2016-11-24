@@ -4,12 +4,13 @@
 # Security fix for RHSA-2015:2619
 #
 # Security announcement date: 2015-12-14 06:03:49 UTC
-# Script generation date:     2016-05-12 18:13:32 UTC
+# Script generation date:     2016-11-24 21:17:14 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - libreoffice-debuginfo.i686:4.2.8.2-11.el6_7.1
 #   - autocorr-af.noarch:4.2.8.2-11.el6_7.1
 #   - autocorr-bg.noarch:4.2.8.2-11.el6_7.1
 #   - autocorr-ca.noarch:4.2.8.2-11.el6_7.1
@@ -125,6 +126,7 @@
 #   - libreoffice-wiki-publisher.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-writer.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-xsltfilter.x86_64:4.2.8.2-11.el6_7.1
+#   - libreoffice-gdb-debug-support.i686:4.2.8.2-11.el6_7.1
 #   - autocorr-is.noarch:4.2.8.2-11.el6_7.1
 #   - libreoffice.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-bsh.x86_64:4.2.8.2-11.el6_7.1
@@ -136,10 +138,9 @@
 #   - libreoffice-rhino.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-sdk.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-sdk-doc.x86_64:4.2.8.2-11.el6_7.1
-#   - libreoffice-debuginfo.i686:4.2.8.2-11.el6_7.1
-#   - libreoffice-gdb-debug-support.i686:4.2.8.2-11.el6_7.1
 #
 # Last versions recommanded by security team:
+#   - libreoffice-debuginfo.i686:4.2.8.2-11.el6_7.1
 #   - autocorr-af.noarch:4.2.8.2-11.el6_7.1
 #   - autocorr-bg.noarch:4.2.8.2-11.el6_7.1
 #   - autocorr-ca.noarch:4.2.8.2-11.el6_7.1
@@ -255,6 +256,7 @@
 #   - libreoffice-wiki-publisher.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-writer.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-xsltfilter.x86_64:4.2.8.2-11.el6_7.1
+#   - libreoffice-gdb-debug-support.i686:4.2.8.2-11.el6_7.1
 #   - autocorr-is.noarch:4.2.8.2-11.el6_7.1
 #   - libreoffice.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-bsh.x86_64:4.2.8.2-11.el6_7.1
@@ -266,8 +268,6 @@
 #   - libreoffice-rhino.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-sdk.x86_64:4.2.8.2-11.el6_7.1
 #   - libreoffice-sdk-doc.x86_64:4.2.8.2-11.el6_7.1
-#   - libreoffice-debuginfo.i686:4.2.8.2-11.el6_7.1
-#   - libreoffice-gdb-debug-support.i686:4.2.8.2-11.el6_7.1
 #
 # CVE List:
 #   - CVE-2015-4551
@@ -279,6 +279,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install libreoffice-debuginfo.i686-4.2.8.2 -y 
 sudo yum install autocorr-af.noarch-4.2.8.2 -y 
 sudo yum install autocorr-bg.noarch-4.2.8.2 -y 
 sudo yum install autocorr-ca.noarch-4.2.8.2 -y 
@@ -394,6 +395,7 @@ sudo yum install libreoffice-ure.x86_64-4.2.8.2 -y
 sudo yum install libreoffice-wiki-publisher.x86_64-4.2.8.2 -y 
 sudo yum install libreoffice-writer.x86_64-4.2.8.2 -y 
 sudo yum install libreoffice-xsltfilter.x86_64-4.2.8.2 -y 
+sudo yum install libreoffice-gdb-debug-support.i686-4.2.8.2 -y 
 sudo yum install autocorr-is.noarch-4.2.8.2 -y 
 sudo yum install libreoffice.x86_64-4.2.8.2 -y 
 sudo yum install libreoffice-bsh.x86_64-4.2.8.2 -y 
@@ -405,5 +407,3 @@ sudo yum install libreoffice-nlpsolver.x86_64-4.2.8.2 -y
 sudo yum install libreoffice-rhino.x86_64-4.2.8.2 -y 
 sudo yum install libreoffice-sdk.x86_64-4.2.8.2 -y 
 sudo yum install libreoffice-sdk-doc.x86_64-4.2.8.2 -y 
-sudo yum install libreoffice-debuginfo.i686-4.2.8.2 -y 
-sudo yum install libreoffice-gdb-debug-support.i686-4.2.8.2 -y 

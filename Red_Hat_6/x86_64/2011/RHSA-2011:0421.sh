@@ -4,7 +4,7 @@
 # Security fix for RHSA-2011:0421
 #
 # Security announcement date: 2011-04-08 03:01:31 UTC
-# Script generation date:     2016-11-15 21:11:36 UTC
+# Script generation date:     2016-11-24 21:14:28 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -25,7 +25,7 @@
 # Last versions recommanded by security team:
 #   - kernel-doc.noarch:2.6.32-642.11.1.el6
 #   - kernel-firmware.noarch:2.6.32-642.11.1.el6
-#   - perf.noarch:2.6.32-71.24.1.el6
+#   - perf.noarch:2.6.32-71.29.1.el6
 #   - kernel.x86_64:2.6.32-642.11.1.el6
 #   - kernel-debug.x86_64:2.6.32-642.11.1.el6
 #   - kernel-debug-debuginfo.x86_64:2.6.32-642.11.1.el6

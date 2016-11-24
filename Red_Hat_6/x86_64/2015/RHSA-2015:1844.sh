@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1844
 #
 # Security announcement date: 2015-09-30 16:37:49 UTC
-# Script generation date:     2016-08-24 21:15:41 UTC
+# Script generation date:     2016-11-24 21:17:05 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -36,14 +36,14 @@
 #   - rubygem-openshift-origin-node.noarch:1.37.1.1-1.el6op
 #
 # Last versions recommanded by security team:
-#   - rhc.noarch:1.38.4.5-1.el6op
+#   - rhc.noarch:1.37.1.2-1.el6op
 #   - openshift-origin-broker.noarch:1.16.2.10-1.el6op
-#   - openshift-origin-broker-util.noarch:1.37.4.2-1.el6op
+#   - openshift-origin-broker-util.noarch:1.36.2.2-1.el6op
 #   - rubygem-openshift-origin-console.noarch:1.35.2.1-1.el6op
-#   - rubygem-openshift-origin-controller.noarch:1.38.4.2-1.el6op
+#   - rubygem-openshift-origin-controller.noarch:1.37.3.1-1.el6op
 #   - rubygem-openshift-origin-gear-placement.noarch:0.0.2.1-1.el6op
 #   - rubygem-openshift-origin-msg-broker-mcollective.noarch:1.35.3.1-1.el6op
-#   - rubygem-openshift-origin-routing-daemon.noarch:0.26.4.4-1.el6op
+#   - rubygem-openshift-origin-routing-daemon.noarch:0.25.1.2-1.el6op
 #   - openshift-origin-logshifter.x86_64:1.10.1.2-1.el6op
 #   - openshift-origin-cartridge-jbosseap.noarch:2.27.4.2-1.el6op
 #   - jenkins.noarch:1.651.2-1.el6op
@@ -76,14 +76,14 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install rhc.noarch-1.38.4.5 -y 
+sudo yum install rhc.noarch-1.37.1.2 -y 
 sudo yum install openshift-origin-broker.noarch-1.16.2.10 -y 
-sudo yum install openshift-origin-broker-util.noarch-1.37.4.2 -y 
+sudo yum install openshift-origin-broker-util.noarch-1.36.2.2 -y 
 sudo yum install rubygem-openshift-origin-console.noarch-1.35.2.1 -y 
-sudo yum install rubygem-openshift-origin-controller.noarch-1.38.4.2 -y 
+sudo yum install rubygem-openshift-origin-controller.noarch-1.37.3.1 -y 
 sudo yum install rubygem-openshift-origin-gear-placement.noarch-0.0.2.1 -y 
 sudo yum install rubygem-openshift-origin-msg-broker-mcollective.noarch-1.35.3.1 -y 
-sudo yum install rubygem-openshift-origin-routing-daemon.noarch-0.26.4.4 -y 
+sudo yum install rubygem-openshift-origin-routing-daemon.noarch-0.25.1.2 -y 
 sudo yum install openshift-origin-logshifter.x86_64-1.10.1.2 -y 
 sudo yum install openshift-origin-cartridge-jbosseap.noarch-2.27.4.2 -y 
 sudo yum install jenkins.noarch-1.651.2 -y 

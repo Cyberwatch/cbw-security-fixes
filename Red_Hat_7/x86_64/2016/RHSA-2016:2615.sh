@@ -4,12 +4,13 @@
 # Security fix for RHSA-2016:2615
 #
 # Security announcement date: 2016-11-03 15:39:12 UTC
-# Script generation date:     2016-11-05 21:21:42 UTC
+# Script generation date:     2016-11-24 21:17:58 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - bind-license.noarch:9.9.4-38.el7_3
 #   - bind-debuginfo.i686:9.9.4-38.el7_3
 #   - bind-debuginfo.x86_64:9.9.4-38.el7_3
 #   - bind-libs.i686:9.9.4-38.el7_3
@@ -31,9 +32,9 @@
 #   - bind-pkcs11-utils.x86_64:9.9.4-38.el7_3
 #   - bind-sdb.x86_64:9.9.4-38.el7_3
 #   - bind-sdb-chroot.x86_64:9.9.4-38.el7_3
-#   - bind-license.noarch:9.9.4-38.el7_3
 #
 # Last versions recommanded by security team:
+#   - bind-license.noarch:9.9.4-38.el7_3
 #   - bind-debuginfo.i686:9.9.4-38.el7_3
 #   - bind-debuginfo.x86_64:9.9.4-38.el7_3
 #   - bind-libs.i686:9.9.4-38.el7_3
@@ -55,7 +56,6 @@
 #   - bind-pkcs11-utils.x86_64:9.9.4-38.el7_3
 #   - bind-sdb.x86_64:9.9.4-38.el7_3
 #   - bind-sdb-chroot.x86_64:9.9.4-38.el7_3
-#   - bind-license.noarch:9.9.4-38.el7_3
 #
 # CVE List:
 #   - CVE-2016-8864
@@ -64,6 +64,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install bind-license.noarch-9.9.4 -y 
 sudo yum install bind-debuginfo.i686-9.9.4 -y 
 sudo yum install bind-debuginfo.x86_64-9.9.4 -y 
 sudo yum install bind-libs.i686-9.9.4 -y 
@@ -85,4 +86,3 @@ sudo yum install bind-pkcs11-libs.x86_64-9.9.4 -y
 sudo yum install bind-pkcs11-utils.x86_64-9.9.4 -y 
 sudo yum install bind-sdb.x86_64-9.9.4 -y 
 sudo yum install bind-sdb-chroot.x86_64-9.9.4 -y 
-sudo yum install bind-license.noarch-9.9.4 -y 

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1592
 #
 # Security announcement date: 2015-08-12 15:20:10 UTC
-# Script generation date:     2016-05-12 18:13:11 UTC
+# Script generation date:     2016-11-24 21:16:57 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -36,6 +36,7 @@
 #   - rubygems-devel.noarch:1.3.7-5.el6
 #   - aopalliance.noarch:1.0-5.3.ep5.el6
 #   - apache-commons-codec-eap6.noarch:1.4-16.redhat_3.1.ep6.el6
+#   - apache-commons-codec-eap6.noarch:1.4-16.redhat_3.1.ep6.el6
 #   - apache-mime4j.noarch:0.6-4_redhat_1.ep6.el6.1
 #   - atinject.noarch:1-8.2_redhat_1.ep6.el6.1
 #   - bcmail.noarch:1.46-3.5_redhat_1.ep6.el6
@@ -62,12 +63,16 @@
 #   - google-guice.noarch:3.0-2_redhat_1.ep6.el6
 #   - gutterball.noarch:1.0.15.0-1.el6
 #   - hibernate-beanvalidation-api.noarch:1.0.0-4.7.GA_redhat_2.ep6.el6.3
+#   - hibernate-beanvalidation-api.noarch:1.0.0-4.7.GA_redhat_2.ep6.el6.3
+#   - hibernate-jpa-2.0-api.noarch:1.0.1-5.Final_redhat_2.1.ep6.el6.4
 #   - hibernate-jpa-2.0-api.noarch:1.0.1-5.Final_redhat_2.1.ep6.el6.4
 #   - hibernate3-commons-annotations.noarch:4.0.1-2.Final_redhat_1.1.ep6.el6
 #   - hibernate4-c3p0.noarch:4.2.5-1.Final_redhat_1.ep6.el6
 #   - hibernate4-core.noarch:4.2.5-1.Final_redhat_1.ep6.el6
 #   - hibernate4-entitymanager.noarch:4.2.5-1.Final_redhat_1.ep6.el6
 #   - hibernate4-validator.noarch:4.3.1-2.Final_redhat_1.1.ep6.el6
+#   - hibernate4-validator.noarch:4.3.1-2.Final_redhat_1.1.ep6.el6
+#   - hornetq.noarch:2.3.5-2.Final_redhat_2.1.ep6.el6
 #   - hornetq.noarch:2.3.5-2.Final_redhat_2.1.ep6.el6
 #   - httpclient.noarch:4.2.1-9.redhat_1.3.ep6.el6
 #   - httpcomponents-client.noarch:4.2.1-9.redhat_1.3.ep6.el6
@@ -90,9 +95,13 @@
 #   - jaxb-project.noarch:2.2.5-19.redhat_7.2.ep6.el6
 #   - jboss-common-core.noarch:2.2.17-4.GA_redhat_1.ep6.el6.1
 #   - jboss-jaxb-api_2.2_spec.noarch:1.0.4-3.Final_redhat_2.1.ep6.el6.1
+#   - jboss-jaxb-api_2.2_spec.noarch:1.0.4-3.Final_redhat_2.1.ep6.el6.1
+#   - jboss-logging.noarch:3.1.2-3.GA_redhat_1.ep6.el6
 #   - jboss-logging.noarch:3.1.2-3.GA_redhat_1.ep6.el6
 #   - jboss-specs-parent.noarch:1.0.0-1.Beta2_redhat_1.1.ep6.el6
 #   - jboss-transaction-api_1.1_spec.noarch:1.0.1-6.Final_redhat_2.ep6.el6
+#   - jboss-transaction-api_1.1_spec.noarch:1.0.1-6.Final_redhat_2.ep6.el6
+#   - jbossts.noarch:4.16.2-1.Final.3.ep6.el6
 #   - jbossts.noarch:4.16.2-1.Final.3.ep6.el6
 #   - jcl-over-slf4j.noarch:1.7.5-4.ep6.el6
 #   - jsr311-api.noarch:1.1.1-4.ep6.el6
@@ -105,11 +114,13 @@
 #   - qpid-java-client.noarch:0.30-3.el6
 #   - qpid-java-common.noarch:0.30-3.el6
 #   - resteasy.noarch:2.3.7.2-1.Final_redhat_1.1.ep6.el6
+#   - resteasy.noarch:2.3.7.2-1.Final_redhat_1.1.ep6.el6
 #   - ruby193-rubygem-justified.noarch:0.0.4-4.el6sam
 #   - scannotation.noarch:1.0.2-4.redhat_1.ep6.el6
 #   - sisu-cglib.noarch:2.2.2-2.ep6.el6
 #   - slf4j-api.noarch:1.7.5-4.ep6.el6
 #   - slf4j-parent.noarch:1.7.5-4.ep6.el6
+#   - sun-txw2.noarch:20110809-5_redhat_2.ep6.el6.3
 #   - sun-txw2.noarch:20110809-5_redhat_2.ep6.el6.3
 #   - qpid-cpp-client-devel.x86_64:0.30-9.el6
 #   - qpid-cpp-server-devel.x86_64:0.30-9.el6
@@ -142,7 +153,8 @@
 #   - rubygem-json-debuginfo.x86_64:1.4.6-2.el6
 #   - rubygems-devel.noarch:1.3.7-5.el6
 #   - aopalliance.noarch:1.0-5.3.ep5.el6
-#   - apache-commons-codec-eap6.noarch:1.4.0-4.redhat_4.1.ep6.el6
+#   - apache-commons-codec-eap6.noarch:1.4-16.redhat_3.1.ep6.el6
+#   - apache-commons-codec-eap6.noarch:1.4-16.redhat_3.1.ep6.el6
 #   - apache-mime4j.noarch:0.6-4_redhat_1.ep6.el6.1
 #   - atinject.noarch:1-8.2_redhat_1.ep6.el6.1
 #   - bcmail.noarch:1.46-3.5_redhat_1.ep6.el6
@@ -168,14 +180,18 @@
 #   - google-collections.noarch:1.0-3.3.ep6.el6
 #   - google-guice.noarch:3.0-2_redhat_1.ep6.el6
 #   - gutterball.noarch:1.0.15.0-1.el6
-#   - hibernate-beanvalidation-api.noarch:1.0.0-5.GA_redhat_3.1.ep6.el6
-#   - hibernate-jpa-2.0-api.noarch:1.0.1-6.Final_redhat_3.1.ep6.el6
+#   - hibernate-beanvalidation-api.noarch:1.0.0-4.7.GA_redhat_2.ep6.el6.3
+#   - hibernate-beanvalidation-api.noarch:1.0.0-4.7.GA_redhat_2.ep6.el6.3
+#   - hibernate-jpa-2.0-api.noarch:1.0.1-5.Final_redhat_2.1.ep6.el6.4
+#   - hibernate-jpa-2.0-api.noarch:1.0.1-5.Final_redhat_2.1.ep6.el6.4
 #   - hibernate3-commons-annotations.noarch:4.0.1-2.Final_redhat_1.1.ep6.el6
 #   - hibernate4-c3p0.noarch:4.2.5-1.Final_redhat_1.ep6.el6
 #   - hibernate4-core.noarch:4.2.5-1.Final_redhat_1.ep6.el6
 #   - hibernate4-entitymanager.noarch:4.2.5-1.Final_redhat_1.ep6.el6
-#   - hibernate4-validator.noarch:4.3.2-2.Final_redhat_2.1.ep6.el6
-#   - hornetq.noarch:2.3.25-7.SP6_redhat_1.1.ep6.el6
+#   - hibernate4-validator.noarch:4.3.1-2.Final_redhat_1.1.ep6.el6
+#   - hibernate4-validator.noarch:4.3.1-2.Final_redhat_1.1.ep6.el6
+#   - hornetq.noarch:2.3.5-2.Final_redhat_2.1.ep6.el6
+#   - hornetq.noarch:2.3.5-2.Final_redhat_2.1.ep6.el6
 #   - httpclient.noarch:4.2.1-9.redhat_1.3.ep6.el6
 #   - httpcomponents-client.noarch:4.2.1-9.redhat_1.3.ep6.el6
 #   - httpcomponents-core.noarch:4.2.1-9.redhat_1.3.ep6.el6
@@ -196,11 +212,15 @@
 #   - jaxb-impl.noarch:2.2.5-19.redhat_7.2.ep6.el6
 #   - jaxb-project.noarch:2.2.5-19.redhat_7.2.ep6.el6
 #   - jboss-common-core.noarch:2.2.17-4.GA_redhat_1.ep6.el6.1
-#   - jboss-jaxb-api_2.2_spec.noarch:1.0.4-4.Final_redhat_3.1.ep6.el6
-#   - jboss-logging.noarch:3.1.4-2.GA_redhat_2.1.ep6.el6
+#   - jboss-jaxb-api_2.2_spec.noarch:1.0.4-3.Final_redhat_2.1.ep6.el6.1
+#   - jboss-jaxb-api_2.2_spec.noarch:1.0.4-3.Final_redhat_2.1.ep6.el6.1
+#   - jboss-logging.noarch:3.1.2-3.GA_redhat_1.ep6.el6
+#   - jboss-logging.noarch:3.1.2-3.GA_redhat_1.ep6.el6
 #   - jboss-specs-parent.noarch:1.0.0-1.Beta2_redhat_1.1.ep6.el6
-#   - jboss-transaction-api_1.1_spec.noarch:1.0.1-13.Final_redhat_3.1.ep6.el6
-#   - jbossts.noarch:4.17.30-1.Final_redhat_1.1.ep6.el6
+#   - jboss-transaction-api_1.1_spec.noarch:1.0.1-6.Final_redhat_2.ep6.el6
+#   - jboss-transaction-api_1.1_spec.noarch:1.0.1-6.Final_redhat_2.ep6.el6
+#   - jbossts.noarch:4.16.2-1.Final.3.ep6.el6
+#   - jbossts.noarch:4.16.2-1.Final.3.ep6.el6
 #   - jcl-over-slf4j.noarch:1.7.5-4.ep6.el6
 #   - jsr311-api.noarch:1.1.1-4.ep6.el6
 #   - logback-classic.noarch:1.0.13-3.ep6.el6
@@ -211,13 +231,15 @@
 #   - objectweb-asm.noarch:3.3.1-5_redhat_1.1.ep6.el6.1
 #   - qpid-java-client.noarch:0.30-3.el6
 #   - qpid-java-common.noarch:0.30-3.el6
-#   - resteasy.noarch:2.3.12-1.Final_redhat_1.1.ep6.el6
+#   - resteasy.noarch:2.3.7.2-1.Final_redhat_1.1.ep6.el6
+#   - resteasy.noarch:2.3.7.2-1.Final_redhat_1.1.ep6.el6
 #   - ruby193-rubygem-justified.noarch:0.0.4-4.el6sam
 #   - scannotation.noarch:1.0.2-4.redhat_1.ep6.el6
 #   - sisu-cglib.noarch:2.2.2-2.ep6.el6
 #   - slf4j-api.noarch:1.7.5-4.ep6.el6
 #   - slf4j-parent.noarch:1.7.5-4.ep6.el6
-#   - sun-txw2.noarch:20110809.0.0-1.redhat_5.1.ep6.el6
+#   - sun-txw2.noarch:20110809-5_redhat_2.ep6.el6.3
+#   - sun-txw2.noarch:20110809-5_redhat_2.ep6.el6.3
 #   - qpid-cpp-client-devel.x86_64:0.30-9.el6
 #   - qpid-cpp-server-devel.x86_64:0.30-9.el6
 #   - qpid-dispatch-tools.x86_64:0.4-11.el6
@@ -261,7 +283,8 @@ sudo yum install rubygem-json.x86_64-1.4.6 -y
 sudo yum install rubygem-json-debuginfo.x86_64-1.4.6 -y 
 sudo yum install rubygems-devel.noarch-1.3.7 -y 
 sudo yum install aopalliance.noarch-1.0 -y 
-sudo yum install apache-commons-codec-eap6.noarch-1.4.0 -y 
+sudo yum install apache-commons-codec-eap6.noarch-1.4 -y 
+sudo yum install apache-commons-codec-eap6.noarch-1.4 -y 
 sudo yum install apache-mime4j.noarch-0.6 -y 
 sudo yum install atinject.noarch-1 -y 
 sudo yum install bcmail.noarch-1.46 -y 
@@ -288,13 +311,17 @@ sudo yum install google-collections.noarch-1.0 -y
 sudo yum install google-guice.noarch-3.0 -y 
 sudo yum install gutterball.noarch-1.0.15.0 -y 
 sudo yum install hibernate-beanvalidation-api.noarch-1.0.0 -y 
+sudo yum install hibernate-beanvalidation-api.noarch-1.0.0 -y 
+sudo yum install hibernate-jpa-2.0-api.noarch-1.0.1 -y 
 sudo yum install hibernate-jpa-2.0-api.noarch-1.0.1 -y 
 sudo yum install hibernate3-commons-annotations.noarch-4.0.1 -y 
 sudo yum install hibernate4-c3p0.noarch-4.2.5 -y 
 sudo yum install hibernate4-core.noarch-4.2.5 -y 
 sudo yum install hibernate4-entitymanager.noarch-4.2.5 -y 
-sudo yum install hibernate4-validator.noarch-4.3.2 -y 
-sudo yum install hornetq.noarch-2.3.25 -y 
+sudo yum install hibernate4-validator.noarch-4.3.1 -y 
+sudo yum install hibernate4-validator.noarch-4.3.1 -y 
+sudo yum install hornetq.noarch-2.3.5 -y 
+sudo yum install hornetq.noarch-2.3.5 -y 
 sudo yum install httpclient.noarch-4.2.1 -y 
 sudo yum install httpcomponents-client.noarch-4.2.1 -y 
 sudo yum install httpcomponents-core.noarch-4.2.1 -y 
@@ -316,10 +343,14 @@ sudo yum install jaxb-impl.noarch-2.2.5 -y
 sudo yum install jaxb-project.noarch-2.2.5 -y 
 sudo yum install jboss-common-core.noarch-2.2.17 -y 
 sudo yum install jboss-jaxb-api_2.2_spec.noarch-1.0.4 -y 
-sudo yum install jboss-logging.noarch-3.1.4 -y 
+sudo yum install jboss-jaxb-api_2.2_spec.noarch-1.0.4 -y 
+sudo yum install jboss-logging.noarch-3.1.2 -y 
+sudo yum install jboss-logging.noarch-3.1.2 -y 
 sudo yum install jboss-specs-parent.noarch-1.0.0 -y 
 sudo yum install jboss-transaction-api_1.1_spec.noarch-1.0.1 -y 
-sudo yum install jbossts.noarch-4.17.30 -y 
+sudo yum install jboss-transaction-api_1.1_spec.noarch-1.0.1 -y 
+sudo yum install jbossts.noarch-4.16.2 -y 
+sudo yum install jbossts.noarch-4.16.2 -y 
 sudo yum install jcl-over-slf4j.noarch-1.7.5 -y 
 sudo yum install jsr311-api.noarch-1.1.1 -y 
 sudo yum install logback-classic.noarch-1.0.13 -y 
@@ -330,13 +361,15 @@ sudo yum install oauth.noarch-20100601 -y
 sudo yum install objectweb-asm.noarch-3.3.1 -y 
 sudo yum install qpid-java-client.noarch-0.30 -y 
 sudo yum install qpid-java-common.noarch-0.30 -y 
-sudo yum install resteasy.noarch-2.3.12 -y 
+sudo yum install resteasy.noarch-2.3.7.2 -y 
+sudo yum install resteasy.noarch-2.3.7.2 -y 
 sudo yum install ruby193-rubygem-justified.noarch-0.0.4 -y 
 sudo yum install scannotation.noarch-1.0.2 -y 
 sudo yum install sisu-cglib.noarch-2.2.2 -y 
 sudo yum install slf4j-api.noarch-1.7.5 -y 
 sudo yum install slf4j-parent.noarch-1.7.5 -y 
-sudo yum install sun-txw2.noarch-20110809.0.0 -y 
+sudo yum install sun-txw2.noarch-20110809 -y 
+sudo yum install sun-txw2.noarch-20110809 -y 
 sudo yum install qpid-cpp-client-devel.x86_64-0.30 -y 
 sudo yum install qpid-cpp-server-devel.x86_64-0.30 -y 
 sudo yum install qpid-dispatch-tools.x86_64-0.4 -y 

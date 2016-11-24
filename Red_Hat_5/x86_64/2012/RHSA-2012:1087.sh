@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:1087
 #
 # Security announcement date: 2012-07-17 19:29:50 UTC
-# Script generation date:     2016-10-31 21:18:38 UTC
+# Script generation date:     2016-11-24 21:15:03 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -24,7 +24,7 @@
 #   - kernel-xen-devel.x86_64:2.6.18-238.40.1.el5
 #
 # Last versions recommanded by security team:
-#   - kernel-doc.noarch:2.6.18-408.el5
+#   - kernel-doc.noarch:2.6.18-238.40.1.el5
 #   - kernel.x86_64:2.6.18-238.57.1.el5
 #   - kernel-debug.x86_64:2.6.18-238.57.1.el5
 #   - kernel-debug-debuginfo.x86_64:2.6.18-238.57.1.el5

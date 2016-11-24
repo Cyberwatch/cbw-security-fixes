@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:0564
 #
 # Security announcement date: 2013-03-06 20:02:59 UTC
-# Script generation date:     2016-05-12 18:11:15 UTC
+# Script generation date:     2016-11-24 21:15:20 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -48,7 +48,7 @@
 #   - condor-wallaby-base-db.noarch:1.25-1.el5
 #   - condor-wallaby-client.noarch:5.0.5-2.el5
 #   - condor-wallaby-tools.noarch:5.0.5-2.el5
-#   - cumin.noarch:0.1.5796-4.el5_9
+#   - cumin.noarch:0.1.5786-2.el5_9
 #   - python-boto.noarch:2.3.0-1.1.el5
 #   - python-condorec2e.noarch:1.3.0-3.el5
 #   - python-condorutils.noarch:1.5-6.el5
@@ -85,7 +85,7 @@ sudo yum install condor-low-latency.noarch-1.2 -y
 sudo yum install condor-wallaby-base-db.noarch-1.25 -y 
 sudo yum install condor-wallaby-client.noarch-5.0.5 -y 
 sudo yum install condor-wallaby-tools.noarch-5.0.5 -y 
-sudo yum install cumin.noarch-0.1.5796 -y 
+sudo yum install cumin.noarch-0.1.5786 -y 
 sudo yum install python-boto.noarch-2.3.0 -y 
 sudo yum install python-condorec2e.noarch-1.3.0 -y 
 sudo yum install python-condorutils.noarch-1.5 -y 

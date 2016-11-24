@@ -4,7 +4,7 @@
 # Security fix for RHSA-2008:0042
 #
 # Security announcement date: 2008-03-11 10:56:14 UTC
-# Script generation date:     2016-05-12 18:09:15 UTC
+# Script generation date:     2016-11-24 21:13:41 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -25,17 +25,17 @@
 #
 # Last versions recommanded by security team:
 #   - tomcat5-debuginfo.x86_64:5.5.23-0jpp.40.el5_9
-#   - tomcat5-jsp-2.0-api.x86_64:5.5.23-0jpp.3.0.3.el5_1
-#   - tomcat5-servlet-2.4-api.x86_64:5.5.23-0jpp.3.0.3.el5_1
-#   - tomcat5.x86_64:5.5.23-0jpp.3.0.3.el5_1
-#   - tomcat5-admin-webapps.x86_64:5.5.23-0jpp.3.0.3.el5_1
-#   - tomcat5-common-lib.x86_64:5.5.23-0jpp.3.0.3.el5_1
-#   - tomcat5-jasper.x86_64:5.5.23-0jpp.3.0.3.el5_1
-#   - tomcat5-jasper-javadoc.x86_64:5.5.23-0jpp.3.0.3.el5_1
-#   - tomcat5-jsp-2.0-api-javadoc.x86_64:5.5.23-0jpp.3.0.3.el5_1
-#   - tomcat5-server-lib.x86_64:5.5.23-0jpp.3.0.3.el5_1
-#   - tomcat5-servlet-2.4-api-javadoc.x86_64:5.5.23-0jpp.3.0.3.el5_1
-#   - tomcat5-webapps.x86_64:5.5.23-0jpp.3.0.3.el5_1
+#   - tomcat5-jsp-2.0-api.x86_64:5.5.23-0jpp.40.el5_9
+#   - tomcat5-servlet-2.4-api.x86_64:5.5.23-0jpp.40.el5_9
+#   - tomcat5.x86_64:5.5.23-0jpp.40.el5_9
+#   - tomcat5-admin-webapps.x86_64:5.5.23-0jpp.40.el5_9
+#   - tomcat5-common-lib.x86_64:5.5.23-0jpp.40.el5_9
+#   - tomcat5-jasper.x86_64:5.5.23-0jpp.40.el5_9
+#   - tomcat5-jasper-javadoc.x86_64:5.5.23-0jpp.40.el5_9
+#   - tomcat5-jsp-2.0-api-javadoc.x86_64:5.5.23-0jpp.40.el5_9
+#   - tomcat5-server-lib.x86_64:5.5.23-0jpp.40.el5_9
+#   - tomcat5-servlet-2.4-api-javadoc.x86_64:5.5.23-0jpp.40.el5_9
+#   - tomcat5-webapps.x86_64:5.5.23-0jpp.40.el5_9
 #
 # CVE List:
 #   - CVE-2007-5461

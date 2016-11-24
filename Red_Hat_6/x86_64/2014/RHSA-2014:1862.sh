@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1862
 #
 # Security announcement date: 2014-11-17 11:20:19 UTC
-# Script generation date:     2016-08-11 21:37:52 UTC
+# Script generation date:     2016-11-24 21:16:24 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - mariadb55-mariadb-test.x86_64:5.5.40-10.el6
 #
 # Last versions recommanded by security team:
-#   - mariadb55-mariadb.x86_64:5.5.50-1.el6
-#   - mariadb55-mariadb-bench.x86_64:5.5.50-1.el6
-#   - mariadb55-mariadb-debuginfo.x86_64:5.5.50-1.el6
-#   - mariadb55-mariadb-devel.x86_64:5.5.50-1.el6
-#   - mariadb55-mariadb-libs.x86_64:5.5.50-1.el6
-#   - mariadb55-mariadb-server.x86_64:5.5.50-1.el6
-#   - mariadb55-mariadb-test.x86_64:5.5.50-1.el6
+#   - mariadb55-mariadb.x86_64:5.5.53-1.el6
+#   - mariadb55-mariadb-bench.x86_64:5.5.53-1.el6
+#   - mariadb55-mariadb-debuginfo.x86_64:5.5.53-1.el6
+#   - mariadb55-mariadb-devel.x86_64:5.5.53-1.el6
+#   - mariadb55-mariadb-libs.x86_64:5.5.53-1.el6
+#   - mariadb55-mariadb-server.x86_64:5.5.53-1.el6
+#   - mariadb55-mariadb-test.x86_64:5.5.53-1.el6
 #
 # CVE List:
 #   - CVE-2014-2494
@@ -51,10 +51,10 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install mariadb55-mariadb.x86_64-5.5.50 -y 
-sudo yum install mariadb55-mariadb-bench.x86_64-5.5.50 -y 
-sudo yum install mariadb55-mariadb-debuginfo.x86_64-5.5.50 -y 
-sudo yum install mariadb55-mariadb-devel.x86_64-5.5.50 -y 
-sudo yum install mariadb55-mariadb-libs.x86_64-5.5.50 -y 
-sudo yum install mariadb55-mariadb-server.x86_64-5.5.50 -y 
-sudo yum install mariadb55-mariadb-test.x86_64-5.5.50 -y 
+sudo yum install mariadb55-mariadb.x86_64-5.5.53 -y 
+sudo yum install mariadb55-mariadb-bench.x86_64-5.5.53 -y 
+sudo yum install mariadb55-mariadb-debuginfo.x86_64-5.5.53 -y 
+sudo yum install mariadb55-mariadb-devel.x86_64-5.5.53 -y 
+sudo yum install mariadb55-mariadb-libs.x86_64-5.5.53 -y 
+sudo yum install mariadb55-mariadb-server.x86_64-5.5.53 -y 
+sudo yum install mariadb55-mariadb-test.x86_64-5.5.53 -y 

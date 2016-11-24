@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:1294
 #
 # Security announcement date: 2013-10-01 16:44:31 UTC
-# Script generation date:     2016-05-12 18:11:36 UTC
+# Script generation date:     2016-11-24 21:15:37 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -31,7 +31,7 @@
 #   - condor-kbdd.x86_64:7.8.10-0.2.el6
 #   - condor-qmf.x86_64:7.8.10-0.2.el6
 #   - condor-vm-gahp.x86_64:7.8.10-0.2.el6
-#   - cumin.noarch:0.1.5797-3.el6
+#   - cumin.noarch:0.1.5797-1.el6
 #   - condor-aviary.x86_64:7.8.10-0.2.el6
 #   - condor-cluster-resource-agent.x86_64:7.8.10-0.2.el6
 #   - condor-deltacloud-gahp.x86_64:7.8.10-0.2.el6

@@ -4,30 +4,30 @@
 # Security fix for RHSA-2015:1243
 #
 # Security announcement date: 2015-07-17 08:19:23 UTC
-# Script generation date:     2016-10-20 21:21:49 UTC
+# Script generation date:     2016-11-24 21:16:51 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - java-1.6.0-sun.i686:1.6.0.101-1jpp.1.el6_6
+#   - java-1.6.0-sun-devel.i686:1.6.0.101-1jpp.1.el6_6
 #   - java-1.6.0-sun.x86_64:1.6.0.101-1jpp.1.el6_6
 #   - java-1.6.0-sun-demo.x86_64:1.6.0.101-1jpp.1.el6_6
 #   - java-1.6.0-sun-devel.x86_64:1.6.0.101-1jpp.1.el6_6
 #   - java-1.6.0-sun-jdbc.x86_64:1.6.0.101-1jpp.1.el6_6
 #   - java-1.6.0-sun-plugin.x86_64:1.6.0.101-1jpp.1.el6_6
 #   - java-1.6.0-sun-src.x86_64:1.6.0.101-1jpp.1.el6_6
-#   - java-1.6.0-sun.i686:1.6.0.101-1jpp.1.el6_6
-#   - java-1.6.0-sun-devel.i686:1.6.0.101-1jpp.1.el6_6
 #
 # Last versions recommanded by security team:
+#   - java-1.6.0-sun.i686:1.6.0.131-1jpp.1.el6_8
+#   - java-1.6.0-sun-devel.i686:1.6.0.131-1jpp.1.el6_8
 #   - java-1.6.0-sun.x86_64:1.6.0.131-1jpp.1.el6_8
 #   - java-1.6.0-sun-demo.x86_64:1.6.0.131-1jpp.1.el6_8
 #   - java-1.6.0-sun-devel.x86_64:1.6.0.131-1jpp.1.el6_8
 #   - java-1.6.0-sun-jdbc.x86_64:1.6.0.131-1jpp.1.el6_8
 #   - java-1.6.0-sun-plugin.x86_64:1.6.0.131-1jpp.1.el6_8
 #   - java-1.6.0-sun-src.x86_64:1.6.0.131-1jpp.1.el6_8
-#   - java-1.6.0-sun.i686:1.6.0.131-1jpp.1.el6_8
-#   - java-1.6.0-sun-devel.i686:1.6.0.131-1jpp.1.el6_8
 #
 # CVE List:
 #   - CVE-2015-2590
@@ -53,11 +53,11 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install java-1.6.0-sun.i686-1.6.0.131 -y 
+sudo yum install java-1.6.0-sun-devel.i686-1.6.0.131 -y 
 sudo yum install java-1.6.0-sun.x86_64-1.6.0.131 -y 
 sudo yum install java-1.6.0-sun-demo.x86_64-1.6.0.131 -y 
 sudo yum install java-1.6.0-sun-devel.x86_64-1.6.0.131 -y 
 sudo yum install java-1.6.0-sun-jdbc.x86_64-1.6.0.131 -y 
 sudo yum install java-1.6.0-sun-plugin.x86_64-1.6.0.131 -y 
 sudo yum install java-1.6.0-sun-src.x86_64-1.6.0.131 -y 
-sudo yum install java-1.6.0-sun.i686-1.6.0.131 -y 
-sudo yum install java-1.6.0-sun-devel.i686-1.6.0.131 -y 

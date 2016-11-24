@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1591
 #
 # Security announcement date: 2015-08-12 15:09:50 UTC
-# Script generation date:     2016-05-12 18:13:10 UTC
+# Script generation date:     2016-11-24 21:16:56 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -82,6 +82,7 @@
 #   - hibernate4-entitymanager.noarch:4.2.7-6.SP2_redhat_1.1.ep6.el7
 #   - hibernate4-validator.noarch:4.3.1-1.Final_redhat_1.1.ep6.el7.4
 #   - hornetq.noarch:2.3.14-1.Final_redhat_1.1.ep6.el7
+#   - hornetq.noarch:2.3.14-1.Final_redhat_1.1.ep6.el7
 #   - jackson-annotations.noarch:2.3.0-3.ep6.el7
 #   - jackson-core.noarch:2.3.0-1.ep6.el7
 #   - jackson-databind.noarch:2.3.0-2.ep6.el7
@@ -157,6 +158,7 @@
 #   - plexus-velocity.noarch:1.1.8-16.el7
 #   - qpid-java-client.noarch:0.30-3.el7
 #   - qpid-java-common.noarch:0.30-3.el7
+#   - resteasy.noarch:2.3.8-4.Final_redhat_3.1.ep6.el7
 #   - resteasy.noarch:2.3.8-4.Final_redhat_3.1.ep6.el7
 #   - ruby193-rubygem-archive-tar-minitar.noarch:0.5.2-9.el7
 #   - ruby193-rubygem-commonjs.noarch:0.2.7-1.el7
@@ -258,7 +260,8 @@
 #   - hibernate4-core.noarch:4.2.7-6.SP2_redhat_1.1.ep6.el7
 #   - hibernate4-entitymanager.noarch:4.2.7-6.SP2_redhat_1.1.ep6.el7
 #   - hibernate4-validator.noarch:4.3.1-1.Final_redhat_1.1.ep6.el7.4
-#   - hornetq.noarch:2.3.25-7.SP6_redhat_1.1.ep6.el7
+#   - hornetq.noarch:2.3.14-1.Final_redhat_1.1.ep6.el7
+#   - hornetq.noarch:2.3.14-1.Final_redhat_1.1.ep6.el7
 #   - jackson-annotations.noarch:2.3.0-3.ep6.el7
 #   - jackson-core.noarch:2.3.0-1.ep6.el7
 #   - jackson-databind.noarch:2.3.0-2.ep6.el7
@@ -334,7 +337,8 @@
 #   - plexus-velocity.noarch:1.1.8-16.el7
 #   - qpid-java-client.noarch:0.30-3.el7
 #   - qpid-java-common.noarch:0.30-3.el7
-#   - resteasy.noarch:2.3.12-1.Final_redhat_1.1.ep6.el7
+#   - resteasy.noarch:2.3.8-4.Final_redhat_3.1.ep6.el7
+#   - resteasy.noarch:2.3.8-4.Final_redhat_3.1.ep6.el7
 #   - ruby193-rubygem-archive-tar-minitar.noarch:0.5.2-9.el7
 #   - ruby193-rubygem-commonjs.noarch:0.2.7-1.el7
 #   - ruby193-rubygem-deep_cloneable.noarch:2.0.0-4.el7
@@ -447,7 +451,8 @@ sudo yum install hibernate4-c3p0.noarch-4.2.7 -y
 sudo yum install hibernate4-core.noarch-4.2.7 -y 
 sudo yum install hibernate4-entitymanager.noarch-4.2.7 -y 
 sudo yum install hibernate4-validator.noarch-4.3.1 -y 
-sudo yum install hornetq.noarch-2.3.25 -y 
+sudo yum install hornetq.noarch-2.3.14 -y 
+sudo yum install hornetq.noarch-2.3.14 -y 
 sudo yum install jackson-annotations.noarch-2.3.0 -y 
 sudo yum install jackson-core.noarch-2.3.0 -y 
 sudo yum install jackson-databind.noarch-2.3.0 -y 
@@ -523,7 +528,8 @@ sudo yum install plexus-utils.noarch-3.0.9 -y
 sudo yum install plexus-velocity.noarch-1.1.8 -y 
 sudo yum install qpid-java-client.noarch-0.30 -y 
 sudo yum install qpid-java-common.noarch-0.30 -y 
-sudo yum install resteasy.noarch-2.3.12 -y 
+sudo yum install resteasy.noarch-2.3.8 -y 
+sudo yum install resteasy.noarch-2.3.8 -y 
 sudo yum install ruby193-rubygem-archive-tar-minitar.noarch-0.5.2 -y 
 sudo yum install ruby193-rubygem-commonjs.noarch-0.2.7 -y 
 sudo yum install ruby193-rubygem-deep_cloneable.noarch-2.0.0 -y 

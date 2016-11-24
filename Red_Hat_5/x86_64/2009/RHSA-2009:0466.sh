@@ -4,16 +4,20 @@
 # Security fix for RHSA-2009:0466
 #
 # Security announcement date: 2009-05-07 12:25:29 UTC
-# Script generation date:     2016-05-12 18:09:31 UTC
+# Script generation date:     2016-11-24 21:13:56 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - java-1.5.0-ibm.i386:1.5.0.9-1jpp.2.el5
+#   - java-1.5.0-ibm-devel.i386:1.5.0.9-1jpp.2.el5
 #   - java-1.5.0-ibm.x86_64:1.5.0.9-1jpp.2.el5
 #   - java-1.5.0-ibm-devel.x86_64:1.5.0.9-1jpp.2.el5
 #
 # Last versions recommanded by security team:
+#   - java-1.5.0-ibm.i386:1.5.0.16.14-1jpp.1.el5
+#   - java-1.5.0-ibm-devel.i386:1.5.0.16.14-1jpp.1.el5
 #   - java-1.5.0-ibm.x86_64:1.5.0.16.14-1jpp.1.el5
 #   - java-1.5.0-ibm-devel.x86_64:1.5.0.16.14-1jpp.1.el5
 #
@@ -37,5 +41,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install java-1.5.0-ibm.i386-1.5.0.16.14 -y 
+sudo yum install java-1.5.0-ibm-devel.i386-1.5.0.16.14 -y 
 sudo yum install java-1.5.0-ibm.x86_64-1.5.0.16.14 -y 
 sudo yum install java-1.5.0-ibm-devel.x86_64-1.5.0.16.14 -y 

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2009:1239
 #
 # Security announcement date: 2009-09-01 09:28:38 UTC
-# Script generation date:     2016-05-12 18:09:36 UTC
+# Script generation date:     2016-11-24 21:13:59 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -26,7 +26,7 @@
 #   - kernel-rt-vanilla-devel.x86_64:2.6.24.7-132.el5rt
 #
 # Last versions recommanded by security team:
-#   - kernel-rt-doc.noarch:2.6.33.9-rt31.64.el5rt
+#   - kernel-rt-doc.noarch:2.6.24.7-132.el5rt
 #   - kernel-rt.x86_64:2.6.33.9-rt31.64.el5rt
 #   - kernel-rt-debug.x86_64:2.6.33.9-rt31.64.el5rt
 #   - kernel-rt-debug-debuginfo.x86_64:2.6.33.9-rt31.64.el5rt
@@ -42,16 +42,16 @@
 #   - kernel-rt-vanilla-devel.x86_64:2.6.33.9-rt31.64.el5rt
 #
 # CVE List:
+#   - CVE-2009-1895
 #   - CVE-2009-2692
 #   - CVE-2009-2847
 #   - CVE-2009-2848
-#   - CVE-2009-1895
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install kernel-rt-doc.noarch-2.6.33.9 -y 
+sudo yum install kernel-rt-doc.noarch-2.6.24.7 -y 
 sudo yum install kernel-rt.x86_64-2.6.33.9 -y 
 sudo yum install kernel-rt-debug.x86_64-2.6.33.9 -y 
 sudo yum install kernel-rt-debug-debuginfo.x86_64-2.6.33.9 -y 

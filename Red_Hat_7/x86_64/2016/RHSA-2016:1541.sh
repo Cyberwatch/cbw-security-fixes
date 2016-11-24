@@ -4,12 +4,13 @@
 # Security fix for RHSA-2016:1541
 #
 # Security announcement date: 2016-08-02 22:23:59 UTC
-# Script generation date:     2016-11-03 21:24:27 UTC
+# Script generation date:     2016-11-24 21:17:41 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - kernel-rt-doc.noarch:3.10.0-327.28.2.rt56.234.el7_2
 #   - kernel-rt.x86_64:3.10.0-327.28.2.rt56.234.el7_2
 #   - kernel-rt-debug.x86_64:3.10.0-327.28.2.rt56.234.el7_2
 #   - kernel-rt-debug-debuginfo.x86_64:3.10.0-327.28.2.rt56.234.el7_2
@@ -26,9 +27,9 @@
 #   - kernel-rt-trace-devel.x86_64:3.10.0-327.28.2.rt56.234.el7_2
 #   - kernel-rt-trace-kvm.x86_64:3.10.0-327.28.2.rt56.234.el7_2
 #   - kernel-rt-trace-kvm-debuginfo.x86_64:3.10.0-327.28.2.rt56.234.el7_2
-#   - kernel-rt-doc.noarch:3.10.0-327.28.2.rt56.234.el7_2
 #
 # Last versions recommanded by security team:
+#   - kernel-rt-doc.noarch:3.10.0-514.rt56.420.el7
 #   - kernel-rt.x86_64:3.10.0-514.rt56.420.el7
 #   - kernel-rt-debug.x86_64:3.10.0-514.rt56.420.el7
 #   - kernel-rt-debug-debuginfo.x86_64:3.10.0-514.rt56.420.el7
@@ -45,7 +46,6 @@
 #   - kernel-rt-trace-devel.x86_64:3.10.0-514.rt56.420.el7
 #   - kernel-rt-trace-kvm.x86_64:3.10.0-514.rt56.420.el7
 #   - kernel-rt-trace-kvm-debuginfo.x86_64:3.10.0-514.rt56.420.el7
-#   - kernel-rt-doc.noarch:3.10.0-514.rt56.420.el7
 #
 # CVE List:
 #   - CVE-2015-8660
@@ -55,6 +55,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install kernel-rt-doc.noarch-3.10.0 -y 
 sudo yum install kernel-rt.x86_64-3.10.0 -y 
 sudo yum install kernel-rt-debug.x86_64-3.10.0 -y 
 sudo yum install kernel-rt-debug-debuginfo.x86_64-3.10.0 -y 
@@ -71,4 +72,3 @@ sudo yum install kernel-rt-trace-debuginfo.x86_64-3.10.0 -y
 sudo yum install kernel-rt-trace-devel.x86_64-3.10.0 -y 
 sudo yum install kernel-rt-trace-kvm.x86_64-3.10.0 -y 
 sudo yum install kernel-rt-trace-kvm-debuginfo.x86_64-3.10.0 -y 
-sudo yum install kernel-rt-doc.noarch-3.10.0 -y 

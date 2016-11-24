@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:0562
 #
 # Security announcement date: 2013-03-06 20:02:06 UTC
-# Script generation date:     2016-05-12 18:11:14 UTC
+# Script generation date:     2016-11-24 21:15:20 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -20,17 +20,26 @@
 #   - xqilla-doc.noarch:2.2.3-8.el6
 #   - python-qpid-qmf.x86_64:0.18-15.el6
 #   - python-saslwrapper.x86_64:0.18-1.el6_3
+#   - qpid-cpp-client.i686:0.18-14.el6
 #   - qpid-cpp-client.x86_64:0.18-14.el6
+#   - qpid-cpp-client-ssl.i686:0.18-14.el6
 #   - qpid-cpp-client-ssl.x86_64:0.18-14.el6
+#   - qpid-cpp-debuginfo.i686:0.18-14.el6
 #   - qpid-cpp-debuginfo.x86_64:0.18-14.el6
+#   - qpid-cpp-server.i686:0.18-14.el6
 #   - qpid-cpp-server.x86_64:0.18-14.el6
 #   - qpid-cpp-server-ssl.x86_64:0.18-14.el6
+#   - qpid-qmf.i686:0.18-15.el6
 #   - qpid-qmf.x86_64:0.18-15.el6
+#   - qpid-qmf-debuginfo.i686:0.18-15.el6
 #   - qpid-qmf-debuginfo.x86_64:0.18-15.el6
 #   - ruby-qpid-qmf.x86_64:0.18-15.el6
 #   - ruby-saslwrapper.x86_64:0.18-1.el6_3
+#   - saslwrapper.i686:0.18-1.el6_3
 #   - saslwrapper.x86_64:0.18-1.el6_3
+#   - saslwrapper-debuginfo.i686:0.18-1.el6_3
 #   - saslwrapper-debuginfo.x86_64:0.18-1.el6_3
+#   - saslwrapper-devel.i686:0.18-1.el6_3
 #   - saslwrapper-devel.x86_64:0.18-1.el6_3
 #   - xerces-c.x86_64:3.0.1-20.el6
 #   - xerces-c-debuginfo.x86_64:3.0.1-20.el6
@@ -54,15 +63,6 @@
 #   - qpid-cpp-server-store.x86_64:0.18-14.el6
 #   - qpid-cpp-server-xml.x86_64:0.18-14.el6
 #   - qpid-qmf-devel.x86_64:0.18-15.el6
-#   - qpid-cpp-client.i686:0.18-14.el6
-#   - qpid-cpp-client-ssl.i686:0.18-14.el6
-#   - qpid-cpp-debuginfo.i686:0.18-14.el6
-#   - qpid-cpp-server.i686:0.18-14.el6
-#   - qpid-qmf.i686:0.18-15.el6
-#   - qpid-qmf-debuginfo.i686:0.18-15.el6
-#   - saslwrapper.i686:0.18-1.el6_3
-#   - saslwrapper-debuginfo.i686:0.18-1.el6_3
-#   - saslwrapper-devel.i686:0.18-1.el6_3
 #
 # Last versions recommanded by security team:
 #   - mrg-release.noarch:2.5.0-1.el6
@@ -75,17 +75,26 @@
 #   - xqilla-doc.noarch:2.2.3-8.el6
 #   - python-qpid-qmf.x86_64:0.30-5.el6
 #   - python-saslwrapper.x86_64:0.18-1.el6_3
+#   - qpid-cpp-client.i686:0.22-51.el6
 #   - qpid-cpp-client.x86_64:0.30-9.el6
+#   - qpid-cpp-client-ssl.i686:0.18-38.el6
 #   - qpid-cpp-client-ssl.x86_64:0.18-38.el6
+#   - qpid-cpp-debuginfo.i686:0.22-51.el6
 #   - qpid-cpp-debuginfo.x86_64:0.30-9.el6
+#   - qpid-cpp-server.i686:0.22-51.el6
 #   - qpid-cpp-server.x86_64:0.30-9.el6
 #   - qpid-cpp-server-ssl.x86_64:0.18-38.el6
+#   - qpid-qmf.i686:0.22-41.el6
 #   - qpid-qmf.x86_64:0.30-5.el6
+#   - qpid-qmf-debuginfo.i686:0.22-41.el6
 #   - qpid-qmf-debuginfo.x86_64:0.30-5.el6
 #   - ruby-qpid-qmf.x86_64:0.22-41.el6
 #   - ruby-saslwrapper.x86_64:0.18-1.el6_3
+#   - saslwrapper.i686:0.18-1.el6_3
 #   - saslwrapper.x86_64:0.18-1.el6_3
+#   - saslwrapper-debuginfo.i686:0.18-1.el6_3
 #   - saslwrapper-debuginfo.x86_64:0.18-1.el6_3
+#   - saslwrapper-devel.i686:0.18-1.el6_3
 #   - saslwrapper-devel.x86_64:0.18-1.el6_3
 #   - xerces-c.x86_64:3.0.1-20.el6
 #   - xerces-c-debuginfo.x86_64:3.0.1-20.el6
@@ -94,10 +103,10 @@
 #   - xqilla-debuginfo.x86_64:2.2.3-8.el6
 #   - xqilla-devel.x86_64:2.2.3-8.el6
 #   - cumin-messaging.noarch:0.1.1-2.el6
-#   - qpid-cpp-client-devel-docs.noarch:0.22-51.el6
+#   - qpid-cpp-client-devel-docs.noarch:0.18-14.el6
 #   - qpid-java-client.noarch:0.30-3.el6
 #   - qpid-java-common.noarch:0.30-3.el6
-#   - qpid-java-example.noarch:0.18-8.el6_4
+#   - qpid-java-example.noarch:0.18-7.el6
 #   - qpid-jca.noarch:0.18-8.el6
 #   - qpid-jca-xarecovery.noarch:0.18-8.el6
 #   - rhm-docs.noarch:0.18-2.el6
@@ -109,15 +118,6 @@
 #   - qpid-cpp-server-store.x86_64:0.18-38.el6
 #   - qpid-cpp-server-xml.x86_64:0.22-51.el6
 #   - qpid-qmf-devel.x86_64:0.22-41.el6
-#   - qpid-cpp-client.i686:0.22-51.el6
-#   - qpid-cpp-client-ssl.i686:0.18-38.el6
-#   - qpid-cpp-debuginfo.i686:0.22-51.el6
-#   - qpid-cpp-server.i686:0.22-51.el6
-#   - qpid-qmf.i686:0.22-41.el6
-#   - qpid-qmf-debuginfo.i686:0.22-41.el6
-#   - saslwrapper.i686:0.18-1.el6_3
-#   - saslwrapper-debuginfo.i686:0.18-1.el6_3
-#   - saslwrapper-devel.i686:0.18-1.el6_3
 #
 # CVE List:
 #   - CVE-2012-4446
@@ -138,17 +138,26 @@ sudo yum install xerces-c-doc.noarch-3.0.1 -y
 sudo yum install xqilla-doc.noarch-2.2.3 -y 
 sudo yum install python-qpid-qmf.x86_64-0.30 -y 
 sudo yum install python-saslwrapper.x86_64-0.18 -y 
+sudo yum install qpid-cpp-client.i686-0.22 -y 
 sudo yum install qpid-cpp-client.x86_64-0.30 -y 
+sudo yum install qpid-cpp-client-ssl.i686-0.18 -y 
 sudo yum install qpid-cpp-client-ssl.x86_64-0.18 -y 
+sudo yum install qpid-cpp-debuginfo.i686-0.22 -y 
 sudo yum install qpid-cpp-debuginfo.x86_64-0.30 -y 
+sudo yum install qpid-cpp-server.i686-0.22 -y 
 sudo yum install qpid-cpp-server.x86_64-0.30 -y 
 sudo yum install qpid-cpp-server-ssl.x86_64-0.18 -y 
+sudo yum install qpid-qmf.i686-0.22 -y 
 sudo yum install qpid-qmf.x86_64-0.30 -y 
+sudo yum install qpid-qmf-debuginfo.i686-0.22 -y 
 sudo yum install qpid-qmf-debuginfo.x86_64-0.30 -y 
 sudo yum install ruby-qpid-qmf.x86_64-0.22 -y 
 sudo yum install ruby-saslwrapper.x86_64-0.18 -y 
+sudo yum install saslwrapper.i686-0.18 -y 
 sudo yum install saslwrapper.x86_64-0.18 -y 
+sudo yum install saslwrapper-debuginfo.i686-0.18 -y 
 sudo yum install saslwrapper-debuginfo.x86_64-0.18 -y 
+sudo yum install saslwrapper-devel.i686-0.18 -y 
 sudo yum install saslwrapper-devel.x86_64-0.18 -y 
 sudo yum install xerces-c.x86_64-3.0.1 -y 
 sudo yum install xerces-c-debuginfo.x86_64-3.0.1 -y 
@@ -157,7 +166,7 @@ sudo yum install xqilla.x86_64-2.2.3 -y
 sudo yum install xqilla-debuginfo.x86_64-2.2.3 -y 
 sudo yum install xqilla-devel.x86_64-2.2.3 -y 
 sudo yum install cumin-messaging.noarch-0.1.1 -y 
-sudo yum install qpid-cpp-client-devel-docs.noarch-0.22 -y 
+sudo yum install qpid-cpp-client-devel-docs.noarch-0.18 -y 
 sudo yum install qpid-java-client.noarch-0.30 -y 
 sudo yum install qpid-java-common.noarch-0.30 -y 
 sudo yum install qpid-java-example.noarch-0.18 -y 
@@ -172,12 +181,3 @@ sudo yum install qpid-cpp-server-rdma.x86_64-0.22 -y
 sudo yum install qpid-cpp-server-store.x86_64-0.18 -y 
 sudo yum install qpid-cpp-server-xml.x86_64-0.22 -y 
 sudo yum install qpid-qmf-devel.x86_64-0.22 -y 
-sudo yum install qpid-cpp-client.i686-0.22 -y 
-sudo yum install qpid-cpp-client-ssl.i686-0.18 -y 
-sudo yum install qpid-cpp-debuginfo.i686-0.22 -y 
-sudo yum install qpid-cpp-server.i686-0.22 -y 
-sudo yum install qpid-qmf.i686-0.22 -y 
-sudo yum install qpid-qmf-debuginfo.i686-0.22 -y 
-sudo yum install saslwrapper.i686-0.18 -y 
-sudo yum install saslwrapper-debuginfo.i686-0.18 -y 
-sudo yum install saslwrapper-devel.i686-0.18 -y 

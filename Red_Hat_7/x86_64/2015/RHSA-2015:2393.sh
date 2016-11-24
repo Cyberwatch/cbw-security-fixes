@@ -4,28 +4,28 @@
 # Security fix for RHSA-2015:2393
 #
 # Security announcement date: 2015-11-19 21:54:58 UTC
-# Script generation date:     2016-05-12 18:13:27 UTC
+# Script generation date:     2016-11-24 21:17:11 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - wireshark.i686:1.10.14-7.el7
 #   - wireshark.x86_64:1.10.14-7.el7
+#   - wireshark-debuginfo.i686:1.10.14-7.el7
 #   - wireshark-debuginfo.x86_64:1.10.14-7.el7
 #   - wireshark-gnome.x86_64:1.10.14-7.el7
-#   - wireshark-devel.x86_64:1.10.14-7.el7
-#   - wireshark.i686:1.10.14-7.el7
-#   - wireshark-debuginfo.i686:1.10.14-7.el7
 #   - wireshark-devel.i686:1.10.14-7.el7
+#   - wireshark-devel.x86_64:1.10.14-7.el7
 #
 # Last versions recommanded by security team:
+#   - wireshark.i686:1.10.14-7.el7
 #   - wireshark.x86_64:1.10.14-7.el7
+#   - wireshark-debuginfo.i686:1.10.14-7.el7
 #   - wireshark-debuginfo.x86_64:1.10.14-7.el7
 #   - wireshark-gnome.x86_64:1.10.14-7.el7
-#   - wireshark-devel.x86_64:1.10.14-7.el7
-#   - wireshark.i686:1.10.14-7.el7
-#   - wireshark-debuginfo.i686:1.10.14-7.el7
 #   - wireshark-devel.i686:1.10.14-7.el7
+#   - wireshark-devel.x86_64:1.10.14-7.el7
 #
 # CVE List:
 #   - CVE-2014-8710
@@ -54,10 +54,10 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install wireshark.i686-1.10.14 -y 
 sudo yum install wireshark.x86_64-1.10.14 -y 
+sudo yum install wireshark-debuginfo.i686-1.10.14 -y 
 sudo yum install wireshark-debuginfo.x86_64-1.10.14 -y 
 sudo yum install wireshark-gnome.x86_64-1.10.14 -y 
-sudo yum install wireshark-devel.x86_64-1.10.14 -y 
-sudo yum install wireshark.i686-1.10.14 -y 
-sudo yum install wireshark-debuginfo.i686-1.10.14 -y 
 sudo yum install wireshark-devel.i686-1.10.14 -y 
+sudo yum install wireshark-devel.x86_64-1.10.14 -y 

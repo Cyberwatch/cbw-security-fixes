@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0780
 #
 # Security announcement date: 2016-05-10 18:58:35 UTC
-# Script generation date:     2016-08-03 21:42:40 UTC
+# Script generation date:     2016-11-24 21:17:32 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,15 +13,15 @@
 #   - ntp.x86_64:4.2.6p5-10.el6
 #   - ntp-debuginfo.x86_64:4.2.6p5-10.el6
 #   - ntpdate.x86_64:4.2.6p5-10.el6
-#   - ntp-perl.x86_64:4.2.6p5-10.el6
 #   - ntp-doc.noarch:4.2.6p5-10.el6
+#   - ntp-perl.x86_64:4.2.6p5-10.el6
 #
 # Last versions recommanded by security team:
 #   - ntp.x86_64:4.2.6p5-5.el6_7.5
 #   - ntp-debuginfo.x86_64:4.2.6p5-5.el6_7.5
 #   - ntpdate.x86_64:4.2.6p5-5.el6_7.5
-#   - ntp-perl.x86_64:4.2.6p5-5.el6_7.5
 #   - ntp-doc.noarch:4.2.6p5-5.el6_7.5
+#   - ntp-perl.x86_64:4.2.6p5-5.el6_7.5
 #
 # CVE List:
 #   - CVE-2015-5194
@@ -44,5 +44,5 @@
 sudo yum install ntp.x86_64-4.2.6p5 -y 
 sudo yum install ntp-debuginfo.x86_64-4.2.6p5 -y 
 sudo yum install ntpdate.x86_64-4.2.6p5 -y 
-sudo yum install ntp-perl.x86_64-4.2.6p5 -y 
 sudo yum install ntp-doc.noarch-4.2.6p5 -y 
+sudo yum install ntp-perl.x86_64-4.2.6p5 -y 

@@ -4,12 +4,13 @@
 # Security fix for RHSA-2016:1486
 #
 # Security announcement date: 2016-07-26 07:29:46 UTC
-# Script generation date:     2016-07-28 21:44:33 UTC
+# Script generation date:     2016-11-24 21:17:40 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - samba-common.noarch:4.2.10-7.el7_2
 #   - libsmbclient.i686:4.2.10-7.el7_2
 #   - libsmbclient.x86_64:4.2.10-7.el7_2
 #   - libwbclient.i686:4.2.10-7.el7_2
@@ -44,13 +45,13 @@
 #   - samba-test-libs.x86_64:4.2.10-7.el7_2
 #   - samba-vfs-glusterfs.x86_64:4.2.10-7.el7_2
 #   - samba-winbind-krb5-locator.x86_64:4.2.10-7.el7_2
-#   - samba-common.noarch:4.2.10-7.el7_2
 #   - ctdb.x86_64:4.2.10-7.el7_2
 #   - ctdb-devel.i686:4.2.10-7.el7_2
 #   - ctdb-devel.x86_64:4.2.10-7.el7_2
 #   - ctdb-tests.x86_64:4.2.10-7.el7_2
 #
 # Last versions recommanded by security team:
+#   - samba-common.noarch:4.2.10-7.el7_2
 #   - libsmbclient.i686:4.2.10-7.el7_2
 #   - libsmbclient.x86_64:4.2.10-7.el7_2
 #   - libwbclient.i686:4.2.10-7.el7_2
@@ -85,7 +86,6 @@
 #   - samba-test-libs.x86_64:4.2.10-7.el7_2
 #   - samba-vfs-glusterfs.x86_64:4.2.10-7.el7_2
 #   - samba-winbind-krb5-locator.x86_64:4.2.10-7.el7_2
-#   - samba-common.noarch:4.2.10-7.el7_2
 #   - ctdb.x86_64:4.2.10-7.el7_2
 #   - ctdb-devel.i686:4.2.10-7.el7_2
 #   - ctdb-devel.x86_64:4.2.10-7.el7_2
@@ -98,6 +98,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install samba-common.noarch-4.2.10 -y 
 sudo yum install libsmbclient.i686-4.2.10 -y 
 sudo yum install libsmbclient.x86_64-4.2.10 -y 
 sudo yum install libwbclient.i686-4.2.10 -y 
@@ -132,7 +133,6 @@ sudo yum install samba-test-libs.i686-4.2.10 -y
 sudo yum install samba-test-libs.x86_64-4.2.10 -y 
 sudo yum install samba-vfs-glusterfs.x86_64-4.2.10 -y 
 sudo yum install samba-winbind-krb5-locator.x86_64-4.2.10 -y 
-sudo yum install samba-common.noarch-4.2.10 -y 
 sudo yum install ctdb.x86_64-4.2.10 -y 
 sudo yum install ctdb-devel.i686-4.2.10 -y 
 sudo yum install ctdb-devel.x86_64-4.2.10 -y 

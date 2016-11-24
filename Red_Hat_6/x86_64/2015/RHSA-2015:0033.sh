@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:0033
 #
 # Security announcement date: 2015-01-12 17:42:12 UTC
-# Script generation date:     2016-11-07 21:20:12 UTC
+# Script generation date:     2016-11-24 21:16:29 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -22,11 +22,14 @@
 #   - scl-utils-debuginfo.x86_64:20120927-11.el6_5
 #   - antlr.noarch:2.7.7-7.ep5.el6
 #   - apache-commons-beanutils.noarch:1.8.3-10.redhat_2.ep6.el6
+#   - apache-commons-beanutils.noarch:1.8.3-10.redhat_2.ep6.el6
+#   - apache-commons-cli.noarch:1.2-7.5.redhat_2.ep6.el6.4
 #   - apache-commons-cli.noarch:1.2-7.5.redhat_2.ep6.el6.4
 #   - c3p0.noarch:0.9.1.2-2.ep5.el6
 #   - cglib.noarch:2.2-5.6.ep5.el6
 #   - concurrent.noarch:1.3.4-10.1.5_jboss_update1.ep5.el6
 #   - dom4j.noarch:1.6.1-11.1.ep5.el6
+#   - glassfish-jsf.noarch:1.2_13-3.1.4.ep5.el6
 #   - glassfish-jsf.noarch:1.2_13-3.1.4.ep5.el6
 #   - hibernate3.noarch:3.3.2-1.3.GA_CP04.ep5.el6
 #   - jakarta-commons-chain.noarch:1.2-2.2.2.ep5.el6
@@ -40,8 +43,11 @@
 #   - jakarta-commons-parent.noarch:11-2.1.2.ep5.el6
 #   - jakarta-commons-validator.noarch:1.3.1-7.5.2.ep5.el6
 #   - jakarta-taglibs-standard.noarch:1.1.1-12.ep5.el6
+#   - jakarta-taglibs-standard.noarch:1.1.1-12.ep5.el6
 #   - javassist.noarch:3.12.0-6.SP1.ep5.el6
 #   - jboss-javaee-poms.noarch:5.0.1-2.9.ep5.el6
+#   - jboss-javaee-poms.noarch:5.0.1-2.9.ep5.el6
+#   - jboss-transaction-1.0.1-api.noarch:5.0.1-2.9.ep5.el6
 #   - jboss-transaction-1.0.1-api.noarch:5.0.1-2.9.ep5.el6
 #   - jcommon.noarch:1.0.16-1.2.2.ep5.el6
 #   - jdom.noarch:1.1.1-1.el6
@@ -84,13 +90,16 @@
 #   - scl-utils.x86_64:20120927-11.el6_5
 #   - scl-utils-debuginfo.x86_64:20120927-11.el6_5
 #   - antlr.noarch:2.7.7-7.ep5.el6
-#   - apache-commons-beanutils.noarch:1.8.3-13.redhat_6.1.ep6.el6
-#   - apache-commons-cli.noarch:1.2-8.redhat_3.1.ep6.el6
+#   - apache-commons-beanutils.noarch:1.8.3-10.redhat_2.ep6.el6
+#   - apache-commons-beanutils.noarch:1.8.3-10.redhat_2.ep6.el6
+#   - apache-commons-cli.noarch:1.2-7.5.redhat_2.ep6.el6.4
+#   - apache-commons-cli.noarch:1.2-7.5.redhat_2.ep6.el6.4
 #   - c3p0.noarch:0.9.1.2-2.ep5.el6
 #   - cglib.noarch:2.2-5.6.ep5.el6
 #   - concurrent.noarch:1.3.4-10.1.5_jboss_update1.ep5.el6
 #   - dom4j.noarch:1.6.1-11.8_redhat_1.ep6.el6.1
-#   - glassfish-jsf.noarch:2.1.19-2.redhat_1.ep6.el6
+#   - glassfish-jsf.noarch:1.2_13-3.1.4.ep5.el6
+#   - glassfish-jsf.noarch:1.2_13-3.1.4.ep5.el6
 #   - hibernate3.noarch:3.3.2-1.3.GA_CP04.ep5.el6
 #   - jakarta-commons-chain.noarch:1.2-2.2.2.ep5.el6
 #   - jakarta-commons-digester.noarch:1.8.1-8.1.1.1.ep5.el6
@@ -102,10 +111,13 @@
 #   - jakarta-commons-logging-jboss.noarch:1.1-10.3_patch_02.1.ep5.el6
 #   - jakarta-commons-parent.noarch:11-2.1.2.ep5.el6
 #   - jakarta-commons-validator.noarch:1.3.1-7.5.2.ep5.el6
-#   - jakarta-taglibs-standard.noarch:1.1.1-11.7.el6_7
+#   - jakarta-taglibs-standard.noarch:1.1.1-12.ep5.el6
+#   - jakarta-taglibs-standard.noarch:1.1.1-12.ep5.el6
 #   - javassist.noarch:3.12.1-1.ep6.el6
-#   - jboss-javaee-poms.noarch:5.0.2-2.ep5.el6
-#   - jboss-transaction-1.0.1-api.noarch:5.0.2-2.ep5.el6
+#   - jboss-javaee-poms.noarch:5.0.1-2.9.ep5.el6
+#   - jboss-javaee-poms.noarch:5.0.1-2.9.ep5.el6
+#   - jboss-transaction-1.0.1-api.noarch:5.0.1-2.9.ep5.el6
+#   - jboss-transaction-1.0.1-api.noarch:5.0.1-2.9.ep5.el6
 #   - jcommon.noarch:1.0.16-1.2.2.ep5.el6
 #   - jdom.noarch:1.1.1-1.el6
 #   - jfreechart.noarch:1.0.13-2.3.2.1.1.ep5.el6
@@ -155,12 +167,15 @@ sudo yum install scl-utils.x86_64-20120927 -y
 sudo yum install scl-utils-debuginfo.x86_64-20120927 -y 
 sudo yum install antlr.noarch-2.7.7 -y 
 sudo yum install apache-commons-beanutils.noarch-1.8.3 -y 
+sudo yum install apache-commons-beanutils.noarch-1.8.3 -y 
+sudo yum install apache-commons-cli.noarch-1.2 -y 
 sudo yum install apache-commons-cli.noarch-1.2 -y 
 sudo yum install c3p0.noarch-0.9.1.2 -y 
 sudo yum install cglib.noarch-2.2 -y 
 sudo yum install concurrent.noarch-1.3.4 -y 
 sudo yum install dom4j.noarch-1.6.1 -y 
-sudo yum install glassfish-jsf.noarch-2.1.19 -y 
+sudo yum install glassfish-jsf.noarch-1.2_13 -y 
+sudo yum install glassfish-jsf.noarch-1.2_13 -y 
 sudo yum install hibernate3.noarch-3.3.2 -y 
 sudo yum install jakarta-commons-chain.noarch-1.2 -y 
 sudo yum install jakarta-commons-digester.noarch-1.8.1 -y 
@@ -173,9 +188,12 @@ sudo yum install jakarta-commons-logging-jboss.noarch-1.1 -y
 sudo yum install jakarta-commons-parent.noarch-11 -y 
 sudo yum install jakarta-commons-validator.noarch-1.3.1 -y 
 sudo yum install jakarta-taglibs-standard.noarch-1.1.1 -y 
+sudo yum install jakarta-taglibs-standard.noarch-1.1.1 -y 
 sudo yum install javassist.noarch-3.12.1 -y 
-sudo yum install jboss-javaee-poms.noarch-5.0.2 -y 
-sudo yum install jboss-transaction-1.0.1-api.noarch-5.0.2 -y 
+sudo yum install jboss-javaee-poms.noarch-5.0.1 -y 
+sudo yum install jboss-javaee-poms.noarch-5.0.1 -y 
+sudo yum install jboss-transaction-1.0.1-api.noarch-5.0.1 -y 
+sudo yum install jboss-transaction-1.0.1-api.noarch-5.0.1 -y 
 sudo yum install jcommon.noarch-1.0.16 -y 
 sudo yum install jdom.noarch-1.1.1 -y 
 sudo yum install jfreechart.noarch-1.0.13 -y 

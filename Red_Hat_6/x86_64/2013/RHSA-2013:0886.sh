@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:0886
 #
 # Security announcement date: 2013-06-10 21:01:12 UTC
-# Script generation date:     2016-05-12 18:11:27 UTC
+# Script generation date:     2016-11-24 21:15:30 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,17 +17,21 @@
 #   - vdsm.x86_64:4.10.2-22.0.el6ev
 #   - vdsm-debuginfo.x86_64:4.10.2-22.0.el6ev
 #   - vdsm-python.x86_64:4.10.2-22.0.el6ev
+#   - vdsm-python.x86_64:4.10.2-22.0.el6ev
+#   - vdsm-bootstrap.noarch:4.10.2-22.0.el6ev
 #   - vdsm-bootstrap.noarch:4.10.2-22.0.el6ev
 #
 # Last versions recommanded by security team:
 #   - vdsm-cli.noarch:4.16.20-1.3.el6rhs
-#   - vdsm-hook-vhostmd.noarch:4.10.2-22.0.el6ev
+#   - vdsm-hook-vhostmd.noarch:4.9.6-20.el6rhs
 #   - vdsm-reg.noarch:4.16.20-1.3.el6rhs
 #   - vdsm-xmlrpc.noarch:4.16.20-1.3.el6rhs
 #   - vdsm.x86_64:4.16.20-1.3.el6rhs
 #   - vdsm-debuginfo.x86_64:4.16.20-1.3.el6rhs
 #   - vdsm-python.x86_64:4.10.2-22.0.el6ev
-#   - vdsm-bootstrap.noarch:4.10.2-24.0.el6ev
+#   - vdsm-python.x86_64:4.10.2-22.0.el6ev
+#   - vdsm-bootstrap.noarch:4.10.2-22.0.el6ev
+#   - vdsm-bootstrap.noarch:4.10.2-22.0.el6ev
 #
 # CVE List:
 #   - CVE-2013-0167
@@ -37,10 +41,12 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install vdsm-cli.noarch-4.16.20 -y 
-sudo yum install vdsm-hook-vhostmd.noarch-4.10.2 -y 
+sudo yum install vdsm-hook-vhostmd.noarch-4.9.6 -y 
 sudo yum install vdsm-reg.noarch-4.16.20 -y 
 sudo yum install vdsm-xmlrpc.noarch-4.16.20 -y 
 sudo yum install vdsm.x86_64-4.16.20 -y 
 sudo yum install vdsm-debuginfo.x86_64-4.16.20 -y 
 sudo yum install vdsm-python.x86_64-4.10.2 -y 
+sudo yum install vdsm-python.x86_64-4.10.2 -y 
+sudo yum install vdsm-bootstrap.noarch-4.10.2 -y 
 sudo yum install vdsm-bootstrap.noarch-4.10.2 -y 

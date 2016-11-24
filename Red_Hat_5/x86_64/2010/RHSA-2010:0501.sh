@@ -4,12 +4,21 @@
 # Security fix for RHSA-2010:0501
 #
 # Security announcement date: 2010-06-22 22:34:55 UTC
-# Script generation date:     2016-11-16 21:15:24 UTC
+# Script generation date:     2016-11-24 21:14:11 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - devhelp.i386:0.12-21.el5
+#   - devhelp-debuginfo.i386:0.12-21.el5
+#   - firefox.i386:3.6.4-8.el5
+#   - firefox-debuginfo.i386:3.6.4-8.el5
+#   - totem.i386:2.16.7-7.el5
+#   - totem-debuginfo.i386:2.16.7-7.el5
+#   - xulrunner.i386:1.9.2.4-9.el5
+#   - xulrunner-debuginfo.i386:1.9.2.4-9.el5
+#   - xulrunner-devel.i386:1.9.2.4-9.el5
 #   - devhelp.x86_64:0.12-21.el5
 #   - devhelp-debuginfo.x86_64:0.12-21.el5
 #   - esc.x86_64:1.1.0-12.el5
@@ -29,22 +38,22 @@
 #   - xulrunner-debuginfo.x86_64:1.9.2.4-9.el5
 #   - yelp.x86_64:2.16.0-26.el5
 #   - yelp-debuginfo.x86_64:2.16.0-26.el5
+#   - devhelp-devel.i386:0.12-21.el5
+#   - totem-devel.i386:2.16.7-7.el5
 #   - devhelp-devel.x86_64:0.12-21.el5
 #   - totem-devel.x86_64:2.16.7-7.el5
 #   - xulrunner-devel.x86_64:1.9.2.4-9.el5
-#   - devhelp.i386:0.12-21.el5
-#   - devhelp-debuginfo.i386:0.12-21.el5
-#   - firefox.i386:3.6.4-8.el5
-#   - firefox-debuginfo.i386:3.6.4-8.el5
-#   - totem.i386:2.16.7-7.el5
-#   - totem-debuginfo.i386:2.16.7-7.el5
-#   - xulrunner.i386:1.9.2.4-9.el5
-#   - xulrunner-debuginfo.i386:1.9.2.4-9.el5
-#   - devhelp-devel.i386:0.12-21.el5
-#   - totem-devel.i386:2.16.7-7.el5
-#   - xulrunner-devel.i386:1.9.2.4-9.el5
 #
 # Last versions recommanded by security team:
+#   - devhelp.i386:0.12-21.el5
+#   - devhelp-debuginfo.i386:0.12-21.el5
+#   - firefox.i386:45.5.0-1.el5_11
+#   - firefox-debuginfo.i386:45.5.0-1.el5_11
+#   - totem.i386:2.16.7-7.el5
+#   - totem-debuginfo.i386:2.16.7-7.el5
+#   - xulrunner.i386:17.0.10-1.el5_10
+#   - xulrunner-debuginfo.i386:17.0.10-1.el5_10
+#   - xulrunner-devel.i386:17.0.10-1.el5_10
 #   - devhelp.x86_64:0.12-21.el5
 #   - devhelp-debuginfo.x86_64:0.12-21.el5
 #   - esc.x86_64:1.1.0-12.el5
@@ -64,20 +73,11 @@
 #   - xulrunner-debuginfo.x86_64:17.0.10-1.el5_10
 #   - yelp.x86_64:2.16.0-26.el5
 #   - yelp-debuginfo.x86_64:2.16.0-26.el5
+#   - devhelp-devel.i386:0.12-21.el5
+#   - totem-devel.i386:2.16.7-7.el5
 #   - devhelp-devel.x86_64:0.12-21.el5
 #   - totem-devel.x86_64:2.16.7-7.el5
 #   - xulrunner-devel.x86_64:17.0.10-1.el5_10
-#   - devhelp.i386:0.12-21.el5
-#   - devhelp-debuginfo.i386:0.12-21.el5
-#   - firefox.i386:45.5.0-1.el5_11
-#   - firefox-debuginfo.i386:45.5.0-1.el5_11
-#   - totem.i386:2.16.7-7.el5
-#   - totem-debuginfo.i386:2.16.7-7.el5
-#   - xulrunner.i386:17.0.10-1.el5_10
-#   - xulrunner-debuginfo.i386:17.0.10-1.el5_10
-#   - devhelp-devel.i386:0.12-21.el5
-#   - totem-devel.i386:2.16.7-7.el5
-#   - xulrunner-devel.i386:17.0.10-1.el5_10
 #
 # CVE List:
 #   - CVE-2008-5913
@@ -96,6 +96,15 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install devhelp.i386-0.12 -y 
+sudo yum install devhelp-debuginfo.i386-0.12 -y 
+sudo yum install firefox.i386-45.5.0 -y 
+sudo yum install firefox-debuginfo.i386-45.5.0 -y 
+sudo yum install totem.i386-2.16.7 -y 
+sudo yum install totem-debuginfo.i386-2.16.7 -y 
+sudo yum install xulrunner.i386-17.0.10 -y 
+sudo yum install xulrunner-debuginfo.i386-17.0.10 -y 
+sudo yum install xulrunner-devel.i386-17.0.10 -y 
 sudo yum install devhelp.x86_64-0.12 -y 
 sudo yum install devhelp-debuginfo.x86_64-0.12 -y 
 sudo yum install esc.x86_64-1.1.0 -y 
@@ -115,17 +124,8 @@ sudo yum install xulrunner.x86_64-17.0.10 -y
 sudo yum install xulrunner-debuginfo.x86_64-17.0.10 -y 
 sudo yum install yelp.x86_64-2.16.0 -y 
 sudo yum install yelp-debuginfo.x86_64-2.16.0 -y 
+sudo yum install devhelp-devel.i386-0.12 -y 
+sudo yum install totem-devel.i386-2.16.7 -y 
 sudo yum install devhelp-devel.x86_64-0.12 -y 
 sudo yum install totem-devel.x86_64-2.16.7 -y 
 sudo yum install xulrunner-devel.x86_64-17.0.10 -y 
-sudo yum install devhelp.i386-0.12 -y 
-sudo yum install devhelp-debuginfo.i386-0.12 -y 
-sudo yum install firefox.i386-45.5.0 -y 
-sudo yum install firefox-debuginfo.i386-45.5.0 -y 
-sudo yum install totem.i386-2.16.7 -y 
-sudo yum install totem-debuginfo.i386-2.16.7 -y 
-sudo yum install xulrunner.i386-17.0.10 -y 
-sudo yum install xulrunner-debuginfo.i386-17.0.10 -y 
-sudo yum install devhelp-devel.i386-0.12 -y 
-sudo yum install totem-devel.i386-2.16.7 -y 
-sudo yum install xulrunner-devel.i386-17.0.10 -y 

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:1205
 #
 # Security announcement date: 2013-09-04 19:02:13 UTC
-# Script generation date:     2016-05-12 18:11:33 UTC
+# Script generation date:     2016-11-24 21:15:35 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -20,7 +20,7 @@
 #   - glusterfs-server.x86_64:3.3.0.14rhs-1.el6rhs
 #
 # Last versions recommanded by security team:
-#   - appliance-base.noarch:2.0.6.0-2.el6rhs
+#   - appliance-base.noarch:1.7.1-1.el6rhs
 #   - glusterfs.x86_64:3.7.1-16.el6
 #   - glusterfs-debuginfo.x86_64:3.7.1-16.el6
 #   - glusterfs-devel.x86_64:3.7.1-16.el6
@@ -36,7 +36,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install appliance-base.noarch-2.0.6.0 -y 
+sudo yum install appliance-base.noarch-1.7.1 -y 
 sudo yum install glusterfs.x86_64-3.7.1 -y 
 sudo yum install glusterfs-debuginfo.x86_64-3.7.1 -y 
 sudo yum install glusterfs-devel.x86_64-3.7.1 -y 

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1495
 #
 # Security announcement date: 2015-07-29 05:44:17 UTC
-# Script generation date:     2016-11-08 21:17:40 UTC
+# Script generation date:     2016-11-24 21:16:55 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -45,6 +45,8 @@
 #   - python-eventlet.noarch:0.14.0-1.el6
 #   - python-eventlet-doc.noarch:0.14.0-1.el6
 #   - python-keystoneclient.noarch:0.9.0-5.el6ost
+#   - python-keystoneclient.noarch:0.9.0-5.el6ost
+#   - python-keystoneclient-doc.noarch:0.9.0-5.el6ost
 #   - python-keystoneclient-doc.noarch:0.9.0-5.el6ost
 #   - python-prettytable.noarch:0.7.2-1.el6
 #   - python-pyudev.noarch:0.15-2.el6rhs
@@ -190,17 +192,19 @@
 #   - clufter-lib-ccs.noarch:0.11.2-1.el6
 #   - clufter-lib-general.noarch:0.11.2-1.el6
 #   - clufter-lib-pcs.noarch:0.11.2-1.el6
-#   - openstack-swift.noarch:1.13.1-7.el6ost
-#   - openstack-swift-account.noarch:1.13.1-7.el6ost
-#   - openstack-swift-container.noarch:1.13.1-7.el6ost
-#   - openstack-swift-doc.noarch:1.13.1-7.el6ost
-#   - openstack-swift-object.noarch:1.13.1-7.el6ost
-#   - openstack-swift-proxy.noarch:1.13.1-7.el6ost
+#   - openstack-swift.noarch:1.13.1-6.el6ost
+#   - openstack-swift-account.noarch:1.13.1-6.el6ost
+#   - openstack-swift-container.noarch:1.13.1-6.el6ost
+#   - openstack-swift-doc.noarch:1.13.1-6.el6ost
+#   - openstack-swift-object.noarch:1.13.1-6.el6ost
+#   - openstack-swift-proxy.noarch:1.13.1-6.el6ost
 #   - python-blivet.noarch:1.0.0.2-1.el6rhs
 #   - python-eventlet.noarch:0.14.0-1.el6
 #   - python-eventlet-doc.noarch:0.14.0-1.el6
-#   - python-keystoneclient.noarch:0.9.0-6.el6ost
-#   - python-keystoneclient-doc.noarch:0.9.0-6.el6ost
+#   - python-keystoneclient.noarch:0.9.0-5.el6ost
+#   - python-keystoneclient.noarch:0.9.0-5.el6ost
+#   - python-keystoneclient-doc.noarch:0.9.0-5.el6ost
+#   - python-keystoneclient-doc.noarch:0.9.0-5.el6ost
 #   - python-prettytable.noarch:0.7.2-1.el6
 #   - python-pyudev.noarch:0.15-2.el6rhs
 #   - redhat-storage-logos.noarch:60.0.20-1.el6rhs
@@ -364,6 +368,8 @@ sudo yum install python-blivet.noarch-1.0.0.2 -y
 sudo yum install python-eventlet.noarch-0.14.0 -y 
 sudo yum install python-eventlet-doc.noarch-0.14.0 -y 
 sudo yum install python-keystoneclient.noarch-0.9.0 -y 
+sudo yum install python-keystoneclient.noarch-0.9.0 -y 
+sudo yum install python-keystoneclient-doc.noarch-0.9.0 -y 
 sudo yum install python-keystoneclient-doc.noarch-0.9.0 -y 
 sudo yum install python-prettytable.noarch-0.7.2 -y 
 sudo yum install python-pyudev.noarch-0.15 -y 

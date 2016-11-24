@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1564
 #
 # Security announcement date: 2015-08-06 02:48:43 UTC
-# Script generation date:     2016-10-26 21:20:02 UTC
+# Script generation date:     2016-11-24 21:16:56 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -27,8 +27,8 @@
 #   - kernel-rt-vanilla-devel.x86_64:3.10.0-229.rt56.158.el6rt
 #
 # Last versions recommanded by security team:
-#   - kernel-rt-doc.noarch:3.10.0-327.rt56.170.el6rt
-#   - kernel-rt-firmware.noarch:3.10.0-327.rt56.170.el6rt
+#   - kernel-rt-doc.noarch:3.10.0-229.rt56.158.el6rt
+#   - kernel-rt-firmware.noarch:3.10.0-229.rt56.158.el6rt
 #   - kernel-rt.x86_64:3.10.0-327.rt56.198.el6rt
 #   - kernel-rt-debug.x86_64:3.10.0-327.rt56.198.el6rt
 #   - kernel-rt-debug-debuginfo.x86_64:3.10.0-327.rt56.198.el6rt

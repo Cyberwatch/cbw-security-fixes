@@ -4,26 +4,26 @@
 # Security fix for RHSA-2013:1509
 #
 # Security announcement date: 2013-11-07 17:09:51 UTC
-# Script generation date:     2016-05-12 18:11:38 UTC
+# Script generation date:     2016-11-24 21:15:41 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - java-1.5.0-ibm-devel.i686:1.5.0.16.4-1jpp.1.el6_4
 #   - java-1.5.0-ibm.x86_64:1.5.0.16.4-1jpp.1.el6_4
 #   - java-1.5.0-ibm-demo.x86_64:1.5.0.16.4-1jpp.1.el6_4
 #   - java-1.5.0-ibm-devel.x86_64:1.5.0.16.4-1jpp.1.el6_4
 #   - java-1.5.0-ibm-javacomm.x86_64:1.5.0.16.4-1jpp.1.el6_4
 #   - java-1.5.0-ibm-src.x86_64:1.5.0.16.4-1jpp.1.el6_4
-#   - java-1.5.0-ibm-devel.i686:1.5.0.16.4-1jpp.1.el6_4
 #
 # Last versions recommanded by security team:
+#   - java-1.5.0-ibm-devel.i686:1.5.0.16.10-1jpp.1.el6_6
 #   - java-1.5.0-ibm.x86_64:1.5.0.16.14-1jpp.1.el6_7
 #   - java-1.5.0-ibm-demo.x86_64:1.5.0.16.14-1jpp.1.el6_7
 #   - java-1.5.0-ibm-devel.x86_64:1.5.0.16.14-1jpp.1.el6_7
 #   - java-1.5.0-ibm-javacomm.x86_64:1.5.0.16.14-1jpp.1.el6_7
 #   - java-1.5.0-ibm-src.x86_64:1.5.0.16.14-1jpp.1.el6_7
-#   - java-1.5.0-ibm-devel.i686:1.5.0.16.10-1jpp.1.el6_6
 #
 # CVE List:
 #   - CVE-2013-3829
@@ -56,9 +56,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install java-1.5.0-ibm-devel.i686-1.5.0.16.10 -y 
 sudo yum install java-1.5.0-ibm.x86_64-1.5.0.16.14 -y 
 sudo yum install java-1.5.0-ibm-demo.x86_64-1.5.0.16.14 -y 
 sudo yum install java-1.5.0-ibm-devel.x86_64-1.5.0.16.14 -y 
 sudo yum install java-1.5.0-ibm-javacomm.x86_64-1.5.0.16.14 -y 
 sudo yum install java-1.5.0-ibm-src.x86_64-1.5.0.16.14 -y 
-sudo yum install java-1.5.0-ibm-devel.i686-1.5.0.16.10 -y 

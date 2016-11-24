@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:1282
 #
 # Security announcement date: 2012-09-19 18:15:05 UTC
-# Script generation date:     2016-10-26 21:17:43 UTC
+# Script generation date:     2016-11-24 21:15:07 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -29,9 +29,9 @@
 #   - kernel-rt-vanilla-devel.x86_64:3.2.23-rt37.56.el6rt
 #
 # Last versions recommanded by security team:
-#   - kernel-rt-doc.noarch:3.10.0-327.rt56.170.el6rt
-#   - kernel-rt-firmware.noarch:3.10.0-327.rt56.170.el6rt
-#   - mrg-rt-release.noarch:3.8.13-rt14.25.el6rt
+#   - kernel-rt-doc.noarch:3.2.23-rt37.56.el6rt
+#   - kernel-rt-firmware.noarch:3.2.23-rt37.56.el6rt
+#   - mrg-rt-release.noarch:3.2.23-rt37.56.el6rt
 #   - rt-firmware.noarch:1.0-3.el6_3
 #   - kernel-rt.x86_64:3.10.0-327.rt56.198.el6rt
 #   - kernel-rt-debug.x86_64:3.10.0-327.rt56.198.el6rt
@@ -54,9 +54,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install kernel-rt-doc.noarch-3.10.0 -y 
-sudo yum install kernel-rt-firmware.noarch-3.10.0 -y 
-sudo yum install mrg-rt-release.noarch-3.8.13 -y 
+sudo yum install kernel-rt-doc.noarch-3.2.23 -y 
+sudo yum install kernel-rt-firmware.noarch-3.2.23 -y 
+sudo yum install mrg-rt-release.noarch-3.2.23 -y 
 sudo yum install rt-firmware.noarch-1.0 -y 
 sudo yum install kernel-rt.x86_64-3.10.0 -y 
 sudo yum install kernel-rt-debug.x86_64-3.10.0 -y 

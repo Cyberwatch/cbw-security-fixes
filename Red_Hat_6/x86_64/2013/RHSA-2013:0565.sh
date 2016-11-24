@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:0565
 #
 # Security announcement date: 2013-03-06 20:03:44 UTC
-# Script generation date:     2016-05-12 18:11:15 UTC
+# Script generation date:     2016-11-24 21:15:21 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -74,14 +74,14 @@
 #   - sesame-debuginfo.x86_64:1.0-8.el6
 #   - condor-ec2-enhanced.noarch:1.3.0-2.el6
 #   - condor-ec2-enhanced-hooks.noarch:1.3.0-3.el6
-#   - cumin.noarch:0.1.5797-3.el6
+#   - cumin.noarch:0.1.5797-1.el6
 #   - deltacloud-core.noarch:0.5.0-11.el6cf
 #   - deltacloud-core-doc.noarch:0.5.0-11.el6cf
 #   - deltacloud-core-rhevm.noarch:0.5.0-11.el6cf
 #   - python-condorec2e.noarch:1.3.0-3.el6
 #   - python-wallaby.noarch:0.16.3-1.el6
 #   - rubygem-nokogiri-doc.noarch:1.5.0-0.9.beta4.el6cf
-#   - rubygem-rack.noarch:1.3.0-4.el6cf
+#   - rubygem-rack.noarch:1.3.0-4.el6op
 #   - wallaby.noarch:0.16.3-1.el6
 #   - condor-aviary.x86_64:7.8.10-0.2.el6
 #   - condor-cluster-resource-agent.x86_64:7.8.10-0.2.el6

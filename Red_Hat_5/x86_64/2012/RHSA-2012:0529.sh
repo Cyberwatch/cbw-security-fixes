@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:0529
 #
 # Security announcement date: 2012-04-30 18:01:14 UTC
-# Script generation date:     2016-05-12 18:10:46 UTC
+# Script generation date:     2016-11-24 21:15:01 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -56,14 +56,14 @@
 #   - condor-vm-gahp.x86_64:7.8.9-0.11.el5
 #   - sesame.x86_64:1.0-7.el5
 #   - sesame-debuginfo.x86_64:1.0-7.el5
-#   - python-qpid.noarch:0.18-4.el5
-#   - qpid-java-client.noarch:0.18-7.el5
-#   - qpid-java-common.noarch:0.18-7.el5
-#   - qpid-java-example.noarch:0.18-7.el5
-#   - qpid-jca.noarch:0.18-8.el5
-#   - qpid-jca-xarecovery.noarch:0.18-8.el5
-#   - qpid-tests.noarch:0.18-2.el5
-#   - qpid-tools.noarch:0.18-8.el5
+#   - python-qpid.noarch:0.14-6.el5
+#   - qpid-java-client.noarch:0.14-3.el5
+#   - qpid-java-common.noarch:0.14-3.el5
+#   - qpid-java-example.noarch:0.14-3.el5
+#   - qpid-jca.noarch:0.14-9.el5
+#   - qpid-jca-xarecovery.noarch:0.14-9.el5
+#   - qpid-tests.noarch:0.14-1.el5
+#   - qpid-tools.noarch:0.14-2.el5
 #   - python-qpid-qmf.x86_64:0.18-15.el5
 #   - qpid-cpp-client.x86_64:0.18-38.el5_10
 #   - qpid-cpp-client-devel.x86_64:0.18-38.el5_10
@@ -99,14 +99,14 @@ sudo yum install condor-qmf.x86_64-7.8.9 -y
 sudo yum install condor-vm-gahp.x86_64-7.8.9 -y 
 sudo yum install sesame.x86_64-1.0 -y 
 sudo yum install sesame-debuginfo.x86_64-1.0 -y 
-sudo yum install python-qpid.noarch-0.18 -y 
-sudo yum install qpid-java-client.noarch-0.18 -y 
-sudo yum install qpid-java-common.noarch-0.18 -y 
-sudo yum install qpid-java-example.noarch-0.18 -y 
-sudo yum install qpid-jca.noarch-0.18 -y 
-sudo yum install qpid-jca-xarecovery.noarch-0.18 -y 
-sudo yum install qpid-tests.noarch-0.18 -y 
-sudo yum install qpid-tools.noarch-0.18 -y 
+sudo yum install python-qpid.noarch-0.14 -y 
+sudo yum install qpid-java-client.noarch-0.14 -y 
+sudo yum install qpid-java-common.noarch-0.14 -y 
+sudo yum install qpid-java-example.noarch-0.14 -y 
+sudo yum install qpid-jca.noarch-0.14 -y 
+sudo yum install qpid-jca-xarecovery.noarch-0.14 -y 
+sudo yum install qpid-tests.noarch-0.14 -y 
+sudo yum install qpid-tools.noarch-0.14 -y 
 sudo yum install python-qpid-qmf.x86_64-0.18 -y 
 sudo yum install qpid-cpp-client.x86_64-0.18 -y 
 sudo yum install qpid-cpp-client-devel.x86_64-0.18 -y 

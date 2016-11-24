@@ -4,7 +4,7 @@
 # Security fix for RHSA-2010:0439
 #
 # Security announcement date: 2010-05-25 16:06:47 UTC
-# Script generation date:     2016-10-31 21:17:38 UTC
+# Script generation date:     2016-11-24 21:14:10 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -24,7 +24,7 @@
 #   - kernel-xen-devel.x86_64:2.6.18-128.17.1.el5
 #
 # Last versions recommanded by security team:
-#   - kernel-doc.noarch:2.6.18-408.el5
+#   - kernel-doc.noarch:2.6.18-128.17.1.el5
 #   - kernel.x86_64:2.6.18-238.57.1.el5
 #   - kernel-debug.x86_64:2.6.18-238.57.1.el5
 #   - kernel-debug-debuginfo.x86_64:2.6.18-238.57.1.el5

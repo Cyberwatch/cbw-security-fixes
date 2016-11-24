@@ -4,12 +4,13 @@
 # Security fix for RHSA-2016:1875
 #
 # Security announcement date: 2016-09-15 10:05:30 UTC
-# Script generation date:     2016-11-03 21:24:33 UTC
+# Script generation date:     2016-11-24 21:17:48 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - kernel-rt-doc.noarch:3.10.0-327.36.1.rt56.237.el7
 #   - kernel-rt.x86_64:3.10.0-327.36.1.rt56.237.el7
 #   - kernel-rt-debug.x86_64:3.10.0-327.36.1.rt56.237.el7
 #   - kernel-rt-debug-debuginfo.x86_64:3.10.0-327.36.1.rt56.237.el7
@@ -26,9 +27,9 @@
 #   - kernel-rt-trace-devel.x86_64:3.10.0-327.36.1.rt56.237.el7
 #   - kernel-rt-trace-kvm.x86_64:3.10.0-327.36.1.rt56.237.el7
 #   - kernel-rt-trace-kvm-debuginfo.x86_64:3.10.0-327.36.1.rt56.237.el7
-#   - kernel-rt-doc.noarch:3.10.0-327.36.1.rt56.237.el7
 #
 # Last versions recommanded by security team:
+#   - kernel-rt-doc.noarch:3.10.0-514.rt56.420.el7
 #   - kernel-rt.x86_64:3.10.0-514.rt56.420.el7
 #   - kernel-rt-debug.x86_64:3.10.0-514.rt56.420.el7
 #   - kernel-rt-debug-debuginfo.x86_64:3.10.0-514.rt56.420.el7
@@ -45,7 +46,6 @@
 #   - kernel-rt-trace-devel.x86_64:3.10.0-514.rt56.420.el7
 #   - kernel-rt-trace-kvm.x86_64:3.10.0-514.rt56.420.el7
 #   - kernel-rt-trace-kvm-debuginfo.x86_64:3.10.0-514.rt56.420.el7
-#   - kernel-rt-doc.noarch:3.10.0-514.rt56.420.el7
 #
 # CVE List:
 #   - CVE-2016-3134
@@ -56,6 +56,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install kernel-rt-doc.noarch-3.10.0 -y 
 sudo yum install kernel-rt.x86_64-3.10.0 -y 
 sudo yum install kernel-rt-debug.x86_64-3.10.0 -y 
 sudo yum install kernel-rt-debug-debuginfo.x86_64-3.10.0 -y 
@@ -72,4 +73,3 @@ sudo yum install kernel-rt-trace-debuginfo.x86_64-3.10.0 -y
 sudo yum install kernel-rt-trace-devel.x86_64-3.10.0 -y 
 sudo yum install kernel-rt-trace-kvm.x86_64-3.10.0 -y 
 sudo yum install kernel-rt-trace-kvm-debuginfo.x86_64-3.10.0 -y 
-sudo yum install kernel-rt-doc.noarch-3.10.0 -y 

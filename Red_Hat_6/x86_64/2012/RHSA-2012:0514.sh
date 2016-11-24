@@ -4,12 +4,13 @@
 # Security fix for RHSA-2012:0514
 #
 # Security announcement date: 2012-04-24 20:35:10 UTC
-# Script generation date:     2016-11-07 21:18:21 UTC
+# Script generation date:     2016-11-24 21:15:00 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - java-1.6.0-ibm-devel.i686:1.6.0.10.1-1jpp.5.el6_2
 #   - java-1.6.0-ibm.x86_64:1.6.0.10.1-1jpp.5.el6_2
 #   - java-1.6.0-ibm-demo.x86_64:1.6.0.10.1-1jpp.5.el6_2
 #   - java-1.6.0-ibm-devel.x86_64:1.6.0.10.1-1jpp.5.el6_2
@@ -17,9 +18,9 @@
 #   - java-1.6.0-ibm-jdbc.x86_64:1.6.0.10.1-1jpp.5.el6_2
 #   - java-1.6.0-ibm-plugin.x86_64:1.6.0.10.1-1jpp.5.el6_2
 #   - java-1.6.0-ibm-src.x86_64:1.6.0.10.1-1jpp.5.el6_2
-#   - java-1.6.0-ibm-devel.i686:1.6.0.10.1-1jpp.5.el6_2
 #
 # Last versions recommanded by security team:
+#   - java-1.6.0-ibm-devel.i686:1.6.0.16.4-1jpp.1.el6_6
 #   - java-1.6.0-ibm.x86_64:1.6.0.16.35-1jpp.1.el6_8
 #   - java-1.6.0-ibm-demo.x86_64:1.6.0.16.35-1jpp.1.el6_8
 #   - java-1.6.0-ibm-devel.x86_64:1.6.0.16.35-1jpp.1.el6_8
@@ -27,7 +28,6 @@
 #   - java-1.6.0-ibm-jdbc.x86_64:1.6.0.16.35-1jpp.1.el6_8
 #   - java-1.6.0-ibm-plugin.x86_64:1.6.0.16.35-1jpp.1.el6_8
 #   - java-1.6.0-ibm-src.x86_64:1.6.0.16.35-1jpp.1.el6_8
-#   - java-1.6.0-ibm-devel.i686:1.6.0.16.4-1jpp.1.el6_6
 #
 # CVE List:
 #   - CVE-2011-3563
@@ -47,6 +47,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install java-1.6.0-ibm-devel.i686-1.6.0.16.4 -y 
 sudo yum install java-1.6.0-ibm.x86_64-1.6.0.16.35 -y 
 sudo yum install java-1.6.0-ibm-demo.x86_64-1.6.0.16.35 -y 
 sudo yum install java-1.6.0-ibm-devel.x86_64-1.6.0.16.35 -y 
@@ -54,4 +55,3 @@ sudo yum install java-1.6.0-ibm-javacomm.x86_64-1.6.0.16.35 -y
 sudo yum install java-1.6.0-ibm-jdbc.x86_64-1.6.0.16.35 -y 
 sudo yum install java-1.6.0-ibm-plugin.x86_64-1.6.0.16.35 -y 
 sudo yum install java-1.6.0-ibm-src.x86_64-1.6.0.16.35 -y 
-sudo yum install java-1.6.0-ibm-devel.i686-1.6.0.16.4 -y 

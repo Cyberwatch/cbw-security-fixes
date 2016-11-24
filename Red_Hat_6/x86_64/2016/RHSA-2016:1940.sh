@@ -4,15 +4,15 @@
 # Security fix for RHSA-2016:1940
 #
 # Security announcement date: 2016-09-27 13:55:19 UTC
-# Script generation date:     2016-11-17 21:22:16 UTC
+# Script generation date:     2016-11-24 21:17:48 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - openssl.i686:1.0.1e-48.el6_8.3
-#   - openssl.x86_64:1.0.1e-48.el6_8.3
 #   - openssl-debuginfo.i686:1.0.1e-48.el6_8.3
+#   - openssl.x86_64:1.0.1e-48.el6_8.3
 #   - openssl-debuginfo.x86_64:1.0.1e-48.el6_8.3
 #   - openssl-devel.i686:1.0.1e-48.el6_8.3
 #   - openssl-devel.x86_64:1.0.1e-48.el6_8.3
@@ -21,8 +21,8 @@
 #
 # Last versions recommanded by security team:
 #   - openssl.i686:1.0.1e-30.el6_6.13
-#   - openssl.x86_64:1.0.1e-30.el6_6.13
 #   - openssl-debuginfo.i686:1.0.1e-30.el6_6.13
+#   - openssl.x86_64:1.0.1e-30.el6_6.13
 #   - openssl-debuginfo.x86_64:1.0.1e-30.el6_6.13
 #   - openssl-devel.i686:1.0.1e-30.el6_6.13
 #   - openssl-devel.x86_64:1.0.1e-30.el6_6.13
@@ -46,8 +46,8 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install openssl.i686-1.0.1e -y 
-sudo yum install openssl.x86_64-1.0.1e -y 
 sudo yum install openssl-debuginfo.i686-1.0.1e -y 
+sudo yum install openssl.x86_64-1.0.1e -y 
 sudo yum install openssl-debuginfo.x86_64-1.0.1e -y 
 sudo yum install openssl-devel.i686-1.0.1e -y 
 sudo yum install openssl-devel.x86_64-1.0.1e -y 

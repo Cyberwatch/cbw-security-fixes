@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1796
 #
 # Security announcement date: 2014-11-03 20:15:35 UTC
-# Script generation date:     2016-08-24 21:14:50 UTC
+# Script generation date:     2016-11-24 21:16:21 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -87,6 +87,7 @@
 #   - ruby193-rubygem-systemu.noarch:2.5.2-2.el6op
 #   - ruby193-rubygem-term-ansicolor.noarch:1.0.7-2.el6op
 #   - ruby193-rubygem-xml-simple.noarch:1.0.12-10.el6op
+#   - ruby193-rubygem-xml-simple.noarch:1.0.12-10.el6op
 #   - rubygem-ParseTree.noarch:3.0.5-2.el6op
 #   - rubygem-RubyInline.noarch:3.8.4-3.el6op
 #   - rubygem-ZenTest.noarch:4.3.3-1.el6op
@@ -106,6 +107,7 @@
 #   - rubygem-openshift-origin-msg-broker-mcollective.noarch:1.30.2.2-1.el6op
 #   - rubygem-openshift-origin-routing-activemq.noarch:0.6.1.0-1.el6op
 #   - rubygem-openshift-origin-routing-daemon.noarch:0.17.1.4-1.el6op
+#   - rubygem-rack.noarch:1.3.0-4.el6op
 #   - rubygem-rack.noarch:1.3.0-4.el6op
 #   - rubygem-rake.noarch:0.8.7-2.1.el6
 #   - rubygem-regin.noarch:0.3.7-4.el6op
@@ -278,7 +280,9 @@
 #   - ruby200-rubygem-passenger-doc.noarch:4.0.18-17.el6op
 #   - rubygem-openshift-origin-container-selinux.noarch:0.10.1.0-1.el6op
 #   - rubygem-openshift-origin-frontend-apache-mod-rewrite.noarch:0.7.1.2-1.el6op
+#   - rubygem-openshift-origin-frontend-apache-mod-rewrite.noarch:0.7.1.2-1.el6op
 #   - rubygem-openshift-origin-frontend-apache-vhost.noarch:0.10.1.1-1.el6op
+#   - rubygem-openshift-origin-frontend-apachedb.noarch:0.6.1.0-1.el6op
 #   - rubygem-openshift-origin-frontend-apachedb.noarch:0.6.1.0-1.el6op
 #   - rubygem-openshift-origin-frontend-haproxy-sni-proxy.noarch:0.4.1.0-1.el6op
 #   - rubygem-openshift-origin-frontend-nodejs-websocket.noarch:0.4.1.0-1.el6op
@@ -474,7 +478,7 @@
 #   - xerces-c-devel.x86_64:3.0.1-20.el6
 #
 # Last versions recommanded by security team:
-#   - rhc.noarch:1.38.4.5-1.el6op
+#   - rhc.noarch:1.31.3.1-1.el6op
 #   - rubygem-archive-tar-minitar.noarch:0.5.2-3.1.el6op
 #   - rubygem-commander.noarch:4.0.3-4.el6op
 #   - rubygem-highline.noarch:1.6.16-1.el6op
@@ -490,10 +494,10 @@
 #   - rubygems-devel.noarch:1.3.7-5.el6
 #   - json-c-doc.noarch:0.10-3.el6op
 #   - openshift-enterprise-release.noarch:2.2.9-1.el6op
-#   - openshift-enterprise-upgrade-broker.noarch:2.2.8-1.el6op
+#   - openshift-enterprise-upgrade-broker.noarch:2.2.0.4-1.el6op
 #   - openshift-enterprise-yum-validator.noarch:2.2.9-1.el6op
-#   - openshift-origin-broker.noarch:1.16.2.10-1.el6op
-#   - openshift-origin-broker-util.noarch:1.37.4.2-1.el6op
+#   - openshift-origin-broker.noarch:1.16.2.1-1.el6op
+#   - openshift-origin-broker-util.noarch:1.30.4.0-1.el6op
 #   - openshift-origin-console.noarch:1.16.3.0-2.el6op
 #   - openshift-origin-msg-common.noarch:1.21.1.0-1.el6op
 #   - openshift-origin-util-scl.noarch:1.19.1.0-1.el6op
@@ -511,7 +515,7 @@
 #   - ruby193-rubygem-excon.noarch:0.32.1-2.el6op
 #   - ruby193-rubygem-excon-doc.noarch:0.32.1-2.el6op
 #   - ruby193-rubygem-file-tail.noarch:1.0.5-5.el6op
-#   - ruby193-rubygem-fog.noarch:1.19.0-2.el6cf
+#   - ruby193-rubygem-fog.noarch:1.21.0-3.el6op
 #   - ruby193-rubygem-fog-brightbox.noarch:0.0.1-2.el6op
 #   - ruby193-rubygem-fog-core.noarch:1.21.1-2.el6op
 #   - ruby193-rubygem-fog-doc.noarch:1.21.0-3.el6op
@@ -550,7 +554,8 @@
 #   - ruby193-rubygem-syslog-logger.noarch:1.6.8-1.el6op
 #   - ruby193-rubygem-systemu.noarch:2.5.2-2.el6op
 #   - ruby193-rubygem-term-ansicolor.noarch:1.0.7-2.el6op
-#   - ruby193-rubygem-xml-simple.noarch:1.0.12-1.el6cf
+#   - ruby193-rubygem-xml-simple.noarch:1.0.12-10.el6op
+#   - ruby193-rubygem-xml-simple.noarch:1.0.12-10.el6op
 #   - rubygem-ParseTree.noarch:3.0.5-2.el6op
 #   - rubygem-RubyInline.noarch:3.8.4-3.el6op
 #   - rubygem-ZenTest.noarch:4.3.3-1.el6op
@@ -561,16 +566,17 @@
 #   - rubygem-openshift-origin-admin-console.noarch:1.26.2.0-1.el6op
 #   - rubygem-openshift-origin-auth-remote-user.noarch:1.21.1.0-1.el6op
 #   - rubygem-openshift-origin-common.noarch:1.29.5.2-1.el6op
-#   - rubygem-openshift-origin-console.noarch:1.35.2.1-1.el6op
-#   - rubygem-openshift-origin-controller.noarch:1.38.4.2-1.el6op
+#   - rubygem-openshift-origin-console.noarch:1.31.3.1-1.el6op
+#   - rubygem-openshift-origin-controller.noarch:1.31.5.1-1.el6op
 #   - rubygem-openshift-origin-dns-dynect.noarch:1.13.1.0-1.el6op
 #   - rubygem-openshift-origin-dns-fog.noarch:1.0.1.0-1.el6op
 #   - rubygem-openshift-origin-dns-nsupdate.noarch:1.16.3.0-1.el6op
-#   - rubygem-openshift-origin-gear-placement.noarch:0.0.2.1-1.el6op
-#   - rubygem-openshift-origin-msg-broker-mcollective.noarch:1.35.3.1-1.el6op
+#   - rubygem-openshift-origin-gear-placement.noarch:0.0.2.0-1.el6op
+#   - rubygem-openshift-origin-msg-broker-mcollective.noarch:1.30.2.2-1.el6op
 #   - rubygem-openshift-origin-routing-activemq.noarch:0.6.1.0-1.el6op
-#   - rubygem-openshift-origin-routing-daemon.noarch:0.26.4.4-1.el6op
-#   - rubygem-rack.noarch:1.3.0-4.el6cf
+#   - rubygem-openshift-origin-routing-daemon.noarch:0.17.1.4-1.el6op
+#   - rubygem-rack.noarch:1.3.0-4.el6op
+#   - rubygem-rack.noarch:1.3.0-4.el6op
 #   - rubygem-rake.noarch:0.8.7-2.1.el6
 #   - rubygem-regin.noarch:0.3.7-4.el6op
 #   - rubygem-ruby2ruby.noarch:1.2.4-3.el6op
@@ -741,9 +747,11 @@
 #   - ruby193-rubygem-parallel.noarch:0.8.0-1.el6op
 #   - ruby200-rubygem-passenger-doc.noarch:4.0.18-17.el6op
 #   - rubygem-openshift-origin-container-selinux.noarch:0.10.1.0-1.el6op
-#   - rubygem-openshift-origin-frontend-apache-mod-rewrite.noarch:0.5.2.2-1.el6op
+#   - rubygem-openshift-origin-frontend-apache-mod-rewrite.noarch:0.7.1.2-1.el6op
+#   - rubygem-openshift-origin-frontend-apache-mod-rewrite.noarch:0.7.1.2-1.el6op
 #   - rubygem-openshift-origin-frontend-apache-vhost.noarch:0.13.2.1-1.el6op
-#   - rubygem-openshift-origin-frontend-apachedb.noarch:0.4.1.2-1.el6op
+#   - rubygem-openshift-origin-frontend-apachedb.noarch:0.6.1.0-1.el6op
+#   - rubygem-openshift-origin-frontend-apachedb.noarch:0.6.1.0-1.el6op
 #   - rubygem-openshift-origin-frontend-haproxy-sni-proxy.noarch:0.5.2.1-1.el6op
 #   - rubygem-openshift-origin-frontend-nodejs-websocket.noarch:0.4.1.0-1.el6op
 #   - rubygem-openshift-origin-node.noarch:1.38.6.4-1.el6op
@@ -945,7 +953,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install rhc.noarch-1.38.4.5 -y 
+sudo yum install rhc.noarch-1.31.3.1 -y 
 sudo yum install rubygem-archive-tar-minitar.noarch-0.5.2 -y 
 sudo yum install rubygem-commander.noarch-4.0.3 -y 
 sudo yum install rubygem-highline.noarch-1.6.16 -y 
@@ -961,10 +969,10 @@ sudo yum install rubygems.noarch-1.8.24 -y
 sudo yum install rubygems-devel.noarch-1.3.7 -y 
 sudo yum install json-c-doc.noarch-0.10 -y 
 sudo yum install openshift-enterprise-release.noarch-2.2.9 -y 
-sudo yum install openshift-enterprise-upgrade-broker.noarch-2.2.8 -y 
+sudo yum install openshift-enterprise-upgrade-broker.noarch-2.2.0.4 -y 
 sudo yum install openshift-enterprise-yum-validator.noarch-2.2.9 -y 
-sudo yum install openshift-origin-broker.noarch-1.16.2.10 -y 
-sudo yum install openshift-origin-broker-util.noarch-1.37.4.2 -y 
+sudo yum install openshift-origin-broker.noarch-1.16.2.1 -y 
+sudo yum install openshift-origin-broker-util.noarch-1.30.4.0 -y 
 sudo yum install openshift-origin-console.noarch-1.16.3.0 -y 
 sudo yum install openshift-origin-msg-common.noarch-1.21.1.0 -y 
 sudo yum install openshift-origin-util-scl.noarch-1.19.1.0 -y 
@@ -982,7 +990,7 @@ sudo yum install ruby193-rubygem-dnsruby.noarch-1.53 -y
 sudo yum install ruby193-rubygem-excon.noarch-0.32.1 -y 
 sudo yum install ruby193-rubygem-excon-doc.noarch-0.32.1 -y 
 sudo yum install ruby193-rubygem-file-tail.noarch-1.0.5 -y 
-sudo yum install ruby193-rubygem-fog.noarch-1.19.0 -y 
+sudo yum install ruby193-rubygem-fog.noarch-1.21.0 -y 
 sudo yum install ruby193-rubygem-fog-brightbox.noarch-0.0.1 -y 
 sudo yum install ruby193-rubygem-fog-core.noarch-1.21.1 -y 
 sudo yum install ruby193-rubygem-fog-doc.noarch-1.21.0 -y 
@@ -1022,6 +1030,7 @@ sudo yum install ruby193-rubygem-syslog-logger.noarch-1.6.8 -y
 sudo yum install ruby193-rubygem-systemu.noarch-2.5.2 -y 
 sudo yum install ruby193-rubygem-term-ansicolor.noarch-1.0.7 -y 
 sudo yum install ruby193-rubygem-xml-simple.noarch-1.0.12 -y 
+sudo yum install ruby193-rubygem-xml-simple.noarch-1.0.12 -y 
 sudo yum install rubygem-ParseTree.noarch-3.0.5 -y 
 sudo yum install rubygem-RubyInline.noarch-3.8.4 -y 
 sudo yum install rubygem-ZenTest.noarch-4.3.3 -y 
@@ -1032,15 +1041,16 @@ sudo yum install rubygem-file-tail.noarch-1.0.5 -y
 sudo yum install rubygem-openshift-origin-admin-console.noarch-1.26.2.0 -y 
 sudo yum install rubygem-openshift-origin-auth-remote-user.noarch-1.21.1.0 -y 
 sudo yum install rubygem-openshift-origin-common.noarch-1.29.5.2 -y 
-sudo yum install rubygem-openshift-origin-console.noarch-1.35.2.1 -y 
-sudo yum install rubygem-openshift-origin-controller.noarch-1.38.4.2 -y 
+sudo yum install rubygem-openshift-origin-console.noarch-1.31.3.1 -y 
+sudo yum install rubygem-openshift-origin-controller.noarch-1.31.5.1 -y 
 sudo yum install rubygem-openshift-origin-dns-dynect.noarch-1.13.1.0 -y 
 sudo yum install rubygem-openshift-origin-dns-fog.noarch-1.0.1.0 -y 
 sudo yum install rubygem-openshift-origin-dns-nsupdate.noarch-1.16.3.0 -y 
-sudo yum install rubygem-openshift-origin-gear-placement.noarch-0.0.2.1 -y 
-sudo yum install rubygem-openshift-origin-msg-broker-mcollective.noarch-1.35.3.1 -y 
+sudo yum install rubygem-openshift-origin-gear-placement.noarch-0.0.2.0 -y 
+sudo yum install rubygem-openshift-origin-msg-broker-mcollective.noarch-1.30.2.2 -y 
 sudo yum install rubygem-openshift-origin-routing-activemq.noarch-0.6.1.0 -y 
-sudo yum install rubygem-openshift-origin-routing-daemon.noarch-0.26.4.4 -y 
+sudo yum install rubygem-openshift-origin-routing-daemon.noarch-0.17.1.4 -y 
+sudo yum install rubygem-rack.noarch-1.3.0 -y 
 sudo yum install rubygem-rack.noarch-1.3.0 -y 
 sudo yum install rubygem-rake.noarch-0.8.7 -y 
 sudo yum install rubygem-regin.noarch-0.3.7 -y 
@@ -1212,9 +1222,11 @@ sudo yum install ruby193-rubygem-highline.noarch-1.6.16 -y
 sudo yum install ruby193-rubygem-parallel.noarch-0.8.0 -y 
 sudo yum install ruby200-rubygem-passenger-doc.noarch-4.0.18 -y 
 sudo yum install rubygem-openshift-origin-container-selinux.noarch-0.10.1.0 -y 
-sudo yum install rubygem-openshift-origin-frontend-apache-mod-rewrite.noarch-0.5.2.2 -y 
+sudo yum install rubygem-openshift-origin-frontend-apache-mod-rewrite.noarch-0.7.1.2 -y 
+sudo yum install rubygem-openshift-origin-frontend-apache-mod-rewrite.noarch-0.7.1.2 -y 
 sudo yum install rubygem-openshift-origin-frontend-apache-vhost.noarch-0.13.2.1 -y 
-sudo yum install rubygem-openshift-origin-frontend-apachedb.noarch-0.4.1.2 -y 
+sudo yum install rubygem-openshift-origin-frontend-apachedb.noarch-0.6.1.0 -y 
+sudo yum install rubygem-openshift-origin-frontend-apachedb.noarch-0.6.1.0 -y 
 sudo yum install rubygem-openshift-origin-frontend-haproxy-sni-proxy.noarch-0.5.2.1 -y 
 sudo yum install rubygem-openshift-origin-frontend-nodejs-websocket.noarch-0.4.1.0 -y 
 sudo yum install rubygem-openshift-origin-node.noarch-1.38.6.4 -y 

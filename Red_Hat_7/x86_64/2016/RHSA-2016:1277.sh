@@ -4,12 +4,14 @@
 # Security fix for RHSA-2016:1277
 #
 # Security announcement date: 2016-06-23 20:06:01 UTC
-# Script generation date:     2016-11-09 21:24:01 UTC
+# Script generation date:     2016-11-24 21:17:36 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - kernel-abi-whitelists.noarch:3.10.0-327.22.2.el7
+#   - kernel-doc.noarch:3.10.0-327.22.2.el7
 #   - kernel.x86_64:3.10.0-327.22.2.el7
 #   - kernel-debug.x86_64:3.10.0-327.22.2.el7
 #   - kernel-debug-debuginfo.x86_64:3.10.0-327.22.2.el7
@@ -26,10 +28,10 @@
 #   - python-perf.x86_64:3.10.0-327.22.2.el7
 #   - python-perf-debuginfo.x86_64:3.10.0-327.22.2.el7
 #   - kernel-tools-libs-devel.x86_64:3.10.0-327.22.2.el7
-#   - kernel-abi-whitelists.noarch:3.10.0-327.22.2.el7
-#   - kernel-doc.noarch:3.10.0-327.22.2.el7
 #
 # Last versions recommanded by security team:
+#   - kernel-abi-whitelists.noarch:3.10.0-327.41.3.el7
+#   - kernel-doc.noarch:3.10.0-327.41.3.el7
 #   - kernel.x86_64:3.10.0-327.41.3.el7
 #   - kernel-debug.x86_64:3.10.0-327.41.3.el7
 #   - kernel-debug-debuginfo.x86_64:3.10.0-327.41.3.el7
@@ -46,8 +48,6 @@
 #   - python-perf.x86_64:3.10.0-327.41.3.el7
 #   - python-perf-debuginfo.x86_64:3.10.0-327.41.3.el7
 #   - kernel-tools-libs-devel.x86_64:3.10.0-327.41.3.el7
-#   - kernel-abi-whitelists.noarch:3.10.0-327.41.3.el7
-#   - kernel-doc.noarch:3.10.0-327.41.3.el7
 #
 # CVE List:
 #   - CVE-2015-8767
@@ -57,6 +57,8 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install kernel-abi-whitelists.noarch-3.10.0 -y 
+sudo yum install kernel-doc.noarch-3.10.0 -y 
 sudo yum install kernel.x86_64-3.10.0 -y 
 sudo yum install kernel-debug.x86_64-3.10.0 -y 
 sudo yum install kernel-debug-debuginfo.x86_64-3.10.0 -y 
@@ -73,5 +75,3 @@ sudo yum install perf-debuginfo.x86_64-3.10.0 -y
 sudo yum install python-perf.x86_64-3.10.0 -y 
 sudo yum install python-perf-debuginfo.x86_64-3.10.0 -y 
 sudo yum install kernel-tools-libs-devel.x86_64-3.10.0 -y 
-sudo yum install kernel-abi-whitelists.noarch-3.10.0 -y 
-sudo yum install kernel-doc.noarch-3.10.0 -y 

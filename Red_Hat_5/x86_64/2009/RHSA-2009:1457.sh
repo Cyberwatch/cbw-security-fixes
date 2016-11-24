@@ -4,7 +4,7 @@
 # Security fix for RHSA-2009:1457
 #
 # Security announcement date: 2009-09-22 15:05:21 UTC
-# Script generation date:     2016-10-31 21:17:30 UTC
+# Script generation date:     2016-11-24 21:14:01 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -24,7 +24,7 @@
 #   - kernel-xen-devel.x86_64:2.6.18-92.1.28.el5
 #
 # Last versions recommanded by security team:
-#   - kernel-doc.noarch:2.6.18-408.el5
+#   - kernel-doc.noarch:2.6.18-92.1.28.el5
 #   - kernel.x86_64:2.6.18-238.57.1.el5
 #   - kernel-debug.x86_64:2.6.18-238.57.1.el5
 #   - kernel-debug-debuginfo.x86_64:2.6.18-238.57.1.el5

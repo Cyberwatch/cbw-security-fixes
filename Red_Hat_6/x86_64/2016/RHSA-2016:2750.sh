@@ -4,12 +4,13 @@
 # Security fix for RHSA-2016:2750
 #
 # Security announcement date: 2016-11-15 12:01:24 UTC
-# Script generation date:     2016-11-17 21:22:24 UTC
+# Script generation date:     2016-11-24 21:17:59 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - rh-php56-php-pear.noarch:1.9.5-4.el6
 #   - rh-php56.x86_64:2.3-1.el6
 #   - rh-php56-php.x86_64:5.6.25-1.el6
 #   - rh-php56-php-bcmath.x86_64:5.6.25-1.el6
@@ -43,9 +44,9 @@
 #   - rh-php56-php-xmlrpc.x86_64:5.6.25-1.el6
 #   - rh-php56-runtime.x86_64:2.3-1.el6
 #   - rh-php56-scldevel.x86_64:2.3-1.el6
-#   - rh-php56-php-pear.noarch:1.9.5-4.el6
 #
 # Last versions recommanded by security team:
+#   - rh-php56-php-pear.noarch:1.9.5-4.el6
 #   - rh-php56.x86_64:2.3-1.el6
 #   - rh-php56-php.x86_64:5.6.25-1.el6
 #   - rh-php56-php-bcmath.x86_64:5.6.25-1.el6
@@ -79,7 +80,6 @@
 #   - rh-php56-php-xmlrpc.x86_64:5.6.25-1.el6
 #   - rh-php56-runtime.x86_64:2.3-1.el6
 #   - rh-php56-scldevel.x86_64:2.3-1.el6
-#   - rh-php56-php-pear.noarch:1.9.5-4.el6
 #
 # CVE List:
 #   - CVE-2013-7456
@@ -166,6 +166,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install rh-php56-php-pear.noarch-1.9.5 -y 
 sudo yum install rh-php56.x86_64-2.3 -y 
 sudo yum install rh-php56-php.x86_64-5.6.25 -y 
 sudo yum install rh-php56-php-bcmath.x86_64-5.6.25 -y 
@@ -199,4 +200,3 @@ sudo yum install rh-php56-php-xml.x86_64-5.6.25 -y
 sudo yum install rh-php56-php-xmlrpc.x86_64-5.6.25 -y 
 sudo yum install rh-php56-runtime.x86_64-2.3 -y 
 sudo yum install rh-php56-scldevel.x86_64-2.3 -y 
-sudo yum install rh-php56-php-pear.noarch-1.9.5 -y 

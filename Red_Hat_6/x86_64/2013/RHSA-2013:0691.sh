@@ -4,12 +4,13 @@
 # Security fix for RHSA-2013:0691
 #
 # Security announcement date: 2013-03-28 22:25:33 UTC
-# Script generation date:     2016-05-12 18:11:19 UTC
+# Script generation date:     2016-11-24 21:15:25 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - appliance-base.noarch:1.7.1-1.el6rhs
 #   - appliance-base.noarch:1.7.1-1.el6rhs
 #   - gluster-swift.noarch:1.4.8-5.el6rhs
 #   - gluster-swift-account.noarch:1.4.8-5.el6rhs
@@ -27,6 +28,7 @@
 #   - vdsm-debug-plugin.noarch:4.9.6-20.el6rhs
 #   - vdsm-gluster.noarch:4.9.6-20.el6rhs
 #   - vdsm-hook-faqemu.noarch:4.9.6-20.el6rhs
+#   - vdsm-hook-vhostmd.noarch:4.9.6-20.el6rhs
 #   - vdsm-hook-vhostmd.noarch:4.9.6-20.el6rhs
 #   - vdsm-reg.noarch:4.9.6-20.el6rhs
 #   - augeas.x86_64:0.9.0-1.el6
@@ -73,7 +75,8 @@
 #   - glusterfs-rdma.x86_64:3.3.0.7rhs-1.el6
 #
 # Last versions recommanded by security team:
-#   - appliance-base.noarch:2.0.6.0-2.el6rhs
+#   - appliance-base.noarch:1.7.1-1.el6rhs
+#   - appliance-base.noarch:1.7.1-1.el6rhs
 #   - gluster-swift.noarch:1.4.8-5.el6rhs
 #   - gluster-swift-account.noarch:1.4.8-5.el6rhs
 #   - gluster-swift-container.noarch:1.4.8-5.el6rhs
@@ -85,12 +88,13 @@
 #   - rhn-setup.noarch:1.0.0-73.el6rhs
 #   - rhn-setup-gnome.noarch:1.0.0-73.el6rhs
 #   - sos.noarch:2.2-17.2.el6rhs
-#   - vdsm-bootstrap.noarch:4.10.2-24.0.el6ev
+#   - vdsm-bootstrap.noarch:4.10.2-22.0.el6ev
 #   - vdsm-cli.noarch:4.16.20-1.3.el6rhs
 #   - vdsm-debug-plugin.noarch:4.16.20-1.3.el6rhs
 #   - vdsm-gluster.noarch:4.16.20-1.3.el6rhs
 #   - vdsm-hook-faqemu.noarch:4.16.20-1.3.el6rhs
-#   - vdsm-hook-vhostmd.noarch:4.10.2-22.0.el6ev
+#   - vdsm-hook-vhostmd.noarch:4.9.6-20.el6rhs
+#   - vdsm-hook-vhostmd.noarch:4.9.6-20.el6rhs
 #   - vdsm-reg.noarch:4.16.20-1.3.el6rhs
 #   - augeas.x86_64:1.0.0-10.el6
 #   - augeas-debuginfo.x86_64:1.0.0-10.el6
@@ -116,7 +120,7 @@
 #   - sanlock-python.x86_64:2.3-4.el6_3
 #   - vdsm.x86_64:4.16.20-1.3.el6rhs
 #   - vdsm-debuginfo.x86_64:4.16.20-1.3.el6rhs
-#   - vdsm-python.x86_64:4.9.6-20.el6rhs
+#   - vdsm-python.x86_64:4.10.2-22.0.el6ev
 #   - rhsc.noarch:2.1.2-0.40.el6rhs
 #   - rhsc-backend.noarch:2.1.2-0.40.el6rhs
 #   - rhsc-config.noarch:2.0.techpreview1-4.el6rhs
@@ -144,7 +148,8 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install appliance-base.noarch-2.0.6.0 -y 
+sudo yum install appliance-base.noarch-1.7.1 -y 
+sudo yum install appliance-base.noarch-1.7.1 -y 
 sudo yum install gluster-swift.noarch-1.4.8 -y 
 sudo yum install gluster-swift-account.noarch-1.4.8 -y 
 sudo yum install gluster-swift-container.noarch-1.4.8 -y 
@@ -161,7 +166,8 @@ sudo yum install vdsm-cli.noarch-4.16.20 -y
 sudo yum install vdsm-debug-plugin.noarch-4.16.20 -y 
 sudo yum install vdsm-gluster.noarch-4.16.20 -y 
 sudo yum install vdsm-hook-faqemu.noarch-4.16.20 -y 
-sudo yum install vdsm-hook-vhostmd.noarch-4.10.2 -y 
+sudo yum install vdsm-hook-vhostmd.noarch-4.9.6 -y 
+sudo yum install vdsm-hook-vhostmd.noarch-4.9.6 -y 
 sudo yum install vdsm-reg.noarch-4.16.20 -y 
 sudo yum install augeas.x86_64-1.0.0 -y 
 sudo yum install augeas-debuginfo.x86_64-1.0.0 -y 
@@ -187,7 +193,7 @@ sudo yum install sanlock-lib.x86_64-2.3 -y
 sudo yum install sanlock-python.x86_64-2.3 -y 
 sudo yum install vdsm.x86_64-4.16.20 -y 
 sudo yum install vdsm-debuginfo.x86_64-4.16.20 -y 
-sudo yum install vdsm-python.x86_64-4.9.6 -y 
+sudo yum install vdsm-python.x86_64-4.10.2 -y 
 sudo yum install rhsc.noarch-2.1.2 -y 
 sudo yum install rhsc-backend.noarch-2.1.2 -y 
 sudo yum install rhsc-config.noarch-2.0.techpreview1 -y 

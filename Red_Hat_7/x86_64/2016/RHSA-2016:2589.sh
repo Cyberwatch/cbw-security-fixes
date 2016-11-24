@@ -4,12 +4,13 @@
 # Security fix for RHSA-2016:2589
 #
 # Security announcement date: 2016-11-03 08:58:39 UTC
-# Script generation date:     2016-11-05 21:21:41 UTC
+# Script generation date:     2016-11-24 21:17:56 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - gimp-help.noarch:2.8.2-1.el7
 #   - gimp.x86_64:2.8.16-3.el7
 #   - gimp-debuginfo.i686:2.8.16-3.el7
 #   - gimp-debuginfo.x86_64:2.8.16-3.el7
@@ -35,9 +36,9 @@
 #   - gimp-devel.i686:2.8.16-3.el7
 #   - gimp-devel.x86_64:2.8.16-3.el7
 #   - gimp-devel-tools.x86_64:2.8.16-3.el7
-#   - gimp-help.noarch:2.8.2-1.el7
 #
 # Last versions recommanded by security team:
+#   - gimp-help.noarch:2.8.2-1.el7
 #   - gimp.x86_64:2.8.16-3.el7
 #   - gimp-debuginfo.i686:2.8.16-3.el7
 #   - gimp-debuginfo.x86_64:2.8.16-3.el7
@@ -63,7 +64,6 @@
 #   - gimp-devel.i686:2.8.16-3.el7
 #   - gimp-devel.x86_64:2.8.16-3.el7
 #   - gimp-devel-tools.x86_64:2.8.16-3.el7
-#   - gimp-help.noarch:2.8.2-1.el7
 #
 # CVE List:
 #   - CVE-2016-4994
@@ -72,6 +72,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install gimp-help.noarch-2.8.2 -y 
 sudo yum install gimp.x86_64-2.8.16 -y 
 sudo yum install gimp-debuginfo.i686-2.8.16 -y 
 sudo yum install gimp-debuginfo.x86_64-2.8.16 -y 
@@ -97,4 +98,3 @@ sudo yum install gimp-help-zh_CN.noarch-2.8.2 -y
 sudo yum install gimp-devel.i686-2.8.16 -y 
 sudo yum install gimp-devel.x86_64-2.8.16 -y 
 sudo yum install gimp-devel-tools.x86_64-2.8.16 -y 
-sudo yum install gimp-help.noarch-2.8.2 -y 

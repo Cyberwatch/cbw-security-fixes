@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:0440
 #
 # Security announcement date: 2014-04-28 16:48:40 UTC
-# Script generation date:     2016-05-12 18:11:56 UTC
+# Script generation date:     2016-11-24 21:15:55 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,6 +17,7 @@
 #   - condor-kbdd.x86_64:7.8.10-0.1.el6
 #   - condor-qmf.x86_64:7.8.10-0.1.el6
 #   - condor-vm-gahp.x86_64:7.8.10-0.1.el6
+#   - cumin.noarch:0.1.5797-1.el6
 #   - cumin.noarch:0.1.5797-1.el6
 #   - condor-aviary.x86_64:7.8.10-0.1.el6
 #   - condor-cluster-resource-agent.x86_64:7.8.10-0.1.el6
@@ -34,7 +35,8 @@
 #   - condor-kbdd.x86_64:7.8.10-0.2.el6
 #   - condor-qmf.x86_64:7.8.10-0.2.el6
 #   - condor-vm-gahp.x86_64:7.8.10-0.2.el6
-#   - cumin.noarch:0.1.5797-3.el6
+#   - cumin.noarch:0.1.5797-1.el6
+#   - cumin.noarch:0.1.5797-1.el6
 #   - condor-aviary.x86_64:7.8.10-0.2.el6
 #   - condor-cluster-resource-agent.x86_64:7.8.10-0.2.el6
 #   - condor-deltacloud-gahp.x86_64:7.8.10-0.2.el6
@@ -58,6 +60,7 @@ sudo yum install condor-debuginfo.x86_64-7.8.10 -y
 sudo yum install condor-kbdd.x86_64-7.8.10 -y 
 sudo yum install condor-qmf.x86_64-7.8.10 -y 
 sudo yum install condor-vm-gahp.x86_64-7.8.10 -y 
+sudo yum install cumin.noarch-0.1.5797 -y 
 sudo yum install cumin.noarch-0.1.5797 -y 
 sudo yum install condor-aviary.x86_64-7.8.10 -y 
 sudo yum install condor-cluster-resource-agent.x86_64-7.8.10 -y 

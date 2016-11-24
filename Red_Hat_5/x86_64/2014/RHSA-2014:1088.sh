@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1088
 #
 # Security announcement date: 2014-08-21 16:03:54 UTC
-# Script generation date:     2016-07-18 21:40:06 UTC
+# Script generation date:     2016-11-24 21:16:08 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -73,48 +73,48 @@
 #   - tomcat-native-debuginfo.x86_64:1.1.30-2.redhat_1.ep6.el5
 #
 # Last versions recommanded by security team:
-#   - antlr-eap6.noarch:2.7.7-18.redhat_4.1.ep6.el5
-#   - apache-commons-collections-eap6.noarch:3.2.1-18.redhat_7.1.ep6.el5
+#   - antlr-eap6.noarch:2.7.7-17.redhat_4.1.ep6.el5
+#   - apache-commons-collections-eap6.noarch:3.2.1-15.redhat_3.1.ep6.el5
 #   - apache-commons-collections-tomcat-eap6.noarch:3.2.1-15.redhat_3.1.ep6.el5
-#   - apache-commons-daemon-eap6.noarch:1.0.15-8.redhat_1.ep6.el5
-#   - apache-commons-pool-eap6.noarch:1.6.0-1.redhat_7.1.ep6.el5
+#   - apache-commons-daemon-eap6.noarch:1.0.15-5.redhat_1.ep6.el5
+#   - apache-commons-pool-eap6.noarch:1.6-7.redhat_6.1.ep6.el5
 #   - apache-commons-pool-tomcat-eap6.noarch:1.6-7.redhat_6.1.ep6.el5
 #   - dom4j-eap6.noarch:1.6.1-20.redhat_6.1.ep6.el5
 #   - ecj3.noarch:3.7.2-9.redhat_3.1.ep6.el5
 #   - hibernate4-c3p0-eap6.noarch:4.2.14-3.SP1_redhat_1.1.ep6.el5
-#   - hibernate4-core-eap6.noarch:4.2.21-1.Final_redhat_1.1.ep6.el5
-#   - hibernate4-eap6.noarch:4.2.21-1.Final_redhat_1.1.ep6.el5
-#   - hibernate4-entitymanager-eap6.noarch:4.2.21-1.Final_redhat_1.1.ep6.el5
-#   - hibernate4-envers-eap6.noarch:4.2.21-1.Final_redhat_1.1.ep6.el5
-#   - hibernate4-infinispan-eap6.noarch:4.2.21-1.Final_redhat_1.1.ep6.el5
-#   - javassist-eap6.noarch:3.18.1-6.GA_redhat_1.1.ep6.el5
-#   - jboss-logging.noarch:3.1.4-2.GA_redhat_2.1.ep6.el5
-#   - jboss-transaction-api_1.1_spec.noarch:1.0.1-13.Final_redhat_3.1.ep6.el5
-#   - mod_cluster.noarch:1.2.11-1.Final_redhat_1.1.ep6.el5
+#   - hibernate4-core-eap6.noarch:4.2.14-3.SP1_redhat_1.1.ep6.el5
+#   - hibernate4-eap6.noarch:4.2.14-3.SP1_redhat_1.1.ep6.el5
+#   - hibernate4-entitymanager-eap6.noarch:4.2.14-3.SP1_redhat_1.1.ep6.el5
+#   - hibernate4-envers-eap6.noarch:4.2.14-3.SP1_redhat_1.1.ep6.el5
+#   - hibernate4-infinispan-eap6.noarch:4.2.14-3.SP1_redhat_1.1.ep6.el5
+#   - javassist-eap6.noarch:3.18.1-1.GA_redhat_1.1.ep6.el5
+#   - jboss-logging.noarch:3.1.4-1.GA_redhat_1.1.ep6.el5
+#   - jboss-transaction-api_1.1_spec.noarch:1.0.1-12.Final_redhat_2.2.ep6.el5
+#   - mod_cluster.noarch:1.2.9-1.Final_redhat_1.1.ep6.el5
 #   - mod_cluster-tomcat6.noarch:1.2.9-1.Final_redhat_1.1.ep6.el5
 #   - mod_cluster-tomcat7.noarch:1.2.9-1.Final_redhat_1.1.ep6.el5
 #   - storeconfig-tc6.noarch:0.0.1-7.Alpha3_redhat_12.3.ep6.el5
 #   - storeconfig-tc7.noarch:0.0.1-7.Alpha3_redhat_12.5.ep6.el5
-#   - tomcat6.noarch:6.0.41-15_patch_04.ep6.el5
-#   - tomcat6-admin-webapps.noarch:6.0.41-15_patch_04.ep6.el5
-#   - tomcat6-docs-webapp.noarch:6.0.41-15_patch_04.ep6.el5
-#   - tomcat6-el-2.1-api.noarch:6.0.41-15_patch_04.ep6.el5
-#   - tomcat6-javadoc.noarch:6.0.41-15_patch_04.ep6.el5
-#   - tomcat6-jsp-2.1-api.noarch:6.0.41-15_patch_04.ep6.el5
-#   - tomcat6-lib.noarch:6.0.41-15_patch_04.ep6.el5
-#   - tomcat6-log4j.noarch:6.0.41-15_patch_04.ep6.el5
-#   - tomcat6-servlet-2.5-api.noarch:6.0.41-15_patch_04.ep6.el5
-#   - tomcat6-webapps.noarch:6.0.41-15_patch_04.ep6.el5
-#   - tomcat7.noarch:7.0.54-19_patch_04.ep6.el5
-#   - tomcat7-admin-webapps.noarch:7.0.54-19_patch_04.ep6.el5
-#   - tomcat7-docs-webapp.noarch:7.0.54-19_patch_04.ep6.el5
-#   - tomcat7-el-2.2-api.noarch:7.0.54-19_patch_04.ep6.el5
-#   - tomcat7-javadoc.noarch:7.0.54-19_patch_04.ep6.el5
-#   - tomcat7-jsp-2.2-api.noarch:7.0.54-19_patch_04.ep6.el5
-#   - tomcat7-lib.noarch:7.0.54-19_patch_04.ep6.el5
-#   - tomcat7-log4j.noarch:7.0.54-19_patch_04.ep6.el5
-#   - tomcat7-servlet-3.0-api.noarch:7.0.54-19_patch_04.ep6.el5
-#   - tomcat7-webapps.noarch:7.0.54-19_patch_04.ep6.el5
+#   - tomcat6.noarch:6.0.41-6_patch_02.ep6.el5
+#   - tomcat6-admin-webapps.noarch:6.0.41-6_patch_02.ep6.el5
+#   - tomcat6-docs-webapp.noarch:6.0.41-6_patch_02.ep6.el5
+#   - tomcat6-el-2.1-api.noarch:6.0.41-6_patch_02.ep6.el5
+#   - tomcat6-javadoc.noarch:6.0.41-6_patch_02.ep6.el5
+#   - tomcat6-jsp-2.1-api.noarch:6.0.41-6_patch_02.ep6.el5
+#   - tomcat6-lib.noarch:6.0.41-6_patch_02.ep6.el5
+#   - tomcat6-log4j.noarch:6.0.41-6_patch_02.ep6.el5
+#   - tomcat6-servlet-2.5-api.noarch:6.0.41-6_patch_02.ep6.el5
+#   - tomcat6-webapps.noarch:6.0.41-6_patch_02.ep6.el5
+#   - tomcat7.noarch:7.0.54-6_patch_02.ep6.el5
+#   - tomcat7-admin-webapps.noarch:7.0.54-6_patch_02.ep6.el5
+#   - tomcat7-docs-webapp.noarch:7.0.54-6_patch_02.ep6.el5
+#   - tomcat7-el-2.2-api.noarch:7.0.54-6_patch_02.ep6.el5
+#   - tomcat7-javadoc.noarch:7.0.54-6_patch_02.ep6.el5
+#   - tomcat7-jsp-2.2-api.noarch:7.0.54-6_patch_02.ep6.el5
+#   - tomcat7-lib.noarch:7.0.54-6_patch_02.ep6.el5
+#   - tomcat7-log4j.noarch:7.0.54-6_patch_02.ep6.el5
+#   - tomcat7-servlet-3.0-api.noarch:7.0.54-6_patch_02.ep6.el5
+#   - tomcat7-webapps.noarch:7.0.54-6_patch_02.ep6.el5
 #   - apache-commons-daemon-jsvc-eap6.x86_64:1.0.15-6.redhat_2.ep6.el5
 #   - apache-commons-daemon-jsvc-eap6-debuginfo.x86_64:1.0.15-6.redhat_2.ep6.el5
 #   - httpd.x86_64:2.2.3-92.el5_11
@@ -150,20 +150,20 @@ sudo yum install antlr-eap6.noarch-2.7.7 -y
 sudo yum install apache-commons-collections-eap6.noarch-3.2.1 -y 
 sudo yum install apache-commons-collections-tomcat-eap6.noarch-3.2.1 -y 
 sudo yum install apache-commons-daemon-eap6.noarch-1.0.15 -y 
-sudo yum install apache-commons-pool-eap6.noarch-1.6.0 -y 
+sudo yum install apache-commons-pool-eap6.noarch-1.6 -y 
 sudo yum install apache-commons-pool-tomcat-eap6.noarch-1.6 -y 
 sudo yum install dom4j-eap6.noarch-1.6.1 -y 
 sudo yum install ecj3.noarch-3.7.2 -y 
 sudo yum install hibernate4-c3p0-eap6.noarch-4.2.14 -y 
-sudo yum install hibernate4-core-eap6.noarch-4.2.21 -y 
-sudo yum install hibernate4-eap6.noarch-4.2.21 -y 
-sudo yum install hibernate4-entitymanager-eap6.noarch-4.2.21 -y 
-sudo yum install hibernate4-envers-eap6.noarch-4.2.21 -y 
-sudo yum install hibernate4-infinispan-eap6.noarch-4.2.21 -y 
+sudo yum install hibernate4-core-eap6.noarch-4.2.14 -y 
+sudo yum install hibernate4-eap6.noarch-4.2.14 -y 
+sudo yum install hibernate4-entitymanager-eap6.noarch-4.2.14 -y 
+sudo yum install hibernate4-envers-eap6.noarch-4.2.14 -y 
+sudo yum install hibernate4-infinispan-eap6.noarch-4.2.14 -y 
 sudo yum install javassist-eap6.noarch-3.18.1 -y 
 sudo yum install jboss-logging.noarch-3.1.4 -y 
 sudo yum install jboss-transaction-api_1.1_spec.noarch-1.0.1 -y 
-sudo yum install mod_cluster.noarch-1.2.11 -y 
+sudo yum install mod_cluster.noarch-1.2.9 -y 
 sudo yum install mod_cluster-tomcat6.noarch-1.2.9 -y 
 sudo yum install mod_cluster-tomcat7.noarch-1.2.9 -y 
 sudo yum install storeconfig-tc6.noarch-0.0.1 -y 

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:0660
 #
 # Security announcement date: 2015-03-09 15:22:47 UTC
-# Script generation date:     2016-05-12 18:12:48 UTC
+# Script generation date:     2016-11-24 21:16:36 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -24,7 +24,7 @@
 #   - qpid-cpp-server-store.x86_64:0.18-38.el7
 #
 # Last versions recommanded by security team:
-#   - qpid-cpp-client-devel-docs.noarch:0.22-51.el7
+#   - qpid-cpp-client-devel-docs.noarch:0.18-38.el7
 #   - qpid-cpp-client.x86_64:0.30-9.el7
 #   - qpid-cpp-client-devel.x86_64:0.30-9.el7
 #   - qpid-cpp-client-rdma.x86_64:0.22-51.el7
@@ -46,7 +46,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install qpid-cpp-client-devel-docs.noarch-0.22 -y 
+sudo yum install qpid-cpp-client-devel-docs.noarch-0.18 -y 
 sudo yum install qpid-cpp-client.x86_64-0.30 -y 
 sudo yum install qpid-cpp-client-devel.x86_64-0.30 -y 
 sudo yum install qpid-cpp-client-rdma.x86_64-0.22 -y 

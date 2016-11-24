@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1983
 #
 # Security announcement date: 2014-12-11 20:28:58 UTC
-# Script generation date:     2016-05-12 18:12:37 UTC
+# Script generation date:     2016-11-24 21:16:27 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -18,9 +18,9 @@
 #   - xorg-x11-server-Xdmx.x86_64:1.15.0-7.el7_0.3
 #   - xorg-x11-server-Xnest.x86_64:1.15.0-7.el7_0.3
 #   - xorg-x11-server-Xvfb.x86_64:1.15.0-7.el7_0.3
-#   - xorg-x11-server-devel.x86_64:1.15.0-7.el7_0.3
 #   - xorg-x11-server-debuginfo.i686:1.15.0-7.el7_0.3
 #   - xorg-x11-server-devel.i686:1.15.0-7.el7_0.3
+#   - xorg-x11-server-devel.x86_64:1.15.0-7.el7_0.3
 #
 # Last versions recommanded by security team:
 #   - xorg-x11-server-Xephyr.x86_64:1.15.0-33.el7_1
@@ -31,9 +31,9 @@
 #   - xorg-x11-server-Xdmx.x86_64:1.15.0-33.el7_1
 #   - xorg-x11-server-Xnest.x86_64:1.15.0-33.el7_1
 #   - xorg-x11-server-Xvfb.x86_64:1.15.0-33.el7_1
-#   - xorg-x11-server-devel.x86_64:1.15.0-33.el7_1
 #   - xorg-x11-server-debuginfo.i686:1.15.0-33.el7_1
 #   - xorg-x11-server-devel.i686:1.15.0-33.el7_1
+#   - xorg-x11-server-devel.x86_64:1.15.0-33.el7_1
 #
 # CVE List:
 #   - CVE-2014-8091
@@ -62,6 +62,6 @@ sudo yum install xorg-x11-server-source.noarch-1.15.0 -y
 sudo yum install xorg-x11-server-Xdmx.x86_64-1.15.0 -y 
 sudo yum install xorg-x11-server-Xnest.x86_64-1.15.0 -y 
 sudo yum install xorg-x11-server-Xvfb.x86_64-1.15.0 -y 
-sudo yum install xorg-x11-server-devel.x86_64-1.15.0 -y 
 sudo yum install xorg-x11-server-debuginfo.i686-1.15.0 -y 
 sudo yum install xorg-x11-server-devel.i686-1.15.0 -y 
+sudo yum install xorg-x11-server-devel.x86_64-1.15.0 -y 

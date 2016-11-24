@@ -4,12 +4,13 @@
 # Security fix for RHSA-2014:1166
 #
 # Security announcement date: 2014-09-08 19:34:53 UTC
-# Script generation date:     2016-05-12 18:12:16 UTC
+# Script generation date:     2016-11-24 21:16:09 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - jakarta-commons-httpclient.x86_64:3.0-7jpp.4.el5_10
 #   - jakarta-commons-httpclient.x86_64:3.0-7jpp.4.el5_10
 #   - jakarta-commons-httpclient-debuginfo.x86_64:3.0-7jpp.4.el5_10
 #   - jakarta-commons-httpclient-demo.x86_64:3.0-7jpp.4.el5_10
@@ -17,6 +18,7 @@
 #   - jakarta-commons-httpclient-manual.x86_64:3.0-7jpp.4.el5_10
 #
 # Last versions recommanded by security team:
+#   - jakarta-commons-httpclient.x86_64:3.0-7jpp.4.el5_10
 #   - jakarta-commons-httpclient.x86_64:3.0-7jpp.4.el5_10
 #   - jakarta-commons-httpclient-debuginfo.x86_64:3.0-7jpp.4.el5_10
 #   - jakarta-commons-httpclient-demo.x86_64:3.0-7jpp.4.el5_10
@@ -31,6 +33,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo yum install jakarta-commons-httpclient.x86_64-3.0 -y 
 sudo yum install jakarta-commons-httpclient.x86_64-3.0 -y 
 sudo yum install jakarta-commons-httpclient-debuginfo.x86_64-3.0 -y 
 sudo yum install jakarta-commons-httpclient-demo.x86_64-3.0 -y 

@@ -4,13 +4,15 @@
 # Security fix for RHSA-2012:1279
 #
 # Security announcement date: 2012-09-19 18:13:18 UTC
-# Script generation date:     2016-05-12 18:10:59 UTC
+# Script generation date:     2016-11-24 21:15:07 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - mrg-release.noarch:2.2.0-1.el6
+#   - qpid-cpp-debuginfo.i686:0.14-22.el6_3
+#   - qpid-qmf-debuginfo.i686:0.14-14.el6_3
 #   - qpid-cpp-client-devel-docs.noarch:0.14-22.el6_3
 #   - qpid-java-client.noarch:0.18-2.el6
 #   - qpid-java-common.noarch:0.18-2.el6
@@ -38,12 +40,14 @@
 #
 # Last versions recommanded by security team:
 #   - mrg-release.noarch:2.5.0-1.el6
-#   - qpid-cpp-client-devel-docs.noarch:0.22-51.el6
+#   - qpid-cpp-debuginfo.i686:0.22-51.el6
+#   - qpid-qmf-debuginfo.i686:0.22-41.el6
+#   - qpid-cpp-client-devel-docs.noarch:0.14-22.el6_3
 #   - qpid-java-client.noarch:0.30-3.el6
 #   - qpid-java-common.noarch:0.30-3.el6
-#   - qpid-java-example.noarch:0.18-8.el6_4
-#   - qpid-jca.noarch:0.18-8.el6
-#   - qpid-jca-xarecovery.noarch:0.18-8.el6
+#   - qpid-java-example.noarch:0.18-2.el6
+#   - qpid-jca.noarch:0.18-2.el6
+#   - qpid-jca-xarecovery.noarch:0.18-2.el6
 #   - xerces-c-doc.noarch:3.0.1-20.el6
 #   - xqilla-doc.noarch:2.2.3-8.el6
 #   - qpid-cpp-client-devel.x86_64:0.30-9.el6
@@ -71,7 +75,9 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install mrg-release.noarch-2.5.0 -y 
-sudo yum install qpid-cpp-client-devel-docs.noarch-0.22 -y 
+sudo yum install qpid-cpp-debuginfo.i686-0.22 -y 
+sudo yum install qpid-qmf-debuginfo.i686-0.22 -y 
+sudo yum install qpid-cpp-client-devel-docs.noarch-0.14 -y 
 sudo yum install qpid-java-client.noarch-0.30 -y 
 sudo yum install qpid-java-common.noarch-0.30 -y 
 sudo yum install qpid-java-example.noarch-0.18 -y 

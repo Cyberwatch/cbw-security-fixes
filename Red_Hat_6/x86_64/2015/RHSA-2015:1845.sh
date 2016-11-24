@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1845
 #
 # Security announcement date: 2015-10-05 11:06:56 UTC
-# Script generation date:     2016-05-12 18:13:19 UTC
+# Script generation date:     2016-11-24 21:17:05 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,12 +17,19 @@
 #   - nagios-server-addons.noarch:0.2.2-1.el6rhs
 #   - gdeploy.noarch:1.0-12.el6rhs
 #   - openstack-swift.noarch:1.13.1-6.el6ost
+#   - openstack-swift.noarch:1.13.1-6.el6ost
+#   - openstack-swift-account.noarch:1.13.1-6.el6ost
 #   - openstack-swift-account.noarch:1.13.1-6.el6ost
 #   - openstack-swift-container.noarch:1.13.1-6.el6ost
+#   - openstack-swift-container.noarch:1.13.1-6.el6ost
+#   - openstack-swift-doc.noarch:1.13.1-6.el6ost
 #   - openstack-swift-doc.noarch:1.13.1-6.el6ost
 #   - openstack-swift-object.noarch:1.13.1-6.el6ost
+#   - openstack-swift-object.noarch:1.13.1-6.el6ost
+#   - openstack-swift-proxy.noarch:1.13.1-6.el6ost
 #   - openstack-swift-proxy.noarch:1.13.1-6.el6ost
 #   - redhat-storage-server.noarch:3.1.1.0-2.el6rhs
+#   - swiftonfile.noarch:1.13.1-5.el6rhs
 #   - swiftonfile.noarch:1.13.1-5.el6rhs
 #   - vdsm-cli.noarch:4.16.20-1.3.el6rhs
 #   - vdsm-debug-plugin.noarch:4.16.20-1.3.el6rhs
@@ -77,14 +84,21 @@
 #   - gluster-nagios-common.noarch:0.2.2-1.el6rhs
 #   - nagios-server-addons.noarch:0.2.2-1.el6rhs
 #   - gdeploy.noarch:1.0-12.el6rhs
-#   - openstack-swift.noarch:1.13.1-7.el6ost
-#   - openstack-swift-account.noarch:1.13.1-7.el6ost
-#   - openstack-swift-container.noarch:1.13.1-7.el6ost
-#   - openstack-swift-doc.noarch:1.13.1-7.el6ost
-#   - openstack-swift-object.noarch:1.13.1-7.el6ost
-#   - openstack-swift-proxy.noarch:1.13.1-7.el6ost
+#   - openstack-swift.noarch:1.13.1-6.el6ost
+#   - openstack-swift.noarch:1.13.1-6.el6ost
+#   - openstack-swift-account.noarch:1.13.1-6.el6ost
+#   - openstack-swift-account.noarch:1.13.1-6.el6ost
+#   - openstack-swift-container.noarch:1.13.1-6.el6ost
+#   - openstack-swift-container.noarch:1.13.1-6.el6ost
+#   - openstack-swift-doc.noarch:1.13.1-6.el6ost
+#   - openstack-swift-doc.noarch:1.13.1-6.el6ost
+#   - openstack-swift-object.noarch:1.13.1-6.el6ost
+#   - openstack-swift-object.noarch:1.13.1-6.el6ost
+#   - openstack-swift-proxy.noarch:1.13.1-6.el6ost
+#   - openstack-swift-proxy.noarch:1.13.1-6.el6ost
 #   - redhat-storage-server.noarch:3.1.1.0-2.el6rhs
-#   - swiftonfile.noarch:1.13.1-6.el6rhs
+#   - swiftonfile.noarch:1.13.1-5.el6rhs
+#   - swiftonfile.noarch:1.13.1-5.el6rhs
 #   - vdsm-cli.noarch:4.16.20-1.3.el6rhs
 #   - vdsm-debug-plugin.noarch:4.16.20-1.3.el6rhs
 #   - vdsm-gluster.noarch:4.16.20-1.3.el6rhs
@@ -145,12 +159,19 @@ sudo yum install gluster-nagios-common.noarch-0.2.2 -y
 sudo yum install nagios-server-addons.noarch-0.2.2 -y 
 sudo yum install gdeploy.noarch-1.0 -y 
 sudo yum install openstack-swift.noarch-1.13.1 -y 
+sudo yum install openstack-swift.noarch-1.13.1 -y 
+sudo yum install openstack-swift-account.noarch-1.13.1 -y 
 sudo yum install openstack-swift-account.noarch-1.13.1 -y 
 sudo yum install openstack-swift-container.noarch-1.13.1 -y 
+sudo yum install openstack-swift-container.noarch-1.13.1 -y 
+sudo yum install openstack-swift-doc.noarch-1.13.1 -y 
 sudo yum install openstack-swift-doc.noarch-1.13.1 -y 
 sudo yum install openstack-swift-object.noarch-1.13.1 -y 
+sudo yum install openstack-swift-object.noarch-1.13.1 -y 
+sudo yum install openstack-swift-proxy.noarch-1.13.1 -y 
 sudo yum install openstack-swift-proxy.noarch-1.13.1 -y 
 sudo yum install redhat-storage-server.noarch-3.1.1.0 -y 
+sudo yum install swiftonfile.noarch-1.13.1 -y 
 sudo yum install swiftonfile.noarch-1.13.1 -y 
 sudo yum install vdsm-cli.noarch-4.16.20 -y 
 sudo yum install vdsm-debug-plugin.noarch-4.16.20 -y 
