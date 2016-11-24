@@ -4,22 +4,16 @@
 # Security fix for DSA-3182-1
 #
 # Security announcement date: 2015-03-11 00:00:00 UTC
-# Script generation date:     2016-07-28 21:10:10 UTC
+# Script generation date:     2016-11-24 21:06:08 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
 #
 # Vulnerable packages fix on version:
 #   - libssh2:1.4.2-1.1+deb7u1
-#   - libssh2-1:1.4.2-1.1+deb7u1
-#   - libssh2-1-dev:1.4.2-1.1+deb7u1
-#   - libssh2-1-dbg:1.4.2-1.1+deb7u1
 #
 # Last versions recommanded by security team:
 #   - libssh2:1.4.2-1.1+deb7u1
-#   - libssh2-1:1.4.2-1.1+deb7u1
-#   - libssh2-1-dev:1.4.2-1.1+deb7u1
-#   - libssh2-1-dbg:1.4.2-1.1+deb7u1
 #
 # CVE List:
 #   - CVE-2015-1782
@@ -29,6 +23,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libssh2=1.4.2-1.1+deb7u1 -y
-sudo apt-get install --only-upgrade libssh2-1=1.4.2-1.1+deb7u1 -y
-sudo apt-get install --only-upgrade libssh2-1-dev=1.4.2-1.1+deb7u1 -y
-sudo apt-get install --only-upgrade libssh2-1-dbg=1.4.2-1.1+deb7u1 -y

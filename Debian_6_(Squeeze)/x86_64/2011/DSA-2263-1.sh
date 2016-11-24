@@ -4,7 +4,7 @@
 # Security fix for DSA-2263-1
 #
 # Security announcement date: 2011-06-16 00:00:00 UTC
-# Script generation date:     2016-08-04 21:11:49 UTC
+# Script generation date:     2016-11-24 21:05:01 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - movabletype-opensource:4.3.5+dfsg-2+squeeze2
 #
 # Last versions recommanded by security team:
-#   - movabletype-opensource:4.3.8+dfsg-0+squeeze4
+#   - movabletype-opensource:4.3.5+dfsg-2+squeeze2
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade movabletype-opensource=4.3.8+dfsg-0+squeeze4 -y
+sudo apt-get install --only-upgrade movabletype-opensource=4.3.5+dfsg-2+squeeze2 -y

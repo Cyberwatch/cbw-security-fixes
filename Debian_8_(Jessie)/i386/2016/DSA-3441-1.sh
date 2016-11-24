@@ -4,28 +4,16 @@
 # Security fix for DSA-3441-1
 #
 # Security announcement date: 2016-01-11 00:00:00 UTC
-# Script generation date:     2016-07-25 21:10:08 UTC
+# Script generation date:     2016-11-24 21:06:35 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - perl:5.20.2-3+deb8u2
-#   - perl-base:5.20.2-3+deb8u2
-#   - perl-doc:5.20.2-3+deb8u2
-#   - perl-debug:5.20.2-3+deb8u2
-#   - libperl5.20:5.20.2-3+deb8u2
-#   - libperl-dev:5.20.2-3+deb8u2
-#   - perl-modules:5.20.2-3+deb8u2
 #
 # Last versions recommanded by security team:
 #   - perl:5.20.2-3+deb8u6
-#   - perl-base:5.20.2-3+deb8u6
-#   - perl-doc:5.20.2-3+deb8u6
-#   - perl-debug:5.20.2-3+deb8u6
-#   - libperl5.20:5.20.2-3+deb8u6
-#   - libperl-dev:5.20.2-3+deb8u6
-#   - perl-modules:5.20.2-3+deb8u6
 #
 # CVE List:
 #   - CVE-2015-8607
@@ -35,9 +23,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade perl=5.20.2-3+deb8u6 -y
-sudo apt-get install --only-upgrade perl-base=5.20.2-3+deb8u6 -y
-sudo apt-get install --only-upgrade perl-doc=5.20.2-3+deb8u6 -y
-sudo apt-get install --only-upgrade perl-debug=5.20.2-3+deb8u6 -y
-sudo apt-get install --only-upgrade libperl5.20=5.20.2-3+deb8u6 -y
-sudo apt-get install --only-upgrade libperl-dev=5.20.2-3+deb8u6 -y
-sudo apt-get install --only-upgrade perl-modules=5.20.2-3+deb8u6 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3434-1
 #
 # Security announcement date: 2016-01-05 00:00:00 UTC
-# Script generation date:     2016-10-19 21:06:29 UTC
+# Script generation date:     2016-11-24 21:06:35 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -18,7 +18,6 @@
 # CVE List:
 #   - CVE-2015-7513
 #   - CVE-2015-7550
-#   - CVE-2015-8543
 #   - CVE-2015-8550
 #   - CVE-2015-8551
 #   - CVE-2015-8552

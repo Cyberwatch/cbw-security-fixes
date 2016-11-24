@@ -4,7 +4,7 @@
 # Security fix for DSA-2262-1
 #
 # Security announcement date: 2011-06-16 00:00:00 UTC
-# Script generation date:     2016-08-04 21:11:49 UTC
+# Script generation date:     2016-11-24 21:05:01 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - moodle:1.9.9.dfsg2-2.1+squeeze1
 #
 # Last versions recommanded by security team:
-#   - moodle:1.9.9.dfsg2-2.1+squeeze3
+#   - moodle:1.9.9.dfsg2-2.1+squeeze1
 #
 # CVE List:
 #   - CVE-2011-4133
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade moodle=1.9.9.dfsg2-2.1+squeeze3 -y
+sudo apt-get install --only-upgrade moodle=1.9.9.dfsg2-2.1+squeeze1 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-2301-2
 #
 # Security announcement date: 2012-01-23 00:00:00 UTC
-# Script generation date:     2016-08-04 21:11:55 UTC
+# Script generation date:     2016-11-24 21:05:09 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - rails:2.3.5-1.2+squeeze2
 #
 # Last versions recommanded by security team:
-#   - rails:2.3.5-1.2+squeeze8
+#   - rails:2.3.5-1.2+squeeze2
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade rails=2.3.5-1.2+squeeze8 -y
+sudo apt-get install --only-upgrade rails=2.3.5-1.2+squeeze2 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-2206-1
 #
 # Security announcement date: 2011-03-29 00:00:00 UTC
-# Script generation date:     2016-08-04 21:11:47 UTC
+# Script generation date:     2016-11-24 21:04:59 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - mahara:1.2.6-2+squeeze1
 #
 # Last versions recommanded by security team:
-#   - mahara:1.2.6-2+squeeze6
+#   - mahara:1.2.6-2+squeeze1
 #
 # CVE List:
 #   - CVE-2011-0439
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mahara=1.2.6-2+squeeze6 -y
+sudo apt-get install --only-upgrade mahara=1.2.6-2+squeeze1 -y

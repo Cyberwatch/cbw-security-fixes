@@ -4,7 +4,7 @@
 # Security fix for DSA-3381-1
 #
 # Security announcement date: 2015-10-27 00:00:00 UTC
-# Script generation date:     2016-11-07 21:09:22 UTC
+# Script generation date:     2016-11-24 21:06:28 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -26,7 +26,6 @@
 #   - CVE-2015-4843
 #   - CVE-2015-4844
 #   - CVE-2015-4860
-#   - CVE-2015-4871
 #   - CVE-2015-4872
 #   - CVE-2015-4881
 #   - CVE-2015-4882

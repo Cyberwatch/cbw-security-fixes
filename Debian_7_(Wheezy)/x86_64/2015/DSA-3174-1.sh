@@ -4,20 +4,16 @@
 # Security fix for DSA-3174-1
 #
 # Security announcement date: 2015-02-25 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:17 UTC
+# Script generation date:     2016-11-24 21:06:08 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - iceweasel:31.5.0esr-1~deb7u1
-#   - iceweasel-dbg:31.5.0esr-1~deb7u1
-#   - iceweasel-dev:31.5.0esr-1~deb7u1
 #
 # Last versions recommanded by security team:
 #   - iceweasel:38.8.0esr-1~deb7u1
-#   - iceweasel-dbg:38.8.0esr-1~deb7u1
-#   - iceweasel-dev:38.8.0esr-1~deb7u1
 #
 # CVE List:
 #   - CVE-2015-0822
@@ -30,5 +26,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade iceweasel=38.8.0esr-1~deb7u1 -y
-sudo apt-get install --only-upgrade iceweasel-dbg=38.8.0esr-1~deb7u1 -y
-sudo apt-get install --only-upgrade iceweasel-dev=38.8.0esr-1~deb7u1 -y

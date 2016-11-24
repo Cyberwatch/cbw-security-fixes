@@ -4,7 +4,7 @@
 # Security fix for DSA-2296-1
 #
 # Security announcement date: 2011-08-17 00:00:00 UTC
-# Script generation date:     2016-08-04 21:11:51 UTC
+# Script generation date:     2016-11-24 21:05:04 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - iceweasel:3.5.16-9
 #
 # Last versions recommanded by security team:
-#   - iceweasel:3.5.16-20
+#   - iceweasel:3.5.16-9
 #
 # CVE List:
 #   - CVE-2011-0084
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade iceweasel=3.5.16-20 -y
+sudo apt-get install --only-upgrade iceweasel=3.5.16-9 -y

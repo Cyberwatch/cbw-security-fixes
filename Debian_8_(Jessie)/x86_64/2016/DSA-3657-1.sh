@@ -4,24 +4,16 @@
 # Security fix for DSA-3657-1
 #
 # Security announcement date: 2016-08-30 00:00:00 UTC
-# Script generation date:     2016-09-25 21:07:30 UTC
+# Script generation date:     2016-11-24 21:07:03 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - libarchive:3.1.2-11+deb8u2
-#   - libarchive-dev:3.1.2-11+deb8u2
-#   - libarchive13:3.1.2-11+deb8u2
-#   - bsdtar:3.1.2-11+deb8u2
-#   - bsdcpio:3.1.2-11+deb8u2
 #
 # Last versions recommanded by security team:
 #   - libarchive:3.1.2-11+deb8u2
-#   - libarchive-dev:3.1.2-11+deb8u3
-#   - libarchive13:3.1.2-11+deb8u3
-#   - bsdtar:3.1.2-11+deb8u3
-#   - bsdcpio:3.1.2-11+deb8u3
 #
 # CVE List:
 #   - CVE-2015-8916
@@ -50,7 +42,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libarchive=3.1.2-11+deb8u2 -y
-sudo apt-get install --only-upgrade libarchive-dev=3.1.2-11+deb8u3 -y
-sudo apt-get install --only-upgrade libarchive13=3.1.2-11+deb8u3 -y
-sudo apt-get install --only-upgrade bsdtar=3.1.2-11+deb8u3 -y
-sudo apt-get install --only-upgrade bsdcpio=3.1.2-11+deb8u3 -y

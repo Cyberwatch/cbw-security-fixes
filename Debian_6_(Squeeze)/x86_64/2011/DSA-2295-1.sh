@@ -4,7 +4,7 @@
 # Security fix for DSA-2295-1
 #
 # Security announcement date: 2011-08-17 00:00:00 UTC
-# Script generation date:     2016-08-04 21:11:51 UTC
+# Script generation date:     2016-11-24 21:05:04 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - iceape:2.0.11-7
 #
 # Last versions recommanded by security team:
-#   - iceape:2.0.11-17
+#   - iceape:2.0.11-7
 #
 # CVE List:
 #   - CVE-2011-0084
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade iceape=2.0.11-17 -y
+sudo apt-get install --only-upgrade iceape=2.0.11-7 -y

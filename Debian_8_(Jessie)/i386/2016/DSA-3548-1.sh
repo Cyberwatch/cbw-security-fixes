@@ -4,60 +4,16 @@
 # Security fix for DSA-3548-1
 #
 # Security announcement date: 2016-04-13 00:00:00 UTC
-# Script generation date:     2016-06-05 18:06:17 UTC
+# Script generation date:     2016-11-24 21:06:53 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - samba:2:4.2.10+dfsg-0+deb8u1
-#   - samba-libs:2:4.2.10+dfsg-0+deb8u1
-#   - samba-common:2:4.2.10+dfsg-0+deb8u1
-#   - samba-common-bin:2:4.2.10+dfsg-0+deb8u1
-#   - smbclient:2:4.2.10+dfsg-0+deb8u1
-#   - samba-testsuite:2:4.2.10+dfsg-0+deb8u1
-#   - registry-tools:2:4.2.10+dfsg-0+deb8u1
-#   - libparse-pidl-perl:2:4.2.10+dfsg-0+deb8u1
-#   - samba-dev:2:4.2.10+dfsg-0+deb8u1
-#   - samba-doc:2:4.2.10+dfsg-0+deb8u1
-#   - python-samba:2:4.2.10+dfsg-0+deb8u1
-#   - samba-dsdb-modules:2:4.2.10+dfsg-0+deb8u1
-#   - samba-vfs-modules:2:4.2.10+dfsg-0+deb8u1
-#   - libpam-smbpass:2:4.2.10+dfsg-0+deb8u1
-#   - libsmbclient:2:4.2.10+dfsg-0+deb8u1
-#   - libsmbclient-dev:2:4.2.10+dfsg-0+deb8u1
-#   - winbind:2:4.2.10+dfsg-0+deb8u1
-#   - libpam-winbind:2:4.2.10+dfsg-0+deb8u1
-#   - libnss-winbind:2:4.2.10+dfsg-0+deb8u1
-#   - samba-dbg:2:4.2.10+dfsg-0+deb8u1
-#   - libwbclient0:2:4.2.10+dfsg-0+deb8u1
-#   - libwbclient-dev:2:4.2.10+dfsg-0+deb8u1
-#   - ctdb:2:4.2.10+dfsg-0+deb8u1
 #
 # Last versions recommanded by security team:
 #   - samba:2:4.2.10+dfsg-0+deb8u3
-#   - samba-libs:2:4.2.10+dfsg-0+deb8u3
-#   - samba-common:2:4.2.10+dfsg-0+deb8u3
-#   - samba-common-bin:2:4.2.10+dfsg-0+deb8u3
-#   - smbclient:2:4.2.10+dfsg-0+deb8u3
-#   - samba-testsuite:2:4.2.10+dfsg-0+deb8u3
-#   - registry-tools:2:4.2.10+dfsg-0+deb8u3
-#   - libparse-pidl-perl:2:4.2.10+dfsg-0+deb8u3
-#   - samba-dev:2:4.2.10+dfsg-0+deb8u3
-#   - samba-doc:2:4.2.10+dfsg-0+deb8u3
-#   - python-samba:2:4.2.10+dfsg-0+deb8u3
-#   - samba-dsdb-modules:2:4.2.10+dfsg-0+deb8u3
-#   - samba-vfs-modules:2:4.2.10+dfsg-0+deb8u3
-#   - libpam-smbpass:2:4.2.10+dfsg-0+deb8u3
-#   - libsmbclient:2:4.2.10+dfsg-0+deb8u3
-#   - libsmbclient-dev:2:4.2.10+dfsg-0+deb8u3
-#   - winbind:2:4.2.10+dfsg-0+deb8u3
-#   - libpam-winbind:2:4.2.10+dfsg-0+deb8u3
-#   - libnss-winbind:2:4.2.10+dfsg-0+deb8u3
-#   - samba-dbg:2:4.2.10+dfsg-0+deb8u3
-#   - libwbclient0:2:4.2.10+dfsg-0+deb8u3
-#   - libwbclient-dev:2:4.2.10+dfsg-0+deb8u3
-#   - ctdb:2:4.2.10+dfsg-0+deb8u3
 #
 # CVE List:
 #   - CVE-2015-5370
@@ -74,25 +30,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade samba=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade samba-libs=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade samba-common=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade samba-common-bin=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade smbclient=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade samba-testsuite=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade registry-tools=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade libparse-pidl-perl=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade samba-dev=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade samba-doc=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade python-samba=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade samba-dsdb-modules=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade samba-vfs-modules=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade libpam-smbpass=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade libsmbclient=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade libsmbclient-dev=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade winbind=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade libpam-winbind=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade libnss-winbind=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade samba-dbg=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade libwbclient0=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade libwbclient-dev=2:4.2.10+dfsg-0+deb8u3 -y
-sudo apt-get install --only-upgrade ctdb=2:4.2.10+dfsg-0+deb8u3 -y

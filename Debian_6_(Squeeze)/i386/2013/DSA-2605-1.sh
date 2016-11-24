@@ -4,7 +4,7 @@
 # Security fix for DSA-2605-1
 #
 # Security announcement date: 2013-01-13 00:00:00 UTC
-# Script generation date:     2016-08-04 21:12:11 UTC
+# Script generation date:     2016-11-24 21:05:18 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - asterisk:1:1.6.2.9-2+squeeze9
 #
 # Last versions recommanded by security team:
-#   - asterisk:1:1.6.2.9-2+squeeze12
+#   - asterisk:1:1.6.2.9-2+squeeze9
 #
 # CVE List:
 #   - CVE-2012-5976
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade asterisk=1:1.6.2.9-2+squeeze12 -y
+sudo apt-get install --only-upgrade asterisk=1:1.6.2.9-2+squeeze9 -y

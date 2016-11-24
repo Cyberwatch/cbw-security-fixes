@@ -4,7 +4,7 @@
 # Security fix for DSA-2426-1
 #
 # Security announcement date: 2012-03-06 00:00:00 UTC
-# Script generation date:     2016-08-04 21:11:57 UTC
+# Script generation date:     2016-11-24 21:05:10 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - gimp:2.6.10-1+squeeze3
 #
 # Last versions recommanded by security team:
-#   - gimp:2.6.10-1+squeeze4
+#   - gimp:2.6.10-1+squeeze3
 #
 # CVE List:
 #   - CVE-2010-4540
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade gimp=2.6.10-1+squeeze4 -y
+sudo apt-get install --only-upgrade gimp=2.6.10-1+squeeze3 -y

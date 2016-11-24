@@ -4,7 +4,7 @@
 # Security fix for DSA-2254-1
 #
 # Security announcement date: 2011-06-04 00:00:00 UTC
-# Script generation date:     2016-08-04 21:11:49 UTC
+# Script generation date:     2016-11-24 21:05:01 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - oprofile:0.9.6-1.1+squeeze1
 #
 # Last versions recommanded by security team:
-#   - oprofile:0.9.6-1.1+squeeze2
+#   - oprofile:0.9.6-1.1+squeeze1
 #
 # CVE List:
 #   - CVE-2011-1760
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade oprofile=0.9.6-1.1+squeeze2 -y
+sudo apt-get install --only-upgrade oprofile=0.9.6-1.1+squeeze1 -y

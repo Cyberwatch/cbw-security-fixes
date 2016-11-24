@@ -4,7 +4,7 @@
 # Security fix for DSA-2554-1
 #
 # Security announcement date: 2012-09-26 00:00:00 UTC
-# Script generation date:     2016-08-04 21:12:07 UTC
+# Script generation date:     2016-11-24 21:05:16 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - iceape:2.0.11-15
 #
 # Last versions recommanded by security team:
-#   - iceape:2.0.11-17
+#   - iceape:2.0.11-15
 #
 # CVE List:
 #   - CVE-2012-1970
@@ -32,4 +32,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade iceape=2.0.11-17 -y
+sudo apt-get install --only-upgrade iceape=2.0.11-15 -y

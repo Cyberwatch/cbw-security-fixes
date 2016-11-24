@@ -4,7 +4,7 @@
 # Security fix for DSA-2268-1
 #
 # Security announcement date: 2011-07-01 00:00:00 UTC
-# Script generation date:     2016-08-04 21:11:50 UTC
+# Script generation date:     2016-11-24 21:05:02 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - iceweasel:3.5.16-8
 #
 # Last versions recommanded by security team:
-#   - iceweasel:3.5.16-20
+#   - iceweasel:3.5.16-8
 #
 # CVE List:
 #   - CVE-2011-0083
@@ -31,4 +31,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade iceweasel=3.5.16-20 -y
+sudo apt-get install --only-upgrade iceweasel=3.5.16-8 -y

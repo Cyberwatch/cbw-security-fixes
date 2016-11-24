@@ -4,7 +4,7 @@
 # Security fix for DSA-2530-1
 #
 # Security announcement date: 2012-08-15 00:00:00 UTC
-# Script generation date:     2016-08-04 21:12:06 UTC
+# Script generation date:     2016-11-24 21:05:15 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - rssh:2.3.2-13squeeze1
 #
 # Last versions recommanded by security team:
-#   - rssh:2.3.2-13squeeze3
+#   - rssh:2.3.2-13squeeze1
 #
 # CVE List:
 #   - CVE-2012-3478
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade rssh=2.3.2-13squeeze3 -y
+sudo apt-get install --only-upgrade rssh=2.3.2-13squeeze1 -y

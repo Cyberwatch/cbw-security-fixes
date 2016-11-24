@@ -4,18 +4,16 @@
 # Security fix for DSA-3085-1
 #
 # Security announcement date: 2014-12-03 00:00:00 UTC
-# Script generation date:     2016-09-22 21:08:16 UTC
+# Script generation date:     2016-11-24 21:05:59 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - wordpress:3.6.1+dfsg-1~deb7u5
-#   - wordpress-l10n:3.6.1+dfsg-1~deb7u5
 #
 # Last versions recommanded by security team:
 #   - wordpress:3.6.1+dfsg-1~deb7u12
-#   - wordpress-l10n:3.6.1+dfsg-1~deb7u12
 #
 # CVE List:
 #   - CVE-2014-9031
@@ -32,4 +30,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb7u12 -y
-sudo apt-get install --only-upgrade wordpress-l10n=3.6.1+dfsg-1~deb7u12 -y

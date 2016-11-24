@@ -4,20 +4,16 @@
 # Security fix for DSA-3365-1
 #
 # Security announcement date: 2015-09-23 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:43 UTC
+# Script generation date:     2016-11-24 21:06:26 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
 #
 # Vulnerable packages fix on version:
 #   - iceweasel:38.3.0esr-1~deb7u1
-#   - iceweasel-dbg:38.3.0esr-1~deb7u1
-#   - iceweasel-dev:38.3.0esr-1~deb7u1
 #
 # Last versions recommanded by security team:
 #   - iceweasel:38.3.0esr-1~deb7u1
-#   - iceweasel-dbg:38.3.0esr-1~deb7u1
-#   - iceweasel-dev:38.3.0esr-1~deb7u1
 #
 # CVE List:
 #   - CVE-2015-4500
@@ -40,5 +36,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade iceweasel=38.3.0esr-1~deb7u1 -y
-sudo apt-get install --only-upgrade iceweasel-dbg=38.3.0esr-1~deb7u1 -y
-sudo apt-get install --only-upgrade iceweasel-dev=38.3.0esr-1~deb7u1 -y

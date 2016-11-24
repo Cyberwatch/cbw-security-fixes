@@ -4,40 +4,16 @@
 # Security fix for DSA-3210-1
 #
 # Security announcement date: 2015-03-31 00:00:00 UTC
-# Script generation date:     2016-09-21 21:08:27 UTC
+# Script generation date:     2016-11-24 21:06:11 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
 #
 # Vulnerable packages fix on version:
 #   - wireshark:1.8.2-5wheezy15
-#   - wireshark-common:1.8.2-5wheezy15
-#   - tshark:1.8.2-5wheezy15
-#   - wireshark-dev:1.8.2-5wheezy15
-#   - wireshark-dbg:1.8.2-5wheezy15
-#   - wireshark-doc:1.8.2-5wheezy15
-#   - libwireshark2:1.8.2-5wheezy15
-#   - libwsutil2:1.8.2-5wheezy15
-#   - libwsutil-dev:1.8.2-5wheezy15
-#   - libwireshark-data:1.8.2-5wheezy15
-#   - libwireshark-dev:1.8.2-5wheezy15
-#   - libwiretap2:1.8.2-5wheezy15
-#   - libwiretap-dev:1.8.2-5wheezy15
 #
 # Last versions recommanded by security team:
 #   - wireshark:1.12.1+g01b65bf-4+deb8u6~deb7u4
-#   - wireshark-common:1.8.2-5wheezy16
-#   - tshark:1.8.2-5wheezy16
-#   - wireshark-dev:1.8.2-5wheezy16
-#   - wireshark-dbg:1.8.2-5wheezy16
-#   - wireshark-doc:1.8.2-5wheezy16
-#   - libwireshark2:1.8.2-5wheezy16
-#   - libwsutil2:1.8.2-5wheezy16
-#   - libwsutil-dev:1.8.2-5wheezy16
-#   - libwireshark-data:1.8.2-5wheezy16
-#   - libwireshark-dev:1.8.2-5wheezy16
-#   - libwiretap2:1.8.2-5wheezy16
-#   - libwiretap-dev:1.8.2-5wheezy16
 #
 # CVE List:
 #   - CVE-2015-2188
@@ -49,15 +25,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade wireshark=1.12.1+g01b65bf-4+deb8u6~deb7u4 -y
-sudo apt-get install --only-upgrade wireshark-common=1.8.2-5wheezy16 -y
-sudo apt-get install --only-upgrade tshark=1.8.2-5wheezy16 -y
-sudo apt-get install --only-upgrade wireshark-dev=1.8.2-5wheezy16 -y
-sudo apt-get install --only-upgrade wireshark-dbg=1.8.2-5wheezy16 -y
-sudo apt-get install --only-upgrade wireshark-doc=1.8.2-5wheezy16 -y
-sudo apt-get install --only-upgrade libwireshark2=1.8.2-5wheezy16 -y
-sudo apt-get install --only-upgrade libwsutil2=1.8.2-5wheezy16 -y
-sudo apt-get install --only-upgrade libwsutil-dev=1.8.2-5wheezy16 -y
-sudo apt-get install --only-upgrade libwireshark-data=1.8.2-5wheezy16 -y
-sudo apt-get install --only-upgrade libwireshark-dev=1.8.2-5wheezy16 -y
-sudo apt-get install --only-upgrade libwiretap2=1.8.2-5wheezy16 -y
-sudo apt-get install --only-upgrade libwiretap-dev=1.8.2-5wheezy16 -y

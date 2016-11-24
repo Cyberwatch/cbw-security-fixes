@@ -4,20 +4,16 @@
 # Security fix for DSA-3265-2
 #
 # Security announcement date: 2015-05-24 00:00:00 UTC
-# Script generation date:     2016-10-05 21:08:55 UTC
+# Script generation date:     2016-11-24 21:06:15 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - zendframework:1.11.13-1.1+deb7u2
-#   - zendframework-bin:1.11.13-1.1+deb7u2
-#   - zendframework-resources:1.11.13-1.1+deb7u2
 #
 # Last versions recommanded by security team:
 #   - zendframework:1.11.13-1.1+deb7u5
-#   - zendframework-bin:1.11.13-1.1+deb7u5
-#   - zendframework-resources:1.11.13-1.1+deb7u5
 #
 # CVE List:
 #
@@ -26,5 +22,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade zendframework=1.11.13-1.1+deb7u5 -y
-sudo apt-get install --only-upgrade zendframework-bin=1.11.13-1.1+deb7u5 -y
-sudo apt-get install --only-upgrade zendframework-resources=1.11.13-1.1+deb7u5 -y

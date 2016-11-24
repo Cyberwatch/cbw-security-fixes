@@ -4,18 +4,16 @@
 # Security fix for DSA-3527-1
 #
 # Security announcement date: 2016-03-23 00:00:00 UTC
-# Script generation date:     2016-09-12 11:49:40 UTC
+# Script generation date:     2016-11-24 21:06:50 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - inspircd:2.0.17-1+deb8u1
-#   - inspircd-dbg:2.0.17-1+deb8u1
 #
 # Last versions recommanded by security team:
 #   - inspircd:2.0.17-1+deb8u2
-#   - inspircd-dbg:2.0.17-1+deb8u2
 #
 # CVE List:
 #   - CVE-2015-8702
@@ -25,4 +23,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade inspircd=2.0.17-1+deb8u2 -y
-sudo apt-get install --only-upgrade inspircd-dbg=2.0.17-1+deb8u2 -y

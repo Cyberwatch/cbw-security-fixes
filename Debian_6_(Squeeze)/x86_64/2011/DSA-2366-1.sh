@@ -4,7 +4,7 @@
 # Security fix for DSA-2366-1
 #
 # Security announcement date: 2011-12-18 00:00:00 UTC
-# Script generation date:     2016-08-04 21:11:54 UTC
+# Script generation date:     2016-11-24 21:05:08 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - mediawiki:1:1.15.5-2squeeze2
 #
 # Last versions recommanded by security team:
-#   - mediawiki:1:1.15.5-2squeeze6
+#   - mediawiki:1:1.15.5-2squeeze2
 #
 # CVE List:
 #   - CVE-2011-1578
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mediawiki=1:1.15.5-2squeeze6 -y
+sudo apt-get install --only-upgrade mediawiki=1:1.15.5-2squeeze2 -y

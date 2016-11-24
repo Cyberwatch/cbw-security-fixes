@@ -4,7 +4,7 @@
 # Security fix for DSA-2166-1
 #
 # Security announcement date: 2011-02-16 00:00:00 UTC
-# Script generation date:     2016-08-04 21:11:46 UTC
+# Script generation date:     2016-11-24 21:04:57 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - chromium-browser:6.0.472.63~r59945-5+squeeze2
 #
 # Last versions recommanded by security team:
-#   - chromium-browser:6.0.472.63~r59945-5+squeeze6
+#   - chromium-browser:6.0.472.63~r59945-5+squeeze2
 #
 # CVE List:
 #   - CVE-2011-0777
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade chromium-browser=6.0.472.63~r59945-5+squeeze6 -y
+sudo apt-get install --only-upgrade chromium-browser=6.0.472.63~r59945-5+squeeze2 -y

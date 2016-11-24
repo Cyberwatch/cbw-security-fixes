@@ -4,7 +4,7 @@
 # Security fix for DSA-2540-1
 #
 # Security announcement date: 2012-09-07 00:00:00 UTC
-# Script generation date:     2016-08-04 21:12:06 UTC
+# Script generation date:     2016-11-24 21:05:16 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - mahara:1.2.6-2+squeeze5
 #
 # Last versions recommanded by security team:
-#   - mahara:1.2.6-2+squeeze6
+#   - mahara:1.2.6-2+squeeze5
 #
 # CVE List:
 #   - CVE-2012-2237
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mahara=1.2.6-2+squeeze6 -y
+sudo apt-get install --only-upgrade mahara=1.2.6-2+squeeze5 -y

@@ -4,18 +4,16 @@
 # Security fix for DSA-3349-1
 #
 # Security announcement date: 2015-09-02 00:00:00 UTC
-# Script generation date:     2016-10-30 21:09:47 UTC
+# Script generation date:     2016-11-24 21:06:24 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
 #
 # Vulnerable packages fix on version:
 #   - qemu-kvm:1.1.2+dfsg-6+deb7u9
-#   - qemu-kvm-dbg:1.1.2+dfsg-6+deb7u9
 #
 # Last versions recommanded by security team:
 #   - qemu-kvm:1.1.2+dfsg-6+deb7u18
-#   - qemu-kvm-dbg:1.1.2+dfsg-6+deb7u9
 #
 # CVE List:
 #   - CVE-2015-5165
@@ -26,4 +24,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade qemu-kvm=1.1.2+dfsg-6+deb7u18 -y
-sudo apt-get install --only-upgrade qemu-kvm-dbg=1.1.2+dfsg-6+deb7u9 -y

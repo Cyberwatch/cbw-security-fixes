@@ -4,20 +4,16 @@
 # Security fix for DSA-3523-1
 #
 # Security announcement date: 2016-03-20 00:00:00 UTC
-# Script generation date:     2016-05-12 18:06:06 UTC
+# Script generation date:     2016-11-24 21:06:49 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - iceweasel:38.7.1esr-1~deb7u1
-#   - iceweasel-dbg:38.7.1esr-1~deb7u1
-#   - iceweasel-dev:38.7.1esr-1~deb7u1
 #
 # Last versions recommanded by security team:
 #   - iceweasel:38.8.0esr-1~deb7u1
-#   - iceweasel-dbg:38.8.0esr-1~deb7u1
-#   - iceweasel-dev:38.8.0esr-1~deb7u1
 #
 # CVE List:
 #
@@ -26,5 +22,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade iceweasel=38.8.0esr-1~deb7u1 -y
-sudo apt-get install --only-upgrade iceweasel-dbg=38.8.0esr-1~deb7u1 -y
-sudo apt-get install --only-upgrade iceweasel-dev=38.8.0esr-1~deb7u1 -y

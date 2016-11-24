@@ -4,32 +4,16 @@
 # Security fix for DSA-2897-1
 #
 # Security announcement date: 2014-04-08 00:00:00 UTC
-# Script generation date:     2016-09-15 21:08:08 UTC
+# Script generation date:     2016-11-24 21:05:44 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - tomcat7:7.0.28-4+deb7u1
-#   - tomcat7-common:7.0.28-4+deb7u1
-#   - tomcat7-user:7.0.28-4+deb7u1
-#   - libtomcat7-java:7.0.28-4+deb7u1
-#   - libservlet3.0-java:7.0.28-4+deb7u1
-#   - libservlet3.0-java-doc:7.0.28-4+deb7u1
-#   - tomcat7-admin:7.0.28-4+deb7u1
-#   - tomcat7-examples:7.0.28-4+deb7u1
-#   - tomcat7-docs:7.0.28-4+deb7u1
 #
 # Last versions recommanded by security team:
 #   - tomcat7:7.0.28-4+deb7u6
-#   - tomcat7-common:7.0.28-4+deb7u6
-#   - tomcat7-user:7.0.28-4+deb7u6
-#   - libtomcat7-java:7.0.28-4+deb7u6
-#   - libservlet3.0-java:7.0.28-4+deb7u6
-#   - libservlet3.0-java-doc:7.0.28-4+deb7u6
-#   - tomcat7-admin:7.0.28-4+deb7u6
-#   - tomcat7-examples:7.0.28-4+deb7u6
-#   - tomcat7-docs:7.0.28-4+deb7u6
 #
 # CVE List:
 #   - CVE-2012-3544
@@ -44,11 +28,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade tomcat7=7.0.28-4+deb7u6 -y
-sudo apt-get install --only-upgrade tomcat7-common=7.0.28-4+deb7u6 -y
-sudo apt-get install --only-upgrade tomcat7-user=7.0.28-4+deb7u6 -y
-sudo apt-get install --only-upgrade libtomcat7-java=7.0.28-4+deb7u6 -y
-sudo apt-get install --only-upgrade libservlet3.0-java=7.0.28-4+deb7u6 -y
-sudo apt-get install --only-upgrade libservlet3.0-java-doc=7.0.28-4+deb7u6 -y
-sudo apt-get install --only-upgrade tomcat7-admin=7.0.28-4+deb7u6 -y
-sudo apt-get install --only-upgrade tomcat7-examples=7.0.28-4+deb7u6 -y
-sudo apt-get install --only-upgrade tomcat7-docs=7.0.28-4+deb7u6 -y

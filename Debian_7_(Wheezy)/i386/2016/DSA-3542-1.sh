@@ -4,18 +4,16 @@
 # Security fix for DSA-3542-1
 #
 # Security announcement date: 2016-04-05 00:00:00 UTC
-# Script generation date:     2016-06-22 12:17:54 UTC
+# Script generation date:     2016-11-24 21:06:52 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - mercurial:2.2.2-4+deb7u2
-#   - mercurial-common:2.2.2-4+deb7u2
 #
 # Last versions recommanded by security team:
 #   - mercurial:2.2.2-4+deb7u3
-#   - mercurial-common:2.2.2-4+deb7u3
 #
 # CVE List:
 #   - CVE-2016-3068
@@ -27,4 +25,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade mercurial=2.2.2-4+deb7u3 -y
-sudo apt-get install --only-upgrade mercurial-common=2.2.2-4+deb7u3 -y

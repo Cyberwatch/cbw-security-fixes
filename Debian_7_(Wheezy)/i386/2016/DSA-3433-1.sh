@@ -4,48 +4,16 @@
 # Security fix for DSA-3433-1
 #
 # Security announcement date: 2016-01-02 00:00:00 UTC
-# Script generation date:     2016-06-22 12:17:38 UTC
+# Script generation date:     2016-11-24 21:06:35 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - samba:2:3.6.6-6+deb7u6
-#   - samba-common-bin:2:3.6.6-6+deb7u6
-#   - samba-common:2:3.6.6-6+deb7u6
-#   - samba-tools:2:3.6.6-6+deb7u6
-#   - smbclient:2:3.6.6-6+deb7u6
-#   - swat:2:3.6.6-6+deb7u6
-#   - samba-doc:2:3.6.6-6+deb7u6
-#   - samba-doc-pdf:2:3.6.6-6+deb7u6
-#   - libpam-smbpass:2:3.6.6-6+deb7u6
-#   - libsmbclient:2:3.6.6-6+deb7u6
-#   - libsmbclient-dev:2:3.6.6-6+deb7u6
-#   - winbind:2:3.6.6-6+deb7u6
-#   - libpam-winbind:2:3.6.6-6+deb7u6
-#   - libnss-winbind:2:3.6.6-6+deb7u6
-#   - samba-dbg:2:3.6.6-6+deb7u6
-#   - libwbclient0:2:3.6.6-6+deb7u6
-#   - libwbclient-dev:2:3.6.6-6+deb7u6
 #
 # Last versions recommanded by security team:
 #   - samba:2:3.6.6-6+deb7u10
-#   - samba-common-bin:2:3.6.6-6+deb7u10
-#   - samba-common:2:3.6.6-6+deb7u10
-#   - samba-tools:2:3.6.6-6+deb7u10
-#   - smbclient:2:3.6.6-6+deb7u10
-#   - swat:2:3.6.6-6+deb7u10
-#   - samba-doc:2:3.6.6-6+deb7u10
-#   - samba-doc-pdf:2:3.6.6-6+deb7u10
-#   - libpam-smbpass:2:3.6.6-6+deb7u10
-#   - libsmbclient:2:3.6.6-6+deb7u10
-#   - libsmbclient-dev:2:3.6.6-6+deb7u10
-#   - winbind:2:3.6.6-6+deb7u10
-#   - libpam-winbind:2:3.6.6-6+deb7u10
-#   - libnss-winbind:2:3.6.6-6+deb7u10
-#   - samba-dbg:2:3.6.6-6+deb7u10
-#   - libwbclient0:2:3.6.6-6+deb7u10
-#   - libwbclient-dev:2:3.6.6-6+deb7u10
 #
 # CVE List:
 #   - CVE-2015-3223
@@ -61,19 +29,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade samba=2:3.6.6-6+deb7u10 -y
-sudo apt-get install --only-upgrade samba-common-bin=2:3.6.6-6+deb7u10 -y
-sudo apt-get install --only-upgrade samba-common=2:3.6.6-6+deb7u10 -y
-sudo apt-get install --only-upgrade samba-tools=2:3.6.6-6+deb7u10 -y
-sudo apt-get install --only-upgrade smbclient=2:3.6.6-6+deb7u10 -y
-sudo apt-get install --only-upgrade swat=2:3.6.6-6+deb7u10 -y
-sudo apt-get install --only-upgrade samba-doc=2:3.6.6-6+deb7u10 -y
-sudo apt-get install --only-upgrade samba-doc-pdf=2:3.6.6-6+deb7u10 -y
-sudo apt-get install --only-upgrade libpam-smbpass=2:3.6.6-6+deb7u10 -y
-sudo apt-get install --only-upgrade libsmbclient=2:3.6.6-6+deb7u10 -y
-sudo apt-get install --only-upgrade libsmbclient-dev=2:3.6.6-6+deb7u10 -y
-sudo apt-get install --only-upgrade winbind=2:3.6.6-6+deb7u10 -y
-sudo apt-get install --only-upgrade libpam-winbind=2:3.6.6-6+deb7u10 -y
-sudo apt-get install --only-upgrade libnss-winbind=2:3.6.6-6+deb7u10 -y
-sudo apt-get install --only-upgrade samba-dbg=2:3.6.6-6+deb7u10 -y
-sudo apt-get install --only-upgrade libwbclient0=2:3.6.6-6+deb7u10 -y
-sudo apt-get install --only-upgrade libwbclient-dev=2:3.6.6-6+deb7u10 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3156-1
 #
 # Security announcement date: 2015-02-07 00:00:00 UTC
-# Script generation date:     2016-07-28 21:10:06 UTC
+# Script generation date:     2016-11-24 21:06:06 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,24 +13,7 @@
 #   - liblivemedia:2012.05.17-1+wheezy1
 #   - vlc:2.0.3-5+deb7u2
 #   - mplayer:2:1.0~rc4.dfsg1+svn34540-1+deb7u1
-#   - libvlc-dev:2.0.3-5+deb7u2
-#   - libvlc5:2.0.3-5+deb7u2
-#   - libvlccore-dev:2.0.3-5+deb7u2
-#   - libvlccore5:2.0.3-5+deb7u2
 #   - vlc-data:2.0.3-5+deb7u2
-#   - vlc-dbg:2.0.3-5+deb7u2
-#   - vlc-nox:2.0.3-5+deb7u2
-#   - vlc-plugin-fluidsynth:2.0.3-5+deb7u2
-#   - vlc-plugin-jack:2.0.3-5+deb7u2
-#   - vlc-plugin-notify:2.0.3-5+deb7u2
-#   - vlc-plugin-pulse:2.0.3-5+deb7u2
-#   - vlc-plugin-sdl:2.0.3-5+deb7u2
-#   - vlc-plugin-svg:2.0.3-5+deb7u2
-#   - vlc-plugin-zvbi:2.0.3-5+deb7u2
-#   - mplayer-gui:2:1.0~rc4.dfsg1+svn34540-1+deb7u1
-#   - mencoder:2:1.0~rc4.dfsg1+svn34540-1+deb7u1
-#   - mplayer-dbg:2:1.0~rc4.dfsg1+svn34540-1+deb7u1
-#   - mplayer-doc:2:1.0~rc4.dfsg1+svn34540-1+deb7u1
 #   - liblivemedia-dev:2012.05.17-1+wheezy1
 #   - livemedia-utils:2012.05.17-1+wheezy1
 #
@@ -38,24 +21,7 @@
 #   - liblivemedia:2012.05.17-1+wheezy1
 #   - vlc:2.0.3-5+deb7u2+b1
 #   - mplayer:2:1.0~rc4.dfsg1+svn34540-1+deb7u2
-#   - libvlc-dev:2.0.3-5+deb7u2+b1
-#   - libvlc5:2.0.3-5+deb7u2+b1
-#   - libvlccore-dev:2.0.3-5+deb7u2+b1
-#   - libvlccore5:2.0.3-5+deb7u2+b1
 #   - vlc-data:2.0.3-5+deb7u2
-#   - vlc-dbg:2.0.3-5+deb7u2+b1
-#   - vlc-nox:2.0.3-5+deb7u2+b1
-#   - vlc-plugin-fluidsynth:2.0.3-5+deb7u2+b1
-#   - vlc-plugin-jack:2.0.3-5+deb7u2+b1
-#   - vlc-plugin-notify:2.0.3-5+deb7u2+b1
-#   - vlc-plugin-pulse:2.0.3-5+deb7u2+b1
-#   - vlc-plugin-sdl:2.0.3-5+deb7u2+b1
-#   - vlc-plugin-svg:2.0.3-5+deb7u2+b1
-#   - vlc-plugin-zvbi:2.0.3-5+deb7u2+b1
-#   - mplayer-gui:2:1.0~rc4.dfsg1+svn34540-1+deb7u2
-#   - mencoder:2:1.0~rc4.dfsg1+svn34540-1+deb7u2
-#   - mplayer-dbg:2:1.0~rc4.dfsg1+svn34540-1+deb7u2
-#   - mplayer-doc:2:1.0~rc4.dfsg1+svn34540-1+deb7u2
 #   - liblivemedia-dev:2012.05.17-1+wheezy1
 #   - livemedia-utils:2012.05.17-1+wheezy1
 #
@@ -69,23 +35,6 @@
 sudo apt-get install --only-upgrade liblivemedia=2012.05.17-1+wheezy1 -y
 sudo apt-get install --only-upgrade vlc=2.0.3-5+deb7u2+b1 -y
 sudo apt-get install --only-upgrade mplayer=2:1.0~rc4.dfsg1+svn34540-1+deb7u2 -y
-sudo apt-get install --only-upgrade libvlc-dev=2.0.3-5+deb7u2+b1 -y
-sudo apt-get install --only-upgrade libvlc5=2.0.3-5+deb7u2+b1 -y
-sudo apt-get install --only-upgrade libvlccore-dev=2.0.3-5+deb7u2+b1 -y
-sudo apt-get install --only-upgrade libvlccore5=2.0.3-5+deb7u2+b1 -y
 sudo apt-get install --only-upgrade vlc-data=2.0.3-5+deb7u2 -y
-sudo apt-get install --only-upgrade vlc-dbg=2.0.3-5+deb7u2+b1 -y
-sudo apt-get install --only-upgrade vlc-nox=2.0.3-5+deb7u2+b1 -y
-sudo apt-get install --only-upgrade vlc-plugin-fluidsynth=2.0.3-5+deb7u2+b1 -y
-sudo apt-get install --only-upgrade vlc-plugin-jack=2.0.3-5+deb7u2+b1 -y
-sudo apt-get install --only-upgrade vlc-plugin-notify=2.0.3-5+deb7u2+b1 -y
-sudo apt-get install --only-upgrade vlc-plugin-pulse=2.0.3-5+deb7u2+b1 -y
-sudo apt-get install --only-upgrade vlc-plugin-sdl=2.0.3-5+deb7u2+b1 -y
-sudo apt-get install --only-upgrade vlc-plugin-svg=2.0.3-5+deb7u2+b1 -y
-sudo apt-get install --only-upgrade vlc-plugin-zvbi=2.0.3-5+deb7u2+b1 -y
-sudo apt-get install --only-upgrade mplayer-gui=2:1.0~rc4.dfsg1+svn34540-1+deb7u2 -y
-sudo apt-get install --only-upgrade mencoder=2:1.0~rc4.dfsg1+svn34540-1+deb7u2 -y
-sudo apt-get install --only-upgrade mplayer-dbg=2:1.0~rc4.dfsg1+svn34540-1+deb7u2 -y
-sudo apt-get install --only-upgrade mplayer-doc=2:1.0~rc4.dfsg1+svn34540-1+deb7u2 -y
 sudo apt-get install --only-upgrade liblivemedia-dev=2012.05.17-1+wheezy1 -y
 sudo apt-get install --only-upgrade livemedia-utils=2012.05.17-1+wheezy1 -y

@@ -4,22 +4,16 @@
 # Security fix for DSA-2683-1
 #
 # Security announcement date: 2013-05-23 00:00:00 UTC
-# Script generation date:     2016-10-27 21:08:07 UTC
+# Script generation date:     2016-11-24 21:05:22 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - libxi:2:1.6.1-1+deb7u1
-#   - libxi6:2:1.6.1-1+deb7u1
-#   - libxi6-dbg:2:1.6.1-1+deb7u1
-#   - libxi-dev:2:1.6.1-1+deb7u1
 #
 # Last versions recommanded by security team:
 #   - libxi:2:1.6.1-1+deb7u2
-#   - libxi6:2:1.6.1-1+deb7u2
-#   - libxi6-dbg:2:1.6.1-1+deb7u2
-#   - libxi-dev:2:1.6.1-1+deb7u2
 #
 # CVE List:
 #   - CVE-2013-1984
@@ -31,6 +25,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libxi=2:1.6.1-1+deb7u2 -y
-sudo apt-get install --only-upgrade libxi6=2:1.6.1-1+deb7u2 -y
-sudo apt-get install --only-upgrade libxi6-dbg=2:1.6.1-1+deb7u2 -y
-sudo apt-get install --only-upgrade libxi-dev=2:1.6.1-1+deb7u2 -y

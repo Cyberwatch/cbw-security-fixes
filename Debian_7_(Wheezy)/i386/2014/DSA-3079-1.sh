@@ -4,18 +4,16 @@
 # Security fix for DSA-3079-1
 #
 # Security announcement date: 2014-11-29 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:07 UTC
+# Script generation date:     2016-11-24 21:05:59 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - ppp:2.4.5-5.1+deb7u1
-#   - ppp-dev:2.4.5-5.1+deb7u1
 #
 # Last versions recommanded by security team:
 #   - ppp:2.4.5-5.1+deb7u2
-#   - ppp-dev:2.4.5-5.1+deb7u2
 #
 # CVE List:
 #   - CVE-2014-3158
@@ -25,4 +23,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade ppp=2.4.5-5.1+deb7u2 -y
-sudo apt-get install --only-upgrade ppp-dev=2.4.5-5.1+deb7u2 -y

@@ -4,18 +4,16 @@
 # Security fix for DSA-3289-1
 #
 # Security announcement date: 2015-06-15 00:00:00 UTC
-# Script generation date:     2016-08-04 21:13:37 UTC
+# Script generation date:     2016-11-24 21:06:18 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
 #
 # Vulnerable packages fix on version:
 #   - p7zip:9.20.1~dfsg.1-4+deb7u1
-#   - p7zip-full:9.20.1~dfsg.1-4+deb7u1
 #
 # Last versions recommanded by security team:
 #   - p7zip:9.20.1~dfsg.1-4+deb7u2
-#   - p7zip-full:9.20.1~dfsg.1-4+deb7u1
 #
 # CVE List:
 #   - CVE-2015-1038
@@ -25,4 +23,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade p7zip=9.20.1~dfsg.1-4+deb7u2 -y
-sudo apt-get install --only-upgrade p7zip-full=9.20.1~dfsg.1-4+deb7u1 -y

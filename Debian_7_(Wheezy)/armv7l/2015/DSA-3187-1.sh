@@ -4,24 +4,16 @@
 # Security fix for DSA-3187-1
 #
 # Security announcement date: 2015-03-15 00:00:00 UTC
-# Script generation date:     2016-09-12 11:48:45 UTC
+# Script generation date:     2016-11-24 21:06:08 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
 #
 # Vulnerable packages fix on version:
 #   - icu:4.8.1.1-12+deb7u2
-#   - libicu48:4.8.1.1-12+deb7u2
-#   - libicu48-dbg:4.8.1.1-12+deb7u2
-#   - libicu-dev:4.8.1.1-12+deb7u2
-#   - icu-doc:4.8.1.1-12+deb7u2
 #
 # Last versions recommanded by security team:
 #   - icu:4.8.1.1-12+deb7u5
-#   - libicu48:4.8.1.1-12+deb7u3
-#   - libicu48-dbg:4.8.1.1-12+deb7u3
-#   - libicu-dev:4.8.1.1-12+deb7u3
-#   - icu-doc:4.8.1.1-12+deb7u3
 #
 # CVE List:
 #   - CVE-2013-1569
@@ -40,7 +32,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade icu=4.8.1.1-12+deb7u5 -y
-sudo apt-get install --only-upgrade libicu48=4.8.1.1-12+deb7u3 -y
-sudo apt-get install --only-upgrade libicu48-dbg=4.8.1.1-12+deb7u3 -y
-sudo apt-get install --only-upgrade libicu-dev=4.8.1.1-12+deb7u3 -y
-sudo apt-get install --only-upgrade icu-doc=4.8.1.1-12+deb7u3 -y

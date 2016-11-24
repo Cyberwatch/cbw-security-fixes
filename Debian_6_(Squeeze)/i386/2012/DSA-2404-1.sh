@@ -4,7 +4,7 @@
 # Security fix for DSA-2404-1
 #
 # Security announcement date: 2012-02-05 00:00:00 UTC
-# Script generation date:     2016-08-04 21:11:56 UTC
+# Script generation date:     2016-11-24 21:05:09 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - xen-qemu-dm-4.0:4.0.1-2+squeeze1
 #
 # Last versions recommanded by security team:
-#   - xen-qemu-dm-4.0:4.0.1-2+squeeze3
+#   - xen-qemu-dm-4.0:4.0.1-2+squeeze1
 #
 # CVE List:
 #   - CVE-2012-0029
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade xen-qemu-dm-4.0=4.0.1-2+squeeze3 -y
+sudo apt-get install --only-upgrade xen-qemu-dm-4.0=4.0.1-2+squeeze1 -y
