@@ -4,7 +4,7 @@
 # Security fix for USN-3131-1
 #
 # Security announcement date: 2016-11-21 00:00:00 UTC
-# Script generation date:     2016-11-23 21:04:47 UTC
+# Script generation date:     2016-11-24 21:02:56 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -12,30 +12,14 @@
 # Vulnerable packages fix on version:
 #   - libmagick++4:8:6.6.9.7-5ubuntu3.5
 #   - imagemagick:8:6.6.9.7-5ubuntu3.5
-#   - imagemagick-dbg:8:6.6.9.7-5ubuntu3.5
-#   - imagemagick-common:8:6.6.9.7-5ubuntu3.5
-#   - imagemagick-doc:8:6.6.9.7-5ubuntu3.5
 #   - libmagickcore4:8:6.6.9.7-5ubuntu3.5
 #   - libmagickcore4-extra:8:6.6.9.7-5ubuntu3.5
-#   - libmagickcore-dev:8:6.6.9.7-5ubuntu3.5
-#   - libmagickwand4:8:6.6.9.7-5ubuntu3.5
-#   - libmagickwand-dev:8:6.6.9.7-5ubuntu3.5
-#   - libmagick++-dev:8:6.6.9.7-5ubuntu3.5
-#   - perlmagick:8:6.6.9.7-5ubuntu3.5
 #
 # Last versions recommanded by security team:
 #   - libmagick++4:8:6.6.9.7-5ubuntu3.5
 #   - imagemagick:8:6.6.9.7-5ubuntu3.5
-#   - imagemagick-dbg:8:6.6.9.7-5ubuntu3.5
-#   - imagemagick-common:8:6.6.9.7-5ubuntu3.5
-#   - imagemagick-doc:8:6.6.9.7-5ubuntu3.5
 #   - libmagickcore4:8:6.6.9.7-5ubuntu3.5
 #   - libmagickcore4-extra:8:6.6.9.7-5ubuntu3.5
-#   - libmagickcore-dev:8:6.6.9.7-5ubuntu3.5
-#   - libmagickwand4:8:6.6.9.7-5ubuntu3.5
-#   - libmagickwand-dev:8:6.6.9.7-5ubuntu3.5
-#   - libmagick++-dev:8:6.6.9.7-5ubuntu3.5
-#   - perlmagick:8:6.6.9.7-5ubuntu3.5
 #
 # CVE List:
 #   - CVE-2014-8354
@@ -148,13 +132,5 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libmagick++4=8:6.6.9.7-5ubuntu3.5 -y
 sudo apt-get install --only-upgrade imagemagick=8:6.6.9.7-5ubuntu3.5 -y
-sudo apt-get install --only-upgrade imagemagick-dbg=8:6.6.9.7-5ubuntu3.5 -y
-sudo apt-get install --only-upgrade imagemagick-common=8:6.6.9.7-5ubuntu3.5 -y
-sudo apt-get install --only-upgrade imagemagick-doc=8:6.6.9.7-5ubuntu3.5 -y
 sudo apt-get install --only-upgrade libmagickcore4=8:6.6.9.7-5ubuntu3.5 -y
 sudo apt-get install --only-upgrade libmagickcore4-extra=8:6.6.9.7-5ubuntu3.5 -y
-sudo apt-get install --only-upgrade libmagickcore-dev=8:6.6.9.7-5ubuntu3.5 -y
-sudo apt-get install --only-upgrade libmagickwand4=8:6.6.9.7-5ubuntu3.5 -y
-sudo apt-get install --only-upgrade libmagickwand-dev=8:6.6.9.7-5ubuntu3.5 -y
-sudo apt-get install --only-upgrade libmagick++-dev=8:6.6.9.7-5ubuntu3.5 -y
-sudo apt-get install --only-upgrade perlmagick=8:6.6.9.7-5ubuntu3.5 -y

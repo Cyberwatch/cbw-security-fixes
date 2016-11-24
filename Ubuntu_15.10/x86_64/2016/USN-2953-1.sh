@@ -4,34 +4,16 @@
 # Security fix for USN-2953-1
 #
 # Security announcement date: 2016-04-21 00:00:00 UTC
-# Script generation date:     2016-09-21 21:03:41 UTC
+# Script generation date:     2016-11-24 21:02:34 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - mysql-server-5.6:5.6.30-0ubuntu0.15.10.1
-#   - libmysqlclient18:5.6.30-0ubuntu0.15.10.1
-#   - libmysqld-dev:5.6.30-0ubuntu0.15.10.1
-#   - libmysqlclient-dev:5.6.30-0ubuntu0.15.10.1
-#   - mysql-common:5.6.30-0ubuntu0.15.10.1
-#   - mysql-client-core-5.6:5.6.30-0ubuntu0.15.10.1
-#   - mysql-client-5.6:5.6.30-0ubuntu0.15.10.1
-#   - mysql-server-core-5.6:5.6.30-0ubuntu0.15.10.1
-#   - mysql-server:5.6.30-0ubuntu0.15.10.1
-#   - mysql-client:5.6.30-0ubuntu0.15.10.1
 #
 # Last versions recommanded by security team:
 #   - mysql-server-5.6:5.6.31-0ubuntu0.15.10.1
-#   - libmysqlclient18:5.6.31-0ubuntu0.15.10.1
-#   - libmysqld-dev:5.6.31-0ubuntu0.15.10.1
-#   - libmysqlclient-dev:5.6.31-0ubuntu0.15.10.1
-#   - mysql-common:5.6.31-0ubuntu0.15.10.1
-#   - mysql-client-core-5.6:5.6.31-0ubuntu0.15.10.1
-#   - mysql-client-5.6:5.6.31-0ubuntu0.15.10.1
-#   - mysql-server-core-5.6:5.6.31-0ubuntu0.15.10.1
-#   - mysql-server:5.6.31-0ubuntu0.15.10.1
-#   - mysql-client:5.6.31-0ubuntu0.15.10.1
 #
 # CVE List:
 #   - CVE-2016-0639
@@ -57,12 +39,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade mysql-server-5.6=5.6.31-0ubuntu0.15.10.1 -y
-sudo apt-get install --only-upgrade libmysqlclient18=5.6.31-0ubuntu0.15.10.1 -y
-sudo apt-get install --only-upgrade libmysqld-dev=5.6.31-0ubuntu0.15.10.1 -y
-sudo apt-get install --only-upgrade libmysqlclient-dev=5.6.31-0ubuntu0.15.10.1 -y
-sudo apt-get install --only-upgrade mysql-common=5.6.31-0ubuntu0.15.10.1 -y
-sudo apt-get install --only-upgrade mysql-client-core-5.6=5.6.31-0ubuntu0.15.10.1 -y
-sudo apt-get install --only-upgrade mysql-client-5.6=5.6.31-0ubuntu0.15.10.1 -y
-sudo apt-get install --only-upgrade mysql-server-core-5.6=5.6.31-0ubuntu0.15.10.1 -y
-sudo apt-get install --only-upgrade mysql-server=5.6.31-0ubuntu0.15.10.1 -y
-sudo apt-get install --only-upgrade mysql-client=5.6.31-0ubuntu0.15.10.1 -y

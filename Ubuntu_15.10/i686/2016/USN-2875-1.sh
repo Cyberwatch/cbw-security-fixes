@@ -4,30 +4,16 @@
 # Security fix for USN-2875-1
 #
 # Security announcement date: 2016-01-19 00:00:00 UTC
-# Script generation date:     2016-06-07 06:03:31 UTC
+# Script generation date:     2016-11-24 21:02:18 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
 #
 # Vulnerable packages fix on version:
 #   - libxml2:2.9.2+zdfsg1-4ubuntu0.3
-#   - libxml2-utils:2.9.2+zdfsg1-4ubuntu0.3
-#   - libxml2-utils-dbg:2.9.2+zdfsg1-4ubuntu0.3
-#   - libxml2-dev:2.9.2+zdfsg1-4ubuntu0.3
-#   - libxml2-dbg:2.9.2+zdfsg1-4ubuntu0.3
-#   - libxml2-doc:2.9.2+zdfsg1-4ubuntu0.3
-#   - python-libxml2:2.9.2+zdfsg1-4ubuntu0.3
-#   - python-libxml2-dbg:2.9.2+zdfsg1-4ubuntu0.3
 #
 # Last versions recommanded by security team:
 #   - libxml2:2.9.2+zdfsg1-4ubuntu0.4
-#   - libxml2-utils:2.9.2+zdfsg1-4ubuntu0.4
-#   - libxml2-utils-dbg:2.9.2+zdfsg1-4ubuntu0.4
-#   - libxml2-dev:2.9.2+zdfsg1-4ubuntu0.4
-#   - libxml2-dbg:2.9.2+zdfsg1-4ubuntu0.4
-#   - libxml2-doc:2.9.2+zdfsg1-4ubuntu0.4
-#   - python-libxml2:2.9.2+zdfsg1-4ubuntu0.4
-#   - python-libxml2-dbg:2.9.2+zdfsg1-4ubuntu0.4
 #
 # CVE List:
 #   - CVE-2015-7499
@@ -38,10 +24,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libxml2=2.9.2+zdfsg1-4ubuntu0.4 -y
-sudo apt-get install --only-upgrade libxml2-utils=2.9.2+zdfsg1-4ubuntu0.4 -y
-sudo apt-get install --only-upgrade libxml2-utils-dbg=2.9.2+zdfsg1-4ubuntu0.4 -y
-sudo apt-get install --only-upgrade libxml2-dev=2.9.2+zdfsg1-4ubuntu0.4 -y
-sudo apt-get install --only-upgrade libxml2-dbg=2.9.2+zdfsg1-4ubuntu0.4 -y
-sudo apt-get install --only-upgrade libxml2-doc=2.9.2+zdfsg1-4ubuntu0.4 -y
-sudo apt-get install --only-upgrade python-libxml2=2.9.2+zdfsg1-4ubuntu0.4 -y
-sudo apt-get install --only-upgrade python-libxml2-dbg=2.9.2+zdfsg1-4ubuntu0.4 -y

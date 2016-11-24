@@ -4,7 +4,7 @@
 # Security fix for USN-2784-1
 #
 # Security announcement date: 2015-10-28 00:00:00 UTC
-# Script generation date:     2016-06-20 13:51:02 UTC
+# Script generation date:     2016-11-24 21:02:04 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -13,13 +13,8 @@
 #   - openjdk-7-jre-lib:7u85-2.6.1-5ubuntu0.15.10.1
 #   - openjdk-7-jre-zero:7u85-2.6.1-5ubuntu0.15.10.1
 #   - icedtea-7-jre-jamvm:7u85-2.6.1-5ubuntu0.15.10.1
-#   - openjdk-7-jdk:7u85-2.6.1-5ubuntu0.15.10.1
 #   - openjdk-7-jre-headless:7u85-2.6.1-5ubuntu0.15.10.1
 #   - openjdk-7-jre:7u85-2.6.1-5ubuntu0.15.10.1
-#   - openjdk-7-demo:7u85-2.6.1-5ubuntu0.15.10.1
-#   - openjdk-7-source:7u85-2.6.1-5ubuntu0.15.10.1
-#   - openjdk-7-doc:7u85-2.6.1-5ubuntu0.15.10.1
-#   - openjdk-7-dbg:7u85-2.6.1-5ubuntu0.15.10.1
 #   - openjdk-7-jre-headless:7u85-2.6.1-5ubuntu0.15.10.1
 #   - openjdk-7-jre:7u85-2.6.1-5ubuntu0.15.10.1
 #
@@ -27,13 +22,8 @@
 #   - openjdk-7-jre-lib:7u85-2.6.1-5ubuntu0.15.10.1
 #   - openjdk-7-jre-zero:7u85-2.6.1-5ubuntu0.15.10.1
 #   - icedtea-7-jre-jamvm:7u101-2.6.6-0ubuntu0.15.10.1
-#   - openjdk-7-jdk:7u101-2.6.6-0ubuntu0.15.10.1
 #   - openjdk-7-jre-headless:7u101-2.6.6-0ubuntu0.15.10.1
 #   - openjdk-7-jre:7u101-2.6.6-0ubuntu0.15.10.1
-#   - openjdk-7-demo:7u101-2.6.6-0ubuntu0.15.10.1
-#   - openjdk-7-source:7u101-2.6.6-0ubuntu0.15.10.1
-#   - openjdk-7-doc:7u101-2.6.6-0ubuntu0.15.10.1
-#   - openjdk-7-dbg:7u101-2.6.6-0ubuntu0.15.10.1
 #   - openjdk-7-jre-headless:7u101-2.6.6-0ubuntu0.15.10.1
 #   - openjdk-7-jre:7u101-2.6.6-0ubuntu0.15.10.1
 #
@@ -64,12 +54,7 @@
 sudo apt-get install --only-upgrade openjdk-7-jre-lib=7u85-2.6.1-5ubuntu0.15.10.1 -y
 sudo apt-get install --only-upgrade openjdk-7-jre-zero=7u85-2.6.1-5ubuntu0.15.10.1 -y
 sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u101-2.6.6-0ubuntu0.15.10.1 -y
-sudo apt-get install --only-upgrade openjdk-7-jdk=7u101-2.6.6-0ubuntu0.15.10.1 -y
 sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u101-2.6.6-0ubuntu0.15.10.1 -y
 sudo apt-get install --only-upgrade openjdk-7-jre=7u101-2.6.6-0ubuntu0.15.10.1 -y
-sudo apt-get install --only-upgrade openjdk-7-demo=7u101-2.6.6-0ubuntu0.15.10.1 -y
-sudo apt-get install --only-upgrade openjdk-7-source=7u101-2.6.6-0ubuntu0.15.10.1 -y
-sudo apt-get install --only-upgrade openjdk-7-doc=7u101-2.6.6-0ubuntu0.15.10.1 -y
-sudo apt-get install --only-upgrade openjdk-7-dbg=7u101-2.6.6-0ubuntu0.15.10.1 -y
 sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u101-2.6.6-0ubuntu0.15.10.1 -y
 sudo apt-get install --only-upgrade openjdk-7-jre=7u101-2.6.6-0ubuntu0.15.10.1 -y

@@ -4,20 +4,16 @@
 # Security fix for USN-2828-1
 #
 # Security announcement date: 2015-12-03 00:00:00 UTC
-# Script generation date:     2016-11-09 21:03:56 UTC
+# Script generation date:     2016-11-24 21:02:12 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - qemu-kvm:1.0+noroms-0ubuntu14.26
-#   - qemu-utils:1.0+noroms-0ubuntu14.26
-#   - qemu-common:1.0+noroms-0ubuntu14.26
 #
 # Last versions recommanded by security team:
 #   - qemu-kvm:1.0+noroms-0ubuntu14.31
-#   - qemu-utils:1.0+noroms-0ubuntu14.31
-#   - qemu-common:1.0+noroms-0ubuntu14.31
 #
 # CVE List:
 #   - CVE-2015-7295
@@ -30,5 +26,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade qemu-kvm=1.0+noroms-0ubuntu14.31 -y
-sudo apt-get install --only-upgrade qemu-utils=1.0+noroms-0ubuntu14.31 -y
-sudo apt-get install --only-upgrade qemu-common=1.0+noroms-0ubuntu14.31 -y

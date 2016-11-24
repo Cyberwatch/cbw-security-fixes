@@ -4,7 +4,7 @@
 # Security fix for USN-3131-1
 #
 # Security announcement date: 2016-11-21 00:00:00 UTC
-# Script generation date:     2016-11-23 21:04:47 UTC
+# Script generation date:     2016-11-24 21:02:56 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -12,30 +12,16 @@
 # Vulnerable packages fix on version:
 #   - libmagick++5:8:6.7.7.10-6ubuntu3.2
 #   - imagemagick:8:6.7.7.10-6ubuntu3.2
-#   - imagemagick-dbg:8:6.7.7.10-6ubuntu3.2
-#   - imagemagick-common:8:6.7.7.10-6ubuntu3.2
-#   - imagemagick-doc:8:6.7.7.10-6ubuntu3.2
-#   - libmagick++-dev:8:6.7.7.10-6ubuntu3.2
 #   - libmagickcore5-extra:8:6.7.7.10-6ubuntu3.2
 #   - libmagickcore5-extra:8:6.7.7.10-6ubuntu3.2
 #   - libmagickcore5:8:6.7.7.10-6ubuntu3.2
-#   - libmagickcore-dev:8:6.7.7.10-6ubuntu3.2
-#   - libmagickwand5:8:6.7.7.10-6ubuntu3.2
-#   - libmagickwand-dev:8:6.7.7.10-6ubuntu3.2
 #
 # Last versions recommanded by security team:
 #   - libmagick++5:8:6.7.7.10-6ubuntu3.2
 #   - imagemagick:8:6.7.7.10-6ubuntu3.2
-#   - imagemagick-dbg:8:6.7.7.10-6ubuntu3.2
-#   - imagemagick-common:8:6.7.7.10-6ubuntu3.2
-#   - imagemagick-doc:8:6.7.7.10-6ubuntu3.2
-#   - libmagick++-dev:8:6.7.7.10-6ubuntu3.2
 #   - libmagickcore5-extra:8:6.7.7.10-6ubuntu3.2
 #   - libmagickcore5-extra:8:6.7.7.10-6ubuntu3.2
 #   - libmagickcore5:8:6.7.7.10-6ubuntu3.2
-#   - libmagickcore-dev:8:6.7.7.10-6ubuntu3.2
-#   - libmagickwand5:8:6.7.7.10-6ubuntu3.2
-#   - libmagickwand-dev:8:6.7.7.10-6ubuntu3.2
 #
 # CVE List:
 #   - CVE-2014-8354
@@ -148,13 +134,6 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libmagick++5=8:6.7.7.10-6ubuntu3.2 -y
 sudo apt-get install --only-upgrade imagemagick=8:6.7.7.10-6ubuntu3.2 -y
-sudo apt-get install --only-upgrade imagemagick-dbg=8:6.7.7.10-6ubuntu3.2 -y
-sudo apt-get install --only-upgrade imagemagick-common=8:6.7.7.10-6ubuntu3.2 -y
-sudo apt-get install --only-upgrade imagemagick-doc=8:6.7.7.10-6ubuntu3.2 -y
-sudo apt-get install --only-upgrade libmagick++-dev=8:6.7.7.10-6ubuntu3.2 -y
 sudo apt-get install --only-upgrade libmagickcore5-extra=8:6.7.7.10-6ubuntu3.2 -y
 sudo apt-get install --only-upgrade libmagickcore5-extra=8:6.7.7.10-6ubuntu3.2 -y
 sudo apt-get install --only-upgrade libmagickcore5=8:6.7.7.10-6ubuntu3.2 -y
-sudo apt-get install --only-upgrade libmagickcore-dev=8:6.7.7.10-6ubuntu3.2 -y
-sudo apt-get install --only-upgrade libmagickwand5=8:6.7.7.10-6ubuntu3.2 -y
-sudo apt-get install --only-upgrade libmagickwand-dev=8:6.7.7.10-6ubuntu3.2 -y

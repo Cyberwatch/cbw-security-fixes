@@ -4,18 +4,16 @@
 # Security fix for USN-2153-1
 #
 # Security announcement date: 2014-03-24 00:00:00 UTC
-# Script generation date:     2016-06-20 13:26:31 UTC
+# Script generation date:     2016-11-24 21:00:47 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - initramfs-tools:0.99ubuntu13.5
-#   - initramfs-tools-bin:0.99ubuntu13.5
 #
 # Last versions recommanded by security team:
 #   - initramfs-tools:0.99ubuntu13.5
-#   - initramfs-tools-bin:0.99ubuntu13.5
 #
 # CVE List:
 #
@@ -24,4 +22,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade initramfs-tools=0.99ubuntu13.5 -y
-sudo apt-get install --only-upgrade initramfs-tools-bin=0.99ubuntu13.5 -y

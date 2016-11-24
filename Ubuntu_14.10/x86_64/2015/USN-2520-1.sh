@@ -4,7 +4,7 @@
 # Security fix for USN-2520-1
 #
 # Security announcement date: 2015-02-26 00:00:00 UTC
-# Script generation date:     2016-06-20 13:20:44 UTC
+# Script generation date:     2016-11-24 21:01:24 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - cups:1.7.5-3ubuntu3.1
 #
 # Last versions recommanded by security team:
-#   - cups:1.7.5-3ubuntu3.2
+#   - cups:1.7.5-3ubuntu3.1
 #
 # CVE List:
 #   - CVE-2014-9679
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade cups=1.7.5-3ubuntu3.2 -y
+sudo apt-get install --only-upgrade cups=1.7.5-3ubuntu3.1 -y

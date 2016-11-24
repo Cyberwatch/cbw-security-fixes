@@ -4,27 +4,19 @@
 # Security fix for USN-2425-1
 #
 # Security announcement date: 2014-11-27 00:00:00 UTC
-# Script generation date:     2016-11-01 21:01:38 UTC
+# Script generation date:     2016-11-24 21:01:14 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
 #
 # Vulnerable packages fix on version:
 #   - dbus:1.6.18-0ubuntu4.3
-#   - dbus-x11:1.6.18-0ubuntu4.3
 #   - libdbus-1-3:1.6.18-0ubuntu4.3
-#   - dbus-1-doc:1.6.18-0ubuntu4.3
-#   - libdbus-1-dev:1.6.18-0ubuntu4.3
-#   - dbus-1-dbg:1.6.18-0ubuntu4.3
 #   - libdbus-1-3:1.6.18-0ubuntu4.3
 #
 # Last versions recommanded by security team:
 #   - dbus:1.6.18-0ubuntu4.4
-#   - dbus-x11:1.6.18-0ubuntu4.4
 #   - libdbus-1-3:1.6.18-0ubuntu4.4
-#   - dbus-1-doc:1.6.18-0ubuntu4.4
-#   - libdbus-1-dev:1.6.18-0ubuntu4.4
-#   - dbus-1-dbg:1.6.18-0ubuntu4.4
 #   - libdbus-1-3:1.6.18-0ubuntu4.4
 #
 # CVE List:
@@ -35,9 +27,5 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade dbus=1.6.18-0ubuntu4.4 -y
-sudo apt-get install --only-upgrade dbus-x11=1.6.18-0ubuntu4.4 -y
 sudo apt-get install --only-upgrade libdbus-1-3=1.6.18-0ubuntu4.4 -y
-sudo apt-get install --only-upgrade dbus-1-doc=1.6.18-0ubuntu4.4 -y
-sudo apt-get install --only-upgrade libdbus-1-dev=1.6.18-0ubuntu4.4 -y
-sudo apt-get install --only-upgrade dbus-1-dbg=1.6.18-0ubuntu4.4 -y
 sudo apt-get install --only-upgrade libdbus-1-3=1.6.18-0ubuntu4.4 -y

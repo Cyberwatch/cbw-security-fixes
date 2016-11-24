@@ -4,20 +4,16 @@
 # Security fix for USN-1582-1
 #
 # Security announcement date: 2012-09-25 00:00:00 UTC
-# Script generation date:     2016-06-20 21:31:40 UTC
+# Script generation date:     2016-11-24 21:00:26 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - rubygems:1.8.15-1ubuntu0.1
-#   - rubygems1.8:1.8.15-1ubuntu0.1
-#   - rubygems-doc:1.8.15-1ubuntu0.1
 #
 # Last versions recommanded by security team:
 #   - rubygems:1.8.15-1ubuntu0.1
-#   - rubygems1.8:1.8.15-1ubuntu0.1
-#   - rubygems-doc:1.8.15-1ubuntu0.1
 #
 # CVE List:
 #   - CVE-2012-2126
@@ -28,5 +24,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade rubygems=1.8.15-1ubuntu0.1 -y
-sudo apt-get install --only-upgrade rubygems1.8=1.8.15-1ubuntu0.1 -y
-sudo apt-get install --only-upgrade rubygems-doc=1.8.15-1ubuntu0.1 -y

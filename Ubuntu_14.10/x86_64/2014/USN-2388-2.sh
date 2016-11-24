@@ -4,7 +4,7 @@
 # Security fix for USN-2388-2
 #
 # Security announcement date: 2014-10-23 00:00:00 UTC
-# Script generation date:     2016-06-20 13:27:16 UTC
+# Script generation date:     2016-11-24 21:01:10 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -19,9 +19,9 @@
 # Last versions recommanded by security team:
 #   - openjdk-7-jre-lib:7u71-2.5.3-0ubuntu1
 #   - openjdk-7-jre-zero:7u71-2.5.3-0ubuntu1
-#   - icedtea-7-jre-jamvm:7u79-2.5.5-0ubuntu0.14.10.2
-#   - openjdk-7-jre-headless:7u79-2.5.5-0ubuntu0.14.10.2
-#   - openjdk-7-jre:7u79-2.5.5-0ubuntu0.14.10.2
+#   - icedtea-7-jre-jamvm:7u71-2.5.3-0ubuntu1
+#   - openjdk-7-jre-headless:7u71-2.5.3-0ubuntu1
+#   - openjdk-7-jre:7u71-2.5.3-0ubuntu1
 #
 # CVE List:
 #   - CVE-2014-6457
@@ -43,6 +43,6 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade openjdk-7-jre-lib=7u71-2.5.3-0ubuntu1 -y
 sudo apt-get install --only-upgrade openjdk-7-jre-zero=7u71-2.5.3-0ubuntu1 -y
-sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u79-2.5.5-0ubuntu0.14.10.2 -y
-sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u79-2.5.5-0ubuntu0.14.10.2 -y
-sudo apt-get install --only-upgrade openjdk-7-jre=7u79-2.5.5-0ubuntu0.14.10.2 -y
+sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u71-2.5.3-0ubuntu1 -y
+sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u71-2.5.3-0ubuntu1 -y
+sudo apt-get install --only-upgrade openjdk-7-jre=7u71-2.5.3-0ubuntu1 -y

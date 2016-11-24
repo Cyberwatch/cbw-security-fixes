@@ -4,7 +4,7 @@
 # Security fix for USN-2908-4
 #
 # Security announcement date: 2016-02-26 00:00:00 UTC
-# Script generation date:     2016-09-21 21:03:25 UTC
+# Script generation date:     2016-11-24 21:02:27 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -13,11 +13,6 @@
 #   - linux-image-4.2.0-30-powerpc-smp:4.2.0-30.36
 #   - linux-image-4.2.0-30-powerpc64-smp:4.2.0-30.36
 #   - linux-image-4.2.0-30-lowlatency:4.2.0-30.36
-#   - linux-source-4.2.0:4.2.0-30.36
-#   - linux-doc:4.2.0-30.36
-#   - linux-libc-dev:4.2.0-30.36
-#   - linux-tools-common:4.2.0-30.36
-#   - linux-cloud-tools-common:4.2.0-30.36
 #   - linux-image-4.2.0-30-powerpc-e500mc:4.2.0-30.36
 #   - linux-image-4.2.0-30-powerpc64-emb:4.2.0-30.36
 #   - linux-image-4.2.0-30-generic-lpae:4.2.0-30.36
@@ -27,11 +22,6 @@
 #   - linux-image-4.2.0-30-powerpc-smp:4.2.0-30.36
 #   - linux-image-4.2.0-30-powerpc64-smp:4.2.0-30.36
 #   - linux-image-4.2.0-30-lowlatency:4.2.0-30.36
-#   - linux-source-4.2.0:4.2.0-42.49
-#   - linux-doc:4.2.0-42.49
-#   - linux-libc-dev:4.2.0-42.49
-#   - linux-tools-common:4.2.0-42.49
-#   - linux-cloud-tools-common:4.2.0-42.49
 #   - linux-image-4.2.0-30-powerpc-e500mc:4.2.0-30.36
 #   - linux-image-4.2.0-30-powerpc64-emb:4.2.0-30.36
 #   - linux-image-4.2.0-30-generic-lpae:4.2.0-30.36
@@ -51,11 +41,6 @@
 sudo apt-get install --only-upgrade linux-image-4.2.0-30-powerpc-smp=4.2.0-30.36 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-30-powerpc64-smp=4.2.0-30.36 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-30-lowlatency=4.2.0-30.36 -y
-sudo apt-get install --only-upgrade linux-source-4.2.0=4.2.0-42.49 -y
-sudo apt-get install --only-upgrade linux-doc=4.2.0-42.49 -y
-sudo apt-get install --only-upgrade linux-libc-dev=4.2.0-42.49 -y
-sudo apt-get install --only-upgrade linux-tools-common=4.2.0-42.49 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=4.2.0-42.49 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-30-powerpc-e500mc=4.2.0-30.36 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-30-powerpc64-emb=4.2.0-30.36 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-30-generic-lpae=4.2.0-30.36 -y

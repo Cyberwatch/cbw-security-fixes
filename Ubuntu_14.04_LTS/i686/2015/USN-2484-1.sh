@@ -4,7 +4,7 @@
 # Security fix for USN-2484-1
 #
 # Security announcement date: 2015-01-26 00:00:00 UTC
-# Script generation date:     2016-06-20 13:20:30 UTC
+# Script generation date:     2016-11-24 21:01:20 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -12,13 +12,11 @@
 # Vulnerable packages fix on version:
 #   - libunbound2:1.4.22-1ubuntu4.14.04.1
 #   - unbound:1.4.22-1ubuntu4.14.04.1
-#   - libunbound-dev:1.4.22-1ubuntu4.14.04.1
 #   - unbound:1.4.22-1ubuntu4.14.04.1
 #
 # Last versions recommanded by security team:
 #   - libunbound2:1.4.22-1ubuntu4.14.04.1
 #   - unbound:1.4.22-1ubuntu4.14.04.1
-#   - libunbound-dev:1.4.22-1ubuntu4.14.04.1
 #   - unbound:1.4.22-1ubuntu4.14.04.1
 #
 # CVE List:
@@ -30,5 +28,4 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libunbound2=1.4.22-1ubuntu4.14.04.1 -y
 sudo apt-get install --only-upgrade unbound=1.4.22-1ubuntu4.14.04.1 -y
-sudo apt-get install --only-upgrade libunbound-dev=1.4.22-1ubuntu4.14.04.1 -y
 sudo apt-get install --only-upgrade unbound=1.4.22-1ubuntu4.14.04.1 -y

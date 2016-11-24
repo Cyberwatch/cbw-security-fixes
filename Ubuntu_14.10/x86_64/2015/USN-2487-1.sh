@@ -4,7 +4,7 @@
 # Security fix for USN-2487-1
 #
 # Security announcement date: 2015-01-27 00:00:00 UTC
-# Script generation date:     2016-06-20 13:20:33 UTC
+# Script generation date:     2016-11-24 21:01:21 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -19,11 +19,11 @@
 #
 # Last versions recommanded by security team:
 #   - openjdk-7-jre-zero:7u75-2.5.4-1~utopic1
-#   - openjdk-7-source:7u79-2.5.5-0ubuntu0.14.10.2
-#   - icedtea-7-jre-jamvm:7u79-2.5.5-0ubuntu0.14.10.2
+#   - openjdk-7-source:7u75-2.5.4-1~utopic1
+#   - icedtea-7-jre-jamvm:7u75-2.5.4-1~utopic1
 #   - openjdk-7-jre-lib:7u75-2.5.4-1~utopic1
-#   - openjdk-7-jre-headless:7u79-2.5.5-0ubuntu0.14.10.2
-#   - openjdk-7-jre:7u79-2.5.5-0ubuntu0.14.10.2
+#   - openjdk-7-jre-headless:7u75-2.5.4-1~utopic1
+#   - openjdk-7-jre:7u75-2.5.4-1~utopic1
 #
 # CVE List:
 #   - CVE-2014-3566
@@ -46,8 +46,8 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade openjdk-7-jre-zero=7u75-2.5.4-1~utopic1 -y
-sudo apt-get install --only-upgrade openjdk-7-source=7u79-2.5.5-0ubuntu0.14.10.2 -y
-sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u79-2.5.5-0ubuntu0.14.10.2 -y
+sudo apt-get install --only-upgrade openjdk-7-source=7u75-2.5.4-1~utopic1 -y
+sudo apt-get install --only-upgrade icedtea-7-jre-jamvm=7u75-2.5.4-1~utopic1 -y
 sudo apt-get install --only-upgrade openjdk-7-jre-lib=7u75-2.5.4-1~utopic1 -y
-sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u79-2.5.5-0ubuntu0.14.10.2 -y
-sudo apt-get install --only-upgrade openjdk-7-jre=7u79-2.5.5-0ubuntu0.14.10.2 -y
+sudo apt-get install --only-upgrade openjdk-7-jre-headless=7u75-2.5.4-1~utopic1 -y
+sudo apt-get install --only-upgrade openjdk-7-jre=7u75-2.5.4-1~utopic1 -y

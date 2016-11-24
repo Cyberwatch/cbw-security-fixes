@@ -4,22 +4,16 @@
 # Security fix for USN-2695-1
 #
 # Security announcement date: 2015-07-29 00:00:00 UTC
-# Script generation date:     2016-06-20 14:22:54 UTC
+# Script generation date:     2016-11-24 21:01:51 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - libtidy-0.99-0:20091223cvs-1ubuntu2.1
-#   - tidy:20091223cvs-1ubuntu2.1
-#   - libtidy-dev:20091223cvs-1ubuntu2.1
-#   - tidy-doc:20091223cvs-1ubuntu2.1
 #
 # Last versions recommanded by security team:
 #   - libtidy-0.99-0:20091223cvs-1ubuntu2.1
-#   - tidy:20091223cvs-1ubuntu2.1
-#   - libtidy-dev:20091223cvs-1ubuntu2.1
-#   - tidy-doc:20091223cvs-1ubuntu2.1
 #
 # CVE List:
 #   - CVE-2015-5522
@@ -30,6 +24,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libtidy-0.99-0=20091223cvs-1ubuntu2.1 -y
-sudo apt-get install --only-upgrade tidy=20091223cvs-1ubuntu2.1 -y
-sudo apt-get install --only-upgrade libtidy-dev=20091223cvs-1ubuntu2.1 -y
-sudo apt-get install --only-upgrade tidy-doc=20091223cvs-1ubuntu2.1 -y

@@ -4,20 +4,16 @@
 # Security fix for USN-3125-1
 #
 # Security announcement date: 2016-11-09 00:00:00 UTC
-# Script generation date:     2016-11-11 21:06:03 UTC
+# Script generation date:     2016-11-24 21:02:55 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - qemu-kvm:1.0+noroms-0ubuntu14.31
-#   - qemu-utils:1.0+noroms-0ubuntu14.31
-#   - qemu-common:1.0+noroms-0ubuntu14.31
 #
 # Last versions recommanded by security team:
 #   - qemu-kvm:1.0+noroms-0ubuntu14.31
-#   - qemu-utils:1.0+noroms-0ubuntu14.31
-#   - qemu-common:1.0+noroms-0ubuntu14.31
 #
 # CVE List:
 #   - CVE-2016-5403
@@ -58,5 +54,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade qemu-kvm=1.0+noroms-0ubuntu14.31 -y
-sudo apt-get install --only-upgrade qemu-utils=1.0+noroms-0ubuntu14.31 -y
-sudo apt-get install --only-upgrade qemu-common=1.0+noroms-0ubuntu14.31 -y

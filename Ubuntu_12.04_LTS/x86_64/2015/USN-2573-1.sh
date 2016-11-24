@@ -4,7 +4,7 @@
 # Security fix for USN-2573-1
 #
 # Security announcement date: 2015-04-21 00:00:00 UTC
-# Script generation date:     2016-09-13 00:19:19 UTC
+# Script generation date:     2016-11-24 21:01:33 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -18,7 +18,6 @@
 #   - openjdk-6-demo:6b35-1.13.7-1ubuntu0.12.04.2
 #   - openjdk-6-source:6b35-1.13.7-1ubuntu0.12.04.2
 #   - openjdk-6-doc:6b35-1.13.7-1ubuntu0.12.04.2
-#   - openjdk-6-dbg:6b35-1.13.7-1ubuntu0.12.04.2
 #   - icedtea-6-jre-jamvm:6b35-1.13.7-1ubuntu0.12.04.2
 #   - openjdk-6-jre-zero:6b35-1.13.7-1ubuntu0.12.04.2
 #   - icedtea-6-jre-jamvm:6b35-1.13.7-1ubuntu0.12.04.2
@@ -40,7 +39,6 @@
 #   - openjdk-6-demo:6b40-1.13.12-0ubuntu0.12.04.1
 #   - openjdk-6-source:6b40-1.13.12-0ubuntu0.12.04.1
 #   - openjdk-6-doc:6b40-1.13.12-0ubuntu0.12.04.1
-#   - openjdk-6-dbg:6b40-1.13.12-0ubuntu0.12.04.1
 #   - icedtea-6-jre-jamvm:6b40-1.13.12-0ubuntu0.12.04.1
 #   - openjdk-6-jre-zero:6b35-1.13.7-1ubuntu0.12.04.2
 #   - icedtea-6-jre-jamvm:6b40-1.13.12-0ubuntu0.12.04.1
@@ -73,7 +71,6 @@ sudo apt-get install --only-upgrade openjdk-6-jre-lib=6b40-1.13.12-0ubuntu0.12.0
 sudo apt-get install --only-upgrade openjdk-6-demo=6b40-1.13.12-0ubuntu0.12.04.1 -y
 sudo apt-get install --only-upgrade openjdk-6-source=6b40-1.13.12-0ubuntu0.12.04.1 -y
 sudo apt-get install --only-upgrade openjdk-6-doc=6b40-1.13.12-0ubuntu0.12.04.1 -y
-sudo apt-get install --only-upgrade openjdk-6-dbg=6b40-1.13.12-0ubuntu0.12.04.1 -y
 sudo apt-get install --only-upgrade icedtea-6-jre-jamvm=6b40-1.13.12-0ubuntu0.12.04.1 -y
 sudo apt-get install --only-upgrade openjdk-6-jre-zero=6b35-1.13.7-1ubuntu0.12.04.2 -y
 sudo apt-get install --only-upgrade icedtea-6-jre-jamvm=6b40-1.13.12-0ubuntu0.12.04.1 -y

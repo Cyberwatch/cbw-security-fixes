@@ -4,20 +4,16 @@
 # Security fix for USN-2630-1
 #
 # Security announcement date: 2015-06-10 00:00:00 UTC
-# Script generation date:     2016-11-09 21:02:48 UTC
+# Script generation date:     2016-11-24 21:01:41 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - qemu-kvm:1.0+noroms-0ubuntu14.23
-#   - qemu-utils:1.0+noroms-0ubuntu14.23
-#   - qemu-common:1.0+noroms-0ubuntu14.23
 #
 # Last versions recommanded by security team:
 #   - qemu-kvm:1.0+noroms-0ubuntu14.31
-#   - qemu-utils:1.0+noroms-0ubuntu14.31
-#   - qemu-common:1.0+noroms-0ubuntu14.31
 #
 # CVE List:
 #   - CVE-2015-3209
@@ -32,5 +28,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade qemu-kvm=1.0+noroms-0ubuntu14.31 -y
-sudo apt-get install --only-upgrade qemu-utils=1.0+noroms-0ubuntu14.31 -y
-sudo apt-get install --only-upgrade qemu-common=1.0+noroms-0ubuntu14.31 -y

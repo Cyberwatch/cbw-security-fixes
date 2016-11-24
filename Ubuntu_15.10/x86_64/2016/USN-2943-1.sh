@@ -4,26 +4,16 @@
 # Security fix for USN-2943-1
 #
 # Security announcement date: 2016-03-29 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:50 UTC
+# Script generation date:     2016-11-24 21:02:32 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - libpcre3:2:8.35-7.1ubuntu1.3
-#   - libpcrecpp0v5:2:8.35-7.1ubuntu1.3
-#   - libpcre3-dev:2:8.35-7.1ubuntu1.3
-#   - libpcre3-dbg:2:8.35-7.1ubuntu1.3
-#   - libpcre16-3:2:8.35-7.1ubuntu1.3
-#   - libpcre32-3:2:8.35-7.1ubuntu1.3
 #
 # Last versions recommanded by security team:
 #   - libpcre3:2:8.35-7.1ubuntu1.3
-#   - libpcrecpp0v5:2:8.35-7.1ubuntu1.3
-#   - libpcre3-dev:2:8.35-7.1ubuntu1.3
-#   - libpcre3-dbg:2:8.35-7.1ubuntu1.3
-#   - libpcre16-3:2:8.35-7.1ubuntu1.3
-#   - libpcre32-3:2:8.35-7.1ubuntu1.3
 #
 # CVE List:
 #   - CVE-2014-9769
@@ -57,8 +47,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libpcre3=2:8.35-7.1ubuntu1.3 -y
-sudo apt-get install --only-upgrade libpcrecpp0v5=2:8.35-7.1ubuntu1.3 -y
-sudo apt-get install --only-upgrade libpcre3-dev=2:8.35-7.1ubuntu1.3 -y
-sudo apt-get install --only-upgrade libpcre3-dbg=2:8.35-7.1ubuntu1.3 -y
-sudo apt-get install --only-upgrade libpcre16-3=2:8.35-7.1ubuntu1.3 -y
-sudo apt-get install --only-upgrade libpcre32-3=2:8.35-7.1ubuntu1.3 -y

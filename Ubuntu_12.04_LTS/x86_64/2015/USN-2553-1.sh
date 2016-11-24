@@ -4,24 +4,16 @@
 # Security fix for USN-2553-1
 #
 # Security announcement date: 2015-03-31 00:00:00 UTC
-# Script generation date:     2016-06-20 12:39:57 UTC
+# Script generation date:     2016-11-24 21:01:31 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - libtiff4:3.9.5-2ubuntu1.7
-#   - libtiffxx0c2:3.9.5-2ubuntu1.7
-#   - libtiff4-dev:3.9.5-2ubuntu1.7
-#   - libtiff-tools:3.9.5-2ubuntu1.7
-#   - libtiff-doc:3.9.5-2ubuntu1.7
 #
 # Last versions recommanded by security team:
 #   - libtiff4:3.9.5-2ubuntu1.9
-#   - libtiffxx0c2:3.9.5-2ubuntu1.9
-#   - libtiff4-dev:3.9.5-2ubuntu1.9
-#   - libtiff-tools:3.9.5-2ubuntu1.9
-#   - libtiff-doc:3.9.5-2ubuntu1.9
 #
 # CVE List:
 #   - CVE-2014-8127
@@ -36,7 +28,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libtiff4=3.9.5-2ubuntu1.9 -y
-sudo apt-get install --only-upgrade libtiffxx0c2=3.9.5-2ubuntu1.9 -y
-sudo apt-get install --only-upgrade libtiff4-dev=3.9.5-2ubuntu1.9 -y
-sudo apt-get install --only-upgrade libtiff-tools=3.9.5-2ubuntu1.9 -y
-sudo apt-get install --only-upgrade libtiff-doc=3.9.5-2ubuntu1.9 -y

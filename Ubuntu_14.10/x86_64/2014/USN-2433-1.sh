@@ -4,7 +4,7 @@
 # Security fix for USN-2433-1
 #
 # Security announcement date: 2014-12-04 00:00:00 UTC
-# Script generation date:     2016-06-20 13:27:29 UTC
+# Script generation date:     2016-11-24 21:01:15 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - tcpdump:4.6.2-1ubuntu1.1
 #
 # Last versions recommanded by security team:
-#   - tcpdump:4.6.2-1ubuntu1.2
+#   - tcpdump:4.6.2-1ubuntu1.1
 #
 # CVE List:
 #   - CVE-2014-8767
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tcpdump=4.6.2-1ubuntu1.2 -y
+sudo apt-get install --only-upgrade tcpdump=4.6.2-1ubuntu1.1 -y

@@ -4,18 +4,16 @@
 # Security fix for USN-2339-1
 #
 # Security announcement date: 2014-09-03 00:00:00 UTC
-# Script generation date:     2016-08-18 21:02:43 UTC
+# Script generation date:     2016-11-24 21:01:05 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - gnupg:1.4.11-3ubuntu2.7
-#   - gpgv:1.4.11-3ubuntu2.7
 #
 # Last versions recommanded by security team:
 #   - gnupg:1.4.11-3ubuntu2.10
-#   - gpgv:1.4.11-3ubuntu2.10
 #
 # CVE List:
 #   - CVE-2014-5270
@@ -25,4 +23,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade gnupg=1.4.11-3ubuntu2.10 -y
-sudo apt-get install --only-upgrade gpgv=1.4.11-3ubuntu2.10 -y

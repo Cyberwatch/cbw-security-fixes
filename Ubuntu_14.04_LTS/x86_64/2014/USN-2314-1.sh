@@ -4,17 +4,13 @@
 # Security fix for USN-2314-1
 #
 # Security announcement date: 2014-08-13 00:00:00 UTC
-# Script generation date:     2016-10-22 21:01:13 UTC
+# Script generation date:     2016-11-24 21:01:02 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - linux-image-3.13.0-33-generic:3.13.0-33.58
-#   - linux-source-3.13.0:3.13.0-33.58
-#   - linux-doc:3.13.0-33.58
-#   - linux-tools-common:3.13.0-33.58
-#   - linux-cloud-tools-common:3.13.0-33.58
 #   - linux-image-3.13.0-33-powerpc-e500mc:3.13.0-33.58
 #   - linux-image-3.13.0-33-lowlatency:3.13.0-33.58
 #   - linux-image-3.13.0-33-powerpc-smp:3.13.0-33.58
@@ -25,10 +21,6 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.13.0-33-generic:3.13.0-33.58
-#   - linux-source-3.13.0:3.13.0-98.145
-#   - linux-doc:3.13.0-98.145
-#   - linux-tools-common:3.13.0-98.145
-#   - linux-cloud-tools-common:3.13.0-98.145
 #   - linux-image-3.13.0-33-powerpc-e500mc:3.13.0-33.58
 #   - linux-image-3.13.0-33-lowlatency:3.13.0-33.58
 #   - linux-image-3.13.0-33-powerpc-smp:3.13.0-33.58
@@ -45,10 +37,6 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-33-generic=3.13.0-33.58 -y
-sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-98.145 -y
-sudo apt-get install --only-upgrade linux-doc=3.13.0-98.145 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.13.0-98.145 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-98.145 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-33-powerpc-e500mc=3.13.0-33.58 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-33-lowlatency=3.13.0-33.58 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-33-powerpc-smp=3.13.0-33.58 -y

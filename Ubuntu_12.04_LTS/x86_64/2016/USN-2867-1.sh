@@ -4,7 +4,7 @@
 # Security fix for USN-2867-1
 #
 # Security announcement date: 2016-01-12 00:00:00 UTC
-# Script generation date:     2016-06-20 21:40:58 UTC
+# Script generation date:     2016-11-24 21:02:16 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -12,19 +12,11 @@
 # Vulnerable packages fix on version:
 #   - libvirt0:0.9.8-2ubuntu17.23
 #   - libvirt-bin:0.9.8-2ubuntu17.23
-#   - libvirt0-dbg:0.9.8-2ubuntu17.23
-#   - libvirt-doc:0.9.8-2ubuntu17.23
-#   - libvirt-dev:0.9.8-2ubuntu17.23
-#   - python-libvirt:0.9.8-2ubuntu17.23
 #   - libvirt-bin:0.9.8-2ubuntu17.23
 #
 # Last versions recommanded by security team:
 #   - libvirt0:0.9.8-2ubuntu17.23
 #   - libvirt-bin:0.9.8-2ubuntu17.23
-#   - libvirt0-dbg:0.9.8-2ubuntu17.23
-#   - libvirt-doc:0.9.8-2ubuntu17.23
-#   - libvirt-dev:0.9.8-2ubuntu17.23
-#   - python-libvirt:0.9.8-2ubuntu17.23
 #   - libvirt-bin:0.9.8-2ubuntu17.23
 #
 # CVE List:
@@ -40,8 +32,4 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libvirt0=0.9.8-2ubuntu17.23 -y
 sudo apt-get install --only-upgrade libvirt-bin=0.9.8-2ubuntu17.23 -y
-sudo apt-get install --only-upgrade libvirt0-dbg=0.9.8-2ubuntu17.23 -y
-sudo apt-get install --only-upgrade libvirt-doc=0.9.8-2ubuntu17.23 -y
-sudo apt-get install --only-upgrade libvirt-dev=0.9.8-2ubuntu17.23 -y
-sudo apt-get install --only-upgrade python-libvirt=0.9.8-2ubuntu17.23 -y
 sudo apt-get install --only-upgrade libvirt-bin=0.9.8-2ubuntu17.23 -y

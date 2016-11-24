@@ -4,7 +4,7 @@
 # Security fix for USN-2397-1
 #
 # Security announcement date: 2014-11-04 00:00:00 UTC
-# Script generation date:     2016-06-20 13:27:18 UTC
+# Script generation date:     2016-11-24 21:01:12 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -16,10 +16,10 @@
 #   - ruby2.0:2.0.0.484+really457-3ubuntu1.1
 #
 # Last versions recommanded by security team:
-#   - libruby2.1:2.1.2-2ubuntu1.2
-#   - libruby2.0:2.0.0.484+really457-3ubuntu1.2
-#   - ruby2.1:2.1.2-2ubuntu1.2
-#   - ruby2.0:2.0.0.484+really457-3ubuntu1.2
+#   - libruby2.1:2.1.2-2ubuntu1.1
+#   - libruby2.0:2.0.0.484+really457-3ubuntu1.1
+#   - ruby2.1:2.1.2-2ubuntu1.1
+#   - ruby2.0:2.0.0.484+really457-3ubuntu1.1
 #
 # CVE List:
 #   - CVE-2014-4975
@@ -29,7 +29,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libruby2.1=2.1.2-2ubuntu1.2 -y
-sudo apt-get install --only-upgrade libruby2.0=2.0.0.484+really457-3ubuntu1.2 -y
-sudo apt-get install --only-upgrade ruby2.1=2.1.2-2ubuntu1.2 -y
-sudo apt-get install --only-upgrade ruby2.0=2.0.0.484+really457-3ubuntu1.2 -y
+sudo apt-get install --only-upgrade libruby2.1=2.1.2-2ubuntu1.1 -y
+sudo apt-get install --only-upgrade libruby2.0=2.0.0.484+really457-3ubuntu1.1 -y
+sudo apt-get install --only-upgrade ruby2.1=2.1.2-2ubuntu1.1 -y
+sudo apt-get install --only-upgrade ruby2.0=2.0.0.484+really457-3ubuntu1.1 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2947-1
 #
 # Security announcement date: 2016-04-06 00:00:00 UTC
-# Script generation date:     2016-09-21 21:03:38 UTC
+# Script generation date:     2016-11-24 21:02:33 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
@@ -14,22 +14,7 @@
 #   - linux-image-4.2.0-35-powerpc-e500mc:4.2.0-35.40
 #   - linux-image-4.2.0-35-powerpc64-smp:4.2.0-35.40
 #   - linux-image-4.2.0-35-lowlatency:4.2.0-35.40
-#   - linux-source-4.2.0:4.2.0-35.40
-#   - linux-doc:4.2.0-35.40
-#   - linux-headers-4.2.0-35:4.2.0-35.40
-#   - linux-libc-dev:4.2.0-35.40
-#   - linux-tools-common:4.2.0-35.40
-#   - linux-tools-4.2.0-35:4.2.0-35.40
-#   - linux-cloud-tools-common:4.2.0-35.40
-#   - linux-cloud-tools-4.2.0-35:4.2.0-35.40
 #   - linux-image-4.2.0-35-generic:4.2.0-35.40
-#   - linux-image-extra-4.2.0-35-generic:4.2.0-35.40
-#   - linux-headers-4.2.0-35-generic:4.2.0-35.40
-#   - linux-tools-4.2.0-35-generic:4.2.0-35.40
-#   - linux-cloud-tools-4.2.0-35-generic:4.2.0-35.40
-#   - linux-headers-4.2.0-35-lowlatency:4.2.0-35.40
-#   - linux-tools-4.2.0-35-lowlatency:4.2.0-35.40
-#   - linux-cloud-tools-4.2.0-35-lowlatency:4.2.0-35.40
 #   - linux-image-4.2.0-35-powerpc-smp:4.2.0-35.40
 #   - linux-image-4.2.0-35-powerpc64-emb:4.2.0-35.40
 #
@@ -38,22 +23,7 @@
 #   - linux-image-4.2.0-35-powerpc-e500mc:4.2.0-35.40
 #   - linux-image-4.2.0-35-powerpc64-smp:4.2.0-35.40
 #   - linux-image-4.2.0-35-lowlatency:4.2.0-35.40
-#   - linux-source-4.2.0:4.2.0-42.49
-#   - linux-doc:4.2.0-42.49
-#   - linux-headers-4.2.0-35:4.2.0-35.40
-#   - linux-libc-dev:4.2.0-42.49
-#   - linux-tools-common:4.2.0-42.49
-#   - linux-tools-4.2.0-35:4.2.0-35.40
-#   - linux-cloud-tools-common:4.2.0-42.49
-#   - linux-cloud-tools-4.2.0-35:4.2.0-35.40
 #   - linux-image-4.2.0-35-generic:4.2.0-35.40
-#   - linux-image-extra-4.2.0-35-generic:4.2.0-35.40
-#   - linux-headers-4.2.0-35-generic:4.2.0-35.40
-#   - linux-tools-4.2.0-35-generic:4.2.0-35.40
-#   - linux-cloud-tools-4.2.0-35-generic:4.2.0-35.40
-#   - linux-headers-4.2.0-35-lowlatency:4.2.0-35.40
-#   - linux-tools-4.2.0-35-lowlatency:4.2.0-35.40
-#   - linux-cloud-tools-4.2.0-35-lowlatency:4.2.0-35.40
 #   - linux-image-4.2.0-35-powerpc-smp:4.2.0-35.40
 #   - linux-image-4.2.0-35-powerpc64-emb:4.2.0-35.40
 #
@@ -73,21 +43,6 @@ sudo apt-get install --only-upgrade linux-image-4.2.0-35-generic-lpae=4.2.0-35.4
 sudo apt-get install --only-upgrade linux-image-4.2.0-35-powerpc-e500mc=4.2.0-35.40 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-35-powerpc64-smp=4.2.0-35.40 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-35-lowlatency=4.2.0-35.40 -y
-sudo apt-get install --only-upgrade linux-source-4.2.0=4.2.0-42.49 -y
-sudo apt-get install --only-upgrade linux-doc=4.2.0-42.49 -y
-sudo apt-get install --only-upgrade linux-headers-4.2.0-35=4.2.0-35.40 -y
-sudo apt-get install --only-upgrade linux-libc-dev=4.2.0-42.49 -y
-sudo apt-get install --only-upgrade linux-tools-common=4.2.0-42.49 -y
-sudo apt-get install --only-upgrade linux-tools-4.2.0-35=4.2.0-35.40 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=4.2.0-42.49 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-4.2.0-35=4.2.0-35.40 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-35-generic=4.2.0-35.40 -y
-sudo apt-get install --only-upgrade linux-image-extra-4.2.0-35-generic=4.2.0-35.40 -y
-sudo apt-get install --only-upgrade linux-headers-4.2.0-35-generic=4.2.0-35.40 -y
-sudo apt-get install --only-upgrade linux-tools-4.2.0-35-generic=4.2.0-35.40 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-4.2.0-35-generic=4.2.0-35.40 -y
-sudo apt-get install --only-upgrade linux-headers-4.2.0-35-lowlatency=4.2.0-35.40 -y
-sudo apt-get install --only-upgrade linux-tools-4.2.0-35-lowlatency=4.2.0-35.40 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-4.2.0-35-lowlatency=4.2.0-35.40 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-35-powerpc-smp=4.2.0-35.40 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-35-powerpc64-emb=4.2.0-35.40 -y

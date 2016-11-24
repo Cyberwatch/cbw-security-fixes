@@ -4,7 +4,7 @@
 # Security fix for USN-2504-1
 #
 # Security announcement date: 2015-02-19 00:00:00 UTC
-# Script generation date:     2016-06-20 13:20:38 UTC
+# Script generation date:     2016-11-24 21:01:23 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libnss3:2:3.17.4-0ubuntu0.14.10.1
 #
 # Last versions recommanded by security team:
-#   - libnss3:2:3.19.2-0ubuntu0.14.10.1
+#   - libnss3:2:3.17.4-0ubuntu0.14.10.1
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libnss3=2:3.19.2-0ubuntu0.14.10.1 -y
+sudo apt-get install --only-upgrade libnss3=2:3.17.4-0ubuntu0.14.10.1 -y

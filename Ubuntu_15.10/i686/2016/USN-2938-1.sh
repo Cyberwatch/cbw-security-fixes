@@ -4,24 +4,16 @@
 # Security fix for USN-2938-1
 #
 # Security announcement date: 2016-03-21 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:49 UTC
+# Script generation date:     2016-11-24 21:02:32 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
 #
 # Vulnerable packages fix on version:
 #   - git:1:2.5.0-1ubuntu0.2
-#   - git-man:1:2.5.0-1ubuntu0.2
-#   - git-core:1:2.5.0-1ubuntu0.2
-#   - git-doc:1:2.5.0-1ubuntu0.2
-#   - gitk:1:2.5.0-1ubuntu0.2
 #
 # Last versions recommanded by security team:
 #   - git:1:2.5.0-1ubuntu0.2
-#   - git-man:1:2.5.0-1ubuntu0.2
-#   - git-core:1:2.5.0-1ubuntu0.2
-#   - git-doc:1:2.5.0-1ubuntu0.2
-#   - gitk:1:2.5.0-1ubuntu0.2
 #
 # CVE List:
 #   - CVE-2016-2315
@@ -32,7 +24,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade git=1:2.5.0-1ubuntu0.2 -y
-sudo apt-get install --only-upgrade git-man=1:2.5.0-1ubuntu0.2 -y
-sudo apt-get install --only-upgrade git-core=1:2.5.0-1ubuntu0.2 -y
-sudo apt-get install --only-upgrade git-doc=1:2.5.0-1ubuntu0.2 -y
-sudo apt-get install --only-upgrade gitk=1:2.5.0-1ubuntu0.2 -y

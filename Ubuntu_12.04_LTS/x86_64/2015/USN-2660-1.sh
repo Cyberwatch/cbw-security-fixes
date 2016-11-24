@@ -4,7 +4,7 @@
 # Security fix for USN-2660-1
 #
 # Security announcement date: 2015-07-07 00:00:00 UTC
-# Script generation date:     2016-11-09 21:02:56 UTC
+# Script generation date:     2016-11-24 21:01:46 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,10 +13,6 @@
 #   - linux-image-3.2.0-87-powerpc64-smp:3.2.0-87.125
 #   - linux-image-3.2.0-87-powerpc-smp:3.2.0-87.125
 #   - linux-image-3.2.0-87-generic-pae:3.2.0-87.125
-#   - linux-source-3.2.0:3.2.0-87.125
-#   - linux-doc:3.2.0-87.125
-#   - linux-tools-common:3.2.0-87.125
-#   - linux-libc-dev:3.2.0-87.125
 #   - linux-image-3.2.0-87-virtual:3.2.0-87.125
 #   - linux-image-3.2.0-87-highbank:3.2.0-87.125
 #   - linux-image-3.2.0-87-omap:3.2.0-87.125
@@ -26,10 +22,6 @@
 #   - linux-image-3.2.0-87-powerpc64-smp:3.2.0-87.125
 #   - linux-image-3.2.0-87-powerpc-smp:3.2.0-87.125
 #   - linux-image-3.2.0-87-generic-pae:3.2.0-87.125
-#   - linux-source-3.2.0:3.2.0-99.139
-#   - linux-doc:3.2.0-99.139
-#   - linux-tools-common:3.2.0-99.139
-#   - linux-libc-dev:3.2.0-115.157
 #   - linux-image-3.2.0-87-virtual:3.2.0-87.125
 #   - linux-image-3.2.0-87-highbank:3.2.0-87.125
 #   - linux-image-3.2.0-87-omap:3.2.0-87.125
@@ -45,10 +37,6 @@
 sudo apt-get install --only-upgrade linux-image-3.2.0-87-powerpc64-smp=3.2.0-87.125 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-87-powerpc-smp=3.2.0-87.125 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-87-generic-pae=3.2.0-87.125 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-99.139 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-99.139 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-99.139 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.2.0-115.157 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-87-virtual=3.2.0-87.125 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-87-highbank=3.2.0-87.125 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-87-omap=3.2.0-87.125 -y

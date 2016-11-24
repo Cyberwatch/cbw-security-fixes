@@ -4,24 +4,16 @@
 # Security fix for USN-2939-1
 #
 # Security announcement date: 2016-03-23 00:00:00 UTC
-# Script generation date:     2016-06-21 01:25:24 UTC
+# Script generation date:     2016-11-24 21:02:32 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - libtiff4:3.9.5-2ubuntu1.9
-#   - libtiffxx0c2:3.9.5-2ubuntu1.9
-#   - libtiff4-dev:3.9.5-2ubuntu1.9
-#   - libtiff-tools:3.9.5-2ubuntu1.9
-#   - libtiff-doc:3.9.5-2ubuntu1.9
 #
 # Last versions recommanded by security team:
 #   - libtiff4:3.9.5-2ubuntu1.9
-#   - libtiffxx0c2:3.9.5-2ubuntu1.9
-#   - libtiff4-dev:3.9.5-2ubuntu1.9
-#   - libtiff-tools:3.9.5-2ubuntu1.9
-#   - libtiff-doc:3.9.5-2ubuntu1.9
 #
 # CVE List:
 #   - CVE-2015-8665
@@ -36,7 +28,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libtiff4=3.9.5-2ubuntu1.9 -y
-sudo apt-get install --only-upgrade libtiffxx0c2=3.9.5-2ubuntu1.9 -y
-sudo apt-get install --only-upgrade libtiff4-dev=3.9.5-2ubuntu1.9 -y
-sudo apt-get install --only-upgrade libtiff-tools=3.9.5-2ubuntu1.9 -y
-sudo apt-get install --only-upgrade libtiff-doc=3.9.5-2ubuntu1.9 -y

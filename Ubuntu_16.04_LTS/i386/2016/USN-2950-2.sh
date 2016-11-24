@@ -3,8 +3,8 @@
 #
 # Security fix for USN-2950-2
 #
-# Security announcement date: 2016-04-27 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:56 UTC
+# Security announcement date: 2016-05-04 00:00:00 UTC
+# Script generation date:     2016-11-24 21:02:35 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: i386

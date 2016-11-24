@@ -4,18 +4,16 @@
 # Security fix for USN-3033-1
 #
 # Security announcement date: 2016-07-14 00:00:00 UTC
-# Script generation date:     2016-07-16 21:08:16 UTC
+# Script generation date:     2016-11-24 21:02:45 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - libarchive13:3.1.2-11ubuntu0.16.04.2
-#   - libarchive-dev:3.1.2-11ubuntu0.16.04.2
 #
 # Last versions recommanded by security team:
 #   - libarchive13:3.1.2-11ubuntu0.16.04.2
-#   - libarchive-dev:3.1.2-11ubuntu0.16.04.2
 #
 # CVE List:
 #   - CVE-2015-8916
@@ -44,4 +42,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libarchive13=3.1.2-11ubuntu0.16.04.2 -y
-sudo apt-get install --only-upgrade libarchive-dev=3.1.2-11ubuntu0.16.04.2 -y

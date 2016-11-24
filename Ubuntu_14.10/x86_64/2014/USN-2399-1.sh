@@ -4,7 +4,7 @@
 # Security fix for USN-2399-1
 #
 # Security announcement date: 2014-11-10 00:00:00 UTC
-# Script generation date:     2016-06-20 13:27:19 UTC
+# Script generation date:     2016-11-24 21:01:12 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - libcurl3:7.37.1-1ubuntu3.1
 #
 # Last versions recommanded by security team:
-#   - libcurl3-nss:7.37.1-1ubuntu3.4
-#   - libcurl3-gnutls:7.37.1-1ubuntu3.4
-#   - libcurl3:7.37.1-1ubuntu3.4
+#   - libcurl3-nss:7.37.1-1ubuntu3.1
+#   - libcurl3-gnutls:7.37.1-1ubuntu3.1
+#   - libcurl3:7.37.1-1ubuntu3.1
 #
 # CVE List:
 #   - CVE-2014-3707
@@ -26,6 +26,6 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libcurl3-nss=7.37.1-1ubuntu3.4 -y
-sudo apt-get install --only-upgrade libcurl3-gnutls=7.37.1-1ubuntu3.4 -y
-sudo apt-get install --only-upgrade libcurl3=7.37.1-1ubuntu3.4 -y
+sudo apt-get install --only-upgrade libcurl3-nss=7.37.1-1ubuntu3.1 -y
+sudo apt-get install --only-upgrade libcurl3-gnutls=7.37.1-1ubuntu3.1 -y
+sudo apt-get install --only-upgrade libcurl3=7.37.1-1ubuntu3.1 -y

@@ -4,22 +4,16 @@
 # Security fix for USN-2943-1
 #
 # Security announcement date: 2016-03-29 00:00:00 UTC
-# Script generation date:     2016-06-21 01:25:25 UTC
+# Script generation date:     2016-11-24 21:02:32 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
 #
 # Vulnerable packages fix on version:
 #   - libpcre3:1:8.31-2ubuntu2.2
-#   - libpcrecpp0:1:8.31-2ubuntu2.2
-#   - libpcre3-dev:1:8.31-2ubuntu2.2
-#   - libpcre3-dbg:1:8.31-2ubuntu2.2
 #
 # Last versions recommanded by security team:
 #   - libpcre3:1:8.31-2ubuntu2.2
-#   - libpcrecpp0:1:8.31-2ubuntu2.2
-#   - libpcre3-dev:1:8.31-2ubuntu2.2
-#   - libpcre3-dbg:1:8.31-2ubuntu2.2
 #
 # CVE List:
 #   - CVE-2014-9769
@@ -53,6 +47,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libpcre3=1:8.31-2ubuntu2.2 -y
-sudo apt-get install --only-upgrade libpcrecpp0=1:8.31-2ubuntu2.2 -y
-sudo apt-get install --only-upgrade libpcre3-dev=1:8.31-2ubuntu2.2 -y
-sudo apt-get install --only-upgrade libpcre3-dbg=1:8.31-2ubuntu2.2 -y

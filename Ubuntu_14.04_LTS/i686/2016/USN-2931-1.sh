@@ -4,7 +4,7 @@
 # Security fix for USN-2931-1
 #
 # Security announcement date: 2016-03-14 00:00:00 UTC
-# Script generation date:     2016-06-21 01:25:22 UTC
+# Script generation date:     2016-11-24 21:02:31 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -13,18 +13,8 @@
 #   - linux-image-3.16.0-67-powerpc-smp:3.16.0-67.87~14.04.1
 #   - linux-image-3.16.0-67-powerpc64-smp:3.16.0-67.87~14.04.1
 #   - linux-image-3.16.0-67-generic:3.16.0-67.87~14.04.1
-#   - linux-headers-3.16.0-67:3.16.0-67.87~14.04.1
-#   - linux-lts-utopic-tools-3.16.0-67:3.16.0-67.87~14.04.1
-#   - linux-lts-utopic-cloud-tools-3.16.0-67:3.16.0-67.87~14.04.1
-#   - linux-image-extra-3.16.0-67-generic:3.16.0-67.87~14.04.1
-#   - linux-headers-3.16.0-67-generic:3.16.0-67.87~14.04.1
-#   - linux-tools-3.16.0-67-generic:3.16.0-67.87~14.04.1
-#   - linux-cloud-tools-3.16.0-67-generic:3.16.0-67.87~14.04.1
 #   - linux-image-3.16.0-67-generic-lpae:3.16.0-67.87~14.04.1
 #   - linux-image-3.16.0-67-lowlatency:3.16.0-67.87~14.04.1
-#   - linux-headers-3.16.0-67-lowlatency:3.16.0-67.87~14.04.1
-#   - linux-tools-3.16.0-67-lowlatency:3.16.0-67.87~14.04.1
-#   - linux-cloud-tools-3.16.0-67-lowlatency:3.16.0-67.87~14.04.1
 #   - linux-image-3.16.0-67-powerpc-e500mc:3.16.0-67.87~14.04.1
 #   - linux-image-3.16.0-67-powerpc-e500mc:3.16.0-67.87~14.04.1
 #   - linux-image-3.16.0-67-generic-lpae:3.16.0-67.87~14.04.1
@@ -35,18 +25,8 @@
 #   - linux-image-3.16.0-67-powerpc-smp:3.16.0-67.87~14.04.1
 #   - linux-image-3.16.0-67-powerpc64-smp:3.16.0-67.87~14.04.1
 #   - linux-image-3.16.0-67-generic:3.16.0-67.87~14.04.1
-#   - linux-headers-3.16.0-67:3.16.0-67.87~14.04.1
-#   - linux-lts-utopic-tools-3.16.0-67:3.16.0-67.87~14.04.1
-#   - linux-lts-utopic-cloud-tools-3.16.0-67:3.16.0-67.87~14.04.1
-#   - linux-image-extra-3.16.0-67-generic:3.16.0-67.87~14.04.1
-#   - linux-headers-3.16.0-67-generic:3.16.0-67.87~14.04.1
-#   - linux-tools-3.16.0-67-generic:3.16.0-67.87~14.04.1
-#   - linux-cloud-tools-3.16.0-67-generic:3.16.0-67.87~14.04.1
 #   - linux-image-3.16.0-67-generic-lpae:3.16.0-67.87~14.04.1
 #   - linux-image-3.16.0-67-lowlatency:3.16.0-67.87~14.04.1
-#   - linux-headers-3.16.0-67-lowlatency:3.16.0-67.87~14.04.1
-#   - linux-tools-3.16.0-67-lowlatency:3.16.0-67.87~14.04.1
-#   - linux-cloud-tools-3.16.0-67-lowlatency:3.16.0-67.87~14.04.1
 #   - linux-image-3.16.0-67-powerpc-e500mc:3.16.0-67.87~14.04.1
 #   - linux-image-3.16.0-67-powerpc-e500mc:3.16.0-67.87~14.04.1
 #   - linux-image-3.16.0-67-generic-lpae:3.16.0-67.87~14.04.1
@@ -74,18 +54,8 @@
 sudo apt-get install --only-upgrade linux-image-3.16.0-67-powerpc-smp=3.16.0-67.87~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.16.0-67-powerpc64-smp=3.16.0-67.87~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.16.0-67-generic=3.16.0-67.87~14.04.1 -y
-sudo apt-get install --only-upgrade linux-headers-3.16.0-67=3.16.0-67.87~14.04.1 -y
-sudo apt-get install --only-upgrade linux-lts-utopic-tools-3.16.0-67=3.16.0-67.87~14.04.1 -y
-sudo apt-get install --only-upgrade linux-lts-utopic-cloud-tools-3.16.0-67=3.16.0-67.87~14.04.1 -y
-sudo apt-get install --only-upgrade linux-image-extra-3.16.0-67-generic=3.16.0-67.87~14.04.1 -y
-sudo apt-get install --only-upgrade linux-headers-3.16.0-67-generic=3.16.0-67.87~14.04.1 -y
-sudo apt-get install --only-upgrade linux-tools-3.16.0-67-generic=3.16.0-67.87~14.04.1 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-3.16.0-67-generic=3.16.0-67.87~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.16.0-67-generic-lpae=3.16.0-67.87~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.16.0-67-lowlatency=3.16.0-67.87~14.04.1 -y
-sudo apt-get install --only-upgrade linux-headers-3.16.0-67-lowlatency=3.16.0-67.87~14.04.1 -y
-sudo apt-get install --only-upgrade linux-tools-3.16.0-67-lowlatency=3.16.0-67.87~14.04.1 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-3.16.0-67-lowlatency=3.16.0-67.87~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.16.0-67-powerpc-e500mc=3.16.0-67.87~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.16.0-67-powerpc-e500mc=3.16.0-67.87~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.16.0-67-generic-lpae=3.16.0-67.87~14.04.1 -y

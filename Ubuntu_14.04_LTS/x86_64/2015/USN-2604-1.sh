@@ -4,26 +4,16 @@
 # Security fix for USN-2604-1
 #
 # Security announcement date: 2015-05-11 00:00:00 UTC
-# Script generation date:     2016-06-20 12:40:22 UTC
+# Script generation date:     2016-11-24 21:01:37 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - libtasn1-6:3.4-3ubuntu0.3
-#   - libtasn1-6-dev:3.4-3ubuntu0.3
-#   - libtasn1-6-dbg:3.4-3ubuntu0.3
-#   - libtasn1-bin:3.4-3ubuntu0.3
-#   - libtasn1-3-dev:3.4-3ubuntu0.3
-#   - libtasn1-3-bin:3.4-3ubuntu0.3
 #
 # Last versions recommanded by security team:
 #   - libtasn1-6:3.4-3ubuntu0.4
-#   - libtasn1-6-dev:3.4-3ubuntu0.4
-#   - libtasn1-6-dbg:3.4-3ubuntu0.4
-#   - libtasn1-bin:3.4-3ubuntu0.4
-#   - libtasn1-3-dev:3.4-3ubuntu0.4
-#   - libtasn1-3-bin:3.4-3ubuntu0.4
 #
 # CVE List:
 #   - CVE-2015-3622
@@ -33,8 +23,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libtasn1-6=3.4-3ubuntu0.4 -y
-sudo apt-get install --only-upgrade libtasn1-6-dev=3.4-3ubuntu0.4 -y
-sudo apt-get install --only-upgrade libtasn1-6-dbg=3.4-3ubuntu0.4 -y
-sudo apt-get install --only-upgrade libtasn1-bin=3.4-3ubuntu0.4 -y
-sudo apt-get install --only-upgrade libtasn1-3-dev=3.4-3ubuntu0.4 -y
-sudo apt-get install --only-upgrade libtasn1-3-bin=3.4-3ubuntu0.4 -y

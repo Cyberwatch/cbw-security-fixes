@@ -4,7 +4,7 @@
 # Security fix for USN-2923-1
 #
 # Security announcement date: 2016-03-08 00:00:00 UTC
-# Script generation date:     2016-06-21 01:25:12 UTC
+# Script generation date:     2016-11-24 21:02:28 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -12,13 +12,11 @@
 # Vulnerable packages fix on version:
 #   - libbsh-java:2.0b4-15ubuntu0.14.04.1
 #   - bsh:2.0b4-15ubuntu0.14.04.1
-#   - bsh-doc:2.0b4-15ubuntu0.14.04.1
 #   - bsh:2.0b4-15ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
 #   - libbsh-java:2.0b4-15ubuntu0.14.04.1
 #   - bsh:2.0b4-15ubuntu0.14.04.1
-#   - bsh-doc:2.0b4-15ubuntu0.14.04.1
 #   - bsh:2.0b4-15ubuntu0.14.04.1
 #
 # CVE List:
@@ -30,5 +28,4 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libbsh-java=2.0b4-15ubuntu0.14.04.1 -y
 sudo apt-get install --only-upgrade bsh=2.0b4-15ubuntu0.14.04.1 -y
-sudo apt-get install --only-upgrade bsh-doc=2.0b4-15ubuntu0.14.04.1 -y
 sudo apt-get install --only-upgrade bsh=2.0b4-15ubuntu0.14.04.1 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2390-1
 #
 # Security announcement date: 2014-10-28 00:00:00 UTC
-# Script generation date:     2016-07-12 21:02:39 UTC
+# Script generation date:     2016-11-24 21:01:11 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -12,25 +12,11 @@
 # Vulnerable packages fix on version:
 #   - pidgin:1:2.10.3-0ubuntu1.6
 #   - libpurple0:1:2.10.3-0ubuntu1.6
-#   - pidgin-data:1:2.10.3-0ubuntu1.6
-#   - pidgin-dev:1:2.10.3-0ubuntu1.6
-#   - pidgin-dbg:1:2.10.3-0ubuntu1.6
-#   - finch:1:2.10.3-0ubuntu1.6
-#   - finch-dev:1:2.10.3-0ubuntu1.6
-#   - libpurple-dev:1:2.10.3-0ubuntu1.6
-#   - libpurple-bin:1:2.10.3-0ubuntu1.6
 #   - libpurple0:1:2.10.3-0ubuntu1.6
 #
 # Last versions recommanded by security team:
 #   - pidgin:1:2.10.3-0ubuntu1.7
 #   - libpurple0:1:2.10.3-0ubuntu1.7
-#   - pidgin-data:1:2.10.3-0ubuntu1.7
-#   - pidgin-dev:1:2.10.3-0ubuntu1.7
-#   - pidgin-dbg:1:2.10.3-0ubuntu1.7
-#   - finch:1:2.10.3-0ubuntu1.7
-#   - finch-dev:1:2.10.3-0ubuntu1.7
-#   - libpurple-dev:1:2.10.3-0ubuntu1.7
-#   - libpurple-bin:1:2.10.3-0ubuntu1.7
 #   - libpurple0:1:2.10.3-0ubuntu1.7
 #
 # CVE List:
@@ -45,11 +31,4 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade pidgin=1:2.10.3-0ubuntu1.7 -y
 sudo apt-get install --only-upgrade libpurple0=1:2.10.3-0ubuntu1.7 -y
-sudo apt-get install --only-upgrade pidgin-data=1:2.10.3-0ubuntu1.7 -y
-sudo apt-get install --only-upgrade pidgin-dev=1:2.10.3-0ubuntu1.7 -y
-sudo apt-get install --only-upgrade pidgin-dbg=1:2.10.3-0ubuntu1.7 -y
-sudo apt-get install --only-upgrade finch=1:2.10.3-0ubuntu1.7 -y
-sudo apt-get install --only-upgrade finch-dev=1:2.10.3-0ubuntu1.7 -y
-sudo apt-get install --only-upgrade libpurple-dev=1:2.10.3-0ubuntu1.7 -y
-sudo apt-get install --only-upgrade libpurple-bin=1:2.10.3-0ubuntu1.7 -y
 sudo apt-get install --only-upgrade libpurple0=1:2.10.3-0ubuntu1.7 -y

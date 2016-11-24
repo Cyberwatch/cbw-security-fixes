@@ -4,21 +4,17 @@
 # Security fix for USN-3117-1
 #
 # Security announcement date: 2016-11-01 00:00:00 UTC
-# Script generation date:     2016-11-03 21:05:22 UTC
+# Script generation date:     2016-11-24 21:02:53 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - libgd2-xpm:2.0.36~rc1~dfsg-6ubuntu2.3
-#   - libgd2-xpm-dev:2.0.36~rc1~dfsg-6ubuntu2.3
-#   - libgd2-noxpm-dev:2.0.36~rc1~dfsg-6ubuntu2.3
 #   - libgd2-noxpm:2.0.36~rc1~dfsg-6ubuntu2.3
 #
 # Last versions recommanded by security team:
 #   - libgd2-xpm:2.0.36~rc1~dfsg-6ubuntu2.3
-#   - libgd2-xpm-dev:2.0.36~rc1~dfsg-6ubuntu2.3
-#   - libgd2-noxpm-dev:2.0.36~rc1~dfsg-6ubuntu2.3
 #   - libgd2-noxpm:2.0.36~rc1~dfsg-6ubuntu2.3
 #
 # CVE List:
@@ -31,6 +27,4 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libgd2-xpm=2.0.36~rc1~dfsg-6ubuntu2.3 -y
-sudo apt-get install --only-upgrade libgd2-xpm-dev=2.0.36~rc1~dfsg-6ubuntu2.3 -y
-sudo apt-get install --only-upgrade libgd2-noxpm-dev=2.0.36~rc1~dfsg-6ubuntu2.3 -y
 sudo apt-get install --only-upgrade libgd2-noxpm=2.0.36~rc1~dfsg-6ubuntu2.3 -y

@@ -4,16 +4,13 @@
 # Security fix for USN-1844-1
 #
 # Security announcement date: 2013-05-30 00:00:00 UTC
-# Script generation date:     2016-10-04 21:00:43 UTC
+# Script generation date:     2016-11-24 21:00:37 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - linux-image-3.2.0-45-generic:3.2.0-45.70
-#   - linux-source-3.2.0:3.2.0-45.70
-#   - linux-doc:3.2.0-45.70
-#   - linux-tools-common:3.2.0-45.70
 #   - linux-image-3.2.0-45-powerpc-smp:3.2.0-45.70
 #   - linux-image-3.2.0-45-virtual:3.2.0-45.70
 #   - linux-image-3.2.0-45-highbank:3.2.0-45.70
@@ -23,9 +20,6 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-45-generic:3.2.0-45.70
-#   - linux-source-3.2.0:3.2.0-99.139
-#   - linux-doc:3.2.0-99.139
-#   - linux-tools-common:3.2.0-99.139
 #   - linux-image-3.2.0-45-powerpc-smp:3.2.0-45.70
 #   - linux-image-3.2.0-45-virtual:3.2.0-45.70
 #   - linux-image-3.2.0-45-highbank:3.2.0-45.70
@@ -41,9 +35,6 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-45-generic=3.2.0-45.70 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-99.139 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-99.139 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-99.139 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-45-powerpc-smp=3.2.0-45.70 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-45-virtual=3.2.0-45.70 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-45-highbank=3.2.0-45.70 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-3045-1
 #
 # Security announcement date: 2016-08-02 00:00:00 UTC
-# Script generation date:     2016-10-04 21:04:24 UTC
+# Script generation date:     2016-11-24 21:02:46 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: x86_64
@@ -12,54 +12,14 @@
 # Vulnerable packages fix on version:
 #   - php7.0-fpm:7.0.8-0ubuntu0.16.04.2
 #   - libapache2-mod-php7.0:7.0.8-0ubuntu0.16.04.2
-#   - php7.0:7.0.8-0ubuntu0.16.04.2
 #   - php7.0-cgi:7.0.8-0ubuntu0.16.04.2
 #   - php7.0-cli:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-dev:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-odbc:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-readline:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-recode:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-common:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-sqlite3:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-xml:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-gd:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-ldap:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-snmp:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-json:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-pgsql:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-opcache:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-gmp:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-mysql:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-tidy:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-xmlrpc:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-pspell:7.0.8-0ubuntu0.16.04.2
-#   - php7.0-curl:7.0.8-0ubuntu0.16.04.2
 #
 # Last versions recommanded by security team:
 #   - php7.0-fpm:7.0.8-0ubuntu0.16.04.2
 #   - libapache2-mod-php7.0:7.0.8-0ubuntu0.16.04.3
-#   - php7.0:7.0.8-0ubuntu0.16.04.3
 #   - php7.0-cgi:7.0.8-0ubuntu0.16.04.3
 #   - php7.0-cli:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-dev:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-odbc:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-readline:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-recode:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-common:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-sqlite3:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-xml:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-gd:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-ldap:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-snmp:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-json:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-pgsql:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-opcache:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-gmp:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-mysql:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-tidy:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-xmlrpc:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-pspell:7.0.8-0ubuntu0.16.04.3
-#   - php7.0-curl:7.0.8-0ubuntu0.16.04.3
 #
 # CVE List:
 #   - CVE-2015-4116
@@ -94,25 +54,5 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade php7.0-fpm=7.0.8-0ubuntu0.16.04.2 -y
 sudo apt-get install --only-upgrade libapache2-mod-php7.0=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0=7.0.8-0ubuntu0.16.04.3 -y
 sudo apt-get install --only-upgrade php7.0-cgi=7.0.8-0ubuntu0.16.04.3 -y
 sudo apt-get install --only-upgrade php7.0-cli=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-dev=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-odbc=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-readline=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-recode=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-common=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-sqlite3=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-xml=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-gd=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-ldap=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-snmp=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-json=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-pgsql=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-opcache=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-gmp=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-mysql=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-tidy=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-xmlrpc=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-pspell=7.0.8-0ubuntu0.16.04.3 -y
-sudo apt-get install --only-upgrade php7.0-curl=7.0.8-0ubuntu0.16.04.3 -y

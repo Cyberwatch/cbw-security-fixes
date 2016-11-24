@@ -4,7 +4,7 @@
 # Security fix for USN-2539-1
 #
 # Security announcement date: 2015-03-23 00:00:00 UTC
-# Script generation date:     2016-06-20 12:39:53 UTC
+# Script generation date:     2016-11-24 21:01:29 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - python-django:1.6.6-1ubuntu2.2
 #
 # Last versions recommanded by security team:
-#   - python3-django:1.6.6-1ubuntu2.3
-#   - python-django:1.6.6-1ubuntu2.3
+#   - python3-django:1.6.6-1ubuntu2.2
+#   - python-django:1.6.6-1ubuntu2.2
 #
 # CVE List:
 #   - CVE-2015-2316
@@ -25,5 +25,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python3-django=1.6.6-1ubuntu2.3 -y
-sudo apt-get install --only-upgrade python-django=1.6.6-1ubuntu2.3 -y
+sudo apt-get install --only-upgrade python3-django=1.6.6-1ubuntu2.2 -y
+sudo apt-get install --only-upgrade python-django=1.6.6-1ubuntu2.2 -y

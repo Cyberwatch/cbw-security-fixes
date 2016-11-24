@@ -4,26 +4,16 @@
 # Security fix for USN-3041-1
 #
 # Security announcement date: 2016-08-05 00:00:00 UTC
-# Script generation date:     2016-11-02 21:06:41 UTC
+# Script generation date:     2016-11-24 21:02:46 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - liboxideqtcore0:1.16.5-0ubuntu0.16.04.1
-#   - liboxideqtcore-dev:1.16.5-0ubuntu0.16.04.1
-#   - liboxideqtquick0:1.16.5-0ubuntu0.16.04.1
-#   - liboxideqtquick-dev:1.16.5-0ubuntu0.16.04.1
-#   - liboxideqt-qmlplugin:1.16.5-0ubuntu0.16.04.1
-#   - oxideqt-codecs:1.16.5-0ubuntu0.16.04.1
 #
 # Last versions recommanded by security team:
 #   - liboxideqtcore0:1.18.3-0ubuntu0.16.04.1
-#   - liboxideqtcore-dev:1.18.3-0ubuntu0.16.04.1
-#   - liboxideqtquick0:1.18.3-0ubuntu0.16.04.1
-#   - liboxideqtquick-dev:1.18.3-0ubuntu0.16.04.1
-#   - liboxideqt-qmlplugin:1.18.3-0ubuntu0.16.04.1
-#   - oxideqt-codecs:1.18.3-0ubuntu0.16.04.1
 #
 # CVE List:
 #   - CVE-2016-1705
@@ -46,8 +36,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade liboxideqtcore0=1.18.3-0ubuntu0.16.04.1 -y
-sudo apt-get install --only-upgrade liboxideqtcore-dev=1.18.3-0ubuntu0.16.04.1 -y
-sudo apt-get install --only-upgrade liboxideqtquick0=1.18.3-0ubuntu0.16.04.1 -y
-sudo apt-get install --only-upgrade liboxideqtquick-dev=1.18.3-0ubuntu0.16.04.1 -y
-sudo apt-get install --only-upgrade liboxideqt-qmlplugin=1.18.3-0ubuntu0.16.04.1 -y
-sudo apt-get install --only-upgrade oxideqt-codecs=1.18.3-0ubuntu0.16.04.1 -y

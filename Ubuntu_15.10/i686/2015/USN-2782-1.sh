@@ -4,30 +4,16 @@
 # Security fix for USN-2782-1
 #
 # Security announcement date: 2015-10-27 00:00:00 UTC
-# Script generation date:     2016-06-20 13:51:02 UTC
+# Script generation date:     2016-11-24 21:02:04 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
 #
 # Vulnerable packages fix on version:
 #   - apport:2.19.1-0ubuntu4
-#   - python-problem-report:2.19.1-0ubuntu4
-#   - python3-problem-report:2.19.1-0ubuntu4
-#   - python-apport:2.19.1-0ubuntu4
-#   - python3-apport:2.19.1-0ubuntu4
-#   - apport-retrace:2.19.1-0ubuntu4
-#   - apport-gtk:2.19.1-0ubuntu4
-#   - dh-apport:2.19.1-0ubuntu4
 #
 # Last versions recommanded by security team:
 #   - apport:2.19.1-0ubuntu4
-#   - python-problem-report:2.19.1-0ubuntu4
-#   - python3-problem-report:2.19.1-0ubuntu4
-#   - python-apport:2.19.1-0ubuntu4
-#   - python3-apport:2.19.1-0ubuntu4
-#   - apport-retrace:2.19.1-0ubuntu4
-#   - apport-gtk:2.19.1-0ubuntu4
-#   - dh-apport:2.19.1-0ubuntu4
 #
 # CVE List:
 #   - CVE-2015-1341
@@ -37,10 +23,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade apport=2.19.1-0ubuntu4 -y
-sudo apt-get install --only-upgrade python-problem-report=2.19.1-0ubuntu4 -y
-sudo apt-get install --only-upgrade python3-problem-report=2.19.1-0ubuntu4 -y
-sudo apt-get install --only-upgrade python-apport=2.19.1-0ubuntu4 -y
-sudo apt-get install --only-upgrade python3-apport=2.19.1-0ubuntu4 -y
-sudo apt-get install --only-upgrade apport-retrace=2.19.1-0ubuntu4 -y
-sudo apt-get install --only-upgrade apport-gtk=2.19.1-0ubuntu4 -y
-sudo apt-get install --only-upgrade dh-apport=2.19.1-0ubuntu4 -y

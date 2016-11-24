@@ -4,18 +4,13 @@
 # Security fix for USN-2890-1
 #
 # Security announcement date: 2016-02-01 00:00:00 UTC
-# Script generation date:     2016-09-21 21:03:16 UTC
+# Script generation date:     2016-11-24 21:02:21 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - linux-image-4.2.0-27-lowlatency:4.2.0-27.32
-#   - linux-source-4.2.0:4.2.0-27.32
-#   - linux-doc:4.2.0-27.32
-#   - linux-libc-dev:4.2.0-27.32
-#   - linux-tools-common:4.2.0-27.32
-#   - linux-cloud-tools-common:4.2.0-27.32
 #   - linux-image-4.2.0-27-generic-lpae:4.2.0-27.32
 #   - linux-image-4.2.0-27-powerpc-e500mc:4.2.0-27.32
 #   - linux-image-4.2.0-27-powerpc64-emb:4.2.0-27.32
@@ -25,11 +20,6 @@
 #
 # Last versions recommanded by security team:
 #   - linux-image-4.2.0-27-lowlatency:4.2.0-27.32
-#   - linux-source-4.2.0:4.2.0-42.49
-#   - linux-doc:4.2.0-42.49
-#   - linux-libc-dev:4.2.0-42.49
-#   - linux-tools-common:4.2.0-42.49
-#   - linux-cloud-tools-common:4.2.0-42.49
 #   - linux-image-4.2.0-27-generic-lpae:4.2.0-27.32
 #   - linux-image-4.2.0-27-powerpc-e500mc:4.2.0-27.32
 #   - linux-image-4.2.0-27-powerpc64-emb:4.2.0-27.32
@@ -53,11 +43,6 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-4.2.0-27-lowlatency=4.2.0-27.32 -y
-sudo apt-get install --only-upgrade linux-source-4.2.0=4.2.0-42.49 -y
-sudo apt-get install --only-upgrade linux-doc=4.2.0-42.49 -y
-sudo apt-get install --only-upgrade linux-libc-dev=4.2.0-42.49 -y
-sudo apt-get install --only-upgrade linux-tools-common=4.2.0-42.49 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=4.2.0-42.49 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-27-generic-lpae=4.2.0-27.32 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-27-powerpc-e500mc=4.2.0-27.32 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-27-powerpc64-emb=4.2.0-27.32 -y

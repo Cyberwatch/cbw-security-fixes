@@ -4,7 +4,7 @@
 # Security fix for USN-2218-1
 #
 # Security announcement date: 2014-05-21 00:00:00 UTC
-# Script generation date:     2016-06-20 13:26:39 UTC
+# Script generation date:     2016-11-24 21:00:52 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -12,13 +12,11 @@
 # Vulnerable packages fix on version:
 #   - libxsltc-java:2.7.1-7ubuntu0.1
 #   - libxalan2-java:2.7.1-7ubuntu0.1
-#   - libxalan2-java-doc:2.7.1-7ubuntu0.1
 #   - libxalan2-java:2.7.1-7ubuntu0.1
 #
 # Last versions recommanded by security team:
 #   - libxsltc-java:2.7.1-7ubuntu0.1
 #   - libxalan2-java:2.7.1-7ubuntu0.1
-#   - libxalan2-java-doc:2.7.1-7ubuntu0.1
 #   - libxalan2-java:2.7.1-7ubuntu0.1
 #
 # CVE List:
@@ -30,5 +28,4 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libxsltc-java=2.7.1-7ubuntu0.1 -y
 sudo apt-get install --only-upgrade libxalan2-java=2.7.1-7ubuntu0.1 -y
-sudo apt-get install --only-upgrade libxalan2-java-doc=2.7.1-7ubuntu0.1 -y
 sudo apt-get install --only-upgrade libxalan2-java=2.7.1-7ubuntu0.1 -y

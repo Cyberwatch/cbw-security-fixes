@@ -4,7 +4,7 @@
 # Security fix for USN-3121-1
 #
 # Security announcement date: 2016-11-03 00:00:00 UTC
-# Script generation date:     2016-11-05 21:06:27 UTC
+# Script generation date:     2016-11-24 21:02:54 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: x86_64
@@ -14,10 +14,6 @@
 #   - openjdk-8-jdk-headless:8u111-b14-2ubuntu0.16.04.2
 #   - openjdk-8-jre-headless:8u111-b14-2ubuntu0.16.04.2
 #   - openjdk-8-jre:8u111-b14-2ubuntu0.16.04.2
-#   - openjdk-8-demo:8u111-b14-2ubuntu0.16.04.2
-#   - openjdk-8-source:8u111-b14-2ubuntu0.16.04.2
-#   - openjdk-8-doc:8u111-b14-2ubuntu0.16.04.2
-#   - openjdk-8-dbg:8u111-b14-2ubuntu0.16.04.2
 #   - openjdk-8-jre-jamvm:8u111-b14-2ubuntu0.16.04.2
 #   - openjdk-8-jre-zero:8u111-b14-2ubuntu0.16.04.2
 #
@@ -26,10 +22,6 @@
 #   - openjdk-8-jdk-headless:8u111-b14-2ubuntu0.16.04.2
 #   - openjdk-8-jre-headless:8u111-b14-2ubuntu0.16.04.2
 #   - openjdk-8-jre:8u111-b14-2ubuntu0.16.04.2
-#   - openjdk-8-demo:8u111-b14-2ubuntu0.16.04.2
-#   - openjdk-8-source:8u111-b14-2ubuntu0.16.04.2
-#   - openjdk-8-doc:8u111-b14-2ubuntu0.16.04.2
-#   - openjdk-8-dbg:8u111-b14-2ubuntu0.16.04.2
 #   - openjdk-8-jre-jamvm:8u111-b14-2ubuntu0.16.04.2
 #   - openjdk-8-jre-zero:8u111-b14-2ubuntu0.16.04.2
 #
@@ -48,9 +40,5 @@ sudo apt-get install --only-upgrade openjdk-8-jdk=8u111-b14-2ubuntu0.16.04.2 -y
 sudo apt-get install --only-upgrade openjdk-8-jdk-headless=8u111-b14-2ubuntu0.16.04.2 -y
 sudo apt-get install --only-upgrade openjdk-8-jre-headless=8u111-b14-2ubuntu0.16.04.2 -y
 sudo apt-get install --only-upgrade openjdk-8-jre=8u111-b14-2ubuntu0.16.04.2 -y
-sudo apt-get install --only-upgrade openjdk-8-demo=8u111-b14-2ubuntu0.16.04.2 -y
-sudo apt-get install --only-upgrade openjdk-8-source=8u111-b14-2ubuntu0.16.04.2 -y
-sudo apt-get install --only-upgrade openjdk-8-doc=8u111-b14-2ubuntu0.16.04.2 -y
-sudo apt-get install --only-upgrade openjdk-8-dbg=8u111-b14-2ubuntu0.16.04.2 -y
 sudo apt-get install --only-upgrade openjdk-8-jre-jamvm=8u111-b14-2ubuntu0.16.04.2 -y
 sudo apt-get install --only-upgrade openjdk-8-jre-zero=8u111-b14-2ubuntu0.16.04.2 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-3070-1
 #
 # Security announcement date: 2016-08-29 00:00:00 UTC
-# Script generation date:     2016-11-09 21:05:31 UTC
+# Script generation date:     2016-11-24 21:02:48 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: x86_64
@@ -15,22 +15,7 @@
 #   - linux-image-4.4.0-36-powerpc-e500mc:4.4.0-36.55
 #   - linux-image-4.4.0-36-powerpc64-emb:4.4.0-36.55
 #   - linux-image-4.4.0-36-lowlatency:4.4.0-36.55
-#   - linux-source-4.4.0:4.4.0-36.55
-#   - linux-doc:4.4.0-36.55
-#   - linux-headers-4.4.0-36:4.4.0-36.55
-#   - linux-libc-dev:4.4.0-36.55
-#   - linux-tools-common:4.4.0-36.55
-#   - linux-tools-4.4.0-36:4.4.0-36.55
-#   - linux-cloud-tools-common:4.4.0-36.55
-#   - linux-cloud-tools-4.4.0-36:4.4.0-36.55
 #   - linux-image-4.4.0-36-generic:4.4.0-36.55
-#   - linux-image-extra-4.4.0-36-generic:4.4.0-36.55
-#   - linux-headers-4.4.0-36-generic:4.4.0-36.55
-#   - linux-tools-4.4.0-36-generic:4.4.0-36.55
-#   - linux-cloud-tools-4.4.0-36-generic:4.4.0-36.55
-#   - linux-headers-4.4.0-36-lowlatency:4.4.0-36.55
-#   - linux-tools-4.4.0-36-lowlatency:4.4.0-36.55
-#   - linux-cloud-tools-4.4.0-36-lowlatency:4.4.0-36.55
 #   - linux-image-4.4.0-36-powerpc-smp:4.4.0-36.55
 #
 # Last versions recommanded by security team:
@@ -39,22 +24,7 @@
 #   - linux-image-4.4.0-36-powerpc-e500mc:4.4.0-36.55
 #   - linux-image-4.4.0-36-powerpc64-emb:4.4.0-36.55
 #   - linux-image-4.4.0-36-lowlatency:4.4.0-36.55
-#   - linux-source-4.4.0:4.4.0-47.68
-#   - linux-doc:4.4.0-47.68
-#   - linux-headers-4.4.0-36:4.4.0-36.55
-#   - linux-libc-dev:4.4.0-47.68
-#   - linux-tools-common:4.4.0-47.68
-#   - linux-tools-4.4.0-36:4.4.0-36.55
-#   - linux-cloud-tools-common:4.4.0-47.68
-#   - linux-cloud-tools-4.4.0-36:4.4.0-36.55
 #   - linux-image-4.4.0-36-generic:4.4.0-36.55
-#   - linux-image-extra-4.4.0-36-generic:4.4.0-36.55
-#   - linux-headers-4.4.0-36-generic:4.4.0-36.55
-#   - linux-tools-4.4.0-36-generic:4.4.0-36.55
-#   - linux-cloud-tools-4.4.0-36-generic:4.4.0-36.55
-#   - linux-headers-4.4.0-36-lowlatency:4.4.0-36.55
-#   - linux-tools-4.4.0-36-lowlatency:4.4.0-36.55
-#   - linux-cloud-tools-4.4.0-36-lowlatency:4.4.0-36.55
 #   - linux-image-4.4.0-36-powerpc-smp:4.4.0-36.55
 #
 # CVE List:
@@ -76,20 +46,5 @@ sudo apt-get install --only-upgrade linux-image-4.4.0-36-powerpc64-smp=4.4.0-36.
 sudo apt-get install --only-upgrade linux-image-4.4.0-36-powerpc-e500mc=4.4.0-36.55 -y
 sudo apt-get install --only-upgrade linux-image-4.4.0-36-powerpc64-emb=4.4.0-36.55 -y
 sudo apt-get install --only-upgrade linux-image-4.4.0-36-lowlatency=4.4.0-36.55 -y
-sudo apt-get install --only-upgrade linux-source-4.4.0=4.4.0-47.68 -y
-sudo apt-get install --only-upgrade linux-doc=4.4.0-47.68 -y
-sudo apt-get install --only-upgrade linux-headers-4.4.0-36=4.4.0-36.55 -y
-sudo apt-get install --only-upgrade linux-libc-dev=4.4.0-47.68 -y
-sudo apt-get install --only-upgrade linux-tools-common=4.4.0-47.68 -y
-sudo apt-get install --only-upgrade linux-tools-4.4.0-36=4.4.0-36.55 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=4.4.0-47.68 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-4.4.0-36=4.4.0-36.55 -y
 sudo apt-get install --only-upgrade linux-image-4.4.0-36-generic=4.4.0-36.55 -y
-sudo apt-get install --only-upgrade linux-image-extra-4.4.0-36-generic=4.4.0-36.55 -y
-sudo apt-get install --only-upgrade linux-headers-4.4.0-36-generic=4.4.0-36.55 -y
-sudo apt-get install --only-upgrade linux-tools-4.4.0-36-generic=4.4.0-36.55 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-4.4.0-36-generic=4.4.0-36.55 -y
-sudo apt-get install --only-upgrade linux-headers-4.4.0-36-lowlatency=4.4.0-36.55 -y
-sudo apt-get install --only-upgrade linux-tools-4.4.0-36-lowlatency=4.4.0-36.55 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-4.4.0-36-lowlatency=4.4.0-36.55 -y
 sudo apt-get install --only-upgrade linux-image-4.4.0-36-powerpc-smp=4.4.0-36.55 -y

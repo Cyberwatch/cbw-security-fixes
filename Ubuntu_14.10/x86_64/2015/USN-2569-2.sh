@@ -4,7 +4,7 @@
 # Security fix for USN-2569-2
 #
 # Security announcement date: 2015-04-16 00:00:00 UTC
-# Script generation date:     2016-06-20 12:40:09 UTC
+# Script generation date:     2016-11-24 21:01:33 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - apport:2.14.7-0ubuntu8.4
 #
 # Last versions recommanded by security team:
-#   - apport:2.14.7-0ubuntu8.5
+#   - apport:2.14.7-0ubuntu8.4
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade apport=2.14.7-0ubuntu8.5 -y
+sudo apt-get install --only-upgrade apport=2.14.7-0ubuntu8.4 -y

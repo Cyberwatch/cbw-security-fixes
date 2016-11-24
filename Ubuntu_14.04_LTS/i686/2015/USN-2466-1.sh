@@ -4,7 +4,7 @@
 # Security fix for USN-2466-1
 #
 # Security announcement date: 2015-01-13 00:00:00 UTC
-# Script generation date:     2016-11-09 21:01:39 UTC
+# Script generation date:     2016-11-24 21:01:18 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
@@ -12,11 +12,6 @@
 # Vulnerable packages fix on version:
 #   - linux-image-3.13.0-44-powerpc-smp:3.13.0-44.73
 #   - linux-image-3.13.0-44-lowlatency:3.13.0-44.73
-#   - linux-source-3.13.0:3.13.0-44.73
-#   - linux-doc:3.13.0-44.73
-#   - linux-libc-dev:3.13.0-44.73
-#   - linux-tools-common:3.13.0-44.73
-#   - linux-cloud-tools-common:3.13.0-44.73
 #   - linux-image-3.13.0-44-powerpc64-smp:3.13.0-44.73
 #   - linux-image-3.13.0-44-powerpc-e500mc:3.13.0-44.73
 #   - linux-image-3.13.0-44-generic-lpae:3.13.0-44.73
@@ -27,11 +22,6 @@
 # Last versions recommanded by security team:
 #   - linux-image-3.13.0-44-powerpc-smp:3.13.0-44.73
 #   - linux-image-3.13.0-44-lowlatency:3.13.0-44.73
-#   - linux-source-3.13.0:3.13.0-98.145
-#   - linux-doc:3.13.0-98.145
-#   - linux-libc-dev:3.13.0-101.148
-#   - linux-tools-common:3.13.0-98.145
-#   - linux-cloud-tools-common:3.13.0-98.145
 #   - linux-image-3.13.0-44-powerpc64-smp:3.13.0-44.73
 #   - linux-image-3.13.0-44-powerpc-e500mc:3.13.0-44.73
 #   - linux-image-3.13.0-44-generic-lpae:3.13.0-44.73
@@ -51,11 +41,6 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.13.0-44-powerpc-smp=3.13.0-44.73 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-44-lowlatency=3.13.0-44.73 -y
-sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-98.145 -y
-sudo apt-get install --only-upgrade linux-doc=3.13.0-98.145 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-101.148 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.13.0-98.145 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-98.145 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-44-powerpc64-smp=3.13.0-44.73 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-44-powerpc-e500mc=3.13.0-44.73 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-44-generic-lpae=3.13.0-44.73 -y

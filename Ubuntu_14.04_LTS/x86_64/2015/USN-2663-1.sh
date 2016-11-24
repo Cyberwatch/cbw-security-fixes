@@ -4,7 +4,7 @@
 # Security fix for USN-2663-1
 #
 # Security announcement date: 2015-07-07 00:00:00 UTC
-# Script generation date:     2016-11-09 21:02:57 UTC
+# Script generation date:     2016-11-24 21:01:46 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,11 +13,6 @@
 #   - linux-image-3.13.0-57-powerpc-smp:3.13.0-57.95
 #   - linux-image-3.13.0-57-powerpc-e500:3.13.0-57.95
 #   - linux-image-3.13.0-57-lowlatency:3.13.0-57.95
-#   - linux-source-3.13.0:3.13.0-57.95
-#   - linux-doc:3.13.0-57.95
-#   - linux-libc-dev:3.13.0-57.95
-#   - linux-tools-common:3.13.0-57.95
-#   - linux-cloud-tools-common:3.13.0-57.95
 #   - linux-image-3.13.0-57-powerpc-e500mc:3.13.0-57.95
 #   - linux-image-3.13.0-57-generic-lpae:3.13.0-57.95
 #   - linux-image-3.13.0-57-powerpc64-emb:3.13.0-57.95
@@ -28,11 +23,6 @@
 #   - linux-image-3.13.0-57-powerpc-smp:3.13.0-57.95
 #   - linux-image-3.13.0-57-powerpc-e500:3.13.0-57.95
 #   - linux-image-3.13.0-57-lowlatency:3.13.0-57.95
-#   - linux-source-3.13.0:3.13.0-98.145
-#   - linux-doc:3.13.0-98.145
-#   - linux-libc-dev:3.13.0-101.148
-#   - linux-tools-common:3.13.0-98.145
-#   - linux-cloud-tools-common:3.13.0-98.145
 #   - linux-image-3.13.0-57-powerpc-e500mc:3.13.0-57.95
 #   - linux-image-3.13.0-57-generic-lpae:3.13.0-57.95
 #   - linux-image-3.13.0-57-powerpc64-emb:3.13.0-57.95
@@ -54,11 +44,6 @@
 sudo apt-get install --only-upgrade linux-image-3.13.0-57-powerpc-smp=3.13.0-57.95 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-57-powerpc-e500=3.13.0-57.95 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-57-lowlatency=3.13.0-57.95 -y
-sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-98.145 -y
-sudo apt-get install --only-upgrade linux-doc=3.13.0-98.145 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-101.148 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.13.0-98.145 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-98.145 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-57-powerpc-e500mc=3.13.0-57.95 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-57-generic-lpae=3.13.0-57.95 -y
 sudo apt-get install --only-upgrade linux-image-3.13.0-57-powerpc64-emb=3.13.0-57.95 -y

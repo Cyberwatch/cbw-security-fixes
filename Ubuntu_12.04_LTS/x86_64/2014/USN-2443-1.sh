@@ -4,7 +4,7 @@
 # Security fix for USN-2443-1
 #
 # Security announcement date: 2014-12-12 00:00:00 UTC
-# Script generation date:     2016-10-04 21:01:39 UTC
+# Script generation date:     2016-11-24 21:01:16 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -12,9 +12,6 @@
 # Vulnerable packages fix on version:
 #   - linux-image-3.2.0-74-highbank:3.2.0-74.109
 #   - linux-image-3.2.0-74-generic-pae:3.2.0-74.109
-#   - linux-source-3.2.0:3.2.0-74.109
-#   - linux-doc:3.2.0-74.109
-#   - linux-tools-common:3.2.0-74.109
 #   - linux-image-3.2.0-74-powerpc64-smp:3.2.0-74.109
 #   - linux-image-3.2.0-74-omap:3.2.0-74.109
 #   - linux-image-3.2.0-74-generic:3.2.0-74.109
@@ -24,9 +21,6 @@
 # Last versions recommanded by security team:
 #   - linux-image-3.2.0-74-highbank:3.2.0-74.109
 #   - linux-image-3.2.0-74-generic-pae:3.2.0-74.109
-#   - linux-source-3.2.0:3.2.0-99.139
-#   - linux-doc:3.2.0-99.139
-#   - linux-tools-common:3.2.0-99.139
 #   - linux-image-3.2.0-74-powerpc64-smp:3.2.0-74.109
 #   - linux-image-3.2.0-74-omap:3.2.0-74.109
 #   - linux-image-3.2.0-74-generic:3.2.0-74.109
@@ -48,9 +42,6 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.2.0-74-highbank=3.2.0-74.109 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-74-generic-pae=3.2.0-74.109 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-99.139 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-99.139 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-99.139 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-74-powerpc64-smp=3.2.0-74.109 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-74-omap=3.2.0-74.109 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-74-generic=3.2.0-74.109 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2505-2
 #
 # Security announcement date: 2015-03-09 00:00:00 UTC
-# Script generation date:     2016-06-20 12:39:40 UTC
+# Script generation date:     2016-11-24 21:01:27 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - firefox:36.0.1+build2-0ubuntu0.14.10.1
 #
 # Last versions recommanded by security team:
-#   - firefox:39.0+build5-0ubuntu0.14.10.1
+#   - firefox:36.0.1+build2-0ubuntu0.14.10.1
 #
 # CVE List:
 #   - CVE-2015-0819
@@ -37,4 +37,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=39.0+build5-0ubuntu0.14.10.1 -y
+sudo apt-get install --only-upgrade firefox=36.0.1+build2-0ubuntu0.14.10.1 -y

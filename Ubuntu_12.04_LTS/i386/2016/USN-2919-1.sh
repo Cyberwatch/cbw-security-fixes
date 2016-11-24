@@ -4,18 +4,16 @@
 # Security fix for USN-2919-1
 #
 # Security announcement date: 2016-03-03 00:00:00 UTC
-# Script generation date:     2016-06-21 01:25:08 UTC
+# Script generation date:     2016-11-24 21:02:28 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - libjasper1:1.900.1-13ubuntu0.3
-#   - libjasper-dev:1.900.1-13ubuntu0.3
 #
 # Last versions recommanded by security team:
 #   - libjasper1:1.900.1-13ubuntu0.3
-#   - libjasper-dev:1.900.1-13ubuntu0.3
 #
 # CVE List:
 #   - CVE-2016-1577
@@ -26,4 +24,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libjasper1=1.900.1-13ubuntu0.3 -y
-sudo apt-get install --only-upgrade libjasper-dev=1.900.1-13ubuntu0.3 -y

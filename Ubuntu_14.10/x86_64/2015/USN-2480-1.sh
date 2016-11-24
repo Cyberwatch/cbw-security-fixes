@@ -4,7 +4,7 @@
 # Security fix for USN-2480-1
 #
 # Security announcement date: 2015-01-22 00:00:00 UTC
-# Script generation date:     2016-06-20 13:20:29 UTC
+# Script generation date:     2016-11-24 21:01:20 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - mysql-server-5.5:5.5.41-0ubuntu0.14.10.1
 #
 # Last versions recommanded by security team:
-#   - mysql-server-5.5:5.5.44-0ubuntu0.14.10.1
+#   - mysql-server-5.5:5.5.41-0ubuntu0.14.10.1
 #
 # CVE List:
 #   - CVE-2014-6568
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mysql-server-5.5=5.5.44-0ubuntu0.14.10.1 -y
+sudo apt-get install --only-upgrade mysql-server-5.5=5.5.41-0ubuntu0.14.10.1 -y

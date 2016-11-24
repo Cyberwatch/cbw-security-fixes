@@ -4,20 +4,16 @@
 # Security fix for USN-2536-1
 #
 # Security announcement date: 2015-03-18 00:00:00 UTC
-# Script generation date:     2016-06-20 12:39:47 UTC
+# Script generation date:     2016-11-24 21:01:29 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
 #
 # Vulnerable packages fix on version:
 #   - libxfont1:1:1.4.7-1ubuntu0.2
-#   - libxfont1-dbg:1:1.4.7-1ubuntu0.2
-#   - libxfont-dev:1:1.4.7-1ubuntu0.2
 #
 # Last versions recommanded by security team:
 #   - libxfont1:1:1.4.7-1ubuntu0.2
-#   - libxfont1-dbg:1:1.4.7-1ubuntu0.2
-#   - libxfont-dev:1:1.4.7-1ubuntu0.2
 #
 # CVE List:
 #   - CVE-2015-1802
@@ -29,5 +25,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libxfont1=1:1.4.7-1ubuntu0.2 -y
-sudo apt-get install --only-upgrade libxfont1-dbg=1:1.4.7-1ubuntu0.2 -y
-sudo apt-get install --only-upgrade libxfont-dev=1:1.4.7-1ubuntu0.2 -y

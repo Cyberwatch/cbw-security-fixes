@@ -4,24 +4,16 @@
 # Security fix for USN-2566-1
 #
 # Security announcement date: 2015-04-09 00:00:00 UTC
-# Script generation date:     2016-06-20 12:40:08 UTC
+# Script generation date:     2016-11-24 21:01:32 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - libdpkg-perl:1.16.1.2ubuntu7.6
-#   - libdpkg-dev:1.16.1.2ubuntu7.6
-#   - dpkg:1.16.1.2ubuntu7.6
-#   - dpkg-dev:1.16.1.2ubuntu7.6
-#   - dselect:1.16.1.2ubuntu7.6
 #
 # Last versions recommanded by security team:
 #   - libdpkg-perl:1.16.1.2ubuntu7.7
-#   - libdpkg-dev:1.16.1.2ubuntu7.7
-#   - dpkg:1.16.1.2ubuntu7.7
-#   - dpkg-dev:1.16.1.2ubuntu7.7
-#   - dselect:1.16.1.2ubuntu7.7
 #
 # CVE List:
 #   - CVE-2015-0840
@@ -31,7 +23,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libdpkg-perl=1.16.1.2ubuntu7.7 -y
-sudo apt-get install --only-upgrade libdpkg-dev=1.16.1.2ubuntu7.7 -y
-sudo apt-get install --only-upgrade dpkg=1.16.1.2ubuntu7.7 -y
-sudo apt-get install --only-upgrade dpkg-dev=1.16.1.2ubuntu7.7 -y
-sudo apt-get install --only-upgrade dselect=1.16.1.2ubuntu7.7 -y

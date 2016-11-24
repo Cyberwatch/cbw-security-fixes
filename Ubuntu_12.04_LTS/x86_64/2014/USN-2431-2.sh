@@ -4,30 +4,16 @@
 # Security fix for USN-2431-2
 #
 # Security announcement date: 2014-12-04 00:00:00 UTC
-# Script generation date:     2016-06-20 13:27:29 UTC
+# Script generation date:     2016-11-24 21:01:15 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - maas-region-controller:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
-#   - maas:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
-#   - maas-common:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
-#   - python-maas-provisioningserver:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
-#   - maas-cli:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
-#   - python-maas-client:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
-#   - maas-cluster-controller:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
-#   - python-django-maas:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
 #
 # Last versions recommanded by security team:
 #   - maas-region-controller:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
-#   - maas:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
-#   - maas-common:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
-#   - python-maas-provisioningserver:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
-#   - maas-cli:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
-#   - python-maas-client:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
-#   - maas-cluster-controller:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
-#   - python-django-maas:1.2+bzr1373+dfsg-0ubuntu1~12.04.6
 #
 # CVE List:
 #
@@ -36,10 +22,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade maas-region-controller=1.2+bzr1373+dfsg-0ubuntu1~12.04.6 -y
-sudo apt-get install --only-upgrade maas=1.2+bzr1373+dfsg-0ubuntu1~12.04.6 -y
-sudo apt-get install --only-upgrade maas-common=1.2+bzr1373+dfsg-0ubuntu1~12.04.6 -y
-sudo apt-get install --only-upgrade python-maas-provisioningserver=1.2+bzr1373+dfsg-0ubuntu1~12.04.6 -y
-sudo apt-get install --only-upgrade maas-cli=1.2+bzr1373+dfsg-0ubuntu1~12.04.6 -y
-sudo apt-get install --only-upgrade python-maas-client=1.2+bzr1373+dfsg-0ubuntu1~12.04.6 -y
-sudo apt-get install --only-upgrade maas-cluster-controller=1.2+bzr1373+dfsg-0ubuntu1~12.04.6 -y
-sudo apt-get install --only-upgrade python-django-maas=1.2+bzr1373+dfsg-0ubuntu1~12.04.6 -y

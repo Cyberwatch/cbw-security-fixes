@@ -4,26 +4,16 @@
 # Security fix for USN-2279-1
 #
 # Security announcement date: 2014-07-16 00:00:00 UTC
-# Script generation date:     2016-06-20 13:26:49 UTC
+# Script generation date:     2016-11-24 21:00:58 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - transmission-common:2.51-0ubuntu1.4
-#   - transmission-dbg:2.51-0ubuntu1.4
-#   - transmission-cli:2.51-0ubuntu1.4
-#   - transmission-gtk:2.51-0ubuntu1.4
-#   - transmission-qt:2.51-0ubuntu1.4
-#   - transmission-daemon:2.51-0ubuntu1.4
 #
 # Last versions recommanded by security team:
 #   - transmission-common:2.51-0ubuntu1.4
-#   - transmission-dbg:2.51-0ubuntu1.4
-#   - transmission-cli:2.51-0ubuntu1.4
-#   - transmission-gtk:2.51-0ubuntu1.4
-#   - transmission-qt:2.51-0ubuntu1.4
-#   - transmission-daemon:2.51-0ubuntu1.4
 #
 # CVE List:
 #   - CVE-2014-4909
@@ -33,8 +23,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade transmission-common=2.51-0ubuntu1.4 -y
-sudo apt-get install --only-upgrade transmission-dbg=2.51-0ubuntu1.4 -y
-sudo apt-get install --only-upgrade transmission-cli=2.51-0ubuntu1.4 -y
-sudo apt-get install --only-upgrade transmission-gtk=2.51-0ubuntu1.4 -y
-sudo apt-get install --only-upgrade transmission-qt=2.51-0ubuntu1.4 -y
-sudo apt-get install --only-upgrade transmission-daemon=2.51-0ubuntu1.4 -y

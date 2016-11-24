@@ -4,7 +4,7 @@
 # Security fix for USN-2810-1
 #
 # Security announcement date: 2015-11-12 00:00:00 UTC
-# Script generation date:     2016-05-12 18:03:05 UTC
+# Script generation date:     2016-11-24 21:02:08 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -15,23 +15,16 @@
 #   - krb5-kdc:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-kdc-ldap:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-admin-server:1.13.2+dfsg-2ubuntu0.1
-#   - krb5-multidev:1.13.2+dfsg-2ubuntu0.1
-#   - libkrb5-dev:1.13.2+dfsg-2ubuntu0.1
-#   - libkrb5-dbg:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-pkinit:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-otp:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-k5tls:1.13.2+dfsg-2ubuntu0.1
-#   - krb5-doc:1.13.2+dfsg-2ubuntu0.1
 #   - libkrb5-3:1.13.2+dfsg-2ubuntu0.1
 #   - libgssapi-krb5-2:1.13.2+dfsg-2ubuntu0.1
 #   - libgssrpc4:1.13.2+dfsg-2ubuntu0.1
-#   - libkadm5srv-mit9:1.13.2+dfsg-2ubuntu0.1
 #   - libkadm5clnt-mit9:1.13.2+dfsg-2ubuntu0.1
 #   - libkdb5-8:1.13.2+dfsg-2ubuntu0.1
 #   - libkrb5support0:1.13.2+dfsg-2ubuntu0.1
 #   - libkrad0:1.13.2+dfsg-2ubuntu0.1
-#   - krb5-locales:1.13.2+dfsg-2ubuntu0.1
-#   - libkrad-dev:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-k5tls:1.13.2+dfsg-2ubuntu0.1
 #   - libkrad0:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-otp:1.13.2+dfsg-2ubuntu0.1
@@ -53,23 +46,16 @@
 #   - krb5-kdc:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-kdc-ldap:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-admin-server:1.13.2+dfsg-2ubuntu0.1
-#   - krb5-multidev:1.13.2+dfsg-2ubuntu0.1
-#   - libkrb5-dev:1.13.2+dfsg-2ubuntu0.1
-#   - libkrb5-dbg:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-pkinit:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-otp:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-k5tls:1.13.2+dfsg-2ubuntu0.1
-#   - krb5-doc:1.13.2+dfsg-2ubuntu0.1
 #   - libkrb5-3:1.13.2+dfsg-2ubuntu0.1
 #   - libgssapi-krb5-2:1.13.2+dfsg-2ubuntu0.1
 #   - libgssrpc4:1.13.2+dfsg-2ubuntu0.1
-#   - libkadm5srv-mit9:1.13.2+dfsg-2ubuntu0.1
 #   - libkadm5clnt-mit9:1.13.2+dfsg-2ubuntu0.1
 #   - libkdb5-8:1.13.2+dfsg-2ubuntu0.1
 #   - libkrb5support0:1.13.2+dfsg-2ubuntu0.1
 #   - libkrad0:1.13.2+dfsg-2ubuntu0.1
-#   - krb5-locales:1.13.2+dfsg-2ubuntu0.1
-#   - libkrad-dev:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-k5tls:1.13.2+dfsg-2ubuntu0.1
 #   - libkrad0:1.13.2+dfsg-2ubuntu0.1
 #   - krb5-otp:1.13.2+dfsg-2ubuntu0.1
@@ -103,23 +89,16 @@ sudo apt-get install --only-upgrade krb5-user=1.13.2+dfsg-2ubuntu0.1 -y
 sudo apt-get install --only-upgrade krb5-kdc=1.13.2+dfsg-2ubuntu0.1 -y
 sudo apt-get install --only-upgrade krb5-kdc-ldap=1.13.2+dfsg-2ubuntu0.1 -y
 sudo apt-get install --only-upgrade krb5-admin-server=1.13.2+dfsg-2ubuntu0.1 -y
-sudo apt-get install --only-upgrade krb5-multidev=1.13.2+dfsg-2ubuntu0.1 -y
-sudo apt-get install --only-upgrade libkrb5-dev=1.13.2+dfsg-2ubuntu0.1 -y
-sudo apt-get install --only-upgrade libkrb5-dbg=1.13.2+dfsg-2ubuntu0.1 -y
 sudo apt-get install --only-upgrade krb5-pkinit=1.13.2+dfsg-2ubuntu0.1 -y
 sudo apt-get install --only-upgrade krb5-otp=1.13.2+dfsg-2ubuntu0.1 -y
 sudo apt-get install --only-upgrade krb5-k5tls=1.13.2+dfsg-2ubuntu0.1 -y
-sudo apt-get install --only-upgrade krb5-doc=1.13.2+dfsg-2ubuntu0.1 -y
 sudo apt-get install --only-upgrade libkrb5-3=1.13.2+dfsg-2ubuntu0.1 -y
 sudo apt-get install --only-upgrade libgssapi-krb5-2=1.13.2+dfsg-2ubuntu0.1 -y
 sudo apt-get install --only-upgrade libgssrpc4=1.13.2+dfsg-2ubuntu0.1 -y
-sudo apt-get install --only-upgrade libkadm5srv-mit9=1.13.2+dfsg-2ubuntu0.1 -y
 sudo apt-get install --only-upgrade libkadm5clnt-mit9=1.13.2+dfsg-2ubuntu0.1 -y
 sudo apt-get install --only-upgrade libkdb5-8=1.13.2+dfsg-2ubuntu0.1 -y
 sudo apt-get install --only-upgrade libkrb5support0=1.13.2+dfsg-2ubuntu0.1 -y
 sudo apt-get install --only-upgrade libkrad0=1.13.2+dfsg-2ubuntu0.1 -y
-sudo apt-get install --only-upgrade krb5-locales=1.13.2+dfsg-2ubuntu0.1 -y
-sudo apt-get install --only-upgrade libkrad-dev=1.13.2+dfsg-2ubuntu0.1 -y
 sudo apt-get install --only-upgrade krb5-k5tls=1.13.2+dfsg-2ubuntu0.1 -y
 sudo apt-get install --only-upgrade libkrad0=1.13.2+dfsg-2ubuntu0.1 -y
 sudo apt-get install --only-upgrade krb5-otp=1.13.2+dfsg-2ubuntu0.1 -y

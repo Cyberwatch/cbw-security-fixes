@@ -4,7 +4,7 @@
 # Security fix for USN-2235-1
 #
 # Security announcement date: 2014-06-05 00:00:00 UTC
-# Script generation date:     2016-10-04 21:01:11 UTC
+# Script generation date:     2016-11-24 21:00:53 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -15,9 +15,6 @@
 #   - linux-image-3.2.0-64-powerpc64-smp:3.2.0-64.97
 #   - linux-image-3.2.0-64-highbank:3.2.0-64.97
 #   - linux-image-3.2.0-64-generic:3.2.0-64.97
-#   - linux-source-3.2.0:3.2.0-64.97
-#   - linux-doc:3.2.0-64.97
-#   - linux-tools-common:3.2.0-64.97
 #   - linux-image-3.2.0-64-virtual:3.2.0-64.97
 #   - linux-image-3.2.0-64-generic-pae:3.2.0-64.97
 #
@@ -27,9 +24,6 @@
 #   - linux-image-3.2.0-64-powerpc64-smp:3.2.0-64.97
 #   - linux-image-3.2.0-64-highbank:3.2.0-64.97
 #   - linux-image-3.2.0-64-generic:3.2.0-64.97
-#   - linux-source-3.2.0:3.2.0-99.139
-#   - linux-doc:3.2.0-99.139
-#   - linux-tools-common:3.2.0-99.139
 #   - linux-image-3.2.0-64-virtual:3.2.0-64.97
 #   - linux-image-3.2.0-64-generic-pae:3.2.0-64.97
 #
@@ -47,8 +41,5 @@ sudo apt-get install --only-upgrade linux-image-3.2.0-64-powerpc-smp=3.2.0-64.97
 sudo apt-get install --only-upgrade linux-image-3.2.0-64-powerpc64-smp=3.2.0-64.97 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-64-highbank=3.2.0-64.97 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-64-generic=3.2.0-64.97 -y
-sudo apt-get install --only-upgrade linux-source-3.2.0=3.2.0-99.139 -y
-sudo apt-get install --only-upgrade linux-doc=3.2.0-99.139 -y
-sudo apt-get install --only-upgrade linux-tools-common=3.2.0-99.139 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-64-virtual=3.2.0-64.97 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-64-generic-pae=3.2.0-64.97 -y

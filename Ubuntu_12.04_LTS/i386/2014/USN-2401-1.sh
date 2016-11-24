@@ -4,20 +4,16 @@
 # Security fix for USN-2401-1
 #
 # Security announcement date: 2014-11-10 00:00:00 UTC
-# Script generation date:     2016-06-20 13:27:20 UTC
+# Script generation date:     2016-11-24 21:01:12 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
 #   - konversation:1.4-1ubuntu2.1
-#   - konversation-data:1.4-1ubuntu2.1
-#   - konversation-dbg:1.4-1ubuntu2.1
 #
 # Last versions recommanded by security team:
 #   - konversation:1.4-1ubuntu2.1
-#   - konversation-data:1.4-1ubuntu2.1
-#   - konversation-dbg:1.4-1ubuntu2.1
 #
 # CVE List:
 #   - CVE-2014-8483
@@ -27,5 +23,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade konversation=1.4-1ubuntu2.1 -y
-sudo apt-get install --only-upgrade konversation-data=1.4-1ubuntu2.1 -y
-sudo apt-get install --only-upgrade konversation-dbg=1.4-1ubuntu2.1 -y

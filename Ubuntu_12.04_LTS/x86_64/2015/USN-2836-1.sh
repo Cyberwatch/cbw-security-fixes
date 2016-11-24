@@ -4,32 +4,16 @@
 # Security fix for USN-2836-1
 #
 # Security announcement date: 2015-12-15 00:00:00 UTC
-# Script generation date:     2016-06-20 14:24:08 UTC
+# Script generation date:     2016-11-24 21:02:13 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
 #   - grub2-common:1.99-21ubuntu3.19
-#   - grub-efi:1.99-21ubuntu3.19
-#   - grub-common:1.99-21ubuntu3.19
-#   - grub-pc-bin:1.99-21ubuntu3.19
-#   - grub-pc:1.99-21ubuntu3.19
-#   - grub-efi-ia32-bin:1.99-21ubuntu3.19
-#   - grub-efi-ia32:1.99-21ubuntu3.19
-#   - grub-efi-amd64-bin:1.99-21ubuntu3.19
-#   - grub-efi-amd64:1.99-21ubuntu3.19
 #
 # Last versions recommanded by security team:
 #   - grub2-common:1.99-21ubuntu3.19
-#   - grub-efi:1.99-21ubuntu3.19
-#   - grub-common:1.99-21ubuntu3.19
-#   - grub-pc-bin:1.99-21ubuntu3.19
-#   - grub-pc:1.99-21ubuntu3.19
-#   - grub-efi-ia32-bin:1.99-21ubuntu3.19
-#   - grub-efi-ia32:1.99-21ubuntu3.19
-#   - grub-efi-amd64-bin:1.99-21ubuntu3.19
-#   - grub-efi-amd64:1.99-21ubuntu3.19
 #
 # CVE List:
 #   - CVE-2015-8370
@@ -39,11 +23,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade grub2-common=1.99-21ubuntu3.19 -y
-sudo apt-get install --only-upgrade grub-efi=1.99-21ubuntu3.19 -y
-sudo apt-get install --only-upgrade grub-common=1.99-21ubuntu3.19 -y
-sudo apt-get install --only-upgrade grub-pc-bin=1.99-21ubuntu3.19 -y
-sudo apt-get install --only-upgrade grub-pc=1.99-21ubuntu3.19 -y
-sudo apt-get install --only-upgrade grub-efi-ia32-bin=1.99-21ubuntu3.19 -y
-sudo apt-get install --only-upgrade grub-efi-ia32=1.99-21ubuntu3.19 -y
-sudo apt-get install --only-upgrade grub-efi-amd64-bin=1.99-21ubuntu3.19 -y
-sudo apt-get install --only-upgrade grub-efi-amd64=1.99-21ubuntu3.19 -y

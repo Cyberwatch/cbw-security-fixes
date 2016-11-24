@@ -4,7 +4,7 @@
 # Security fix for USN-2810-1
 #
 # Security announcement date: 2015-11-12 00:00:00 UTC
-# Script generation date:     2016-06-21 01:23:56 UTC
+# Script generation date:     2016-11-24 21:02:09 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -15,19 +15,13 @@
 #   - krb5-kdc:1.10+dfsg~beta1-2ubuntu0.7
 #   - krb5-kdc-ldap:1.10+dfsg~beta1-2ubuntu0.7
 #   - krb5-admin-server:1.10+dfsg~beta1-2ubuntu0.7
-#   - krb5-multidev:1.10+dfsg~beta1-2ubuntu0.7
-#   - libkrb5-dev:1.10+dfsg~beta1-2ubuntu0.7
-#   - libkrb5-dbg:1.10+dfsg~beta1-2ubuntu0.7
 #   - krb5-pkinit:1.10+dfsg~beta1-2ubuntu0.7
-#   - krb5-doc:1.10+dfsg~beta1-2ubuntu0.7
 #   - libkrb5-3:1.10+dfsg~beta1-2ubuntu0.7
 #   - libgssapi-krb5-2:1.10+dfsg~beta1-2ubuntu0.7
 #   - libgssrpc4:1.10+dfsg~beta1-2ubuntu0.7
-#   - libkadm5srv-mit8:1.10+dfsg~beta1-2ubuntu0.7
 #   - libkadm5clnt-mit8:1.10+dfsg~beta1-2ubuntu0.7
 #   - libkdb5-6:1.10+dfsg~beta1-2ubuntu0.7
 #   - libkrb5support0:1.10+dfsg~beta1-2ubuntu0.7
-#   - krb5-locales:1.10+dfsg~beta1-2ubuntu0.7
 #   - libkrb53:1.10+dfsg~beta1-2ubuntu0.7
 #   - krb5-kdc-ldap:1.10+dfsg~beta1-2ubuntu0.7
 #   - libkdb5-6:1.10+dfsg~beta1-2ubuntu0.7
@@ -48,19 +42,13 @@
 #   - krb5-kdc:1.10+dfsg~beta1-2ubuntu0.7
 #   - krb5-kdc-ldap:1.10+dfsg~beta1-2ubuntu0.7
 #   - krb5-admin-server:1.10+dfsg~beta1-2ubuntu0.7
-#   - krb5-multidev:1.10+dfsg~beta1-2ubuntu0.7
-#   - libkrb5-dev:1.10+dfsg~beta1-2ubuntu0.7
-#   - libkrb5-dbg:1.10+dfsg~beta1-2ubuntu0.7
 #   - krb5-pkinit:1.10+dfsg~beta1-2ubuntu0.7
-#   - krb5-doc:1.10+dfsg~beta1-2ubuntu0.7
 #   - libkrb5-3:1.10+dfsg~beta1-2ubuntu0.7
 #   - libgssapi-krb5-2:1.10+dfsg~beta1-2ubuntu0.7
 #   - libgssrpc4:1.10+dfsg~beta1-2ubuntu0.7
-#   - libkadm5srv-mit8:1.10+dfsg~beta1-2ubuntu0.7
 #   - libkadm5clnt-mit8:1.10+dfsg~beta1-2ubuntu0.7
 #   - libkdb5-6:1.10+dfsg~beta1-2ubuntu0.7
 #   - libkrb5support0:1.10+dfsg~beta1-2ubuntu0.7
-#   - krb5-locales:1.10+dfsg~beta1-2ubuntu0.7
 #   - libkrb53:1.10+dfsg~beta1-2ubuntu0.7
 #   - krb5-kdc-ldap:1.10+dfsg~beta1-2ubuntu0.7
 #   - libkdb5-6:1.10+dfsg~beta1-2ubuntu0.7
@@ -93,19 +81,13 @@ sudo apt-get install --only-upgrade krb5-user=1.10+dfsg~beta1-2ubuntu0.7 -y
 sudo apt-get install --only-upgrade krb5-kdc=1.10+dfsg~beta1-2ubuntu0.7 -y
 sudo apt-get install --only-upgrade krb5-kdc-ldap=1.10+dfsg~beta1-2ubuntu0.7 -y
 sudo apt-get install --only-upgrade krb5-admin-server=1.10+dfsg~beta1-2ubuntu0.7 -y
-sudo apt-get install --only-upgrade krb5-multidev=1.10+dfsg~beta1-2ubuntu0.7 -y
-sudo apt-get install --only-upgrade libkrb5-dev=1.10+dfsg~beta1-2ubuntu0.7 -y
-sudo apt-get install --only-upgrade libkrb5-dbg=1.10+dfsg~beta1-2ubuntu0.7 -y
 sudo apt-get install --only-upgrade krb5-pkinit=1.10+dfsg~beta1-2ubuntu0.7 -y
-sudo apt-get install --only-upgrade krb5-doc=1.10+dfsg~beta1-2ubuntu0.7 -y
 sudo apt-get install --only-upgrade libkrb5-3=1.10+dfsg~beta1-2ubuntu0.7 -y
 sudo apt-get install --only-upgrade libgssapi-krb5-2=1.10+dfsg~beta1-2ubuntu0.7 -y
 sudo apt-get install --only-upgrade libgssrpc4=1.10+dfsg~beta1-2ubuntu0.7 -y
-sudo apt-get install --only-upgrade libkadm5srv-mit8=1.10+dfsg~beta1-2ubuntu0.7 -y
 sudo apt-get install --only-upgrade libkadm5clnt-mit8=1.10+dfsg~beta1-2ubuntu0.7 -y
 sudo apt-get install --only-upgrade libkdb5-6=1.10+dfsg~beta1-2ubuntu0.7 -y
 sudo apt-get install --only-upgrade libkrb5support0=1.10+dfsg~beta1-2ubuntu0.7 -y
-sudo apt-get install --only-upgrade krb5-locales=1.10+dfsg~beta1-2ubuntu0.7 -y
 sudo apt-get install --only-upgrade libkrb53=1.10+dfsg~beta1-2ubuntu0.7 -y
 sudo apt-get install --only-upgrade krb5-kdc-ldap=1.10+dfsg~beta1-2ubuntu0.7 -y
 sudo apt-get install --only-upgrade libkdb5-6=1.10+dfsg~beta1-2ubuntu0.7 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2949-1
 #
 # Security announcement date: 2016-04-06 00:00:00 UTC
-# Script generation date:     2016-06-21 01:25:29 UTC
+# Script generation date:     2016-11-24 21:02:33 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -12,17 +12,7 @@
 # Vulnerable packages fix on version:
 #   - linux-image-3.19.0-58-powerpc64-smp:3.19.0-58.64~14.04.1
 #   - linux-image-3.19.0-58-lowlatency:3.19.0-58.64~14.04.1
-#   - linux-headers-3.19.0-58:3.19.0-58.64~14.04.1
-#   - linux-lts-vivid-tools-3.19.0-58:3.19.0-58.64~14.04.1
-#   - linux-lts-vivid-cloud-tools-3.19.0-58:3.19.0-58.64~14.04.1
 #   - linux-image-3.19.0-58-generic:3.19.0-58.64~14.04.1
-#   - linux-image-extra-3.19.0-58-generic:3.19.0-58.64~14.04.1
-#   - linux-headers-3.19.0-58-generic:3.19.0-58.64~14.04.1
-#   - linux-tools-3.19.0-58-generic:3.19.0-58.64~14.04.1
-#   - linux-cloud-tools-3.19.0-58-generic:3.19.0-58.64~14.04.1
-#   - linux-headers-3.19.0-58-lowlatency:3.19.0-58.64~14.04.1
-#   - linux-tools-3.19.0-58-lowlatency:3.19.0-58.64~14.04.1
-#   - linux-cloud-tools-3.19.0-58-lowlatency:3.19.0-58.64~14.04.1
 #   - linux-image-3.19.0-58-generic-lpae:3.19.0-58.64~14.04.1
 #   - linux-image-3.19.0-58-powerpc-e500mc:3.19.0-58.64~14.04.1
 #   - linux-image-3.19.0-58-powerpc64-emb:3.19.0-58.64~14.04.1
@@ -31,17 +21,7 @@
 # Last versions recommanded by security team:
 #   - linux-image-3.19.0-58-powerpc64-smp:3.19.0-58.64~14.04.1
 #   - linux-image-3.19.0-58-lowlatency:3.19.0-58.64~14.04.1
-#   - linux-headers-3.19.0-58:3.19.0-58.64~14.04.1
-#   - linux-lts-vivid-tools-3.19.0-58:3.19.0-58.64~14.04.1
-#   - linux-lts-vivid-cloud-tools-3.19.0-58:3.19.0-58.64~14.04.1
 #   - linux-image-3.19.0-58-generic:3.19.0-58.64~14.04.1
-#   - linux-image-extra-3.19.0-58-generic:3.19.0-58.64~14.04.1
-#   - linux-headers-3.19.0-58-generic:3.19.0-58.64~14.04.1
-#   - linux-tools-3.19.0-58-generic:3.19.0-58.64~14.04.1
-#   - linux-cloud-tools-3.19.0-58-generic:3.19.0-58.64~14.04.1
-#   - linux-headers-3.19.0-58-lowlatency:3.19.0-58.64~14.04.1
-#   - linux-tools-3.19.0-58-lowlatency:3.19.0-58.64~14.04.1
-#   - linux-cloud-tools-3.19.0-58-lowlatency:3.19.0-58.64~14.04.1
 #   - linux-image-3.19.0-58-generic-lpae:3.19.0-58.64~14.04.1
 #   - linux-image-3.19.0-58-powerpc-e500mc:3.19.0-58.64~14.04.1
 #   - linux-image-3.19.0-58-powerpc64-emb:3.19.0-58.64~14.04.1
@@ -59,17 +39,7 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade linux-image-3.19.0-58-powerpc64-smp=3.19.0-58.64~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.19.0-58-lowlatency=3.19.0-58.64~14.04.1 -y
-sudo apt-get install --only-upgrade linux-headers-3.19.0-58=3.19.0-58.64~14.04.1 -y
-sudo apt-get install --only-upgrade linux-lts-vivid-tools-3.19.0-58=3.19.0-58.64~14.04.1 -y
-sudo apt-get install --only-upgrade linux-lts-vivid-cloud-tools-3.19.0-58=3.19.0-58.64~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.19.0-58-generic=3.19.0-58.64~14.04.1 -y
-sudo apt-get install --only-upgrade linux-image-extra-3.19.0-58-generic=3.19.0-58.64~14.04.1 -y
-sudo apt-get install --only-upgrade linux-headers-3.19.0-58-generic=3.19.0-58.64~14.04.1 -y
-sudo apt-get install --only-upgrade linux-tools-3.19.0-58-generic=3.19.0-58.64~14.04.1 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-3.19.0-58-generic=3.19.0-58.64~14.04.1 -y
-sudo apt-get install --only-upgrade linux-headers-3.19.0-58-lowlatency=3.19.0-58.64~14.04.1 -y
-sudo apt-get install --only-upgrade linux-tools-3.19.0-58-lowlatency=3.19.0-58.64~14.04.1 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-3.19.0-58-lowlatency=3.19.0-58.64~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.19.0-58-generic-lpae=3.19.0-58.64~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.19.0-58-powerpc-e500mc=3.19.0-58.64~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-3.19.0-58-powerpc64-emb=3.19.0-58.64~14.04.1 -y

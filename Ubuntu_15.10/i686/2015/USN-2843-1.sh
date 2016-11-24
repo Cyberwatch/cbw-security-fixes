@@ -4,7 +4,7 @@
 # Security fix for USN-2843-1
 #
 # Security announcement date: 2015-12-17 00:00:00 UTC
-# Script generation date:     2016-06-27 21:06:37 UTC
+# Script generation date:     2016-11-24 21:02:14 UTC
 #
 # Operating System: Ubuntu 15.10
 # Architecture: i686
@@ -13,11 +13,6 @@
 #   - linux-image-4.2.0-21-powerpc64-emb:4.2.0-21.25
 #   - linux-image-4.2.0-21-powerpc-smp:4.2.0-21.25
 #   - linux-image-4.2.0-21-lowlatency:4.2.0-21.25
-#   - linux-source-4.2.0:4.2.0-21.25
-#   - linux-doc:4.2.0-21.25
-#   - linux-libc-dev:4.2.0-21.25
-#   - linux-tools-common:4.2.0-21.25
-#   - linux-cloud-tools-common:4.2.0-21.25
 #   - linux-image-4.2.0-21-generic-lpae:4.2.0-21.25
 #   - linux-image-4.2.0-21-generic:4.2.0-21.25
 #   - linux-image-4.2.0-21-powerpc-e500mc:4.2.0-21.25
@@ -27,11 +22,6 @@
 #   - linux-image-4.2.0-21-powerpc64-emb:4.2.0-21.25
 #   - linux-image-4.2.0-21-powerpc-smp:4.2.0-21.25
 #   - linux-image-4.2.0-21-lowlatency:4.2.0-21.25
-#   - linux-source-4.2.0:4.2.0-41.48
-#   - linux-doc:4.2.0-41.48
-#   - linux-libc-dev:4.2.0-41.48
-#   - linux-tools-common:4.2.0-41.48
-#   - linux-cloud-tools-common:4.2.0-41.48
 #   - linux-image-4.2.0-21-generic-lpae:4.2.0-21.25
 #   - linux-image-4.2.0-21-generic:4.2.0-21.25
 #   - linux-image-4.2.0-21-powerpc-e500mc:4.2.0-21.25
@@ -51,11 +41,6 @@
 sudo apt-get install --only-upgrade linux-image-4.2.0-21-powerpc64-emb=4.2.0-21.25 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-21-powerpc-smp=4.2.0-21.25 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-21-lowlatency=4.2.0-21.25 -y
-sudo apt-get install --only-upgrade linux-source-4.2.0=4.2.0-41.48 -y
-sudo apt-get install --only-upgrade linux-doc=4.2.0-41.48 -y
-sudo apt-get install --only-upgrade linux-libc-dev=4.2.0-41.48 -y
-sudo apt-get install --only-upgrade linux-tools-common=4.2.0-41.48 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-common=4.2.0-41.48 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-21-generic-lpae=4.2.0-21.25 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-21-generic=4.2.0-21.25 -y
 sudo apt-get install --only-upgrade linux-image-4.2.0-21-powerpc-e500mc=4.2.0-21.25 -y

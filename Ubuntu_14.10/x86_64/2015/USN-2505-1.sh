@@ -4,7 +4,7 @@
 # Security fix for USN-2505-1
 #
 # Security announcement date: 2015-02-25 00:00:00 UTC
-# Script generation date:     2016-06-20 13:20:39 UTC
+# Script generation date:     2016-11-24 21:01:24 UTC
 #
 # Operating System: Ubuntu 14.10
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - firefox:36.0+build2-0ubuntu0.14.10.4
 #
 # Last versions recommanded by security team:
-#   - firefox:39.0+build5-0ubuntu0.14.10.1
+#   - firefox:36.0+build2-0ubuntu0.14.10.4
 #
 # CVE List:
 #   - CVE-2015-0819
@@ -37,4 +37,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=39.0+build5-0ubuntu0.14.10.1 -y
+sudo apt-get install --only-upgrade firefox=36.0+build2-0ubuntu0.14.10.4 -y

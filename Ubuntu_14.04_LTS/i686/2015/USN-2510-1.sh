@@ -4,18 +4,16 @@
 # Security fix for USN-2510-1
 #
 # Security announcement date: 2015-02-24 00:00:00 UTC
-# Script generation date:     2016-06-20 13:20:39 UTC
+# Script generation date:     2016-11-24 21:01:24 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: i686
 #
 # Vulnerable packages fix on version:
 #   - libfreetype6:2.5.2-1ubuntu2.4
-#   - libfreetype6-dev:2.5.2-1ubuntu2.4
 #
 # Last versions recommanded by security team:
 #   - libfreetype6:2.5.2-1ubuntu2.5
-#   - libfreetype6-dev:2.5.2-1ubuntu2.5
 #
 # CVE List:
 #   - CVE-2014-9656
@@ -44,4 +42,3 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade libfreetype6=2.5.2-1ubuntu2.5 -y
-sudo apt-get install --only-upgrade libfreetype6-dev=2.5.2-1ubuntu2.5 -y
