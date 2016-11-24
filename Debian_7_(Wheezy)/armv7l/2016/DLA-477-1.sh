@@ -4,7 +4,7 @@
 # Security fix for DLA-477-1
 #
 # Security announcement date: 2016-05-16 00:00:00 UTC
-# Script generation date:     2016-08-04 21:16:49 UTC
+# Script generation date:     2016-11-24 21:09:41 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -17,7 +17,6 @@
 #
 # CVE List:
 #   - CVE-2015-7558
-#   - CVE-2016-4347
 #   - CVE-2016-4348
 #
 # More details:

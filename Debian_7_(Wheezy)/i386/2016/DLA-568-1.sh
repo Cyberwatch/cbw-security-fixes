@@ -4,7 +4,7 @@
 # Security fix for DLA-568-1
 #
 # Security announcement date: 2016-07-29 00:00:00 UTC
-# Script generation date:     2016-09-22 21:13:10 UTC
+# Script generation date:     2016-11-24 21:09:47 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -16,7 +16,6 @@
 #   - wordpress:3.6.1+dfsg-1~deb7u12
 #
 # CVE List:
-#   - CVE-2016-5387
 #   - CVE-2016-5832
 #   - CVE-2016-5834
 #   - CVE-2016-5835

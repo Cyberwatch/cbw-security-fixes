@@ -4,7 +4,7 @@
 # Security fix for DLA-556-1
 #
 # Security announcement date: 2016-07-22 00:00:00 UTC
-# Script generation date:     2016-08-04 21:16:53 UTC
+# Script generation date:     2016-11-24 21:09:46 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -16,7 +16,6 @@
 #   - squid3:3.1.20-2.2+deb7u6
 #
 # CVE List:
-#   - CVE-2016-4051
 #   - CVE-2016-5408
 #
 # More details:

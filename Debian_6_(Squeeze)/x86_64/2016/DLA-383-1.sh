@@ -4,7 +4,7 @@
 # Security fix for DLA-383-1
 #
 # Security announcement date: 2016-01-12 00:00:00 UTC
-# Script generation date:     2016-08-04 21:16:44 UTC
+# Script generation date:     2016-11-24 21:09:36 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -17,7 +17,6 @@
 #
 # CVE List:
 #   - CVE-2015-8614
-#   - CVE-2015-8708
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

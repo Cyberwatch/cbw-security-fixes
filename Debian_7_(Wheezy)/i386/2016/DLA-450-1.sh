@@ -4,7 +4,7 @@
 # Security fix for DLA-450-1
 #
 # Security announcement date: 2016-04-30 00:00:00 UTC
-# Script generation date:     2016-06-22 12:20:32 UTC
+# Script generation date:     2016-11-24 21:09:40 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -16,7 +16,6 @@
 #   - gdk-pixbuf:2.26.1-1+deb7u5
 #
 # CVE List:
-#   - CVE-2015-7552
 #   - CVE-2015-7674
 #   - CVE-2015-8875
 #

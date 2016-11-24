@@ -4,7 +4,7 @@
 # Security fix for DLA-362-1
 #
 # Security announcement date: 2015-12-08 00:00:00 UTC
-# Script generation date:     2016-08-04 21:16:43 UTC
+# Script generation date:     2016-11-24 21:09:35 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -17,7 +17,6 @@
 #
 # CVE List:
 #   - CVE-2012-6698
-#   - CVE-2012-6699
 #   - CVE-2012-6700
 #
 # More details:

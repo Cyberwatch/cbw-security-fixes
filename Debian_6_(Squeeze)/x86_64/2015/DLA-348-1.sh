@@ -4,7 +4,7 @@
 # Security fix for DLA-348-1
 #
 # Security announcement date: 2015-11-25 00:00:00 UTC
-# Script generation date:     2016-08-04 21:16:42 UTC
+# Script generation date:     2016-11-24 21:09:34 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -17,7 +17,6 @@
 #
 # CVE List:
 #   - CVE-2013-4168
-#   - CVE-2015-0859
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

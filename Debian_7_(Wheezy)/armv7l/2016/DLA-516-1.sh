@@ -4,7 +4,7 @@
 # Security fix for DLA-516-1
 #
 # Security announcement date: 2016-06-16 00:00:00 UTC
-# Script generation date:     2016-10-19 21:10:28 UTC
+# Script generation date:     2016-11-24 21:09:44 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -28,7 +28,6 @@
 #   - CVE-2016-3137
 #   - CVE-2016-3138
 #   - CVE-2016-3140
-#   - CVE-2016-3156
 #   - CVE-2016-3157
 #   - CVE-2016-3672
 #   - CVE-2016-3951

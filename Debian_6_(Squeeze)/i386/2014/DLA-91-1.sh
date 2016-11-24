@@ -4,7 +4,7 @@
 # Security fix for DLA-91-1
 #
 # Security announcement date: 2014-11-23 00:00:00 UTC
-# Script generation date:     2016-10-13 21:12:28 UTC
+# Script generation date:     2016-11-24 21:09:22 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: i386
@@ -16,8 +16,6 @@
 #   - tomcat6:6.0.45-1~deb6u1
 #
 # CVE List:
-#   - CVE-2012-3439
-#   - CVE-2013-1571
 #   - CVE-2013-4286
 #   - CVE-2013-4322
 #   - CVE-2013-4590

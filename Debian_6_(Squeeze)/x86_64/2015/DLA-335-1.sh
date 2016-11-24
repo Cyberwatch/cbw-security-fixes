@@ -4,7 +4,7 @@
 # Security fix for DLA-335-1
 #
 # Security announcement date: 2015-10-28 00:00:00 UTC
-# Script generation date:     2016-08-04 21:16:41 UTC
+# Script generation date:     2016-11-24 21:09:34 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -22,7 +22,6 @@
 #   - CVE-2015-5219
 #   - CVE-2015-5300
 #   - CVE-2015-7691
-#   - CVE-2015-7962
 #   - CVE-2015-7701
 #   - CVE-2015-7702
 #   - CVE-2015-7703

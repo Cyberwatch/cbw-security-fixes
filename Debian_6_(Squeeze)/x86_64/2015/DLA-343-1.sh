@@ -4,7 +4,7 @@
 # Security fix for DLA-343-1
 #
 # Security announcement date: 2015-11-17 00:00:00 UTC
-# Script generation date:     2016-08-04 21:16:42 UTC
+# Script generation date:     2016-11-24 21:09:34 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -16,7 +16,6 @@
 #   - libpng:1.2.44-1+squeeze6
 #
 # CVE List:
-#   - CVE-2012-3425
 #   - CVE-2015-7981
 #   - CVE-2015-8126
 #

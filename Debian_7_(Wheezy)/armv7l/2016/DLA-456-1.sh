@@ -4,7 +4,7 @@
 # Security fix for DLA-456-1
 #
 # Security announcement date: 2016-05-03 00:00:00 UTC
-# Script generation date:     2016-09-25 21:10:47 UTC
+# Script generation date:     2016-11-24 21:09:40 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: armv7l
@@ -21,7 +21,6 @@
 #   - CVE-2016-2107
 #   - CVE-2016-2108
 #   - CVE-2016-2109
-#   - CVE-2016-2176
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

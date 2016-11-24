@@ -4,7 +4,7 @@
 # Security fix for DLA-445-1
 #
 # Security announcement date: 2016-02-29 00:00:00 UTC
-# Script generation date:     2016-10-13 21:12:44 UTC
+# Script generation date:     2016-11-24 21:09:39 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -16,7 +16,6 @@
 #   - squid3:3.1.6-1.2+squeeze7
 #
 # CVE List:
-#   - CVE-2016-2569
 #   - CVE-2016-2571
 #
 # More details:

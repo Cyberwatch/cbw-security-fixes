@@ -4,7 +4,7 @@
 # Security fix for DLA-420-1
 #
 # Security announcement date: 2016-02-18 00:00:00 UTC
-# Script generation date:     2016-08-04 21:16:45 UTC
+# Script generation date:     2016-11-24 21:09:38 UTC
 #
 # Operating System: Debian 6 (Squeeze)
 # Architecture: x86_64
@@ -16,7 +16,6 @@
 #   - libmatroska:0.8.1-1.1+deb6u1
 #
 # CVE List:
-#   - CVE-2014-9765
 #   - CVE-2015-8792
 #
 # More details:
