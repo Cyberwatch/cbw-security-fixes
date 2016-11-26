@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1011
 #
 # Security announcement date: 2014-08-06 14:38:38 UTC
-# Script generation date:     2016-11-24 21:12:34 UTC
+# Script generation date:     2016-11-26 21:12:22 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -23,17 +23,17 @@
 #   - resteasy-base-tjws.noarch:2.3.5-3.el7_0
 #
 # Last versions recommanded by security team:
-#   - resteasy-base.noarch:2.3.5-3.el7_0
-#   - resteasy-base-atom-provider.noarch:2.3.5-3.el7_0
-#   - resteasy-base-jackson-provider.noarch:2.3.5-3.el7_0
-#   - resteasy-base-javadoc.noarch:2.3.5-3.el7_0
-#   - resteasy-base-jaxb-provider.noarch:2.3.5-3.el7_0
-#   - resteasy-base-jaxrs.noarch:2.3.5-3.el7_0
-#   - resteasy-base-jaxrs-all.noarch:2.3.5-3.el7_0
-#   - resteasy-base-jaxrs-api.noarch:2.3.5-3.el7_0
-#   - resteasy-base-jettison-provider.noarch:2.3.5-3.el7_0
-#   - resteasy-base-providers-pom.noarch:2.3.5-3.el7_0
-#   - resteasy-base-tjws.noarch:2.3.5-3.el7_0
+#   - resteasy-base.noarch:3.0.6-4.el7
+#   - resteasy-base-atom-provider.noarch:3.0.6-4.el7
+#   - resteasy-base-jackson-provider.noarch:3.0.6-4.el7
+#   - resteasy-base-javadoc.noarch:3.0.6-4.el7
+#   - resteasy-base-jaxb-provider.noarch:3.0.6-4.el7
+#   - resteasy-base-jaxrs.noarch:3.0.6-4.el7
+#   - resteasy-base-jaxrs-all.noarch:3.0.6-4.el7
+#   - resteasy-base-jaxrs-api.noarch:3.0.6-4.el7
+#   - resteasy-base-jettison-provider.noarch:3.0.6-4.el7
+#   - resteasy-base-providers-pom.noarch:3.0.6-4.el7
+#   - resteasy-base-tjws.noarch:3.0.6-4.el7
 #
 # CVE List:
 #
@@ -41,14 +41,14 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install resteasy-base.noarch-2.3.5 -y 
-sudo yum install resteasy-base-atom-provider.noarch-2.3.5 -y 
-sudo yum install resteasy-base-jackson-provider.noarch-2.3.5 -y 
-sudo yum install resteasy-base-javadoc.noarch-2.3.5 -y 
-sudo yum install resteasy-base-jaxb-provider.noarch-2.3.5 -y 
-sudo yum install resteasy-base-jaxrs.noarch-2.3.5 -y 
-sudo yum install resteasy-base-jaxrs-all.noarch-2.3.5 -y 
-sudo yum install resteasy-base-jaxrs-api.noarch-2.3.5 -y 
-sudo yum install resteasy-base-jettison-provider.noarch-2.3.5 -y 
-sudo yum install resteasy-base-providers-pom.noarch-2.3.5 -y 
-sudo yum install resteasy-base-tjws.noarch-2.3.5 -y 
+sudo yum install resteasy-base.noarch-3.0.6 -y 
+sudo yum install resteasy-base-atom-provider.noarch-3.0.6 -y 
+sudo yum install resteasy-base-jackson-provider.noarch-3.0.6 -y 
+sudo yum install resteasy-base-javadoc.noarch-3.0.6 -y 
+sudo yum install resteasy-base-jaxb-provider.noarch-3.0.6 -y 
+sudo yum install resteasy-base-jaxrs.noarch-3.0.6 -y 
+sudo yum install resteasy-base-jaxrs-all.noarch-3.0.6 -y 
+sudo yum install resteasy-base-jaxrs-api.noarch-3.0.6 -y 
+sudo yum install resteasy-base-jettison-provider.noarch-3.0.6 -y 
+sudo yum install resteasy-base-providers-pom.noarch-3.0.6 -y 
+sudo yum install resteasy-base-tjws.noarch-3.0.6 -y 

@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:1513
 #
 # Security announcement date: 2015-07-29 01:56:37 UTC
-# Script generation date:     2016-11-24 21:12:52 UTC
+# Script generation date:     2016-11-26 21:12:42 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -26,20 +26,20 @@
 #   - bind-utils.x86_64:9.9.4-18.el7_1.3
 #
 # Last versions recommanded by security team:
-#   - bind.x86_64:9.9.4-29.el7_2.4
-#   - bind-chroot.x86_64:9.9.4-29.el7_2.4
-#   - bind-devel.i686:9.9.4-29.el7_2.4
-#   - bind-devel.x86_64:9.9.4-29.el7_2.4
-#   - bind-libs.i686:9.9.4-29.el7_2.4
-#   - bind-libs.x86_64:9.9.4-29.el7_2.4
-#   - bind-libs-lite.i686:9.9.4-29.el7_2.4
-#   - bind-libs-lite.x86_64:9.9.4-29.el7_2.4
-#   - bind-license.noarch:9.9.4-29.el7_2.4
-#   - bind-lite-devel.i686:9.9.4-29.el7_2.4
-#   - bind-lite-devel.x86_64:9.9.4-29.el7_2.4
-#   - bind-sdb.x86_64:9.9.4-29.el7_2.4
-#   - bind-sdb-chroot.x86_64:9.9.4-29.el7_2.4
-#   - bind-utils.x86_64:9.9.4-29.el7_2.4
+#   - bind.x86_64:9.9.4-38.el7_3
+#   - bind-chroot.x86_64:9.9.4-38.el7_3
+#   - bind-devel.i686:9.9.4-38.el7_3
+#   - bind-devel.x86_64:9.9.4-38.el7_3
+#   - bind-libs.i686:9.9.4-38.el7_3
+#   - bind-libs.x86_64:9.9.4-38.el7_3
+#   - bind-libs-lite.i686:9.9.4-38.el7_3
+#   - bind-libs-lite.x86_64:9.9.4-38.el7_3
+#   - bind-license.noarch:9.9.4-38.el7_3
+#   - bind-lite-devel.i686:9.9.4-38.el7_3
+#   - bind-lite-devel.x86_64:9.9.4-38.el7_3
+#   - bind-sdb.x86_64:9.9.4-38.el7_3
+#   - bind-sdb-chroot.x86_64:9.9.4-38.el7_3
+#   - bind-utils.x86_64:9.9.4-38.el7_3
 #
 # CVE List:
 #   - CVE-2015-5477

@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:2101
 #
 # Security announcement date: 2015-11-30 19:48:49 UTC
-# Script generation date:     2016-11-24 21:12:57 UTC
+# Script generation date:     2016-11-26 21:12:50 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - tkinter.x86_64:2.7.5-34.el7
 #
 # Last versions recommanded by security team:
-#   - python.x86_64:2.7.5-38.el7_2
-#   - python-debug.x86_64:2.7.5-38.el7_2
-#   - python-devel.x86_64:2.7.5-38.el7_2
-#   - python-libs.i686:2.7.5-38.el7_2
-#   - python-libs.x86_64:2.7.5-38.el7_2
-#   - python-test.x86_64:2.7.5-38.el7_2
-#   - python-tools.x86_64:2.7.5-38.el7_2
-#   - tkinter.x86_64:2.7.5-38.el7_2
+#   - python.x86_64:2.7.5-48.el7
+#   - python-debug.x86_64:2.7.5-48.el7
+#   - python-devel.x86_64:2.7.5-48.el7
+#   - python-libs.i686:2.7.5-48.el7
+#   - python-libs.x86_64:2.7.5-48.el7
+#   - python-test.x86_64:2.7.5-48.el7
+#   - python-tools.x86_64:2.7.5-48.el7
+#   - tkinter.x86_64:2.7.5-48.el7
 #
 # CVE List:
 #   - CVE-2013-1752

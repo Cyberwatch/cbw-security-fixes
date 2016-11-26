@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:1135
 #
 # Security announcement date: 2015-06-24 03:28:02 UTC
-# Script generation date:     2016-11-24 21:12:49 UTC
+# Script generation date:     2016-11-26 21:12:38 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -37,31 +37,31 @@
 #   - php-xmlrpc.x86_64:5.4.16-36.el7_1
 #
 # Last versions recommanded by security team:
-#   - php.x86_64:5.4.16-36.3.el7_2
-#   - php-bcmath.x86_64:5.4.16-36.3.el7_2
-#   - php-cli.x86_64:5.4.16-36.3.el7_2
-#   - php-common.x86_64:5.4.16-36.3.el7_2
-#   - php-dba.x86_64:5.4.16-36.3.el7_2
-#   - php-devel.x86_64:5.4.16-36.3.el7_2
-#   - php-embedded.x86_64:5.4.16-36.3.el7_2
-#   - php-enchant.x86_64:5.4.16-36.3.el7_2
-#   - php-fpm.x86_64:5.4.16-36.3.el7_2
-#   - php-gd.x86_64:5.4.16-36.3.el7_2
-#   - php-intl.x86_64:5.4.16-36.3.el7_2
-#   - php-ldap.x86_64:5.4.16-36.3.el7_2
-#   - php-mbstring.x86_64:5.4.16-36.3.el7_2
-#   - php-mysql.x86_64:5.4.16-36.3.el7_2
-#   - php-mysqlnd.x86_64:5.4.16-36.3.el7_2
-#   - php-odbc.x86_64:5.4.16-36.3.el7_2
-#   - php-pdo.x86_64:5.4.16-36.3.el7_2
-#   - php-pgsql.x86_64:5.4.16-36.3.el7_2
-#   - php-process.x86_64:5.4.16-36.3.el7_2
-#   - php-pspell.x86_64:5.4.16-36.3.el7_2
-#   - php-recode.x86_64:5.4.16-36.3.el7_2
-#   - php-snmp.x86_64:5.4.16-36.3.el7_2
-#   - php-soap.x86_64:5.4.16-36.3.el7_2
-#   - php-xml.x86_64:5.4.16-36.3.el7_2
-#   - php-xmlrpc.x86_64:5.4.16-36.3.el7_2
+#   - php.x86_64:5.4.16-42.el7
+#   - php-bcmath.x86_64:5.4.16-42.el7
+#   - php-cli.x86_64:5.4.16-42.el7
+#   - php-common.x86_64:5.4.16-42.el7
+#   - php-dba.x86_64:5.4.16-42.el7
+#   - php-devel.x86_64:5.4.16-42.el7
+#   - php-embedded.x86_64:5.4.16-42.el7
+#   - php-enchant.x86_64:5.4.16-42.el7
+#   - php-fpm.x86_64:5.4.16-42.el7
+#   - php-gd.x86_64:5.4.16-42.el7
+#   - php-intl.x86_64:5.4.16-42.el7
+#   - php-ldap.x86_64:5.4.16-42.el7
+#   - php-mbstring.x86_64:5.4.16-42.el7
+#   - php-mysql.x86_64:5.4.16-42.el7
+#   - php-mysqlnd.x86_64:5.4.16-42.el7
+#   - php-odbc.x86_64:5.4.16-42.el7
+#   - php-pdo.x86_64:5.4.16-42.el7
+#   - php-pgsql.x86_64:5.4.16-42.el7
+#   - php-process.x86_64:5.4.16-42.el7
+#   - php-pspell.x86_64:5.4.16-42.el7
+#   - php-recode.x86_64:5.4.16-42.el7
+#   - php-snmp.x86_64:5.4.16-42.el7
+#   - php-soap.x86_64:5.4.16-42.el7
+#   - php-xml.x86_64:5.4.16-42.el7
+#   - php-xmlrpc.x86_64:5.4.16-42.el7
 #
 # CVE List:
 #   - CVE-2014-8142

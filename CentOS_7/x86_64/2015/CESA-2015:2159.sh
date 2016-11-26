@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:2159
 #
 # Security announcement date: 2015-11-30 19:26:37 UTC
-# Script generation date:     2016-11-24 21:12:57 UTC
+# Script generation date:     2016-11-26 21:12:49 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - libcurl-devel.x86_64:7.29.0-25.el7.centos
 #
 # Last versions recommanded by security team:
-#   - curl.x86_64:7.29.0-25.el7.centos
-#   - libcurl.i686:7.29.0-25.el7.centos
-#   - libcurl.x86_64:7.29.0-25.el7.centos
-#   - libcurl-devel.i686:7.29.0-25.el7.centos
-#   - libcurl-devel.x86_64:7.29.0-25.el7.centos
+#   - curl.x86_64:7.29.0-35.el7.centos
+#   - libcurl.i686:7.29.0-35.el7.centos
+#   - libcurl.x86_64:7.29.0-35.el7.centos
+#   - libcurl-devel.i686:7.29.0-35.el7.centos
+#   - libcurl-devel.x86_64:7.29.0-35.el7.centos
 #
 # CVE List:
 #   - CVE-2014-3613
