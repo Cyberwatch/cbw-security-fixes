@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2016:2658
 #
-# Security announcement date: 2016-11-19 12:44:50 UTC
-# Script generation date:     2016-11-24 21:13:15 UTC
+# Security announcement date: 2016-11-25 16:47:20 UTC
+# Script generation date:     2016-11-27 21:13:20 UTC
 #
 # Operating System: CentOS 5
 # Architecture: i386

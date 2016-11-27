@@ -3,8 +3,8 @@
 #
 # Security fix for CESA-2016:2702
 #
-# Security announcement date: 2016-11-19 11:15:32 UTC
-# Script generation date:     2016-11-24 21:13:14 UTC
+# Security announcement date: 2016-11-25 16:47:58 UTC
+# Script generation date:     2016-11-27 21:13:19 UTC
 #
 # Operating System: CentOS 6
 # Architecture: i386
