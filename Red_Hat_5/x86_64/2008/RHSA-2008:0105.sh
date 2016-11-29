@@ -4,7 +4,7 @@
 # Security fix for RHSA-2008:0105
 #
 # Security announcement date: 2008-02-28 12:11:55 UTC
-# Script generation date:     2016-11-24 21:13:40 UTC
+# Script generation date:     2016-11-29 21:15:55 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - thunderbird-debuginfo.x86_64:1.5.0.12-8.el5
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:45.4.0-1.el5_11
-#   - thunderbird-debuginfo.x86_64:45.4.0-1.el5_11
+#   - thunderbird.x86_64:45.5.0-1.el5_11
+#   - thunderbird-debuginfo.x86_64:45.5.0-1.el5_11
 #
 # CVE List:
 #   - CVE-2008-0412
@@ -33,5 +33,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.x86_64-45.4.0 -y 
-sudo yum install thunderbird-debuginfo.x86_64-45.4.0 -y 
+sudo yum install thunderbird.x86_64-45.5.0 -y 
+sudo yum install thunderbird-debuginfo.x86_64-45.5.0 -y 
