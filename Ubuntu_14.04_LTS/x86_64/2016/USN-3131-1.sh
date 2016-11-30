@@ -4,7 +4,7 @@
 # Security fix for USN-3131-1
 #
 # Security announcement date: 2016-11-21 00:00:00 UTC
-# Script generation date:     2016-11-24 21:02:56 UTC
+# Script generation date:     2016-11-30 21:03:46 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - libmagickcore5:8:6.7.7.10-6ubuntu3.2
 #
 # Last versions recommanded by security team:
-#   - libmagick++5:8:6.7.7.10-6ubuntu3.2
-#   - imagemagick:8:6.7.7.10-6ubuntu3.2
-#   - libmagickcore5-extra:8:6.7.7.10-6ubuntu3.2
-#   - libmagickcore5-extra:8:6.7.7.10-6ubuntu3.2
-#   - libmagickcore5:8:6.7.7.10-6ubuntu3.2
+#   - libmagick++5:8:6.7.7.10-6ubuntu3.3
+#   - imagemagick:8:6.7.7.10-6ubuntu3.3
+#   - libmagickcore5-extra:8:6.7.7.10-6ubuntu3.3
+#   - libmagickcore5-extra:8:6.7.7.10-6ubuntu3.3
+#   - libmagickcore5:8:6.7.7.10-6ubuntu3.3
 #
 # CVE List:
 #   - CVE-2014-8354
@@ -132,8 +132,8 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libmagick++5=8:6.7.7.10-6ubuntu3.2 -y
-sudo apt-get install --only-upgrade imagemagick=8:6.7.7.10-6ubuntu3.2 -y
-sudo apt-get install --only-upgrade libmagickcore5-extra=8:6.7.7.10-6ubuntu3.2 -y
-sudo apt-get install --only-upgrade libmagickcore5-extra=8:6.7.7.10-6ubuntu3.2 -y
-sudo apt-get install --only-upgrade libmagickcore5=8:6.7.7.10-6ubuntu3.2 -y
+sudo apt-get install --only-upgrade libmagick++5=8:6.7.7.10-6ubuntu3.3 -y
+sudo apt-get install --only-upgrade imagemagick=8:6.7.7.10-6ubuntu3.3 -y
+sudo apt-get install --only-upgrade libmagickcore5-extra=8:6.7.7.10-6ubuntu3.3 -y
+sudo apt-get install --only-upgrade libmagickcore5-extra=8:6.7.7.10-6ubuntu3.3 -y
+sudo apt-get install --only-upgrade libmagickcore5=8:6.7.7.10-6ubuntu3.3 -y

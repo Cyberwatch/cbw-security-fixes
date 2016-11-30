@@ -4,7 +4,7 @@
 # Security fix for USN-3128-1
 #
 # Security announcement date: 2016-11-11 00:00:00 UTC
-# Script generation date:     2016-11-24 21:02:55 UTC
+# Script generation date:     2016-11-30 21:03:44 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: i386
@@ -36,9 +36,9 @@
 #   - linux-image-powerpc-smp:4.4.0.47.50
 #   - linux-image-generic-lpae:4.4.0.47.50
 #   - linux-image-powerpc64-emb:4.4.0.47.50
-#   - linux-image-virtual:4.4.0.47.50
-#   - linux-image-generic:4.4.0.47.50
-#   - linux-image-lowlatency:4.4.0.47.50
+#   - linux-image-virtual:4.4.0.51.54
+#   - linux-image-generic:4.4.0.51.54
+#   - linux-image-lowlatency:4.4.0.51.54
 #   - linux-image-4.4.0-47-generic-lpae:4.4.0-47.68
 #   - linux-image-4.4.0-47-powerpc-e500mc:4.4.0-47.68
 #   - linux-image-powerpc64-smp:4.4.0.47.50
@@ -59,9 +59,9 @@ sudo apt-get install --only-upgrade linux-image-4.4.0-47-powerpc-smp=4.4.0-47.68
 sudo apt-get install --only-upgrade linux-image-powerpc-smp=4.4.0.47.50 -y
 sudo apt-get install --only-upgrade linux-image-generic-lpae=4.4.0.47.50 -y
 sudo apt-get install --only-upgrade linux-image-powerpc64-emb=4.4.0.47.50 -y
-sudo apt-get install --only-upgrade linux-image-virtual=4.4.0.47.50 -y
-sudo apt-get install --only-upgrade linux-image-generic=4.4.0.47.50 -y
-sudo apt-get install --only-upgrade linux-image-lowlatency=4.4.0.47.50 -y
+sudo apt-get install --only-upgrade linux-image-virtual=4.4.0.51.54 -y
+sudo apt-get install --only-upgrade linux-image-generic=4.4.0.51.54 -y
+sudo apt-get install --only-upgrade linux-image-lowlatency=4.4.0.51.54 -y
 sudo apt-get install --only-upgrade linux-image-4.4.0-47-generic-lpae=4.4.0-47.68 -y
 sudo apt-get install --only-upgrade linux-image-4.4.0-47-powerpc-e500mc=4.4.0-47.68 -y
 sudo apt-get install --only-upgrade linux-image-powerpc64-smp=4.4.0.47.50 -y

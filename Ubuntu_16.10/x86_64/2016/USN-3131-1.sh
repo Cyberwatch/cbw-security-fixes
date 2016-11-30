@@ -4,7 +4,7 @@
 # Security fix for USN-3131-1
 #
 # Security announcement date: 2016-11-21 00:00:00 UTC
-# Script generation date:     2016-11-23 21:04:47 UTC
+# Script generation date:     2016-11-30 21:03:45 UTC
 #
 # Operating System: Ubuntu 16.10
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - libmagickcore-6.q16-2:8:6.8.9.9-7ubuntu8.1
 #
 # Last versions recommanded by security team:
-#   - libmagick++-6.q16-5v5:8:6.8.9.9-7ubuntu8.1
-#   - imagemagick:8:6.8.9.9-7ubuntu8.1
-#   - libmagickcore-6.q16-2-extra:8:6.8.9.9-7ubuntu8.1
-#   - imagemagick-6.q16:8:6.8.9.9-7ubuntu8.1
-#   - libmagickcore-6.q16-2:8:6.8.9.9-7ubuntu8.1
+#   - libmagick++-6.q16-5v5:8:6.8.9.9-7ubuntu8.2
+#   - imagemagick:8:6.8.9.9-7ubuntu8.2
+#   - libmagickcore-6.q16-2-extra:8:6.8.9.9-7ubuntu8.2
+#   - imagemagick-6.q16:8:6.8.9.9-7ubuntu8.2
+#   - libmagickcore-6.q16-2:8:6.8.9.9-7ubuntu8.2
 #
 # CVE List:
 #   - CVE-2014-8354
@@ -132,8 +132,8 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libmagick++-6.q16-5v5=8:6.8.9.9-7ubuntu8.1 -y
-sudo apt-get install --only-upgrade imagemagick=8:6.8.9.9-7ubuntu8.1 -y
-sudo apt-get install --only-upgrade libmagickcore-6.q16-2-extra=8:6.8.9.9-7ubuntu8.1 -y
-sudo apt-get install --only-upgrade imagemagick-6.q16=8:6.8.9.9-7ubuntu8.1 -y
-sudo apt-get install --only-upgrade libmagickcore-6.q16-2=8:6.8.9.9-7ubuntu8.1 -y
+sudo apt-get install --only-upgrade libmagick++-6.q16-5v5=8:6.8.9.9-7ubuntu8.2 -y
+sudo apt-get install --only-upgrade imagemagick=8:6.8.9.9-7ubuntu8.2 -y
+sudo apt-get install --only-upgrade libmagickcore-6.q16-2-extra=8:6.8.9.9-7ubuntu8.2 -y
+sudo apt-get install --only-upgrade imagemagick-6.q16=8:6.8.9.9-7ubuntu8.2 -y
+sudo apt-get install --only-upgrade libmagickcore-6.q16-2=8:6.8.9.9-7ubuntu8.2 -y
