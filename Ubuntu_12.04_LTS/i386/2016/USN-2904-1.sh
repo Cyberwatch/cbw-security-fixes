@@ -4,7 +4,7 @@
 # Security fix for USN-2904-1
 #
 # Security announcement date: 2016-03-08 00:00:00 UTC
-# Script generation date:     2016-11-24 21:02:28 UTC
+# Script generation date:     2016-12-01 21:03:06 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - thunderbird:1:38.6.0+build1-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - thunderbird:1:45.4.0+build1-0ubuntu0.12.04.1
+#   - thunderbird:1:45.5.1+build1-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2015-7575
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade thunderbird=1:45.4.0+build1-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade thunderbird=1:45.5.1+build1-0ubuntu0.12.04.1 -y

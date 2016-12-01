@@ -4,7 +4,7 @@
 # Security fix for USN-3076-1
 #
 # Security announcement date: 2016-09-22 00:00:00 UTC
-# Script generation date:     2016-11-19 21:04:12 UTC
+# Script generation date:     2016-12-01 21:03:36 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - firefox:49.0+build4-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:50.0+build2-0ubuntu0.12.04.2
+#   - firefox:50.0.2+build1-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2016-2827
@@ -39,4 +39,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=50.0+build2-0ubuntu0.12.04.2 -y
+sudo apt-get install --only-upgrade firefox=50.0.2+build1-0ubuntu0.12.04.1 -y
