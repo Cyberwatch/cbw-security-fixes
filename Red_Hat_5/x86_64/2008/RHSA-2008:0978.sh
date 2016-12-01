@@ -4,7 +4,7 @@
 # Security fix for RHSA-2008:0978
 #
 # Security announcement date: 2008-11-13 02:50:04 UTC
-# Script generation date:     2016-11-24 21:13:50 UTC
+# Script generation date:     2016-12-01 21:19:06 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -42,16 +42,16 @@
 # Last versions recommanded by security team:
 #   - devhelp.i386:0.12-21.el5
 #   - devhelp-debuginfo.i386:0.12-21.el5
-#   - firefox.i386:45.5.0-1.el5_11
-#   - firefox-debuginfo.i386:45.5.0-1.el5_11
+#   - firefox.i386:45.5.1-1.el5_11
+#   - firefox-debuginfo.i386:45.5.1-1.el5_11
 #   - nss.i386:3.21.3-2.el5_11
 #   - nss-debuginfo.i386:3.21.3-2.el5_11
 #   - xulrunner.i386:17.0.10-1.el5_10
 #   - xulrunner-debuginfo.i386:17.0.10-1.el5_10
 #   - devhelp.x86_64:0.12-21.el5
 #   - devhelp-debuginfo.x86_64:0.12-21.el5
-#   - firefox.x86_64:45.5.0-1.el5_11
-#   - firefox-debuginfo.x86_64:45.5.0-1.el5_11
+#   - firefox.x86_64:45.5.1-1.el5_11
+#   - firefox-debuginfo.x86_64:45.5.1-1.el5_11
 #   - nss.x86_64:3.21.3-2.el5_11
 #   - nss-debuginfo.x86_64:3.21.3-2.el5_11
 #   - nss-tools.x86_64:3.21.3-2.el5_11
@@ -88,16 +88,16 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install devhelp.i386-0.12 -y 
 sudo yum install devhelp-debuginfo.i386-0.12 -y 
-sudo yum install firefox.i386-45.5.0 -y 
-sudo yum install firefox-debuginfo.i386-45.5.0 -y 
+sudo yum install firefox.i386-45.5.1 -y 
+sudo yum install firefox-debuginfo.i386-45.5.1 -y 
 sudo yum install nss.i386-3.21.3 -y 
 sudo yum install nss-debuginfo.i386-3.21.3 -y 
 sudo yum install xulrunner.i386-17.0.10 -y 
 sudo yum install xulrunner-debuginfo.i386-17.0.10 -y 
 sudo yum install devhelp.x86_64-0.12 -y 
 sudo yum install devhelp-debuginfo.x86_64-0.12 -y 
-sudo yum install firefox.x86_64-45.5.0 -y 
-sudo yum install firefox-debuginfo.x86_64-45.5.0 -y 
+sudo yum install firefox.x86_64-45.5.1 -y 
+sudo yum install firefox-debuginfo.x86_64-45.5.1 -y 
 sudo yum install nss.x86_64-3.21.3 -y 
 sudo yum install nss-debuginfo.x86_64-3.21.3 -y 
 sudo yum install nss-tools.x86_64-3.21.3 -y 

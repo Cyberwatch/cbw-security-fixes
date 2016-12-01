@@ -4,7 +4,7 @@
 # Security fix for RHSA-2010:0782
 #
 # Security announcement date: 2010-10-19 23:48:38 UTC
-# Script generation date:     2016-11-24 21:14:16 UTC
+# Script generation date:     2016-12-01 21:19:46 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -31,14 +31,14 @@
 #   - xulrunner-devel.x86_64:1.9.2.11-2.el5
 #
 # Last versions recommanded by security team:
-#   - firefox.i386:45.5.0-1.el5_11
-#   - firefox-debuginfo.i386:45.5.0-1.el5_11
+#   - firefox.i386:45.5.1-1.el5_11
+#   - firefox-debuginfo.i386:45.5.1-1.el5_11
 #   - nss.i386:3.21.3-2.el5_11
 #   - nss-debuginfo.i386:3.21.3-2.el5_11
 #   - xulrunner.i386:17.0.10-1.el5_10
 #   - xulrunner-debuginfo.i386:17.0.10-1.el5_10
-#   - firefox.x86_64:45.5.0-1.el5_11
-#   - firefox-debuginfo.x86_64:45.5.0-1.el5_11
+#   - firefox.x86_64:45.5.1-1.el5_11
+#   - firefox-debuginfo.x86_64:45.5.1-1.el5_11
 #   - nss.x86_64:3.21.3-2.el5_11
 #   - nss-debuginfo.x86_64:3.21.3-2.el5_11
 #   - nss-tools.x86_64:3.21.3-2.el5_11
@@ -67,14 +67,14 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.i386-45.5.0 -y 
-sudo yum install firefox-debuginfo.i386-45.5.0 -y 
+sudo yum install firefox.i386-45.5.1 -y 
+sudo yum install firefox-debuginfo.i386-45.5.1 -y 
 sudo yum install nss.i386-3.21.3 -y 
 sudo yum install nss-debuginfo.i386-3.21.3 -y 
 sudo yum install xulrunner.i386-17.0.10 -y 
 sudo yum install xulrunner-debuginfo.i386-17.0.10 -y 
-sudo yum install firefox.x86_64-45.5.0 -y 
-sudo yum install firefox-debuginfo.x86_64-45.5.0 -y 
+sudo yum install firefox.x86_64-45.5.1 -y 
+sudo yum install firefox-debuginfo.x86_64-45.5.1 -y 
 sudo yum install nss.x86_64-3.21.3 -y 
 sudo yum install nss-debuginfo.x86_64-3.21.3 -y 
 sudo yum install nss-tools.x86_64-3.21.3 -y 
