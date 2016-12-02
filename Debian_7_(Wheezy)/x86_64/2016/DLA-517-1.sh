@@ -4,7 +4,7 @@
 # Security fix for DLA-517-1
 #
 # Security announcement date: 2016-06-17 00:00:00 UTC
-# Script generation date:     2016-06-22 12:20:35 UTC
+# Script generation date:     2016-12-02 21:10:08 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - imagemagick:8:6.7.7.10-5+deb7u7
 #
 # Last versions recommanded by security team:
-#   - imagemagick:8:6.7.7.10-5+deb7u7
+#   - imagemagick:8:6.7.7.10-5+deb7u8
 #
 # CVE List:
 #   - CVE-2016-4563
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade imagemagick=8:6.7.7.10-5+deb7u7 -y
+sudo apt-get install --only-upgrade imagemagick=8:6.7.7.10-5+deb7u8 -y
