@@ -4,7 +4,7 @@
 # Security fix for CESA-2007:1083
 #
 # Security announcement date: 2007-12-22 19:36:01 UTC
-# Script generation date:     2016-11-24 21:11:13 UTC
+# Script generation date:     2016-12-02 21:11:21 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - thunderbird.x86_64:1.5.0.12-7.el5.centos
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:45.4.0-1.el5.centos
+#   - thunderbird.x86_64:45.5.0-1.el5.centos
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.x86_64-45.4.0 -y 
+sudo yum install thunderbird.x86_64-45.5.0 -y 
