@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0271
 #
 # Security announcement date: 2013-02-20 20:09:38 UTC
-# Script generation date:     2016-11-24 21:12:03 UTC
+# Script generation date:     2016-12-04 21:15:43 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -32,8 +32,8 @@
 #   - devhelp.x86_64:0.12-23.el5_9
 #   - devhelp-devel.x86_64:0.12-23.el5_9
 #   - yelp.x86_64:2.16.0-30.el5_9
-#   - firefox.i386:45.5.0-1.el5.centos
-#   - firefox.x86_64:45.5.0-1.el5.centos
+#   - firefox.i386:45.5.1-1.el5.centos
+#   - firefox.x86_64:45.5.1-1.el5.centos
 #
 # CVE List:
 #
@@ -50,5 +50,5 @@ sudo yum install devhelp-devel.i386-0.12 -y
 sudo yum install devhelp.x86_64-0.12 -y 
 sudo yum install devhelp-devel.x86_64-0.12 -y 
 sudo yum install yelp.x86_64-2.16.0 -y 
-sudo yum install firefox.i386-45.5.0 -y 
-sudo yum install firefox.x86_64-45.5.0 -y 
+sudo yum install firefox.i386-45.5.1 -y 
+sudo yum install firefox.x86_64-45.5.1 -y 

@@ -4,7 +4,7 @@
 # Security fix for CESA-2008:0879
 #
 # Security announcement date: 2008-09-25 13:09:06 UTC
-# Script generation date:     2016-11-24 21:11:19 UTC
+# Script generation date:     2016-12-04 21:15:01 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -31,13 +31,13 @@
 # Last versions recommanded by security team:
 #   - devhelp.i386:0.12-23.el5_9
 #   - devhelp-devel.i386:0.12-23.el5_9
-#   - firefox.i386:45.5.0-1.el5.centos
+#   - firefox.i386:45.5.1-1.el5.centos
 #   - nss.i386:3.21.3-2.el5_11
 #   - nss-devel.i386:3.21.3-2.el5_11
 #   - nss-pkcs11-devel.i386:3.21.3-2.el5_11
 #   - devhelp.x86_64:0.12-23.el5_9
 #   - devhelp-devel.x86_64:0.12-23.el5_9
-#   - firefox.x86_64:45.5.0-1.el5.centos
+#   - firefox.x86_64:45.5.1-1.el5.centos
 #   - nss.x86_64:3.21.3-2.el5_11
 #   - nss-devel.x86_64:3.21.3-2.el5_11
 #   - nss-pkcs11-devel.x86_64:3.21.3-2.el5_11
@@ -65,13 +65,13 @@
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install devhelp.i386-0.12 -y 
 sudo yum install devhelp-devel.i386-0.12 -y 
-sudo yum install firefox.i386-45.5.0 -y 
+sudo yum install firefox.i386-45.5.1 -y 
 sudo yum install nss.i386-3.21.3 -y 
 sudo yum install nss-devel.i386-3.21.3 -y 
 sudo yum install nss-pkcs11-devel.i386-3.21.3 -y 
 sudo yum install devhelp.x86_64-0.12 -y 
 sudo yum install devhelp-devel.x86_64-0.12 -y 
-sudo yum install firefox.x86_64-45.5.0 -y 
+sudo yum install firefox.x86_64-45.5.1 -y 
 sudo yum install nss.x86_64-3.21.3 -y 
 sudo yum install nss-devel.x86_64-3.21.3 -y 
 sudo yum install nss-pkcs11-devel.x86_64-3.21.3 -y 
