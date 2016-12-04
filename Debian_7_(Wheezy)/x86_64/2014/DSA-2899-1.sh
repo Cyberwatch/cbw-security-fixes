@@ -4,7 +4,7 @@
 # Security fix for DSA-2899-1
 #
 # Security announcement date: 2014-04-09 00:00:00 UTC
-# Script generation date:     2016-11-24 21:05:45 UTC
+# Script generation date:     2016-12-04 21:08:29 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - openafs:1.6.1-3+deb7u2
 #
 # Last versions recommanded by security team:
-#   - openafs:1.6.1-3+deb7u6
+#   - openafs:1.6.1-3+deb7u7
 #
 # CVE List:
 #   - CVE-2014-0159
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openafs=1.6.1-3+deb7u6 -y
+sudo apt-get install --only-upgrade openafs=1.6.1-3+deb7u7 -y
