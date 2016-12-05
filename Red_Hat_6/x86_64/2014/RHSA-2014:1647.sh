@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1647
 #
 # Security announcement date: 2014-10-15 21:01:32 UTC
-# Script generation date:     2016-11-29 21:19:25 UTC
+# Script generation date:     2016-12-05 21:18:48 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - thunderbird-debuginfo.x86_64:31.2.0-3.el6_6
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:45.5.0-1.el6_8
-#   - thunderbird-debuginfo.x86_64:45.5.0-1.el6_8
+#   - thunderbird.x86_64:45.5.1-1.el6_8
+#   - thunderbird-debuginfo.x86_64:45.5.1-1.el6_8
 #
 # CVE List:
 #   - CVE-2014-1574
@@ -27,5 +27,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.x86_64-45.5.0 -y 
-sudo yum install thunderbird-debuginfo.x86_64-45.5.0 -y 
+sudo yum install thunderbird.x86_64-45.5.1 -y 
+sudo yum install thunderbird-debuginfo.x86_64-45.5.1 -y 

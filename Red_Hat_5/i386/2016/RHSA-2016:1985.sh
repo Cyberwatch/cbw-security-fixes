@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:1985
 #
 # Security announcement date: 2016-10-03 18:30:32 UTC
-# Script generation date:     2016-11-29 21:21:21 UTC
+# Script generation date:     2016-12-05 21:20:24 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: i386
@@ -14,8 +14,8 @@
 #   - thunderbird-debuginfo.i386:45.4.0-1.el5_11
 #
 # Last versions recommanded by security team:
-#   - thunderbird.i386:45.5.0-1.el5_11
-#   - thunderbird-debuginfo.i386:45.5.0-1.el5_11
+#   - thunderbird.i386:45.5.1-1.el5_11
+#   - thunderbird-debuginfo.i386:45.5.1-1.el5_11
 #
 # CVE List:
 #   - CVE-2016-5257
@@ -24,5 +24,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.i386-45.5.0 -y 
-sudo yum install thunderbird-debuginfo.i386-45.5.0 -y 
+sudo yum install thunderbird.i386-45.5.1 -y 
+sudo yum install thunderbird-debuginfo.i386-45.5.1 -y 
