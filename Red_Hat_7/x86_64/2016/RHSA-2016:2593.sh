@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:2593
 #
 # Security announcement date: 2016-11-03 09:00:30 UTC
-# Script generation date:     2016-11-05 21:21:41 UTC
+# Script generation date:     2016-12-06 21:20:01 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - sudo-devel.x86_64:1.8.6p7-20.el7
 #
 # Last versions recommanded by security team:
-#   - sudo.x86_64:1.8.6p7-20.el7
-#   - sudo-debuginfo.x86_64:1.8.6p7-20.el7
-#   - sudo-debuginfo.i686:1.8.6p7-20.el7
-#   - sudo-devel.i686:1.8.6p7-20.el7
-#   - sudo-devel.x86_64:1.8.6p7-20.el7
+#   - sudo.x86_64:1.8.6p7-21.el7_3
+#   - sudo-debuginfo.x86_64:1.8.6p7-21.el7_3
+#   - sudo-debuginfo.i686:1.8.6p7-21.el7_3
+#   - sudo-devel.i686:1.8.6p7-21.el7_3
+#   - sudo-devel.x86_64:1.8.6p7-21.el7_3
 #
 # CVE List:
 #   - CVE-2016-7091

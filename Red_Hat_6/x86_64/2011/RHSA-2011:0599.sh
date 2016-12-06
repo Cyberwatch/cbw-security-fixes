@@ -4,7 +4,7 @@
 # Security fix for RHSA-2011:0599
 #
 # Security announcement date: 2011-05-19 12:23:39 UTC
-# Script generation date:     2016-05-12 18:10:16 UTC
+# Script generation date:     2016-12-06 21:16:43 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - sudo-debuginfo.x86_64:1.7.4p5-5.el6
 #
 # Last versions recommanded by security team:
-#   - sudo.x86_64:1.8.6p3-19.el6
-#   - sudo-debuginfo.x86_64:1.8.6p3-19.el6
+#   - sudo.x86_64:1.8.6p3-25.el6_8
+#   - sudo-debuginfo.x86_64:1.8.6p3-25.el6_8
 #
 # CVE List:
 #   - CVE-2011-0010

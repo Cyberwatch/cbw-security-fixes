@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:1081
 #
 # Security announcement date: 2012-07-16 16:01:18 UTC
-# Script generation date:     2016-05-12 18:10:54 UTC
+# Script generation date:     2016-12-06 21:17:14 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - sudo-debuginfo.x86_64:1.7.4p5-12.el6_3
 #
 # Last versions recommanded by security team:
-#   - sudo.x86_64:1.8.6p3-19.el6
-#   - sudo-debuginfo.x86_64:1.8.6p3-19.el6
+#   - sudo.x86_64:1.8.6p3-25.el6_8
+#   - sudo-debuginfo.x86_64:1.8.6p3-25.el6_8
 #
 # CVE List:
 #   - CVE-2012-2337
