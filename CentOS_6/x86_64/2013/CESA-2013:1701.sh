@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1701
 #
 # Security announcement date: 2013-11-26 13:33:00 UTC
-# Script generation date:     2016-11-24 21:12:16 UTC
+# Script generation date:     2016-12-08 21:15:19 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - sudo-devel.x86_64:1.8.6p3-12.el6
 #
 # Last versions recommanded by security team:
-#   - sudo-devel.i686:1.8.6p3-19.el6
-#   - sudo.x86_64:1.8.6p3-19.el6
-#   - sudo-devel.x86_64:1.8.6p3-19.el6
+#   - sudo-devel.i686:1.8.6p3-25.el6_8
+#   - sudo.x86_64:1.8.6p3-25.el6_8
+#   - sudo-devel.x86_64:1.8.6p3-25.el6_8
 #
 # CVE List:
 #   - CVE-2013-1775

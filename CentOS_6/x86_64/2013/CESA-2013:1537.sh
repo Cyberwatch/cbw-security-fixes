@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1537
 #
 # Security announcement date: 2013-12-05 13:31:54 UTC
-# Script generation date:     2016-11-24 21:12:17 UTC
+# Script generation date:     2016-12-08 21:15:20 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -1629,9 +1629,9 @@
 #   - libsss_autofs.x86_64:1.9.2-129.el6
 #   - libsss_sudo.x86_64:1.9.2-129.el6
 #   - libsss_sudo-devel.x86_64:1.9.2-129.el6
-#   - sudo-devel.i686:1.8.6p3-19.el6
-#   - sudo.x86_64:1.8.6p3-19.el6
-#   - sudo-devel.x86_64:1.8.6p3-19.el6
+#   - sudo-devel.i686:1.8.6p3-25.el6_8
+#   - sudo.x86_64:1.8.6p3-25.el6_8
+#   - sudo-devel.x86_64:1.8.6p3-25.el6_8
 #   - sysstat.x86_64:9.0.4-22.el6
 #   - system-config-lvm.noarch:1.1.12-16.el6
 #   - systemtap-sdt-devel.i686:2.3-3.el6
