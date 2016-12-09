@@ -4,7 +4,7 @@
 # Security fix for DLA-658-1
 #
 # Security announcement date: 2016-10-16 00:00:00 UTC
-# Script generation date:     2016-12-01 21:14:01 UTC
+# Script generation date:     2016-12-09 21:15:15 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -15,8 +15,10 @@
 #   - icedove:45.4.0-1~deb7u1
 #   - icedove:45.4.0-1~deb7u1
 #   - icedove:45.4.0-1~deb7u1
+#   - icedove:45.4.0-1~deb7u1
 #
 # Last versions recommanded by security team:
+#   - icedove:45.4.0-1~deb7u1
 #   - icedove:45.4.0-1~deb7u1
 #   - icedove:45.4.0-1~deb7u1
 #   - icedove:45.4.0-1~deb7u1
@@ -30,6 +32,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade icedove=45.4.0-1~deb7u1 -y
 sudo apt-get install --only-upgrade icedove=45.4.0-1~deb7u1 -y
 sudo apt-get install --only-upgrade icedove=45.4.0-1~deb7u1 -y
 sudo apt-get install --only-upgrade icedove=45.4.0-1~deb7u1 -y
