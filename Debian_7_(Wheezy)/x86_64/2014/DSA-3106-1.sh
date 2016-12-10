@@ -4,7 +4,7 @@
 # Security fix for DSA-3106-1
 #
 # Security announcement date: 2014-12-20 00:00:00 UTC
-# Script generation date:     2016-11-24 21:06:01 UTC
+# Script generation date:     2016-12-10 21:06:42 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - jasper:1.900.1-13+deb7u2
 #
 # Last versions recommanded by security team:
-#   - jasper:1.900.1-13+deb7u2
+#   - jasper:1.900.1-13+deb7u5
 #
 # CVE List:
 #   - CVE-2014-8137
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade jasper=1.900.1-13+deb7u2 -y
+sudo apt-get install --only-upgrade jasper=1.900.1-13+deb7u5 -y
