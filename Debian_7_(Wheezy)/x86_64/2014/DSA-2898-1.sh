@@ -4,7 +4,7 @@
 # Security fix for DSA-2898-1
 #
 # Security announcement date: 2014-04-09 00:00:00 UTC
-# Script generation date:     2016-12-02 21:06:36 UTC
+# Script generation date:     2016-12-11 21:06:29 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - imagemagick:8:6.7.7.10-5+deb7u3
 #
 # Last versions recommanded by security team:
-#   - imagemagick:8:6.7.7.10-5+deb7u8
+#   - imagemagick:8:6.7.7.10-5+deb7u9
 #
 # CVE List:
 #   - CVE-2014-1947
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade imagemagick=8:6.7.7.10-5+deb7u8 -y
+sudo apt-get install --only-upgrade imagemagick=8:6.7.7.10-5+deb7u9 -y
