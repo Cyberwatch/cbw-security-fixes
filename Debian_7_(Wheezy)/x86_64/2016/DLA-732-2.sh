@@ -4,7 +4,7 @@
 # Security fix for DLA-732-2
 #
 # Security announcement date: 2016-12-06 00:00:00 UTC
-# Script generation date:     2016-12-08 21:12:59 UTC
+# Script generation date:     2016-12-12 21:11:50 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - monit:1:5.4-2+deb7u2
 #
 # Last versions recommanded by security team:
-#   - monit:1:5.4-2+deb7u2
+#   - monit:1:5.4-2+deb7u3
 #
 # CVE List:
 #   - CVE-2016-7067
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade monit=1:5.4-2+deb7u2 -y
+sudo apt-get install --only-upgrade monit=1:5.4-2+deb7u3 -y
