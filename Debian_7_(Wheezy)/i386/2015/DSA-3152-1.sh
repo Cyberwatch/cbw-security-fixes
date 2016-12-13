@@ -4,7 +4,7 @@
 # Security fix for DSA-3152-1
 #
 # Security announcement date: 2015-02-03 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:14 UTC
+# Script generation date:     2016-12-13 21:11:52 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - unzip:6.0-8+deb7u2
 #
 # Last versions recommanded by security team:
-#   - unzip:6.0-8+deb7u5
+#   - unzip:6.0-8+deb7u6
 #
 # CVE List:
 #   - CVE-2014-9636
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade unzip=6.0-8+deb7u5 -y
+sudo apt-get install --only-upgrade unzip=6.0-8+deb7u6 -y

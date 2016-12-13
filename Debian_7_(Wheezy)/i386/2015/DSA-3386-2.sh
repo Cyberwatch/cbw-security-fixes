@@ -4,7 +4,7 @@
 # Security fix for DSA-3386-2
 #
 # Security announcement date: 2015-11-09 00:00:00 UTC
-# Script generation date:     2016-05-12 18:05:47 UTC
+# Script generation date:     2016-12-13 21:12:19 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - unzip:6.0-8+deb7u5
 #
 # Last versions recommanded by security team:
-#   - unzip:6.0-8+deb7u5
+#   - unzip:6.0-8+deb7u6
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade unzip=6.0-8+deb7u5 -y
+sudo apt-get install --only-upgrade unzip=6.0-8+deb7u6 -y
