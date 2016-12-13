@@ -4,7 +4,7 @@
 # Security fix for USN-2348-1
 #
 # Security announcement date: 2014-09-16 00:00:00 UTC
-# Script generation date:     2016-06-20 13:27:05 UTC
+# Script generation date:     2016-12-13 21:05:02 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - apt:1.0.1ubuntu2.3
 #
 # Last versions recommanded by security team:
-#   - apt:1.0.1ubuntu2.13
+#   - apt:1.0.1ubuntu2.17
 #
 # CVE List:
 #   - CVE-2014-0487
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade apt=1.0.1ubuntu2.13 -y
+sudo apt-get install --only-upgrade apt=1.0.1ubuntu2.17 -y
