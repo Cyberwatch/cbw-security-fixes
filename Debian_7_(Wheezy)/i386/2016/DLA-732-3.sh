@@ -1,25 +1,24 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-640-1
+# Security fix for DLA-732-3
 #
-# Security announcement date: 2016-09-30 00:00:00 UTC
-# Script generation date:     2016-12-14 21:12:50 UTC
+# Security announcement date: 2016-12-12 00:00:00 UTC
+# Script generation date:     2016-12-14 21:12:54 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
-#   - icedove:1:45.3.0-1~deb7u1
+#   - monit:1:5.4-2+deb7u3
 #
 # Last versions recommanded by security team:
-#   - icedove:45.4.0-1~deb7u1
+#   - monit:1:5.4-2+deb7u3
 #
 # CVE List:
-#   - CVE-2016-2836
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedove=45.4.0-1~deb7u1 -y
+sudo apt-get install --only-upgrade monit=1:5.4-2+deb7u3 -y
