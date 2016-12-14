@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:0310
 #
 # Security announcement date: 2014-03-18 20:37:23 UTC
-# Script generation date:     2016-12-01 21:21:45 UTC
+# Script generation date:     2016-12-14 21:19:07 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -16,10 +16,10 @@
 #   - firefox-debuginfo.x86_64:24.4.0-1.el5_10
 #
 # Last versions recommanded by security team:
-#   - firefox.i386:45.5.1-1.el5_11
-#   - firefox-debuginfo.i386:45.5.1-1.el5_11
-#   - firefox.x86_64:45.5.1-1.el5_11
-#   - firefox-debuginfo.x86_64:45.5.1-1.el5_11
+#   - firefox.i386:45.6.0-1.el5_11
+#   - firefox-debuginfo.i386:45.6.0-1.el5_11
+#   - firefox.x86_64:45.6.0-1.el5_11
+#   - firefox-debuginfo.x86_64:45.6.0-1.el5_11
 #
 # CVE List:
 #   - CVE-2014-1493
@@ -37,7 +37,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.i386-45.5.1 -y 
-sudo yum install firefox-debuginfo.i386-45.5.1 -y 
-sudo yum install firefox.x86_64-45.5.1 -y 
-sudo yum install firefox-debuginfo.x86_64-45.5.1 -y 
+sudo yum install firefox.i386-45.6.0 -y 
+sudo yum install firefox-debuginfo.i386-45.6.0 -y 
+sudo yum install firefox.x86_64-45.6.0 -y 
+sudo yum install firefox-debuginfo.x86_64-45.6.0 -y 

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:0730
 #
 # Security announcement date: 2013-04-10 09:09:35 UTC
-# Script generation date:     2016-11-09 21:21:32 UTC
+# Script generation date:     2016-12-14 21:18:31 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - flash-plugin.i686:11.2.202.280-2.el6
 #
 # Last versions recommanded by security team:
-#   - flash-plugin.i686:11.2.202.644-1.el6_8
+#   - flash-plugin.i686:24.0.0.186-1.el6_8
 #
 # CVE List:
 #   - CVE-2013-1378
@@ -25,4 +25,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install flash-plugin.i686-11.2.202.644 -y 
+sudo yum install flash-plugin.i686-24.0.0.186 -y 
