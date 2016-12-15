@@ -4,7 +4,7 @@
 # Security fix for DLA-636-1
 #
 # Security announcement date: 2016-09-25 00:00:00 UTC
-# Script generation date:     2016-12-02 21:10:14 UTC
+# Script generation date:     2016-12-15 21:14:45 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox-esr:45.4.0esr-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - firefox-esr:45.5.1esr-1~deb7u1
+#   - firefox-esr:45.6.0esr-1~deb7u1
 #
 # CVE List:
 #   - CVE-2016-5250
@@ -33,4 +33,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox-esr=45.5.1esr-1~deb7u1 -y
+sudo apt-get install --only-upgrade firefox-esr=45.6.0esr-1~deb7u1 -y

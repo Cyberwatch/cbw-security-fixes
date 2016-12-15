@@ -4,7 +4,7 @@
 # Security fix for DLA-730-1
 #
 # Security announcement date: 2016-12-01 00:00:00 UTC
-# Script generation date:     2016-12-03 21:09:21 UTC
+# Script generation date:     2016-12-15 21:14:51 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox-esr:45.5.1esr-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - firefox-esr:45.5.1esr-1~deb7u1
+#   - firefox-esr:45.6.0esr-1~deb7u1
 #
 # CVE List:
 #   - CVE-2016-5290
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox-esr=45.5.1esr-1~deb7u1 -y
+sudo apt-get install --only-upgrade firefox-esr=45.6.0esr-1~deb7u1 -y
