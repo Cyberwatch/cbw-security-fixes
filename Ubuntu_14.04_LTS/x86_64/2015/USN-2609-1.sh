@@ -4,7 +4,7 @@
 # Security fix for USN-2609-1
 #
 # Security announcement date: 2015-05-21 00:00:00 UTC
-# Script generation date:     2016-11-24 21:01:39 UTC
+# Script generation date:     2016-12-15 21:03:41 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - apport:2.14.1-0ubuntu3.11
 #
 # Last versions recommanded by security team:
-#   - apport:2.14.1-0ubuntu3.18
+#   - apport:2.14.1-0ubuntu3.23
 #
 # CVE List:
 #   - CVE-2015-1324
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade apport=2.14.1-0ubuntu3.18 -y
+sudo apt-get install --only-upgrade apport=2.14.1-0ubuntu3.23 -y
