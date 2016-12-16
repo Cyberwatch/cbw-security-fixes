@@ -4,7 +4,7 @@
 # Security fix for DSA-2786-1
 #
 # Security announcement date: 2013-10-27 00:00:00 UTC
-# Script generation date:     2016-11-24 21:05:32 UTC
+# Script generation date:     2016-12-16 21:06:13 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - icu:4.8.1.1-12+deb7u1
 #
 # Last versions recommanded by security team:
-#   - icu:4.8.1.1-12+deb7u5
+#   - icu:4.8.1.1-12+deb7u6
 #
 # CVE List:
 #   - CVE-2013-0900
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icu=4.8.1.1-12+deb7u5 -y
+sudo apt-get install --only-upgrade icu=4.8.1.1-12+deb7u6 -y

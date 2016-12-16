@@ -4,7 +4,7 @@
 # Security fix for DSA-2974-1
 #
 # Security announcement date: 2014-07-08 00:00:00 UTC
-# Script generation date:     2016-09-18 21:05:14 UTC
+# Script generation date:     2016-12-16 21:06:29 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - php5:5.4.4-14+deb7u12
 #
 # Last versions recommanded by security team:
-#   - php5:5.4.45-0+deb7u5
+#   - php5:5.4.45-0+deb7u6
 #
 # CVE List:
 #   - CVE-2014-0207
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u5 -y
+sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u6 -y
