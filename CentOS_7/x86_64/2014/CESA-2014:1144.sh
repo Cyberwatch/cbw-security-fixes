@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:1144
 #
 # Security announcement date: 2014-09-04 00:25:27 UTC
-# Script generation date:     2016-12-04 21:16:13 UTC
+# Script generation date:     2016-12-17 21:19:46 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -22,8 +22,8 @@
 #   - xulrunner.x86_64:31.6.0-2.el7.centos
 #   - xulrunner-devel.i686:31.6.0-2.el7.centos
 #   - xulrunner-devel.x86_64:31.6.0-2.el7.centos
-#   - firefox.i686:45.5.1-1.el7.centos
-#   - firefox.x86_64:45.5.1-1.el7.centos
+#   - firefox.i686:45.6.0-1.el7.centos
+#   - firefox.x86_64:45.6.0-1.el7.centos
 #
 # CVE List:
 #   - CVE-2014-1562
@@ -37,5 +37,5 @@ sudo yum install xulrunner.i686-31.6.0 -y
 sudo yum install xulrunner.x86_64-31.6.0 -y 
 sudo yum install xulrunner-devel.i686-31.6.0 -y 
 sudo yum install xulrunner-devel.x86_64-31.6.0 -y 
-sudo yum install firefox.i686-45.5.1 -y 
-sudo yum install firefox.x86_64-45.5.1 -y 
+sudo yum install firefox.i686-45.6.0 -y 
+sudo yum install firefox.x86_64-45.6.0 -y 

@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0271
 #
 # Security announcement date: 2013-02-20 20:09:38 UTC
-# Script generation date:     2016-12-04 21:15:43 UTC
+# Script generation date:     2016-12-17 21:19:09 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -44,8 +44,8 @@
 #   - libproxy-mozjs.x86_64:0.3.0-4.el6_3
 #   - libproxy-python.x86_64:0.3.0-4.el6_3
 #   - libproxy-webkit.x86_64:0.3.0-4.el6_3
-#   - firefox.i686:45.5.1-1.el6.centos
-#   - firefox.x86_64:45.5.1-1.el6.centos
+#   - firefox.i686:45.6.0-1.el6.centos
+#   - firefox.x86_64:45.6.0-1.el6.centos
 #
 # CVE List:
 #
@@ -68,5 +68,5 @@ sudo yum install libproxy-kde.x86_64-0.3.0 -y
 sudo yum install libproxy-mozjs.x86_64-0.3.0 -y 
 sudo yum install libproxy-python.x86_64-0.3.0 -y 
 sudo yum install libproxy-webkit.x86_64-0.3.0 -y 
-sudo yum install firefox.i686-45.5.1 -y 
-sudo yum install firefox.x86_64-45.5.1 -y 
+sudo yum install firefox.i686-45.6.0 -y 
+sudo yum install firefox.x86_64-45.6.0 -y 
