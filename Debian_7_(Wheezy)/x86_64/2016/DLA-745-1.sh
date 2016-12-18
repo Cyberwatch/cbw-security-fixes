@@ -1,25 +1,25 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-529-1
+# Security fix for DLA-745-1
 #
-# Security announcement date: 2016-06-26 00:00:00 UTC
-# Script generation date:     2016-12-18 21:12:26 UTC
+# Security announcement date: 2016-12-16 00:00:00 UTC
+# Script generation date:     2016-12-18 21:12:40 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - tomcat7:7.0.28-4+deb7u5
+#   - most:5.0.0a-2.2
 #
 # Last versions recommanded by security team:
-#   - tomcat7:7.0.28-4+deb7u8
+#   - most:5.0.0a-2.2
 #
 # CVE List:
-#   - CVE-2016-3092
+#   - CVE-2016-1253
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tomcat7=7.0.28-4+deb7u8 -y
+sudo apt-get install --only-upgrade most=5.0.0a-2.2 -y
