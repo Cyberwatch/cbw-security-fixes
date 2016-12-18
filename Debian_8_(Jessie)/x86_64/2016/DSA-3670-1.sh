@@ -4,7 +4,7 @@
 # Security fix for DSA-3670-1
 #
 # Security announcement date: 2016-09-15 00:00:00 UTC
-# Script generation date:     2016-11-24 21:07:04 UTC
+# Script generation date:     2016-12-18 21:08:54 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - tomcat8:8.0.14-1+deb8u3
 #
 # Last versions recommanded by security team:
-#   - tomcat8:8.0.14-1+deb8u4
+#   - tomcat8:8.0.14-1+deb8u5
 #
 # CVE List:
 #   - CVE-2016-1240
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tomcat8=8.0.14-1+deb8u4 -y
+sudo apt-get install --only-upgrade tomcat8=8.0.14-1+deb8u5 -y
