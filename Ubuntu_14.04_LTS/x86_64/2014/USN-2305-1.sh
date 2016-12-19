@@ -4,7 +4,7 @@
 # Security fix for USN-2305-1
 #
 # Security announcement date: 2014-08-01 00:00:00 UTC
-# Script generation date:     2016-11-24 21:01:01 UTC
+# Script generation date:     2016-12-19 21:04:37 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - samba:2:4.1.6+dfsg-1ubuntu2.14.04.3
 #
 # Last versions recommanded by security team:
-#   - samba:2:4.3.11+dfsg-0ubuntu0.14.04.1
+#   - samba:2:4.3.11+dfsg-0ubuntu0.14.04.4
 #
 # CVE List:
 #   - CVE-2014-3560
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade samba=2:4.3.11+dfsg-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade samba=2:4.3.11+dfsg-0ubuntu0.14.04.4 -y

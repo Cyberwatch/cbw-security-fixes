@@ -4,7 +4,7 @@
 # Security fix for USN-3126-1
 #
 # Security announcement date: 2016-11-11 00:00:00 UTC
-# Script generation date:     2016-12-06 21:05:54 UTC
+# Script generation date:     2016-12-19 21:06:38 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -36,9 +36,9 @@
 #   - linux-image-3.2.0-115-omap:3.2.0-115.157
 #   - linux-image-highbank:3.2.0.115.131
 #   - linux-image-powerpc-smp:3.2.0.115.131
-#   - linux-image-virtual:3.2.0.118.133
-#   - linux-image-generic:3.2.0.118.133
-#   - linux-image-generic-pae:3.2.0.118.133
+#   - linux-image-virtual:3.2.0.119.134
+#   - linux-image-generic:3.2.0.119.134
+#   - linux-image-generic-pae:3.2.0.119.134
 #   - linux-image-powerpc64-smp:3.2.0.115.131
 #   - linux-image-omap:3.2.0.115.131
 #   - linux-image-3.2.0-115-powerpc64-smp:3.2.0-115.157
@@ -60,9 +60,9 @@ sudo apt-get install --only-upgrade linux-image-3.2.0-115-highbank=3.2.0-115.157
 sudo apt-get install --only-upgrade linux-image-3.2.0-115-omap=3.2.0-115.157 -y
 sudo apt-get install --only-upgrade linux-image-highbank=3.2.0.115.131 -y
 sudo apt-get install --only-upgrade linux-image-powerpc-smp=3.2.0.115.131 -y
-sudo apt-get install --only-upgrade linux-image-virtual=3.2.0.118.133 -y
-sudo apt-get install --only-upgrade linux-image-generic=3.2.0.118.133 -y
-sudo apt-get install --only-upgrade linux-image-generic-pae=3.2.0.118.133 -y
+sudo apt-get install --only-upgrade linux-image-virtual=3.2.0.119.134 -y
+sudo apt-get install --only-upgrade linux-image-generic=3.2.0.119.134 -y
+sudo apt-get install --only-upgrade linux-image-generic-pae=3.2.0.119.134 -y
 sudo apt-get install --only-upgrade linux-image-powerpc64-smp=3.2.0.115.131 -y
 sudo apt-get install --only-upgrade linux-image-omap=3.2.0.115.131 -y
 sudo apt-get install --only-upgrade linux-image-3.2.0-115-powerpc64-smp=3.2.0-115.157 -y

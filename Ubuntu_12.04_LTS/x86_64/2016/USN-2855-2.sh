@@ -4,7 +4,7 @@
 # Security fix for USN-2855-2
 #
 # Security announcement date: 2016-02-16 00:00:00 UTC
-# Script generation date:     2016-11-24 21:02:23 UTC
+# Script generation date:     2016-12-19 21:06:08 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - samba:2:3.6.3-2ubuntu2.14
 #
 # Last versions recommanded by security team:
-#   - samba:2:3.6.25-0ubuntu0.12.04.4
+#   - samba:2:3.6.25-0ubuntu0.12.04.5
 #
 # CVE List:
 #   - CVE-2015-5252
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade samba=2:3.6.25-0ubuntu0.12.04.4 -y
+sudo apt-get install --only-upgrade samba=2:3.6.25-0ubuntu0.12.04.5 -y
