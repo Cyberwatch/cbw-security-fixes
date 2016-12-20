@@ -1,25 +1,25 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-663-1
+# Security fix for DLA-753-1
 #
-# Security announcement date: 2016-10-18 00:00:00 UTC
-# Script generation date:     2016-12-20 21:17:28 UTC
+# Security announcement date: 2016-12-18 00:00:00 UTC
+# Script generation date:     2016-12-20 21:17:34 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - tor:0.2.4.27-2
+#   - tomcat7:7.0.28-4+deb7u8
 #
 # Last versions recommanded by security team:
-#   - tor:0.2.4.27-3
+#   - tomcat7:7.0.28-4+deb7u8
 #
 # CVE List:
-#   - CVE-2016-8860
+#   - CVE-2016-9774
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tor=0.2.4.27-3 -y
+sudo apt-get install --only-upgrade tomcat7=7.0.28-4+deb7u8 -y
