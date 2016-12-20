@@ -4,7 +4,7 @@
 # Security fix for DSA-3694-1
 #
 # Security announcement date: 2016-10-18 00:00:00 UTC
-# Script generation date:     2016-10-20 21:10:04 UTC
+# Script generation date:     2016-12-20 21:13:33 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - tor-geoipdb:0.2.5.12-3
 #
 # Last versions recommanded by security team:
-#   - tor:0.2.5.12-3
-#   - tor-dbg:0.2.5.12-3
-#   - tor-geoipdb:0.2.5.12-3
+#   - tor:0.2.5.12-4
+#   - tor-dbg:0.2.5.12-4
+#   - tor-geoipdb:0.2.5.12-4
 #
 # CVE List:
 #   - CVE-2016-8860
@@ -26,6 +26,6 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tor=0.2.5.12-3 -y
-sudo apt-get install --only-upgrade tor-dbg=0.2.5.12-3 -y
-sudo apt-get install --only-upgrade tor-geoipdb=0.2.5.12-3 -y
+sudo apt-get install --only-upgrade tor=0.2.5.12-4 -y
+sudo apt-get install --only-upgrade tor-dbg=0.2.5.12-4 -y
+sudo apt-get install --only-upgrade tor-geoipdb=0.2.5.12-4 -y
