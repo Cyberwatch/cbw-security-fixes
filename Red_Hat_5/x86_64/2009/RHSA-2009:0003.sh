@@ -4,7 +4,7 @@
 # Security fix for RHSA-2009:0003
 #
 # Security announcement date: 2009-01-07 11:31:25 UTC
-# Script generation date:     2016-11-24 21:13:52 UTC
+# Script generation date:     2016-12-20 21:22:31 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - xen-devel.x86_64:3.0.3-64.el5_2.9
 #
 # Last versions recommanded by security team:
-#   - xen-debuginfo.i386:3.0.3-147.el5_11
-#   - xen-libs.i386:3.0.3-147.el5_11
-#   - xen-debuginfo.x86_64:3.0.3-147.el5_11
-#   - xen-libs.x86_64:3.0.3-147.el5_11
-#   - xen-devel.i386:3.0.3-147.el5_11
-#   - xen.x86_64:3.0.3-147.el5_11
-#   - xen-devel.x86_64:3.0.3-147.el5_11
+#   - xen-debuginfo.i386:3.0.3-148.el5_11
+#   - xen-libs.i386:3.0.3-148.el5_11
+#   - xen-debuginfo.x86_64:3.0.3-148.el5_11
+#   - xen-libs.x86_64:3.0.3-148.el5_11
+#   - xen-devel.i386:3.0.3-148.el5_11
+#   - xen.x86_64:3.0.3-148.el5_11
+#   - xen-devel.x86_64:3.0.3-148.el5_11
 #
 # CVE List:
 #   - CVE-2008-4405

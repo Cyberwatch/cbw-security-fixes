@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:0599
 #
 # Security announcement date: 2013-03-06 20:05:20 UTC
-# Script generation date:     2016-11-24 21:15:21 UTC
+# Script generation date:     2016-12-20 21:24:00 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - xen-devel.x86_64:3.0.3-142.el5_9.2
 #
 # Last versions recommanded by security team:
-#   - xen-debuginfo.i386:3.0.3-147.el5_11
-#   - xen-libs.i386:3.0.3-147.el5_11
-#   - xen-debuginfo.x86_64:3.0.3-147.el5_11
-#   - xen-libs.x86_64:3.0.3-147.el5_11
-#   - xen-devel.i386:3.0.3-147.el5_11
-#   - xen.x86_64:3.0.3-147.el5_11
-#   - xen-devel.x86_64:3.0.3-147.el5_11
+#   - xen-debuginfo.i386:3.0.3-148.el5_11
+#   - xen-libs.i386:3.0.3-148.el5_11
+#   - xen-debuginfo.x86_64:3.0.3-148.el5_11
+#   - xen-libs.x86_64:3.0.3-148.el5_11
+#   - xen-devel.i386:3.0.3-148.el5_11
+#   - xen.x86_64:3.0.3-148.el5_11
+#   - xen-devel.x86_64:3.0.3-148.el5_11
 #
 # CVE List:
 #   - CVE-2012-6075

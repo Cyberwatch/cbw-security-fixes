@@ -4,7 +4,7 @@
 # Security fix for RHSA-2011:0496
 #
 # Security announcement date: 2011-05-09 16:00:56 UTC
-# Script generation date:     2016-11-24 21:14:30 UTC
+# Script generation date:     2016-12-20 21:23:11 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - xen-devel.x86_64:3.0.3-120.el5_6.2
 #
 # Last versions recommanded by security team:
-#   - xen-debuginfo.i386:3.0.3-147.el5_11
-#   - xen-libs.i386:3.0.3-147.el5_11
-#   - xen-debuginfo.x86_64:3.0.3-147.el5_11
-#   - xen-libs.x86_64:3.0.3-147.el5_11
-#   - xen-devel.i386:3.0.3-147.el5_11
-#   - xen.x86_64:3.0.3-147.el5_11
-#   - xen-devel.x86_64:3.0.3-147.el5_11
+#   - xen-debuginfo.i386:3.0.3-148.el5_11
+#   - xen-libs.i386:3.0.3-148.el5_11
+#   - xen-debuginfo.x86_64:3.0.3-148.el5_11
+#   - xen-libs.x86_64:3.0.3-148.el5_11
+#   - xen-devel.i386:3.0.3-148.el5_11
+#   - xen.x86_64:3.0.3-148.el5_11
+#   - xen-devel.x86_64:3.0.3-148.el5_11
 #
 # CVE List:
 #   - CVE-2011-1583

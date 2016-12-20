@@ -4,7 +4,7 @@
 # Security fix for RHSA-2008:0957
 #
 # Security announcement date: 2008-11-04 13:35:18 UTC
-# Script generation date:     2016-11-24 21:13:49 UTC
+# Script generation date:     2016-12-20 21:22:29 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -25,17 +25,17 @@
 #
 # Last versions recommanded by security team:
 #   - kernel-doc.noarch:2.6.18-92.1.17.el5
-#   - kernel.x86_64:2.6.18-238.57.1.el5
-#   - kernel-debug.x86_64:2.6.18-238.57.1.el5
-#   - kernel-debug-debuginfo.x86_64:2.6.18-238.57.1.el5
-#   - kernel-debug-devel.x86_64:2.6.18-238.57.1.el5
-#   - kernel-debuginfo.x86_64:2.6.18-238.57.1.el5
-#   - kernel-debuginfo-common.x86_64:2.6.18-238.57.1.el5
-#   - kernel-devel.x86_64:2.6.18-238.57.1.el5
-#   - kernel-headers.x86_64:2.6.18-238.57.1.el5
-#   - kernel-xen.x86_64:2.6.18-238.57.1.el5
-#   - kernel-xen-debuginfo.x86_64:2.6.18-238.57.1.el5
-#   - kernel-xen-devel.x86_64:2.6.18-238.57.1.el5
+#   - kernel.x86_64:2.6.18-417.el5
+#   - kernel-debug.x86_64:2.6.18-417.el5
+#   - kernel-debug-debuginfo.x86_64:2.6.18-417.el5
+#   - kernel-debug-devel.x86_64:2.6.18-417.el5
+#   - kernel-debuginfo.x86_64:2.6.18-417.el5
+#   - kernel-debuginfo-common.x86_64:2.6.18-417.el5
+#   - kernel-devel.x86_64:2.6.18-417.el5
+#   - kernel-headers.x86_64:2.6.18-417.el5
+#   - kernel-xen.x86_64:2.6.18-417.el5
+#   - kernel-xen-debuginfo.x86_64:2.6.18-417.el5
+#   - kernel-xen-devel.x86_64:2.6.18-417.el5
 #
 # CVE List:
 #   - CVE-2006-5755
