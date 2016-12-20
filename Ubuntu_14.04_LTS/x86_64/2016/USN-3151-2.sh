@@ -4,7 +4,7 @@
 # Security fix for USN-3151-2
 #
 # Security announcement date: 2016-12-05 00:00:00 UTC
-# Script generation date:     2016-12-07 21:09:23 UTC
+# Script generation date:     2016-12-20 21:07:17 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -46,16 +46,16 @@
 #   - linux-headers-4.4.0-53-lowlatency:4.4.0-53.74~14.04.1
 #   - linux-tools-4.4.0-53-lowlatency:4.4.0-53.74~14.04.1
 #   - linux-cloud-tools-4.4.0-53-lowlatency:4.4.0-53.74~14.04.1
-#   - linux-image-lowlatency-lts-xenial:4.4.0.53.40
-#   - linux-headers-generic-lts-xenial:4.4.0.53.40
-#   - linux-image-generic-lts-xenial:4.4.0.53.40
-#   - linux-tools-generic-lts-xenial:4.4.0.53.40
-#   - linux-cloud-tools-generic-lts-xenial:4.4.0.53.40
-#   - linux-generic-lts-xenial:4.4.0.53.40
-#   - linux-headers-lowlatency-lts-xenial:4.4.0.53.40
-#   - linux-tools-lowlatency-lts-xenial:4.4.0.53.40
-#   - linux-cloud-tools-lowlatency-lts-xenial:4.4.0.53.40
-#   - linux-lowlatency-lts-xenial:4.4.0.53.40
+#   - linux-image-lowlatency-lts-xenial:4.4.0.57.44
+#   - linux-headers-generic-lts-xenial:4.4.0.57.44
+#   - linux-image-generic-lts-xenial:4.4.0.57.44
+#   - linux-tools-generic-lts-xenial:4.4.0.57.44
+#   - linux-cloud-tools-generic-lts-xenial:4.4.0.57.44
+#   - linux-generic-lts-xenial:4.4.0.57.44
+#   - linux-headers-lowlatency-lts-xenial:4.4.0.57.44
+#   - linux-tools-lowlatency-lts-xenial:4.4.0.57.44
+#   - linux-cloud-tools-lowlatency-lts-xenial:4.4.0.57.44
+#   - linux-lowlatency-lts-xenial:4.4.0.57.44
 #
 # CVE List:
 #   - CVE-2016-8655
@@ -76,13 +76,13 @@ sudo apt-get install --only-upgrade linux-image-4.4.0-53-lowlatency=4.4.0-53.74~
 sudo apt-get install --only-upgrade linux-headers-4.4.0-53-lowlatency=4.4.0-53.74~14.04.1 -y
 sudo apt-get install --only-upgrade linux-tools-4.4.0-53-lowlatency=4.4.0-53.74~14.04.1 -y
 sudo apt-get install --only-upgrade linux-cloud-tools-4.4.0-53-lowlatency=4.4.0-53.74~14.04.1 -y
-sudo apt-get install --only-upgrade linux-image-lowlatency-lts-xenial=4.4.0.53.40 -y
-sudo apt-get install --only-upgrade linux-headers-generic-lts-xenial=4.4.0.53.40 -y
-sudo apt-get install --only-upgrade linux-image-generic-lts-xenial=4.4.0.53.40 -y
-sudo apt-get install --only-upgrade linux-tools-generic-lts-xenial=4.4.0.53.40 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-generic-lts-xenial=4.4.0.53.40 -y
-sudo apt-get install --only-upgrade linux-generic-lts-xenial=4.4.0.53.40 -y
-sudo apt-get install --only-upgrade linux-headers-lowlatency-lts-xenial=4.4.0.53.40 -y
-sudo apt-get install --only-upgrade linux-tools-lowlatency-lts-xenial=4.4.0.53.40 -y
-sudo apt-get install --only-upgrade linux-cloud-tools-lowlatency-lts-xenial=4.4.0.53.40 -y
-sudo apt-get install --only-upgrade linux-lowlatency-lts-xenial=4.4.0.53.40 -y
+sudo apt-get install --only-upgrade linux-image-lowlatency-lts-xenial=4.4.0.57.44 -y
+sudo apt-get install --only-upgrade linux-headers-generic-lts-xenial=4.4.0.57.44 -y
+sudo apt-get install --only-upgrade linux-image-generic-lts-xenial=4.4.0.57.44 -y
+sudo apt-get install --only-upgrade linux-tools-generic-lts-xenial=4.4.0.57.44 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-generic-lts-xenial=4.4.0.57.44 -y
+sudo apt-get install --only-upgrade linux-generic-lts-xenial=4.4.0.57.44 -y
+sudo apt-get install --only-upgrade linux-headers-lowlatency-lts-xenial=4.4.0.57.44 -y
+sudo apt-get install --only-upgrade linux-tools-lowlatency-lts-xenial=4.4.0.57.44 -y
+sudo apt-get install --only-upgrade linux-cloud-tools-lowlatency-lts-xenial=4.4.0.57.44 -y
+sudo apt-get install --only-upgrade linux-lowlatency-lts-xenial=4.4.0.57.44 -y
