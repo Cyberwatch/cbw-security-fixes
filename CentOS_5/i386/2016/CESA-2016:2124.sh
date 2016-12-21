@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2124
 #
 # Security announcement date: 2016-10-28 13:34:09 UTC
-# Script generation date:     2016-11-24 21:13:13 UTC
+# Script generation date:     2016-12-21 21:23:14 UTC
 #
 # Operating System: CentOS 5
 # Architecture: i386
@@ -22,16 +22,16 @@
 #   - kernel-xen-devel.i686:2.6.18-416.el5
 #
 # Last versions recommanded by security team:
-#   - kernel.i686:2.6.18-416.el5
-#   - kernel-debug.i686:2.6.18-416.el5
-#   - kernel-debug-devel.i686:2.6.18-416.el5
-#   - kernel-devel.i686:2.6.18-416.el5
-#   - kernel-doc.noarch:2.6.18-416.el5
-#   - kernel-headers.i386:2.6.18-416.el5
-#   - kernel-PAE.i686:2.6.18-416.el5
-#   - kernel-PAE-devel.i686:2.6.18-416.el5
-#   - kernel-xen.i686:2.6.18-416.el5
-#   - kernel-xen-devel.i686:2.6.18-416.el5
+#   - kernel.i686:2.6.18-417.el5
+#   - kernel-debug.i686:2.6.18-417.el5
+#   - kernel-debug-devel.i686:2.6.18-417.el5
+#   - kernel-devel.i686:2.6.18-417.el5
+#   - kernel-doc.noarch:2.6.18-417.el5
+#   - kernel-headers.i386:2.6.18-417.el5
+#   - kernel-PAE.i686:2.6.18-417.el5
+#   - kernel-PAE-devel.i686:2.6.18-417.el5
+#   - kernel-xen.i686:2.6.18-417.el5
+#   - kernel-xen-devel.i686:2.6.18-417.el5
 #
 # CVE List:
 #   - CVE-2016-1583

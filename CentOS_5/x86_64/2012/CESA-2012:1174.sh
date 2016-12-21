@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1174
 #
 # Security announcement date: 2012-08-22 02:56:42 UTC
-# Script generation date:     2016-11-24 21:11:57 UTC
+# Script generation date:     2016-12-21 21:21:18 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - kernel-xen-devel.x86_64:2.6.18-308.13.1.el5
 #
 # Last versions recommanded by security team:
-#   - kernel-doc.noarch:2.6.18-416.el5
-#   - kernel.x86_64:2.6.18-416.el5
-#   - kernel-debug.x86_64:2.6.18-416.el5
-#   - kernel-debug-devel.x86_64:2.6.18-416.el5
-#   - kernel-devel.x86_64:2.6.18-416.el5
-#   - kernel-headers.x86_64:2.6.18-416.el5
-#   - kernel-xen.x86_64:2.6.18-416.el5
-#   - kernel-xen-devel.x86_64:2.6.18-416.el5
+#   - kernel-doc.noarch:2.6.18-417.el5
+#   - kernel.x86_64:2.6.18-417.el5
+#   - kernel-debug.x86_64:2.6.18-417.el5
+#   - kernel-debug-devel.x86_64:2.6.18-417.el5
+#   - kernel-devel.x86_64:2.6.18-417.el5
+#   - kernel-headers.x86_64:2.6.18-417.el5
+#   - kernel-xen.x86_64:2.6.18-417.el5
+#   - kernel-xen-devel.x86_64:2.6.18-417.el5
 #
 # CVE List:
 #

@@ -4,7 +4,7 @@
 # Security fix for CESA-2007:0323
 #
 # Security announcement date: 2007-10-03 05:38:05 UTC
-# Script generation date:     2016-11-24 21:11:11 UTC
+# Script generation date:     2016-12-21 21:20:28 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - xen-libs.x86_64:3.0.3-25.0.4.el5
 #
 # Last versions recommanded by security team:
-#   - xen-devel.i386:3.0.3-147.el5_11
-#   - xen-libs.i386:3.0.3-147.el5_11
-#   - xen.x86_64:3.0.3-147.el5_11
-#   - xen-devel.x86_64:3.0.3-147.el5_11
-#   - xen-libs.x86_64:3.0.3-147.el5_11
+#   - xen-devel.i386:3.0.3-148.el5_11
+#   - xen-libs.i386:3.0.3-148.el5_11
+#   - xen.x86_64:3.0.3-148.el5_11
+#   - xen-devel.x86_64:3.0.3-148.el5_11
+#   - xen-libs.x86_64:3.0.3-148.el5_11
 #
 # CVE List:
 #

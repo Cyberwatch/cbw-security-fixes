@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0241
 #
 # Security announcement date: 2013-02-07 21:02:50 UTC
-# Script generation date:     2016-11-24 21:12:03 UTC
+# Script generation date:     2016-12-21 21:21:33 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - xen-libs.x86_64:3.0.3-142.el5_9.1
 #
 # Last versions recommanded by security team:
-#   - xen-devel.i386:3.0.3-147.el5_11
-#   - xen-libs.i386:3.0.3-147.el5_11
-#   - xen.x86_64:3.0.3-147.el5_11
-#   - xen-devel.x86_64:3.0.3-147.el5_11
-#   - xen-libs.x86_64:3.0.3-147.el5_11
+#   - xen-devel.i386:3.0.3-148.el5_11
+#   - xen-libs.i386:3.0.3-148.el5_11
+#   - xen.x86_64:3.0.3-148.el5_11
+#   - xen-devel.x86_64:3.0.3-148.el5_11
+#   - xen-libs.x86_64:3.0.3-148.el5_11
 #
 # CVE List:
 #

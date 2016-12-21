@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1323
 #
 # Security announcement date: 2013-10-07 12:34:24 UTC
-# Script generation date:     2016-11-24 21:12:13 UTC
+# Script generation date:     2016-12-21 21:21:58 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -235,14 +235,14 @@
 #   - hwdata.noarch:0.213.28-3.el5
 #   - initscripts.x86_64:8.45.44-3.el5.centos
 #   - ipa-client.x86_64:2.1.3-7.el5
-#   - kernel-doc.noarch:2.6.18-416.el5
-#   - kernel.x86_64:2.6.18-416.el5
-#   - kernel-debug.x86_64:2.6.18-416.el5
-#   - kernel-debug-devel.x86_64:2.6.18-416.el5
-#   - kernel-devel.x86_64:2.6.18-416.el5
-#   - kernel-headers.x86_64:2.6.18-416.el5
-#   - kernel-xen.x86_64:2.6.18-416.el5
-#   - kernel-xen-devel.x86_64:2.6.18-416.el5
+#   - kernel-doc.noarch:2.6.18-417.el5
+#   - kernel.x86_64:2.6.18-417.el5
+#   - kernel-debug.x86_64:2.6.18-417.el5
+#   - kernel-debug-devel.x86_64:2.6.18-417.el5
+#   - kernel-devel.x86_64:2.6.18-417.el5
+#   - kernel-headers.x86_64:2.6.18-417.el5
+#   - kernel-xen.x86_64:2.6.18-417.el5
+#   - kernel-xen-devel.x86_64:2.6.18-417.el5
 #   - kexec-tools.x86_64:1.102pre-164.el5
 #   - ksh.x86_64:20100621-18.el5
 #   - libtevent.i386:0.9.18-2.el5

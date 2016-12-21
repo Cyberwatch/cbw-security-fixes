@@ -4,7 +4,7 @@
 # Security fix for CESA-2008:0089
 #
 # Security announcement date: 2008-01-24 00:20:52 UTC
-# Script generation date:     2016-11-24 21:11:14 UTC
+# Script generation date:     2016-12-21 21:20:30 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - kernel-xen-devel.x86_64:2.6.18-53.1.6.el5
 #
 # Last versions recommanded by security team:
-#   - kernel-doc.noarch:2.6.18-416.el5
-#   - kernel.x86_64:2.6.18-416.el5
-#   - kernel-debug.x86_64:2.6.18-416.el5
-#   - kernel-debug-devel.x86_64:2.6.18-416.el5
-#   - kernel-devel.x86_64:2.6.18-416.el5
-#   - kernel-headers.x86_64:2.6.18-416.el5
-#   - kernel-xen.x86_64:2.6.18-416.el5
-#   - kernel-xen-devel.x86_64:2.6.18-416.el5
+#   - kernel-doc.noarch:2.6.18-417.el5
+#   - kernel.x86_64:2.6.18-417.el5
+#   - kernel-debug.x86_64:2.6.18-417.el5
+#   - kernel-debug-devel.x86_64:2.6.18-417.el5
+#   - kernel-devel.x86_64:2.6.18-417.el5
+#   - kernel-headers.x86_64:2.6.18-417.el5
+#   - kernel-xen.x86_64:2.6.18-417.el5
+#   - kernel-xen-devel.x86_64:2.6.18-417.el5
 #
 # CVE List:
 #   - CVE-2007-3104
