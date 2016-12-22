@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:1417
 #
 # Security announcement date: 2012-10-30 17:41:30 UTC
-# Script generation date:     2016-11-01 21:22:27 UTC
+# Script generation date:     2016-12-22 21:25:10 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - redhat-release-server.x86_64:6Server-6.0.0.40.el6_0
 #
 # Last versions recommanded by security team:
-#   - redhat-release-server.x86_64:6Server-6.6.0.5.el6_6
+#   - redhat-release-server.x86_64:6Server-6.2.0.7.el6_2
 #
 # CVE List:
 #
