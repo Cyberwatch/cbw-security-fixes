@@ -4,7 +4,7 @@
 # Security fix for DLA-486-1
 #
 # Security announcement date: 2016-05-23 00:00:00 UTC
-# Script generation date:     2016-12-11 21:12:53 UTC
+# Script generation date:     2016-12-22 21:16:07 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - imagemagick:8:6.7.7.10-5+deb7u5
 #
 # Last versions recommanded by security team:
-#   - imagemagick:8:6.7.7.10-5+deb7u9
+#   - imagemagick:8:6.7.7.10-5+deb7u10
 #
 # CVE List:
 #   - CVE-2016-3714
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade imagemagick=8:6.7.7.10-5+deb7u9 -y
+sudo apt-get install --only-upgrade imagemagick=8:6.7.7.10-5+deb7u10 -y

@@ -4,7 +4,7 @@
 # Security fix for DLA-563-1
 #
 # Security announcement date: 2016-07-26 00:00:00 UTC
-# Script generation date:     2016-10-19 21:10:31 UTC
+# Script generation date:     2016-12-22 21:16:13 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libgd2:2.0.36~rc1~dfsg-6.1+deb7u5
 #
 # Last versions recommanded by security team:
-#   - libgd2:2.0.36~rc1~dfsg-6.1+deb7u6
+#   - libgd2:2.0.36~rc1~dfsg-6.1+deb7u7
 #
 # CVE List:
 #   - CVE-2016-6161
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgd2=2.0.36~rc1~dfsg-6.1+deb7u6 -y
+sudo apt-get install --only-upgrade libgd2=2.0.36~rc1~dfsg-6.1+deb7u7 -y

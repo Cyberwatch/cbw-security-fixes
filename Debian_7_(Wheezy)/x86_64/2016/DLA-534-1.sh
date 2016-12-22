@@ -4,7 +4,7 @@
 # Security fix for DLA-534-1
 #
 # Security announcement date: 2016-06-29 00:00:00 UTC
-# Script generation date:     2016-10-19 21:10:29 UTC
+# Script generation date:     2016-12-22 21:16:11 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libgd2:2.0.36~rc1~dfsg-6.1+deb7u4
 #
 # Last versions recommanded by security team:
-#   - libgd2:2.0.36~rc1~dfsg-6.1+deb7u6
+#   - libgd2:2.0.36~rc1~dfsg-6.1+deb7u7
 #
 # CVE List:
 #   - CVE-2016-5766
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgd2=2.0.36~rc1~dfsg-6.1+deb7u6 -y
+sudo apt-get install --only-upgrade libgd2=2.0.36~rc1~dfsg-6.1+deb7u7 -y

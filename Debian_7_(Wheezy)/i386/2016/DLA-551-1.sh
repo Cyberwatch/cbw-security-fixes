@@ -4,7 +4,7 @@
 # Security fix for DLA-551-1
 #
 # Security announcement date: 2016-07-17 00:00:00 UTC
-# Script generation date:     2016-12-19 21:15:51 UTC
+# Script generation date:     2016-12-22 21:16:12 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - phpmyadmin:4:3.4.11.1-2+deb7u5
 #
 # Last versions recommanded by security team:
-#   - phpmyadmin:4:3.4.11.1-2+deb7u6
+#   - phpmyadmin:4:3.4.11.1-2+deb7u7
 #
 # CVE List:
 #   - CVE-2016-5731
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade phpmyadmin=4:3.4.11.1-2+deb7u6 -y
+sudo apt-get install --only-upgrade phpmyadmin=4:3.4.11.1-2+deb7u7 -y
