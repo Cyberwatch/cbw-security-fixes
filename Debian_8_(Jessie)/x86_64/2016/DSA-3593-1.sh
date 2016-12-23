@@ -4,7 +4,7 @@
 # Security fix for DSA-3593-1
 #
 # Security announcement date: 2016-06-02 00:00:00 UTC
-# Script generation date:     2016-06-04 06:06:27 UTC
+# Script generation date:     2016-12-23 21:13:34 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - python-libxml2-dbg:2.9.1+dfsg1-5+deb8u2
 #
 # Last versions recommanded by security team:
-#   - libxml2:2.9.1+dfsg1-5+deb8u2
-#   - libxml2-utils:2.9.1+dfsg1-5+deb8u2
-#   - libxml2-utils-dbg:2.9.1+dfsg1-5+deb8u2
-#   - libxml2-dev:2.9.1+dfsg1-5+deb8u2
-#   - libxml2-dbg:2.9.1+dfsg1-5+deb8u2
-#   - libxml2-doc:2.9.1+dfsg1-5+deb8u2
-#   - python-libxml2:2.9.1+dfsg1-5+deb8u2
-#   - python-libxml2-dbg:2.9.1+dfsg1-5+deb8u2
+#   - libxml2:2.9.1+dfsg1-5+deb8u4
+#   - libxml2-utils:2.9.1+dfsg1-5+deb8u4
+#   - libxml2-utils-dbg:2.9.1+dfsg1-5+deb8u4
+#   - libxml2-dev:2.9.1+dfsg1-5+deb8u4
+#   - libxml2-dbg:2.9.1+dfsg1-5+deb8u4
+#   - libxml2-doc:2.9.1+dfsg1-5+deb8u4
+#   - python-libxml2:2.9.1+dfsg1-5+deb8u4
+#   - python-libxml2-dbg:2.9.1+dfsg1-5+deb8u4
 #
 # CVE List:
 #   - CVE-2015-8806
@@ -51,11 +51,11 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxml2=2.9.1+dfsg1-5+deb8u2 -y
-sudo apt-get install --only-upgrade libxml2-utils=2.9.1+dfsg1-5+deb8u2 -y
-sudo apt-get install --only-upgrade libxml2-utils-dbg=2.9.1+dfsg1-5+deb8u2 -y
-sudo apt-get install --only-upgrade libxml2-dev=2.9.1+dfsg1-5+deb8u2 -y
-sudo apt-get install --only-upgrade libxml2-dbg=2.9.1+dfsg1-5+deb8u2 -y
-sudo apt-get install --only-upgrade libxml2-doc=2.9.1+dfsg1-5+deb8u2 -y
-sudo apt-get install --only-upgrade python-libxml2=2.9.1+dfsg1-5+deb8u2 -y
-sudo apt-get install --only-upgrade python-libxml2-dbg=2.9.1+dfsg1-5+deb8u2 -y
+sudo apt-get install --only-upgrade libxml2=2.9.1+dfsg1-5+deb8u4 -y
+sudo apt-get install --only-upgrade libxml2-utils=2.9.1+dfsg1-5+deb8u4 -y
+sudo apt-get install --only-upgrade libxml2-utils-dbg=2.9.1+dfsg1-5+deb8u4 -y
+sudo apt-get install --only-upgrade libxml2-dev=2.9.1+dfsg1-5+deb8u4 -y
+sudo apt-get install --only-upgrade libxml2-dbg=2.9.1+dfsg1-5+deb8u4 -y
+sudo apt-get install --only-upgrade libxml2-doc=2.9.1+dfsg1-5+deb8u4 -y
+sudo apt-get install --only-upgrade python-libxml2=2.9.1+dfsg1-5+deb8u4 -y
+sudo apt-get install --only-upgrade python-libxml2-dbg=2.9.1+dfsg1-5+deb8u4 -y
