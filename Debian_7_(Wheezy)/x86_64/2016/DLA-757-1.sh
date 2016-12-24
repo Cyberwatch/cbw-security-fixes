@@ -1,25 +1,31 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2016
 #
-# Security fix for DLA-738-1
+# Security fix for DLA-757-1
 #
-# Security announcement date: 2016-12-08 00:00:00 UTC
+# Security announcement date: 2016-12-22 00:00:00 UTC
 # Script generation date:     2016-12-24 21:14:19 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - spip:2.1.17-1+deb7u7
+#   - phpmyadmin:4:3.4.11.1-2+deb7u7
 #
 # Last versions recommanded by security team:
-#   - spip:2.1.17-1+deb7u8
+#   - phpmyadmin:4:3.4.11.1-2+deb7u7
 #
 # CVE List:
-#   - CVE-2016-9152
+#   - CVE-2016-4412
+#   - CVE-2016-6626
+#   - CVE-2016-9849
+#   - CVE-2016-9850
+#   - CVE-2016-9861
+#   - CVE-2016-9864
+#   - CVE-2016-9865
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade spip=2.1.17-1+deb7u8 -y
+sudo apt-get install --only-upgrade phpmyadmin=4:3.4.11.1-2+deb7u7 -y
