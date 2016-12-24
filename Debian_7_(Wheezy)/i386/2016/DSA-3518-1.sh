@@ -4,7 +4,7 @@
 # Security fix for DSA-3518-1
 #
 # Security announcement date: 2016-03-16 00:00:00 UTC
-# Script generation date:     2016-12-09 21:11:44 UTC
+# Script generation date:     2016-12-24 21:09:58 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - spip:2.1.17-1+deb7u5
 #
 # Last versions recommanded by security team:
-#   - spip:2.1.17-1+deb7u7
+#   - spip:2.1.17-1+deb7u8
 #
 # CVE List:
 #   - CVE-2016-3153
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade spip=2.1.17-1+deb7u7 -y
+sudo apt-get install --only-upgrade spip=2.1.17-1+deb7u8 -y

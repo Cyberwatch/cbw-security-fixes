@@ -4,7 +4,7 @@
 # Security fix for DSA-2794-1
 #
 # Security announcement date: 2013-11-10 00:00:00 UTC
-# Script generation date:     2016-12-09 21:10:45 UTC
+# Script generation date:     2016-12-24 21:08:36 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - spip:2.1.17-1+deb7u2
 #
 # Last versions recommanded by security team:
-#   - spip:2.1.17-1+deb7u7
+#   - spip:2.1.17-1+deb7u8
 #
 # CVE List:
 #   - CVE-2013-4555
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade spip=2.1.17-1+deb7u7 -y
+sudo apt-get install --only-upgrade spip=2.1.17-1+deb7u8 -y

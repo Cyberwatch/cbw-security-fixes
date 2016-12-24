@@ -4,7 +4,7 @@
 # Security fix for DSA-3625-1
 #
 # Security announcement date: 2016-07-22 00:00:00 UTC
-# Script generation date:     2016-07-29 21:11:02 UTC
+# Script generation date:     2016-12-24 21:10:16 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - squid-purge:3.4.8-6+deb8u3
 #
 # Last versions recommanded by security team:
-#   - squid3:3.4.8-6+deb8u3
-#   - squid3-dbg:3.4.8-6+deb8u3
-#   - squid3-common:3.4.8-6+deb8u3
-#   - squidclient:3.4.8-6+deb8u3
-#   - squid-cgi:3.4.8-6+deb8u3
-#   - squid-purge:3.4.8-6+deb8u3
+#   - squid3:3.4.8-6+deb8u4
+#   - squid3-dbg:3.4.8-6+deb8u4
+#   - squid3-common:3.4.8-6+deb8u4
+#   - squidclient:3.4.8-6+deb8u4
+#   - squid-cgi:3.4.8-6+deb8u4
+#   - squid-purge:3.4.8-6+deb8u4
 #
 # CVE List:
 #   - CVE-2016-4051
@@ -39,9 +39,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade squid3=3.4.8-6+deb8u3 -y
-sudo apt-get install --only-upgrade squid3-dbg=3.4.8-6+deb8u3 -y
-sudo apt-get install --only-upgrade squid3-common=3.4.8-6+deb8u3 -y
-sudo apt-get install --only-upgrade squidclient=3.4.8-6+deb8u3 -y
-sudo apt-get install --only-upgrade squid-cgi=3.4.8-6+deb8u3 -y
-sudo apt-get install --only-upgrade squid-purge=3.4.8-6+deb8u3 -y
+sudo apt-get install --only-upgrade squid3=3.4.8-6+deb8u4 -y
+sudo apt-get install --only-upgrade squid3-dbg=3.4.8-6+deb8u4 -y
+sudo apt-get install --only-upgrade squid3-common=3.4.8-6+deb8u4 -y
+sudo apt-get install --only-upgrade squidclient=3.4.8-6+deb8u4 -y
+sudo apt-get install --only-upgrade squid-cgi=3.4.8-6+deb8u4 -y
+sudo apt-get install --only-upgrade squid-purge=3.4.8-6+deb8u4 -y
