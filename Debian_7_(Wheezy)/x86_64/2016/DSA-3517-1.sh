@@ -4,7 +4,7 @@
 # Security fix for DSA-3517-1
 #
 # Security announcement date: 2016-03-14 00:00:00 UTC
-# Script generation date:     2016-05-12 18:06:05 UTC
+# Script generation date:     2016-12-25 21:08:06 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -22,16 +22,16 @@
 #   - exim4-dev:4.80-7+deb7u2
 #
 # Last versions recommanded by security team:
-#   - exim4:4.80-7+deb7u2
-#   - exim4-base:4.80-7+deb7u2
-#   - exim4-config:4.80-7+deb7u2
-#   - exim4-daemon-light:4.80-7+deb7u2
-#   - exim4-daemon-heavy:4.80-7+deb7u2
-#   - eximon4:4.80-7+deb7u2
-#   - exim4-dbg:4.80-7+deb7u2
-#   - exim4-daemon-light-dbg:4.80-7+deb7u2
-#   - exim4-daemon-heavy-dbg:4.80-7+deb7u2
-#   - exim4-dev:4.80-7+deb7u2
+#   - exim4:4.80-7+deb7u4
+#   - exim4-base:4.80-7+deb7u4
+#   - exim4-config:4.80-7+deb7u4
+#   - exim4-daemon-light:4.80-7+deb7u4
+#   - exim4-daemon-heavy:4.80-7+deb7u4
+#   - eximon4:4.80-7+deb7u4
+#   - exim4-dbg:4.80-7+deb7u4
+#   - exim4-daemon-light-dbg:4.80-7+deb7u4
+#   - exim4-daemon-heavy-dbg:4.80-7+deb7u4
+#   - exim4-dev:4.80-7+deb7u4
 #
 # CVE List:
 #   - CVE-2016-1531
@@ -40,13 +40,13 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade exim4=4.80-7+deb7u2 -y
-sudo apt-get install --only-upgrade exim4-base=4.80-7+deb7u2 -y
-sudo apt-get install --only-upgrade exim4-config=4.80-7+deb7u2 -y
-sudo apt-get install --only-upgrade exim4-daemon-light=4.80-7+deb7u2 -y
-sudo apt-get install --only-upgrade exim4-daemon-heavy=4.80-7+deb7u2 -y
-sudo apt-get install --only-upgrade eximon4=4.80-7+deb7u2 -y
-sudo apt-get install --only-upgrade exim4-dbg=4.80-7+deb7u2 -y
-sudo apt-get install --only-upgrade exim4-daemon-light-dbg=4.80-7+deb7u2 -y
-sudo apt-get install --only-upgrade exim4-daemon-heavy-dbg=4.80-7+deb7u2 -y
-sudo apt-get install --only-upgrade exim4-dev=4.80-7+deb7u2 -y
+sudo apt-get install --only-upgrade exim4=4.80-7+deb7u4 -y
+sudo apt-get install --only-upgrade exim4-base=4.80-7+deb7u4 -y
+sudo apt-get install --only-upgrade exim4-config=4.80-7+deb7u4 -y
+sudo apt-get install --only-upgrade exim4-daemon-light=4.80-7+deb7u4 -y
+sudo apt-get install --only-upgrade exim4-daemon-heavy=4.80-7+deb7u4 -y
+sudo apt-get install --only-upgrade eximon4=4.80-7+deb7u4 -y
+sudo apt-get install --only-upgrade exim4-dbg=4.80-7+deb7u4 -y
+sudo apt-get install --only-upgrade exim4-daemon-light-dbg=4.80-7+deb7u4 -y
+sudo apt-get install --only-upgrade exim4-daemon-heavy-dbg=4.80-7+deb7u4 -y
+sudo apt-get install --only-upgrade exim4-dev=4.80-7+deb7u4 -y
