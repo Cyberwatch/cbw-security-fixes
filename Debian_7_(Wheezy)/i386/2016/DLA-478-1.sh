@@ -4,7 +4,7 @@
 # Security fix for DLA-478-1
 #
 # Security announcement date: 2016-05-16 00:00:00 UTC
-# Script generation date:     2016-07-22 21:13:30 UTC
+# Script generation date:     2016-12-25 21:13:53 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - squid3:3.1.20-2.2+deb7u5
 #
 # Last versions recommanded by security team:
-#   - squid3:3.1.20-2.2+deb7u6
+#   - squid3:3.1.20-2.2+deb7u7
 #
 # CVE List:
 #   - CVE-2016-4051
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade squid3=3.1.20-2.2+deb7u6 -y
+sudo apt-get install --only-upgrade squid3=3.1.20-2.2+deb7u7 -y

@@ -4,7 +4,7 @@
 # Security fix for DLA-556-1
 #
 # Security announcement date: 2016-07-22 00:00:00 UTC
-# Script generation date:     2016-11-24 21:09:46 UTC
+# Script generation date:     2016-12-25 21:13:59 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - squid3:3.1.20-2.2+deb7u6
 #
 # Last versions recommanded by security team:
-#   - squid3:3.1.20-2.2+deb7u6
+#   - squid3:3.1.20-2.2+deb7u7
 #
 # CVE List:
 #   - CVE-2016-5408
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade squid3=3.1.20-2.2+deb7u6 -y
+sudo apt-get install --only-upgrade squid3=3.1.20-2.2+deb7u7 -y
