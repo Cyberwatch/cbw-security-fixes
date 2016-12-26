@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2602
 #
 # Security announcement date: 2016-11-25 16:00:20 UTC
-# Script generation date:     2016-11-27 21:13:23 UTC
+# Script generation date:     2016-12-26 21:20:09 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -16,6 +16,7 @@
 #   - mod_nss.x86_64:1.0.14-7.el7
 #
 # CVE List:
+#   - CVE-2016-3099
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

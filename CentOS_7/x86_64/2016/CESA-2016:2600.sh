@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2600
 #
 # Security announcement date: 2016-11-25 16:02:47 UTC
-# Script generation date:     2016-11-27 21:13:24 UTC
+# Script generation date:     2016-12-26 21:20:09 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -20,6 +20,11 @@
 #   - squid-sysvinit.x86_64:3.5.20-2.el7
 #
 # CVE List:
+#   - CVE-2016-2569
+#   - CVE-2016-2570
+#   - CVE-2016-2571
+#   - CVE-2016-2572
+#   - CVE-2016-3948
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

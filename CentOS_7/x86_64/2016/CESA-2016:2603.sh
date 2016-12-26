@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2603
 #
 # Security announcement date: 2016-11-25 15:59:41 UTC
-# Script generation date:     2016-11-27 21:13:23 UTC
+# Script generation date:     2016-12-26 21:20:09 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -16,6 +16,7 @@
 #   - libreswan.x86_64:3.15-8.el7
 #
 # CVE List:
+#   - CVE-2016-5361
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

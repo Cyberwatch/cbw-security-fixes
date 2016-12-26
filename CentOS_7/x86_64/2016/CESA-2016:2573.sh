@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2573
 #
 # Security announcement date: 2016-11-25 15:25:38 UTC
-# Script generation date:     2016-11-27 21:13:21 UTC
+# Script generation date:     2016-12-26 21:20:07 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -34,6 +34,9 @@
 #   - nscd.x86_64:2.17-157.el7
 #
 # CVE List:
+#   - CVE-2016-3075
+#   - CVE-2015-5277
+#   - CVE-2015-5229
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

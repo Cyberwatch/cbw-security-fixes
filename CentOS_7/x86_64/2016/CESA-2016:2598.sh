@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2598
 #
 # Security announcement date: 2016-11-25 15:41:35 UTC
-# Script generation date:     2016-11-27 21:13:22 UTC
+# Script generation date:     2016-12-26 21:20:07 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -64,6 +64,10 @@
 #   - php-xmlrpc.x86_64:5.4.16-42.el7
 #
 # CVE List:
+#   - CVE-2016-5399
+#   - CVE-2016-5766
+#   - CVE-2016-5767
+#   - CVE-2016-5768
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

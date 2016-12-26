@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2819
 #
 # Security announcement date: 2016-11-25 16:47:41 UTC
-# Script generation date:     2016-11-27 21:13:24 UTC
+# Script generation date:     2016-12-26 21:20:10 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -20,6 +20,9 @@
 #   - memcached-devel.x86_64:1.4.15-10.el7_3.1
 #
 # CVE List:
+#   - CVE-2016-8704
+#   - CVE-2016-8705
+#   - CVE-2016-8706
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2586
 #
 # Security announcement date: 2016-11-25 15:43:04 UTC
-# Script generation date:     2016-11-27 21:13:22 UTC
+# Script generation date:     2016-12-26 21:20:07 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -30,6 +30,7 @@
 #   - tkinter.x86_64:2.7.5-48.el7
 #
 # CVE List:
+#   - CVE-2016-5636
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

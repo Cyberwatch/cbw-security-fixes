@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2583
 #
 # Security announcement date: 2016-11-25 16:00:55 UTC
-# Script generation date:     2016-11-27 21:13:24 UTC
+# Script generation date:     2016-12-26 21:20:09 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -24,6 +24,22 @@
 #   - sntp.x86_64:4.2.6p5-25.el7.centos
 #
 # CVE List:
+#   - CVE-2015-5194
+#   - CVE-2015-5195
+#   - CVE-2015-5196
+#   - CVE-2015-5219
+#   - CVE-2015-7691
+#   - CVE-2015-7692
+#   - CVE-2015-7701
+#   - CVE-2015-7702
+#   - CVE-2015-7703
+#   - CVE-2015-7852
+#   - CVE-2015-7974
+#   - CVE-2015-7977
+#   - CVE-2015-7978
+#   - CVE-2015-7979
+#   - CVE-2015-8158
+#   - CVE-2014-9750
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

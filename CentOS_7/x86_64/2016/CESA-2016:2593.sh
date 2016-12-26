@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2593
 #
 # Security announcement date: 2016-11-25 15:48:47 UTC
-# Script generation date:     2016-12-09 21:19:32 UTC
+# Script generation date:     2016-12-26 21:20:07 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -20,6 +20,7 @@
 #   - sudo-devel.x86_64:1.8.6p7-21.el7_3
 #
 # CVE List:
+#   - CVE-2016-7091
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

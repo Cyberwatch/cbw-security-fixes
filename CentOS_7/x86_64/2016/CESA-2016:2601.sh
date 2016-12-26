@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2601
 #
 # Security announcement date: 2016-11-25 15:24:27 UTC
-# Script generation date:     2016-11-27 21:13:21 UTC
+# Script generation date:     2016-12-26 21:20:07 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -24,6 +24,7 @@
 #   - fontconfig-devel-doc.noarch:2.10.95-10.el7
 #
 # CVE List:
+#   - CVE-2016-5384
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

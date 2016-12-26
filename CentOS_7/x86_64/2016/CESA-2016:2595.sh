@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2595
 #
 # Security announcement date: 2016-11-25 16:00:08 UTC
-# Script generation date:     2016-11-27 21:13:23 UTC
+# Script generation date:     2016-12-26 21:20:09 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -38,6 +38,15 @@
 #   - mariadb-test.x86_64:5.5.52-1.el7
 #
 # CVE List:
+#   - CVE-2016-3492
+#   - CVE-2016-5612
+#   - CVE-2016-5616
+#   - CVE-2016-5624
+#   - CVE-2016-5626
+#   - CVE-2016-5629
+#   - CVE-2016-6662
+#   - CVE-2016-6663
+#   - CVE-2016-8283
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2580
 #
 # Security announcement date: 2016-11-25 15:42:05 UTC
-# Script generation date:     2016-11-27 21:13:22 UTC
+# Script generation date:     2016-12-26 21:20:07 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -50,6 +50,7 @@
 #   - poppler-utils.x86_64:0.26.5-16.el7
 #
 # CVE List:
+#   - CVE-2015-8868
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

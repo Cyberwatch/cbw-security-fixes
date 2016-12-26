@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2605
 #
 # Security announcement date: 2016-11-25 15:50:43 UTC
-# Script generation date:     2016-11-27 21:13:22 UTC
+# Script generation date:     2016-12-26 21:20:07 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -44,6 +44,7 @@
 #   - uuidd.x86_64:2.23.2-33.el7
 #
 # CVE List:
+#   - CVE-2016-5011
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

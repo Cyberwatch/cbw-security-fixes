@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2582
 #
 # Security announcement date: 2016-11-25 15:38:26 UTC
-# Script generation date:     2016-11-27 21:13:21 UTC
+# Script generation date:     2016-12-26 21:20:07 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -22,6 +22,10 @@
 #   - nettle-devel.x86_64:2.7.1-8.el7
 #
 # CVE List:
+#   - CVE-2015-8803
+#   - CVE-2015-8804
+#   - CVE-2015-8805
+#   - CVE-2016-6489
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

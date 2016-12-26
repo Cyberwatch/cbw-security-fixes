@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2575
 #
 # Security announcement date: 2016-11-25 15:56:44 UTC
-# Script generation date:     2016-11-27 21:13:22 UTC
+# Script generation date:     2016-12-26 21:20:08 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -24,6 +24,9 @@
 #   - libcurl-devel.x86_64:7.29.0-35.el7.centos
 #
 # CVE List:
+#   - CVE-2016-5419
+#   - CVE-2016-5420
+#   - CVE-2016-7141
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

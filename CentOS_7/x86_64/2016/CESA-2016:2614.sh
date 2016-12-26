@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2614
 #
 # Security announcement date: 2016-11-25 16:47:54 UTC
-# Script generation date:     2016-11-27 21:13:24 UTC
+# Script generation date:     2016-12-26 21:20:10 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -38,6 +38,7 @@
 #   - pacemaker-remote.x86_64:1.1.15-11.el7_3.2
 #
 # CVE List:
+#   - CVE-2016-7035
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

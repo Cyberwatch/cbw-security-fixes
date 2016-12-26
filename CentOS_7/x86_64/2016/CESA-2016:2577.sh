@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2577
 #
 # Security announcement date: 2016-11-25 15:59:54 UTC
-# Script generation date:     2016-11-27 21:13:23 UTC
+# Script generation date:     2016-12-26 21:20:09 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -60,6 +60,9 @@
 #   - libvirt-nss.x86_64:2.0.0-10.el7
 #
 # CVE List:
+#   - CVE-2015-5160
+#   - CVE-2015-5313
+#   - CVE-2016-5008
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

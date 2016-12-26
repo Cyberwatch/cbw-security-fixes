@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2590
 #
 # Security announcement date: 2016-11-25 15:56:53 UTC
-# Script generation date:     2016-11-27 21:13:22 UTC
+# Script generation date:     2016-12-26 21:20:08 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -28,6 +28,7 @@
 #   - dhcp-libs.x86_64:4.2.5-47.el7.centos
 #
 # CVE List:
+#   - CVE-2016-2774
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
