@@ -4,12 +4,14 @@
 # Security fix for DLA-630-1
 #
 # Security announcement date: 2016-09-18 00:00:00 UTC
-# Script generation date:     2016-12-27 21:14:53 UTC
+# Script generation date:     2016-12-28 21:12:55 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
+#   - zookeeper:3.3.5+dfsg1-2+deb7u1
+#   - zookeeper:3.3.5+dfsg1-2+deb7u1
 #   - zookeeper:3.3.5+dfsg1-2+deb7u1
 #   - zookeeper:3.3.5+dfsg1-2+deb7u1
 #   - zookeeper:3.3.5+dfsg1-2+deb7u1
@@ -90,6 +92,8 @@
 #   - zookeeper:3.3.5+dfsg1-2+deb7u1
 #   - zookeeper:3.3.5+dfsg1-2+deb7u1
 #   - zookeeper:3.3.5+dfsg1-2+deb7u1
+#   - zookeeper:3.3.5+dfsg1-2+deb7u1
+#   - zookeeper:3.3.5+dfsg1-2+deb7u1
 #
 # CVE List:
 #   - CVE-2016-5017
@@ -98,6 +102,8 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade zookeeper=3.3.5+dfsg1-2+deb7u1 -y
+sudo apt-get install --only-upgrade zookeeper=3.3.5+dfsg1-2+deb7u1 -y
 sudo apt-get install --only-upgrade zookeeper=3.3.5+dfsg1-2+deb7u1 -y
 sudo apt-get install --only-upgrade zookeeper=3.3.5+dfsg1-2+deb7u1 -y
 sudo apt-get install --only-upgrade zookeeper=3.3.5+dfsg1-2+deb7u1 -y
