@@ -4,7 +4,7 @@
 # Security fix for DLA-685-1
 #
 # Security announcement date: 2016-10-27 00:00:00 UTC
-# Script generation date:     2016-10-29 21:13:41 UTC
+# Script generation date:     2016-12-29 21:14:03 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - libxi:2:1.6.1-1+deb7u2
 #
 # Last versions recommanded by security team:
-#   - libxi:2:1.6.1-1+deb7u2
+#   - libxi:2:1.6.1-1+deb7u3
 #
 # CVE List:
 #   - CVE-2016-7945
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libxi=2:1.6.1-1+deb7u2 -y
+sudo apt-get install --only-upgrade libxi=2:1.6.1-1+deb7u3 -y
