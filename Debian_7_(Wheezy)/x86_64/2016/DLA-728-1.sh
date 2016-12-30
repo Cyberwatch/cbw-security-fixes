@@ -4,7 +4,7 @@
 # Security fix for DLA-728-1
 #
 # Security announcement date: 2016-12-01 00:00:00 UTC
-# Script generation date:     2016-12-18 21:12:39 UTC
+# Script generation date:     2016-12-30 21:09:13 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -23,6 +23,7 @@
 #   - CVE-2016-6797
 #   - CVE-2016-6816
 #   - CVE-2016-8735
+#   - CVE-2016-9775
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

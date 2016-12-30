@@ -4,7 +4,7 @@
 # Security fix for DLA-731-1
 #
 # Security announcement date: 2016-12-02 00:00:00 UTC
-# Script generation date:     2016-12-22 21:16:25 UTC
+# Script generation date:     2016-12-30 21:09:13 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -101,6 +101,15 @@
 #   - CVE-2016-7537
 #   - CVE-2016-7538
 #   - CVE-2016-7539
+#   - CVE-2016-10046
+#   - CVE-2016-10048
+#   - CVE-2016-10050
+#   - CVE-2016-10051
+#   - CVE-2016-10052
+#   - CVE-2016-10054
+#   - CVE-2016-10055
+#   - CVE-2016-10056
+#   - CVE-2016-10057
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
