@@ -4,7 +4,7 @@
 # Security fix for DLA-609-1
 #
 # Security announcement date: 2016-09-02 00:00:00 UTC
-# Script generation date:     2016-10-19 21:10:34 UTC
+# Script generation date:     2016-12-31 21:09:25 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - linux:3.2.81-2
 #
 # Last versions recommanded by security team:
-#   - linux:3.2.82-1
+#   - linux:3.2.84-1
 #
 # CVE List:
 #   - CVE-2016-3857
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade linux=3.2.82-1 -y
+sudo apt-get install --only-upgrade linux=3.2.84-1 -y
