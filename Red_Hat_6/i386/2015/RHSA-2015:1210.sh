@@ -1,10 +1,10 @@
 #!/bin/sh
-# CYBERWATCH SAS - 2016
+# CYBERWATCH SAS - 2017
 #
 # Security fix for RHSA-2015:1210
 #
 # Security announcement date: 2015-07-07 08:56:38 UTC
-# Script generation date:     2016-11-24 21:16:50 UTC
+# Script generation date:     2017-01-01 21:16:23 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: i386
