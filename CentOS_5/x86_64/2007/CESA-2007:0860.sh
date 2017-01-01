@@ -1,10 +1,10 @@
 #!/bin/sh
-# CYBERWATCH SAS - 2016
+# CYBERWATCH SAS - 2017
 #
 # Security fix for CESA-2007:0860
 #
 # Security announcement date: 2007-08-25 15:43:30 UTC
-# Script generation date:     2016-05-12 18:06:54 UTC
+# Script generation date:     2017-01-01 21:09:44 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
