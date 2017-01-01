@@ -1,10 +1,10 @@
 #!/bin/sh
-# CYBERWATCH SAS - 2016
+# CYBERWATCH SAS - 2017
 #
 # Security fix for DSA-2786-1
 #
 # Security announcement date: 2013-10-27 00:00:00 UTC
-# Script generation date:     2016-12-16 21:06:13 UTC
+# Script generation date:     2017-01-01 21:06:44 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64

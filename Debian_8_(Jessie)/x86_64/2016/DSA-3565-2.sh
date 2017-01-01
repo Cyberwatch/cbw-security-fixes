@@ -1,10 +1,10 @@
 #!/bin/sh
-# CYBERWATCH SAS - 2016
+# CYBERWATCH SAS - 2017
 #
 # Security fix for DSA-3565-2
 #
 # Security announcement date: 2016-05-11 00:00:00 UTC
-# Script generation date:     2016-05-13 06:06:11 UTC
+# Script generation date:     2017-01-01 21:08:02 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
