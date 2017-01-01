@@ -1,10 +1,10 @@
 #!/bin/sh
-# CYBERWATCH SAS - 2016
+# CYBERWATCH SAS - 2017
 #
 # Security fix for DLA-650-1
 #
 # Security announcement date: 2016-10-09 00:00:00 UTC
-# Script generation date:     2016-10-11 21:11:19 UTC
+# Script generation date:     2017-01-01 21:09:21 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
