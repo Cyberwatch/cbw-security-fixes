@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0618
 #
 # Security announcement date: 2016-04-13 01:35:30 UTC
-# Script generation date:     2017-01-01 21:17:11 UTC
+# Script generation date:     2017-01-02 21:16:00 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -106,8 +106,8 @@
 #
 # Last versions recommanded by security team:
 #   - samba-common.noarch:4.2.10-7.el7_2
-#   - ipa-client.x86_64:4.2.0-15.el7_2.19
-#   - ipa-debuginfo.x86_64:4.2.0-15.el7_2.19
+#   - ipa-client.x86_64:4.4.0-14.el7_3.1.1
+#   - ipa-debuginfo.x86_64:4.4.0-14.el7_3.1.1
 #   - ipa-python.x86_64:4.2.0-15.el7_2.19
 #   - libldb.i686:1.1.25-1.el7_1
 #   - libldb.x86_64:1.1.25-1.el7_1
@@ -146,8 +146,8 @@
 #   - samba-winbind-modules.x86_64:4.2.10-7.el7_2
 #   - samba-pidl.noarch:4.2.10-7.el7_2
 #   - ipa-admintools.x86_64:4.2.0-15.el7_2.19
-#   - ipa-server.x86_64:4.2.0-15.el7_2.19
-#   - ipa-server-trust-ad.x86_64:4.2.0-15.el7_2.19
+#   - ipa-server.x86_64:4.4.0-14.el7_3.1.1
+#   - ipa-server-trust-ad.x86_64:4.4.0-14.el7_3.1.1
 #   - ldb-tools.x86_64:1.1.25-1.el7_1
 #   - libldb-devel.i686:1.1.25-1.el7_1
 #   - libldb-devel.x86_64:1.1.25-1.el7_1
@@ -214,8 +214,8 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo yum install samba-common.noarch-4.2.10 -y 
-sudo yum install ipa-client.x86_64-4.2.0 -y 
-sudo yum install ipa-debuginfo.x86_64-4.2.0 -y 
+sudo yum install ipa-client.x86_64-4.4.0 -y 
+sudo yum install ipa-debuginfo.x86_64-4.4.0 -y 
 sudo yum install ipa-python.x86_64-4.2.0 -y 
 sudo yum install libldb.i686-1.1.25 -y 
 sudo yum install libldb.x86_64-1.1.25 -y 
@@ -254,8 +254,8 @@ sudo yum install samba-winbind-modules.i686-4.2.10 -y
 sudo yum install samba-winbind-modules.x86_64-4.2.10 -y 
 sudo yum install samba-pidl.noarch-4.2.10 -y 
 sudo yum install ipa-admintools.x86_64-4.2.0 -y 
-sudo yum install ipa-server.x86_64-4.2.0 -y 
-sudo yum install ipa-server-trust-ad.x86_64-4.2.0 -y 
+sudo yum install ipa-server.x86_64-4.4.0 -y 
+sudo yum install ipa-server-trust-ad.x86_64-4.4.0 -y 
 sudo yum install ldb-tools.x86_64-1.1.25 -y 
 sudo yum install libldb-devel.i686-1.1.25 -y 
 sudo yum install libldb-devel.x86_64-1.1.25 -y 
