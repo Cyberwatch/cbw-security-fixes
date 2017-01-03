@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:2152
 #
 # Security announcement date: 2015-11-19 21:34:30 UTC
-# Script generation date:     2017-01-01 21:16:44 UTC
+# Script generation date:     2017-01-03 21:20:53 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -30,24 +30,24 @@
 #   - kernel-tools-libs-devel.x86_64:3.10.0-327.el7
 #
 # Last versions recommanded by security team:
-#   - kernel-abi-whitelists.noarch:3.10.0-327.41.3.el7
-#   - kernel-doc.noarch:3.10.0-327.41.3.el7
-#   - kernel.x86_64:3.10.0-327.41.3.el7
-#   - kernel-debug.x86_64:3.10.0-327.41.3.el7
-#   - kernel-debug-debuginfo.x86_64:3.10.0-327.41.3.el7
-#   - kernel-debug-devel.x86_64:3.10.0-327.41.3.el7
-#   - kernel-debuginfo.x86_64:3.10.0-327.41.3.el7
-#   - kernel-debuginfo-common-x86_64.x86_64:3.10.0-327.41.3.el7
-#   - kernel-devel.x86_64:3.10.0-327.41.3.el7
-#   - kernel-headers.x86_64:3.10.0-327.41.3.el7
-#   - kernel-tools.x86_64:3.10.0-327.41.3.el7
-#   - kernel-tools-debuginfo.x86_64:3.10.0-327.41.3.el7
-#   - kernel-tools-libs.x86_64:3.10.0-327.41.3.el7
-#   - perf.x86_64:3.10.0-327.41.3.el7
-#   - perf-debuginfo.x86_64:3.10.0-327.41.3.el7
-#   - python-perf.x86_64:3.10.0-327.41.3.el7
-#   - python-perf-debuginfo.x86_64:3.10.0-327.41.3.el7
-#   - kernel-tools-libs-devel.x86_64:3.10.0-327.41.3.el7
+#   - kernel-abi-whitelists.noarch:3.10.0-229.46.1.ael7b
+#   - kernel-doc.noarch:3.10.0-229.46.1.ael7b
+#   - kernel.x86_64:3.10.0-229.46.1.el7
+#   - kernel-debug.x86_64:3.10.0-229.46.1.el7
+#   - kernel-debug-debuginfo.x86_64:3.10.0-229.46.1.el7
+#   - kernel-debug-devel.x86_64:3.10.0-229.46.1.el7
+#   - kernel-debuginfo.x86_64:3.10.0-229.46.1.el7
+#   - kernel-debuginfo-common-x86_64.x86_64:3.10.0-229.46.1.el7
+#   - kernel-devel.x86_64:3.10.0-229.46.1.el7
+#   - kernel-headers.x86_64:3.10.0-229.46.1.el7
+#   - kernel-tools.x86_64:3.10.0-229.46.1.el7
+#   - kernel-tools-debuginfo.x86_64:3.10.0-229.46.1.el7
+#   - kernel-tools-libs.x86_64:3.10.0-229.46.1.el7
+#   - perf.x86_64:3.10.0-229.46.1.el7
+#   - perf-debuginfo.x86_64:3.10.0-229.46.1.el7
+#   - python-perf.x86_64:3.10.0-229.46.1.el7
+#   - python-perf-debuginfo.x86_64:3.10.0-229.46.1.el7
+#   - kernel-tools-libs-devel.x86_64:3.10.0-229.46.1.el7
 #
 # CVE List:
 #   - CVE-2010-5313
