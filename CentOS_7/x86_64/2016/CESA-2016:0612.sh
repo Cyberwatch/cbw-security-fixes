@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:0612
 #
 # Security announcement date: 2016-04-13 03:11:17 UTC
-# Script generation date:     2017-01-01 21:11:47 UTC
+# Script generation date:     2017-01-03 21:15:45 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -163,11 +163,11 @@
 #   - openchange-devel.x86_64:2.0-10.el7_2
 #   - openchange-devel-docs.noarch:2.0-10.el7_2
 #   - ipa-admintools.x86_64:4.2.0-15.0.1.el7.centos.19
-#   - ipa-client.x86_64:4.2.0-15.0.1.el7.centos.19
+#   - ipa-client.x86_64:4.4.0-14.el7.centos.1.1
 #   - ipa-python.x86_64:4.2.0-15.0.1.el7.centos.19
-#   - ipa-server.x86_64:4.2.0-15.0.1.el7.centos.19
+#   - ipa-server.x86_64:4.4.0-14.el7.centos.1.1
 #   - ipa-server-dns.x86_64:4.2.0-15.0.1.el7.centos.19
-#   - ipa-server-trust-ad.x86_64:4.2.0-15.0.1.el7.centos.19
+#   - ipa-server-trust-ad.x86_64:4.4.0-14.el7.centos.1.1
 #
 # CVE List:
 #   - CVE-2015-5370
@@ -256,8 +256,8 @@ sudo yum install openchange-devel.i686-2.0 -y
 sudo yum install openchange-devel.x86_64-2.0 -y 
 sudo yum install openchange-devel-docs.noarch-2.0 -y 
 sudo yum install ipa-admintools.x86_64-4.2.0 -y 
-sudo yum install ipa-client.x86_64-4.2.0 -y 
+sudo yum install ipa-client.x86_64-4.4.0 -y 
 sudo yum install ipa-python.x86_64-4.2.0 -y 
-sudo yum install ipa-server.x86_64-4.2.0 -y 
+sudo yum install ipa-server.x86_64-4.4.0 -y 
 sudo yum install ipa-server-dns.x86_64-4.2.0 -y 
-sudo yum install ipa-server-trust-ad.x86_64-4.2.0 -y 
+sudo yum install ipa-server-trust-ad.x86_64-4.4.0 -y 
