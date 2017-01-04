@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:1796
 #
 # Security announcement date: 2014-11-03 20:15:35 UTC
-# Script generation date:     2017-01-01 21:15:42 UTC
+# Script generation date:     2017-01-04 21:22:37 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -790,9 +790,9 @@
 #   - geos.x86_64:3.3.2-1.el6op
 #   - geos-debuginfo.x86_64:3.3.2-1.el6op
 #   - geos-devel.x86_64:3.3.2-1.el6op
-#   - ghostscript-debuginfo.x86_64:8.70-19.el6
-#   - ghostscript-devel.x86_64:8.70-19.el6
-#   - ghostscript-doc.x86_64:8.70-19.el6
+#   - ghostscript-debuginfo.x86_64:8.70-21.el6_8.1
+#   - ghostscript-devel.x86_64:8.70-21.el6_8.1
+#   - ghostscript-doc.x86_64:8.70-21.el6_8.1
 #   - gpsbabel.x86_64:1.4.4-4.el6op
 #   - gpsbabel-debuginfo.x86_64:1.4.4-4.el6op
 #   - haproxy.x86_64:1.5.4-2.el6_7.1
