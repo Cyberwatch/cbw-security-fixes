@@ -4,7 +4,7 @@
 # Security fix for USN-2864-1
 #
 # Security announcement date: 2016-01-07 00:00:00 UTC
-# Script generation date:     2017-01-01 21:05:05 UTC
+# Script generation date:     2017-01-04 21:05:42 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libnss3:2:3.19.2.1-0ubuntu0.14.04.2
 #
 # Last versions recommanded by security team:
-#   - libnss3:2:3.23-0ubuntu0.14.04.1
+#   - libnss3:2:3.26.2-0ubuntu0.14.04.3
 #
 # CVE List:
 #   - CVE-2015-7575
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libnss3=2:3.23-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade libnss3=2:3.26.2-0ubuntu0.14.04.3 -y
