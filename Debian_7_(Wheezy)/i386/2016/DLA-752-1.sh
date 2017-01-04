@@ -4,12 +4,14 @@
 # Security fix for DLA-752-1
 #
 # Security announcement date: 2016-12-17 00:00:00 UTC
-# Script generation date:     2017-01-03 21:11:33 UTC
+# Script generation date:     2017-01-04 21:16:25 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
+#   - icedove:45.5.1-1~deb7u1
+#   - icedove:45.5.1-1~deb7u1
 #   - icedove:45.5.1-1~deb7u1
 #   - icedove:45.5.1-1~deb7u1
 #   - icedove:45.5.1-1~deb7u1
@@ -90,6 +92,8 @@
 #   - icedove:45.5.1-1~deb7u1
 #   - icedove:45.5.1-1~deb7u1
 #   - icedove:45.5.1-1~deb7u1
+#   - icedove:45.5.1-1~deb7u1
+#   - icedove:45.5.1-1~deb7u1
 #
 # CVE List:
 #   - CVE-2016-5290
@@ -104,6 +108,8 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
+sudo apt-get install --only-upgrade icedove=45.5.1-1~deb7u1 -y
+sudo apt-get install --only-upgrade icedove=45.5.1-1~deb7u1 -y
 sudo apt-get install --only-upgrade icedove=45.5.1-1~deb7u1 -y
 sudo apt-get install --only-upgrade icedove=45.5.1-1~deb7u1 -y
 sudo apt-get install --only-upgrade icedove=45.5.1-1~deb7u1 -y
