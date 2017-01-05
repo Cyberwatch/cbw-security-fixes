@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1537
 #
 # Security announcement date: 2013-12-05 13:31:54 UTC
-# Script generation date:     2017-01-01 21:10:57 UTC
+# Script generation date:     2017-01-05 21:19:45 UTC
 #
 # Operating System: CentOS 6
 # Architecture: i386
@@ -589,7 +589,7 @@
 #   - libitm.i686:4.8.1-4.2.1.el6
 #   - numactl.i686:2.0.7-8.el6
 #   - dracut-tools.noarch:004-336.el6_5.2
-#   - ghostscript-devel.i686:8.70-19.el6
+#   - ghostscript-devel.i686:8.70-21.el6_8.1
 #   - openhpi-devel.i686:2.14.1-6.el6
 #   - mesa-dri-filesystem.i686:9.2-0.5.el6
 #   - mesa-libGL.i686:9.2-0.5.el6
@@ -627,7 +627,7 @@
 #   - iproute-devel.i686:2.6.32-31.el6
 #   - iotop.noarch:0.3.2-7.el6
 #   - libobjc.i686:4.4.7-4.el6
-#   - ghostscript.i686:8.70-19.el6
+#   - ghostscript.i686:8.70-21.el6_8.1
 #   - clusterlib.i686:3.0.12.1-59.el6
 #   - abrt-devel.i686:2.0.8-21.el6.centos
 #   - coolkey.i686:1.1.0-31.el6
@@ -845,8 +845,8 @@
 #   - gdm-plugin-fingerprint.i686:2.30.4-52.el6
 #   - gdm-plugin-smartcard.i686:2.30.4-52.el6
 #   - gdm-user-switch-applet.i686:2.30.4-52.el6
-#   - ghostscript-doc.i686:8.70-19.el6
-#   - ghostscript-gtk.i686:8.70-19.el6
+#   - ghostscript-doc.i686:8.70-21.el6_8.1
+#   - ghostscript-gtk.i686:8.70-21.el6_8.1
 #   - glib2-static.i686:2.26.1-3.el6
 #   - gnome-screensaver.i686:2.28.3-28.el6
 #   - grub.i686:0.97-83.el6

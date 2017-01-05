@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:1256
 #
 # Security announcement date: 2012-09-11 20:01:23 UTC
-# Script generation date:     2017-01-01 21:10:33 UTC
+# Script generation date:     2017-01-05 21:19:24 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - ghostscript-gtk.x86_64:8.70-14.el6_3.1
 #
 # Last versions recommanded by security team:
-#   - ghostscript.i686:8.70-19.el6
-#   - ghostscript-devel.i686:8.70-19.el6
-#   - ghostscript.x86_64:8.70-19.el6
-#   - ghostscript-devel.x86_64:8.70-19.el6
-#   - ghostscript-doc.x86_64:8.70-19.el6
-#   - ghostscript-gtk.x86_64:8.70-19.el6
+#   - ghostscript.i686:8.70-21.el6_8.1
+#   - ghostscript-devel.i686:8.70-21.el6_8.1
+#   - ghostscript.x86_64:8.70-21.el6_8.1
+#   - ghostscript-devel.x86_64:8.70-21.el6_8.1
+#   - ghostscript-doc.x86_64:8.70-21.el6_8.1
+#   - ghostscript-gtk.x86_64:8.70-21.el6_8.1
 #
 # CVE List:
 #   - CVE-2012-4405

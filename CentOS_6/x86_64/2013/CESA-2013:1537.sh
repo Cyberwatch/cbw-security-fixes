@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1537
 #
 # Security announcement date: 2013-12-05 13:31:54 UTC
-# Script generation date:     2017-01-01 21:10:53 UTC
+# Script generation date:     2017-01-05 21:19:42 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -1083,12 +1083,12 @@
 #   - gdm-plugin-fingerprint.x86_64:2.30.4-52.el6
 #   - gdm-plugin-smartcard.x86_64:2.30.4-52.el6
 #   - gdm-user-switch-applet.x86_64:2.30.4-52.el6
-#   - ghostscript.i686:8.70-19.el6
-#   - ghostscript-devel.i686:8.70-19.el6
-#   - ghostscript.x86_64:8.70-19.el6
-#   - ghostscript-devel.x86_64:8.70-19.el6
-#   - ghostscript-doc.x86_64:8.70-19.el6
-#   - ghostscript-gtk.x86_64:8.70-19.el6
+#   - ghostscript.i686:8.70-21.el6_8.1
+#   - ghostscript-devel.i686:8.70-21.el6_8.1
+#   - ghostscript.x86_64:8.70-21.el6_8.1
+#   - ghostscript-devel.x86_64:8.70-21.el6_8.1
+#   - ghostscript-doc.x86_64:8.70-21.el6_8.1
+#   - ghostscript-gtk.x86_64:8.70-21.el6_8.1
 #   - glib2.i686:2.26.1-3.el6
 #   - glib2-devel.i686:2.26.1-3.el6
 #   - glib2.x86_64:2.26.1-3.el6
