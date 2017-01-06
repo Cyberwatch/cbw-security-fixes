@@ -1,25 +1,24 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2017
 #
-# Security fix for DLA-572-1
+# Security fix for DLA-773-2
 #
-# Security announcement date: 2016-07-30 00:00:00 UTC
-# Script generation date:     2017-01-06 21:10:25 UTC
+# Security announcement date: 2017-01-04 00:00:00 UTC
+# Script generation date:     2017-01-06 21:10:39 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
-#   - icedove:1:45.2.0-2~deb7u1
+#   - python-crypto:2.6-4+deb7u5
 #
 # Last versions recommanded by security team:
-#   - icedove:45.5.1-1~deb7u1
+#   - python-crypto:2.6-4+deb7u6
 #
 # CVE List:
-#   - CVE-2016-2818
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedove=45.5.1-1~deb7u1 -y
+sudo apt-get install --only-upgrade python-crypto=2.6-4+deb7u6 -y
