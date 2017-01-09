@@ -4,7 +4,7 @@
 # Security fix for DSA-2746-1
 #
 # Security announcement date: 2013-08-29 00:00:00 UTC
-# Script generation date:     2017-01-08 21:05:25 UTC
+# Script generation date:     2017-01-09 21:08:19 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - icedove:17.0.8-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - icedove:1:45.5.1-1~deb7u1
+#   - icedove:45.5.1-1~deb7u1
 #
 # CVE List:
 #   - CVE-2013-1701
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedove=1:45.5.1-1~deb7u1 -y
+sudo apt-get install --only-upgrade icedove=45.5.1-1~deb7u1 -y
