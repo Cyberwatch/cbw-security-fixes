@@ -4,7 +4,7 @@
 # Security fix for USN-3079-1
 #
 # Security announcement date: 2016-09-14 00:00:00 UTC
-# Script generation date:     2017-01-01 21:05:37 UTC
+# Script generation date:     2017-01-10 21:05:56 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: i386
@@ -14,8 +14,8 @@
 #   - libjavascriptcoregtk-4.0-18:2.12.5-0ubuntu0.16.04.1
 #
 # Last versions recommanded by security team:
-#   - libwebkit2gtk-4.0-37:2.12.5-0ubuntu0.16.04.1
-#   - libjavascriptcoregtk-4.0-18:2.12.5-0ubuntu0.16.04.1
+#   - libwebkit2gtk-4.0-37:2.14.2-0ubuntu0.16.04.1
+#   - libjavascriptcoregtk-4.0-18:2.14.2-0ubuntu0.16.04.1
 #
 # CVE List:
 #   - CVE-2016-1854
@@ -39,5 +39,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libwebkit2gtk-4.0-37=2.12.5-0ubuntu0.16.04.1 -y
-sudo apt-get install --only-upgrade libjavascriptcoregtk-4.0-18=2.12.5-0ubuntu0.16.04.1 -y
+sudo apt-get install --only-upgrade libwebkit2gtk-4.0-37=2.14.2-0ubuntu0.16.04.1 -y
+sudo apt-get install --only-upgrade libjavascriptcoregtk-4.0-18=2.14.2-0ubuntu0.16.04.1 -y
