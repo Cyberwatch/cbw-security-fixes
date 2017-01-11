@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:2766
 #
 # Security announcement date: 2016-11-15 19:51:24 UTC
-# Script generation date:     2017-01-01 21:17:39 UTC
+# Script generation date:     2017-01-11 21:27:08 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: i386
@@ -27,21 +27,21 @@
 #   - python-perf.i686:2.6.32-642.11.1.el6
 #
 # Last versions recommanded by security team:
-#   - kernel.i686:2.6.32-642.11.1.el6
-#   - kernel-debug.i686:2.6.32-642.11.1.el6
-#   - kernel-debug-debuginfo.i686:2.6.32-642.11.1.el6
-#   - kernel-debug-devel.i686:2.6.32-642.11.1.el6
-#   - kernel-debuginfo.i686:2.6.32-642.11.1.el6
-#   - kernel-debuginfo-common-i686.i686:2.6.32-642.11.1.el6
-#   - kernel-devel.i686:2.6.32-642.11.1.el6
-#   - kernel-headers.i686:2.6.32-642.11.1.el6
-#   - perf.i686:2.6.32-642.11.1.el6
-#   - perf-debuginfo.i686:2.6.32-642.11.1.el6
-#   - python-perf-debuginfo.i686:2.6.32-642.11.1.el6
-#   - kernel-abi-whitelists.noarch:2.6.32-642.11.1.el6
-#   - kernel-doc.noarch:2.6.32-642.11.1.el6
-#   - kernel-firmware.noarch:2.6.32-642.11.1.el6
-#   - python-perf.i686:2.6.32-642.11.1.el6
+#   - kernel.i686:2.6.32-642.13.1.el6
+#   - kernel-debug.i686:2.6.32-642.13.1.el6
+#   - kernel-debug-debuginfo.i686:2.6.32-642.13.1.el6
+#   - kernel-debug-devel.i686:2.6.32-642.13.1.el6
+#   - kernel-debuginfo.i686:2.6.32-642.13.1.el6
+#   - kernel-debuginfo-common-i686.i686:2.6.32-642.13.1.el6
+#   - kernel-devel.i686:2.6.32-642.13.1.el6
+#   - kernel-headers.i686:2.6.32-642.13.1.el6
+#   - perf.i686:2.6.32-642.13.1.el6
+#   - perf-debuginfo.i686:2.6.32-642.13.1.el6
+#   - python-perf-debuginfo.i686:2.6.32-642.13.1.el6
+#   - kernel-abi-whitelists.noarch:2.6.32-642.13.1.el6
+#   - kernel-doc.noarch:2.6.32-642.13.1.el6
+#   - kernel-firmware.noarch:2.6.32-642.13.1.el6
+#   - python-perf.i686:2.6.32-642.13.1.el6
 #
 # CVE List:
 #   - CVE-2016-1583

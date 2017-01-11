@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:1589
 #
 # Security announcement date: 2012-12-18 22:47:38 UTC
-# Script generation date:     2017-01-01 21:14:17 UTC
+# Script generation date:     2017-01-11 21:24:16 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -24,18 +24,18 @@
 #   - perf-debuginfo.x86_64:2.6.32-131.36.1.el6
 #
 # Last versions recommanded by security team:
-#   - kernel-doc.noarch:2.6.32-642.11.1.el6
-#   - kernel-firmware.noarch:2.6.32-642.11.1.el6
-#   - kernel.x86_64:2.6.32-642.11.1.el6
-#   - kernel-debug.x86_64:2.6.32-642.11.1.el6
-#   - kernel-debug-debuginfo.x86_64:2.6.32-642.11.1.el6
-#   - kernel-debug-devel.x86_64:2.6.32-642.11.1.el6
-#   - kernel-debuginfo.x86_64:2.6.32-642.11.1.el6
-#   - kernel-debuginfo-common-x86_64.x86_64:2.6.32-642.11.1.el6
-#   - kernel-devel.x86_64:2.6.32-642.11.1.el6
-#   - kernel-headers.x86_64:2.6.32-642.11.1.el6
-#   - perf.x86_64:2.6.32-642.11.1.el6
-#   - perf-debuginfo.x86_64:2.6.32-642.11.1.el6
+#   - kernel-doc.noarch:2.6.32-642.13.1.el6
+#   - kernel-firmware.noarch:2.6.32-642.13.1.el6
+#   - kernel.x86_64:2.6.32-642.13.1.el6
+#   - kernel-debug.x86_64:2.6.32-642.13.1.el6
+#   - kernel-debug-debuginfo.x86_64:2.6.32-642.13.1.el6
+#   - kernel-debug-devel.x86_64:2.6.32-642.13.1.el6
+#   - kernel-debuginfo.x86_64:2.6.32-642.13.1.el6
+#   - kernel-debuginfo-common-x86_64.x86_64:2.6.32-642.13.1.el6
+#   - kernel-devel.x86_64:2.6.32-642.13.1.el6
+#   - kernel-headers.x86_64:2.6.32-642.13.1.el6
+#   - perf.x86_64:2.6.32-642.13.1.el6
+#   - perf-debuginfo.x86_64:2.6.32-642.13.1.el6
 #
 # CVE List:
 #   - CVE-2012-2313

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:2636
 #
 # Security announcement date: 2015-12-15 15:05:26 UTC
-# Script generation date:     2017-01-01 21:16:52 UTC
+# Script generation date:     2017-01-11 21:26:25 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -33,27 +33,27 @@
 #   - python-perf.x86_64:2.6.32-573.12.1.el6
 #
 # Last versions recommanded by security team:
-#   - kernel-debug-debuginfo.i686:2.6.32-642.11.1.el6
-#   - kernel-debug-devel.i686:2.6.32-642.11.1.el6
-#   - kernel-debuginfo.i686:2.6.32-642.11.1.el6
-#   - kernel-debuginfo-common-i686.i686:2.6.32-642.11.1.el6
-#   - perf-debuginfo.i686:2.6.32-642.11.1.el6
-#   - python-perf-debuginfo.i686:2.6.32-642.11.1.el6
-#   - kernel-abi-whitelists.noarch:2.6.32-642.11.1.el6
-#   - kernel-doc.noarch:2.6.32-642.11.1.el6
-#   - kernel-firmware.noarch:2.6.32-642.11.1.el6
-#   - kernel.x86_64:2.6.32-642.11.1.el6
-#   - kernel-debug.x86_64:2.6.32-642.11.1.el6
-#   - kernel-debug-debuginfo.x86_64:2.6.32-642.11.1.el6
-#   - kernel-debug-devel.x86_64:2.6.32-642.11.1.el6
-#   - kernel-debuginfo.x86_64:2.6.32-642.11.1.el6
-#   - kernel-debuginfo-common-x86_64.x86_64:2.6.32-642.11.1.el6
-#   - kernel-devel.x86_64:2.6.32-642.11.1.el6
-#   - kernel-headers.x86_64:2.6.32-642.11.1.el6
-#   - perf.x86_64:2.6.32-642.11.1.el6
-#   - perf-debuginfo.x86_64:2.6.32-642.11.1.el6
-#   - python-perf-debuginfo.x86_64:2.6.32-642.11.1.el6
-#   - python-perf.x86_64:2.6.32-642.11.1.el6
+#   - kernel-debug-debuginfo.i686:2.6.32-642.13.1.el6
+#   - kernel-debug-devel.i686:2.6.32-642.13.1.el6
+#   - kernel-debuginfo.i686:2.6.32-642.13.1.el6
+#   - kernel-debuginfo-common-i686.i686:2.6.32-642.13.1.el6
+#   - perf-debuginfo.i686:2.6.32-642.13.1.el6
+#   - python-perf-debuginfo.i686:2.6.32-642.13.1.el6
+#   - kernel-abi-whitelists.noarch:2.6.32-642.13.1.el6
+#   - kernel-doc.noarch:2.6.32-642.13.1.el6
+#   - kernel-firmware.noarch:2.6.32-642.13.1.el6
+#   - kernel.x86_64:2.6.32-642.13.1.el6
+#   - kernel-debug.x86_64:2.6.32-642.13.1.el6
+#   - kernel-debug-debuginfo.x86_64:2.6.32-642.13.1.el6
+#   - kernel-debug-devel.x86_64:2.6.32-642.13.1.el6
+#   - kernel-debuginfo.x86_64:2.6.32-642.13.1.el6
+#   - kernel-debuginfo-common-x86_64.x86_64:2.6.32-642.13.1.el6
+#   - kernel-devel.x86_64:2.6.32-642.13.1.el6
+#   - kernel-headers.x86_64:2.6.32-642.13.1.el6
+#   - perf.x86_64:2.6.32-642.13.1.el6
+#   - perf-debuginfo.x86_64:2.6.32-642.13.1.el6
+#   - python-perf-debuginfo.x86_64:2.6.32-642.13.1.el6
+#   - python-perf.x86_64:2.6.32-642.13.1.el6
 #
 # CVE List:
 #   - CVE-2015-2925

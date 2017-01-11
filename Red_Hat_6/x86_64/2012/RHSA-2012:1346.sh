@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:1346
 #
 # Security announcement date: 2012-10-09 07:52:22 UTC
-# Script generation date:     2017-01-01 21:14:14 UTC
+# Script generation date:     2017-01-11 21:24:13 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - flash-plugin.i686:11.2.202.243-1.el6
 #
 # Last versions recommanded by security team:
-#   - flash-plugin.i686:24.0.0.186-1.el6_8
+#   - flash-plugin.i686:24.0.0.194-1.el6_8
 #
 # CVE List:
 #   - CVE-2012-5248
@@ -46,4 +46,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install flash-plugin.i686-24.0.0.186 -y 
+sudo yum install flash-plugin.i686-24.0.0.194 -y 

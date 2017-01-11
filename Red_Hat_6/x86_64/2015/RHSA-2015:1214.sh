@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1214
 #
 # Security announcement date: 2015-07-08 20:49:10 UTC
-# Script generation date:     2017-01-01 21:16:23 UTC
+# Script generation date:     2017-01-11 21:26:03 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - flash-plugin.i686:11.2.202.481-1.el6_6
 #
 # Last versions recommanded by security team:
-#   - flash-plugin.i686:24.0.0.186-1.el6_8
+#   - flash-plugin.i686:24.0.0.194-1.el6_8
 #
 # CVE List:
 #   - CVE-2014-0578
@@ -56,4 +56,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install flash-plugin.i686-24.0.0.186 -y 
+sudo yum install flash-plugin.i686-24.0.0.194 -y 
