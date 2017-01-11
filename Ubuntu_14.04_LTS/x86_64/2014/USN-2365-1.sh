@@ -4,7 +4,7 @@
 # Security fix for USN-2365-1
 #
 # Security announcement date: 2014-09-29 00:00:00 UTC
-# Script generation date:     2017-01-01 21:04:00 UTC
+# Script generation date:     2017-01-11 21:04:13 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libvncserver0:0.9.9+dfsg-1ubuntu1.1
 #
 # Last versions recommanded by security team:
-#   - libvncserver0:0.9.9+dfsg-1ubuntu1.1
+#   - libvncserver0:0.9.9+dfsg-1ubuntu1.2
 #
 # CVE List:
 #   - CVE-2014-6051
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libvncserver0=0.9.9+dfsg-1ubuntu1.1 -y
+sudo apt-get install --only-upgrade libvncserver0=0.9.9+dfsg-1ubuntu1.2 -y
