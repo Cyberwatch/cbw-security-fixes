@@ -4,7 +4,7 @@
 # Security fix for DSA-2720-1
 #
 # Security announcement date: 2013-07-06 00:00:00 UTC
-# Script generation date:     2017-01-01 21:06:37 UTC
+# Script generation date:     2017-01-11 21:12:02 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - icedove:17.0.7-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - icedove:45.5.1-1~deb7u1
+#   - icedove:1:45.5.1-1~deb7u1
 #
 # CVE List:
 #   - CVE-2013-0795
@@ -42,4 +42,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedove=45.5.1-1~deb7u1 -y
+sudo apt-get install --only-upgrade icedove=1:45.5.1-1~deb7u1 -y
