@@ -4,7 +4,7 @@
 # Security fix for DSA-3735-1
 #
 # Security announcement date: 2016-12-15 00:00:00 UTC
-# Script generation date:     2017-01-01 21:08:35 UTC
+# Script generation date:     2017-01-12 21:20:52 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -18,6 +18,11 @@
 #   - libgme-dev:0.5.5-2+deb8u1
 #
 # CVE List:
+#   - CVE-2016-9957
+#   - CVE-2016-9958
+#   - CVE-2016-9959
+#   - CVE-2016-9960
+#   - CVE-2016-9961
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

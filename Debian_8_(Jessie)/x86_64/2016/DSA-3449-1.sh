@@ -4,7 +4,7 @@
 # Security fix for DSA-3449-1
 #
 # Security announcement date: 2016-01-19 00:00:00 UTC
-# Script generation date:     2017-01-01 21:07:45 UTC
+# Script generation date:     2017-01-12 21:20:18 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - bind9:1:9.9.5.dfsg-9+deb8u5
 #
 # Last versions recommanded by security team:
-#   - bind9:1:9.9.5.dfsg-9+deb8u8
+#   - bind9:1:9.9.5.dfsg-9+deb8u9
 #
 # CVE List:
 #   - CVE-2015-8704
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade bind9=1:9.9.5.dfsg-9+deb8u8 -y
+sudo apt-get install --only-upgrade bind9=1:9.9.5.dfsg-9+deb8u9 -y

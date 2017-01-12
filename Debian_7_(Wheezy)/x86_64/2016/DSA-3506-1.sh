@@ -4,7 +4,7 @@
 # Security fix for DSA-3506-1
 #
 # Security announcement date: 2016-03-04 00:00:00 UTC
-# Script generation date:     2017-01-01 21:07:53 UTC
+# Script generation date:     2017-01-12 21:20:25 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libav:6:0.8.17-2
 #
 # Last versions recommanded by security team:
-#   - libav:6:0.8.18-0+deb7u1
+#   - libav:6:0.8.19-0+deb7u1
 #
 # CVE List:
 #   - CVE-2016-1897
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libav=6:0.8.18-0+deb7u1 -y
+sudo apt-get install --only-upgrade libav=6:0.8.19-0+deb7u1 -y
