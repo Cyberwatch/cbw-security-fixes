@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1537
 #
 # Security announcement date: 2013-12-05 13:31:54 UTC
-# Script generation date:     2017-01-05 21:19:42 UTC
+# Script generation date:     2017-01-13 21:13:08 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -1183,16 +1183,16 @@
 #   - iscsi-initiator-utils.x86_64:6.2.0.873-10.el6
 #   - iscsi-initiator-utils-devel.x86_64:6.2.0.873-10.el6
 #   - iw.x86_64:3.10-1.1.el6
-#   - kernel-abi-whitelists.noarch:2.6.32-642.11.1.el6
-#   - kernel-doc.noarch:2.6.32-642.11.1.el6
-#   - kernel-firmware.noarch:2.6.32-642.11.1.el6
-#   - kernel.x86_64:2.6.32-642.11.1.el6
-#   - kernel-debug.x86_64:2.6.32-642.11.1.el6
-#   - kernel-debug-devel.x86_64:2.6.32-642.11.1.el6
-#   - kernel-devel.x86_64:2.6.32-642.11.1.el6
-#   - kernel-headers.x86_64:2.6.32-642.11.1.el6
-#   - perf.x86_64:2.6.32-642.11.1.el6
-#   - python-perf.x86_64:2.6.32-642.11.1.el6
+#   - kernel-abi-whitelists.noarch:2.6.32-642.13.1.el6
+#   - kernel-doc.noarch:2.6.32-642.13.1.el6
+#   - kernel-firmware.noarch:2.6.32-642.13.1.el6
+#   - kernel.x86_64:2.6.32-642.13.1.el6
+#   - kernel-debug.x86_64:2.6.32-642.13.1.el6
+#   - kernel-debug-devel.x86_64:2.6.32-642.13.1.el6
+#   - kernel-devel.x86_64:2.6.32-642.13.1.el6
+#   - kernel-headers.x86_64:2.6.32-642.13.1.el6
+#   - perf.x86_64:2.6.32-642.13.1.el6
+#   - python-perf.x86_64:2.6.32-642.13.1.el6
 #   - kexec-tools.x86_64:2.0.0-273.el6
 #   - ksh.x86_64:20120801-10.el6
 #   - ledmon.x86_64:0.78-1.el6
