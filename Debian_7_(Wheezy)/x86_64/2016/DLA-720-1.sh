@@ -4,7 +4,7 @@
 # Security fix for DLA-720-1
 #
 # Security announcement date: 2016-11-24 00:00:00 UTC
-# Script generation date:     2017-01-01 21:09:26 UTC
+# Script generation date:     2017-01-13 21:11:02 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - xen:4.1.6.lts1-4
 #
 # Last versions recommanded by security team:
-#   - xen:4.1.6.lts1-4
+#   - xen:4.1.6.lts1-5
 #
 # CVE List:
 #   - CVE-2016-9379
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade xen=4.1.6.lts1-4 -y
+sudo apt-get install --only-upgrade xen=4.1.6.lts1-5 -y
