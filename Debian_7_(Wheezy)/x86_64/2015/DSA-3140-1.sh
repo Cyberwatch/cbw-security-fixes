@@ -4,7 +4,7 @@
 # Security fix for DSA-3140-1
 #
 # Security announcement date: 2015-01-27 00:00:00 UTC
-# Script generation date:     2017-01-01 21:07:12 UTC
+# Script generation date:     2017-01-13 21:07:00 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - xen:4.1.4-3+deb7u4
 #
 # Last versions recommanded by security team:
-#   - xen:4.1.6.lts1-4
+#   - xen:4.1.6.lts1-5
 #
 # CVE List:
 #   - CVE-2014-8594
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade xen=4.1.6.lts1-4 -y
+sudo apt-get install --only-upgrade xen=4.1.6.lts1-5 -y
