@@ -4,7 +4,7 @@
 # Security fix for DSA-3224-1
 #
 # Security announcement date: 2015-04-12 00:00:00 UTC
-# Script generation date:     2017-01-01 21:07:19 UTC
+# Script generation date:     2017-01-14 21:07:18 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libx11:2:1.5.0-1+deb7u2
 #
 # Last versions recommanded by security team:
-#   - libx11:2:1.5.0-1+deb7u3
+#   - libx11:2:1.5.0-1+deb7u4
 #
 # CVE List:
 #   - CVE-2013-7439
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libx11=2:1.5.0-1+deb7u3 -y
+sudo apt-get install --only-upgrade libx11=2:1.5.0-1+deb7u4 -y

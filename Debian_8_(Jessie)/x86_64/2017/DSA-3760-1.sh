@@ -1,25 +1,27 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2017
 #
-# Security fix for DSA-3756-1
+# Security fix for DSA-3760-1
 #
-# Security announcement date: 2017-01-09 00:00:00 UTC
+# Security announcement date: 2017-01-12 00:00:00 UTC
 # Script generation date:     2017-01-14 21:08:29 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - icoutils:0.31.0-2+deb8u1
+#   - ikiwiki:3.20141016.4
 #
 # Last versions recommanded by security team:
-#   - icoutils:0.31.0-2+deb8u2
+#   - ikiwiki:3.20141016.4
 #
 # CVE List:
-#   - CVE-2017-5208
+#   - CVE-2016-9646
+#   - CVE-2016-10026
+#   - CVE-2017-0356
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icoutils=0.31.0-2+deb8u2 -y
+sudo apt-get install --only-upgrade ikiwiki=3.20141016.4 -y
