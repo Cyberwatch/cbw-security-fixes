@@ -1,21 +1,29 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2017
 #
-# Security fix for DLA-472-2
+# Security fix for DLA-782-1
 #
-# Security announcement date: 2016-05-18 00:00:00 UTC
-# Script generation date:     2017-01-15 21:12:52 UTC
+# Security announcement date: 2017-01-13 00:00:00 UTC
+# Script generation date:     2017-01-15 21:13:12 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - icedove:31.8.0-1~deb7u1.1
+#   - icedove:45.6.0-2
 #
 # Last versions recommanded by security team:
 #   - icedove:45.6.0-2~deb7u1
 #
 # CVE List:
+#   - CVE-2016-9893
+#   - CVE-2016-9895
+#   - CVE-2016-9897
+#   - CVE-2016-9898
+#   - CVE-2016-9899
+#   - CVE-2016-9900
+#   - CVE-2016-9904
+#   - CVE-2016-9905
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

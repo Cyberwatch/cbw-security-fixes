@@ -4,7 +4,7 @@
 # Security fix for DLA-761-1
 #
 # Security announcement date: 2016-12-24 00:00:00 UTC
-# Script generation date:     2017-01-01 21:09:28 UTC
+# Script generation date:     2017-01-15 21:13:11 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - python-bottle:0.10.11-1+deb7u2
 #
 # Last versions recommanded by security team:
-#   - python-bottle:0.10.11-1+deb7u2
+#   - python-bottle:0.10.11-1+deb7u3
 #
 # CVE List:
 #   - CVE-2016-9964
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade python-bottle=0.10.11-1+deb7u2 -y
+sudo apt-get install --only-upgrade python-bottle=0.10.11-1+deb7u3 -y
