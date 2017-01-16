@@ -4,7 +4,7 @@
 # Security fix for DLA-449-1
 #
 # Security announcement date: 2016-04-30 00:00:00 UTC
-# Script generation date:     2017-01-01 21:09:08 UTC
+# Script generation date:     2017-01-16 21:09:37 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - botan1.10:1.10.5-1+deb7u1
 #
 # Last versions recommanded by security team:
-#   - botan1.10:1.10.5-1+deb7u1
+#   - botan1.10:1.10.5-1+deb7u2
 #
 # CVE List:
 #   - CVE-2014-9742
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade botan1.10=1.10.5-1+deb7u1 -y
+sudo apt-get install --only-upgrade botan1.10=1.10.5-1+deb7u2 -y
