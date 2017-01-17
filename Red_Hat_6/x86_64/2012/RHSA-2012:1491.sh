@@ -4,7 +4,7 @@
 # Security fix for RHSA-2012:1491
 #
 # Security announcement date: 2012-12-04 20:28:43 UTC
-# Script generation date:     2017-01-01 21:14:17 UTC
+# Script generation date:     2017-01-17 21:18:08 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -31,19 +31,19 @@
 #   - kernel-rt-doc.noarch:3.2.33-rt50.66.el6rt
 #   - kernel-rt-firmware.noarch:3.2.33-rt50.66.el6rt
 #   - mrg-rt-release.noarch:3.2.33-rt50.66.el6rt
-#   - kernel-rt.x86_64:3.10.0-327.rt56.198.el6rt
-#   - kernel-rt-debug.x86_64:3.10.0-327.rt56.198.el6rt
-#   - kernel-rt-debug-debuginfo.x86_64:3.10.0-327.rt56.198.el6rt
-#   - kernel-rt-debug-devel.x86_64:3.10.0-327.rt56.198.el6rt
-#   - kernel-rt-debuginfo.x86_64:3.10.0-327.rt56.198.el6rt
-#   - kernel-rt-debuginfo-common-x86_64.x86_64:3.10.0-327.rt56.198.el6rt
-#   - kernel-rt-devel.x86_64:3.10.0-327.rt56.198.el6rt
-#   - kernel-rt-trace.x86_64:3.10.0-327.rt56.198.el6rt
-#   - kernel-rt-trace-debuginfo.x86_64:3.10.0-327.rt56.198.el6rt
-#   - kernel-rt-trace-devel.x86_64:3.10.0-327.rt56.198.el6rt
-#   - kernel-rt-vanilla.x86_64:3.10.0-327.rt56.198.el6rt
-#   - kernel-rt-vanilla-debuginfo.x86_64:3.10.0-327.rt56.198.el6rt
-#   - kernel-rt-vanilla-devel.x86_64:3.10.0-327.rt56.198.el6rt
+#   - kernel-rt.x86_64:3.10.0-514.rt56.210.el6rt
+#   - kernel-rt-debug.x86_64:3.10.0-514.rt56.210.el6rt
+#   - kernel-rt-debug-debuginfo.x86_64:3.10.0-514.rt56.210.el6rt
+#   - kernel-rt-debug-devel.x86_64:3.10.0-514.rt56.210.el6rt
+#   - kernel-rt-debuginfo.x86_64:3.10.0-514.rt56.210.el6rt
+#   - kernel-rt-debuginfo-common-x86_64.x86_64:3.10.0-514.rt56.210.el6rt
+#   - kernel-rt-devel.x86_64:3.10.0-514.rt56.210.el6rt
+#   - kernel-rt-trace.x86_64:3.10.0-514.rt56.210.el6rt
+#   - kernel-rt-trace-debuginfo.x86_64:3.10.0-514.rt56.210.el6rt
+#   - kernel-rt-trace-devel.x86_64:3.10.0-514.rt56.210.el6rt
+#   - kernel-rt-vanilla.x86_64:3.10.0-514.rt56.210.el6rt
+#   - kernel-rt-vanilla-debuginfo.x86_64:3.10.0-514.rt56.210.el6rt
+#   - kernel-rt-vanilla-devel.x86_64:3.10.0-514.rt56.210.el6rt
 #
 # CVE List:
 #   - CVE-2012-0957

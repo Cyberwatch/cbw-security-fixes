@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:0927
 #
 # Security announcement date: 2014-07-23 17:33:26 UTC
-# Script generation date:     2017-01-01 21:15:24 UTC
+# Script generation date:     2017-01-17 21:19:03 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -27,12 +27,12 @@
 #   - libcacard.i686:1.5.3-105.el7_2.7
 #   - libcacard.x86_64:1.5.3-105.el7_2.7
 #   - qemu-guest-agent.x86_64:1.5.3-60.el7_0.10
-#   - qemu-img.x86_64:1.5.3-126.el7
-#   - qemu-kvm.x86_64:1.5.3-126.el7
-#   - qemu-kvm-common.x86_64:1.5.3-126.el7
+#   - qemu-img.x86_64:1.5.3-126.el7_3.3
+#   - qemu-kvm.x86_64:1.5.3-126.el7_3.3
+#   - qemu-kvm-common.x86_64:1.5.3-126.el7_3.3
 #   - qemu-kvm-debuginfo.i686:1.5.3-105.el7_2.7
-#   - qemu-kvm-debuginfo.x86_64:1.5.3-126.el7
-#   - qemu-kvm-tools.x86_64:1.5.3-126.el7
+#   - qemu-kvm-debuginfo.x86_64:1.5.3-126.el7_3.3
+#   - qemu-kvm-tools.x86_64:1.5.3-126.el7_3.3
 #   - libcacard-devel.i686:1.5.3-105.el7_2.7
 #   - libcacard-devel.x86_64:1.5.3-105.el7_2.7
 #   - libcacard-tools.x86_64:1.5.3-105.el7_2.7

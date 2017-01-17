@@ -4,7 +4,7 @@
 # Security fix for RHSA-2015:1788
 #
 # Security announcement date: 2015-09-15 19:07:52 UTC
-# Script generation date:     2017-01-01 21:16:39 UTC
+# Script generation date:     2017-01-17 21:20:04 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -23,17 +23,17 @@
 #   - kernel-rt-trace-devel.x86_64:3.10.0-229.14.1.rt56.141.13.el7_1
 #
 # Last versions recommanded by security team:
-#   - kernel-rt-doc.noarch:3.10.0-514.rt56.420.el7
-#   - kernel-rt.x86_64:3.10.0-514.rt56.420.el7
-#   - kernel-rt-debug.x86_64:3.10.0-514.rt56.420.el7
-#   - kernel-rt-debug-debuginfo.x86_64:3.10.0-514.rt56.420.el7
-#   - kernel-rt-debug-devel.x86_64:3.10.0-514.rt56.420.el7
-#   - kernel-rt-debuginfo.x86_64:3.10.0-514.rt56.420.el7
-#   - kernel-rt-debuginfo-common-x86_64.x86_64:3.10.0-514.rt56.420.el7
-#   - kernel-rt-devel.x86_64:3.10.0-514.rt56.420.el7
-#   - kernel-rt-trace.x86_64:3.10.0-514.rt56.420.el7
-#   - kernel-rt-trace-debuginfo.x86_64:3.10.0-514.rt56.420.el7
-#   - kernel-rt-trace-devel.x86_64:3.10.0-514.rt56.420.el7
+#   - kernel-rt-doc.noarch:3.10.0-514.6.1.rt56.429.el7
+#   - kernel-rt.x86_64:3.10.0-514.6.1.rt56.429.el7
+#   - kernel-rt-debug.x86_64:3.10.0-514.6.1.rt56.429.el7
+#   - kernel-rt-debug-debuginfo.x86_64:3.10.0-514.6.1.rt56.429.el7
+#   - kernel-rt-debug-devel.x86_64:3.10.0-514.6.1.rt56.429.el7
+#   - kernel-rt-debuginfo.x86_64:3.10.0-514.6.1.rt56.429.el7
+#   - kernel-rt-debuginfo-common-x86_64.x86_64:3.10.0-514.6.1.rt56.429.el7
+#   - kernel-rt-devel.x86_64:3.10.0-514.6.1.rt56.429.el7
+#   - kernel-rt-trace.x86_64:3.10.0-514.6.1.rt56.429.el7
+#   - kernel-rt-trace-debuginfo.x86_64:3.10.0-514.6.1.rt56.429.el7
+#   - kernel-rt-trace-devel.x86_64:3.10.0-514.6.1.rt56.429.el7
 #
 # CVE List:
 #   - CVE-2014-9585
