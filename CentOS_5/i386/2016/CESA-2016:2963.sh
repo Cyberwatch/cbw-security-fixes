@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2963
 #
 # Security announcement date: 2016-12-20 16:58:37 UTC
-# Script generation date:     2017-01-01 21:12:01 UTC
+# Script generation date:     2017-01-18 21:17:26 UTC
 #
 # Operating System: CentOS 5
 # Architecture: i386
@@ -20,6 +20,7 @@
 #   - xen-libs.i386:3.0.3-148.el5_11
 #
 # CVE List:
+#   - CVE-2016-9637
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

@@ -4,7 +4,7 @@
 # Security fix for CESA-2014:0043
 #
 # Security announcement date: 2014-01-20 17:58:43 UTC
-# Script generation date:     2017-01-01 21:11:01 UTC
+# Script generation date:     2017-01-18 21:16:20 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - bind-utils.x86_64:9.8.2-0.23.rc1.el6_5.1
 #
 # Last versions recommanded by security team:
-#   - bind-devel.i686:9.8.2-0.47.rc1.el6_8.3
-#   - bind-libs.i686:9.8.2-0.47.rc1.el6_8.3
-#   - bind.x86_64:9.8.2-0.47.rc1.el6_8.3
-#   - bind-chroot.x86_64:9.8.2-0.47.rc1.el6_8.3
-#   - bind-devel.x86_64:9.8.2-0.47.rc1.el6_8.3
-#   - bind-libs.x86_64:9.8.2-0.47.rc1.el6_8.3
-#   - bind-sdb.x86_64:9.8.2-0.47.rc1.el6_8.3
-#   - bind-utils.x86_64:9.8.2-0.47.rc1.el6_8.3
+#   - bind-devel.i686:9.8.2-0.47.rc1.el6_8.4
+#   - bind-libs.i686:9.8.2-0.47.rc1.el6_8.4
+#   - bind.x86_64:9.8.2-0.47.rc1.el6_8.4
+#   - bind-chroot.x86_64:9.8.2-0.47.rc1.el6_8.4
+#   - bind-devel.x86_64:9.8.2-0.47.rc1.el6_8.4
+#   - bind-libs.x86_64:9.8.2-0.47.rc1.el6_8.4
+#   - bind-sdb.x86_64:9.8.2-0.47.rc1.el6_8.4
+#   - bind-utils.x86_64:9.8.2-0.47.rc1.el6_8.4
 #
 # CVE List:
 #   - CVE-2014-0591

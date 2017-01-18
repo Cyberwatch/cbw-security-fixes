@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2962
 #
 # Security announcement date: 2016-12-20 17:00:55 UTC
-# Script generation date:     2017-01-01 21:12:01 UTC
+# Script generation date:     2017-01-18 21:17:26 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -30,6 +30,7 @@
 #   - kernel-xen-devel.x86_64:2.6.18-417.el5
 #
 # CVE List:
+#   - CVE-2016-7117
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
