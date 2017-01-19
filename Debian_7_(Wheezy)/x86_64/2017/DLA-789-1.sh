@@ -1,25 +1,28 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2017
 #
-# Security fix for DLA-780-1
+# Security fix for DLA-789-1
 #
-# Security announcement date: 2017-01-12 00:00:00 UTC
+# Security announcement date: 2017-01-17 00:00:00 UTC
 # Script generation date:     2017-01-19 21:18:36 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
 #
 # Vulnerable packages fix on version:
-#   - libav:6:0.8.19-0+deb7u1
+#   - icoutils:0.29.1-5deb7u1
 #
 # Last versions recommanded by security team:
-#   - libav:6:0.8.20-0+deb7u1
+#   - icoutils:0.29.1-5deb7u1
 #
 # CVE List:
-#   - CVE-2016-7424
+#   - CVE-2017-5208
+#   - CVE-2017-5331
+#   - CVE-2017-5332
+#   - CVE-2017-5333
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libav=6:0.8.20-0+deb7u1 -y
+sudo apt-get install --only-upgrade icoutils=0.29.1-5deb7u1 -y
