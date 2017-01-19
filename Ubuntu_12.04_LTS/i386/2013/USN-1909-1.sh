@@ -4,7 +4,7 @@
 # Security fix for USN-1909-1
 #
 # Security announcement date: 2013-07-25 00:00:00 UTC
-# Script generation date:     2017-01-01 21:03:22 UTC
+# Script generation date:     2017-01-19 21:04:34 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - mysql-server-5.5:5.5.32-0ubuntu0.12.04.1
 #
 # Last versions recommanded by security team:
-#   - mysql-server-5.5:5.5.53-0ubuntu0.12.04.1
+#   - mysql-server-5.5:5.5.54-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2013-1861
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade mysql-server-5.5=5.5.53-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade mysql-server-5.5=5.5.54-0ubuntu0.12.04.1 -y
