@@ -4,7 +4,7 @@
 # Security fix for DSA-3726-1
 #
 # Security announcement date: 2016-11-26 00:00:00 UTC
-# Script generation date:     2017-01-01 21:08:33 UTC
+# Script generation date:     2017-01-23 21:09:28 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -64,6 +64,16 @@
 #   - CVE-2016-8862
 #   - CVE-2016-9556
 #   - CVE-2016-9559
+#   - CVE-2016-10059
+#   - CVE-2016-10061
+#   - CVE-2016-10063
+#   - CVE-2016-10064
+#   - CVE-2016-10065
+#   - CVE-2016-10066
+#   - CVE-2016-10067
+#   - CVE-2016-10069
+#   - CVE-2016-10070
+#   - CVE-2016-10071
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites

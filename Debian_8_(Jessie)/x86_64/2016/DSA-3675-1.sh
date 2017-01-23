@@ -4,7 +4,7 @@
 # Security fix for DSA-3675-1
 #
 # Security announcement date: 2016-09-23 00:00:00 UTC
-# Script generation date:     2017-01-01 21:08:14 UTC
+# Script generation date:     2017-01-23 21:09:24 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -58,6 +58,11 @@
 #   - libmagick++-dev:8:6.8.9.9-5+deb8u6
 #
 # CVE List:
+#   - CVE-2016-10053
+#   - CVE-2016-10054
+#   - CVE-2016-10055
+#   - CVE-2016-10056
+#   - CVE-2016-10057
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
