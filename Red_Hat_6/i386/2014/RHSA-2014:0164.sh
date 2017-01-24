@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:0164
 #
 # Security announcement date: 2014-02-12 18:36:56 UTC
-# Script generation date:     2017-01-01 21:15:10 UTC
+# Script generation date:     2017-01-24 21:17:57 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: i386
@@ -21,15 +21,15 @@
 #   - mysql-test.i686:5.1.73-3.el6_5
 #
 # Last versions recommanded by security team:
-#   - mysql.i686:5.1.73-3.el6_5
-#   - mysql-debuginfo.i686:5.1.73-3.el6_5
-#   - mysql-libs.i686:5.1.73-3.el6_5
-#   - mysql-server.i686:5.1.73-3.el6_5
-#   - mysql-bench.i686:5.1.73-3.el6_5
-#   - mysql-devel.i686:5.1.73-3.el6_5
-#   - mysql-embedded.i686:5.1.73-3.el6_5
-#   - mysql-embedded-devel.i686:5.1.73-3.el6_5
-#   - mysql-test.i686:5.1.73-3.el6_5
+#   - mysql.i686:5.1.73-8.el6_8
+#   - mysql-debuginfo.i686:5.1.73-8.el6_8
+#   - mysql-libs.i686:5.1.73-8.el6_8
+#   - mysql-server.i686:5.1.73-8.el6_8
+#   - mysql-bench.i686:5.1.73-8.el6_8
+#   - mysql-devel.i686:5.1.73-8.el6_8
+#   - mysql-embedded.i686:5.1.73-8.el6_8
+#   - mysql-embedded-devel.i686:5.1.73-8.el6_8
+#   - mysql-test.i686:5.1.73-8.el6_8
 #
 # CVE List:
 #   - CVE-2013-5908

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:1139
 #
 # Security announcement date: 2016-05-31 06:22:53 UTC
-# Script generation date:     2017-01-01 21:17:16 UTC
+# Script generation date:     2017-01-24 21:19:39 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - squid-sysvinit.x86_64:3.3.8-26.el7_2.3
 #
 # Last versions recommanded by security team:
-#   - squid.x86_64:3.5.20-2.el7
-#   - squid-debuginfo.x86_64:3.5.20-2.el7
-#   - squid-sysvinit.x86_64:3.5.20-2.el7
+#   - squid.x86_64:3.5.20-2.el7_3.2
+#   - squid-debuginfo.x86_64:3.5.20-2.el7_3.2
+#   - squid-sysvinit.x86_64:3.5.20-2.el7_3.2
 #
 # CVE List:
 #   - CVE-2016-4051

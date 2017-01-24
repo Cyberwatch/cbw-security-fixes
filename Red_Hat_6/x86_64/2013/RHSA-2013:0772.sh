@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:0772
 #
 # Security announcement date: 2013-04-25 17:46:00 UTC
-# Script generation date:     2017-01-01 21:14:37 UTC
+# Script generation date:     2017-01-24 21:17:29 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -26,20 +26,20 @@
 #   - mysql-test.x86_64:5.1.69-1.el6_4
 #
 # Last versions recommanded by security team:
-#   - mysql-debuginfo.i686:5.1.73-3.el6_5
-#   - mysql-libs.i686:5.1.73-3.el6_5
-#   - mysql.x86_64:5.1.73-3.el6_5
-#   - mysql-debuginfo.x86_64:5.1.73-3.el6_5
-#   - mysql-libs.x86_64:5.1.73-3.el6_5
-#   - mysql-server.x86_64:5.1.73-3.el6_5
-#   - mysql-devel.i686:5.1.73-3.el6_5
-#   - mysql-embedded.i686:5.1.73-3.el6_5
-#   - mysql-embedded-devel.i686:5.1.73-3.el6_5
-#   - mysql-bench.x86_64:5.1.73-3.el6_5
-#   - mysql-devel.x86_64:5.1.73-3.el6_5
-#   - mysql-embedded.x86_64:5.1.73-3.el6_5
-#   - mysql-embedded-devel.x86_64:5.1.73-3.el6_5
-#   - mysql-test.x86_64:5.1.73-3.el6_5
+#   - mysql-debuginfo.i686:5.1.73-8.el6_8
+#   - mysql-libs.i686:5.1.73-8.el6_8
+#   - mysql.x86_64:5.1.73-8.el6_8
+#   - mysql-debuginfo.x86_64:5.1.73-8.el6_8
+#   - mysql-libs.x86_64:5.1.73-8.el6_8
+#   - mysql-server.x86_64:5.1.73-8.el6_8
+#   - mysql-devel.i686:5.1.73-8.el6_8
+#   - mysql-embedded.i686:5.1.73-8.el6_8
+#   - mysql-embedded-devel.i686:5.1.73-8.el6_8
+#   - mysql-bench.x86_64:5.1.73-8.el6_8
+#   - mysql-devel.x86_64:5.1.73-8.el6_8
+#   - mysql-embedded.x86_64:5.1.73-8.el6_8
+#   - mysql-embedded-devel.x86_64:5.1.73-8.el6_8
+#   - mysql-test.x86_64:5.1.73-8.el6_8
 #
 # CVE List:
 #   - CVE-2012-5614
