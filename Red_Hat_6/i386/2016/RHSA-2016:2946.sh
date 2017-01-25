@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:2946
 #
 # Security announcement date: 2016-12-14 10:13:23 UTC
-# Script generation date:     2017-01-01 21:17:43 UTC
+# Script generation date:     2017-01-25 21:24:17 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: i386
@@ -14,8 +14,8 @@
 #   - firefox-debuginfo.i686:45.6.0-1.el6_8
 #
 # Last versions recommanded by security team:
-#   - firefox.i686:45.6.0-1.el6_8
-#   - firefox-debuginfo.i686:45.6.0-1.el6_8
+#   - firefox.i686:45.7.0-1.el6_8
+#   - firefox-debuginfo.i686:45.7.0-1.el6_8
 #
 # CVE List:
 #   - CVE-2016-9893
@@ -33,5 +33,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.i686-45.6.0 -y 
-sudo yum install firefox-debuginfo.i686-45.6.0 -y 
+sudo yum install firefox.i686-45.7.0 -y 
+sudo yum install firefox-debuginfo.i686-45.7.0 -y 
