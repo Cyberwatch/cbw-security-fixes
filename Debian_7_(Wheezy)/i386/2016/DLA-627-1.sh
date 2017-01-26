@@ -4,7 +4,7 @@
 # Security fix for DLA-627-1
 #
 # Security announcement date: 2016-09-18 00:00:00 UTC
-# Script generation date:     2017-01-01 21:09:19 UTC
+# Script generation date:     2017-01-26 21:15:48 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - pdns:3.1-4.1+deb7u2
 #
 # Last versions recommanded by security team:
-#   - pdns:3.1-4.1+deb7u2
+#   - pdns:3.1-4.1+deb7u3
 #
 # CVE List:
 #   - CVE-2016-5426
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade pdns=3.1-4.1+deb7u2 -y
+sudo apt-get install --only-upgrade pdns=3.1-4.1+deb7u3 -y
