@@ -4,7 +4,7 @@
 # Security fix for DSA-3674-1
 #
 # Security announcement date: 2016-09-22 00:00:00 UTC
-# Script generation date:     2017-01-01 21:08:14 UTC
+# Script generation date:     2017-01-26 21:12:19 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - firefox-esr:45.4.0esr-1~deb8u2
 #
 # Last versions recommanded by security team:
-#   - firefox-esr:45.6.0esr-1~deb8u1
+#   - firefox-esr:45.7.0esr-1~deb8u1
 #
 # CVE List:
 #   - CVE-2016-5250
@@ -33,4 +33,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox-esr=45.6.0esr-1~deb8u1 -y
+sudo apt-get install --only-upgrade firefox-esr=45.7.0esr-1~deb8u1 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3080-1
 #
 # Security announcement date: 2014-11-29 00:00:00 UTC
-# Script generation date:     2017-01-01 21:07:07 UTC
+# Script generation date:     2017-01-26 21:11:27 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - openjdk-7:7u71-2.5.3-2~deb7u1
 #
 # Last versions recommanded by security team:
-#   - openjdk-7:7u111-2.6.7-2~deb7u1
+#   - openjdk-7:7u121-2.6.8-1~deb7u1
 #
 # CVE List:
 #   - CVE-2014-6457
@@ -31,4 +31,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade openjdk-7=7u111-2.6.7-2~deb7u1 -y
+sudo apt-get install --only-upgrade openjdk-7=7u121-2.6.8-1~deb7u1 -y
