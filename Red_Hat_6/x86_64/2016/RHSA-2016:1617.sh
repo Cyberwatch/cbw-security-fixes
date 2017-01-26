@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:1617
 #
 # Security announcement date: 2016-08-16 11:35:25 UTC
-# Script generation date:     2017-01-17 21:20:44 UTC
+# Script generation date:     2017-01-26 21:24:34 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -24,18 +24,18 @@
 #   - python-perf.x86_64:2.6.32-220.67.1.el6
 #
 # Last versions recommanded by security team:
-#   - kernel.x86_64:2.6.32-431.77.1.el6
-#   - kernel-debug.x86_64:2.6.32-431.77.1.el6
-#   - kernel-debug-debuginfo.x86_64:2.6.32-431.77.1.el6
-#   - kernel-debug-devel.x86_64:2.6.32-431.77.1.el6
-#   - kernel-debuginfo.x86_64:2.6.32-431.77.1.el6
-#   - kernel-debuginfo-common-x86_64.x86_64:2.6.32-431.77.1.el6
-#   - kernel-devel.x86_64:2.6.32-431.77.1.el6
-#   - kernel-headers.x86_64:2.6.32-431.77.1.el6
-#   - perf.x86_64:2.6.32-431.77.1.el6
-#   - perf-debuginfo.x86_64:2.6.32-431.77.1.el6
-#   - python-perf-debuginfo.x86_64:2.6.32-431.77.1.el6
-#   - python-perf.x86_64:2.6.32-431.77.1.el6
+#   - kernel.x86_64:2.6.32-358.76.1.el6
+#   - kernel-debug.x86_64:2.6.32-358.76.1.el6
+#   - kernel-debug-debuginfo.x86_64:2.6.32-358.76.1.el6
+#   - kernel-debug-devel.x86_64:2.6.32-358.76.1.el6
+#   - kernel-debuginfo.x86_64:2.6.32-358.76.1.el6
+#   - kernel-debuginfo-common-x86_64.x86_64:2.6.32-358.76.1.el6
+#   - kernel-devel.x86_64:2.6.32-358.76.1.el6
+#   - kernel-headers.x86_64:2.6.32-358.76.1.el6
+#   - perf.x86_64:2.6.32-358.76.1.el6
+#   - perf-debuginfo.x86_64:2.6.32-358.76.1.el6
+#   - python-perf-debuginfo.x86_64:2.6.32-358.76.1.el6
+#   - python-perf.x86_64:2.6.32-358.76.1.el6
 #
 # CVE List:
 #   - CVE-2016-4565

@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:2055
 #
 # Security announcement date: 2016-10-12 17:19:53 UTC
-# Script generation date:     2017-01-01 21:17:28 UTC
+# Script generation date:     2017-01-26 21:24:39 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -40,12 +40,12 @@
 #   - httpd-devel.x86_64:2.2.26-54.ep6.el6
 #   - httpd-manual.x86_64:2.2.26-54.ep6.el6
 #   - httpd-tools.x86_64:2.2.26-54.ep6.el6
-#   - jbcs-httpd24-openssl.x86_64:1.0.2h-4.jbcs.el6
-#   - jbcs-httpd24-openssl-debuginfo.x86_64:1.0.2h-4.jbcs.el6
-#   - jbcs-httpd24-openssl-devel.x86_64:1.0.2h-4.jbcs.el6
-#   - jbcs-httpd24-openssl-libs.x86_64:1.0.2h-4.jbcs.el6
-#   - jbcs-httpd24-openssl-perl.x86_64:1.0.2h-4.jbcs.el6
-#   - jbcs-httpd24-openssl-static.x86_64:1.0.2h-4.jbcs.el6
+#   - jbcs-httpd24-openssl.x86_64:1.0.2h-12.jbcs.el6
+#   - jbcs-httpd24-openssl-debuginfo.x86_64:1.0.2h-12.jbcs.el6
+#   - jbcs-httpd24-openssl-devel.x86_64:1.0.2h-12.jbcs.el6
+#   - jbcs-httpd24-openssl-libs.x86_64:1.0.2h-12.jbcs.el6
+#   - jbcs-httpd24-openssl-perl.x86_64:1.0.2h-12.jbcs.el6
+#   - jbcs-httpd24-openssl-static.x86_64:1.0.2h-12.jbcs.el6
 #   - jbossas-hornetq-native.x86_64:2.3.25-4.SP11_redhat_1.ep6.el6
 #   - jbossas-jbossweb-native.x86_64:1.1.34-5.redhat_1.ep6.el6
 #   - mod_jk-ap22.x86_64:1.2.41-2.redhat_4.ep6.el6
