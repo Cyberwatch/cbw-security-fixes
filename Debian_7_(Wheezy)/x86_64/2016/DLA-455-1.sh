@@ -4,7 +4,7 @@
 # Security fix for DLA-455-1
 #
 # Security announcement date: 2016-05-03 00:00:00 UTC
-# Script generation date:     2017-01-13 21:10:48 UTC
+# Script generation date:     2017-01-27 21:16:14 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - asterisk:1:1.8.13.1~dfsg1-3+deb7u4
 #
 # Last versions recommanded by security team:
-#   - asterisk:1:1.8.13.1~dfsg1-3+deb7u5
+#   - asterisk:1:1.8.13.1~dfsg1-3+deb7u6
 #
 # CVE List:
 #   - CVE-2014-2286
@@ -27,4 +27,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade asterisk=1:1.8.13.1~dfsg1-3+deb7u5 -y
+sudo apt-get install --only-upgrade asterisk=1:1.8.13.1~dfsg1-3+deb7u6 -y
