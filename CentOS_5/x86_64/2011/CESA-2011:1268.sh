@@ -4,7 +4,7 @@
 # Security fix for CESA-2011:1268
 #
 # Security announcement date: 2011-09-07 00:56:01 UTC
-# Script generation date:     2017-01-01 21:10:14 UTC
+# Script generation date:     2017-01-27 21:18:20 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -22,8 +22,8 @@
 #   - xulrunner-devel.i386:17.0.10-1.el5_10
 #   - xulrunner.x86_64:17.0.10-1.el5_10
 #   - xulrunner-devel.x86_64:17.0.10-1.el5_10
-#   - firefox.i386:45.6.0-1.el5.centos
-#   - firefox.x86_64:45.6.0-1.el5.centos
+#   - firefox.i386:45.7.0-1.el5.centos
+#   - firefox.x86_64:45.7.0-1.el5.centos
 #
 # CVE List:
 #
@@ -35,5 +35,5 @@ sudo yum install xulrunner.i386-17.0.10 -y
 sudo yum install xulrunner-devel.i386-17.0.10 -y 
 sudo yum install xulrunner.x86_64-17.0.10 -y 
 sudo yum install xulrunner-devel.x86_64-17.0.10 -y 
-sudo yum install firefox.i386-45.6.0 -y 
-sudo yum install firefox.x86_64-45.6.0 -y 
+sudo yum install firefox.i386-45.7.0 -y 
+sudo yum install firefox.x86_64-45.7.0 -y 

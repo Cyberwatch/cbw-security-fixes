@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:2843
 #
 # Security announcement date: 2016-12-03 15:22:05 UTC
-# Script generation date:     2017-01-01 21:12:01 UTC
+# Script generation date:     2017-01-27 21:19:57 UTC
 #
 # Operating System: CentOS 5
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - firefox.i386:45.5.1-1.el5.centos
 #
 # Last versions recommanded by security team:
-#   - firefox.i386:45.6.0-1.el5.centos
+#   - firefox.i386:45.7.0-1.el5.centos
 #
 # CVE List:
 #   - CVE-2016-9079
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.i386-45.6.0 -y 
+sudo yum install firefox.i386-45.7.0 -y 

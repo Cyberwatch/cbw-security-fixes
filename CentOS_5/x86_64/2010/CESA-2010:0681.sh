@@ -4,7 +4,7 @@
 # Security fix for CESA-2010:0681
 #
 # Security announcement date: 2010-09-12 16:19:24 UTC
-# Script generation date:     2017-01-01 21:10:08 UTC
+# Script generation date:     2017-01-27 21:18:14 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -29,7 +29,7 @@
 #   - xulrunner-devel.x86_64:1.9.2.9-1.el5
 #
 # Last versions recommanded by security team:
-#   - firefox.i386:45.6.0-1.el5.centos
+#   - firefox.i386:45.7.0-1.el5.centos
 #   - nspr.i386:4.11.0-1.el5_11
 #   - nspr-devel.i386:4.11.0-1.el5_11
 #   - nss.i386:3.21.3-2.el5_11
@@ -37,7 +37,7 @@
 #   - nss-pkcs11-devel.i386:3.21.3-2.el5_11
 #   - xulrunner.i386:17.0.10-1.el5_10
 #   - xulrunner-devel.i386:17.0.10-1.el5_10
-#   - firefox.x86_64:45.6.0-1.el5.centos
+#   - firefox.x86_64:45.7.0-1.el5.centos
 #   - nspr.x86_64:4.11.0-1.el5_11
 #   - nspr-devel.x86_64:4.11.0-1.el5_11
 #   - nss.x86_64:3.21.3-2.el5_11
@@ -65,7 +65,7 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install firefox.i386-45.6.0 -y 
+sudo yum install firefox.i386-45.7.0 -y 
 sudo yum install nspr.i386-4.11.0 -y 
 sudo yum install nspr-devel.i386-4.11.0 -y 
 sudo yum install nss.i386-3.21.3 -y 
@@ -73,7 +73,7 @@ sudo yum install nss-devel.i386-3.21.3 -y
 sudo yum install nss-pkcs11-devel.i386-3.21.3 -y 
 sudo yum install xulrunner.i386-17.0.10 -y 
 sudo yum install xulrunner-devel.i386-17.0.10 -y 
-sudo yum install firefox.x86_64-45.6.0 -y 
+sudo yum install firefox.x86_64-45.7.0 -y 
 sudo yum install nspr.x86_64-4.11.0 -y 
 sudo yum install nspr-devel.x86_64-4.11.0 -y 
 sudo yum install nss.x86_64-3.21.3 -y 
