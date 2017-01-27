@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:1580
 #
 # Security announcement date: 2016-08-09 05:12:11 UTC
-# Script generation date:     2017-01-01 21:17:21 UTC
+# Script generation date:     2017-01-27 21:24:59 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - chromium-browser-debuginfo.x86_64:52.0.2743.116-1.el6
 #
 # Last versions recommanded by security team:
-#   - chromium-browser.x86_64:55.0.2883.75-1.el6
-#   - chromium-browser-debuginfo.x86_64:55.0.2883.75-1.el6
+#   - chromium-browser.x86_64:56.0.2924.76-1.el6
+#   - chromium-browser-debuginfo.x86_64:56.0.2924.76-1.el6
 #
 # CVE List:
 #   - CVE-2016-5139
@@ -31,5 +31,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install chromium-browser.x86_64-55.0.2883.75 -y 
-sudo yum install chromium-browser-debuginfo.x86_64-55.0.2883.75 -y 
+sudo yum install chromium-browser.x86_64-56.0.2924.76 -y 
+sudo yum install chromium-browser-debuginfo.x86_64-56.0.2924.76 -y 
