@@ -4,7 +4,7 @@
 # Security fix for USN-2917-2
 #
 # Security announcement date: 2016-04-07 00:00:00 UTC
-# Script generation date:     2017-01-01 21:05:20 UTC
+# Script generation date:     2017-01-27 21:06:33 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - firefox:45.0.1+build1-0ubuntu0.12.04.2
 #
 # Last versions recommanded by security team:
-#   - firefox:50.1.0+build2-0ubuntu0.12.04.1
+#   - firefox:51.0.1+build2-0ubuntu0.12.04.1
 #
 # CVE List:
 #   - CVE-2016-1950
@@ -55,4 +55,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=50.1.0+build2-0ubuntu0.12.04.1 -y
+sudo apt-get install --only-upgrade firefox=51.0.1+build2-0ubuntu0.12.04.1 -y
