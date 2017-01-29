@@ -4,7 +4,7 @@
 # Security fix for DSA-3162-1
 #
 # Security announcement date: 2015-02-18 00:00:00 UTC
-# Script generation date:     2017-01-01 21:07:14 UTC
+# Script generation date:     2017-01-29 21:05:48 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - bind9:1:9.8.4.dfsg.P1-6+nmu2+deb7u4
 #
 # Last versions recommanded by security team:
-#   - bind9:1:9.8.4.dfsg.P1-6+nmu2+deb7u13
+#   - bind9:1:9.8.4.dfsg.P1-6+nmu2+deb7u14
 #
 # CVE List:
 #   - CVE-2015-1349
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade bind9=1:9.8.4.dfsg.P1-6+nmu2+deb7u13 -y
+sudo apt-get install --only-upgrade bind9=1:9.8.4.dfsg.P1-6+nmu2+deb7u14 -y

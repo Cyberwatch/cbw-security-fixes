@@ -4,7 +4,7 @@
 # Security fix for DSA-3511-1
 #
 # Security announcement date: 2016-03-09 00:00:00 UTC
-# Script generation date:     2017-01-01 21:07:53 UTC
+# Script generation date:     2017-01-29 21:06:32 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - bind9:1:9.8.4.dfsg.P1-6+nmu2+deb7u10
 #
 # Last versions recommanded by security team:
-#   - bind9:1:9.8.4.dfsg.P1-6+nmu2+deb7u13
+#   - bind9:1:9.8.4.dfsg.P1-6+nmu2+deb7u14
 #
 # CVE List:
 #   - CVE-2016-1285
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade bind9=1:9.8.4.dfsg.P1-6+nmu2+deb7u13 -y
+sudo apt-get install --only-upgrade bind9=1:9.8.4.dfsg.P1-6+nmu2+deb7u14 -y
