@@ -4,7 +4,7 @@
 # Security fix for DLA-665-1
 #
 # Security announcement date: 2016-10-18 00:00:00 UTC
-# Script generation date:     2017-01-01 21:09:22 UTC
+# Script generation date:     2017-01-29 21:10:20 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libgd2:2.0.36~rc1~dfsg-6.1+deb7u6
 #
 # Last versions recommanded by security team:
-#   - libgd2:2.0.36~rc1~dfsg-6.1+deb7u7
+#   - libgd2:2.0.36~rc1~dfsg-6.1+deb7u8
 #
 # CVE List:
 #   - CVE-2016-6911
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgd2=2.0.36~rc1~dfsg-6.1+deb7u7 -y
+sudo apt-get install --only-upgrade libgd2=2.0.36~rc1~dfsg-6.1+deb7u8 -y

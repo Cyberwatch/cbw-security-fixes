@@ -1,25 +1,24 @@
 #!/bin/sh
 # CYBERWATCH SAS - 2017
 #
-# Security fix for DLA-696-1
+# Security fix for DLA-781-2
 #
-# Security announcement date: 2016-11-02 00:00:00 UTC
-# Script generation date:     2017-01-29 21:10:23 UTC
+# Security announcement date: 2017-01-27 00:00:00 UTC
+# Script generation date:     2017-01-29 21:10:28 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
 #
 # Vulnerable packages fix on version:
-#   - bind9:1:9.8.4.dfsg.P1-6+nmu2+deb7u13
+#   - asterisk:1:1.8.13.1~dfsg1-3+deb7u6
 #
 # Last versions recommanded by security team:
-#   - bind9:1:9.8.4.dfsg.P1-6+nmu2+deb7u14
+#   - asterisk:1:1.8.13.1~dfsg1-3+deb7u6
 #
 # CVE List:
-#   - CVE-2016-8864
 #
 # More details:
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade bind9=1:9.8.4.dfsg.P1-6+nmu2+deb7u14 -y
+sudo apt-get install --only-upgrade asterisk=1:1.8.13.1~dfsg1-3+deb7u6 -y
