@@ -4,7 +4,7 @@
 # Security fix for DLA-610-1
 #
 # Security announcement date: 2016-09-04 00:00:00 UTC
-# Script generation date:     2017-01-01 21:09:18 UTC
+# Script generation date:     2017-01-30 21:09:32 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - tiff3:3.9.6-11+deb7u1
 #
 # Last versions recommanded by security team:
-#   - tiff3:3.9.6-11+deb7u2
+#   - tiff3:3.9.6-11+deb7u3
 #
 # CVE List:
 #   - CVE-2016-6223
@@ -44,4 +44,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tiff3=3.9.6-11+deb7u2 -y
+sudo apt-get install --only-upgrade tiff3=3.9.6-11+deb7u3 -y

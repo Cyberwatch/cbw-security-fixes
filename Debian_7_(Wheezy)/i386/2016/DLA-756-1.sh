@@ -4,7 +4,7 @@
 # Security fix for DLA-756-1
 #
 # Security announcement date: 2016-12-21 00:00:00 UTC
-# Script generation date:     2017-01-19 21:18:35 UTC
+# Script generation date:     2017-01-30 21:09:41 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - imagemagick:8:6.7.7.10-5+deb7u10
 #
 # Last versions recommanded by security team:
-#   - imagemagick:8:6.7.7.10-5+deb7u10
+#   - imagemagick:8:6.7.7.10-5+deb7u11
 #
 # CVE List:
 #   - CVE-2016-7799
@@ -40,4 +40,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade imagemagick=8:6.7.7.10-5+deb7u10 -y
+sudo apt-get install --only-upgrade imagemagick=8:6.7.7.10-5+deb7u11 -y
