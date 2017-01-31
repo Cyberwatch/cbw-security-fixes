@@ -4,7 +4,7 @@
 # Security fix for USN-2830-1
 #
 # Security announcement date: 2015-12-07 00:00:00 UTC
-# Script generation date:     2017-01-01 21:05:00 UTC
+# Script generation date:     2017-01-31 21:08:01 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libssl1.0.0:1.0.1f-1ubuntu2.16
 #
 # Last versions recommanded by security team:
-#   - libssl1.0.0:1.0.1f-1ubuntu2.21
+#   - libssl1.0.0:1.0.1f-1ubuntu2.22
 #
 # CVE List:
 #   - CVE-2015-1794
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libssl1.0.0=1.0.1f-1ubuntu2.21 -y
+sudo apt-get install --only-upgrade libssl1.0.0=1.0.1f-1ubuntu2.22 -y
