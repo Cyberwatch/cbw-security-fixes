@@ -4,7 +4,7 @@
 # Security fix for RHSA-2014:0222
 #
 # Security announcement date: 2014-02-27 18:41:46 UTC
-# Script generation date:     2017-01-01 21:15:11 UTC
+# Script generation date:     2017-02-01 21:18:24 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - libtiff-static.x86_64:3.9.4-10.el6_5
 #
 # Last versions recommanded by security team:
-#   - libtiff.i686:3.9.4-18.el6_8
-#   - libtiff-debuginfo.i686:3.9.4-18.el6_8
-#   - libtiff.x86_64:3.9.4-18.el6_8
-#   - libtiff-debuginfo.x86_64:3.9.4-18.el6_8
-#   - libtiff-devel.i686:3.9.4-18.el6_8
-#   - libtiff-devel.x86_64:3.9.4-18.el6_8
-#   - libtiff-static.x86_64:3.9.4-18.el6_8
+#   - libtiff.i686:3.9.4-21.el6_8
+#   - libtiff-debuginfo.i686:3.9.4-21.el6_8
+#   - libtiff.x86_64:3.9.4-21.el6_8
+#   - libtiff-debuginfo.x86_64:3.9.4-21.el6_8
+#   - libtiff-devel.i686:3.9.4-21.el6_8
+#   - libtiff-devel.x86_64:3.9.4-21.el6_8
+#   - libtiff-static.x86_64:3.9.4-21.el6_8
 #
 # CVE List:
 #   - CVE-2010-2596
