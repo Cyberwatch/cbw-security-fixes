@@ -4,7 +4,7 @@
 # Security fix for USN-1843-1
 #
 # Security announcement date: 2013-05-29 00:00:00 UTC
-# Script generation date:     2017-01-01 21:03:17 UTC
+# Script generation date:     2017-02-01 21:01:50 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libgnutls26:2.12.14-5ubuntu3.4
 #
 # Last versions recommanded by security team:
-#   - libgnutls26:2.12.14-5ubuntu3.12
+#   - libgnutls26:2.12.14-5ubuntu3.13
 #
 # CVE List:
 #   - CVE-2013-2116
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libgnutls26=2.12.14-5ubuntu3.12 -y
+sudo apt-get install --only-upgrade libgnutls26=2.12.14-5ubuntu3.13 -y
