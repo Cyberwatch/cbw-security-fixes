@@ -4,7 +4,7 @@
 # Security fix for DSA-3639-1
 #
 # Security announcement date: 2016-08-03 00:00:00 UTC
-# Script generation date:     2017-01-01 21:08:10 UTC
+# Script generation date:     2017-02-01 21:09:18 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - wordpress:4.1+dfsg-1+deb8u9
 #
 # Last versions recommanded by security team:
-#   - wordpress:4.1+dfsg-1+deb8u11
+#   - wordpress:4.1+dfsg-1+deb8u12
 #
 # CVE List:
 #   - CVE-2015-8834
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wordpress=4.1+dfsg-1+deb8u11 -y
+sudo apt-get install --only-upgrade wordpress=4.1+dfsg-1+deb8u12 -y

@@ -4,7 +4,7 @@
 # Security fix for DSA-3410-1
 #
 # Security announcement date: 2015-12-01 00:00:00 UTC
-# Script generation date:     2017-01-27 21:12:08 UTC
+# Script generation date:     2017-02-01 21:09:00 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - icedove:38.4.0-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - icedove:45.6.0-2~deb7u1
+#   - icedove:1:45.6.0-2~deb7u1
 #
 # CVE List:
 #   - CVE-2015-4473
@@ -36,4 +36,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedove=45.6.0-2~deb7u1 -y
+sudo apt-get install --only-upgrade icedove=1:45.6.0-2~deb7u1 -y

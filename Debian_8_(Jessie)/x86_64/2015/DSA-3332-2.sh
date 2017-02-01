@@ -4,7 +4,7 @@
 # Security fix for DSA-3332-2
 #
 # Security announcement date: 2015-10-29 00:00:00 UTC
-# Script generation date:     2017-01-01 21:07:35 UTC
+# Script generation date:     2017-02-01 21:08:56 UTC
 #
 # Operating System: Debian 8 (Jessie)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - wordpress:4.1+dfsg-1+deb8u6
 #
 # Last versions recommanded by security team:
-#   - wordpress:4.1+dfsg-1+deb8u11
+#   - wordpress:4.1+dfsg-1+deb8u12
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wordpress=4.1+dfsg-1+deb8u11 -y
+sudo apt-get install --only-upgrade wordpress=4.1+dfsg-1+deb8u12 -y
