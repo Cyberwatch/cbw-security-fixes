@@ -4,7 +4,7 @@
 # Security fix for DLA-633-1
 #
 # Security announcement date: 2016-09-22 00:00:00 UTC
-# Script generation date:     2017-01-01 21:09:20 UTC
+# Script generation date:     2017-02-01 21:12:38 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - wordpress:3.6.1+dfsg-1~deb7u12
 #
 # Last versions recommanded by security team:
-#   - wordpress:3.6.1+dfsg-1~deb7u12
+#   - wordpress:3.6.1+dfsg-1~deb7u13
 #
 # CVE List:
 #   - CVE-2015-8834
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb7u12 -y
+sudo apt-get install --only-upgrade wordpress=3.6.1+dfsg-1~deb7u13 -y
