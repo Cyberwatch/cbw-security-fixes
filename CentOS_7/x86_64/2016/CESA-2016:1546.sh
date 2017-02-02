@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:1546
 #
 # Security announcement date: 2016-08-02 21:57:58 UTC
-# Script generation date:     2017-01-01 21:11:51 UTC
+# Script generation date:     2017-02-02 21:17:50 UTC
 #
 # Operating System: CentOS 7
 # Architecture: x86_64
@@ -19,13 +19,13 @@
 #   - libtiff-tools.x86_64:4.0.3-25.el7_2
 #
 # Last versions recommanded by security team:
-#   - libtiff.i686:4.0.3-25.el7_2
-#   - libtiff.x86_64:4.0.3-25.el7_2
-#   - libtiff-devel.i686:4.0.3-25.el7_2
-#   - libtiff-devel.x86_64:4.0.3-25.el7_2
-#   - libtiff-static.i686:4.0.3-25.el7_2
-#   - libtiff-static.x86_64:4.0.3-25.el7_2
-#   - libtiff-tools.x86_64:4.0.3-25.el7_2
+#   - libtiff.i686:4.0.3-27.el7_3
+#   - libtiff.x86_64:4.0.3-27.el7_3
+#   - libtiff-devel.i686:4.0.3-27.el7_3
+#   - libtiff-devel.x86_64:4.0.3-27.el7_3
+#   - libtiff-static.i686:4.0.3-27.el7_3
+#   - libtiff-static.x86_64:4.0.3-27.el7_3
+#   - libtiff-tools.x86_64:4.0.3-27.el7_3
 #
 # CVE List:
 #   - CVE-2014-8127

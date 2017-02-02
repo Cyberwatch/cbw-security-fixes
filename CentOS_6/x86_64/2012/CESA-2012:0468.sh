@@ -4,7 +4,7 @@
 # Security fix for CESA-2012:0468
 #
 # Security announcement date: 2012-04-10 23:58:23 UTC
-# Script generation date:     2017-01-01 21:10:21 UTC
+# Script generation date:     2017-02-02 21:16:25 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - libtiff-static.x86_64:3.9.4-5.el6_2
 #
 # Last versions recommanded by security team:
-#   - libtiff.i686:3.9.4-18.el6_8
-#   - libtiff-devel.i686:3.9.4-18.el6_8
-#   - libtiff.x86_64:3.9.4-18.el6_8
-#   - libtiff-devel.x86_64:3.9.4-18.el6_8
-#   - libtiff-static.x86_64:3.9.4-18.el6_8
+#   - libtiff.i686:3.9.4-21.el6_8
+#   - libtiff-devel.i686:3.9.4-21.el6_8
+#   - libtiff.x86_64:3.9.4-21.el6_8
+#   - libtiff-devel.x86_64:3.9.4-21.el6_8
+#   - libtiff-static.x86_64:3.9.4-21.el6_8
 #
 # CVE List:
 #   - CVE-2012-1173
