@@ -4,7 +4,7 @@
 # Security fix for USN-3177-1
 #
 # Security announcement date: 2017-01-23 00:00:00 UTC
-# Script generation date:     2017-01-25 21:06:47 UTC
+# Script generation date:     2017-02-02 21:04:37 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - libtomcat7-java:7.0.52-1ubuntu0.8
 #
 # Last versions recommanded by security team:
-#   - tomcat7:7.0.52-1ubuntu0.8
-#   - libtomcat7-java:7.0.52-1ubuntu0.8
+#   - tomcat7:7.0.52-1ubuntu0.9
+#   - libtomcat7-java:7.0.52-1ubuntu0.9
 #
 # CVE List:
 #   - CVE-2016-0762
@@ -34,5 +34,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tomcat7=7.0.52-1ubuntu0.8 -y
-sudo apt-get install --only-upgrade libtomcat7-java=7.0.52-1ubuntu0.8 -y
+sudo apt-get install --only-upgrade tomcat7=7.0.52-1ubuntu0.9 -y
+sudo apt-get install --only-upgrade libtomcat7-java=7.0.52-1ubuntu0.9 -y

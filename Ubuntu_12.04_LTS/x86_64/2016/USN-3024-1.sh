@@ -4,7 +4,7 @@
 # Security fix for USN-3024-1
 #
 # Security announcement date: 2016-07-05 00:00:00 UTC
-# Script generation date:     2017-01-23 21:04:05 UTC
+# Script generation date:     2017-02-02 21:04:06 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - libtomcat6-java:6.0.35-1ubuntu3.7
 #
 # Last versions recommanded by security team:
-#   - libtomcat6-java:6.0.35-1ubuntu3.9
+#   - libtomcat6-java:6.0.35-1ubuntu3.10
 #
 # CVE List:
 #   - CVE-2015-5174
@@ -29,4 +29,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libtomcat6-java=6.0.35-1ubuntu3.9 -y
+sudo apt-get install --only-upgrade libtomcat6-java=6.0.35-1ubuntu3.10 -y

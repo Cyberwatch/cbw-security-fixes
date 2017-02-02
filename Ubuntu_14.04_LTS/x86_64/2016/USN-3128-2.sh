@@ -4,7 +4,7 @@
 # Security fix for USN-3128-2
 #
 # Security announcement date: 2016-11-11 00:00:00 UTC
-# Script generation date:     2017-01-10 21:06:05 UTC
+# Script generation date:     2017-02-02 21:04:18 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -33,8 +33,8 @@
 #   - linux-image-4.4.0-47-powerpc64-smp:4.4.0-47.68~14.04.1
 #   - linux-image-generic-lpae-lts-xenial:4.4.0.47.34
 #   - linux-image-4.4.0-47-powerpc-smp:4.4.0-47.68~14.04.1
-#   - linux-image-lowlatency-lts-xenial:4.4.0.59.46
-#   - linux-image-generic-lts-xenial:4.4.0.59.46
+#   - linux-image-lowlatency-lts-xenial:4.4.0.62.48
+#   - linux-image-generic-lts-xenial:4.4.0.62.48
 #   - linux-image-4.4.0-47-generic-lpae:4.4.0-47.68~14.04.1
 #   - linux-image-powerpc64-smp-lts-xenial:4.4.0.47.34
 #   - linux-image-powerpc64-emb-lts-xenial:4.4.0.47.34
@@ -55,8 +55,8 @@ sudo apt-get install --only-upgrade linux-image-4.4.0-47-generic=4.4.0-47.68~14.
 sudo apt-get install --only-upgrade linux-image-4.4.0-47-powerpc64-smp=4.4.0-47.68~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-generic-lpae-lts-xenial=4.4.0.47.34 -y
 sudo apt-get install --only-upgrade linux-image-4.4.0-47-powerpc-smp=4.4.0-47.68~14.04.1 -y
-sudo apt-get install --only-upgrade linux-image-lowlatency-lts-xenial=4.4.0.59.46 -y
-sudo apt-get install --only-upgrade linux-image-generic-lts-xenial=4.4.0.59.46 -y
+sudo apt-get install --only-upgrade linux-image-lowlatency-lts-xenial=4.4.0.62.48 -y
+sudo apt-get install --only-upgrade linux-image-generic-lts-xenial=4.4.0.62.48 -y
 sudo apt-get install --only-upgrade linux-image-4.4.0-47-generic-lpae=4.4.0-47.68~14.04.1 -y
 sudo apt-get install --only-upgrade linux-image-powerpc64-smp-lts-xenial=4.4.0.47.34 -y
 sudo apt-get install --only-upgrade linux-image-powerpc64-emb-lts-xenial=4.4.0.47.34 -y

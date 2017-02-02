@@ -4,7 +4,7 @@
 # Security fix for USN-2516-2
 #
 # Security announcement date: 2015-02-28 00:00:00 UTC
-# Script generation date:     2017-01-10 21:04:39 UTC
+# Script generation date:     2017-02-02 21:02:53 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -297,7 +297,7 @@
 #   - linux-tools-3.13.0-46:3.13.0-46.79
 #   - linux-source-3.13.0:3.13.0-98.145
 #   - linux-doc:3.13.0-98.145
-#   - linux-libc-dev:3.13.0-107.154
+#   - linux-libc-dev:3.13.0-108.155
 #   - linux-tools-common:3.13.0-98.145
 #   - linux-cloud-tools-common:3.13.0-98.145
 #   - linux-udebs-generic:3.13.0-46.76
@@ -366,7 +366,7 @@
 #   - linux-image-3.13.0-46-powerpc64-emb:3.13.0-46.76
 #   - ppp-modules-3.13.0-46-powerpc64-smp-di:3.13.0-46.76
 #   - serial-modules-3.13.0-46-powerpc-smp-di:3.13.0-46.76
-#   - linux-libc-dev:3.13.0-107.154
+#   - linux-libc-dev:3.13.0-108.155
 #   - linux-headers-3.13.0-46-generic-lpae:3.13.0-46.76
 #   - virtio-modules-3.13.0-46-generic-di:3.13.0-46.76
 #   - linux-udebs-lowlatency:3.13.0-46.76
@@ -586,7 +586,7 @@ sudo apt-get install --only-upgrade linux-headers-3.13.0-46-powerpc64-emb=3.13.0
 sudo apt-get install --only-upgrade linux-tools-3.13.0-46=3.13.0-46.79 -y
 sudo apt-get install --only-upgrade linux-source-3.13.0=3.13.0-98.145 -y
 sudo apt-get install --only-upgrade linux-doc=3.13.0-98.145 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-107.154 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-108.155 -y
 sudo apt-get install --only-upgrade linux-tools-common=3.13.0-98.145 -y
 sudo apt-get install --only-upgrade linux-cloud-tools-common=3.13.0-98.145 -y
 sudo apt-get install --only-upgrade linux-udebs-generic=3.13.0-46.76 -y
@@ -655,7 +655,7 @@ sudo apt-get install --only-upgrade kernel-image-3.13.0-46-powerpc-e500-di=3.13.
 sudo apt-get install --only-upgrade linux-image-3.13.0-46-powerpc64-emb=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade ppp-modules-3.13.0-46-powerpc64-smp-di=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade serial-modules-3.13.0-46-powerpc-smp-di=3.13.0-46.76 -y
-sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-107.154 -y
+sudo apt-get install --only-upgrade linux-libc-dev=3.13.0-108.155 -y
 sudo apt-get install --only-upgrade linux-headers-3.13.0-46-generic-lpae=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade virtio-modules-3.13.0-46-generic-di=3.13.0-46.76 -y
 sudo apt-get install --only-upgrade linux-udebs-lowlatency=3.13.0-46.76 -y

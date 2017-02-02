@@ -4,7 +4,7 @@
 # Security fix for USN-3177-1
 #
 # Security announcement date: 2017-01-23 00:00:00 UTC
-# Script generation date:     2017-01-25 21:06:47 UTC
+# Script generation date:     2017-02-02 21:04:37 UTC
 #
 # Operating System: Ubuntu 12.04 LTS
 # Architecture: x86_64
@@ -20,14 +20,14 @@
 #   - tomcat6-docs:6.0.35-1ubuntu3.9
 #
 # Last versions recommanded by security team:
-#   - libtomcat6-java:6.0.35-1ubuntu3.9
-#   - tomcat6-common:6.0.35-1ubuntu3.9
-#   - tomcat6:6.0.35-1ubuntu3.9
-#   - libservlet2.5-java:6.0.35-1ubuntu3.9
-#   - libservlet2.5-java-doc:6.0.35-1ubuntu3.9
-#   - tomcat6-admin:6.0.35-1ubuntu3.9
-#   - tomcat6-examples:6.0.35-1ubuntu3.9
-#   - tomcat6-docs:6.0.35-1ubuntu3.9
+#   - libtomcat6-java:6.0.35-1ubuntu3.10
+#   - tomcat6-common:6.0.35-1ubuntu3.10
+#   - tomcat6:6.0.35-1ubuntu3.10
+#   - libservlet2.5-java:6.0.35-1ubuntu3.10
+#   - libservlet2.5-java-doc:6.0.35-1ubuntu3.10
+#   - tomcat6-admin:6.0.35-1ubuntu3.10
+#   - tomcat6-examples:6.0.35-1ubuntu3.10
+#   - tomcat6-docs:6.0.35-1ubuntu3.10
 #
 # CVE List:
 #   - CVE-2016-0762
@@ -46,11 +46,11 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade libtomcat6-java=6.0.35-1ubuntu3.9 -y
-sudo apt-get install --only-upgrade tomcat6-common=6.0.35-1ubuntu3.9 -y
-sudo apt-get install --only-upgrade tomcat6=6.0.35-1ubuntu3.9 -y
-sudo apt-get install --only-upgrade libservlet2.5-java=6.0.35-1ubuntu3.9 -y
-sudo apt-get install --only-upgrade libservlet2.5-java-doc=6.0.35-1ubuntu3.9 -y
-sudo apt-get install --only-upgrade tomcat6-admin=6.0.35-1ubuntu3.9 -y
-sudo apt-get install --only-upgrade tomcat6-examples=6.0.35-1ubuntu3.9 -y
-sudo apt-get install --only-upgrade tomcat6-docs=6.0.35-1ubuntu3.9 -y
+sudo apt-get install --only-upgrade libtomcat6-java=6.0.35-1ubuntu3.10 -y
+sudo apt-get install --only-upgrade tomcat6-common=6.0.35-1ubuntu3.10 -y
+sudo apt-get install --only-upgrade tomcat6=6.0.35-1ubuntu3.10 -y
+sudo apt-get install --only-upgrade libservlet2.5-java=6.0.35-1ubuntu3.10 -y
+sudo apt-get install --only-upgrade libservlet2.5-java-doc=6.0.35-1ubuntu3.10 -y
+sudo apt-get install --only-upgrade tomcat6-admin=6.0.35-1ubuntu3.10 -y
+sudo apt-get install --only-upgrade tomcat6-examples=6.0.35-1ubuntu3.10 -y
+sudo apt-get install --only-upgrade tomcat6-docs=6.0.35-1ubuntu3.10 -y
