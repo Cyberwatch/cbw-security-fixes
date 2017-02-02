@@ -4,7 +4,7 @@
 # Security fix for DSA-3268-1
 #
 # Security announcement date: 2015-05-22 00:00:00 UTC
-# Script generation date:     2017-01-01 21:07:24 UTC
+# Script generation date:     2017-02-02 21:09:50 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - ntfs-3g:1:2012.1.15AR.5-2.1+deb7u1
 #
 # Last versions recommanded by security team:
-#   - ntfs-3g:1:2012.1.15AR.5-2.1+deb7u2
+#   - ntfs-3g:1:2012.1.15AR.5-2.1+deb7u3
 #
 # CVE List:
 #   - CVE-2015-3202
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade ntfs-3g=1:2012.1.15AR.5-2.1+deb7u2 -y
+sudo apt-get install --only-upgrade ntfs-3g=1:2012.1.15AR.5-2.1+deb7u3 -y
