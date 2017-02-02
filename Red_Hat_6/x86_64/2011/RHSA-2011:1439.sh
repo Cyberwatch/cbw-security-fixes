@@ -4,7 +4,7 @@
 # Security fix for RHSA-2011:1439
 #
 # Security announcement date: 2011-11-08 22:09:26 UTC
-# Script generation date:     2017-01-01 21:13:30 UTC
+# Script generation date:     2017-02-02 21:20:50 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - thunderbird-debuginfo.x86_64:3.1.16-2.el6_1
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:45.6.0-1.el6_8
-#   - thunderbird-debuginfo.x86_64:45.6.0-1.el6_8
+#   - thunderbird.x86_64:45.7.0-1.el6_8
+#   - thunderbird-debuginfo.x86_64:45.7.0-1.el6_8
 #
 # CVE List:
 #   - CVE-2011-3647
@@ -26,5 +26,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.x86_64-45.6.0 -y 
-sudo yum install thunderbird-debuginfo.x86_64-45.6.0 -y 
+sudo yum install thunderbird.x86_64-45.7.0 -y 
+sudo yum install thunderbird-debuginfo.x86_64-45.7.0 -y 

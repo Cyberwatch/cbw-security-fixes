@@ -4,7 +4,7 @@
 # Security fix for RHSA-2010:0545
 #
 # Security announcement date: 2010-07-21 01:45:27 UTC
-# Script generation date:     2017-01-01 21:12:47 UTC
+# Script generation date:     2017-02-02 21:20:16 UTC
 #
 # Operating System: Red Hat 5
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - thunderbird-debuginfo.x86_64:2.0.0.24-6.el5
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:45.6.0-1.el5_11
-#   - thunderbird-debuginfo.x86_64:45.6.0-1.el5_11
+#   - thunderbird.x86_64:45.7.0-1.el5_11
+#   - thunderbird-debuginfo.x86_64:45.7.0-1.el5_11
 #
 # CVE List:
 #   - CVE-2010-0174
@@ -36,5 +36,5 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.x86_64-45.6.0 -y 
-sudo yum install thunderbird-debuginfo.x86_64-45.6.0 -y 
+sudo yum install thunderbird.x86_64-45.7.0 -y 
+sudo yum install thunderbird-debuginfo.x86_64-45.7.0 -y 
