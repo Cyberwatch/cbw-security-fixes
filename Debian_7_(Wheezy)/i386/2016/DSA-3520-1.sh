@@ -4,7 +4,7 @@
 # Security fix for DSA-3520-1
 #
 # Security announcement date: 2016-03-18 00:00:00 UTC
-# Script generation date:     2017-01-31 21:14:20 UTC
+# Script generation date:     2017-02-03 21:06:28 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - icedove:38.7.0-1~deb7u1
 #
 # Last versions recommanded by security team:
-#   - icedove:1:45.6.0-2~deb7u1
+#   - icedove:45.6.0-2~deb7u1
 #
 # CVE List:
 #   - CVE-2016-1950
@@ -44,4 +44,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedove=1:45.6.0-2~deb7u1 -y
+sudo apt-get install --only-upgrade icedove=45.6.0-2~deb7u1 -y
