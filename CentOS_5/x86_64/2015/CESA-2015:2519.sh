@@ -4,7 +4,7 @@
 # Security fix for CESA-2015:2519
 #
 # Security announcement date: 2015-12-01 22:25:00 UTC
-# Script generation date:     2017-01-01 21:11:41 UTC
+# Script generation date:     2017-02-03 21:13:37 UTC
 #
 # Operating System: CentOS 5
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - thunderbird.x86_64:38.4.0-1.el5.centos
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:45.6.0-1.el5.centos
+#   - thunderbird.x86_64:45.7.0-1.el5.centos
 #
 # CVE List:
 #   - CVE-2015-4513
@@ -28,4 +28,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.x86_64-45.6.0 -y 
+sudo yum install thunderbird.x86_64-45.7.0 -y 

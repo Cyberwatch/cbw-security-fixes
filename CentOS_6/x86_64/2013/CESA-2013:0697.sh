@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:0697
 #
 # Security announcement date: 2013-04-03 10:58:05 UTC
-# Script generation date:     2017-01-01 21:10:44 UTC
+# Script generation date:     2017-02-03 21:12:44 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - thunderbird.x86_64:17.0.5-1.el6.centos
 #
 # Last versions recommanded by security team:
-#   - thunderbird.x86_64:45.6.0-1.el6.centos
+#   - thunderbird.x86_64:45.7.0-1.el6.centos
 #
 # CVE List:
 #   - CVE-2013-0788
@@ -26,4 +26,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo yum install thunderbird.x86_64-45.6.0 -y 
+sudo yum install thunderbird.x86_64-45.7.0 -y 
