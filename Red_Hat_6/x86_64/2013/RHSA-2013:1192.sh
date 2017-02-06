@@ -4,7 +4,7 @@
 # Security fix for RHSA-2013:1192
 #
 # Security announcement date: 2013-09-03 20:39:55 UTC
-# Script generation date:     2017-01-01 21:14:49 UTC
+# Script generation date:     2017-02-06 21:23:55 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -15,9 +15,9 @@
 #   - spice-server-devel.x86_64:0.12.0-12.el6_4.3
 #
 # Last versions recommanded by security team:
-#   - spice-server.x86_64:0.12.4-13.el6.1
-#   - spice-server-debuginfo.x86_64:0.12.4-13.el6.1
-#   - spice-server-devel.x86_64:0.12.4-13.el6.1
+#   - spice-server.x86_64:0.12.4-13.el6_8.2
+#   - spice-server-debuginfo.x86_64:0.12.4-13.el6_8.2
+#   - spice-server-devel.x86_64:0.12.4-13.el6_8.2
 #
 # CVE List:
 #   - CVE-2013-4130

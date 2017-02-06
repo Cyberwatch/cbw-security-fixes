@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0780
 #
 # Security announcement date: 2016-05-10 18:58:35 UTC
-# Script generation date:     2017-01-01 21:17:14 UTC
+# Script generation date:     2017-02-06 21:25:52 UTC
 #
 # Operating System: Red Hat 6
 # Architecture: x86_64
@@ -17,11 +17,11 @@
 #   - ntp-perl.x86_64:4.2.6p5-10.el6
 #
 # Last versions recommanded by security team:
-#   - ntp.x86_64:4.2.6p5-5.el6_7.5
-#   - ntp-debuginfo.x86_64:4.2.6p5-5.el6_7.5
-#   - ntpdate.x86_64:4.2.6p5-5.el6_7.5
-#   - ntp-doc.noarch:4.2.6p5-5.el6_7.5
-#   - ntp-perl.x86_64:4.2.6p5-5.el6_7.5
+#   - ntp.x86_64:4.2.6p5-10.el6_8.2
+#   - ntp-debuginfo.x86_64:4.2.6p5-10.el6_8.2
+#   - ntpdate.x86_64:4.2.6p5-10.el6_8.2
+#   - ntp-doc.noarch:4.2.6p5-10.el6_8.2
+#   - ntp-perl.x86_64:4.2.6p5-10.el6_8.2
 #
 # CVE List:
 #   - CVE-2015-5194

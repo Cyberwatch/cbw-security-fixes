@@ -4,7 +4,7 @@
 # Security fix for RHSA-2016:0063
 #
 # Security announcement date: 2016-01-25 13:55:36 UTC
-# Script generation date:     2017-01-01 21:16:55 UTC
+# Script generation date:     2017-02-06 21:25:39 UTC
 #
 # Operating System: Red Hat 7
 # Architecture: x86_64
@@ -18,12 +18,12 @@
 #   - sntp.x86_64:4.2.6p5-22.el7_2.1
 #
 # Last versions recommanded by security team:
-#   - ntp.x86_64:4.2.6p5-25.el7
-#   - ntp-debuginfo.x86_64:4.2.6p5-25.el7
-#   - ntpdate.x86_64:4.2.6p5-25.el7
-#   - ntp-doc.noarch:4.2.6p5-25.el7
-#   - ntp-perl.noarch:4.2.6p5-25.el7
-#   - sntp.x86_64:4.2.6p5-25.el7
+#   - ntp.x86_64:4.2.6p5-25.el7_3.1
+#   - ntp-debuginfo.x86_64:4.2.6p5-25.el7_3.1
+#   - ntpdate.x86_64:4.2.6p5-25.el7_3.1
+#   - ntp-doc.noarch:4.2.6p5-25.el7_3.1
+#   - ntp-perl.noarch:4.2.6p5-25.el7_3.1
+#   - sntp.x86_64:4.2.6p5-25.el7_3.1
 #
 # CVE List:
 #   - CVE-2015-8138
