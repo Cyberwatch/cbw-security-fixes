@@ -4,7 +4,7 @@
 # Security fix for USN-2372-1
 #
 # Security announcement date: 2014-10-14 00:00:00 UTC
-# Script generation date:     2017-01-27 21:05:18 UTC
+# Script generation date:     2017-02-06 21:03:42 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - firefox:33.0+build2-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:51.0.1+build2-0ubuntu0.14.04.1
+#   - firefox:51.0.1+build2-0ubuntu0.14.04.2
 #
 # CVE List:
 #   - CVE-2014-1574
@@ -33,4 +33,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=51.0.1+build2-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade firefox=51.0.1+build2-0ubuntu0.14.04.2 -y

@@ -4,7 +4,7 @@
 # Security fix for USN-2995-1
 #
 # Security announcement date: 2016-06-09 00:00:00 UTC
-# Script generation date:     2017-01-01 21:05:29 UTC
+# Script generation date:     2017-02-06 21:05:33 UTC
 #
 # Operating System: Ubuntu 16.04 LTS
 # Architecture: i386
@@ -15,7 +15,7 @@
 #
 # Last versions recommanded by security team:
 #   - squid-cgi:3.5.12-1ubuntu7.2
-#   - squid3:3.5.12-1ubuntu7.2
+#   - squid3:3.5.12-1ubuntu7.3
 #
 # CVE List:
 #   - CVE-2016-3947
@@ -33,4 +33,4 @@
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
 sudo apt-get install --only-upgrade squid-cgi=3.5.12-1ubuntu7.2 -y
-sudo apt-get install --only-upgrade squid3=3.5.12-1ubuntu7.2 -y
+sudo apt-get install --only-upgrade squid3=3.5.12-1ubuntu7.3 -y

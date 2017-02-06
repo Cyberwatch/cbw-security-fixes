@@ -4,7 +4,7 @@
 # Security fix for USN-2422-1
 #
 # Security announcement date: 2014-11-25 00:00:00 UTC
-# Script generation date:     2017-01-01 21:04:05 UTC
+# Script generation date:     2017-02-06 21:03:48 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - squid3:3.3.8-1ubuntu6.2
 #
 # Last versions recommanded by security team:
-#   - squid3:3.3.8-1ubuntu6.8
+#   - squid3:3.3.8-1ubuntu6.9
 #
 # CVE List:
 #   - CVE-2014-7141
@@ -23,4 +23,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade squid3=3.3.8-1ubuntu6.8 -y
+sudo apt-get install --only-upgrade squid3=3.3.8-1ubuntu6.9 -y

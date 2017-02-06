@@ -4,7 +4,7 @@
 # Security fix for USN-2707-1
 #
 # Security announcement date: 2015-08-07 00:00:00 UTC
-# Script generation date:     2017-01-27 21:06:01 UTC
+# Script generation date:     2017-02-06 21:04:30 UTC
 #
 # Operating System: Ubuntu 14.04 LTS
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - firefox:39.0.3+build2-0ubuntu0.14.04.1
 #
 # Last versions recommanded by security team:
-#   - firefox:51.0.1+build2-0ubuntu0.14.04.1
+#   - firefox:51.0.1+build2-0ubuntu0.14.04.2
 #
 # CVE List:
 #   - CVE-2015-4495
@@ -22,4 +22,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade firefox=51.0.1+build2-0ubuntu0.14.04.1 -y
+sudo apt-get install --only-upgrade firefox=51.0.1+build2-0ubuntu0.14.04.2 -y
