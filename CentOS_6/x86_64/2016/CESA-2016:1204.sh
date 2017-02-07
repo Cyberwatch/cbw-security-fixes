@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:1204
 #
 # Security announcement date: 2016-06-07 14:48:31 UTC
-# Script generation date:     2017-01-01 21:11:49 UTC
+# Script generation date:     2017-02-07 21:13:25 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - spice-server-devel.x86_64:0.12.4-13.el6.1
 #
 # Last versions recommanded by security team:
-#   - spice-server.x86_64:0.12.4-13.el6.1
-#   - spice-server-devel.x86_64:0.12.4-13.el6.1
+#   - spice-server.x86_64:0.12.4-13.el6_8.2
+#   - spice-server-devel.x86_64:0.12.4-13.el6_8.2
 #
 # CVE List:
 #   - CVE-2016-0749

@@ -4,7 +4,7 @@
 # Security fix for CESA-2016:0780
 #
 # Security announcement date: 2016-05-16 10:19:19 UTC
-# Script generation date:     2017-01-01 21:11:49 UTC
+# Script generation date:     2017-02-07 21:13:25 UTC
 #
 # Operating System: CentOS 6
 # Architecture: i386
@@ -16,10 +16,10 @@
 #   - ntp-perl.i686:4.2.6p5-10.el6.centos
 #
 # Last versions recommanded by security team:
-#   - ntp.i686:4.2.6p5-10.el6.centos
-#   - ntpdate.i686:4.2.6p5-10.el6.centos
-#   - ntp-doc.noarch:4.2.6p5-10.el6.centos
-#   - ntp-perl.i686:4.2.6p5-10.el6.centos
+#   - ntp.i686:4.2.6p5-10.el6.centos.2
+#   - ntpdate.i686:4.2.6p5-10.el6.centos.2
+#   - ntp-doc.noarch:4.2.6p5-10.el6.centos.2
+#   - ntp-perl.i686:4.2.6p5-10.el6.centos.2
 #
 # CVE List:
 #   - CVE-2015-5194

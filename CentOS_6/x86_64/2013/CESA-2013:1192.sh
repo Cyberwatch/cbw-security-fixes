@@ -4,7 +4,7 @@
 # Security fix for CESA-2013:1192
 #
 # Security announcement date: 2013-09-03 21:44:42 UTC
-# Script generation date:     2017-01-01 21:10:48 UTC
+# Script generation date:     2017-02-07 21:12:27 UTC
 #
 # Operating System: CentOS 6
 # Architecture: x86_64
@@ -14,8 +14,8 @@
 #   - spice-server-devel.x86_64:0.12.0-12.el6_4.3
 #
 # Last versions recommanded by security team:
-#   - spice-server.x86_64:0.12.4-13.el6.1
-#   - spice-server-devel.x86_64:0.12.4-13.el6.1
+#   - spice-server.x86_64:0.12.4-13.el6_8.2
+#   - spice-server-devel.x86_64:0.12.4-13.el6_8.2
 #
 # CVE List:
 #   - CVE-2013-4130
