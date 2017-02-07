@@ -4,7 +4,7 @@
 # Security fix for DLA-782-1
 #
 # Security announcement date: 2017-01-13 00:00:00 UTC
-# Script generation date:     2017-02-06 21:17:16 UTC
+# Script generation date:     2017-02-07 21:10:10 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -18,12 +18,12 @@
 #   - icedove:45.6.0-2
 #
 # Last versions recommanded by security team:
-#   - icedove:1:45.6.0-2~deb7u1
-#   - icedove:1:45.6.0-2~deb7u1
-#   - icedove:1:45.6.0-2~deb7u1
-#   - icedove:1:45.6.0-2~deb7u1
-#   - icedove:1:45.6.0-2~deb7u1
-#   - icedove:1:45.6.0-2~deb7u1
+#   - icedove:45.6.0-2~deb7u1
+#   - icedove:45.6.0-2~deb7u1
+#   - icedove:45.6.0-2~deb7u1
+#   - icedove:45.6.0-2~deb7u1
+#   - icedove:45.6.0-2~deb7u1
+#   - icedove:45.6.0-2~deb7u1
 #
 # CVE List:
 #   - CVE-2016-9893
@@ -39,9 +39,9 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade icedove=1:45.6.0-2~deb7u1 -y
-sudo apt-get install --only-upgrade icedove=1:45.6.0-2~deb7u1 -y
-sudo apt-get install --only-upgrade icedove=1:45.6.0-2~deb7u1 -y
-sudo apt-get install --only-upgrade icedove=1:45.6.0-2~deb7u1 -y
-sudo apt-get install --only-upgrade icedove=1:45.6.0-2~deb7u1 -y
-sudo apt-get install --only-upgrade icedove=1:45.6.0-2~deb7u1 -y
+sudo apt-get install --only-upgrade icedove=45.6.0-2~deb7u1 -y
+sudo apt-get install --only-upgrade icedove=45.6.0-2~deb7u1 -y
+sudo apt-get install --only-upgrade icedove=45.6.0-2~deb7u1 -y
+sudo apt-get install --only-upgrade icedove=45.6.0-2~deb7u1 -y
+sudo apt-get install --only-upgrade icedove=45.6.0-2~deb7u1 -y
+sudo apt-get install --only-upgrade icedove=45.6.0-2~deb7u1 -y

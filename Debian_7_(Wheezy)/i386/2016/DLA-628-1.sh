@@ -4,7 +4,7 @@
 # Security fix for DLA-628-1
 #
 # Security announcement date: 2016-09-18 00:00:00 UTC
-# Script generation date:     2017-01-01 21:09:19 UTC
+# Script generation date:     2017-02-07 21:09:59 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: i386
@@ -13,7 +13,7 @@
 #   - php5:5.4.45-0+deb7u5
 #
 # Last versions recommanded by security team:
-#   - php5:5.4.45-0+deb7u6
+#   - php5:5.4.45-0+deb7u7
 #
 # CVE List:
 #   - CVE-2016-4473
@@ -39,4 +39,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u6 -y
+sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u7 -y

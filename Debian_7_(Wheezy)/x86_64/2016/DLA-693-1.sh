@@ -4,7 +4,7 @@
 # Security fix for DLA-693-1
 #
 # Security announcement date: 2016-11-02 00:00:00 UTC
-# Script generation date:     2017-01-24 21:11:06 UTC
+# Script generation date:     2017-02-07 21:10:05 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - tiff:4.0.2-6+deb7u7
 #
 # Last versions recommanded by security team:
-#   - tiff:4.0.2-6+deb7u9
+#   - tiff:4.0.2-6+deb7u10
 #
 # CVE List:
 #   - CVE-2014-8128
@@ -38,4 +38,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tiff=4.0.2-6+deb7u9 -y
+sudo apt-get install --only-upgrade tiff=4.0.2-6+deb7u10 -y

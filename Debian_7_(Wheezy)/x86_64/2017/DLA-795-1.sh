@@ -4,7 +4,7 @@
 # Security fix for DLA-795-1
 #
 # Security announcement date: 2017-01-23 00:00:00 UTC
-# Script generation date:     2017-01-25 21:14:22 UTC
+# Script generation date:     2017-02-07 21:10:10 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - tiff:4.0.2-6+deb7u9
 #
 # Last versions recommanded by security team:
-#   - tiff:4.0.2-6+deb7u9
+#   - tiff:4.0.2-6+deb7u10
 #
 # CVE List:
 #   - CVE-2016-3622
@@ -36,4 +36,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tiff=4.0.2-6+deb7u9 -y
+sudo apt-get install --only-upgrade tiff=4.0.2-6+deb7u10 -y
