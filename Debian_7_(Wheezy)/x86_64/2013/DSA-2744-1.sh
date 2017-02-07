@@ -4,7 +4,7 @@
 # Security fix for DSA-2744-1
 #
 # Security announcement date: 2013-08-27 00:00:00 UTC
-# Script generation date:     2017-01-24 21:05:42 UTC
+# Script generation date:     2017-02-07 21:04:52 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - tiff:4.0.2-6+deb7u2
 #
 # Last versions recommanded by security team:
-#   - tiff:4.0.2-6+deb7u9
+#   - tiff:4.0.2-6+deb7u10
 #
 # CVE List:
 #   - CVE-2013-4231
@@ -24,4 +24,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade tiff=4.0.2-6+deb7u9 -y
+sudo apt-get install --only-upgrade tiff=4.0.2-6+deb7u10 -y

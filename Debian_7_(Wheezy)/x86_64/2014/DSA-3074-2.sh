@@ -4,7 +4,7 @@
 # Security fix for DSA-3074-2
 #
 # Security announcement date: 2014-11-19 00:00:00 UTC
-# Script generation date:     2017-01-01 21:07:06 UTC
+# Script generation date:     2017-02-07 21:05:23 UTC
 #
 # Operating System: Debian 7 (Wheezy)
 # Architecture: x86_64
@@ -13,7 +13,7 @@
 #   - php5:5.4.35-0+deb7u2
 #
 # Last versions recommanded by security team:
-#   - php5:5.4.45-0+deb7u6
+#   - php5:5.4.45-0+deb7u7
 #
 # CVE List:
 #
@@ -21,4 +21,4 @@
 #   - https://www.cyberwatch.fr/vulnerabilites
 #
 # Licence: Released under The MIT License (MIT), See LICENSE FILE
-sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u6 -y
+sudo apt-get install --only-upgrade php5=5.4.45-0+deb7u7 -y
